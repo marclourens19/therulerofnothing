@@ -96,9 +96,13 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 
 - **Core (the author's words):** "a stubborn princess who stands up for herself and never backs down from what she wants." She's a bit of a tsundere (when she loves Alaric). She's never cocky, and she says sorry. She has emotions and cares deeply for those around her.
 - **References:** like Alisaie (FFXIV), but more like Shoko Nishimiya (*A Silent Voice*).
+- **When each shows:** Alisaie in everyday life. Shoko when she is with someone she's extremely comfortable with.
+- **The twins are deliberate.** Alaric takes from Alphinaud and Seralune from Alisaie, his twin, to show their connection to one another.
 - **Flaw.** She's very compassionate, which makes her want to help everyone, be friends with everyone and have the best image. Because of this she often takes control of situations, and they end badly. She needs to learn that people must choose for themselves, and that her way isn't always the only way.
 - **Her side of the volume's question.** She is told she was sealed for her own good. She doesn't remember it, or making any decision for herself, so it scares her and she rejects it.
 - **What she wants (the author's words):** "a world where people don't have to fear those with nothing, or herself." "A world where people don't have to choose what they want, because they have everything they need."
+- **Her wish is deliberately the seed of her antagonist arc.** She wants to choose for others. People don't want that; they want their own freedom of choice.
+- **Volume 1 goal.** She wants to escape a system that is choosing to lock her away because everyone tells her she's dangerous. She knows she isn't: she's a kind person who just wants to help everyone. Her mother opposed her sealing, and she wants answers on why they sealed her, directly from her mother.
 
 ## Gerolt Warde
 
@@ -171,14 +175,13 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 
 ### Seralune
 
-- **Alisaie or Shoko, and where?** Alisaie is fiery and blunt; Shoko is gentle, apologises constantly and blames herself. Which one shows in which situations?
-- **The twins.** Alaric is part Alphinaud and Seralune part Alisaie, and those two are twins. Is that deliberate?
-- **What does "tsundere" look like for her?** The design bible warns against "flirtation wearing armour". Her friction with Alaric needs a real source.
+- **What does "tsundere" look like for her?** The design bible warns against "flirtation wearing armour", so her friction with Alaric needs a real source. One candidate from existing decisions: she can't stop helping and takes control to do it, while he won't let anyone help him.
 - **"The best image": in whose eyes?** The court's, the people's, Nereth's?
-- **Worth or choice?** Is her Volume 1 question the same as his (worth), or its sibling (who gets to decide)?
-- **"People don't have to choose": is that deliberate?** It's the opposite of her lesson and of the series ending, where people are free to choose.
+- **One question, or two?** Alaric's question is "What am I worth?" Seralune's, from what you've said, sounds more like "Who gets to decide my life?" Is it the same question for both of them, or one each?
 - **Shoko's darkness.** In the film, Shoko's self-blame leads her to a suicide attempt. Is that depth part of what you're taking, or only her gentleness and her apologies?
-- **Her immediate goal in Volume 1:** a verb. The world she wants is her deeper desire, not what she's doing this volume.
+- **Her mother's opposition.** When and how does Seralune learn that her mother opposed the sealing? In the old version she didn't know at first.
+- **The trail.** How far does her mother's trail get in Volume 1? In the old version it ended in ashes at the Lily Steps.
+- **Her wrong belief.** Is "I know I'm not dangerous" the belief Volume 1 breaks? Her feelings already hurt Nereth before the tear.
 
 ### Gerolt
 
