@@ -13,6 +13,9 @@ The story is being re-planned from the beginning. Current work lives in **New - 
   - The old files each decision now conflicts with.
 - **`The Ruler of Nothing - Narrative and Web-Novel Design Bible.md`**: the craft reference for the rewrite.
 - **`Volume 1/`**: the re-planned manuscript. It starts with Chapter 1, which is being refined before Chapter 2 onward is written.
+  - `Chapter 1 - Revision Notes.md`: what to keep and what to change in Chapter 1.
+  - `Chapter 1 - Changes.md`: every change in the latest revision, with its before and after.
+  - `Drafts/`: earlier versions of the chapters, kept unchanged.
 
 ## Old - Before Re-plan
 

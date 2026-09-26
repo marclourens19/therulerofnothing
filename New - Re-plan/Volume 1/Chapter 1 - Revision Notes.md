@@ -1,6 +1,8 @@
 # Chapter 1: Revision Notes
 
-Written on 26 September 2026 after rereading the chapter against `Decisions.md`. Line numbers refer to `Chapter 1 - A War Without Sound.md` as it stands now.
+Written on 26 September 2026 after rereading the chapter against `Decisions.md`.
+
+**Revision 1 has now been applied.** Every change, with its before and after, is in `Chapter 1 - Changes.md`. Line numbers in these notes refer to the draft as it was before, saved in `Drafts/Chapter 1 - A War Without Sound (Draft 1, before revision).md`.
 
 The author considers this chapter close to the model for the rest of the story. These notes separate:
 - what to **keep** (the model);
@@ -76,7 +78,7 @@ The author considers this chapter close to the model for the rest of the story. 
 
 - **The same question three times:** what he remembers before waking (287–289, 343, 451–457).
 - **"Leave the clothes alone" three times** (321, 347, 355).
-- **"Nothing" 26 times.** Exact repeats: "nothing else he could do" (31, 551), "Nothing came (out)" (7, 327). Also the watch-list phrase "Nothing inside him answered" (385). It's the title word, so keep it rare.
+- **"Nothing" 24 times.** Exact repeats: "nothing else he could do" (31, 551), "Nothing came (out)" (7, 327). Also the watch-list phrase "Nothing inside him answered" (385). It's the title word, so keep it rare.
 - **"Almost heard" three times** before Chapter 2 pays it off (513, 523, 561).
 - **Point of view (235):** "He talked through the whole walk back" while the boy is unconscious.
 - **Leftover from joining two drafts (137):** "He found no wound beneath it" repeats line 103.
@@ -86,15 +88,15 @@ The author considers this chapter close to the model for the rest of the story. 
 - **The last line (697):** it's in italics but third person, and "he" could mean Gerolt or the boy. Its source is "the same empty place that had given him the word 『Magic』", which now fits the ancient-word lore well.
 - **The heading format** differs from the old Rewrites files.
 
-## 5. Undecided: needed before revising
+## 5. Decided before revising
 
 1. ~~Is the flame scene locked?~~ Yes.
-2. Which belief stays wrong: line 139 (he concludes the dead were his people) or line 571 (he concludes he was what they came to stop)?
-3. Does Gerolt expect people by morning (neighbours, the church, soldiers)? If he does, the cabin has a deadline.
-4. Does Gerolt know about the secret agreement that lets Natharul's scouts roam Mydea? That knowledge would be the first real hint of his Avarice past.
-5. Should the sword under the floor be planted in Chapter 1, for example by where Gerolt looks first when the hoofbeats come?
-6. Is "the boy" still the narration's only name for him in Chapter 1?
-7. Does Gerolt's surname, Warde, appear when he introduces himself?
+2. ~~Which belief stays wrong?~~ Line 571: he concludes he was what they came to stop. Line 139 stays a question.
+3. ~~Does Gerolt expect people by morning?~~ Yes. The riders arrive early.
+4. ~~Does Gerolt know about the scout agreement?~~ Yes, shown and never explained.
+5. ~~Plant the sword?~~ Yes, with one glance at the floor under the table.
+6. ~~Keep "the boy"?~~ Yes, with one age cue ("twenty winters, maybe").
+7. ~~Does "Warde" appear?~~ No. First name only in Chapter 1.
 
 ## 6. About the later chapters
 

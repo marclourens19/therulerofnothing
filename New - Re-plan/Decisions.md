@@ -150,13 +150,20 @@ These are rough shapes, not deadlines. The design bible warns against scheduling
 
 - **Purpose:** it's about him not knowing anything.
 - **Gerolt reacts to the dead elves** on his land.
-- **An uncorrected wrong belief.** At least one belief he forms in Chapter 1 stays uncorrected; the reader learns later that it was wrong. *Which belief: open.*
+- **An uncorrected wrong belief.** At least one belief he forms in Chapter 1 stays uncorrected; the reader learns later that it was wrong. It's the running figure (below).
 - **Why he's shocked when he sees magic:** he has forgotten everything about himself and everything around him. The spell a thousand years ago literally erased his existence.
 - **The flame (locked).** During the Affinity questioning, Gerolt summons a flicker of flame in his hand to show the boy. The boy is shocked. He recognises magic "from outside", drawing the resemblance, but knows something is missing inside himself.
   - The boy *thinks* "magic"; he doesn't say it aloud.
   - Gerolt uses his fire every day. It isn't something he has put away.
   - A small, controlled flicker is compatible with him not using fire in a fight until his last stand.
 - **Revision format.** When the corrected chapter is written, show the author what changed and what was added, each as a before and after.
+- **The belief that stays wrong (line 571).** He concludes the running figure was coming to stop him. The reader later learns she was running to reach him. This echoes the Volume 3 climax, where he takes Seralune for an assassin. "*Was I here with them?*" stays a question he can't answer.
+- **A deadline.** Gerolt knows that by morning people will come (neighbours, the church, soldiers) and that someone will talk. He never decides what to do with the boy before the riders arrive.
+- **Gerolt knows about the secret scout agreement.** It's shown and never explained: what shocks him is that they're *seen*.
+- **The sword is planted with one glance** at the floor under the table when the hoofbeats come. There's no explanation.
+- **The narration keeps "the boy",** with one age cue restored: Gerolt guesses "twenty winters, maybe".
+- **Gerolt's surname stays out of Chapter 1.** "Warde" comes later, from someone who knew him.
+- **Revision 1 applied (26 September).** Every change is listed with its before and after in `Volume 1/Chapter 1 - Changes.md`, and each one is waiting for the author's approval. The earlier draft is kept in `Volume 1/Drafts/`.
 
 ## Alaric
 
@@ -358,14 +365,8 @@ These are rough shapes, not deadlines. The design bible warns against scheduling
 
 ### Chapter 1
 
-- Which of his Chapter 1 beliefs stays wrong until later? Two candidates already on the page are mirror images of each other:
-  - **Line 139, "*Was I here with them?*"** He concludes that the dead were his own people. Later the reader learns that every army on the field came for him.
-  - **Line 571, the running figure.** He concludes "I was what they came to stop." Later, in Chapters 29–30, the reader learns she was running to reach him.
-- Line 571 currently has him voice both guesses about the running figure. For the flaw to work, he would have to settle on one.
-- The flicker of flame: since fire on himself burns him, does showing the boy mark Gerolt's palm?
+- The flicker of flame: since fire on himself burns him, does showing the boy mark Gerolt's palm? *Revision 1 proposes yes: his palm reddens and he doesn't mention it. Waiting for approval.*
 - Should Chapter 1 hint at his willingness to kill? "Chapter 1 is about him not knowing anything" suggests not. *Confirm.*
-- Does Gerolt expect people to arrive by morning (neighbours, the church, soldiers)? If he does, the cabin scene has a deadline.
-- The narration calls him "the boy" and Gerolt calls him "lad". Should both stay, given he's twenty? The new draft also lost the line that told readers his age ("Barely twenty winters on you").
 - Should Chapter 1 carry the horror that nobody on earth knows him? It's the opposite of Subaru's situation, where everyone knows him and he doesn't know them.
 
 ### Seralune
@@ -483,7 +484,7 @@ None of these have been changed yet. They're listed so nothing is forgotten when
 
 ### Natharul scouts: always present, never seen
 
-- `New - Re-plan/Volume 1/Chapter 1 - A War Without Sound.md:621`: "Riding openly across Mydean fields… They shouldn't be here. Not ever." Under the new rule the scouts are always here. What should shock Gerolt is that they can be *seen*: they're riding openly with torches.
+- `New - Re-plan/Volume 1/Chapter 1 - A War Without Sound.md:621`: "Riding openly across Mydean fields… They shouldn't be here. Not ever." Under the new rule the scouts are always here. What should shock Gerolt is that they can be *seen*: they're riding openly with torches. *Revision 1: now "They're letting themselves be seen" (change 36). The line number refers to the draft in `Volume 1/Drafts/`.*
 - `Old - Before Re-plan/World Bible/The World.md:359` says the same thing and treats it as a breach of the peace arrangement.
 
 ### No one knows Alaric from the past
@@ -496,11 +497,11 @@ None of these have been changed yet. They're listed so nothing is forgotten when
 
 ### Chapter 1 fixes from the first review
 
-These still apply unless the rewrite removes the scenes involved.
+Revision 1 (see `Volume 1/Chapter 1 - Changes.md`) deals with the ones inside Chapter 1. The callbacks in old chapters wait until those chapters are replanned.
 
-- "Empty" is never spoken, but Chapter 2:305 and Chapter 7:567 and :601 depend on it.
+- "Empty" is never spoken, but Chapter 2:305 and Chapter 7:567 and :601 depend on it. *Revision 1: now spoken (change 25).*
 - Gerolt's mug gesture is recalled in Chapter 13:333.
-- Gerolt's beastfolk line is quoted in Chapter 28 (Part 2):39.
-- Time of day: "senseless since morning" clashes with noon and Chapter 2's "this afternoon".
-- Line 235 has a point-of-view slip: he "talked through the whole walk back" while the boy is unconscious.
-- Line 137 repeats "no wound" from the opening.
+- Gerolt's beastfolk line is quoted in Chapter 28 (Part 2):39. *Revision 1 leaves that line as it was.*
+- Time of day: "senseless since morning" clashes with noon and Chapter 2's "this afternoon". *Revision 1: now "since midday" (change 11).*
+- Line 235 has a point-of-view slip: he "talked through the whole walk back" while the boy is unconscious. *Revision 1: fixed (change 8).*
+- Line 137 repeats "no wound" from the opening. *Revision 1: fixed (change 7).*
