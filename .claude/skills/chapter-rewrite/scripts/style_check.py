@@ -20,7 +20,7 @@ US_SPELLINGS = r'\b(toward|afterward|color\w*|armor\w*|gray|center\w*|favor\w*|h
 IZE_OK = {'size', 'sizes', 'sized', 'prize', 'prizes', 'prized', 'seize', 'seizes', 'seized', 'seizing',
           'capsize', 'capsized', 'baize', 'maize', 'citizen', 'citizens', 'downsize', 'oversize', 'oversized'}
 OATHS = r'by the four\b|by the eight\b|before the eight|four preserve \w+|last dark take \w+|in the last dark|' \
-        r'\bshite?\b|\bdamn\w*'
+        r'\bshite?\b|\bdamn\w*|\bfuck\w*|\bbastard\w*|\bbloody hell\b'
 FINGERPRINTS = {
     '"not X, but Y"': r'\bnot\b[^.!?"]{1,60}, but\b',
     '"for a moment"': r'\bfor (a|one) moment\b',

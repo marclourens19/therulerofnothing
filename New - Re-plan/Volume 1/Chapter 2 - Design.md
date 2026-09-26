@@ -1,6 +1,6 @@
 # Chapter 2: Design
 
-Started 26 September 2026. This is the plan for Chapter 2, agreed with the author one question at a time before any writing. It follows the `chapter-rewrite` skill: most of the old chapter will change, so the plan comes first.
+Started 26 September 2026. **Status:** the first draft is written (`Chapter 2 - The Price of a Voice.md`). It's compared with the old chapter in `Chapter 2 - From the Old Chapter.md`, and it's waiting for the author's review. This is the plan for Chapter 2, agreed with the author one question at a time before any writing. It follows the `chapter-rewrite` skill: most of the old chapter will change, so the plan comes first.
 
 ## Already fixed by decisions
 

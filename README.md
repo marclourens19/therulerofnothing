@@ -15,6 +15,8 @@ The story is being re-planned from the beginning. Current work lives in **New - 
 - **`Volume 1/`**: the re-planned manuscript. It starts with Chapter 1, which is being refined before Chapter 2 onward is written.
   - `Chapter 1 - Revision Notes.md`: what to keep and what to change in Chapter 1.
   - `Chapter 1 - Changes.md`: every change in the latest revision, with its before and after.
+  - `Chapter 2 - Design.md`: the plan for Chapter 2, agreed question by question.
+  - `Chapter 2 - From the Old Chapter.md`: the new Chapter 2 compared with the old one, scene by scene.
   - `Drafts/`: earlier versions of the chapters, kept unchanged.
 
 ## The rewriting skill
