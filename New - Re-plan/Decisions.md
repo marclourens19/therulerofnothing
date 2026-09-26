@@ -122,6 +122,11 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - **The sword:** instead of the token, Gerolt gives Alaric the sword he's been using. It's memorable, and Alaric can use it in the future.
 - **Sending him away (unconfirmed reading):** Gerolt still sends the boy away in Chapter 2, when he dies, not earlier. The author hasn't confirmed this.
 
+## The friends
+
+- **Alaric's:** Silas, Redd and Wena stay. **Seralune's:** Nereth stays.
+- **Each gets a full reset** of character, to make them unique.
+
 ## World
 
 ### The erasure
@@ -129,6 +134,8 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - **No one in the world knows Alaric from the past.**
 - **Except Time.** The Time bearer of a thousand years ago knew Alaric, and wanted to protect him against the coming war. That bearer's memories passed through time, because *time* remembers, not the person. The current Time bearer (in Kozmagar) doesn't know why he says "He's back." It just comes out.
 - **The ancient Time bearer took part in the ritual,** but activated a part of the spell that sent Alaric into the future instead, to protect his dearest friend: Alaric.
+- **The distance was random.** He just activated his Time magic; he didn't choose a thousand years. It could have been any length of time.
+- **Deliberate parallel:** both protagonists were saved without their consent by someone who loved them. Thaeroval sealed Seralune; the Time bearer sent Alaric away.
 - **Seralune does not remember Alaric** at the end of Volume 1.
 
 ### Seralune's mother, the queen
@@ -204,9 +211,8 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 
 ### Time
 
-- **Why a thousand years?** The Time bearer chose where to send his friend. What did he expect a thousand years to change?
+- **Exactly a thousand years, or roughly?** If the distance was random, an exact thousand looks designed, and readers will hunt for a reason. An uneven figure that people round to "a thousand" would support the randomness. The old canon says exactly one thousand.
 - **Did anyone in the ancient coalition learn what he did,** and what happened to him?
-- **Both protagonists were saved without consent** by someone who loved them: Thaeroval sealed Seralune, and the Time bearer sent Alaric away. Is that parallel deliberate?
 - **Does Time remember inside Alaric?** He carries Time too, dormant.
 
 ### Gerolt
