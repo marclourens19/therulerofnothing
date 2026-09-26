@@ -1,0 +1,77 @@
+# Volume 1 Picture
+
+Draft for approval, 26 September 2026. It's assembled only from the decisions in `Decisions.md`. Anything marked *Open* isn't decided yet.
+
+## The question
+
+**What is your worth when everyone tells you that you're nothing?**
+
+Volume 1 tests the question; it doesn't answer it.
+
+- **Alaric:** the world tells him he's nothing, Empty.
+- **Seralune:** the world tells her she's dangerous, and decides her life "for her own good".
+- *Reading to confirm:* by the end, each believes the verdict.
+
+## What the reader should feel
+
+- Something terrible happened a thousand years ago.
+- People are suffering, places are destroyed, and people are racist, "magicist" and cruel.
+- There is danger.
+- "I need to know more. Maybe, just maybe, the next chapter will answer it."
+- Small answers come constantly; the big ones are withheld.
+
+## Alaric
+
+- **Starts.** He wakes on a silent battlefield knowing nothing. He knows what things are, but has never experienced any of them.
+  - Gerolt Warde, a retired Eminent Fire user who only wanted peace with Wena, takes him in and calls him Empty.
+  - Gerolt gives him his sword, then dies in a last stand of fire.
+- **Wants:** to learn who he was.
+- **Flaw:** he carries everything alone, and believes things are right when they aren't.
+- **Five phases:**
+  1. **Displacement.** He wakes knowing nothing; Gerolt dies for him.
+  2. **Entanglement.** The road, the world's cruelty, friends, and clues to his past. He believes that if he finds who he was, he'll know what he's worth.
+  3. **Reversal.** The past answers him with nothing.
+  4. **Doubling down.** He chases harder, and alone.
+  5. **Consequence.** The tear passes through him while he's chasing his past.
+- **What he misses:** the life he's living now, with friends who care about him.
+- **Ends:** carrying it alone. He believes both "I am nothing" and "I killed thousands."
+
+## Seralune
+
+- **Starts.** She wakes sealed, told it was for her own good. She doesn't remember deciding anything, so it scares her and she rejects it.
+- **Wants, deep down:** a world where no one fears those with nothing, or her. A world where people don't have to choose, because they have everything they need. This is the seed of her antagonist arc.
+- **Wants, in Volume 1:** to escape the system that is locking her away, and to get answers from her mother, who opposed the sealing.
+- **Believes:** "How could I be dangerous? I never had magic." Everyone thinks her mana is simply a very large pool whose end no one has found.
+- **Arc:** people accuse her; then her own actions endanger people; then she comes to believe *she* is the problem.
+- **Ends.** She doesn't remember Alaric. She accepts responsibility and resolves to atone for deaths she didn't cause, and she and Nereth are held by the Holy bearer.
+
+## The tear
+
+- **Both of them reach at once:** he for his past, she for him. Her power passes through him, and he feels it.
+- **The cost:** thousands die, and the world blames Seralune.
+- **What people know:** no one knows the truth, not even Alaric, but he feels it was his fault. The reader suspects, and is never told.
+- **Two internal wars, each with its own shape:**
+  - His: "Why me, when I'm empty?"
+  - Hers: "Why must I? But I should."
+
+## What can never go back
+
+- Thousands are dead.
+- Seralune is hated for something she didn't choose.
+- He believes he's nothing and a killer; she believes she's the problem.
+- *Open:* where the tear happens, and what changes in the world because of it (the church, Natharul, Mydea).
+
+## Promise into Volume 2
+
+- Darcy's rescue, with his friends.
+- Alaric coming to terms with himself, and learning to accept help.
+- *Open:* what pulls Seralune's thread into Volume 2.
+
+## Still open for Volume 1
+
+- Where the tear happens, and who readers must have met there.
+- What exactly Alaric does that opens the way.
+- Who his friends are in the re-plan. In the old version they were Silas, Redd and Wena.
+- Nereth's and Thaeroval's arcs.
+- How far her mother's trail gets.
+- Why the church keeps Seralune alive.

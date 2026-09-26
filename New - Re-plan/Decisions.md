@@ -105,6 +105,9 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - **Volume 1 goal.** She wants to escape a system that is choosing to lock her away because everyone tells her she's dangerous. She knows she isn't: she's a kind person who just wants to help everyone. Her mother opposed her sealing, and she wants answers on why they sealed her, directly from her mother.
 - **Her belief across Volume 1.** At first she thinks, "How could I be dangerous? I never had magic." She says "magic" because she knows the word from a thousand years ago. People around her accuse her. Then her own actions endanger people, and she starts to believe she is the problem.
 - **Volume 1 breaks her into something dangerous.**
+- **Her mana.** She knows she has mana, and a lot of it. Everyone believes it's simply a very large pool: no one has been able to find its end. In truth it has none.
+- **Her last choice in Volume 1.** She accepts responsibility for who she was, even though that isn't her true self and she didn't actually do those things. Her internal war: "I need to atone for all these deaths. But was it me? Why must I? But I should."
+- **Where Volume 1 leaves her:** she and Nereth are held by the Holy bearer.
 
 ## Gerolt Warde
 
@@ -124,6 +127,8 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 ### The erasure
 
 - **No one in the world knows Alaric from the past.**
+- **Except Time.** The Time bearer of a thousand years ago knew Alaric, and wanted to protect him against the coming war. That bearer's memories passed through time, because *time* remembers, not the person. The current Time bearer (in Kozmagar) doesn't know why he says "He's back." It just comes out.
+- **Seralune does not remember Alaric** at the end of Volume 1.
 
 ### Seralune's mother, the queen
 
@@ -193,9 +198,14 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - **Shoko's darkness.** In the film, Shoko's self-blame leads her to a suicide attempt. Is that depth part of what you're taking, or only her gentleness and her apologies?
 - **Her mother's opposition.** Does Seralune learn it from the Order, as she did from Cyrandor in the old version?
 - **The trail.** How far does her mother's trail get in Volume 1? In the old version it ended in ashes at the Lily Steps.
-- **Does she know she has limitless mana?** In the old version she did, and felt defective for having no Affinity.
-- **Does the erasure rule include her?** By the end of Volume 1, does she remember Alaric (his face, his hand), as she did in the old Chapter 30, or not?
-- **Her last choice in Volume 1.** Alaric's is to carry it alone. What is hers?
+
+- **Why does the church keep her alive?** It hangs innocent elves (Nell), and it believes she killed thousands and broke its temple. Options from existing material: the Holy bearer's protection, leverage over Natharul (she's the king's daughter), or wanting her power.
+- **Two internal wars at one climax.** His ("Why me, when I'm empty?") and hers ("Why must I? But I should.") need different shapes. She keeps her own sensory language and doesn't borrow his.
+
+### Time
+
+- **Did the ancient Time bearer take part in the ritual?** In the old bible the ritual needed all four ancient bearers, and Time's part is what threw Alaric a thousand years forward. If that bearer wanted to protect him, did he refuse, get forced into it, or turn his part into the protection?
+- **Does Time remember inside Alaric?** He carries Time too, dormant.
 
 ### Gerolt
 
@@ -271,7 +281,7 @@ None of these have been changed yet. They're listed so nothing is forgotten when
 
 ### No one knows Alaric from the past
 
-- `Old - Before Re-plan/World Bible/The World.md:1049`: the old Volume 1 epilogue has the Kozmagar Time bearer say "He's back." Either he doesn't know *who* is back, or the rule has an exception.
+- `Old - Before Re-plan/World Bible/The World.md:1049`: the old epilogue's "He's back" is resolved (Time remembers, not the person), but the old ritual design in `The World.md` ("The Erasure Ritual") has all four ancient bearers, Time included, acting *against* him.
 
 ### Chapter 1 fixes from the first review
 

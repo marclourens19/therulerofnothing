@@ -6,6 +6,7 @@ The story is being re-planned from the beginning. Current work lives in **New - 
 
 ## New - Re-plan
 
+- **`Volume 1 Picture.md`**: the one-page shape of Volume 1, built from the decisions.
 - **`Decisions.md`**
   - Every decision made during the re-plan.
   - The questions still open.
