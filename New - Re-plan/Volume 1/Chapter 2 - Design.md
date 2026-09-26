@@ -53,7 +53,7 @@ The old chapter is in `Old - Before Re-plan/Volume 1 - Rewrites/Chapter 2 - The 
 
 ### Round 3 (answered 26 September)
 
-10. **Where the name comes from.** Through Chapter 1's vision, with the reaching hand and the mouth: "What is the gold at the cuff? I don't like that imagery, I like the hand reaching and the mouth." So there's no gold in Chapter 2. *Asked next:* should the gold also come out of Chapter 1?
+10. **Where the name comes from.** Through Chapter 1's vision, with the reaching hand and the mouth: "What is the gold at the cuff? I don't like that imagery, I like the hand reaching and the mouth." So there's no gold in Chapter 2. The gold has come out of Chapter 1 too ("Yes better").
 11. **Two moments at once.** Keep, trimmed and never explained.
 12. **The scouts.** The male is killed and never named to Alaric. Liluth is cut apart and escapes.
 13. **The swallowed name** stays unsaid.

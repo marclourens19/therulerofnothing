@@ -185,7 +185,7 @@ The plan is built in `Volume 1/Chapter 2 - Design.md`.
 - **The neighbours.** The elf threatens the other households. Gerolt hears it, looks at the boy, and picks up the sword. Nobody says what that choice costs, and the neighbours' fate is left for a later chapter.
 - **The elves are cocky and full of themselves.** The author's example: "Farmer, answer this damn door before we start knocking down others because of your silence."
 - **"Empty" as a name.** Gerolt calls him "Empty" once, gruffly, when he refuses to leave. Then the name replaces it.
-- **Where the name comes from.** It arrives through Chapter 1's vision, and this time he hears the word the running figure's mouth was shaping. The author likes the reaching hand and the mouth. The author doesn't like the gold at the cuff, so there's no gold in Chapter 2.
+- **Where the name comes from.** It arrives through Chapter 1's vision, and this time he hears the word the running figure's mouth was shaping. The author likes the reaching hand and the mouth. The author doesn't like the gold at the cuff, so there's no gold in Chapter 2, and it has been taken out of Chapter 1 as well (revision 4, changes 50–52).
 - **Two moments at once.** During the name vision the cabin shows two moments together (the door whole and shattered, Gerolt unhurt and bleeding). It's trimmed to two or three images and never explained.
 - **The scouts.** The male dies by the sword through his jaw, choking on his blood, and Alaric never learns his name. Liluth is cut apart (her eye, her face, her arm) and escapes. She heard him, and she returns later in Volume 1.
 - **The name Gerolt swallowed** stays unsaid. He dies without saying it, and it's a thread for later.

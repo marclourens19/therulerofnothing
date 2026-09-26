@@ -3,7 +3,7 @@
  "draft": "Chapter 1 - A War Without Sound (Draft 1, before revision).md",
  "chapter": "../Chapter 1 - A War Without Sound.md",
  "changes_file": "../Chapter 1 - Changes.md",
- "intro_md": "Written on 26 September 2026. This is every change made to `Chapter 1 - A War Without Sound.md` since the draft, each with a before, an after and a reason.\n\n- **Revision 1** (changes 1–37) carried out the agreed decisions and craft fixes.\n- **Revision 2** (changes 38–44) trimmed your own lines against principle 5: don't explain the meaning.\n- **Revision 3** (changes 45–49) is the final check: small craft fixes from a last full read.\n\n- The chapter as it was before is saved, unchanged, as `Drafts/Chapter 1 - A War Without Sound (Draft 1, before revision).md`. Any change you reject can go straight back from there.\n- **Draft line** numbers refer to that saved copy. **Revised line** numbers refer to the chapter as it stands now.\n- Nothing was changed that isn't listed here.\n- Changes 6, 19, 20, 25, 27 and 37 were trimmed after your note on over-explaining. Each one shows the trimmed version.",
+ "intro_md": "Written on 26 September 2026. This is every change made to `Chapter 1 - A War Without Sound.md` since the draft, each with a before, an after and a reason.\n\n- **Revision 1** (changes 1–37) carried out the agreed decisions and craft fixes.\n- **Revision 2** (changes 38–44) trimmed your own lines against principle 5: don't explain the meaning.\n- **Revision 3** (changes 45–49) is the final check: small craft fixes from a last full read.\n- **Revision 4** (changes 50–52) takes the gold at the running figure's cuff out of the vision, at your request.\n\n- The chapter as it was before is saved, unchanged, as `Drafts/Chapter 1 - A War Without Sound (Draft 1, before revision).md`. Any change you reject can go straight back from there.\n- **Draft line** numbers refer to that saved copy. **Revised line** numbers refer to the chapter as it stands now.\n- Nothing was changed that isn't listed here.\n- Changes 6, 19, 20, 25, 27 and 37 were trimmed after your note on over-explaining. Each one shows the trimmed version.",
  "glance": [
   "**Gerolt's failed laugh:** four times before (lines 103, 277, 417, 471). Now once, in your own line 103.",
   "**\"What do you remember before this morning?\":** asked three times before, once now.",
@@ -17,7 +17,8 @@
   "The cabin": "The cabin (draft lines 243–581)",
   "The riders": "The riders (draft lines 583–697)",
   "Revision 2": "Revision 2: your own lines, against principle 5",
-  "Revision 3": "Revision 3: the final check"
+  "Revision 3": "Revision 3: the final check",
+  "Revision 4": "Revision 4: the gold at the cuff"
  },
  "changes": [
   {
@@ -602,6 +603,45 @@
    "before": "The boy looked down at the hand clutching his sleeve and tried to let go. His fingers did not move. Gerolt followed his gaze. Instead of pulling away, he covered the boy's hand with his own.",
    "after": "The boy looked at his own hand, still clutching Gerolt's sleeve, and tried to let go. His fingers did not move. Gerolt followed his gaze. Instead of pulling away, he covered the boy's hand with his own.",
    "why": "\"His sleeve\" read as the boy's own sleeve. It's also one fewer \"looked down\"."
+  },
+  {
+   "section": "Revision 4",
+   "title": "\"Gold flashed at a wrist\"",
+   "kind": "changed",
+   "tags": [
+    "gold"
+   ],
+   "before": "White took it again, but the field did not return whole. Gold flashed at a wrist. A mouth moved without a face around it. Red mud struck his shins from a bootfall he neither saw nor heard.",
+   "after": "White took it again, but the field did not return whole. A mouth moved without a face around it. Red mud struck his shins from a bootfall he neither saw nor heard.",
+   "why": "You didn't like the gold imagery: \"I like the hand reaching and the mouth.\" The gold was the one link between the running figure and the riders' gold-lined armour. That link can come later through something else.",
+   "decision": "accepted",
+   "decision_note": "You asked for it: \"Yes better.\""
+  },
+  {
+   "section": "Revision 4",
+   "title": "The gold at the cuff",
+   "kind": "changed",
+   "tags": [
+    "gold"
+   ],
+   "before": "Mud blackened their sleeve to the elbow, but a narrow line of gold still showed at the cuff. The reaching hand opened, closed on empty air and reached again.",
+   "after": "Mud blackened their sleeve to the elbow. The reaching hand opened, closed on empty air and reached again.",
+   "why": "You didn't like the gold imagery: \"I like the hand reaching and the mouth.\" The gold was the one link between the running figure and the riders' gold-lined armour. That link can come later through something else.",
+   "decision": "accepted",
+   "decision_note": "You asked for it: \"Yes better.\""
+  },
+  {
+   "section": "Revision 4",
+   "title": "\"Gold thread\"",
+   "kind": "changed",
+   "tags": [
+    "gold"
+   ],
+   "before": "The image broke apart again: gold thread, an open hand, a mouth shaping the same word. This time, he almost heard it.",
+   "after": "The image broke apart again: an open hand, a mouth shaping the same word. This time, he almost heard it.",
+   "why": "You didn't like the gold imagery: \"I like the hand reaching and the mouth.\" The gold was the one link between the running figure and the riders' gold-lined armour. That link can come later through something else.",
+   "decision": "accepted",
+   "decision_note": "You asked for it: \"Yes better.\""
   }
  ]
 }

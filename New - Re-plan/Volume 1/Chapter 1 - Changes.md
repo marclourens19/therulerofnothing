@@ -5,6 +5,7 @@ Written on 26 September 2026. This is every change made to `Chapter 1 - A War Wi
 - **Revision 1** (changes 1–37) carried out the agreed decisions and craft fixes.
 - **Revision 2** (changes 38–44) trimmed your own lines against principle 5: don't explain the meaning.
 - **Revision 3** (changes 45–49) is the final check: small craft fixes from a last full read.
+- **Revision 4** (changes 50–52) takes the gold at the running figure's cuff out of the vision, at your request.
 
 - The chapter as it was before is saved, unchanged, as `Drafts/Chapter 1 - A War Without Sound (Draft 1, before revision).md`. Any change you reject can go straight back from there.
 - **Draft line** numbers refer to that saved copy. **Revised line** numbers refer to the chapter as it stands now.
@@ -13,8 +14,8 @@ Written on 26 September 2026. This is every change made to `Chapter 1 - A War Wi
 
 ## At a glance
 
-- **49 changes proposed.** 1 rejected so far, so 48 are in the chapter: 42 rewritten, 5 cut and 1 added.
-- **Length:** 6,434 words before, 6,392 after.
+- **52 changes proposed.** 1 rejected so far, so 51 are in the chapter: 45 rewritten, 5 cut and 1 added.
+- **Length:** 6,434 words before, 6,374 after.
 - **Median paragraph:** 14 words before, 13.5 after. The house target is roughly 14–22.
 - **"Nothing":** 24 times before, 19 after.
 - **Gerolt's failed laugh:** four times before (lines 103, 277, 417, 471). Now once, in your own line 103.
@@ -46,6 +47,9 @@ These changes add something about a character or the world that you haven't deci
 - **Change 43, Whose choice:** Agreed.
 - **Change 44, Enough for the boy:** Agreed.
 - **Change 46, Looking down, and "I wish I could tell you":** You chose "I don't know."
+- **Change 50, "Gold flashed at a wrist":** You asked for it: "Yes better."
+- **Change 51, The gold at the cuff:** You asked for it: "Yes better."
+- **Change 52, "Gold thread":** You asked for it: "Yes better."
 
 ## What each decision became
 
@@ -871,3 +875,53 @@ These changes add something about a character or the world that you haven't deci
 > The boy looked at his own hand, still clutching Gerolt's sleeve, and tried to let go. His fingers did not move. Gerolt followed his gaze. Instead of pulling away, he covered the boy's hand with his own.
 
 **Why.** "His sleeve" read as the boy's own sleeve. It's also one fewer "looked down".
+
+### Revision 4: the gold at the cuff
+
+#### 50. "Gold flashed at a wrist"
+
+*Draft line 499 → revised line 499*
+
+**Before**
+
+> White took it again, but the field did not return whole. Gold flashed at a wrist. A mouth moved without a face around it. Red mud struck his shins from a bootfall he neither saw nor heard.
+
+**After**
+
+> White took it again, but the field did not return whole. A mouth moved without a face around it. Red mud struck his shins from a bootfall he neither saw nor heard.
+
+**Why.** You didn't like the gold imagery: "I like the hand reaching and the mouth." The gold was the one link between the running figure and the riders' gold-lined armour. That link can come later through something else.
+
+**Your decision.** You asked for it: "Yes better."
+
+#### 51. The gold at the cuff
+
+*Draft line 503 → revised line 503*
+
+**Before**
+
+> Mud blackened their sleeve to the elbow, but a narrow line of gold still showed at the cuff. The reaching hand opened, closed on empty air and reached again.
+
+**After**
+
+> Mud blackened their sleeve to the elbow. The reaching hand opened, closed on empty air and reached again.
+
+**Why.** You didn't like the gold imagery: "I like the hand reaching and the mouth." The gold was the one link between the running figure and the riders' gold-lined armour. That link can come later through something else.
+
+**Your decision.** You asked for it: "Yes better."
+
+#### 52. "Gold thread"
+
+*Draft line 523 → revised line 523*
+
+**Before**
+
+> The image broke apart again: gold thread, an open hand, a mouth shaping the same word. This time, he almost heard it.
+
+**After**
+
+> The image broke apart again: an open hand, a mouth shaping the same word. This time, he almost heard it.
+
+**Why.** You didn't like the gold imagery: "I like the hand reaching and the mouth." The gold was the one link between the running figure and the riders' gold-lined armour. That link can come later through something else.
+
+**Your decision.** You asked for it: "Yes better."

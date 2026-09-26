@@ -133,6 +133,6 @@ Every addition changes something else. Once Gerolt says "Natharul" at the window
 ## 11. What the author approved and rejected
 
 - **Approved:** every structural decision; the flame with the reddened palm; one bowl, one coat, one bed; the stool facing the door; the elves and the dawn deadline; "Empty?"; the old class lore (the Faint, tested at ten); all the repetition and staging fixes.
-- **Rejected:** only the tooth image, a figurative line that explained the meaning.
+- **Rejected:** the tooth image, a figurative line that explained the meaning. Later, the gold at the running figure's cuff, a decorative clue: "I don't like that imagery, I like the hand reaching and the mouth." The author prefers plain bodily images to ornamental ones.
 - **Trimmed on request:** every addition that explained what a moment meant.
 - **Pattern:** the author accepts concrete behaviour and plain statement, and rejects interpretation. When in doubt, write the action and stop.
