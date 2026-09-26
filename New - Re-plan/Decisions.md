@@ -39,7 +39,13 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
   - people suffering and places destroyed;
   - people who are racist, "magicist" and cruel;
   - danger, and the feeling of "I need to know more; maybe, just maybe, the next chapter will answer it."
-- **Ending.** The current ending is decided slowly, mapped chapter by chapter until we get there.
+- **Emotional question (the author's words):** "What determines your worth when everyone tells you you are worth nothing, you are nothing, you are useless, empty and a nobody because you have nothing? In a world where power rules, the weak must follow and obey. But you can choose who you are, you can break free, you just need to do it, give it your all."
+- **Ending direction (the author's words):**
+  - "The 'tear' still happens in a sense, and thousands of people die."
+  - "The journey to get there is destroyed." *Meaning to be confirmed.*
+  - "The person who has nothing, trying to be a better person, is the one who does it."
+  - "He must question himself and find answers on how to live with this."
+- **Process.** The rest of the ending is decided slowly, mapped chapter by chapter until we get there.
 
 ## Chapter 1
 
@@ -105,6 +111,16 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - **What they fight:** the whole church, and the Affinity laws.
 
 ## Open questions
+
+### Volume 1 picture
+
+- "The journey to get there is destroyed": does this mean the current route to the tear (Chapters 2–29) gets replaced, or that something is destroyed along the way?
+- **What does he choose that causes the tear?** For it to be his mistake rather than fate, it has to come from a decision. Existing material that could feed this: in the current rewrite he hides the voice from everyone and lies to Redd and Silas about it.
+- **Seralune's part:** in the current Chapter 30, she reaches for him with everything. Does she still reach, making it a shared catastrophe, or is it his alone?
+- **Knowledge:** does he know straight away that he caused it? Who else knows, or blames him?
+- **Is "give it your all" the lesson of Volume 1, or the mistake?** Giving everything alone is also what his flaw says.
+- **Seralune and the question:** does her Volume 1 answer the same question from the other side? She has infinite mana, yet is treated as defective and dangerous.
+- Beyond the dead and his guilt, what else can never go back to how it was?
 
 ### Chapter 1
 
