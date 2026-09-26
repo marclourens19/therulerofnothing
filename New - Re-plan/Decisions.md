@@ -59,6 +59,15 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - **The answer he doesn't like:** he finds that he is nothing. The answer he finds *is* nothing, so that's what he feels he is.
 - **The act that causes the tear:** he causes it while chasing who he was, alone and on a wrong belief.
 - **Through him, not from him.** Seralune is the one who can use his Veiled powers, but he feels it pass through him.
+- **The mechanism:** both reach at once. He reaches for his past, she reaches for him, and her power goes through him. Chasing the past is literally what opens the way.
+- **His last choice in Volume 1:** he carries it alone. He tells no one what he felt pass through him, and shuts out the friends beside him.
+- **End state:** two beliefs that can't both be true: "I am nothing" and "I killed thousands."
+- **Volume 1 in the design bible's five phases (agreed):**
+  1. *Promise and displacement.* He wakes knowing nothing; Gerolt calls him Empty and dies for him. Goal: find out who he was.
+  2. *Rules and entanglement.* The road, the world's cruelty, friends, clues about his past. His working belief: "if I find out who I was, I'll know what I'm worth."
+  3. *Reversal.* The past answers him with nothing.
+  4. *Doubling down.* Instead of turning to the life he has, he chases harder, and alone.
+  5. *Choice and consequence.* The tear passes through him while he chases his past. Thousands die, and Seralune is blamed.
 
 ## Volume 2 (what's known so far)
 
@@ -133,8 +142,6 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 
 ### Volume 1 picture
 
-- **Alaric's last choice in Volume 1.** The design bible says a volume should end on a choice and a new condition, not just a wound. If coming to terms is Volume 2's work, what does he choose at the end of Volume 1?
-- **The mechanism, to confirm.** He reaches for his past, she reaches for him, and her power goes through him. Is it both of them reaching at once?
 - **Does Seralune believe it was her fault?**
 - **When does the truth come out, and to whom?** Which volume?
 - **Seralune and the question:** does her Volume 1 answer the same question from the other side? She has infinite mana, yet is treated as defective and dangerous.
