@@ -123,6 +123,12 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - **The sword:** instead of the token, Gerolt gives Alaric the sword he's been using. It's memorable, and Alaric can use it in the future.
 - **Sending him away (unconfirmed reading):** Gerolt still sends the boy away in Chapter 2, when he dies, not earlier. The author hasn't confirmed this.
 
+## Thaeroval
+
+- **Everything from the old version survives,** and he stays exactly as written. His entry in `Old - Before Re-plan/World Bible/The World.md` ("Thaeroval — Seralune's Elder Brother / First Blade / Dark Bearer") is the reference.
+- **What he wants in Volume 1:** his sister safe in his "chains". He believes he must choose for her the best way to keep her safe, and that is resealing her.
+- **He spares Alaric.** He's far more interested in reaching his sister than in doing anything to a boy who means nothing compared to her.
+
 ## The friends
 
 - **Alaric's:** Silas, Redd and Wena stay, and a new character joins: Freya, Redd's younger sister. **Seralune's:** Nereth stays.
@@ -305,6 +311,11 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 
 - **Her speech as a gauge.** Could the way her speech slips mark both closeness and anger? *(Proposed by Claude.)*
 - **Her dream, fulfilled the wrong way.** She finally sees the world, but as a fugitive servant with a spreading corruption, and ends Volume 1 held by the Holy bearer. Should Volume 1 still give her real moments of wonder?
+
+### Thaeroval
+
+- **"He doesn't change."** His design stays as written. But that design includes a cost: every full cut wears away some of his compassion. Does that erosion still happen across the series?
+- **When he passes Alaric:** nothing at all, or a flicker he can't explain? The old canon allowed "bodily recognition" without memory, and the old epilogue had his sword refusing to stop humming.
 
 ### Gerolt
 

@@ -53,6 +53,10 @@ Volume 1 tests the question; it doesn't answer it.
 - **Wena.** Gerolt's farm dog, given to Alaric with the sword as Gerolt dies, almost as a wish to keep her safe. She stays by Alaric, but often goes to Freya more than anyone.
 - **Nereth.** Seralune's maid: Ram on duty, Revy when she slips. Loyal to a fault, follows orders, and dreams of seeing the world. Seralune's feelings make her corruption flare.
 
+## Against them
+
+- **Thaeroval,** unchanged from the old version. He wants Seralune safe in his "chains", and believes he must choose for her: that means resealing her. When he meets Alaric he spares him. The boy means nothing compared to his sister.
+
 ## The tear
 
 - **Both of them reach at once:** he for his past, she for him. Her power passes through him, and he feels it.
@@ -79,5 +83,4 @@ Volume 1 tests the question; it doesn't answer it.
 
 - Where the tear happens, and who readers must have met there.
 - What exactly Alaric does that opens the way.
-- Thaeroval's arc.
 - How far her mother's trail gets.
