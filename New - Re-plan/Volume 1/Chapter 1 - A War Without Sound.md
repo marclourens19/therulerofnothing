@@ -218,7 +218,7 @@ The boy's breath caught. He knew what it meant.
 
 The remembered warmth vanished. The taste of blood and ash filled the back of his throat, thickened by the stench of opened bodies, and his stomach clenched hard enough to fold him forward. He covered his mouth too late. Bile and bloody spit struck the scorched earth between his hands.
 
-"Easy—by the Four, lad!"
+"Easy, lad!"
 
 The farmer dropped beside him, one hand at his back and the other clamped around his arm. The first words reached the boy clearly. Everything after them sounded farther away.
 
@@ -304,7 +304,7 @@ The boy rubbed the dark material between his fingers.
 
 "Who made it?" Gerolt asked.
 
-The boy looked down at the fabric. "I wish I could tell you. I keep looking for something in them—a mark, a colour, anything that might explain who made them or why I was wearing them. There's nothing."
+"I wish I could tell you. I keep looking for something in them—a mark, a colour, anything that might explain who made them or why I was wearing them. There's nothing."
 
 "Yet they fit you."
 
@@ -340,7 +340,7 @@ His hands returned to his collar, then his cuffs, then every strip of stitching 
 
 *Someone made these. Someone will recognise them.*
 
-There was nothing hidden in the lining. He checked every seam twice anyway, then stopped himself before beginning a third search.
+There was nothing hidden in the lining. He checked every seam twice anyway.
 
 "Wait." Gerolt caught his wrist as his nail found another stitch. "There's one more thing worth trying before you pull it apart. What's your 『Affinity』?"
 
@@ -550,7 +550,7 @@ Then a thread of air scraped into him. He coughed it out and dragged in another.
 
 The boy obeyed. One shallow breath followed another until his chest finally loosened. Only then did Gerolt ease his grip.
 
-"There was someone," he managed.
+"There was someone," the boy managed.
 
 Gerolt bent closer. "In the field?"
 
@@ -572,7 +572,7 @@ The boy's fingers went still around Gerolt's sleeve.
 
 Gerolt drew breath to answer, then shut his mouth.
 
-The boy looked down at the hand clutching his sleeve and tried to let go. His fingers did not move. Gerolt followed his gaze. Instead of pulling away, he covered the boy's hand with his own.
+The boy looked at his own hand, still clutching Gerolt's sleeve, and tried to let go. His fingers did not move. Gerolt followed his gaze. Instead of pulling away, he covered the boy's hand with his own.
 
 Gerolt shook his head. "No. Bad question. You saw a hand, and I'm asking you for a name. Leave it for tonight. The questions can wait until you can stand without falling over."
 
@@ -592,7 +592,7 @@ Far off, but coming fast.
 
 Under the bed, Wena's whimpering cut off, as if a hand had closed around it.
 
-Gerolt's gaze dropped to the floorboards beneath the table, only for an instant. Then he was at the window before the boy could ask what was wrong. He pressed one eye to the gap in the shutters, and whatever he saw out there wiped the exhaustion from his face and left only fear behind.
+Gerolt glanced once at the floorboards beneath the table. Then he was at the window before the boy could ask what was wrong. He pressed one eye to the gap in the shutters, and whatever he saw out there wiped the exhaustion from his face and left only fear behind.
 
 "Shit." It came out under his breath, barely a word at all.
 

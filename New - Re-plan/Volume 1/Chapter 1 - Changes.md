@@ -4,6 +4,7 @@ Written on 26 September 2026. This is every change made to `Chapter 1 - A War Wi
 
 - **Revision 1** (changes 1–37) carried out the agreed decisions and craft fixes.
 - **Revision 2** (changes 38–44) trimmed your own lines against principle 5: don't explain the meaning.
+- **Revision 3** (changes 45–49) is the final check: small craft fixes from a last full read.
 
 - The chapter as it was before is saved, unchanged, as `Drafts/Chapter 1 - A War Without Sound (Draft 1, before revision).md`. Any change you reject can go straight back from there.
 - **Draft line** numbers refer to that saved copy. **Revised line** numbers refer to the chapter as it stands now.
@@ -12,9 +13,9 @@ Written on 26 September 2026. This is every change made to `Chapter 1 - A War Wi
 
 ## At a glance
 
-- **44 changes proposed.** 1 rejected so far, so 43 are in the chapter: 37 rewritten, 5 cut and 1 added.
-- **Length:** 6,434 words before, 6,414 after.
-- **Median paragraph:** 14 words before, 14 after. The house target is roughly 14–22.
+- **49 changes proposed.** 1 rejected so far, so 48 are in the chapter: 42 rewritten, 5 cut and 1 added.
+- **Length:** 6,434 words before, 6,395 after.
+- **Median paragraph:** 14 words before, 13.5 after. The house target is roughly 14–22.
 - **"Nothing":** 24 times before, 19 after.
 - **Gerolt's failed laugh:** four times before (lines 103, 277, 417, 471). Now once, in your own line 103.
 - **"What do you remember before this morning?":** asked three times before, once now.
@@ -648,9 +649,9 @@ These changes add something about a character or the world that you haven't deci
 
 **After**
 
-> Gerolt's gaze dropped to the floorboards beneath the table, only for an instant. Then he was at the window before the boy could ask what was wrong. He pressed one eye to the gap in the shutters, and whatever he saw out there wiped the exhaustion from his face and left only fear behind.
+> Gerolt glanced once at the floorboards beneath the table. Then he was at the window before the boy could ask what was wrong. He pressed one eye to the gap in the shutters, and whatever he saw out there wiped the exhaustion from his face and left only fear behind.
 
-**Why.** Decision 4: plant the sword. One glance, no explanation. Chapter 2 pays it off (in the old Chapter 2, the sword is under a floorboard at the table).
+**Why.** Decision 4: plant the sword. One glance, no explanation. Chapter 2 pays it off (in the old Chapter 2, the sword is under a floorboard at the table). *Tightened in the final check: the first version said "Gerolt's gaze dropped", which is already used earlier.*
 
 #### 36. Seen
 
@@ -795,3 +796,75 @@ These changes add something about a character or the world that you haven't deci
 **Why.** "But he knew enough to be afraid." is the stronger place to stop.
 
 **Your decision.** Agreed.
+
+### Revision 3: the final check
+
+#### 45. The same oath twice
+
+*Draft line 221 → revised line 221*
+
+**Before**
+
+> "Easy—by the Four, lad!"
+
+**After**
+
+> "Easy, lad!"
+
+**Why.** Line 69 already has "Easy, lad—by the Four", and oaths are meant to be used sparingly. The chapter still has "By the Four" twice (lines 69 and 291) and "the Last Dark" twice.
+
+#### 46. Looking down three times
+
+*Draft line 309 → revised line 307*
+
+**Before**
+
+> The boy looked down at the fabric. "I wish I could tell you. I keep looking for something in them—a mark, a colour, anything that might explain who made them or why I was wearing them. There's nothing."
+
+**After**
+
+> "I wish I could tell you. I keep looking for something in them—a mark, a colour, anything that might explain who made them or why I was wearing them. There's nothing."
+
+**Why.** He looks down at himself six lines earlier and is already rubbing the cloth between his fingers. It's clear he's the one answering.
+
+#### 47. Stopped, then not stopped
+
+*Draft line 353 → revised line 343*
+
+**Before**
+
+> There was nothing hidden in the lining. He checked every seam twice anyway, then stopped himself before beginning a third search.
+
+**After**
+
+> There was nothing hidden in the lining. He checked every seam twice anyway.
+
+**Why.** He "stopped himself", yet in the next line his nail is finding another stitch when Gerolt catches his wrist. Now Gerolt is the one who stops him.
+
+#### 48. Who says "There was someone"
+
+*Draft line 553 → revised line 553*
+
+**Before**
+
+> "There was someone," he managed.
+
+**After**
+
+> "There was someone," the boy managed.
+
+**Why.** The sentence before it is about Gerolt, so "he" read as Gerolt speaking.
+
+#### 49. Whose sleeve
+
+*Draft line 575 → revised line 575*
+
+**Before**
+
+> The boy looked down at the hand clutching his sleeve and tried to let go. His fingers did not move. Gerolt followed his gaze. Instead of pulling away, he covered the boy's hand with his own.
+
+**After**
+
+> The boy looked at his own hand, still clutching Gerolt's sleeve, and tried to let go. His fingers did not move. Gerolt followed his gaze. Instead of pulling away, he covered the boy's hand with his own.
+
+**Why.** "His sleeve" read as the boy's own sleeve. It's also one fewer "looked down".
