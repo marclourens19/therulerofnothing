@@ -148,6 +148,15 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - **Gerolt taught him in Avarice.** Gerolt was angry that Silas didn't learn from his teachings.
 - **The sword is why Silas stops for Alaric:** he knows his master's blade on sight.
 
+### Nereth
+
+- A servant maid. Fire.
+- She still gets corrupted, and she lives through the entire series.
+- **References:** Ram (*Re:Zero*) and Revy (*Black Lagoon*).
+- **Character.** She grew up a servant and still acts like one. She is loyal to a fault, and doesn't like to slip.
+- **What she wants for herself:** to explore the world. She has wanted to see the sights of the world since she was a child.
+- **Being decided for.** She doesn't like it, but as a maid and servant she follows orders.
+
 ### Redd Vander
 
 - **Family.** Freya's older brother. They share the same backstory.
@@ -157,7 +166,7 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - **Age:** 28.
 - **After the village burned.** He was 8 and Freya was 1. They survived on the road for two years before coming to Kelmend.
 - **Tested and put in service.** He was tested at ten, two years after the fire. Both children were taken, and he was put in service to someone in Kelmend. He takes care of his sister, because she had nowhere else to go.
-- **His master died of old age.** He is no longer in service when Alaric meets him.
+- **His master died of old age.** He is no longer in service when Alaric meets him. He's unclaimed: nobody cared enough to reassign him.
 - They grew up in Kelmend's Faint quarter.
 - **Character.** Warm and funny, and carries pain. His humour is how he butts heads with Silas, and how he shows he cares deeply for his sister.
 - **Lives in the present.**
@@ -170,6 +179,8 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - **Age.** 21: Redd's younger sister, one year older than Alaric.
 - **Backstory.** The same as Redd's, but she was too young when it happened.
 - **Magic.** Eminent Water, but she was never tested. She grew up with Redd in Kelmend's Faint quarter.
+- **How she avoided testing.** Kelmend's guards held inspections every year. Redd always hid her until she was older.
+- **She doesn't know she's Eminent,** but she can use her magic decently well.
 - **Elves.** She doesn't hate them.
 - **Her brother.** She admires him greatly, follows him and clings to him, and leans on him too much.
 - **What she must learn:** to be her own individual person.
@@ -278,10 +289,15 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 
 ### Redd and Freya
 
-- **How did Freya avoid testing** at ten, in a kingdom that tests every child and wants to know everything?
-- **Does anyone know she's Eminent?** Does she, or Redd? If the state finds out, it will want her, as it wanted Marta. That's a danger they live with.
-- **Redd's status after his master died.** Under stewardship law a Faint is assigned a custodian. Was he reassigned, or has nobody noticed he's unclaimed?
+- **When does anyone find out Freya is Eminent?** If the state learns it, it will want her, as it wanted Marta.
 - **When do Alaric and Seralune first meet?** The Freya romance needs room. Meeting in Volume 2 leaves little; Volume 3 or later leaves plenty. To decide in the Volume 2 and 3 pictures.
+
+### Nereth
+
+- **Ram outside, Revy when she slips?** Ram is a composed, deadpan maid; Revy is profane and violent. Is Ram how she holds herself on duty, and Revy what comes out when she slips? Could the way she speaks slipping mark both closeness and anger?
+- **Does Seralune's feeling still make her corruption flare?** In the old canon it did, and it would be Seralune's strongest evidence that she's the problem.
+- **Her dream, fulfilled the wrong way.** She finally sees the world, but as a fugitive servant with a spreading corruption, and ends Volume 1 held by the Holy bearer. Should Volume 1 still give her real moments of wonder?
+- **The two flaws feed each other.** Seralune decides for people; Nereth obeys even when she disagrees. Is the first time Nereth refuses her a turning point for both? In which volume?
 
 ### Gerolt
 
