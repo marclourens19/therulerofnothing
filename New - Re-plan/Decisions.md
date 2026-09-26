@@ -119,6 +119,12 @@ These are rough shapes, not deadlines. The design bible warns against scheduling
 - **Gilmot's threat doesn't come true.** The soldiers are drawn off to the war, leaving the Faint quarter alone.
 - **Alaric and Freya become mutual before Seralune arrives,** late in Volume 2, once Freya stands on her own.
 
+## Volume 3
+
+- **The quote it follows (the author's words):** "Life is not measured by time, it is measured by moments. Some are big, some are small; most of them are small. Life is this way. Savour even the smallest, because that's all there is to it."
+- **Where it ends:** the world on the brink of all-out war, with Natharul and Mydea against Kozmagar.
+- **The Time bearer** is looking for Alaric.
+
 ## Chapter 1
 
 - **Purpose:** it's about him not knowing anything.
