@@ -156,6 +156,9 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - **Character.** She grew up a servant and still acts like one. She is loyal to a fault, and doesn't like to slip.
 - **What she wants for herself:** to explore the world. She has wanted to see the sights of the world since she was a child.
 - **Being decided for.** She doesn't like it, but as a maid and servant she follows orders.
+- **Ram on duty, Revy when she slips.**
+- **Seralune's feelings make her corruption flare.**
+- **Her first refusal of Seralune comes later,** not in Volume 1.
 
 ### Redd Vander
 
@@ -294,10 +297,8 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 
 ### Nereth
 
-- **Ram outside, Revy when she slips?** Ram is a composed, deadpan maid; Revy is profane and violent. Is Ram how she holds herself on duty, and Revy what comes out when she slips? Could the way she speaks slipping mark both closeness and anger?
-- **Does Seralune's feeling still make her corruption flare?** In the old canon it did, and it would be Seralune's strongest evidence that she's the problem.
+- **Her speech as a gauge.** Could the way her speech slips mark both closeness and anger? *(Proposed by Claude.)*
 - **Her dream, fulfilled the wrong way.** She finally sees the world, but as a fugitive servant with a spreading corruption, and ends Volume 1 held by the Holy bearer. Should Volume 1 still give her real moments of wonder?
-- **The two flaws feed each other.** Seralune decides for people; Nereth obeys even when she disagrees. Is the first time Nereth refuses her a turning point for both? In which volume?
 
 ### Gerolt
 

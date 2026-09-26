@@ -45,6 +45,13 @@ Volume 1 tests the question; it doesn't answer it.
 - **Arc:** people accuse her; then her own actions endanger people; then she comes to believe *she* is the problem.
 - **Ends.** She doesn't remember Alaric. She accepts responsibility and resolves to atone for deaths she didn't cause, and she and Nereth are held by the Holy bearer. The church keeps her alive as leverage over Natharul.
 
+## Around them
+
+- **Silas.** Gerolt's pupil from Avarice, Eminent Fire, brutal and cunning. He has lived twenty years in the guilt of the gorge. He stops for Alaric because he recognises Gerolt's sword, and teaches him to use it.
+- **Redd.** Low Earth, hates elves, raised his sister on the road. Warm, funny, lives in the present, too carefree when it matters.
+- **Freya.** Redd's younger sister: untested, secretly Eminent Water, and doesn't know it. She leans on Redd, then starts leaning on Alaric, and falls for him. He doesn't see it; he's looking backwards.
+- **Nereth.** Seralune's maid: Ram on duty, Revy when she slips. Loyal to a fault, follows orders, and dreams of seeing the world. Seralune's feelings make her corruption flare.
+
 ## The tear
 
 - **Both of them reach at once:** he for his past, she for him. Her power passes through him, and he feels it.
@@ -71,6 +78,6 @@ Volume 1 tests the question; it doesn't answer it.
 
 - Where the tear happens, and who readers must have met there.
 - What exactly Alaric does that opens the way.
-- The friends' reset characters: Silas, Redd, Freya (new) and Wena for Alaric, and Nereth for Seralune.
-- Nereth's and Thaeroval's arcs.
+- Wena's reset.
+- Thaeroval's arc.
 - How far her mother's trail gets.
