@@ -24,6 +24,7 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 
 - Every major character wants something the story threatens.
 - Borrowed characters lend specific traits, not templates, and we record which trait came from where. In practice the author is already doing this: Gerolt takes Cid's humour and damage.
+- An internal spiral must change its claim on each turn. Repeating "why me" with bigger words is not movement (design bible 9.1).
 
 ## The series
 
@@ -50,6 +51,11 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
   - **Seralune reaches for him** at the tear, but with different imagery from the current Chapter 30. To be discussed when we get there.
   - **Knowledge.** No one knows at first that Alaric's action caused it, not even Alaric. "That is the mystery and the sad thing." He feels it was his fault anyway.
   - **Aftermath.** He must question himself and find answers on how to live with this.
+  - **The moment itself.** His headspace feels unstable. He feels power inside him release, then sees mass destruction.
+  - **His evidence.** Keep "It stopped at you" or equivalent evidence. At that moment, make it emotional: an internal war monologue, "Why did this happen? Why did I do it? Why me, when I'm empty?"
+  - **What the reader knows:** somewhere in between. The reader sees what Alaric does and then sees the tear, but the narration never confirms the link. The reader suspects; no one on the page can know.
+  - **The kind of act that causes it:** done alone, on a belief that turns out to be wrong. *Whether it is also a good intention needs confirming; see Open questions.*
+- **Alaric's arc and external goal:** he wants to learn *who* he is. When he doesn't like the answer, his friends and the journey he has taken help him understand that he can decide who he is right now, instead of the past defining him. So he decides to save Darcy.
 - **Process.** The rest of the ending is decided slowly, mapped chapter by chapter until we get there.
 
 ## Chapter 1
@@ -119,12 +125,14 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 
 ### Volume 1 picture
 
-- **What does Alaric do that causes the tear?** It has to be his decision, not fate. Existing material that could feed it: in the current rewrite he hides the voice from everyone and lies to Redd and Silas about it. Decide now, or when we map Volume 1?
-- **Does the reader know?** If the reader knows it was Alaric's action while the world blames Seralune, the reader carries that knowledge into Volume 2 with dread. If not, it's a mystery the reader shares with the characters.
+- **Which goal drives the act that causes the tear?** Is he chasing who he *was* (for example, following the voice) or trying to be *better* ("the person who has nothing, trying to be a better person, is the one who does it")? The first answer says "done alone, on a wrong belief" but doesn't repeat "good intention".
+- **Is it from him, or through him?** When he "feels power within him release", can he tell whether it came *from* him or passed *through* him? (Author-only lore: in the old bible, the tear's power is Seralune's mana passing through his Affinities.) Either way, "why me, when I'm empty" is itself the in-between: the evidence says him, and everything he knows about himself says he's incapable.
+- **The answer he doesn't like.** Is it the tear itself (learning what he might be capable of), or something he learns earlier in Volume 1?
+- **Timing of the Darcy decision.** Before or after the tear? Is it the final beat of Volume 1, with the rescue in Volume 2 as in the old plan, or does he save her within Volume 1?
+- **Alone or together?** The act that causes the tear is done alone. Is the Darcy decision made *with* his friends, so the change is visible?
 - **Does Seralune believe it was her fault?**
 - **When does the truth come out, and to whom?** Which volume?
 - **Seralune and the question:** does her Volume 1 answer the same question from the other side? She has infinite mana, yet is treated as defective and dangerous.
-- **Alaric's external goal.** What does he want to *do* in Volume 1? A verb, not "learn about the world".
 - **Seralune's external goal** in Volume 1.
 - Beyond the dead and his guilt, what else can never go back to how it was?
 
