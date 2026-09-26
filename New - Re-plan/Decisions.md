@@ -19,7 +19,7 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 2. **Small answers constantly; big ones withheld.** Volume 1 answers small questions often, so readers trust that the big ones will come.
 3. **Live the rules; don't explain them.** Never set out how his memory works "on paper like a thesis". People don't think like that. He thinks and reacts the way amnesiac Subaru does in Re:Zero Arc 6 (Chapter 57 onward).
 4. **A volume tests its question; it doesn't hand over the answer.**
-5. **Don't explain the meaning.** In the author's words: "I don't like over explaining meaning that make readers think beyond the obvious." Show the plain thing and stop. Don't follow a moment with an image or a sentence that tells readers what it means or where to look. *(Claude's reading, to confirm: it covers both explaining a moment and hinting so hard that it pushes readers past what's on the page.)* First applied in Chapter 1, revision 1, change 21: "Nothing inside him answered either" stays.
+5. **Don't explain the meaning.** In the author's words: "I don't like over explaining meaning that make readers think beyond the obvious." Show the plain thing and stop. Don't follow a moment with an image or a sentence that tells readers what it means or where to look. It covers both explaining a moment and hinting so hard that it pushes readers past what's on the page. *(Claude's reading, accepted with the cuts it led to.)* First applied in Chapter 1, revision 1: change 21 was rejected ("Nothing inside him answered either" stays), and changes 6, 19, 20, 25, 27 and 37 were trimmed.
 
 ### Proposed, not yet agreed
 

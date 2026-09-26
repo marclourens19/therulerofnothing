@@ -5,12 +5,13 @@ Written on 26 September 2026. This is every change made to `Chapter 1 - A War Wi
 - The chapter as it was before is saved, unchanged, as `Drafts/Chapter 1 - A War Without Sound (Draft 1, before revision).md`. Any change you reject can go straight back from there.
 - **Draft line** numbers refer to that saved copy. **Revised line** numbers refer to the chapter as it stands now.
 - Nothing was changed that isn't listed here.
+- Changes 6, 19, 20, 25, 27 and 37 were trimmed after your note on over-explaining. Each one shows the trimmed version.
 
 ## At a glance
 
 - **37 changes proposed.** 1 rejected so far, so 36 are in the chapter: 32 rewritten, 3 cut and 1 added.
-- **Length:** 6,434 words before, 6,623 after.
-- **Median paragraph:** 14 words before, 15 after. The house target is roughly 14–22.
+- **Length:** 6,434 words before, 6,523 after.
+- **Median paragraph:** 14 words before, 14 after. The house target is roughly 14–22.
 - **"Nothing":** 24 times before, 19 after.
 - **Gerolt's failed laugh:** four times before (lines 103, 277, 417, 471). Now once, in your own line 103.
 - **"What do you remember before this morning?":** asked three times before, once now.
@@ -24,7 +25,7 @@ These changes add something about a character or the world that you haven't deci
 - **Change 4, The sun, and the first thesis line.** These two sentences are your own writing. If you want to keep them, say so and they go back.
 - **Change 9, One of everything.** This is a new detail about how Gerolt lives.
 - **Change 10, Where Gerolt sits.** This is a new behaviour for Gerolt.
-- **Change 19, The flame.** The reddened palm answers an open question in Decisions.md. It was step 4 of the outline you locked, so I've written it in; say no and it comes out (with the matching detail in change 25). The line "Fire needed something to burn. This one had only the man holding it." is new.
+- **Change 19, The flame.** The reddened palm answers an open question in Decisions.md. It was step 4 of the outline you locked, so I've written it in; say no and it comes out (with the matching detail in change 25).
 - **Change 25, "Empty".** "Faint", the testing at ten and "they call it protection" are new on the page. They come from the old World Bible's class table and its "protective stewardship", so tell me if any of that has changed.
 - **Change 28, The elves, and the deadline.** The neighbours' house with children is new. They're unnamed, and nothing else about them is decided. One knock-on: because Gerolt now says "Natharul" out loud here, the name he swallows when the riders arrive ("His mouth started to shape a name") now reads as something more specific he recognises. That leaves a small question for Chapter 2. If you'd rather the swallowed name was simply "Natharul", this line would have to say "Elves" instead.
 - **Change 37, The last line.** If you meant "he" to be one of them in particular, tell me which and I'll make it that one.
@@ -156,9 +157,9 @@ These changes add something about a character or the world that you haven't deci
 
 **After**
 
-> *Machines.* The word came to him before he could ask for it, and he didn't like how easily it came. He could not have said how they worked. Looking at that blackened opening, he knew what they had been built to do.
+> *Machines.* The word came to him before he could ask for it. He could not have said how they worked. Looking at that blackened opening, he knew what they had been built to do.
 
-**Why.** Principle 3. The old passage set out what he knows (carts, forges) the way a rulebook would. Now the word simply arrives, and he's uneasy at how easily it came. That sets up 『Magic』 later in the same scene. His word "machines" against Gerolt's "silver devils" at the window stays as a small clue.
+**Why.** Principle 3. The old passage set out what he knows (carts, forges) the way a rulebook would. Now the word simply arrives, as 『Magic』 does later in the same scene. His word "machines" against Gerolt's "silver devils" at the window stays as a small clue. *Trimmed after your note on over-explaining: "and he didn't like how easily it came" is gone.*
 
 #### 7. The wound line said twice
 
@@ -370,19 +371,19 @@ These changes add something about a character or the world that you haven't deci
 >
 > It was no bigger than a candle's, and there was no wick beneath it, no oil, no wood. It leaned when Gerolt breathed, then straightened. Its light moved over the calluses on his palm.
 >
-> The boy forgot the stitches and the blanket and the pounding in his skull. Fire needed something to burn. This one had only the man holding it.
+> The boy forgot the stitches and the blanket and the pounding in his skull.
 >
 > 『Magic』
 >
-> The word rose from the same place as before, whole and certain, and it wasn't the word Gerolt had used. The boy kept it behind his teeth.
+> The word rose from the same place as before, whole and certain. The boy kept it behind his teeth.
 >
 > Gerolt closed his hand, and the flame went out between his fingers without smoke. When he opened it again and rested it on his knee, the skin of his palm had reddened, as if he'd held it too near the hearth. He didn't look at it.
 >
 > "That's mine," he said. "Fire. Now close your eyes. Don't chase after it—that only scares it off. Sit still and feel for whichever one already belongs to you."
 
-**Why.** The locked flame decision, following the outline you agreed. The talk about Affinity (the spoon, his height, "That explains nothing") goes, and the boy sees magic for the first time instead. He thinks 『Magic』, doesn't say it, and notices it isn't Gerolt's word. The fire burns on nothing but the man holding it, and his palm reddens: magic costs its user. The flicker is small and practised, so it doesn't break "no fire in a fight until his last stand". Gerolt's instruction survives word for word.
+**Why.** The locked flame decision, following the outline you agreed. The talk about Affinity (the spoon, his height, "That explains nothing") goes, and the boy sees magic for the first time instead. He thinks 『Magic』 and doesn't say it; readers can see for themselves that it isn't Gerolt's word. His palm reddens: magic costs its user. The flicker is small and practised, so it doesn't break "no fire in a fight until his last stand". Gerolt's instruction survives word for word. *Trimmed after your note on over-explaining: "Fire needed something to burn. This one had only the man holding it." and "it wasn't the word Gerolt had used" are gone.*
 
-**Your call.** The reddened palm answers an open question in Decisions.md. It was step 4 of the outline you locked, so I've written it in; say no and it comes out (with the matching detail in change 25). The line "Fire needed something to burn. This one had only the man holding it." is new.
+**Your call.** The reddened palm answers an open question in Decisions.md. It was step 4 of the outline you locked, so I've written it in; say no and it comes out (with the matching detail in change 25).
 
 #### 20. Why he tries
 
@@ -394,9 +395,9 @@ These changes add something about a character or the world that you haven't deci
 
 **After**
 
-> The boy closed his eyes. If everyone was born with one, it didn't matter what he had forgotten. It would be there whether he remembered it or not.
+> The boy closed his eyes.
 
-**Why.** The cut spoon passage had one idea worth keeping: an Affinity is there whether you remember it or not. It becomes his hope, which is what makes the result hurt. The old reason ("the least he could do") read as duty; after seeing the flame, he wants it.
+**Why.** He used to close his eyes "anyway", answering the cut "That explains nothing", and then the narration gave his reason ("the least he could do was try"). After the flame, he needs no reason. *Trimmed after your note on over-explaining: the first version spelled out his hope instead.*
 
 #### 21. What he finds inside
 
@@ -464,7 +465,7 @@ These changes add something about a character or the world that you haven't deci
 
 #### 25. "Empty"
 
-*Draft line 413 → revised lines 401–415*
+*Draft line 413 → revised lines 401–413*
 
 **Before**
 
@@ -474,11 +475,9 @@ These changes add something about a character or the world that you haven't deci
 
 > "I don't know which," he said finally. "That's the truth of it. I've seen men forget their wives. I've seen men forget the war. I've seen Faint who couldn't warm a cup of water to save their lives, and even they had something that answered when they called." He rubbed both palms against his knees, one more carefully than the other. "You're not Faint. You're…"
 >
-> He seemed to search for the word, and not to like the one he found.
+> He seemed to search for the word.
 >
 > "Empty?"
->
-> The boy turned the word over, looking for the part of it that didn't fit him. He couldn't find one.
 >
 > When Gerolt spoke again, it was quieter, and not quite to the boy. "They test every child at ten. The ones who come up Faint get taken off their mothers, and they call it protection."
 >
@@ -488,13 +487,13 @@ These changes add something about a character or the world that you haven't deci
 >
 > "I keep hoping if I say the right thing, something in you will just—answer," he said at last. "Like calling a dog that's wandered off. Maybe it didn't hear you the first time."
 
-**Why.** Three decisions meet here. "Empty" is spoken, as a question, and as a word Gerolt has to invent (the old World Bible says no word exists for someone with no Affinity). His fear turns to what his world does to people with little or no magic, and he won't say what happens to someone with none: he looks at the door. Then his humour covers it, which is the Cid in him. The Volume 1 question starts here: the boy tests the word against himself and can't find where it's wrong.
+**Why.** Three decisions meet here. "Empty" is spoken, as a question, and as a word Gerolt has to invent (the old World Bible says no word exists for someone with no Affinity). His fear turns to what his world does to people with little or no magic, and he won't say what happens to someone with none: he looks at the door. Then his humour covers it, which is the Cid in him. *Trimmed after your note on over-explaining: "and not to like the one he found" and the boy turning the word over are gone, so "Empty?" stands on its own.*
 
 **Your call.** "Faint", the testing at ten and "they call it protection" are new on the page. They come from the old World Bible's class table and its "protective stewardship", so tell me if any of that has changed.
 
 #### 26. The third failed laugh
 
-*Draft line 417 → revised line 419*
+*Draft line 417 → revised line 417*
 
 **Before**
 
@@ -508,7 +507,7 @@ These changes add something about a character or the world that you haven't deci
 
 #### 27. "Long enough"
 
-*Draft line 427 → revised line 429*
+*Draft line 427 → revised line 427*
 
 **Before**
 
@@ -516,13 +515,13 @@ These changes add something about a character or the world that you haven't deci
 
 **After**
 
-> "Long enough." He didn't say how long. "And in all those years, I never saw men fight beside beastfolk."
+> "Long enough. And in all those years, I never saw men fight beside beastfolk."
 
-**Why.** "His jaw worked" is a watch-list gesture, and Gerolt's third jaw beat in the chapter. Holding back is the damage: he won't give the number.
+**Why.** "His jaw worked" is a watch-list gesture, and Gerolt's third jaw beat in the chapter. With no beat at all, the short answer does the holding back. *Trimmed after your note on over-explaining: "He didn't say how long" is gone.*
 
 #### 28. The elves, and the deadline
 
-*Added after draft line 435 · now revised lines 439–445*
+*Added after draft line 435 · now revised lines 437–443*
 
 **After this line**
 
@@ -556,7 +555,7 @@ These changes add something about a character or the world that you haven't deci
 
 #### 30. The same question, third time
 
-*Draft lines 455–459 → revised line 463*
+*Draft lines 455–459 → revised line 461*
 
 **Before**
 
@@ -586,7 +585,7 @@ These changes add something about a character or the world that you haven't deci
 
 #### 32. "Nothing else he could do"
 
-*Draft line 551 → revised line 553*
+*Draft line 551 → revised line 551*
 
 **Before**
 
@@ -600,7 +599,7 @@ These changes add something about a character or the world that you haven't deci
 
 #### 33. "Almost heard"
 
-*Draft line 561 → revised line 563*
+*Draft line 561 → revised line 561*
 
 **Before**
 
@@ -614,7 +613,7 @@ These changes add something about a character or the world that you haven't deci
 
 #### 34. The belief that stays wrong
 
-*Draft line 571 → revised line 573*
+*Draft line 571 → revised line 571*
 
 **Before**
 
@@ -630,7 +629,7 @@ These changes add something about a character or the world that you haven't deci
 
 #### 35. The sword
 
-*Draft line 595 → revised line 597*
+*Draft line 595 → revised line 595*
 
 **Before**
 
@@ -644,7 +643,7 @@ These changes add something about a character or the world that you haven't deci
 
 #### 36. Seen
 
-*Draft line 621 → revised line 623*
+*Draft line 621 → revised line 621*
 
 **Before**
 
@@ -658,7 +657,7 @@ These changes add something about a character or the world that you haven't deci
 
 #### 37. The last line
 
-*Draft lines 695–697 → revised lines 697–699*
+*Draft lines 695–697 → revised lines 695–697*
 
 **Before**
 
@@ -668,10 +667,10 @@ These changes add something about a character or the world that you haven't deci
 
 **After**
 
-> The boy's breath stopped halfway in. A thought surfaced from the same empty place that had given him the word 『Magic』. Footsteps did not vanish on their own. Someone outside had taken the sound from them.
+> The boy's breath stopped halfway in. A thought surfaced from the same empty place that had given him the word 『Magic』.
 >
 > Opening that door would be the last thing either of them ever did.
 
-**Why.** Three problems. It was in italics but in the third person (italics are for direct thought). "He" could be Gerolt or the boy. And a certainty from nowhere read as a sense for danger, which Alaric's guardrails rule out. Now what surfaces from the empty place is a recognition of magic: footsteps don't vanish by themselves. The last line follows from that. Your sentence stays, with "either of them".
+**Why.** It was in italics but in the third person (italics are for direct thought), and "he" could be Gerolt or the boy. It's now plain narration, with "either of them". Your sentence before it already says the thought comes from the same place that gave him 『Magic』, so it reads as recognising magic, not as a sixth sense for danger (which Alaric's guardrails rule out). *Trimmed after your note on over-explaining: the two sentences explaining the silent footsteps are gone.*
 
 **Your call.** If you meant "he" to be one of them in particular, tell me which and I'll make it that one.

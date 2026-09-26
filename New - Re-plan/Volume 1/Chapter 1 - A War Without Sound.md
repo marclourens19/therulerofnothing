@@ -126,7 +126,7 @@ Neither man had reached the other. The battle had not ended so much as been *int
 
 Seamless silver structures stood above the bodies. One had collapsed on jointed legs taller than a man. Another lay on its side, its smooth front broken only by a narrow opening blackened around the edges.
 
-*Machines.* The word came to him before he could ask for it, and he didn't like how easily it came. He could not have said how they worked. Looking at that blackened opening, he knew what they had been built to do.
+*Machines.* The word came to him before he could ask for it. He could not have said how they worked. Looking at that blackened opening, he knew what they had been built to do.
 
 Pale soldiers with pointed ears lay among the men. Farther out were creatures with horns, claws and shoulders broad enough to strain the armour wrapped around them. One horned warrior had died beside a human soldier, close enough that their shoulders touched. Their weapons pointed in the same direction.
 
@@ -358,17 +358,17 @@ A flame opened in it.
 
 It was no bigger than a candle's, and there was no wick beneath it, no oil, no wood. It leaned when Gerolt breathed, then straightened. Its light moved over the calluses on his palm.
 
-The boy forgot the stitches and the blanket and the pounding in his skull. Fire needed something to burn. This one had only the man holding it.
+The boy forgot the stitches and the blanket and the pounding in his skull.
 
 『Magic』
 
-The word rose from the same place as before, whole and certain, and it wasn't the word Gerolt had used. The boy kept it behind his teeth.
+The word rose from the same place as before, whole and certain. The boy kept it behind his teeth.
 
 Gerolt closed his hand, and the flame went out between his fingers without smoke. When he opened it again and rested it on his knee, the skin of his palm had reddened, as if he'd held it too near the hearth. He didn't look at it.
 
 "That's mine," he said. "Fire. Now close your eyes. Don't chase after it—that only scares it off. Sit still and feel for whichever one already belongs to you."
 
-The boy closed his eyes. If everyone was born with one, it didn't matter what he had forgotten. It would be there whether he remembered it or not.
+The boy closed his eyes.
 
 The fire ticked and settled somewhere to his right. The blanket was rough beneath his thumb. His pulse beat once, twice, past ten, behind the ache in his temple, and the wind pushed at the shutters like it wanted in.
 
@@ -400,11 +400,9 @@ Gerolt was quiet long enough that the boy almost took it back.
 
 "I don't know which," he said finally. "That's the truth of it. I've seen men forget their wives. I've seen men forget the war. I've seen Faint who couldn't warm a cup of water to save their lives, and even they had something that answered when they called." He rubbed both palms against his knees, one more carefully than the other. "You're not Faint. You're…"
 
-He seemed to search for the word, and not to like the one he found.
+He seemed to search for the word.
 
 "Empty?"
-
-The boy turned the word over, looking for the part of it that didn't fit him. He couldn't find one.
 
 When Gerolt spoke again, it was quieter, and not quite to the boy. "They test every child at ten. The ones who come up Faint get taken off their mothers, and they call it protection."
 
@@ -426,7 +424,7 @@ Gerolt rose and crossed to the window instead of pressing further, opening the s
 
 "You were a soldier."
 
-"Long enough." He didn't say how long. "And in all those years, I never saw men fight beside beastfolk."
+"Long enough. And in all those years, I never saw men fight beside beastfolk."
 
 The boy saw the horned warrior again, his shoulder against the human soldier's and both weapons aimed the same way. "But they were."
 
@@ -694,6 +692,6 @@ Then the fourth knock came, no louder than the first three, no less patient.
 
 *Tock.*
 
-The boy's breath stopped halfway in. A thought surfaced from the same empty place that had given him the word 『Magic』. Footsteps did not vanish on their own. Someone outside had taken the sound from them.
+The boy's breath stopped halfway in. A thought surfaced from the same empty place that had given him the word 『Magic』.
 
 Opening that door would be the last thing either of them ever did.
