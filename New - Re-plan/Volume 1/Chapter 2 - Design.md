@@ -43,22 +43,26 @@ The old chapter is in `Old - Before Re-plan/Volume 1 - Rewrites/Chapter 2 - The 
 3. **He breaks his silence to warn Gerolt.** "Make the fight with [the female scout] more explicit and grotesque, like a boy seeing someone getting chopped up with a sword. Same for the first elf's death: let him choke on his own blood."
 4. **His refusal holds back Gerolt's fire.** "Fire is dangerous and Gerolt does not want to harm the boy."
 
-### Round 2 (asked)
+### Round 2 (answered 26 September)
 
-5. The four movements, and whether there are any scene breaks.
-6. Gerolt's voice: humour to the last, and which old lines stay (the table below).
-7. Kelmend and Marta.
-8. The neighbours.
-9. "Empty" as a name, before "Alaric".
+5. **Shape.** Four movements and no scene breaks: "I agree entirely."
+6. **Gerolt's voice.** Dry to the end, with the humour dropping only at the name. The line table below is agreed as recommended.
+7. **Kelmend and Marta.** He sends him to Marta at the inn by the south gate, with the sword as proof. Marta is Gerolt's niece, and her father, Gerolt's brother, died in Silas's gorge.
+8. **The neighbours.** One beat: Gerolt hears the threat, looks at the boy, and picks up the sword. Nobody says it aloud. The elves must sound "more cocky, like they are full of themselves". The author's example: "Farmer, answer this damn door before we start knocking down others because of your silence."
+9. **"Empty" as a name.** Gerolt uses it once, when the boy refuses to leave, before the name replaces it.
+
+### Round 3 (asked)
+
+10. Where the name comes from.
+11. The doubled moments in the vision.
+12. The two scouts.
+13. The name Gerolt swallowed in Chapter 1.
+14. Callbacks to Chapter 1.
+15. The title.
 
 ### Later
 
-- **Kelmend and Marta.** Does Gerolt still send him there? Is Marta still Gerolt's niece, and still the innkeeper? How does the sword prove who sent him?
-- **The neighbours.** When Gerolt kills a Natharul scout, the punishment falls on the place. Does he know it will, and choose the boy anyway? Does the chapter show that cost?
-- **The scouts.** Keep the old pair: the male killed and never named to Alaric, and Liluth maimed and escaping?
-- **"Empty" as a name.** Does Gerolt call him Empty in this chapter, before the name returns?
-- **The name Gerolt swallowed in Chapter 1.** Is it said here, or saved for later?
-- **The title.** Keep "The Price of a Voice"?
+- Nothing yet. New questions go here as they come up.
 
 ## Proposed shape (for question 5)
 

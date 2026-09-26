@@ -179,6 +179,12 @@ The plan is built in `Volume 1/Chapter 2 - Design.md`.
 - **He breaks his silence** to warn Gerolt about the stone. It saves Gerolt for the moment, and the escaping scout hears it.
 - **The fight is explicit and grotesque,** as a boy sees it. The first elf chokes on his own blood. Gerolt cuts the female scout apart with the sword.
 - **His refusal to leave is what holds Gerolt's fire back.** "Fire is dangerous and Gerolt does not want to harm the boy." It's never explained on the page, and Alaric doesn't learn it in Volume 1.
+- **Shape.** Four movements, each ending on an image (the door, the fight, the farewell, the wheat), with no `---` breaks.
+- **Gerolt's voice.** Dry to the end, like Cid: orders instead of feelings, playing down his wound, never saying he cares. His humour drops once, at the name. The old lines are kept or cut as the table in the design file recommends.
+- **Kelmend and Marta.** Gerolt sends him west across the river, to Marta at the inn by Kelmend's south gate. The sword is the proof.
+- **The neighbours.** The elf threatens the other households. Gerolt hears it, looks at the boy, and picks up the sword. Nobody says what that choice costs, and the neighbours' fate is left for a later chapter.
+- **The elves are cocky and full of themselves.** The author's example: "Farmer, answer this damn door before we start knocking down others because of your silence."
+- **"Empty" as a name.** Gerolt calls him "Empty" once, gruffly, when he refuses to leave. Then the name replaces it.
 
 ## Alaric
 
@@ -220,7 +226,13 @@ The plan is built in `Volume 1/Chapter 2 - Design.md`.
 - **The sword:** instead of the token, Gerolt gives Alaric the sword he's been using. It's memorable, and Alaric can use it in the future.
 - **How he lives (agreed with Chapter 1, revision 1):** one bowl, one coat, one bed, and he gives the bed to the boy. He sets his stool where he can see both the bed and the door.
 - **Natharul.** He names them out loud at the window ("They ask where"). When the riders arrive, the name he starts to say and swallows is something more specific that he recognises. *What that name is: open, for Chapter 2.*
-- **Sending him away (unconfirmed reading):** Gerolt still sends the boy away in Chapter 2, when he dies, not earlier. The author hasn't confirmed this.
+- **Sending him away:** in Chapter 2, as he's dying, to Marta in Kelmend, with the sword and Wena (confirmed 26 September).
+
+## Marta
+
+- **Gerolt's niece** (agreed 26 September, for Chapter 2). She keeps the inn by Kelmend's south gate.
+- **Her father was Gerolt's brother,** and he died in Silas's gorge. That's part of why Gerolt is angry with Silas.
+- Everything else about her is still to be decided.
 
 ## Thaeroval
 
@@ -429,7 +441,6 @@ The plan is built in `Volume 1/Chapter 2 - Design.md`.
 - In a state that uses people by rank, how did an Eminent get to retire?
 - What is the name he swallows when the riders arrive in Chapter 1? It's more specific than "Natharul", which he has already said aloud.
 - Where does his damage come from?
-- When does he decide to send the boy to Marta? *Confirm.*
 
 ### World
 
