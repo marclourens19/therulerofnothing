@@ -22,7 +22,6 @@ Written on 26 September 2026. This is every change made to `Chapter 1 - A War Wi
 
 These changes add something about a character or the world that you haven't decided yet. Each needs a yes or no from you.
 
-- **Change 37, The last line.** If you meant "he" to be one of them in particular, tell me which and I'll make it that one.
 
 **Already decided**
 
@@ -33,6 +32,7 @@ These changes add something about a character or the world that you haven't deci
 - **Change 21, What he finds inside:** Rejected.
 - **Change 25, "Empty":** Kept. The old class lore is still true.
 - **Change 28, The elves, and the deadline:** Kept: Gerolt names Natharul here, the name he swallows later is something more specific, and the neighbours' house stays.
+- **Change 37, The last line:** Kept: "either of them" is what you meant.
 
 ## What each decision became
 
@@ -673,4 +673,4 @@ These changes add something about a character or the world that you haven't deci
 
 **Why.** It was in italics but in the third person (italics are for direct thought), and "he" could be Gerolt or the boy. It's now plain narration, with "either of them". Your sentence before it already says the thought comes from the same place that gave him 『Magic』, so it reads as recognising magic, not as a sixth sense for danger (which Alaric's guardrails rule out). *Trimmed after your note on over-explaining: the two sentences explaining the silent footsteps are gone.*
 
-**Your call.** If you meant "he" to be one of them in particular, tell me which and I'll make it that one.
+**Your decision.** Kept: "either of them" is what you meant.
