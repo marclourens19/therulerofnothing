@@ -107,7 +107,7 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - **Volume 1 breaks her into something dangerous.**
 - **Her mana.** She knows she has mana, and a lot of it. Everyone believes it's simply a very large pool: no one has been able to find its end. In truth it has none.
 - **Her last choice in Volume 1.** She accepts responsibility for who she was, even though that isn't her true self and she didn't actually do those things. Her internal war: "I need to atone for all these deaths. But was it me? Why must I? But I should."
-- **Where Volume 1 leaves her:** she and Nereth are held by the Holy bearer.
+- **Where Volume 1 leaves her:** she and Nereth are held by the Holy bearer. The church keeps her alive as leverage over Natharul.
 
 ## Gerolt Warde
 
@@ -128,6 +128,7 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 
 - **No one in the world knows Alaric from the past.**
 - **Except Time.** The Time bearer of a thousand years ago knew Alaric, and wanted to protect him against the coming war. That bearer's memories passed through time, because *time* remembers, not the person. The current Time bearer (in Kozmagar) doesn't know why he says "He's back." It just comes out.
+- **The ancient Time bearer took part in the ritual,** but activated a part of the spell that sent Alaric into the future instead, to protect his dearest friend: Alaric.
 - **Seralune does not remember Alaric** at the end of Volume 1.
 
 ### Seralune's mother, the queen
@@ -199,12 +200,13 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - **Her mother's opposition.** Does Seralune learn it from the Order, as she did from Cyrandor in the old version?
 - **The trail.** How far does her mother's trail get in Volume 1? In the old version it ended in ashes at the Lily Steps.
 
-- **Why does the church keep her alive?** It hangs innocent elves (Nell), and it believes she killed thousands and broke its temple. Options from existing material: the Holy bearer's protection, leverage over Natharul (she's the king's daughter), or wanting her power.
 - **Two internal wars at one climax.** His ("Why me, when I'm empty?") and hers ("Why must I? But I should.") need different shapes. She keeps her own sensory language and doesn't borrow his.
 
 ### Time
 
-- **Did the ancient Time bearer take part in the ritual?** In the old bible the ritual needed all four ancient bearers, and Time's part is what threw Alaric a thousand years forward. If that bearer wanted to protect him, did he refuse, get forced into it, or turn his part into the protection?
+- **Why a thousand years?** The Time bearer chose where to send his friend. What did he expect a thousand years to change?
+- **Did anyone in the ancient coalition learn what he did,** and what happened to him?
+- **Both protagonists were saved without consent** by someone who loved them: Thaeroval sealed Seralune, and the Time bearer sent Alaric away. Is that parallel deliberate?
 - **Does Time remember inside Alaric?** He carries Time too, dormant.
 
 ### Gerolt
@@ -281,7 +283,7 @@ None of these have been changed yet. They're listed so nothing is forgotten when
 
 ### No one knows Alaric from the past
 
-- `Old - Before Re-plan/World Bible/The World.md:1049`: the old epilogue's "He's back" is resolved (Time remembers, not the person), but the old ritual design in `The World.md` ("The Erasure Ritual") has all four ancient bearers, Time included, acting *against* him.
+- `Old - Before Re-plan/World Bible/The World.md:1049`: the old epilogue's "He's back" is resolved (Time remembers, not the person), but the old ritual design in `The World.md` ("The Erasure Ritual") says Alaric's own Affinities resisted the spell and the Time component displaced him by accident. Now the displacement is the ancient Time bearer's deliberate act. Does his own resistance still play a part?
 
 ### Chapter 1 fixes from the first review
 

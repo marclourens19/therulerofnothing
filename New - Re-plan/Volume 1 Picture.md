@@ -1,6 +1,6 @@
 # Volume 1 Picture
 
-Draft for approval, 26 September 2026. It's assembled only from the decisions in `Decisions.md`. Anything marked *Open* isn't decided yet.
+Approved as a base on 26 September 2026, and still growing. It's assembled only from the decisions in `Decisions.md`. Anything marked *Open* isn't decided yet.
 
 ## The question
 
@@ -43,7 +43,7 @@ Volume 1 tests the question; it doesn't answer it.
 - **Wants, in Volume 1:** to escape the system that is locking her away, and to get answers from her mother, who opposed the sealing.
 - **Believes:** "How could I be dangerous? I never had magic." Everyone thinks her mana is simply a very large pool whose end no one has found.
 - **Arc:** people accuse her; then her own actions endanger people; then she comes to believe *she* is the problem.
-- **Ends.** She doesn't remember Alaric. She accepts responsibility and resolves to atone for deaths she didn't cause, and she and Nereth are held by the Holy bearer.
+- **Ends.** She doesn't remember Alaric. She accepts responsibility and resolves to atone for deaths she didn't cause, and she and Nereth are held by the Holy bearer. The church keeps her alive as leverage over Natharul.
 
 ## The tear
 
@@ -74,4 +74,3 @@ Volume 1 tests the question; it doesn't answer it.
 - Who his friends are in the re-plan. In the old version they were Silas, Redd and Wena.
 - Nereth's and Thaeroval's arcs.
 - How far her mother's trail gets.
-- Why the church keeps Seralune alive.
