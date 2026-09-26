@@ -78,7 +78,7 @@ Volume 1 tests the question; it doesn't answer it.
 
 - Darcy's rescue, with his friends.
 - Alaric coming to terms with himself, and learning to accept help.
-- *Open:* what pulls Seralune's thread into Volume 2.
+- Seralune held as the church's leverage over Natharul. Volume 2 becomes her escape, decided together with Nereth.
 
 ## Still open for Volume 1
 

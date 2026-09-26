@@ -70,11 +70,18 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
   4. *Doubling down.* Instead of turning to the life he has, he chases harder, and alone.
   5. *Choice and consequence.* The tear passes through him while he chases his past. Thousands die, and Seralune is blamed.
 
-## Volume 2 (what's known so far)
+## Volume 2
 
-- Darcy is rescued, by Alaric *with* his friends.
-- Coming to terms with himself, and learning to accept help, is Alaric's Volume 2 journey.
-- **Process.** The rest of the ending is decided slowly, mapped chapter by chapter until we get there.
+- **The question (the author's words):** "In a world full of politics, brutality, war, slavery and death, much like real life, what can you do, even if it's something small, to do better?"
+- **The image.** Alaric learns to rely on others to do "good". Seralune learns that choosing for others isn't the right option. She asks Nereth what she wants, and they decide together.
+- **The mission.** Darcy is rescued, by Alaric *with* his friends.
+- **Alaric's journey.** Coming to terms with himself, and learning to accept help.
+- **Freya.** The whole of Volume 2 develops Alaric and Freya's relationship realistically, not rushed.
+- **What can never go back by the end:**
+  - Alaric and company have crossed Mydea, killing soldiers and stealing the kingdom's strategist. People are truly against them now.
+  - The beastfolk are winning on the border and pushing in.
+  - Seralune and Nereth, making their decisions together, escape captivity after all the politics.
+- **Alaric and Seralune first meet** right at the end of Volume 2, going into Volume 3.
 
 ## Chapter 1
 
@@ -271,6 +278,14 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - **Seralune's external goal** in Volume 1.
 - Beyond the dead and his guilt, what else can never go back to how it was?
 
+### Volume 2 picture
+
+- **How far does Seralune's lesson reach?** If she fully learns in Volume 2 that choosing for others is wrong, her later antagonist arc needs a relapse with a credible cause. Does she learn it for Nereth, the person in front of her, but not for the world?
+- **Does their good deed bring the war home?** In the old canon, Mydea lends Darcy's strategy to the frontier. If stealing her is why the beastfolk start winning and pushing in, their one small good turns the whole war inward. Is that intended?
+- **Gilmot's threat.** In the old canon he'd burn Kelmend's Faint quarter if Darcy were taken. That's where Redd and Freya grew up. Does the threat survive?
+- **Where and how do Alaric and Seralune meet** at the end of Volume 2?
+- **Alaric and Freya: when does it become mutual?** Before Seralune arrives at the end of Volume 2, or during Volume 3 with Seralune present?
+
 ### Chapter 1
 
 - Which of his Chapter 1 beliefs stays wrong until later? Two candidates already on the page are mirror images of each other:
@@ -308,7 +323,6 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 ### Redd and Freya
 
 - **When does anyone find out Freya is Eminent?** If the state learns it, it will want her, as it wanted Marta.
-- **When do Alaric and Seralune first meet?** The Freya romance needs room. Meeting in Volume 2 leaves little; Volume 3 or later leaves plenty. To decide in the Volume 2 and 3 pictures.
 
 ### Nereth
 
