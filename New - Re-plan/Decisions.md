@@ -157,6 +157,7 @@ These are rough shapes, not deadlines. The design bible warns against scheduling
   - The boy *thinks* "magic"; he doesn't say it aloud.
   - Gerolt uses his fire every day. It isn't something he has put away.
   - A small, controlled flicker is compatible with him not using fire in a fight until his last stand.
+  - **His palm reddens** after holding the flame, and he doesn't mention it or look at it (agreed with revision 1).
 - **Revision format.** When the corrected chapter is written, show the author what changed and what was added, each as a before and after.
 - **The belief that stays wrong (line 571).** He concludes the running figure was coming to stop him. The reader later learns she was running to reach him. This echoes the Volume 3 climax, where he takes Seralune for an assassin. "*Was I here with them?*" stays a question he can't answer.
 - **A deadline.** Gerolt knows that by morning people will come (neighbours, the church, soldiers) and that someone will talk. He never decides what to do with the boy before the riders arrive.
@@ -204,6 +205,8 @@ These are rough shapes, not deadlines. The design bible warns against scheduling
 - **Why he doesn't use fire until the end:** magic can have negative effects, and he doesn't want to hurt the boy or destroy his house.
 - **Death:** he still dies in Chapter 2, with a hand of fire, ready to use his Affinity in a last stand.
 - **The sword:** instead of the token, Gerolt gives Alaric the sword he's been using. It's memorable, and Alaric can use it in the future.
+- **How he lives (agreed with Chapter 1, revision 1):** one bowl, one coat, one bed, and he gives the bed to the boy. He sets his stool where he can see both the bed and the door.
+- **Natharul.** He names them out loud at the window ("They ask where"). When the riders arrive, the name he starts to say and swallows is something more specific that he recognises. *What that name is: open, for Chapter 2.*
 - **Sending him away (unconfirmed reading):** Gerolt still sends the boy away in Chapter 2, when he dies, not earlier. The author hasn't confirmed this.
 
 ## Thaeroval
@@ -315,6 +318,7 @@ These are rough shapes, not deadlines. The design bible warns against scheduling
 ### Magic and Affinity
 
 - "Magic" is the ancient word for Affinity. It was the word before the laws came in and the current world adopted the current meanings.
+- **The class system still stands as in the old World Bible** (confirmed for Chapter 1, revision 1): Exalted, Eminent, Common and Faint. Every child is tested at ten, and children who test Faint are taken from their families under what's called protection.
 - **Magic costs its user when cast on themselves.** A Fire user isn't immune to fire: if Gerolt casts fire on himself, he gets burnt. (The existing Chapter 1 candle line already obeys this: "The flame burned him. He did not pull away.")
 
 ### The Silent Field
@@ -325,6 +329,7 @@ These are rough shapes, not deadlines. The design bible warns against scheduling
 ### Geography
 
 - **Kozmagar is a separate continent,** the beast continent.
+- **Gerolt's nearest neighbours** live two fields over, in a house with children. They're unnamed, and nothing else about them is decided.
 
 ### Ranks
 
@@ -366,7 +371,6 @@ These are rough shapes, not deadlines. The design bible warns against scheduling
 
 ### Chapter 1
 
-- The flicker of flame: since fire on himself burns him, does showing the boy mark Gerolt's palm? *Revision 1 proposes yes: his palm reddens and he doesn't mention it. Waiting for approval.*
 - Should Chapter 1 hint at his willingness to kill? "Chapter 1 is about him not knowing anything" suggests not. *Confirm.*
 - Should Chapter 1 carry the horror that nobody on earth knows him? It's the opposite of Subaru's situation, where everyone knows him and he doesn't know them.
 
@@ -410,6 +414,7 @@ These are rough shapes, not deadlines. The design bible warns against scheduling
 ### Gerolt
 
 - In a state that uses people by rank, how did an Eminent get to retire?
+- What is the name he swallows when the riders arrive in Chapter 1? It's more specific than "Natharul", which he has already said aloud.
 - Where does his damage come from?
 - When does he decide to send the boy to Marta? *Confirm.*
 - In Chapter 2 the boy refuses to leave ("I'm not leaving you", "Then I'll carry you"). If Gerolt can't use his fire while the boy is near, that refusal is what holds him back: the flaw at work, with a cost. Is that intended, and does Alaric ever learn it?

@@ -22,17 +22,17 @@ Written on 26 September 2026. This is every change made to `Chapter 1 - A War Wi
 
 These changes add something about a character or the world that you haven't decided yet. Each needs a yes or no from you.
 
-- **Change 4, The sun, and the first thesis line.** These two sentences are your own writing. If you want to keep them, say so and they go back.
-- **Change 9, One of everything.** This is a new detail about how Gerolt lives.
-- **Change 10, Where Gerolt sits.** This is a new behaviour for Gerolt.
-- **Change 19, The flame.** The reddened palm answers an open question in Decisions.md. It was step 4 of the outline you locked, so I've written it in; say no and it comes out (with the matching detail in change 25).
-- **Change 25, "Empty".** "Faint", the testing at ten and "they call it protection" are new on the page. They come from the old World Bible's class table and its "protective stewardship", so tell me if any of that has changed.
-- **Change 28, The elves, and the deadline.** The neighbours' house with children is new. They're unnamed, and nothing else about them is decided. One knock-on: because Gerolt now says "Natharul" out loud here, the name he swallows when the riders arrive ("His mouth started to shape a name") now reads as something more specific he recognises. That leaves a small question for Chapter 2. If you'd rather the swallowed name was simply "Natharul", this line would have to say "Elves" instead.
 - **Change 37, The last line.** If you meant "he" to be one of them in particular, tell me which and I'll make it that one.
 
 **Already decided**
 
-- **Change 21, What he finds inside:** rejected. The original stays.
+- **Change 4, The sun, and the first thesis line:** Kept: the cut stands.
+- **Change 9, One of everything:** Kept.
+- **Change 10, Where Gerolt sits:** Kept.
+- **Change 19, The flame:** Kept, with the reddened palm.
+- **Change 21, What he finds inside:** Rejected.
+- **Change 25, "Empty":** Kept. The old class lore is still true.
+- **Change 28, The elves, and the deadline:** Kept: Gerolt names Natharul here, the name he swallows later is something more specific, and the neighbours' house stays.
 
 ## What each decision became
 
@@ -129,7 +129,7 @@ These changes add something about a character or the world that you haven't deci
 
 **Why.** The sun sentence lands where he can finally see it. The last two sentences explained the memory rule instead of living it (Principle 3). Your own line 13, "He didn't know what his own voice sounded like", already lives the same rule, and better.
 
-**Your call.** These two sentences are your own writing. If you want to keep them, say so and they go back.
+**Your decision.** Kept: the cut stands.
 
 #### 5. Spelling
 
@@ -207,7 +207,7 @@ These changes add something about a character or the world that you haven't deci
 
 **Why.** Two things at once. This was a thesis passage (Principle 3). And Gerolt's peace wasn't on the page: a man who lives alone by choice owns one of everything, and the stranger is in his only bed. It also agrees with the stew later, where Gerolt takes "a wooden bowl from the counter" and hands it over.
 
-**Your call.** This is a new detail about how Gerolt lives.
+**Your decision.** Kept.
 
 #### 10. Where Gerolt sits
 
@@ -223,7 +223,7 @@ These changes add something about a character or the world that you haven't deci
 
 **Why.** Gerolt's damage, shown through what he does: an old soldier still sits facing the door. It's the first of several small signs (see the list of decisions at the top).
 
-**Your call.** This is a new behaviour for Gerolt.
+**Your decision.** Kept.
 
 #### 11. Time of day
 
@@ -383,7 +383,7 @@ These changes add something about a character or the world that you haven't deci
 
 **Why.** The locked flame decision, following the outline you agreed. The talk about Affinity (the spoon, his height, "That explains nothing") goes, and the boy sees magic for the first time instead. He thinks 『Magic』 and doesn't say it; readers can see for themselves that it isn't Gerolt's word. His palm reddens: magic costs its user. The flicker is small and practised, so it doesn't break "no fire in a fight until his last stand". Gerolt's instruction survives word for word. *Trimmed after your note on over-explaining: "Fire needed something to burn. This one had only the man holding it." and "it wasn't the word Gerolt had used" are gone.*
 
-**Your call.** The reddened palm answers an open question in Decisions.md. It was step 4 of the outline you locked, so I've written it in; say no and it comes out (with the matching detail in change 25).
+**Your decision.** Kept, with the reddened palm.
 
 #### 20. Why he tries
 
@@ -489,7 +489,7 @@ These changes add something about a character or the world that you haven't deci
 
 **Why.** Three decisions meet here. "Empty" is spoken, as a question, and as a word Gerolt has to invent (the old World Bible says no word exists for someone with no Affinity). His fear turns to what his world does to people with little or no magic, and he won't say what happens to someone with none: he looks at the door. Then his humour covers it, which is the Cid in him. *Trimmed after your note on over-explaining: "and not to like the one he found" and the boy turning the word over are gone, so "Empty?" stands on its own.*
 
-**Your call.** "Faint", the testing at ten and "they call it protection" are new on the page. They come from the old World Bible's class table and its "protective stewardship", so tell me if any of that has changed.
+**Your decision.** Kept. The old class lore is still true.
 
 #### 26. The third failed laugh
 
@@ -539,7 +539,7 @@ These changes add something about a character or the world that you haven't deci
 
 **Why.** Two decisions: Gerolt reacts to the dead elves, and he expects people by morning. His window speech named the banners, the armour, the machines and the beastfolk, and stopped short of the elves. Now the boy notices what he left out and asks, which is the boy's personality working. "They ask where" shows Natharul's collective punishment through Gerolt's fear instead of explaining it. The deadline is Mydea's informers: someone sees, someone sells. It's also the moment his peace visibly ends: "what I found out there" is the boy.
 
-**Your call.** The neighbours' house with children is new. They're unnamed, and nothing else about them is decided. One knock-on: because Gerolt now says "Natharul" out loud here, the name he swallows when the riders arrive ("His mouth started to shape a name") now reads as something more specific he recognises. That leaves a small question for Chapter 2. If you'd rather the swallowed name was simply "Natharul", this line would have to say "Elves" instead.
+**Your decision.** Kept: Gerolt names Natharul here, the name he swallows later is something more specific, and the neighbours' house stays.
 
 #### 29. Who says "Wena?"
 
