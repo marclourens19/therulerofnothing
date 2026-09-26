@@ -135,6 +135,14 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - **Method.** He just wants to get things done, even if it means violence. He is brutal in his ways and in his killings.
 - **Affinity:** Fire, Eminent, the same level as Gerolt.
 - He still teaches Alaric the sword.
+- **What he takes from Guts:** pragmatism in brutality. He is very, very cunning.
+- **The gorge survives.** His old squad and Marta's father were all killed. He lives with the guilt every day, blames himself, and lost the woman he loves most in the world: they were going to be married before it happened.
+- **How he came to Avarice (my reading of "he was a part of it", to confirm):** he was once part of the system, then fell in love with Marta and the cause she fought for.
+- **The difference from Gerolt:** Silas always wants to win, by any means necessary. Gerolt holds back; Silas doesn't.
+- **Flaw:** he acts instead of thinking, though he's working on it.
+- **Want:** to fix the past.
+- **What he must learn:** to live with and accept his actions, and that the past can't be changed. He has to accept his flaws and grow as a man.
+- **Underneath:** a loving, caring man who just wants to protect his comrades.
 
 ## World
 
@@ -226,11 +234,9 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 
 ### Silas
 
-- **Which part of Guts?** The brutality, the survivor's will, the buried rage, the fierce loyalty to a few, the defiance of fate?
-- **Does the gorge survive?** If his order still killed Marta's father, then Gerolt's pupil got Gerolt's family killed.
-- **What made the two of them different?** Gerolt holds his fire back so he won't hurt the boy or the house. Does Silas not hold back? Is that the difference between them?
-- **An Eminent outside the system.** In an iron-fisted state, Eminents are officers or wealthy. How is he a free-roaming killer? Is he a deserter, or Avarice?
-- **Flaw, and what he wants** that has nothing to do with Alaric (beyond Marta).
+- **Cunning, but acts without thinking?** Those pull against each other. One way to hold both: cunning in the moment of a fight, reckless in the big decisions (the gorge). Is that the split?
+- **Where did the gorge leave him and Gerolt?** Teacher and pupil, and his order killed Gerolt's family. Did Gerolt forgive him? Was Gerolt in the army, or Avarice, when he taught Silas?
+- **Is Silas a mirror of Alaric?** Alaric chases a past he can't remember; Silas can't stop reliving one he knows too well. Both must learn to live now.
 - **The sword may do the token's job.** As Gerolt's pupil, he would know his master's sword on sight. That could be his reason to help Alaric. *(My reading, to confirm.)*
 
 ### Gerolt
