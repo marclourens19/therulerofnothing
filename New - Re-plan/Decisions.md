@@ -261,6 +261,10 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - **No one on the battlefield was on his side.** Every army there was fighting him and Seralune.
 - **The riders (Chapter 2's Natharul scouts)** come because they've seen dead elves. They're shocked they neither saw nor heard the battle, and they want answers from the farmer whose land it is.
 
+### Geography
+
+- **Kozmagar is a separate continent,** the beast continent.
+
 ### Ranks
 
 - "High" was a mistake; the rank is **Eminent**. Liluth is Eminent Earth.
@@ -303,7 +307,7 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - **Hostility without murder.** The earlier outline had "maybe Seralune kills Wena or Redd". The design bible (11.4) uses almost exactly this as its warning example: a murder like that can't be temporary hostility, and it would make the later romance ring false. Redd is now Freya's brother too. Could the tear supply the hostility instead? The world, and Redd above all, hate her as the witch who killed thousands, while Alaric secretly believes it was him.
 - **Does hostility calm the bond?** The earlier outline had dislike stopping both the love and her mana going haywire. The design bible (16.3) warns against deciding that hostility conveniently stabilises the bond "simply because it makes Volumes 4–6 easy to organise". If it's kept, it needs a real cause, imperfect reliability and growing exceptions. The alternative: closeness is what's dangerous, as the tear already proved.
 - **"Time is broken":** what does it mean?
-- **Geography.** Is Kozmagar a separate "beast continent", or across a land border from Mydea? The beastfolk "pushing in on the border" implies a land border.
+- **The border across a sea.** With Kozmagar a separate continent, how do the beastfolk "push in on the border"? *(Recommendation offered 26 September: see the conversation.)*
 
 ### Chapter 1
 
