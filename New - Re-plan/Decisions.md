@@ -20,12 +20,13 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 3. **Live the rules; don't explain them.** Never set out how his memory works "on paper like a thesis". People don't think like that. He thinks and reacts the way amnesiac Subaru does in Re:Zero Arc 6 (Chapter 57 onward).
 4. **A volume tests its question; it doesn't hand over the answer.**
 5. **Don't explain the meaning.** In the author's words: "I don't like over explaining meaning that make readers think beyond the obvious." Show the plain thing and stop. Don't follow a moment with an image or a sentence that tells readers what it means or where to look. It covers both explaining a moment and hinting so hard that it pushes readers past what's on the page. *(Claude's reading, accepted with the cuts it led to.)* First applied in Chapter 1, revision 1: change 21 was rejected ("Nothing inside him answered either" stays), and changes 6, 19, 20, 25, 27 and 37 were trimmed. Revision 2 applied it to the author's own lines (changes 38–44). Lines 55, 143 and 645 were kept: they show or name something, and they don't explain it.
+6. **Every major character wants something the story threatens.** *(Agreed 26 September.)* In Chapter 1, Gerolt wants his peace, and the boy ends it.
+7. **Borrowed characters lend specific traits, not templates,** and we record which trait came from where. *(Agreed 26 September.)* For example, Gerolt takes Cid's humour and damage, not Cid's life.
+8. **An internal spiral must change its claim on each turn.** Repeating "why me" with bigger words isn't movement (design bible §9.1). *(Agreed 26 September.)*
 
 ### Proposed, not yet agreed
 
-- Every major character wants something the story threatens.
-- Borrowed characters lend specific traits, not templates, and we record which trait came from where. In practice the author is already doing this: Gerolt takes Cid's humour and damage.
-- An internal spiral must change its claim on each turn. Repeating "why me" with bigger words is not movement (design bible 9.1).
+- None right now.
 
 ## The series
 

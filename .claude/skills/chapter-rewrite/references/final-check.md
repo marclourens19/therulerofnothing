@@ -41,6 +41,9 @@ Read the whole chapter, start to finish, with these questions.
 5. Does any sentence tell the reader what a moment means? The two places to look:
    - the last sentence of each paragraph;
    - narration that says what a character then says aloud.
+6. Does every major character in the chapter want something, and does the chapter threaten it?
+7. Does each borrowed trait stay a trait, without importing the borrowed character's story?
+8. Does every inner spiral say something new on each turn?
 
 **Continuity and staging**
 

@@ -44,7 +44,7 @@ The rules below come from the author's own instructions ("Never accept my words 
 
 These are copied from `Decisions.md`. If the two ever differ, `Decisions.md` wins, and this list should be updated.
 
-**Agreed**
+All eight are agreed.
 
 1. **Amnesia removes history, not personality.** Alaric is "still himself, without knowing who he is". He is kind, smart and caring, and his humour survives: "a headache that's at least probably my own".
 2. **Small answers constantly; big ones withheld.** Chapter 1 gives the reader Mydea, Gerolt's name, 『Affinity』, the Faint, Natharul and "Empty". It withholds who he is, the running figure and the silent battle.
@@ -52,11 +52,11 @@ These are copied from `Decisions.md`. If the two ever differ, `Decisions.md` win
 4. **A volume tests its question; it doesn't hand over the answer.**
 5. **Don't explain the meaning.** In the author's words: "I don't like over explaining meaning that make readers think beyond the obvious." Show the plain thing and stop. Cut any sentence that tells the reader what a moment means, and any image that hints so hard it pushes readers past what's on the page. This is the rule the author enforced most on Chapter 1: they rejected one added image and cut fifteen explaining lines, seven of them their own.
 
-**Proposed, not yet agreed.** Ask the author before relying on these:
+6. **Every major character wants something the story threatens.** Know each character's want before writing a scene, and let the chapter press on it. Gerolt wants his peace with Wena; a stranger in his only bed and "men at my door" by noon end it. The boy wants to know who he is; the riders might know him, and he chooses silence.
+7. **Borrowed characters lend specific traits, not templates.** Take the named trait and nothing else, and record in `Decisions.md` which trait came from where. Gerolt takes Cid's humour over damage, not Cid's life or story. The rest of the cast's borrowed traits are listed under each character in `Decisions.md`.
+8. **An inner spiral must change what it claims each time it turns.** When a character circles a thought, each turn must say something new: a new fear, a new conclusion, or a new cost. Repeating "why me" in bigger words isn't movement (design bible §9.1). This matters most for set pieces like the tear, where "Why did this happen? Why did I do it? Why me, when I'm empty?" are three different claims.
 
-- Every character wants something the story threatens.
-- Borrowed characters lend specific traits, not templates. Gerolt takes Cid's humour over damage, not Cid's life.
-- An inner spiral must change what it claims each time it turns.
+New principles from the author go into `Decisions.md` first, then here.
 
 ## The method
 
