@@ -115,6 +115,7 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - **Affinity:** Fire, Eminent, the same level as Liluth.
 - **Life.** A farmer, retired from fighting and passing his days in his own company. He was a hardened man, but has had enough of this world and wants peace. He lives alone because he wants to; he likes peace with just Wena.
 - **Readiness.** He's out, but he still has a war underneath that he's always ready to face.
+- **He was in Avarice.** He taught Silas there, and was angry that Silas didn't learn from his teachings.
 - **From Cid (FFXVI):** a mix of the humour and the damage underneath.
 - **His fear.** He knows what people do to those with no magic, and he's scared the boy won't survive in this world, on top of the boy knowing nothing about himself. He can't shelter him because of what would happen, but he doesn't want to harm him either.
 - **Why he doesn't use fire until the end:** magic can have negative effects, and he doesn't want to hurt the boy or destroy his house.
@@ -143,6 +144,9 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - **Want:** to fix the past.
 - **What he must learn:** to live with and accept his actions, and that the past can't be changed. He has to accept his flaws and grow as a man.
 - **Underneath:** a loving, caring man who just wants to protect his comrades.
+- **Cunning in the moment, reckless in the big choices** (like the gorge).
+- **Gerolt taught him in Avarice.** Gerolt was angry that Silas didn't learn from his teachings.
+- **The sword is why Silas stops for Alaric:** he knows his master's blade on sight.
 
 ## World
 
@@ -234,16 +238,12 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 
 ### Silas
 
-- **Cunning, but acts without thinking?** Those pull against each other. One way to hold both: cunning in the moment of a fight, reckless in the big decisions (the gorge). Is that the split?
-- **Where did the gorge leave him and Gerolt?** Teacher and pupil, and his order killed Gerolt's family. Did Gerolt forgive him? Was Gerolt in the army, or Avarice, when he taught Silas?
 - **Is Silas a mirror of Alaric?** Alaric chases a past he can't remember; Silas can't stop reliving one he knows too well. Both must learn to live now.
-- **The sword may do the token's job.** As Gerolt's pupil, he would know his master's sword on sight. That could be his reason to help Alaric. *(My reading, to confirm.)*
 
 ### Gerolt
 
 - In a state that uses people by rank, how did an Eminent get to retire?
 - Where does his damage come from?
-- Was Gerolt ever part of Avarice? His token was network property.
 - When does he decide to send the boy to Marta? *Confirm.*
 - In Chapter 2 the boy refuses to leave ("I'm not leaving you", "Then I'll carry you"). If Gerolt can't use his fire while the boy is near, that refusal is what holds him back: the flaw at work, with a cost. Is that intended, and does Alaric ever learn it?
 
@@ -285,7 +285,7 @@ None of these have been changed yet. They're listed so nothing is forgotten when
 - Gerolt's split-shield token appears in Chapters 2, 3, 6, 7 (14 mentions), 8, 12, 13, 14 and 15. The sun tokens in Chapters 24–30 are unrelated.
 - The token currently does three jobs, and each needs a new carrier:
   - Marta's trust (Chapter 7);
-  - Silas's decision to help (Chapter 6);
+  - Silas's decision to help (Chapter 6): **resolved.** He recognises his master's sword;
   - proof of the network connection.
 - The sword also changes:
   - Gerolt's death in Chapter 2, which currently happens with the sword raised;
