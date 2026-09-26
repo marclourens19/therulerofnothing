@@ -138,6 +138,9 @@ These are rough shapes, not deadlines. The design bible warns against scheduling
   - The Time bearer and Freya stop him.
   - Wena is dead. Alaric passes out.
 - **The power that wakes is Spirit.** It takes the assassins' souls out of their bodies, and they die. (The author is open to doing this better.) The Silent Field's dead were killed by the spell, not by Alaric.
+- **The souls go into the Last Dark,** cast outside the Turning, never to return. He does to them what was done to him.
+- **Natharul's Hero, the living Spirit bearer, feels his Spirit affinity leave him for a second,** as if it were pulled out of him.
+- **Alaric's goal in Volume 3:** still open; the author doesn't know yet.
 - **The assassins are elite:** every one of them is strong enough to kill a Time bearer. Silas, Redd and Darcy are overwhelmed.
 - **The Time bearer understands only this:** this is who he was searching for.
 - **Seralune does not gain a companion in Volume 2.**
@@ -391,6 +394,13 @@ These are rough shapes, not deadlines. The design bible warns against scheduling
 
 - **Her speech as a gauge.** Could the way her speech slips mark both closeness and anger? *(Proposed by Claude.)*
 - **Her dream, fulfilled the wrong way.** She finally sees the world, but as a fugitive servant with a spreading corruption, and ends Volume 1 held by the Holy bearer. Should Volume 1 still give her real moments of wonder?
+
+### Veiled Affinities
+
+- **Is it a general rule?** When Alaric uses a Veiled Affinity, does its living bearer always feel it pulled out of them for a moment? If so, it answers an old open question: his Affinities aren't duplicates of the bearers', they're the same thing. It also means Thaeroval would feel Dark, Atera would feel Light, and the Time bearer would feel Time.
+- **Which bearers felt the tear?** The tear in Volume 1 passed Seralune's power through his Affinities. Under this rule, which bearers felt something pulled at that moment? In the old Chapter 30, Atera was destroyed and rebuilt on the stair.
+- **When do readers learn the souls went to the Last Dark?** Alaric can't know it, so the narration can't say it in Volume 3. It could be a later reveal that makes Volume 3 painful to reread.
+- **The Last Dark and the ending.** The ending reunites Alaric and Seralune in the Soul World. Does anything ever come back for the souls he cast out?
 
 ### Gerolt
 
