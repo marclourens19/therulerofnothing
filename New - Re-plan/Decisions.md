@@ -124,6 +124,7 @@ These are rough shapes, not deadlines. The design bible warns against scheduling
 - **The quote it follows (the author's words):** "Life is not measured by time, it is measured by moments. Some are big, some are small; most of them are small. Life is this way. Savour even the smallest, because that's all there is to it."
 - **Where it ends:** the world on the brink of all-out war, with Natharul and Mydea against Kozmagar.
 - **The Time bearer** is looking for Alaric.
+- **Not slow.** Volume 3 has blood and death. That's what makes people value the small moments: the big ones aren't guaranteed.
 
 ## Chapter 1
 

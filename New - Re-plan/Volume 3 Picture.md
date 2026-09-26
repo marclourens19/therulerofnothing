@@ -22,6 +22,10 @@ The volume tests whether small moments still matter when a war, and fate, are ab
 2. **Volume 2 asks what can I do:** action.
 3. **Volume 3 asks how do I live:** moments.
 
+## The author's direction
+
+**Not slow.** Volume 3 has blood and death. That's what makes people value the small moments: the big ones aren't guaranteed.
+
 ## Where it starts (decided)
 
 - **Alaric, his friends and Darcy** have crossed the sea to Kozmagar. They're wanted in Mydea, which is at war with beastfolk landing on its shores.
@@ -35,18 +39,28 @@ The volume tests whether small moments still matter when a war, and fate, are ab
 - **Seralune and Nereth** arrive on the same continent, and the two threads converge.
 - **The ending.** The world is on the brink of all-out war, Natharul and Mydea against Kozmagar. Alaric and Seralune meet.
 
-## Proposed shape (the design bible's five phases)
+## Proposed shape, revised for blood (the design bible's five phases)
 
-1. **Arrival.** Kozmagar is the first place in the series that doesn't rank people by magic. In the old canon, weakness there "does not remove ownership of one's life". Redd, Freya, Darcy and the Empty boy are simply people for the first time. That's the first glimpse of the world the series ends with, and it's why it must feel like freedom before anything threatens it.
-2. **Settling in.** Small moments build up: routines, meals, jokes, Alaric and Freya becoming serious. Seralune and Nereth get the same thing in their own thread: free for the first time, in a land that doesn't know the witch's face, with Nereth finally seeing the world. Meanwhile the war approaches through consequences, not announcements: prices, refugees, recruiters, rumours.
-3. **Reversal.** The Time bearer finds Alaric. For the first time in the new age, someone is drawn to Alaric, through time and without knowing why. That cracks "I am nothing" in a way no one has before. If Natharul's hidden aim from the old canon survives, the war's real target is the Time bearer himself, so the man seeking Alaric makes everyone near him a target.
-4. **The small things become precious.** The war closes in. Choices get made. The two threads draw together.
-5. **The big moment.** The brink tips, and Alaric and Seralune meet. A volume built mostly of small moments ends on one big one. That's the quote's shape turned into structure.
+The rule for the whole volume: **small moments happen between the violence, never instead of it.** Every quiet scene should feel stolen, because the last one ended in blood and the next one might too.
+
+1. **Arrival in blood.** The wartime sea crossing and landing are violent. Kozmagar greets humans and an elf with suspicion, and freedom has to be fought for before it can be enjoyed.
+2. **Moments between fights.** Meals, jokes and Alaric and Freya becoming serious, each one snatched between dangers. Seralune and Nereth get the same thing in their thread.
+3. **The Time bearer finds Alaric,** and blood follows him. If the war's hidden aim is to kill him, the assassins sent after him put everyone near him in danger.
+4. **Loss.** Someone the reader has shared small moments with dies. That proves the quote: the big isn't guaranteed.
+5. **The brink.** The war tips over, and Alaric and Seralune meet in the middle of it.
+
+**Proposed sources of blood:**
+- Mydea's hunters crossing the sea after the people who killed its soldiers and stole its strategist.
+- Natharul's agents, hunting the Time bearer (if the hidden aim survives), and hunting Seralune for her brother.
+- The war's opening raids and landings.
+- Kozmagar's own dangers. In the old canon, one of its capitals belongs to demons and a rogue demon lord's raid once killed Kurdag's daughter. A land that doesn't rank people by magic still has monsters.
+- Beastfolk who see a Natharul princess on their soil as an enemy.
 
 ## Proposed design rules for this volume
 
 - **Build routines to spend later.** Using the design bible's pattern method: establish a small ritual, repeat it, let someone else start it, break it, then recall it later. Volume 3's small moments are what Volume 4 and beyond will spend.
-- **Freedom before threat.** Kozmagar has to be enjoyed before the war reaches it.
+- **Freedom is fought for.** Kozmagar is enjoyed in stolen moments, between the dangers.
+- **Every death spends prepared value.** Anyone who dies must be someone the reader has shared small moments with, or the death is only spectacle (design bible, 19.4).
 - **The war arrives through its footprint** (prices, refugees, recruitment), not a lecture.
 - **Every thread has its own stake in "moments":**
   - **Silas** learns the past can't be changed.
@@ -57,6 +71,8 @@ The volume tests whether small moments still matter when a war, and fate, are ab
 
 ## Open
 
+- **Who dies in Volume 3?** Someone the reader loves. Deaths are the most expensive thing a long series spends.
+- **Which sources of blood?** Pick from the proposed list, or add your own.
 - **The Time bearer:** who he is, and what he wants when he finds Alaric.
 - **Alaric's external goal in Volume 3:** a verb.
 - **Darcy's choice:** her mind was stolen from Mydea. Does she help Kozmagar, or refuse to be anyone's strategist again?
