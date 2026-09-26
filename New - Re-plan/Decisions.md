@@ -137,6 +137,10 @@ These are rough shapes, not deadlines. The design bible warns against scheduling
   - A Veiled Affinity awakens in him, especially because Seralune is right there. He kills all the assassins, then goes for Seralune.
   - The Time bearer and Freya stop him.
   - Wena is dead. Alaric passes out.
+- **The power that wakes is Spirit.** It takes the assassins' souls out of their bodies, and they die. (The author is open to doing this better.) The Silent Field's dead were killed by the spell, not by Alaric.
+- **The assassins are elite:** every one of them is strong enough to kill a Time bearer. Silas, Redd and Darcy are overwhelmed.
+- **The Time bearer understands only this:** this is who he was searching for.
+- **Seralune does not gain a companion in Volume 2.**
 - **Darcy refuses to help Kozmagar.** She doesn't want any more blood on her hands.
 
 ## Chapter 1

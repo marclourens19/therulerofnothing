@@ -53,6 +53,11 @@ The rule for the whole volume: **small moments happen between the violence, neve
 4. **The climax (decided).** Alaric takes Seralune for one of the assassins because she's an elf. Wena defends him and is hit; hearing her whimper, he breaks. A Veiled Affinity awakens, especially because Seralune is right there. He kills every assassin and goes for Seralune. The Time bearer and Freya stop him.
 5. **The end (decided).** Wena is dead. Alaric passes out. This is Alaric and Seralune's first meeting.
 
+**Climax details (decided):**
+- **The power is Spirit.** It takes the assassins' souls out of their bodies, and they die.
+- **The assassins are elite.** Each is strong enough to kill a Time bearer, and they overwhelm Silas, Redd and Darcy.
+- **The Time bearer understands only** that this is who he was searching for.
+
 **Sources of blood (decided):**
 - **Mydea's hunters,** crossing the sea after the people who killed its soldiers and stole its strategist.
 - **Beastfolk scouts who know of Darcy.** Her strategy was used against Kozmagar, so the "free" continent has its own reasons to want her, or want her dead.
@@ -74,10 +79,9 @@ The rule for the whole volume: **small moments happen between the violence, neve
 ## Open
 
 - **Only Wena dies.** Silas is held for later.
-- **Which Veiled Affinity awakens,** and what does it look like on the page?
-- **Where are Silas, Redd, Darcy and Nereth** during the climax?
-- **What does the Time bearer understand** when he sees it?
-- **Does Seralune still gain a companion in Volume 2?** One who lives this time.
+- **Where do the souls go?** Into the Turning, as in a normal death, or cast outside it into the Last Dark?
+- **Does Natharul's Hero, the living Spirit bearer, feel a second Spirit wake?**
+- **What Nereth does** during the climax.
 - **The Time bearer:** who he is, and what he wants when he finds Alaric.
 - **Alaric's external goal in Volume 3:** a verb.
 - **Kozmagar's identity:** does it keep its old canon identity as the place that doesn't rank people by magic?
