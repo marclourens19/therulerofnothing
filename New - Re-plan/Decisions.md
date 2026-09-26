@@ -54,8 +54,16 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
   - **The moment itself.** His headspace feels unstable. He feels power inside him release, then sees mass destruction.
   - **His evidence.** Keep "It stopped at you" or equivalent evidence. At that moment, make it emotional: an internal war monologue, "Why did this happen? Why did I do it? Why me, when I'm empty?"
   - **What the reader knows:** somewhere in between. The reader sees what Alaric does and then sees the tear, but the narration never confirms the link. The reader suspects; no one on the page can know.
-  - **The kind of act that causes it:** done alone, on a belief that turns out to be wrong. *Whether it is also a good intention needs confirming; see Open questions.*
-- **Alaric's arc and external goal:** he wants to learn *who* he is. When he doesn't like the answer, his friends and the journey he has taken help him understand that he can decide who he is right now, instead of the past defining him. So he decides to save Darcy.
+- **What Volume 1 is about for Alaric:** he's so locked in on chasing the past, who he *was*, that he doesn't realise he's living right now. He's making a life right now, with friends who care about him.
+- **External goal:** he wants to learn *who* he is.
+- **The answer he doesn't like:** he finds that he is nothing. The answer he finds *is* nothing, so that's what he feels he is.
+- **The act that causes the tear:** he causes it while chasing who he was, alone and on a wrong belief.
+- **Through him, not from him.** Seralune is the one who can use his Veiled powers, but he feels it pass through him.
+
+## Volume 2 (what's known so far)
+
+- Darcy is rescued, by Alaric *with* his friends.
+- Coming to terms with himself, and learning to accept help, is Alaric's Volume 2 journey.
 - **Process.** The rest of the ending is decided slowly, mapped chapter by chapter until we get there.
 
 ## Chapter 1
@@ -125,11 +133,8 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 
 ### Volume 1 picture
 
-- **Which goal drives the act that causes the tear?** Is he chasing who he *was* (for example, following the voice) or trying to be *better* ("the person who has nothing, trying to be a better person, is the one who does it")? The first answer says "done alone, on a wrong belief" but doesn't repeat "good intention".
-- **Is it from him, or through him?** When he "feels power within him release", can he tell whether it came *from* him or passed *through* him? (Author-only lore: in the old bible, the tear's power is Seralune's mana passing through his Affinities.) Either way, "why me, when I'm empty" is itself the in-between: the evidence says him, and everything he knows about himself says he's incapable.
-- **The answer he doesn't like.** Is it the tear itself (learning what he might be capable of), or something he learns earlier in Volume 1?
-- **Timing of the Darcy decision.** Before or after the tear? Is it the final beat of Volume 1, with the rescue in Volume 2 as in the old plan, or does he save her within Volume 1?
-- **Alone or together?** The act that causes the tear is done alone. Is the Darcy decision made *with* his friends, so the change is visible?
+- **Alaric's last choice in Volume 1.** The design bible says a volume should end on a choice and a new condition, not just a wound. If coming to terms is Volume 2's work, what does he choose at the end of Volume 1?
+- **The mechanism, to confirm.** He reaches for his past, she reaches for him, and her power goes through him. Is it both of them reaching at once?
 - **Does Seralune believe it was her fault?**
 - **When does the truth come out, and to whom?** Which volume?
 - **Seralune and the question:** does her Volume 1 answer the same question from the other side? She has infinite mana, yet is treated as defective and dangerous.
