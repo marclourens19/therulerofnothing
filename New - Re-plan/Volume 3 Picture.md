@@ -49,9 +49,9 @@ The rule for the whole volume: **small moments happen between the violence, neve
 
 1. **Arrival in blood.** The wartime sea crossing and landing are violent. Kozmagar greets humans and an elf with suspicion, and freedom has to be fought for before it can be enjoyed.
 2. **Moments between fights.** Meals, jokes and Alaric and Freya becoming serious, each one snatched between dangers. Seralune and Nereth get the same thing in their thread.
-3. **The Time bearer finds Alaric,** and blood follows him. If the war's hidden aim is to kill him, the assassins sent after him put everyone near him in danger.
-4. **Loss.** Someone the reader has shared small moments with dies. That proves the quote: the big isn't guaranteed.
-5. **The brink.** The war tips over, and Alaric and Seralune meet in the middle of it.
+3. **Three forces converge on Alaric (decided),** with tension rising every chapter: the Time bearer, Seralune and Natharul's assassins.
+4. **The climax (decided).** Alaric takes Seralune for one of the assassins because she's an elf. Wena defends him and is hit; hearing her whimper, he breaks. A Veiled Affinity awakens, especially because Seralune is right there. He kills every assassin and goes for Seralune. The Time bearer and Freya stop him.
+5. **The end (decided).** Wena is dead. Alaric passes out. This is Alaric and Seralune's first meeting.
 
 **Sources of blood (decided):**
 - **Mydea's hunters,** crossing the sea after the people who killed its soldiers and stole its strategist.
@@ -73,10 +73,12 @@ The rule for the whole volume: **small moments happen between the violence, neve
 
 ## Open
 
-- **Who dies in Volume 3?** The author feels a main-cast death is too soon. Options raised: Redd, Wena, Silas, or a new companion that Seralune and Nereth make in Volume 2. *(Claude's recommendations are in the conversation of 26 September.)*
-- **Does Alaric's side lose someone too?** It wouldn't be main cast.
+- **Only Wena dies.** Silas is held for later.
+- **Which Veiled Affinity awakens,** and what does it look like on the page?
+- **Where are Silas, Redd, Darcy and Nereth** during the climax?
+- **What does the Time bearer understand** when he sees it?
+- **Does Seralune still gain a companion in Volume 2?** One who lives this time.
 - **The Time bearer:** who he is, and what he wants when he finds Alaric.
 - **Alaric's external goal in Volume 3:** a verb.
 - **Kozmagar's identity:** does it keep its old canon identity as the place that doesn't rank people by magic?
 - **The group's rituals:** what small routines does the group have? These are the author's to choose.
-- **The meeting image.**

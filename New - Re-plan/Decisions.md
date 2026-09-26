@@ -129,11 +129,14 @@ These are rough shapes, not deadlines. The design bible warns against scheduling
   - **Mydea's hunters,** crossing the sea after the group.
   - **Beastfolk scouts,** who know of Darcy.
   - **Natharul,** whose hidden aim survives: the war is to kill the Time bearer.
-- **A death (undecided).** A main-cast death in Volume 3 feels too soon to the author. Options raised by the author:
-  - Redd.
-  - A new companion that Seralune and Nereth make in Volume 2, who dies in Volume 3.
-  - Wena.
-  - Silas.
+- **Only Wena dies in Volume 3.**
+- **The climax (the author's design), which is also Alaric and Seralune's meeting:**
+  - The Time bearer and Seralune draw closer to Alaric's location, and Natharul's assassins close in too. Tension rises every chapter until they all converge.
+  - Alaric thinks Seralune is one of the assassins, because she's an elf.
+  - Wena defends Alaric against the assassins' attack and is hit. Hearing her whimper, Alaric finally breaks.
+  - A Veiled Affinity awakens in him, especially because Seralune is right there. He kills all the assassins, then goes for Seralune.
+  - The Time bearer and Freya stop him.
+  - Wena is dead. Alaric passes out.
 - **Darcy refuses to help Kozmagar.** She doesn't want any more blood on her hands.
 
 ## Chapter 1
@@ -337,7 +340,6 @@ These are rough shapes, not deadlines. The design bible warns against scheduling
 
 ### Volume 2 picture
 
-- **The meeting image** at the end of Volume 3. The author doesn't have one yet.
 
 ### Freya and Seralune
 
