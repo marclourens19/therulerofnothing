@@ -4,11 +4,11 @@ The fourth knock faded into the wood.
 
 There was no fifth.
 
-The boy stayed pressed behind the overturned bench with Gerolt's hand clamped on his shoulder. Under the bed, Wena had gone so quiet that he caught himself listening for her breathing.
+The boy stayed pressed behind the overturned bench with Gerolt's hand clamped on his shoulder. Under the bed, Wena had gone so quiet that he found himself listening for her breathing.
 
 Outside, the torch hissed. Its light lay across the floor in bars and didn't move on.
 
-Then the voice came again, several throats shaping the same words without keeping time with one another. It rose at the end, the way a question does.
+Then the layered voice came again. It rose at the end, the way a question does.
 
 Nobody answered it.
 
@@ -18,7 +18,7 @@ When it came back, the layering was gone. One voice now, a man's, in words the b
 
 He didn't raise his voice. Somewhere beyond the wall, a woman laughed.
 
-Gerolt's fingers dug into the boy's shoulder. He looked at the door. Then he looked down at the boy, and kept looking, long enough that the boy felt it.
+Gerolt looked at the door. Then he looked down at the boy, and kept looking, long enough that the boy felt it.
 
 His hand left the boy's shoulder.
 
@@ -48,15 +48,15 @@ He threw himself against the wall beside the doorway, behind the thick timber po
 
 The latch tore out of the frame. The hinges went with it. The whole door came across the cabin in one piece, turning in the dark, and the boy threw himself flat.
 
-Its lower edge passed close enough to leave splinters in his hair. It struck the back wall and burst, and half the planks behind it burst with it.
+Its lower edge passed close enough to leave splinters in his hair. It struck the back wall and broke apart, and half the planks behind it went with it.
 
 Then the wind came in after it.
 
-The bench tore out of his hands. The table went over. Pots ripped off their hooks and flew across the room, and a shutter wrenched loose and was gone into the night. The blanket wrapped his legs, then was torn away.
+The bench was pulled from his hands. The table went over. Pots ripped off their hooks and flew across the room, and a shutter wrenched loose and was gone into the night. The blanket wrapped his legs, then was torn away.
 
 The boy jammed his fingers into the gaps between the floorboards and held on.
 
-By the doorway, Gerolt's coat tore off its peg and was gone. He kept his head down behind the post.
+By the doorway, Gerolt's coat flew off its peg and was gone. He kept his head down behind the post.
 
 Then everything dropped.
 
@@ -78,7 +78,7 @@ The sword went up under the elf's jaw.
 
 Gerolt drove it through until the guard met skin and the point came out beneath the other ear. The elf's mouth opened around a sound that never came. Blood welled over his bottom teeth and spilled from both corners of his lips.
 
-He caught Gerolt's wrist and squeezed. His eyes were very wide. He stared at Gerolt with his mouth still working.
+He grabbed Gerolt's wrist and squeezed. His eyes were very wide. He stared at Gerolt with his mouth still working.
 
 Then he tried to breathe.
 
@@ -128,33 +128,33 @@ A slab of soil and rock slammed into Gerolt's chest and threw him back through t
 
 The boy scrambled towards him.
 
-Outside, the woman lurched to the nearest horse with one arm swinging loose at her side. She caught the saddle with the other and tried to haul herself up. Her boot slipped in the blood running off her face. Slipped again. At last she dragged herself across the horse's back and kicked it into the wheat.
+Outside, the woman lurched to the nearest horse with one arm swinging loose at her side. She got the other hand on the saddle and tried to haul herself up. Her boot slipped in the blood running off her face. Slipped again. At last she dragged herself across the horse's back and kicked it into the wheat.
 
-Hooves tore away through the stalks, and her screaming went with them into the dark.
+Hooves crashed away through the stalks, and her screaming went with them into the dark.
 
 Gerolt watched until the torchlight was gone. Then he let his forehead rest against the floor.
 
-A cough tore through him. Dark blood spattered the boards under his mouth.
+A cough shook him. Dark blood spattered the boards under his mouth.
 
 "Fucking elves," he rasped.
 
-Gerolt tried to turn over and stopped halfway with a hiss, caught on his side. Blood was spreading beneath him along the seams between the boards. The broken stone was still in him, and it moved when he breathed.
+Gerolt tried to turn over and stopped halfway with a hiss. Blood was spreading beneath him along the seams between the boards. The broken stone was still in him, and it moved when he breathed.
 
 The boy reached for it.
 
 "Don't." Gerolt caught his wrist with a wet hand. "Leave it where it is."
 
-So the boy bunched up Gerolt's shirt and pressed it against the blood welling around the stone. Gerolt hissed through his teeth.
+So the boy bunched up Gerolt's shirt and pressed it against the blood welling around the stone. Gerolt sucked air through his teeth.
 
 "I've got you," the boy said.
 
 Gerolt's hand settled over his instead of pushing it away.
 
-"Why did they come here?" The cloth was already soaking through under his fingers.
+"They came because of the field." The cloth was already soaking through under his fingers.
 
 "Doesn't matter now." Gerolt swallowed, and every line in his face tightened with it. "She got away."
 
-Beyond the doorway, the dead elf's horse turned circles under its empty saddle, snorting at the blood on the threshold. The boy looked from it to the dark where the torch had gone, and his stomach dropped.
+Beyond the doorway, the dead elf's horse turned circles in the moonlight under its empty saddle, snorting at the blood on the threshold. The boy looked from it to the dark where the torch had gone, and his stomach dropped.
 
 "She heard me."
 
@@ -202,7 +202,7 @@ The boy looked at it where it lay.
 
 The boy brought it over. It was heavier than it looked, and the grip was slick. Gerolt didn't take it. He folded the boy's fingers around the grip and held them there.
 
-"West," he said. "Across the river. Kelmend." His breath caught on the stone, and he waited until he had it back. "There's an inn by the south gate. Marta. Show her that. She'll know it."
+"West," he said. "Across the river. Kelmend." His breath snagged on the stone, and he waited until he had it back. "There's an inn by the south gate. Marta. Show her that. She'll know it."
 
 The boy stared at the blade across his knees.
 
@@ -242,13 +242,13 @@ Gerolt's hand had gone hot on his sleeve. He took it away and pressed it flat to
 
 Torchlight showed between the wheat stalks beyond the doorway. One flame. Then another. Then more than the boy could count.
 
-He caught Gerolt's arm. "Please."
+He held on to Gerolt's arm. "Please."
 
 Gerolt looked at him, and the hard lines of his face eased a little.
 
-"On that field…" He dragged in a thin, shaking breath. "Found one lad still breathing."
+"On that field…" He drew a thin, shaking breath. "Found one lad still breathing."
 
-His fingers tightened weakly on the boy's sleeve.
+His other hand found the boy's sleeve and tightened weakly on it.
 
 Wena pushed her muzzle under Gerolt's hand. He stroked her once more, slowly this time, from between her ears all the way down the back of her neck.
 
@@ -268,7 +268,7 @@ It drove in through the back of his skull and hooked itself behind his eyes. His
 
 The cabin came apart.
 
-The door hung whole on its hinges and lay in pieces against the back wall. Gerolt knelt over him, unhurt. Gerolt bled beneath his knees.
+The door hung whole on its hinges and lay in pieces against the back wall. Gerolt knelt over him, unhurt. Gerolt lay bleeding beside him.
 
 Then white opened through the middle of everything, and someone was running towards him.
 
@@ -284,7 +284,7 @@ The white convulsed. Pressure swelled inside his skull until he felt his eyes st
 
 *"…Ala…"*
 
-He reached for it. Agony tore from his fingertips to the base of his spine, and his body slammed against the floor. Gerolt caught the back of his head before it could strike again, and the effort dragged a cry out of his ruined chest.
+He reached for it. Agony ran from his fingertips to the base of his spine, and his body slammed against the floor. Gerolt caught the back of his head before it could strike again, crying out at the effort.
 
 He didn't let go.
 
@@ -320,9 +320,9 @@ It came out soft, roughened by blood. Then the old farmer's mouth pulled into a 
 
 An arrow whipped through the doorway and buried itself in the wall.
 
-Gerolt turned towards it. He caught hold of the doorpost and dragged himself up it. The stone shifted under his ribs, and blood ran freely down over his hip and into his boot, but he stood.
+Gerolt turned towards it. He got a hand on the doorpost and dragged himself up it. The stone shifted under his ribs, and blood ran freely down over his hip and into his boot, but he stood.
 
-His first try at a breath failed. He dragged in another.
+His first try at a breath failed. He managed a second.
 
 "Take Wena and run, Alaric."
 
@@ -348,6 +348,6 @@ Alaric's legs stopped.
 
 Then the night went orange.
 
-Flame burst up through the roof and ran along the beams. The last shutters blew outward. A wave of heat swept through the wheat, bending every stalk towards him, and struck him hard enough to throw him down among them.
+Flame broke through the roof and ran along the beams. The last shutters blew outward. A wave of heat swept through the wheat, bending every stalk towards him, and struck him hard enough to throw him down among them.
 
 Alaric lay in the wheat with Gerolt's sword beneath him and watched the house burn.
