@@ -39,6 +39,8 @@ The rules below come from the author's own instructions ("Never accept my words 
 - **Say what's yours.** Mark new lines, images and world facts as new. The author rejects what doesn't sound like them, and that's how the voice stays theirs.
 - **Keep the record current.** Put each answer into `Decisions.md` as it's given, and move answered questions out of "Open questions". Commit and push after each round, following the session's git instructions.
 - **Plain words.** Explain craft terms the first time. Keep chat short and put the detail in files.
+- **The old chapters' characters are out of date.** They were written before the characters were redesigned. Re-voice every character from `Decisions.md`, never from the old draft. For example, Gerolt must sound like Cid. The author: "this is the same for all future chapters we rewrite".
+- **Stay in one pair of eyes.** "Always stay in Alaric's eyes when the chapter is about him." Don't cut away to show what he can't see; let him see it from where he is. On Chapter 2, that means Gerolt's last stand is seen from the wheat.
 
 ## The principles
 

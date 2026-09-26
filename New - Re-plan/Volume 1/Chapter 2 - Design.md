@@ -36,12 +36,20 @@ The old chapter is in `Old - Before Re-plan/Volume 1 - Rewrites/Chapter 2 - The 
 
 ## Questions
 
-### Asked (round 1)
+### Round 1 (answered 26 September)
 
-1. Where does the chapter end, and whose eyes see the last stand?
-2. Does his name come back in this chapter, and does Gerolt say it?
-3. Does the boy still break his silence to warn Gerolt?
-4. Is the boy's refusal to leave what holds Gerolt's fire back?
+1. **Whose eyes, and the ending.** "Always stay in Alaric's eyes when the chapter is about him." End on Gerolt's cabin going up in flames, so old Chapter 3's opening moves here.
+2. **The name returns,** and Gerolt says it. "Remember to make Gerolt sound like Cid." The old chapter was written before the characters were redesigned, "and this is the same for all future chapters we rewrite".
+3. **He breaks his silence to warn Gerolt.** "Make the fight with [the female scout] more explicit and grotesque, like a boy seeing someone getting chopped up with a sword. Same for the first elf's death: let him choke on his own blood."
+4. **His refusal holds back Gerolt's fire.** "Fire is dangerous and Gerolt does not want to harm the boy."
+
+### Round 2 (asked)
+
+5. The four movements, and whether there are any scene breaks.
+6. Gerolt's voice: humour to the last, and which old lines stay (the table below).
+7. Kelmend and Marta.
+8. The neighbours.
+9. "Empty" as a name, before "Alaric".
 
 ### Later
 
@@ -51,3 +59,34 @@ The old chapter is in `Old - Before Re-plan/Volume 1 - Rewrites/Chapter 2 - The 
 - **"Empty" as a name.** Does Gerolt call him Empty in this chapter, before the name returns?
 - **The name Gerolt swallowed in Chapter 1.** Is it said here, or saved for later?
 - **The title.** Keep "The Price of a Voice"?
+
+## Proposed shape (for question 5)
+
+Chapter 1 has four movements, each ending on an image. Chapter 2 is one unbroken stretch of the same night, in one place and one pair of eyes, so the proposal is four movements with no `---` breaks:
+
+1. **The door.** From the fourth knock to the male scout standing in the empty doorway: the plain-spoken threat, the sword from under the floor, the wind.
+2. **The fight.** The first elf chokes on his own blood; the stone; "Gerolt!"; the wound; the second scout cut apart; she escapes. Ends on "She heard me."
+3. **The farewell.** The horns and arrows, the sword and Wena, "I'm not leaving you", the name, "There you are." Ends on "Take Wena and run, Alaric."
+4. **The wheat.** He runs, looks back, and sees Gerolt's hand catch fire as he turns to the door. Ends on the cabin going up.
+
+## Gerolt's old lines (for question 6)
+
+What makes a line Cid is dry humour over damage: orders instead of feelings, understatement about his own wounds, and never saying he cares. The recommendations below follow that, plus principle 5.
+
+| Old line | Recommendation |
+|---|---|
+| *Stay*, he mouthed. / "Down—!" | Keep. Orders under fire. |
+| "Fucking elves," he rasped. | Keep. It's stronger than his Chapter 1 swearing, which fits the moment. |
+| "Don't. Leave it where it is." (the stone in his side) | Keep. |
+| "Natharul scouts. Saw the field, maybe. Saw my light. Doesn't matter now. She got away." | Rework. He already said "Natharul" in Chapter 1, so keep only "Doesn't matter now. She got away." |
+| "Enough." (how many are coming) | Keep. |
+| "No, girl. Not this time." (Wena licking his blood) | Keep. |
+| "It's noth—" (he doesn't have the breath to finish the lie) | Keep. The understatement is very Cid. |
+| "Can't walk. Look at me, lad." / "Wasn't asking." / "You already did." | Keep. |
+| "On that field… Found one lad still breathing." | Keep. |
+| "Don't make me die watching you stop." | Cut or rework. It explains his reason (principle 5). |
+| "She'll stay if you do. That's why you have to take her." | Keep the first sentence, and cut the second (principle 5). |
+| "Stubborn little bastard. All that emptiness, and still no room in you for sense." | Rework around "Empty" (question 9). |
+| "Alaric." / "There you are." | Keep. This is the one place his humour drops. |
+| "Take Wena and run, Alaric." | Keep. He hands over the sword with it. |
+

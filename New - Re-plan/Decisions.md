@@ -9,6 +9,8 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - One step at a time, together.
 - Never accept the author's words as fact. Challenge them, and ask questions until the intent is clear.
 - Never name a character or give one a trait without the author's input.
+- **Whose eyes.** "Always stay in Alaric's eyes when the chapter is about him." *(Agreed 26 September.)*
+- **Rewritten chapters use the characters we decided, not the old drafts.** The old chapters were written before the characters were redesigned. For example, Gerolt must sound like Cid. "This is the same for all future chapters we rewrite." *(Agreed 26 September.)*
 - Principles settled here become the rules of the rewriting skill. The skill is `.claude/skills/chapter-rewrite/` (created 26 September, after Chapter 1). When a principle here changes, update the skill to match.
 
 ## Principles
@@ -167,6 +169,16 @@ These are rough shapes, not deadlines. The design bible warns against scheduling
 - **The narration keeps "the boy",** with one age cue restored: Gerolt guesses "twenty winters, maybe".
 - **Gerolt's surname stays out of Chapter 1.** "Warde" comes later, from someone who knew him.
 - **Revisions 1 and 2 applied and approved (26 September).** Every change is listed with its before and after in `Volume 1/Chapter 1 - Changes.md`. Only change 21 was rejected. The earlier draft is kept in `Volume 1/Drafts/`.
+
+## Chapter 2
+
+The plan is built in `Volume 1/Chapter 2 - Design.md`.
+
+- **Whose eyes, and the ending.** The whole chapter is in Alaric's eyes. It ends on Gerolt's cabin going up in flames. Old Chapter 3's opening ("the night went orange") moves into Chapter 2. *(Claude's proposal, which the author's answer implies: the last he sees of Gerolt is his hand catching fire as he turns to the door.)*
+- **The name returns,** and Gerolt says it back before he sends him away. Gerolt must sound like Cid.
+- **He breaks his silence** to warn Gerolt about the stone. It saves Gerolt for the moment, and the escaping scout hears it.
+- **The fight is explicit and grotesque,** as a boy sees it. The first elf chokes on his own blood. Gerolt cuts the female scout apart with the sword.
+- **His refusal to leave is what holds Gerolt's fire back.** "Fire is dangerous and Gerolt does not want to harm the boy." It's never explained on the page, and Alaric doesn't learn it in Volume 1.
 
 ## Alaric
 
@@ -418,7 +430,6 @@ These are rough shapes, not deadlines. The design bible warns against scheduling
 - What is the name he swallows when the riders arrive in Chapter 1? It's more specific than "Natharul", which he has already said aloud.
 - Where does his damage come from?
 - When does he decide to send the boy to Marta? *Confirm.*
-- In Chapter 2 the boy refuses to leave ("I'm not leaving you", "Then I'll carry you"). If Gerolt can't use his fire while the boy is near, that refusal is what holds him back: the flaw at work, with a cost. Is that intended, and does Alaric ever learn it?
 
 ### World
 
