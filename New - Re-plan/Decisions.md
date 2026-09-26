@@ -154,7 +154,11 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - **Hatred.** He hates, hates, *hates* elves for what they did to his village and his family.
 - He carries his father's sword. He still names Alaric "Al" later on.
 - **Magic.** Low Earth; that's simply what he is. No hidden power.
-- **Tested and put in service.** When he and Freya ran away, they were tested. He was put in service to someone in Kelmend. He takes care of his sister, because she had nowhere else to go.
+- **Age:** 28.
+- **After the village burned.** He was 8 and Freya was 1. They survived on the road for two years before coming to Kelmend.
+- **Tested and put in service.** He was tested at ten, two years after the fire. Both children were taken, and he was put in service to someone in Kelmend. He takes care of his sister, because she had nowhere else to go.
+- **His master died of old age.** He is no longer in service when Alaric meets him.
+- They grew up in Kelmend's Faint quarter.
 - **Character.** Warm and funny, and carries pain. His humour is how he butts heads with Silas, and how he shows he cares deeply for his sister.
 - **Lives in the present.**
 - **Flaw:** he's often too carefree when seriousness is needed.
@@ -165,7 +169,7 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 
 - **Age.** 21: Redd's younger sister, one year older than Alaric.
 - **Backstory.** The same as Redd's, but she was too young when it happened.
-- **Magic.** Eminent Water. She was tested when she and Redd ran away, and was left alone.
+- **Magic.** Eminent Water, but she was never tested. She grew up with Redd in Kelmend's Faint quarter.
 - **Elves.** She doesn't hate them.
 - **Her brother.** She admires him greatly, follows him and clings to him, and leans on him too much.
 - **What she must learn:** to be her own individual person.
@@ -274,9 +278,9 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 
 ### Redd and Freya
 
-- **Timeline.** Tests are legally binding at ten. If the village burned twenty years ago and Freya is 21, she was 1 then and was tested at ten. How old is Redd, and when was each of them tested?
-- **Is Redd still in service when Alaric meets him?** If so, joining the party means running from whoever holds him. He'd be a fugitive, and his master might come after him.
-- **Why was an Eminent orphan left alone?** Mydea sends recruiters after Eminents (they came for Marta at eight). How has Freya stayed out of the state's hands? Will it come for her?
+- **How did Freya avoid testing** at ten, in a kingdom that tests every child and wants to know everything?
+- **Does anyone know she's Eminent?** Does she, or Redd? If the state finds out, it will want her, as it wanted Marta. That's a danger they live with.
+- **Redd's status after his master died.** Under stewardship law a Faint is assigned a custodian. Was he reassigned, or has nobody noticed he's unclaimed?
 - **When do Alaric and Seralune first meet?** The Freya romance needs room. Meeting in Volume 2 leaves little; Volume 3 or later leaves plenty. To decide in the Volume 2 and 3 pictures.
 
 ### Gerolt
@@ -340,7 +344,7 @@ None of these have been changed yet. They're listed so nothing is forgotten when
 ### Redd loses his hidden power; Freya is new
 
 - The old Redd has hidden Exalted Earth: the title of his entry in `Old - Before Re-plan/World Bible/The World.md` (line 876), and `Main Characters.md:362`. Scenes that relied on big, wild workings need rethinking for low Earth. Examples: the earth shelf that holds up Foramen's wall (Chapter 20), and the heaved flagstones in Helmi's house (Chapter 26).
-- The old Redd was never tested and "No master owns him" (`The World.md`, Redd entry). Now he was tested and put in service in Kelmend.
+- The old Redd was never tested and "No master owns him" (`The World.md`, Redd entry). Now he was tested at ten and served a master in Kelmend until the master died of old age.
 - The old Redd has no sister, so every scene with Redd changes.
 
 ### Broken Shield becomes Avarice
