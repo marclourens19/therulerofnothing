@@ -17,6 +17,17 @@ The story is being re-planned from the beginning. Current work lives in **New - 
   - `Chapter 1 - Changes.md`: every change in the latest revision, with its before and after.
   - `Drafts/`: earlier versions of the chapters, kept unchanged.
 
+## The rewriting skill
+
+`.claude/skills/chapter-rewrite/` holds the method worked out on Chapter 1, so that Claude uses it for every later chapter:
+
+- `SKILL.md`: where canon lives, how to work with the author, the principles, the step-by-step method and the house style.
+- `references/chapter-1-lessons.md`: every lesson from Chapter 1, shown as a before and after.
+- `references/final-check.md`: the checklist for a chapter's final pass.
+- `scripts/`: one script applies a change list and writes the before/after file; the other runs the mechanical style check.
+
+The folder name starts with a dot, so Obsidian hides it. Open it on GitHub or in a file browser.
+
 ## Old - Before Re-plan
 
 - **`Volume 1 - The Silent Field/`**: the original drafts of Chapters 1–22, and the Arc 1 Story Basis.

@@ -9,7 +9,7 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - One step at a time, together.
 - Never accept the author's words as fact. Challenge them, and ask questions until the intent is clear.
 - Never name a character or give one a trait without the author's input.
-- Principles settled here become the rules of the rewriting skill.
+- Principles settled here become the rules of the rewriting skill. The skill is `.claude/skills/chapter-rewrite/` (created 26 September, after Chapter 1). When a principle here changes, update the skill to match.
 
 ## Principles
 
