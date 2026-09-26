@@ -54,7 +54,7 @@ The author considers this chapter close to the model for the rest of the story. 
 3. **He must react to the dead elves.** The boy sees "pale soldiers with pointed ears" (131), but Gerolt never mentions them. His window speech (423–435) covers the banners, the armour, the "silver devils" and the beastfolk, but not the elves. Under Natharul's collective punishment, dead elves on his land threaten him and his neighbours.
 4. **His fear must include what Mydea does to people with no magic.** At present his reaction to the Affinity test is supernatural unease: he looks at the boy "the way he had looked at the violet sparks" (399). The decision is that he's scared the boy won't survive in this world. He can't shelter him because of what would happen, and he won't harm him. In a kingdom of informers, people will talk.
 5. **"Empty" has to be spoken.** The closest line is "I've never seen one come up this empty" (413). The word carries the whole Volume 1 question and "Why me, when I'm empty?"
-6. **The flame (your idea, not yet locked).** It would restructure the Affinity scene (355–419): Gerolt calls a flicker of fire; the boy sees magic for the first time, recognises it as "magic", and knows something is missing inside himself. It would also:
+6. **The flame (locked 26 September).** The boy thinks "magic" and doesn't say it. Gerolt uses his fire daily. A small flicker is fine; he still doesn't fight with fire until his last stand. It would restructure the Affinity scene (355–419): Gerolt calls a flicker of fire; the boy sees magic for the first time, recognises it as "magic", and knows something is missing inside himself. It would also:
    - let most of the repeated Affinity dialogue go;
    - pay off the candle burn (601);
    - raise the open question of whether the flicker marks his palm.
@@ -88,7 +88,7 @@ The author considers this chapter close to the model for the rest of the story. 
 
 ## 5. Undecided: needed before revising
 
-1. Is the flame scene locked?
+1. ~~Is the flame scene locked?~~ Yes.
 2. Which belief stays wrong: line 139 (he concludes the dead were his people) or line 571 (he concludes he was what they came to stop)?
 3. Does Gerolt expect people by morning (neighbours, the church, soldiers)? If he does, the cabin has a deadline.
 4. Does Gerolt know about the secret agreement that lets Natharul's scouts roam Mydea? That knowledge would be the first real hint of his Avarice past.

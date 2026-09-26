@@ -152,7 +152,11 @@ These are rough shapes, not deadlines. The design bible warns against scheduling
 - **Gerolt reacts to the dead elves** on his land.
 - **An uncorrected wrong belief.** At least one belief he forms in Chapter 1 stays uncorrected; the reader learns later that it was wrong. *Which belief: open.*
 - **Why he's shocked when he sees magic:** he has forgotten everything about himself and everything around him. The spell a thousand years ago literally erased his existence.
-- **The author's scene idea, not yet locked:** during the Affinity questioning, Gerolt summons a flicker of flame in his hand to show the boy. The boy is shocked. He recognises magic "from outside", drawing the resemblance, but knows something is missing inside himself.
+- **The flame (locked).** During the Affinity questioning, Gerolt summons a flicker of flame in his hand to show the boy. The boy is shocked. He recognises magic "from outside", drawing the resemblance, but knows something is missing inside himself.
+  - The boy *thinks* "magic"; he doesn't say it aloud.
+  - Gerolt uses his fire every day. It isn't something he has put away.
+  - A small, controlled flicker is compatible with him not using fire in a fight until his last stand.
+- **Revision format.** When the corrected chapter is written, show the author what changed and what was added, each as a before and after.
 
 ## Alaric
 
@@ -363,7 +367,6 @@ These are rough shapes, not deadlines. The design bible warns against scheduling
 - Does Gerolt expect people to arrive by morning (neighbours, the church, soldiers)? If he does, the cabin scene has a deadline.
 - The narration calls him "the boy" and Gerolt calls him "lad". Should both stay, given he's twenty? The new draft also lost the line that told readers his age ("Barely twenty winters on you").
 - Should Chapter 1 carry the horror that nobody on earth knows him? It's the opposite of Subaru's situation, where everyone knows him and he doesn't know them.
-- Is the flame scene locked?
 
 ### Seralune
 
