@@ -50,7 +50,7 @@ The voice came from above him now. Closer. Every word landed like a weight, and 
 
 He tried to open his eyes, and something else opened instead.
 
-Light—though his eyes were still shut, still crusted with mud. It came from nowhere outside him and swallowed everything regardless. For one impossible moment there was no mud beneath him, no sky above, no up or down at all. Only the sense of being pulled thin towards somewhere he would never reach.
+Light—though his eyes were still shut, still crusted with mud. It came from nowhere outside him and swallowed everything regardless. For one impossible moment there was no mud beneath him, no sky above, no up or down at all. Only the sense of being pulled thin toward somewhere he would never reach.
 
 The light didn't blind him. It searched him, the way a hand searches a dark room for something it already knows the shape of.
 
@@ -60,11 +60,11 @@ Then it let go, and he was back behind his own closed eyes.
 
 The boy opened them.
 
-Inches from his face, a dead man's hand jutted out of the mud, fingers still curled around a spear shaft snapped off halfway up its length.
+The sun stood directly overhead. Inches from his face, a dead man's hand jutted out of the mud, fingers still curled around a spear shaft snapped off halfway up its length.
 
 He couldn't turn away from it. He strained his eyes sideways instead and found more of the same—bodies in armour, bodies in almost nothing, none of them moving. He dragged in a breath so hard it locked in his chest.
 
-The cold weight across his ribs was heaved aside. Heavy hands closed on his shoulders.
+Heavy hands closed on his shoulders.
 
 "Easy. Easy, lad—by the Four, boy, steady—"
 
@@ -78,7 +78,7 @@ The movement drove a spike through the centre of his skull, and his own pulse ha
 
 "Easy now. I've got you." The hands stopped trying to move him and simply held on.
 
-The sun stood directly overhead. He shut his eyes against it and breathed in ragged pulls. Beneath the pain, one fact surfaced and stayed there: he was alive.
+He shut his eyes against the glare and breathed in ragged pulls. Beneath the pain, one fact surfaced and stayed there: he was alive. He understood the word completely. He couldn't remember the life it was meant to describe.
 
 Something warm slid from his hair down the side of his temple. He touched it with a shaking hand. His fingers came back smeared with mud and something darker. A stiff lock of hair had fallen across his eyes; he pushed it aside with the heel of his palm.
 
@@ -112,7 +112,7 @@ The world smeared into brown and red and white. He lurched sideways and caught a
 
 Slowly, the shapes steadied.
 
-He looked towards the horizon, and forgot to breathe.
+He looked toward the horizon, and forgot to breathe.
 
 ---
 
@@ -122,11 +122,11 @@ The boy tried to count the nearest bodies. The number fell apart before he reach
 
 Some had died fighting, their swords still buried in shields or held above their heads halfway through a final blow. Others had simply fallen where they stood. One soldier remained on his knees with both hands wrapped around a spear, though there was no wound on him that the boy could see. Nearby, a horse lay with its forelegs stretched forward as if it had collapsed in the middle of a stride. Its rider was trapped beneath it, reaching towards another man whose fingers rested inches away.
 
-Neither man had reached the other.
+Neither man had reached the other. The battle had not ended so much as been *interrupted*.
 
 Seamless silver structures stood above the bodies. One had collapsed on jointed legs taller than a man. Another lay on its side, its smooth front broken only by a narrow opening blackened around the edges.
 
-*Machines.* The word came to him before he could ask for it. He could not have said how they worked. Looking at that blackened opening, he knew what they had been built to do.
+The boy knew carts and wheels. He knew what hammers, fire and ordinary hands could shape in a forge. None of that explained these things, yet the word *machine* came to him before he could ask for it. He could not have said how they worked. He knew what they had been built to do.
 
 Pale soldiers with pointed ears lay among the men. Farther out were creatures with horns, claws and shoulders broad enough to strain the armour wrapped around them. One horned warrior had died beside a human soldier, close enough that their shoulders touched. Their weapons pointed in the same direction.
 
@@ -134,7 +134,7 @@ Pale soldiers with pointed ears lay among the men. Farther out were creatures wi
 
 Banners lay trampled among the dead. Their colours should have divided the field into armies, but he knew none of them. The faces offered no more: human, pale, horned; young enough to have been frightened and old enough to have learned how to hide it. Every one was a stranger.
 
-He looked down at the blood stiffening on his clothes.
+Blood covered the boy's clothes. He found no wound beneath it.
 
 *Was I here with them?*
 
@@ -148,7 +148,7 @@ The dead did not thin out towards the edge. Burned earth did not soften into tra
 
 He searched for the path the army had taken. Thousands of soldiers should have crushed the crop beneath their boots. Horses, carts and those towering machines should have left roads of torn earth behind them. There were no wheel ruts, no abandoned supplies, no trail of broken wheat leading towards the horizon.
 
-Nothing had entered through the crop.
+Nothing had entered through the crop. The entire battlefield had appeared in its midst without bending a single stalk beyond it.
 
 Behind him, the old man released a breath.
 
@@ -200,7 +200,7 @@ There were no bodies inside. No blood, armour, bone or metal. Not even ash carri
 
 Only a single white flower stood near its edge, its folded petals untouched.
 
-The boy stared at the empty centre.
+The boy stared at the empty centre. Some part of him insisted it should not have been empty.
 
 *Someone was there.*
 
@@ -218,7 +218,7 @@ The boy's breath caught. He knew what it meant.
 
 The remembered warmth vanished. The taste of blood and ash filled the back of his throat, thickened by the stench of opened bodies, and his stomach clenched hard enough to fold him forward. He covered his mouth too late. Bile and bloody spit struck the scorched earth between his hands.
 
-"Easy, lad!"
+"Easy—by the Four, lad!"
 
 The farmer dropped beside him, one hand at his back and the other clamped around his arm. The first words reached the boy clearly. Everything after them sounded farther away.
 
@@ -232,7 +232,7 @@ The old man caught him before he struck the ground, swore under his breath and h
 
 "Ten paces," the farmer muttered, rising with a grunt he did not bother to hide. "You couldn't have fallen ten paces nearer the house. Heavy little shite, and half-starved besides. Where do you even keep it—"
 
-He kept talking, low and constant, the way a man talks when he needs to keep his own hands steady.
+He talked through the whole walk back, low and constant, the way a man talks when he needs to keep his own hands steady.
 
 Past the farmer's back, at the edge of the boy's narrowing vision, a violet spark stretched between two stones. It thinned until it was no wider than a strand of hair.
 
@@ -250,13 +250,15 @@ A stone hearth popped and hissed nearby, throwing shadows up rough wooden walls 
 
 There was a small table with a candle burning low, iron pots hanging from hooks, and a shuttered window black with night. By every measure, it was an ordinary cabin.
 
-One bowl sat on the counter. One coat hung by the door. There was one bed, and he was lying in it.
+The boy knew what the table was for. He understood why the pots hung beside the hearth and why the shutters had been closed against the night. He knew the purpose of everything he saw.
 
-The old man from the battlefield sat on a low stool beside the hearth. He had set it where he could see both the bed and the door. A dented metal mug rested between his hands, and his shoulders sagged as he stared into the fire.
+He could not remember where he had learned any of it.
+
+The old man from the battlefield sat on a low stool beside the hearth. A dented metal mug rested between his hands, and his shoulders sagged as he stared into the fire.
 
 The blankets rustled, and the man looked up. When the boy tried to push himself upright, he raised one broad hand.
 
-"Easy now. You've been senseless since midday. If you mean to sit up, do it slowly. I'm too old to catch you twice in one day."
+"Easy now. You've been senseless since morning. If you mean to sit up, do it slowly. I'm too old to catch you twice in one day."
 
 The boy stopped halfway and waited for the room to settle.
 
@@ -272,15 +274,15 @@ The boy stopped halfway and waited for the room to settle.
 
 "Aye, Mydea. This kingdom we're in." Gerolt gestured vaguely with his mug. "My house, my farm, and what used to be my wheat field are all Mydean land. So no, I haven't moved you that far. Carrying you as far as this bed nearly finished me, and I'll be feeling it in my back for a week."
 
-He pressed a fist into the small of his back to prove it.
+A small laugh escaped him, though it didn't reach far.
 
 *Mydea.*
 
-His fingers closed around the blanket as he waited for the name to stir something inside him. Nothing did.
+It was the name of an entire kingdom, and the boy had never heard it before. His fingers closed around the blanket as he waited for the name to stir something inside him. Nothing did.
 
 "The name should mean something, shouldn't it?" His breath shortened. "But it doesn't. I've never heard it before."
 
-Gerolt forgot about his back.
+Gerolt's laughter stopped.
 
 "Never heard of it. Lad, you're currently lying in it." He leaned forward, the mug forgotten between his hands. "You must remember a road, a town, whose colours you marched under. Something. People don't usually turn up on my land from nowhere in particular."
 
@@ -304,7 +306,7 @@ The boy rubbed the dark material between his fingers.
 
 "Who made it?" Gerolt asked.
 
-"I don't know. I keep looking for something in them—a mark, a colour, anything that might explain who made them or why I was wearing them. There's nothing."
+The boy looked down at the fabric. "I wish I could tell you. I keep looking for something in them—a mark, a colour, anything that might explain who made them or why I was wearing them. There's nothing."
 
 "Yet they fit you."
 
@@ -316,11 +318,13 @@ The answer left him more sharply than he intended. Gerolt drew his hand back and
 
 The boy ran his thumb over the seam and waited for a memory to come. When nothing did, his nail slipped beneath one of the stitches.
 
-"Leave the cloth alone before you unpick the poor thing entirely," Gerolt said. "We'll start simpler. You've twenty winters on you, maybe. Somebody's been calling you something for every one of them. What is it?"
+"Leave the cloth alone before you unpick the poor thing entirely," Gerolt said. "We'll start simpler. What do people call you?"
 
 The boy opened his mouth.
 
 The answer should have come without thought. Instead, he sat there with his lips parted while Gerolt waited.
+
+Nothing came.
 
 "Well?" Gerolt prompted.
 
@@ -334,15 +338,21 @@ Whatever suspicion Gerolt had been holding left his face.
 
 "All right," he said, quieter now. "What about home? A village, a city, a river. Anything you recognise."
 
-"I know what those things are. I can picture them when you say the words." The boy gripped the blanket harder. "None of them feel familiar. There has to be something." He heard his voice rising and could not stop it. "I can't have *nothing*."
+"I know what those things are. I can picture them when you say the words." The boy gripped the blanket harder. "None of them feel familiar."
 
-His hands returned to his collar, then his cuffs, then every strip of stitching he could reach.
+"Nothing before this morning?"
+
+"There has to be something." The boy heard his voice rising and could not stop it. "I can't have *nothing*."
+
+"Easy. You're shaking badly enough without tearing your clothes to pieces on top of it."
+
+The boy barely heard him. His hands returned to his collar, then his cuffs, then every strip of stitching he could reach.
 
 *Someone made these. Someone will recognise them.*
 
-There was nothing hidden in the lining. He checked every seam twice anyway.
+There was nothing hidden in the lining. He checked every seam twice anyway, then stopped himself before beginning a third search.
 
-"Wait." Gerolt caught his wrist as his nail found another stitch. "There's one more thing worth trying before you pull it apart. What's your 『Affinity』?"
+"Wait." Gerolt caught his wrist as his nail found another stitch. "Leave the coat alone. There's one more thing worth trying before you pull it apart. What's your 『Affinity』?"
 
 The boy's hand went still.
 
@@ -352,23 +362,23 @@ The boy's hand went still.
 
 The boy looked towards the hearth. Fire meant heat, light and the pain of touching it. None of that told him why it should know him in return.
 
-Gerolt read his face and gave up on explaining. He set the mug on the floor and held out one hand between them, palm up.
+"So it isn't something I learned," he said slowly. "Not like knowing what a spoon is for without remembering who put one in my hand. It's more like my height or the colour of my eyes. Something that's there whether I remember it or not."
 
-A flame opened in it.
+"Aye. Close enough."
 
-It was no bigger than a candle's, and there was no wick beneath it, no oil, no wood. It leaned when Gerolt breathed, then straightened. Its light moved over the calluses on his palm.
+"Then how could I lose it?" His voice caught somewhere in the question, and he had to push through it. "How could there be nothing?"
 
-The boy forgot the stitches and the blanket and the pounding in his skull.
+"There isn't supposed to be." Gerolt's mug sat forgotten between his hands. "That's my whole point."
 
-『Magic』
+"Then try telling me how to find it, instead of just telling me it's there."
 
-The word rose from the same place as before, whole and certain. The boy kept it behind his teeth.
+"Close your eyes. Don't chase after it—that only scares it off. Sit still and feel for whichever one already belongs to you."
 
-Gerolt closed his hand, and the flame went out between his fingers without smoke. When he opened it again and rested it on his knee, the skin of his palm had reddened, as if he'd held it too near the hearth. He didn't look at it.
+"That explains nothing."
 
-"That's mine," he said. "Fire. Now close your eyes. Don't chase after it—that only scares it off. Sit still and feel for whichever one already belongs to you."
+"I know. Nobody's ever had to explain it to me before. It's just—there. The way a man doesn't need someone to point out he's got hands."
 
-The boy closed his eyes.
+The boy closed his eyes anyway. Gerolt had carried him home, cleaned him and given him the bed. The least he could do was try.
 
 The fire ticked and settled somewhere to his right. The blanket was rough beneath his thumb. His pulse beat once, twice, past ten, behind the ache in his temple, and the wind pushed at the shutters like it wanted in.
 
@@ -384,39 +394,29 @@ He opened his eyes. Gerolt was already watching him.
 
 "Then there's nothing."
 
-Gerolt's hand closed over his knee. One leg of the stool scraped across the floor as his weight shifted back, scarcely an inch, but the sound cut through the room. His gaze dropped to the boy's empty hands and then flicked towards the door.
+Gerolt's fingers tightened around the mug. One leg of the stool scraped across the floor as his weight shifted back, scarcely an inch, but the sound cut through the room. His gaze dropped to the boy's empty hands and then flicked towards the door.
 
-Then Gerolt planted both boots and leaned towards him again.
+For one breath, he looked at the boy the way he had looked at the violet sparks.
+
+Then Gerolt set the mug on the floor, planted both boots and leaned towards him again.
 
 "Give it another moment. Sometimes it's shy the first—"
 
-"You said it already belongs to me." The words came faster now, and once they started he found he couldn't slow them back down. "You said I'd feel it. I don't feel fire. I don't feel water. I don't feel earth or wind or some fifth thing you haven't mentioned because you're hoping I won't need it. I feel a fire that isn't mine, and wind that isn't mine, and a headache that's at least probably my own, and that is the whole list, Gerolt. That is every single thing I have."
+"You said I would know it." The words came faster now, and once they started he found he couldn't slow them back down. "You said I'd feel it before I could even put words to it. I don't feel fire. I don't feel water. I don't feel earth or wind or some fifth thing you haven't mentioned because you're hoping I won't need it. I feel a fire that isn't mine, and wind that isn't mine, and a headache that's at least probably my own, and that is the whole list, Gerolt. That is every single thing I have."
 
 Gerolt said nothing.
 
-"So either I'm doing this wrong," the boy said, quieter now that the anger had burned through as fast as it had come, "or there's actually nothing there. Tell me which. Ever since I woke, I've been finding out what's missing one piece at a time. I'd rather hear this one from you."
+"So either I'm doing this wrong," the boy said, quieter now that the anger had burned through as fast as it had come, "or there's actually nothing there. Tell me which. Because ever since I woke, I've been finding out I'm missing things one piece at a time, and I would rather hear it plainly than keep discovering it the way I discovered I don't have a name."
 
 Gerolt was quiet long enough that the boy almost took it back.
 
-"I don't know which," he said finally. "That's the truth of it. I've seen men forget their wives. I've seen men forget the war. I've seen Faint who couldn't warm a cup of water to save their lives, and even they had something that answered when they called." He rubbed both palms against his knees, one more carefully than the other. "You're not Faint. You're…"
-
-He seemed to search for the word.
-
-"Empty?"
-
-When Gerolt spoke again, it was quieter, and not quite to the boy. "They test every child at ten. The ones who come up Faint get taken off their mothers, and they call it protection."
-
-"What about someone with none?"
-
-Gerolt's gaze had gone to the door, and it stayed there, as if someone might already be standing on the other side of it.
-
-"I keep hoping if I say the right thing, something in you will just—answer," he said at last. "Like calling a dog that's wandered off. Maybe it didn't hear you the first time."
+"I don't know which," he said finally. "That's the truth of it. I've seen men forget their wives. I've seen men forget the war. I've never seen one come up this empty." He rubbed both palms against his knees. "I keep hoping if I say the right thing, something in you will just—answer. Like calling a dog that's wandered off. Maybe it didn't hear you the first time."
 
 "And if it doesn't come the second time either?"
 
-"Then you call again. Louder. I'm a farmer, not a scholar. Calling louder is the whole of my strategy."
+"Then you call again. Louder." Something almost like a smile crossed his face, though there wasn't much behind it. "I'm a farmer, not a scholar. Calling louder is the whole of my strategy."
 
-The boy didn't answer that.
+The boy didn't answer that. He was too tired to find it funny, and too frightened to let it comfort him, and he sat there with both feelings pressing on him at once until neither one won.
 
 Gerolt rose and crossed to the window instead of pressing further, opening the shutter a finger's width to stare into the night, one hand braced against the frame.
 
@@ -424,7 +424,7 @@ Gerolt rose and crossed to the window instead of pressing further, opening the s
 
 "You were a soldier."
 
-"Long enough. And in all those years, I never saw men fight beside beastfolk."
+"Long enough." His jaw worked once. "And in all those years, I never saw men fight beside beastfolk."
 
 The boy saw the horned warrior again, his shoulder against the human soldier's and both weapons aimed the same way. "But they were."
 
@@ -434,17 +434,11 @@ He kept one eye to the opening in the shutter.
 
 "So either I've been wrong about how the world works for sixty years, or something out there made it true just long enough to kill every one of them."
 
-"And the pale ones?" the boy asked. "With the pointed ears?"
-
-"Natharul." Gerolt said it low, as if the dark outside might carry it. "When one of theirs dies, they don't ask who did it. They ask where."
-
-The boy thought of the pale faces among the dead. "Then they'll ask about here."
-
-"Aye. And the nearest house with children in it is two fields over." He was still watching the dark where the field lay. "Come first light, somebody'll see the crows. By noon, somebody'll have sold what they saw, and there'll be men at my door asking what I found out there."
-
 Something beneath the bed gave a thin whine.
 
 The boy looked down.
+
+"Wena?"
 
 "That's Wena." Gerolt nodded towards the darkness beneath the frame. "Barks at owls, carts, the wind changing its mind about which direction to blow. Give her half an excuse and she'll use it. Last night, not a sound out of her."
 
@@ -458,7 +452,11 @@ The eyes vanished again as Gerolt closed the shutter and turned towards the boy.
 
 "Only what was there when I woke. Crows. Bodies. The machines. Those violet sparks." The boy lowered his eyes. "You saw all of it before I did."
 
-Gerolt let go of the shutter.
+"Anything before you opened your eyes?"
+
+"The first thing I remember is waking in that field."
+
+Gerolt's shoulders lowered.
 
 "I wish I could tell you more," the boy said. "You carried me here. You cleaned me up. I can see that you're afraid, and I can't explain a single piece of it."
 
@@ -469,6 +467,8 @@ The boy's stomach growled into the silence. He froze, then pulled the blanket hi
 "I'm sorry."
 
 "For what? Having a stomach? That's the first normal thing about you all night."
+
+An unsteady breath escaped Gerolt, almost becoming a laugh.
 
 He crossed to the hearth, took a wooden bowl from the counter, and filled it from the pot. The boy pushed the blanket down from his lap as Gerolt returned.
 
@@ -548,9 +548,9 @@ Then a thread of air scraped into him. He coughed it out and dragged in another.
 
 "There. That one came," Gerolt said. "Let the next be small as well. I've got you."
 
-The boy obeyed. One shallow breath followed another until his chest finally loosened. Only then did Gerolt ease his grip.
+The boy obeyed because there was nothing else he could do. One shallow breath followed another until his chest finally loosened. Only then did Gerolt ease his grip.
 
-"There was someone," the boy managed.
+"There was someone," he managed.
 
 Gerolt bent closer. "In the field?"
 
@@ -558,7 +558,7 @@ Gerolt bent closer. "In the field?"
 
 "Who?"
 
-"I couldn't see their face." The boy caught at Gerolt's sleeve. "They were close enough that they should have reached me, but they kept running and never came any nearer. Their mouth kept moving. They were saying something to me—"
+"I couldn't see their face." The boy caught at Gerolt's sleeve. "They were close enough that they should have reached me, but they kept running and never came any nearer. Their mouth kept moving. I almost heard—"
 
 His breath caught again.
 
@@ -568,11 +568,11 @@ Gerolt gave him a moment before asking, "Was it someone from that battle?"
 
 The boy's fingers went still around Gerolt's sleeve.
 
-"How could I know?" His voice came out level and far too quiet. "I woke surrounded by bodies. Every one of them was there to fight. Why would that one be any different?" The answer was out before he could hold it back. "I was what they came to stop."
+"How could I know?" His voice came out level and far too quiet. "I woke surrounded by bodies. Maybe they were trying to save me. Or maybe I was what they came to stop."
 
 Gerolt drew breath to answer, then shut his mouth.
 
-The boy looked at his own hand, still clutching Gerolt's sleeve, and tried to let go. His fingers did not move. Gerolt followed his gaze. Instead of pulling away, he covered the boy's hand with his own.
+The boy looked down at the hand clutching his sleeve and tried to let go. His fingers did not move. Gerolt followed his gaze. Instead of pulling away, he covered the boy's hand with his own.
 
 Gerolt shook his head. "No. Bad question. You saw a hand, and I'm asking you for a name. Leave it for tonight. The questions can wait until you can stand without falling over."
 
@@ -592,7 +592,7 @@ Far off, but coming fast.
 
 Under the bed, Wena's whimpering cut off, as if a hand had closed around it.
 
-Gerolt glanced once at the floorboards beneath the table. Then he was at the window before the boy could ask what was wrong. He pressed one eye to the gap in the shutters, and whatever he saw out there wiped the exhaustion from his face and left only fear behind.
+Gerolt was at the window before the boy could ask what was wrong. He pressed one eye to the gap in the shutters, and whatever he saw out there wiped the exhaustion from his face and left only fear behind.
 
 "Shit." It came out under his breath, barely a word at all.
 
@@ -618,7 +618,7 @@ He flattened himself against the floorboards, dragging the blanket with him. Ger
 
 "What's—"
 
-"They're letting themselves be seen." His voice was barely there. "They don't do that. Not ever."
+"Riding openly across Mydean fields…" His voice was barely there. "They shouldn't be here. Not ever."
 
 His mouth started to shape a name. Whatever it was, he swallowed it.
 
@@ -635,6 +635,8 @@ He drew breath to call out—
 The boy looked at him. At the man who had walked through thousands of corpses that morning without breaking. Who had carried a stranger home across his own ruined harvest, and put food in his hands, and asked for nothing.
 
 Now that same man crouched in the dark beside a smothered fire, hiding from whoever stood outside rather than let them know he was home.
+
+Calling out wouldn't be the boy's choice alone. It would make it for both of them.
 
 He looked once towards the door.
 
@@ -659,6 +661,8 @@ The boy gave up on the voice and listened beneath it instead. A buckle shifting.
 None of it made a picture. He didn't know how many were out there, where they stood, or what they wanted. So he watched Gerolt instead.
 
 If the farmer understood that tongue, his face didn't show it. But he knew enough to be afraid.
+
+For now, that was enough for the boy too.
 
 A stirrup rang softly. A mount released a long breath as weight lifted off its back.
 
@@ -690,4 +694,4 @@ Then the fourth knock came, no louder than the first three, no less patient.
 
 The boy's breath stopped halfway in. A thought surfaced from the same empty place that had given him the word 『Magic』.
 
-Opening that door would be the last thing either of them ever did.
+*Opening that door would be the last thing he ever did.*
