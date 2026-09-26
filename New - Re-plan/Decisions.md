@@ -18,6 +18,7 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 1. **Amnesia removes history, not personality.** Alaric "is still himself, without knowing who he is."
 2. **Small answers constantly; big ones withheld.** Volume 1 answers small questions often, so readers trust that the big ones will come.
 3. **Live the rules; don't explain them.** Never set out how his memory works "on paper like a thesis". People don't think like that. He thinks and reacts the way amnesiac Subaru does in Re:Zero Arc 6 (Chapter 57 onward).
+4. **A volume tests its question; it doesn't hand over the answer.**
 
 ### Proposed, not yet agreed
 
@@ -27,6 +28,7 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 ## The series
 
 - At least twelve volumes, possibly more: a story people come to love.
+- **Where the whole journey leads:** magic is removed by the end of the series.
 - **Order of work:**
   1. Refine the new Chapter 1 until it's ready.
   2. Before writing Chapter 2 onward, discuss a picture of Volume 1, Volume 2 and Volume 3.
@@ -40,11 +42,14 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
   - people who are racist, "magicist" and cruel;
   - danger, and the feeling of "I need to know more; maybe, just maybe, the next chapter will answer it."
 - **Emotional question (the author's words):** "What determines your worth when everyone tells you you are worth nothing, you are nothing, you are useless, empty and a nobody because you have nothing? In a world where power rules, the weak must follow and obey. But you can choose who you are, you can break free, you just need to do it, give it your all."
-- **Ending direction (the author's words):**
-  - "The 'tear' still happens in a sense, and thousands of people die."
-  - "The journey to get there is destroyed." *Meaning to be confirmed.*
-  - "The person who has nothing, trying to be a better person, is the one who does it."
-  - "He must question himself and find answers on how to live with this."
+- **"Give it your all"** was a way of putting it, not a literal rule. It is both the lesson and the mistake.
+- **Ending direction:**
+  - The tear still happens, in some form, and thousands of people die.
+  - **Cause.** The tear comes from Seralune, but because of something Alaric does. She didn't want it to happen. "The person who has nothing, trying to be a better person, is the one who does it."
+  - **Blame.** People think it was her, and hate her, without knowing the actual reason.
+  - **Seralune reaches for him** at the tear, but with different imagery from the current Chapter 30. To be discussed when we get there.
+  - **Knowledge.** No one knows at first that Alaric's action caused it, not even Alaric. "That is the mystery and the sad thing." He feels it was his fault anyway.
+  - **Aftermath.** He must question himself and find answers on how to live with this.
 - **Process.** The rest of the ending is decided slowly, mapped chapter by chapter until we get there.
 
 ## Chapter 1
@@ -114,12 +119,13 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 
 ### Volume 1 picture
 
-- "The journey to get there is destroyed": does this mean the current route to the tear (Chapters 2–29) gets replaced, or that something is destroyed along the way?
-- **What does he choose that causes the tear?** For it to be his mistake rather than fate, it has to come from a decision. Existing material that could feed this: in the current rewrite he hides the voice from everyone and lies to Redd and Silas about it.
-- **Seralune's part:** in the current Chapter 30, she reaches for him with everything. Does she still reach, making it a shared catastrophe, or is it his alone?
-- **Knowledge:** does he know straight away that he caused it? Who else knows, or blames him?
-- **Is "give it your all" the lesson of Volume 1, or the mistake?** Giving everything alone is also what his flaw says.
+- **What does Alaric do that causes the tear?** It has to be his decision, not fate. Existing material that could feed it: in the current rewrite he hides the voice from everyone and lies to Redd and Silas about it. Decide now, or when we map Volume 1?
+- **Does the reader know?** If the reader knows it was Alaric's action while the world blames Seralune, the reader carries that knowledge into Volume 2 with dread. If not, it's a mystery the reader shares with the characters.
+- **Does Seralune believe it was her fault?**
+- **When does the truth come out, and to whom?** Which volume?
 - **Seralune and the question:** does her Volume 1 answer the same question from the other side? She has infinite mana, yet is treated as defective and dangerous.
+- **Alaric's external goal.** What does he want to *do* in Volume 1? A verb, not "learn about the world".
+- **Seralune's external goal** in Volume 1.
 - Beyond the dead and his guilt, what else can never go back to how it was?
 
 ### Chapter 1
