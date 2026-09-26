@@ -22,13 +22,13 @@ Written on 26 September 2026. This compares the new `Chapter 2 - The Price of a 
 
 These were new. Your answers are recorded after each one, and the changes they led to are in `Chapter 2 - Changes.md`.
 
-1. **The second scout laughs** before we see her: "Somewhere beyond the wall, a woman laughed." It shows how sure of themselves they are, and it tells the boy there are two.
+1. **The second scout laughs** before we see her: "Somewhere beyond the wall, a woman laughed." It shows how sure of themselves they are, and it tells the boy there are two. **Answered:** keep.
 2. **The elf's entrance.** "'There,' he said. 'Now you've no door to answer.' / He stepped over the threshold with his hands empty, and didn't look where he put his feet." His contempt is what gets him killed. **Answered:** cockier. He now laughs as he steps in: "Testing my patience, old man. Now you've no door to answer."
 3. **The boy's only other sight of magic.** Right after the wind, one line: "Gerolt's flame had sat in his palm no bigger than a candle's." It's a single comparison, with no comment on it. **Answered:** keep.
 4. **The sword skids** to "an arm's length from the boy's hand" in the fight. Later, Gerolt tells him to fetch it. **Answered:** keep.
 5. **"Tell her the old fool sent you."** It hints that Marta knows him well, without saying she's his niece. **Answered:** keep, and the line now ends "in a small cough, and blood began to run from the corner of his mouth".
 6. **"Took you three tries to sit up at midday."** This is Gerolt's dry reply when the boy offers to carry him. **Answered:** cut.
-7. **The hot hand.** Gerolt's hand on his wrist turns from warm to hot, "hot, and getting hotter". Gerolt takes it away and closes it into a fist. It's the only sign on the page that the boy's staying holds back his fire. **Answered:** rework. "It doesn't sound like Cid speaking; it sounds like a computer monologue." *Being reworked.*
+7. **The hot hand.** Gerolt's hand on his wrist turns from warm to hot, "hot, and getting hotter". Gerolt takes it away and closes it into a fist. It's the only sign on the page that the boy's staying holds back his fire. **Answered:** rework. "It doesn't sound like Cid speaking; it sounds like a computer monologue." Reworked: "Careful, lad," he said. "I run hot."
 8. **"You're a stubborn little bastard, Empty."** This is the one time he uses "Empty" as a name. **Answered:** keep, but without "Empty". Gerolt never calls him Empty in this chapter.
 9. **The last line:** "Alaric lay in the wheat with Gerolt's sword beneath him and watched the house burn." **Answered:** "perfect".
 10. **Where the coat went.** In Chapter 1, his one coat hangs by the door. So the wind tears it off its peg, and the boy presses Gerolt's shirt to the wound. **Answered:** keep.

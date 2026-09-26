@@ -66,10 +66,10 @@ The old chapter is in `Old - Before Re-plan/Volume 1 - Rewrites/Chapter 2 - The 
 - **3 and 4.** The candle line and the sword skidding: keep.
 - **5. "The old fool".** "Have a small cough at the end with blood starting to come out of Gerolt's mouth."
 - **6. "Three tries".** "Cut, I don't like it."
-- **7. The hot hand.** "Doesn't sound like Cid speaking, sounds like a computer monologue." *Being reworked; see the question in chat.*
+- **7. The hot hand.** "Doesn't sound like Cid speaking, sounds like a computer monologue." Now: "Careful, lad," he said. "I run hot."
 - **8.** "I like it, remove Empty."
 - **9 and 10.** The last line ("perfect") and the coat: keep.
-- **1. The second scout's laugh.** *Not answered yet.*
+- **1. The second scout's laugh.** Keep.
 
 ### Later
 

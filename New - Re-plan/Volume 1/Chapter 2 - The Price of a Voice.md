@@ -236,9 +236,9 @@ The boy shook his head. "I'm not leaving you."
 
 "Wasn't asking."
 
-Gerolt's hand was still on his wrist. It had been warm. Now it was hot, and getting hotter.
+Gerolt's hand had gone hot on his sleeve. He took it away and pressed it flat to the floor.
 
-Gerolt took it away. He closed it into a fist against the floor and held it there.
+"Careful, lad," he said. "I run hot."
 
 Torchlight showed between the wheat stalks beyond the doorway. One flame. Then another. Then more than the boy could count.
 

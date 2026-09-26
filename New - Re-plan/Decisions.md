@@ -196,8 +196,8 @@ The plan is built in `Volume 1/Chapter 2 - Design.md`.
   - Kept: the candle line after the wind; the sword skidding to the boy's hand; the last line ("perfect"); the torn-off coat and the shirt on the wound.
   - "Tell her the old fool sent you" now ends in a small cough, with blood starting at the corner of his mouth.
   - Cut: "Took you three tries to sit up at midday."
-  - The hot hand is being reworked: "It doesn't sound like Cid speaking; it sounds like a computer monologue."
-  - *Not answered yet:* the second scout's laugh.
+  - The hot hand: Gerolt covers it with a dry line, "Careful, lad. I run hot." (The author's note: the old narration "doesn't sound like Cid speaking, sounds like a computer monologue.")
+  - Kept: the second scout's laugh before we see her.
 
 ## Alaric
 

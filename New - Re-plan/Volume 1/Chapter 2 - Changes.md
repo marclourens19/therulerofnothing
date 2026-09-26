@@ -3,7 +3,7 @@
 Written on 26 September 2026. This is every change made to `Chapter 2 - The Price of a Voice.md` since its first draft, each with a before, an after and a reason. How the first draft differs from the old chapter is in `Chapter 2 - From the Old Chapter.md`.
 
 - **Revision 1** (changes 1–13) takes out every comparison Alaric couldn't make and every phrase that was there to sound good.
-- **Revision 2** (changes 14–16, plus change 8 extended) carries out your answers to the calls: the cockier entrance, the cough, and cutting "three tries" and "Empty".
+- **Revision 2** (changes 14–16, plus changes 8 and 11 extended) carries out your answers to the calls: the cockier entrance, the cough, cutting "three tries" and "Empty", and Gerolt's dry line at the hot hand.
 
 - The first draft is saved, unchanged, as `Drafts/Chapter 2 - The Price of a Voice (Draft 1).md`. Any change you reject can go straight back from there.
 - **Draft line** numbers refer to that saved copy. **Revised line** numbers refer to the chapter as it stands now.
@@ -11,8 +11,8 @@ Written on 26 September 2026. This is every change made to `Chapter 2 - The Pric
 ## At a glance
 
 - **16 changes proposed.** 0 rejected so far, so 16 are in the chapter: 15 rewritten, 1 cut and 0 added.
-- **Length:** 2,907 words before, 2,825 after.
-- **Median paragraph:** 14 words before, 14 after. The house target is roughly 14–22.
+- **Length:** 2,907 words before, 2,816 after.
+- **Median paragraph:** 14 words before, 13.5 after. The house target is roughly 14–22.
 - **"Nothing":** 2 times before, 1 after.
 
 ## Your call
@@ -25,6 +25,7 @@ These changes add something about a character or the world that you haven't deci
 
 - **Change 1, "An axe going into green wood":** You asked for this one: "how would he know this".
 - **Change 8, The elf's entrance:** Your words, from call 2.
+- **Change 11, The hot hand:** You chose "Gerolt says a dry line".
 - **Change 14, "Tell her the old fool sent you":** Your answer to the call.
 - **Change 15, "Took you three tries to sit up at midday":** Your answer to the call.
 - **Change 16, "Empty" as a name:** Your answer to the call.
@@ -189,19 +190,25 @@ These three compare something to what Alaric has lived through on the page, so h
 
 **Why.** The same verb as two other lines. Plain is enough.
 
-#### 11. "Like the side of a pot left too long on the hearth"
+#### 11. The hot hand
 
-*Draft line 243 → revised line 239*
+*Draft lines 243–245 → revised lines 239–241*
 
 **Before**
 
 > Gerolt's hand was still on his wrist. It had been warm. Now it was hot, like the side of a pot left too long on the hearth, and the heat was climbing.
+>
+> Gerolt took it away. He closed it into a fist against the floor and held it there.
 
 **After**
 
-> Gerolt's hand was still on his wrist. It had been warm. Now it was hot, and getting hotter.
+> Gerolt's hand had gone hot on his sleeve. He took it away and pressed it flat to the floor.
+>
+> "Careful, lad," he said. "I run hot."
 
-**Why.** The author: "explaining things for the sake of it, using words to make it look cool… this is from Alaric's POV, how would he know this." A comparison has to come from something he has actually lived through on the page, and for him that's almost nothing.
+**Why.** Two rounds. Revision 1 cut "like the side of a pot left too long on the hearth", a comparison Alaric couldn't make. Revision 2 answers call 7 ("doesn't sound like Cid speaking, sounds like a computer monologue"): Gerolt covers the moment with a dry joke instead. It also fixes a slip: Gerolt had caught his sleeve, not his wrist.
+
+**Your decision.** You chose "Gerolt says a dry line".
 
 #### 12. "Frayed almost to nothing"
 
