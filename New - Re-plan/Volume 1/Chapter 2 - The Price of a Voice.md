@@ -250,7 +250,7 @@ Gerolt looked at him, and the hard lines of his face eased a little.
 
 His other hand found the boy's sleeve and tightened weakly on it.
 
-Wena pushed her muzzle under Gerolt's hand. He stroked her once more, slowly this time, from between her ears all the way down the back of her neck.
+Wena pushed her muzzle under Gerolt's hand, and he let go of the boy's sleeve to stroke her once more, slowly this time, from between her ears all the way down the back of her neck.
 
 "She'll stay if you do," he said.
 
@@ -294,7 +294,7 @@ The mouth shaped the word one more time, and it arrived whole.
 
 The white tore.
 
-The cabin crashed back in around him. Arrows. Hoofbeats. Wena's whining. Gerolt's blood, warm under his knees.
+The cabin crashed back in around him. Arrows. Hoofbeats. Wena's whining. Gerolt's blood, warm on the boards beneath him.
 
 He braced a hand on the floor and spat blood onto the boards. Pain pulsed behind his eyes with every heartbeat.
 
@@ -336,7 +336,7 @@ Behind him, horses screamed. The layered voices rose over the wheat.
 
 He looked back.
 
-Torchlight moved around the cabin in pieces. Riders were closing on the doorway from both sides, and in the doorway, lit by their torches, stood Gerolt.
+Torchlight moved around the cabin in pieces. Riders were closing on the cabin from both sides, and in the doorway, lit by their torches, stood Gerolt.
 
 He had no sword. He lifted his empty hand.
 

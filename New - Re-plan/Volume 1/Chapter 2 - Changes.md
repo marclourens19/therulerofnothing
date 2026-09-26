@@ -4,15 +4,15 @@ Written on 26 September 2026. This is every change made to `Chapter 2 - The Pric
 
 - **Revision 1** (changes 1–13) takes out every comparison Alaric couldn't make and every phrase that was there to sound good.
 - **Revision 2** (changes 14–16, plus changes 8 and 11 extended) carries out your answers to the calls: the cockier entrance, the cough, cutting "three tries" and "Empty", and Gerolt's dry line at the hot hand.
-- **Revision 3** (changes 17–35, plus small edits noted in changes 5, 6, 9 and 13) is the final check against Chapter 1: continuity errors, unclear pronouns and repeated verbs.
+- **Revision 3** (changes 17–38, plus small edits noted in changes 5, 6, 9 and 13) is the final check against Chapter 1: continuity errors, unclear pronouns and repeated verbs.
 
 - The first draft is saved, unchanged, as `Drafts/Chapter 2 - The Price of a Voice (Draft 1).md`. Any change you reject can go straight back from there.
 - **Draft line** numbers refer to that saved copy. **Revised line** numbers refer to the chapter as it stands now.
 
 ## At a glance
 
-- **35 changes proposed.** 0 rejected so far, so 35 are in the chapter: 34 rewritten, 1 cut and 0 added.
-- **Length:** 2,907 words before, 2,799 after.
+- **38 changes proposed.** 0 rejected so far, so 38 are in the chapter: 37 rewritten, 1 cut and 0 added.
+- **Length:** 2,907 words before, 2,809 after.
 - **Median paragraph:** 14 words before, 13.5 after. The house target is roughly 14–22.
 - **"Nothing":** 2 times before, 1 after.
 
@@ -556,3 +556,45 @@ These three compare something to what Alaric has lived through on the page, so h
 > His first try at a breath failed. He managed a second.
 
 **Why.** Too many repeats of the same verb in one chapter ("caught" 9 times, "tore" 9, "dragged" 6). Plain alternatives, same meaning.
+
+#### 36. Which hand strokes Wena
+
+*Draft line 257 → revised line 253*
+
+**Before**
+
+> Wena pushed her muzzle under Gerolt's hand. He stroked her once more, slowly this time, from between her ears all the way down the back of her neck.
+
+**After**
+
+> Wena pushed her muzzle under Gerolt's hand, and he let go of the boy's sleeve to stroke her once more, slowly this time, from between her ears all the way down the back of her neck.
+
+**Why.** Final pass: by now one of Gerolt's hands is pressed hot to the floor and the other holds the boy's sleeve, so he has to let go to stroke her.
+
+#### 37. "Warm under his knees"
+
+*Draft line 301 → revised line 297*
+
+**Before**
+
+> The cabin crashed back in around him. Arrows. Hoofbeats. Wena's whining. Gerolt's blood, warm under his knees.
+
+**After**
+
+> The cabin crashed back in around him. Arrows. Hoofbeats. Wena's whining. Gerolt's blood, warm on the boards beneath him.
+
+**Why.** Final pass: he has just been slammed flat against the floor, so he isn't kneeling.
+
+#### 38. "Doorway" twice
+
+*Draft line 343 → revised line 339*
+
+**Before**
+
+> Torchlight moved around the cabin in pieces. Riders were closing on the doorway from both sides, and in the doorway, lit by their torches, stood Gerolt.
+
+**After**
+
+> Torchlight moved around the cabin in pieces. Riders were closing on the cabin from both sides, and in the doorway, lit by their torches, stood Gerolt.
+
+**Why.** Final pass: "doorway" twice in one sentence.

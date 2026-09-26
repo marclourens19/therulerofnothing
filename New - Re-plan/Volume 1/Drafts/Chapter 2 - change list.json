@@ -3,7 +3,7 @@
  "draft": "Chapter 2 - The Price of a Voice (Draft 1).md",
  "chapter": "../Chapter 2 - The Price of a Voice.md",
  "changes_file": "../Chapter 2 - Changes.md",
- "intro_md": "Written on 26 September 2026. This is every change made to `Chapter 2 - The Price of a Voice.md` since its first draft, each with a before, an after and a reason. How the first draft differs from the old chapter is in `Chapter 2 - From the Old Chapter.md`.\n\n- **Revision 1** (changes 1–13) takes out every comparison Alaric couldn't make and every phrase that was there to sound good.\n- **Revision 2** (changes 14–16, plus changes 8 and 11 extended) carries out your answers to the calls: the cockier entrance, the cough, cutting \"three tries\" and \"Empty\", and Gerolt's dry line at the hot hand.\n- **Revision 3** (changes 17–35, plus small edits noted in changes 5, 6, 9 and 13) is the final check against Chapter 1: continuity errors, unclear pronouns and repeated verbs.\n\n- The first draft is saved, unchanged, as `Drafts/Chapter 2 - The Price of a Voice (Draft 1).md`. Any change you reject can go straight back from there.\n- **Draft line** numbers refer to that saved copy. **Revised line** numbers refer to the chapter as it stands now.",
+ "intro_md": "Written on 26 September 2026. This is every change made to `Chapter 2 - The Price of a Voice.md` since its first draft, each with a before, an after and a reason. How the first draft differs from the old chapter is in `Chapter 2 - From the Old Chapter.md`.\n\n- **Revision 1** (changes 1–13) takes out every comparison Alaric couldn't make and every phrase that was there to sound good.\n- **Revision 2** (changes 14–16, plus changes 8 and 11 extended) carries out your answers to the calls: the cockier entrance, the cough, cutting \"three tries\" and \"Empty\", and Gerolt's dry line at the hot hand.\n- **Revision 3** (changes 17–38, plus small edits noted in changes 5, 6, 9 and 13) is the final check against Chapter 1: continuity errors, unclear pronouns and repeated verbs.\n\n- The first draft is saved, unchanged, as `Drafts/Chapter 2 - The Price of a Voice (Draft 1).md`. Any change you reject can go straight back from there.\n- **Draft line** numbers refer to that saved copy. **Revised line** numbers refer to the chapter as it stands now.",
  "glance": [],
  "summary_md": "## Comparisons kept on purpose\n\nThese three compare something to what Alaric has lived through on the page, so he can make them. You agreed to keep them.\n\n- \"It rose at the end, the way a question does.\" He has heard questions all night.\n- \"Gerolt's flame had sat in his palm no bigger than a candle's.\" He saw both in Chapter 1.\n- \"…nothing like the voice that had told the boy to take the bowl with both hands.\" He heard that voice.",
  "sections": {
@@ -407,6 +407,39 @@
    "before": "His first try at a breath failed. He dragged in another.",
    "after": "His first try at a breath failed. He managed a second.",
    "why": "Too many repeats of the same verb in one chapter (\"caught\" 9 times, \"tore\" 9, \"dragged\" 6). Plain alternatives, same meaning."
+  },
+  {
+   "section": "Revision 3",
+   "title": "Which hand strokes Wena",
+   "kind": "changed",
+   "tags": [
+    "check"
+   ],
+   "before": "Wena pushed her muzzle under Gerolt's hand. He stroked her once more, slowly this time, from between her ears all the way down the back of her neck.",
+   "after": "Wena pushed her muzzle under Gerolt's hand, and he let go of the boy's sleeve to stroke her once more, slowly this time, from between her ears all the way down the back of her neck.",
+   "why": "Final pass: by now one of Gerolt's hands is pressed hot to the floor and the other holds the boy's sleeve, so he has to let go to stroke her."
+  },
+  {
+   "section": "Revision 3",
+   "title": "\"Warm under his knees\"",
+   "kind": "changed",
+   "tags": [
+    "check"
+   ],
+   "before": "The cabin crashed back in around him. Arrows. Hoofbeats. Wena's whining. Gerolt's blood, warm under his knees.",
+   "after": "The cabin crashed back in around him. Arrows. Hoofbeats. Wena's whining. Gerolt's blood, warm on the boards beneath him.",
+   "why": "Final pass: he has just been slammed flat against the floor, so he isn't kneeling."
+  },
+  {
+   "section": "Revision 3",
+   "title": "\"Doorway\" twice",
+   "kind": "changed",
+   "tags": [
+    "check"
+   ],
+   "before": "Torchlight moved around the cabin in pieces. Riders were closing on the doorway from both sides, and in the doorway, lit by their torches, stood Gerolt.",
+   "after": "Torchlight moved around the cabin in pieces. Riders were closing on the cabin from both sides, and in the doorway, lit by their torches, stood Gerolt.",
+   "why": "Final pass: \"doorway\" twice in one sentence."
   }
  ]
 }
