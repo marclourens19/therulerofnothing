@@ -49,12 +49,10 @@ The rule for the whole volume: **small moments happen between the violence, neve
 4. **Loss.** Someone the reader has shared small moments with dies. That proves the quote: the big isn't guaranteed.
 5. **The brink.** The war tips over, and Alaric and Seralune meet in the middle of it.
 
-**Proposed sources of blood:**
-- Mydea's hunters crossing the sea after the people who killed its soldiers and stole its strategist.
-- Natharul's agents, hunting the Time bearer (if the hidden aim survives), and hunting Seralune for her brother.
-- The war's opening raids and landings.
-- Kozmagar's own dangers. In the old canon, one of its capitals belongs to demons and a rogue demon lord's raid once killed Kurdag's daughter. A land that doesn't rank people by magic still has monsters.
-- Beastfolk who see a Natharul princess on their soil as an enemy.
+**Sources of blood (decided):**
+- **Mydea's hunters,** crossing the sea after the people who killed its soldiers and stole its strategist.
+- **Beastfolk scouts who know of Darcy.** Her strategy was used against Kozmagar, so the "free" continent has its own reasons to want her, or want her dead.
+- **Natharul's agents, hunting the Time bearer.** The war's hidden aim is to kill him, so wherever he goes, and whoever he finds, the assassins follow.
 
 ## Proposed design rules for this volume
 
@@ -71,12 +69,11 @@ The rule for the whole volume: **small moments happen between the violence, neve
 
 ## Open
 
-- **Who dies in Volume 3?** Someone the reader loves. Deaths are the most expensive thing a long series spends.
-- **Which sources of blood?** Pick from the proposed list, or add your own.
+- **Who dies in Volume 3?** The author feels a main-cast death is too soon. The options on the table are Redd, or a new companion that Seralune and Nereth make in Volume 2 and who dies in Volume 3. *(Claude recommends the companion; see the conversation.)*
+- **Does Alaric's side lose someone too?** It wouldn't be main cast.
 - **The Time bearer:** who he is, and what he wants when he finds Alaric.
 - **Alaric's external goal in Volume 3:** a verb.
 - **Darcy's choice:** her mind was stolen from Mydea. Does she help Kozmagar, or refuse to be anyone's strategist again?
 - **Kozmagar's identity:** does it keep its old canon identity as the place that doesn't rank people by magic?
-- **Natharul's hidden aim:** is the war really about killing the Time bearer?
 - **The group's rituals:** what small routines does the group have? These are the author's to choose.
 - **The meeting image.**

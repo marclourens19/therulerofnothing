@@ -125,6 +125,11 @@ These are rough shapes, not deadlines. The design bible warns against scheduling
 - **Where it ends:** the world on the brink of all-out war, with Natharul and Mydea against Kozmagar.
 - **The Time bearer** is looking for Alaric.
 - **Not slow.** Volume 3 has blood and death. That's what makes people value the small moments: the big ones aren't guaranteed.
+- **Sources of blood:**
+  - **Mydea's hunters,** crossing the sea after the group.
+  - **Beastfolk scouts,** who know of Darcy.
+  - **Natharul,** whose hidden aim survives: the war is to kill the Time bearer.
+- **A death (undecided).** A main-cast death in Volume 3 feels too soon to the author. If there is one, the author would choose Redd. The alternative: Seralune and Nereth make a new companion in Volume 2, and that person dies in Volume 3.
 
 ## Chapter 1
 
