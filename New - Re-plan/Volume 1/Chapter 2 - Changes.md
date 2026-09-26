@@ -26,7 +26,7 @@ These changes add something about a character or the world that you haven't deci
 
 ## Comparisons kept on purpose
 
-These three compare something to what Alaric has lived through on the page, so he can make them:
+These three compare something to what Alaric has lived through on the page, so he can make them. You agreed to keep them.
 
 - "It rose at the end, the way a question does." He has heard questions all night.
 - "Gerolt's flame had sat in his palm no bigger than a candle's." He saw both in Chapter 1.

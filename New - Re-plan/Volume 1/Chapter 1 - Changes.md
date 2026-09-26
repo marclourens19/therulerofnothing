@@ -6,6 +6,7 @@ Written on 26 September 2026. This is every change made to `Chapter 1 - A War Wi
 - **Revision 2** (changes 38–44) trimmed your own lines against principle 5: don't explain the meaning.
 - **Revision 3** (changes 45–49) is the final check: small craft fixes from a last full read.
 - **Revision 4** (changes 50–52) takes the gold at the running figure's cuff out of the vision, at your request.
+- **Revision 5** (changes 53–56, plus edits folded into changes 8, 19, 25 and 28) cuts eight comparisons Alaric couldn't make from what he has lived through.
 
 - The chapter as it was before is saved, unchanged, as `Drafts/Chapter 1 - A War Without Sound (Draft 1, before revision).md`. Any change you reject can go straight back from there.
 - **Draft line** numbers refer to that saved copy. **Revised line** numbers refer to the chapter as it stands now.
@@ -14,9 +15,9 @@ Written on 26 September 2026. This is every change made to `Chapter 1 - A War Wi
 
 ## At a glance
 
-- **52 changes proposed.** 1 rejected so far, so 51 are in the chapter: 45 rewritten, 5 cut and 1 added.
-- **Length:** 6,434 words before, 6,374 after.
-- **Median paragraph:** 14 words before, 13.5 after. The house target is roughly 14–22.
+- **56 changes proposed.** 1 rejected so far, so 55 are in the chapter: 49 rewritten, 5 cut and 1 added.
+- **Length:** 6,434 words before, 6,291 after.
+- **Median paragraph:** 14 words before, 13 after. The house target is roughly 14–22.
 - **"Nothing":** 24 times before, 19 after.
 - **Gerolt's failed laugh:** four times before (lines 103, 277, 417, 471). Now once, in your own line 103.
 - **"What do you remember before this morning?":** asked three times before, once now.
@@ -50,6 +51,10 @@ These changes add something about a character or the world that you haven't deci
 - **Change 50, "Gold flashed at a wrist":** You asked for it: "Yes better."
 - **Change 51, The gold at the cuff:** You asked for it: "Yes better."
 - **Change 52, "Gold thread":** You asked for it: "Yes better."
+- **Change 53, "As if it had collapsed in the middle of a stride":** You asked for it: "Yes cut all".
+- **Change 54, "As though another survivor might rise":** You asked for it: "Yes cut all".
+- **Change 55, "Like a sack of feed":** You asked for it: "Yes cut all".
+- **Change 56, "As if a hand had closed around it":** You asked for it: "Yes cut all".
 
 ## What each decision became
 
@@ -202,9 +207,9 @@ These changes add something about a character or the world that you haven't deci
 
 **After**
 
-> He kept talking, low and constant, the way a man talks when he needs to keep his own hands steady.
+> He kept talking, low and constant.
 
-**Why.** Point of view. The boy is passing out, so he can't know Gerolt talked "the whole walk back". He can hear that Gerolt keeps talking.
+**Why.** Point of view. The boy is passing out, so he can't know Gerolt talked "the whole walk back". He can hear that Gerolt keeps talking. *Revision 5 cut a comparison from this change: "the way a man talks when he needs to keep his own hands steady". The author, on Chapter 2: "how would he know this". A comparison has to come from something Alaric has lived through on the page. Cut in revision 5 at the author's request ("Yes cut all").*
 
 ### The cabin (draft lines 243–581)
 
@@ -394,11 +399,11 @@ These changes add something about a character or the world that you haven't deci
 >
 > The word rose from the same place as before, whole and certain. The boy kept it behind his teeth.
 >
-> Gerolt closed his hand, and the flame went out between his fingers without smoke. When he opened it again and rested it on his knee, the skin of his palm had reddened, as if he'd held it too near the hearth. He didn't look at it.
+> Gerolt closed his hand, and the flame went out between his fingers without smoke. When he opened it again and rested it on his knee, the skin of his palm had reddened. He didn't look at it.
 >
 > "That's mine," he said. "Fire. Now close your eyes. Don't chase after it—that only scares it off. Sit still and feel for whichever one already belongs to you."
 
-**Why.** The locked flame decision, following the outline you agreed. The talk about Affinity (the spoon, his height, "That explains nothing") goes, and the boy sees magic for the first time instead. He thinks 『Magic』 and doesn't say it; readers can see for themselves that it isn't Gerolt's word. His palm reddens: magic costs its user. The flicker is small and practised, so it doesn't break "no fire in a fight until his last stand". Gerolt's instruction survives word for word. *Trimmed after your note on over-explaining: "Fire needed something to burn. This one had only the man holding it." and "it wasn't the word Gerolt had used" are gone.*
+**Why.** The locked flame decision, following the outline you agreed. The talk about Affinity (the spoon, his height, "That explains nothing") goes, and the boy sees magic for the first time instead. He thinks 『Magic』 and doesn't say it; readers can see for themselves that it isn't Gerolt's word. His palm reddens: magic costs its user. The flicker is small and practised, so it doesn't break "no fire in a fight until his last stand". Gerolt's instruction survives word for word. *Trimmed after your note on over-explaining: "Fire needed something to burn. This one had only the man holding it." and "it wasn't the word Gerolt had used" are gone.* *Revision 5 cut a comparison from this change: "as if he'd held it too near the hearth". The author, on Chapter 2: "how would he know this". A comparison has to come from something Alaric has lived through on the page. Cut in revision 5 at the author's request ("Yes cut all").*
 
 **Your decision.** Kept, with the reddened palm.
 
@@ -500,11 +505,11 @@ These changes add something about a character or the world that you haven't deci
 >
 > "What about someone with none?"
 >
-> Gerolt's gaze had gone to the door, and it stayed there, as if someone might already be standing on the other side of it.
+> Gerolt's gaze had gone to the door, and it stayed there.
 >
 > "I keep hoping if I say the right thing, something in you will just—answer," he said at last. "Like calling a dog that's wandered off. Maybe it didn't hear you the first time."
 
-**Why.** Three decisions meet here. "Empty" is spoken, as a question, and as a word Gerolt has to invent (the old World Bible says no word exists for someone with no Affinity). His fear turns to what his world does to people with little or no magic, and he won't say what happens to someone with none: he looks at the door. Then his humour covers it, which is the Cid in him. *Trimmed after your note on over-explaining: "and not to like the one he found" and the boy turning the word over are gone, so "Empty?" stands on its own.*
+**Why.** Three decisions meet here. "Empty" is spoken, as a question, and as a word Gerolt has to invent (the old World Bible says no word exists for someone with no Affinity). His fear turns to what his world does to people with little or no magic, and he won't say what happens to someone with none: he looks at the door. Then his humour covers it, which is the Cid in him. *Trimmed after your note on over-explaining: "and not to like the one he found" and the boy turning the word over are gone, so "Empty?" stands on its own.* *Revision 5 cut a comparison from this change: "as if someone might already be standing on the other side of it". The author, on Chapter 2: "how would he know this". A comparison has to come from something Alaric has lived through on the page. Cut in revision 5 at the author's request ("Yes cut all").*
 
 **Your decision.** Kept. The old class lore is still true.
 
@@ -548,13 +553,13 @@ These changes add something about a character or the world that you haven't deci
 
 > "And the pale ones?" the boy asked. "With the pointed ears?"
 >
-> "Natharul." Gerolt said it low, as if the dark outside might carry it. "When one of theirs dies, they don't ask who did it. They ask where."
+> "Natharul." Gerolt said it low. "When one of theirs dies, they don't ask who did it. They ask where."
 >
 > The boy thought of the pale faces among the dead. "Then they'll ask about here."
 >
 > "Aye. And the nearest house with children in it is two fields over." He was still watching the dark where the field lay. "Come first light, somebody'll see the crows. By noon, somebody'll have sold what they saw, and there'll be men at my door asking what I found out there."
 
-**Why.** Two decisions: Gerolt reacts to the dead elves, and he expects people by morning. His window speech named the banners, the armour, the machines and the beastfolk, and stopped short of the elves. Now the boy notices what he left out and asks, which is the boy's personality working. "They ask where" shows Natharul's collective punishment through Gerolt's fear instead of explaining it. The deadline is Mydea's informers: someone sees, someone sells. It's also the moment his peace visibly ends: "what I found out there" is the boy.
+**Why.** Two decisions: Gerolt reacts to the dead elves, and he expects people by morning. His window speech named the banners, the armour, the machines and the beastfolk, and stopped short of the elves. Now the boy notices what he left out and asks, which is the boy's personality working. "They ask where" shows Natharul's collective punishment through Gerolt's fear instead of explaining it. The deadline is Mydea's informers: someone sees, someone sells. It's also the moment his peace visibly ends: "what I found out there" is the boy. *Revision 5 cut a comparison from this change: "as if the dark outside might carry it". The author, on Chapter 2: "how would he know this". A comparison has to come from something Alaric has lived through on the page. Cut in revision 5 at the author's request ("Yes cut all").*
 
 **Your decision.** Kept: Gerolt names Natharul here, the name he swallows later is something more specific, and the neighbours' house stays.
 
@@ -925,3 +930,69 @@ These changes add something about a character or the world that you haven't deci
 **Why.** You didn't like the gold imagery: "I like the hand reaching and the mouth." The gold was the one link between the running figure and the riders' gold-lined armour. That link can come later through something else.
 
 **Your decision.** You asked for it: "Yes better."
+
+### Revision 5: comparisons he couldn't make
+
+#### 53. "As if it had collapsed in the middle of a stride"
+
+*Draft line 123 → revised line 123*
+
+**Before**
+
+> Some had died fighting, their swords still buried in shields or held above their heads halfway through a final blow. Others had simply fallen where they stood. One soldier remained on his knees with both hands wrapped around a spear, though there was no wound on him that the boy could see. Nearby, a horse lay with its forelegs stretched forward as if it had collapsed in the middle of a stride. Its rider was trapped beneath it, reaching towards another man whose fingers rested inches away.
+
+**After**
+
+> Some had died fighting, their swords still buried in shields or held above their heads halfway through a final blow. Others had simply fallen where they stood. One soldier remained on his knees with both hands wrapped around a spear, though there was no wound on him that the boy could see. Nearby, a horse lay with its forelegs stretched forward, mid-stride. Its rider was trapped beneath it, reaching towards another man whose fingers rested inches away.
+
+**Why.** The author, on Chapter 2: "how would he know this". A comparison has to come from something Alaric has lived through on the page. Cut in revision 5 at the author's request ("Yes cut all").
+
+**Your decision.** You asked for it: "Yes cut all".
+
+#### 54. "As though another survivor might rise"
+
+*Draft line 175 → revised line 175*
+
+**Before**
+
+> The farmer did not answer straight away. His eyes moved over the nearest dead as though another survivor might rise simply because he had been asked to look for one.
+
+**After**
+
+> The farmer did not answer straight away. His eyes moved over the nearest dead.
+
+**Why.** The author, on Chapter 2: "how would he know this". A comparison has to come from something Alaric has lived through on the page. Cut in revision 5 at the author's request ("Yes cut all").
+
+**Your decision.** You asked for it: "Yes cut all".
+
+#### 55. "Like a sack of feed"
+
+*Draft line 231 → revised line 231*
+
+**Before**
+
+> The old man caught him before he struck the ground, swore under his breath and hauled him over one shoulder like a sack of feed.
+
+**After**
+
+> The old man caught him before he struck the ground, swore under his breath and hauled him over one shoulder.
+
+**Why.** The author, on Chapter 2: "how would he know this". A comparison has to come from something Alaric has lived through on the page. Cut in revision 5 at the author's request ("Yes cut all").
+
+**Your decision.** You asked for it: "Yes cut all".
+
+#### 56. "As if a hand had closed around it"
+
+*Draft line 593 → revised line 593*
+
+**Before**
+
+> Under the bed, Wena's whimpering cut off, as if a hand had closed around it.
+
+**After**
+
+> Under the bed, Wena's whimpering cut off.
+
+**Why.** The author, on Chapter 2: "how would he know this". A comparison has to come from something Alaric has lived through on the page. Cut in revision 5 at the author's request ("Yes cut all").
+
+**Your decision.** You asked for it: "Yes cut all".
