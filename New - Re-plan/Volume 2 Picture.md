@@ -7,7 +7,7 @@ A draft in progress, started 26 September 2026. It's assembled only from the dec
 **"In a world full of politics, brutality, war, slavery and death, much like real life, what can you do, even if it's something small, to do better?"**
 
 - **Alaric** learns to rely on others to do good.
-- **Seralune** learns that choosing for others isn't the right option. She asks Nereth what she wants, and they decide together.
+- **Seralune** learns that choosing for others isn't the right option, for Nereth only, for now. She asks Nereth what she wants, and they decide together.
 
 ## Where it starts
 
@@ -20,7 +20,7 @@ This is where Volume 1 leaves everyone:
 
 - **Mission:** rescue Darcy, *with* his friends.
 - **Journey:** coming to terms with himself, and learning to accept help.
-- **Freya:** the whole volume develops their relationship realistically, not rushed. He starts to see her. Their arcs cross: he learns to lean on others while she learns to stand alone.
+- **Freya:** the whole volume develops their relationship realistically, not rushed. He starts to see her. Their arcs cross: he learns to lean on others while she learns to stand alone. It becomes mutual before Seralune arrives.
 
 ## Seralune's side
 
@@ -30,15 +30,13 @@ This is where Volume 1 leaves everyone:
 ## How it ends
 
 - Alaric and company have crossed Mydea, killing soldiers and stealing the kingdom's strategist. People are truly against them now.
-- The beastfolk are winning on the border and pushing in.
+- The beastfolk are winning on the border and pushing in, because Darcy was stolen. Their one small good brings the war home.
+- The soldiers are drawn off to the war, so Gilmot's threat against Kelmend's Faint quarter never comes true.
 - Seralune and Nereth have escaped.
 - **Alaric and Seralune meet for the first time,** right at the end, going into Volume 3.
 
 ## Open
 
-- How far Seralune's lesson reaches: for Nereth only, or for the world?
-- Whether stealing Darcy is what lets the beastfolk push in.
-- Whether Gilmot's threat to burn Kelmend's Faint quarter survives.
-- Where and how Alaric and Seralune meet.
-- When Alaric and Freya's relationship becomes mutual.
+- Where and how Alaric and Seralune meet. No ending image yet.
+- Whether Gilmot is killed. The earlier outline says yes.
 - Silas's, Redd's and Nereth's Volume 2 arcs.

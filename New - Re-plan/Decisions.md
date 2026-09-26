@@ -34,6 +34,16 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
   1. Refine the new Chapter 1 until it's ready.
   2. Before writing Chapter 2 onward, discuss a picture of Volume 1, Volume 2 and Volume 3.
 
+### The author's earlier volume outline (working ideas, not locked)
+
+1. Alaric and Seralune discover something is missing, but still choose to be themselves.
+2. Freeing Darcy, killing Gilmot and going to the beast continent. Seralune and the Holy bearer are at odds with Natharul, and Thaeroval negotiates for his sister: politics. Maybe she and Nereth get away.
+3. The Time bearer is on the move for Alaric. He wants to find him, or feels he needs to. Time is broken, but his predecessor was a great friend of Alaric's, and he wants to understand why. Seralune and Nereth reach the beast continent.
+4. Seralune and Alaric meet, maybe. They don't like each other at all. Maybe Seralune kills Wena or Redd, but they join parties. This stops the love and her mana going haywire.
+5. They have a mission together. Pressure builds among them.
+6. They start falling in love, slowly.
+7. Not thought beyond here yet.
+
 ## Volume 1
 
 - **Goal.** Volume 1 isn't about answers yet. It's about:
@@ -81,7 +91,11 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
   - Alaric and company have crossed Mydea, killing soldiers and stealing the kingdom's strategist. People are truly against them now.
   - The beastfolk are winning on the border and pushing in.
   - Seralune and Nereth, making their decisions together, escape captivity after all the politics.
-- **Alaric and Seralune first meet** right at the end of Volume 2, going into Volume 3.
+- **Alaric and Seralune first meet** right at the end of Volume 2, going into Volume 3. No ending image yet.
+- **Seralune's lesson is only for Nereth, for now.** She learns to ask the person in front of her, not yet the world. That leaves room for her antagonist arc.
+- **Stealing Darcy is why the beastfolk start winning** and pushing into Mydea. Their one small good brings the war home.
+- **Gilmot's threat doesn't come true.** The soldiers are drawn off to the war, leaving the Faint quarter alone.
+- **Alaric and Freya become mutual before Seralune arrives.**
 
 ## Chapter 1
 
@@ -280,11 +294,16 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 
 ### Volume 2 picture
 
-- **How far does Seralune's lesson reach?** If she fully learns in Volume 2 that choosing for others is wrong, her later antagonist arc needs a relapse with a credible cause. Does she learn it for Nereth, the person in front of her, but not for the world?
-- **Does their good deed bring the war home?** In the old canon, Mydea lends Darcy's strategy to the frontier. If stealing her is why the beastfolk start winning and pushing in, their one small good turns the whole war inward. Is that intended?
-- **Gilmot's threat.** In the old canon he'd burn Kelmend's Faint quarter if Darcy were taken. That's where Redd and Freya grew up. Does the threat survive?
-- **Where and how do Alaric and Seralune meet** at the end of Volume 2?
-- **Alaric and Freya: when does it become mutual?** Before Seralune arrives at the end of Volume 2, or during Volume 3 with Seralune present?
+- **Where and how do Alaric and Seralune meet?** No ending image yet.
+- **Is Gilmot killed in Volume 2?** (The author's earlier outline says yes.)
+
+### Series outline
+
+- **Does everything after the meeting move one volume earlier?** The earlier outline had the meeting in Volume 4; it's now at the end of Volume 2.
+- **Hostility without murder.** The earlier outline had "maybe Seralune kills Wena or Redd". The design bible (11.4) uses almost exactly this as its warning example: a murder like that can't be temporary hostility, and it would make the later romance ring false. Redd is now Freya's brother too. Could the tear supply the hostility instead? The world, and Redd above all, hate her as the witch who killed thousands, while Alaric secretly believes it was him.
+- **Does hostility calm the bond?** The earlier outline had dislike stopping both the love and her mana going haywire. The design bible (16.3) warns against deciding that hostility conveniently stabilises the bond "simply because it makes Volumes 4–6 easy to organise". If it's kept, it needs a real cause, imperfect reliability and growing exceptions. The alternative: closeness is what's dangerous, as the tear already proved.
+- **"Time is broken":** what does it mean?
+- **Geography.** Is Kozmagar a separate "beast continent", or across a land border from Mydea? The beastfolk "pushing in on the border" implies a land border.
 
 ### Chapter 1
 
