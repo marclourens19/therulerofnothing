@@ -127,6 +127,15 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - **Alaric's:** Silas, Redd and Wena stay. **Seralune's:** Nereth stays.
 - **Each gets a full reset** of character, to make them unique.
 
+### Silas
+
+- He still loves Marta.
+- **Gerolt's pupil.** He was Gerolt's underling and pupil, which is why he acts like him. But he's far more harsh.
+- **Reference:** Guts (*Berserk*).
+- **Method.** He just wants to get things done, even if it means violence. He is brutal in his ways and in his killings.
+- **Affinity:** Fire, Eminent, the same level as Gerolt.
+- He still teaches Alaric the sword.
+
 ## World
 
 ### The erasure
@@ -215,6 +224,15 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - **Did anyone in the ancient coalition learn what he did,** and what happened to him?
 - **Does Time remember inside Alaric?** He carries Time too, dormant.
 
+### Silas
+
+- **Which part of Guts?** The brutality, the survivor's will, the buried rage, the fierce loyalty to a few, the defiance of fate?
+- **Does the gorge survive?** If his order still killed Marta's father, then Gerolt's pupil got Gerolt's family killed.
+- **What made the two of them different?** Gerolt holds his fire back so he won't hurt the boy or the house. Does Silas not hold back? Is that the difference between them?
+- **An Eminent outside the system.** In an iron-fisted state, Eminents are officers or wealthy. How is he a free-roaming killer? Is he a deserter, or Avarice?
+- **Flaw, and what he wants** that has nothing to do with Alaric (beyond Marta).
+- **The sword may do the token's job.** As Gerolt's pupil, he would know his master's sword on sight. That could be his reason to help Alaric. *(My reading, to confirm.)*
+
 ### Gerolt
 
 - In a state that uses people by rank, how did an Eminent get to retire?
@@ -269,6 +287,10 @@ None of these have been changed yet. They're listed so nothing is forgotten when
   - Silas giving Alaric a spare sword (Chapter 18);
   - Liluth recognising the sword (Chapter 20 design).
 - Chapter 3's cabin explosion ("something hit the cabin. The night went orange") is never attributed. It could become Gerolt's last stand without rewriting that scene.
+
+### Silas is now Eminent
+
+- The old Silas was upper-Common Fire. See the Silas entry in `Old - Before Re-plan/World Bible/The World.md` and `Old - Before Re-plan/Chapter Design/Chapter 6 - Story Design.md:54` ("upper-Common Fire『Affinity』, not High").
 
 ### Broken Shield becomes Avarice
 
