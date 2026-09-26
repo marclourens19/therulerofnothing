@@ -103,6 +103,8 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - **What she wants (the author's words):** "a world where people don't have to fear those with nothing, or herself." "A world where people don't have to choose what they want, because they have everything they need."
 - **Her wish is deliberately the seed of her antagonist arc.** She wants to choose for others. People don't want that; they want their own freedom of choice.
 - **Volume 1 goal.** She wants to escape a system that is choosing to lock her away because everyone tells her she's dangerous. She knows she isn't: she's a kind person who just wants to help everyone. Her mother opposed her sealing, and she wants answers on why they sealed her, directly from her mother.
+- **Her belief across Volume 1.** At first she thinks, "How could I be dangerous? I never had magic." She says "magic" because she knows the word from a thousand years ago. People around her accuse her. Then her own actions endanger people, and she starts to believe she is the problem.
+- **Volume 1 breaks her into something dangerous.**
 
 ## Gerolt Warde
 
@@ -118,6 +120,16 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - **Sending him away (unconfirmed reading):** Gerolt still sends the boy away in Chapter 2, when he dies, not earlier. The author hasn't confirmed this.
 
 ## World
+
+### The erasure
+
+- **No one in the world knows Alaric from the past.**
+
+### Seralune's mother, the queen
+
+- She opposed the sealing because she believed Seralune's mana could be controlled.
+- She ran away because everyone else agreed to seal her daughter. She was distraught, but always believed her daughter would wake again.
+- She set trustworthy servants to report back to her. When that generation aged out, the duty was passed down by word through the Order.
 
 ### Magic and Affinity
 
@@ -177,11 +189,13 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 
 - **What does "tsundere" look like for her?** The design bible warns against "flirtation wearing armour", so her friction with Alaric needs a real source. One candidate from existing decisions: she can't stop helping and takes control to do it, while he won't let anyone help him.
 - **"The best image": in whose eyes?** The court's, the people's, Nereth's?
-- **One question, or two?** Alaric's question is "What am I worth?" Seralune's, from what you've said, sounds more like "Who gets to decide my life?" Is it the same question for both of them, or one each?
+- **One question, two verdicts (my reading, to confirm).** The world tells him he's nothing and tells her she's dangerous. By the end of Volume 1 each believes the verdict: he is nothing, she is the problem.
 - **Shoko's darkness.** In the film, Shoko's self-blame leads her to a suicide attempt. Is that depth part of what you're taking, or only her gentleness and her apologies?
-- **Her mother's opposition.** When and how does Seralune learn that her mother opposed the sealing? In the old version she didn't know at first.
+- **Her mother's opposition.** Does Seralune learn it from the Order, as she did from Cyrandor in the old version?
 - **The trail.** How far does her mother's trail get in Volume 1? In the old version it ended in ashes at the Lily Steps.
-- **Her wrong belief.** Is "I know I'm not dangerous" the belief Volume 1 breaks? Her feelings already hurt Nereth before the tear.
+- **Does she know she has limitless mana?** In the old version she did, and felt defective for having no Affinity.
+- **Does the erasure rule include her?** By the end of Volume 1, does she remember Alaric (his face, his hand), as she did in the old Chapter 30, or not?
+- **Her last choice in Volume 1.** Alaric's is to carry it alone. What is hers?
 
 ### Gerolt
 
@@ -254,6 +268,10 @@ None of these have been changed yet. They're listed so nothing is forgotten when
 
 - `New - Re-plan/Volume 1/Chapter 1 - A War Without Sound.md:621`: "Riding openly across Mydean fields… They shouldn't be here. Not ever." Under the new rule the scouts are always here. What should shock Gerolt is that they can be *seen*: they're riding openly with torches.
 - `Old - Before Re-plan/World Bible/The World.md:359` says the same thing and treats it as a breach of the peace arrangement.
+
+### No one knows Alaric from the past
+
+- `Old - Before Re-plan/World Bible/The World.md:1049`: the old Volume 1 epilogue has the Kozmagar Time bearer say "He's back." Either he doesn't know *who* is back, or the rule has an exception.
 
 ### Chapter 1 fixes from the first review
 
