@@ -46,6 +46,7 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - **"Give it your all"** was a way of putting it, not a literal rule. It is both the lesson and the mistake.
 - **Ending direction:**
   - The tear still happens, in some form, and thousands of people die.
+  - **Where and when:** Favale, on the Longest Light. The lore around it (event names, characters, everything else) will change when we reach those chapters.
   - **Cause.** The tear comes from Seralune, but because of something Alaric does. She didn't want it to happen. "The person who has nothing, trying to be a better person, is the one who does it."
   - **Blame.** People think it was her, and hate her, without knowing the actual reason.
   - **Seralune reaches for him** at the tear, but with different imagery from the current Chapter 30. To be discussed when we get there.
@@ -128,6 +129,8 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - **Everything from the old version survives,** and he stays exactly as written. His entry in `Old - Before Re-plan/World Bible/The World.md` ("Thaeroval — Seralune's Elder Brother / First Blade / Dark Bearer") is the reference.
 - **What he wants in Volume 1:** his sister safe in his "chains". He believes he must choose for her the best way to keep her safe, and that is resealing her.
 - **He spares Alaric.** He's far more interested in reaching his sister than in doing anything to a boy who means nothing compared to her.
+- **When he passes Alaric he feels literally nothing.**
+- **His erosion.** He slowly loses his emotions until he becomes flat, but that happens much later in the series.
 
 ## The friends
 
@@ -312,11 +315,6 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - **Her speech as a gauge.** Could the way her speech slips mark both closeness and anger? *(Proposed by Claude.)*
 - **Her dream, fulfilled the wrong way.** She finally sees the world, but as a fugitive servant with a spreading corruption, and ends Volume 1 held by the Holy bearer. Should Volume 1 still give her real moments of wonder?
 
-### Thaeroval
-
-- **"He doesn't change."** His design stays as written. But that design includes a cost: every full cut wears away some of his compassion. Does that erosion still happen across the series?
-- **When he passes Alaric:** nothing at all, or a flicker he can't explain? The old canon allowed "bodily recognition" without memory, and the old epilogue had his sword refusing to stop humming.
-
 ### Gerolt
 
 - In a state that uses people by rank, how did an Eminent get to retire?
@@ -401,6 +399,10 @@ None of these have been changed yet. They're listed so nothing is forgotten when
 ### No one knows Alaric from the past
 
 - `Old - Before Re-plan/World Bible/The World.md:1049`: the old epilogue's "He's back" is resolved (Time remembers, not the person), but the old ritual design in `The World.md` ("The Erasure Ritual") says Alaric's own Affinities resisted the spell and the Time component displaced him by accident. Now the displacement is the ancient Time bearer's deliberate act. Does his own resistance still play a part?
+
+### Thaeroval feels nothing
+
+- `Old - Before Re-plan/World Bible/The World.md:1049`: the old epilogue has Thaeroval's sword "won't stop humming". Check it against "he feels literally nothing" when the epilogue is replanned.
 
 ### Chapter 1 fixes from the first review
 

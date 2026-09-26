@@ -55,10 +55,11 @@ Volume 1 tests the question; it doesn't answer it.
 
 ## Against them
 
-- **Thaeroval,** unchanged from the old version. He wants Seralune safe in his "chains", and believes he must choose for her: that means resealing her. When he meets Alaric he spares him. The boy means nothing compared to his sister.
+- **Thaeroval,** unchanged from the old version. He wants Seralune safe in his "chains", and believes he must choose for her: that means resealing her. When he meets Alaric he spares him and feels nothing at all. The boy means nothing compared to his sister. Much later in the series, he slowly loses his emotions until he becomes flat.
 
 ## The tear
 
+- **Where and when:** Favale, on the Longest Light. The names, characters and lore around it will change when we reach those chapters.
 - **Both of them reach at once:** he for his past, she for him. Her power passes through him, and he feels it.
 - **The cost:** thousands die, and the world blames Seralune.
 - **What people know:** no one knows the truth, not even Alaric, but he feels it was his fault. The reader suspects, and is never told.
@@ -71,7 +72,7 @@ Volume 1 tests the question; it doesn't answer it.
 - Thousands are dead.
 - Seralune is hated for something she didn't choose.
 - He believes he's nothing and a killer; she believes she's the problem.
-- *Open:* where the tear happens, and what changes in the world because of it (the church, Natharul, Mydea).
+- *Open:* what changes in the world because of it (the church, Natharul, Mydea).
 
 ## Promise into Volume 2
 
@@ -81,6 +82,7 @@ Volume 1 tests the question; it doesn't answer it.
 
 ## Still open for Volume 1
 
-- Where the tear happens, and who readers must have met there.
+*To decide at chapter level, when we reach those chapters:*
+- Who readers must have met in Favale before the tear.
 - What exactly Alaric does that opens the way.
 - How far her mother's trail gets.
