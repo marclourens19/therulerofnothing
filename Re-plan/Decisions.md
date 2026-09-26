@@ -68,6 +68,12 @@ The World Bible, Main Characters and chapter design files have **not** been upda
 ### Magic and Affinity
 
 - "Magic" is the ancient word for Affinity. It was the word before the laws came in and the current world adopted the current meanings.
+- **Magic costs its user when cast on themselves.** A Fire user isn't immune to fire: if Gerolt casts fire on himself, he gets burnt. (The existing Chapter 1 candle line already obeys this: "The flame burned him. He did not pull away.")
+
+### The Silent Field
+
+- **No one on the battlefield was on his side.** Every army there was fighting him and Seralune.
+- **The riders (Chapter 2's Natharul scouts)** come because they've seen dead elves. They're shocked they neither saw nor heard the battle, and they want answers from the farmer whose land it is.
 
 ### Ranks
 
@@ -84,12 +90,18 @@ The World Bible, Main Characters and chapter design files have **not** been upda
 
 - The network survives under the new name.
 - They fight. Everyone calls them Avarice because they're "evil" for trying to destroy the institution.
+- **What they fight:** the whole church, and the Affinity laws.
 
 ## Open questions
 
 ### Chapter 1
 
-- Which of his Chapter 1 beliefs stays wrong until later?
+- Which of his Chapter 1 beliefs stays wrong until later? Two candidates already on the page are mirror images of each other:
+  - **Line 139, "*Was I here with them?*"** He concludes that the dead were his own people. Later the reader learns that every army on the field came for him.
+  - **Line 571, the running figure.** He concludes "I was what they came to stop." Later, in Chapters 29–30, the reader learns she was running to reach him.
+- Line 571 currently has him voice both guesses about the running figure. For the flaw to work, he would have to settle on one.
+- Does Gerolt react to the dead elves on his land in Chapter 1? Under Natharul's collective-punishment doctrine, dead elves in his wheat put him and his neighbours in danger.
+- The flicker of flame: since fire on himself burns him, does showing the boy mark Gerolt's palm?
 - Should Chapter 1 hint at his willingness to kill? "Chapter 1 is about him not knowing anything" suggests not. *Confirm.*
 - Does Gerolt expect people to arrive by morning (neighbours, the church, soldiers)? If he does, the cabin scene has a deadline.
 - The narration calls him "the boy" and Gerolt calls him "lad". Should both stay, given he's twenty? The new draft also lost the line that told readers his age ("Barely twenty winters on you").
@@ -99,8 +111,8 @@ The World Bible, Main Characters and chapter design files have **not** been upda
 ### Gerolt
 
 - In a state that uses people by rank, how did an Eminent get to retire?
-- Does "Magic can have negative effects" mean only collateral damage (fire burns what's near), or also a cost to the user?
 - Where does his damage come from?
+- Was Gerolt ever part of Avarice? His token was network property.
 - When does he decide to send the boy to Marta? *Confirm.*
 - In Chapter 2 the boy refuses to leave ("I'm not leaving you", "Then I'll carry you"). If Gerolt can't use his fire while the boy is near, that refusal is what holds him back: the flaw at work, with a cost. Is that intended, and does Alaric ever learn it?
 
@@ -108,13 +120,21 @@ The World Bible, Main Characters and chapter design files have **not** been upda
 
 - Does anyone in the present day still say "magic"? Redd says "I *dislike* magic" in Chapter 20.
 - Who changed the word from Magic to Affinity, and when?
-- **The king:** if he's a puppet, what makes him a dictator? What can he do that the church can't?
+- **How is the king evil?** The author asked for help deciding. His existing footprint in Volume 1:
+  - "The king's got the palace." (Chapter 25)
+  - "The king bowed first. In his own hall." This is said to the Natharul envoy, and it's repeated in Chapters 26, 27 and 30.
+
+  Options offered on 26 September, none chosen yet:
+  - **A. He chose his strings.** He handed the church the kingdom, and bowed to Natharul, to keep his throne and his comfort. Every law carries his seal, and he could stop any of it and never does.
+  - **B. The watcher.** The informers' reports end on his desk. The church uses them to keep order; he uses them for private appetites.
+  - **C. The collector.** His wealth includes people: rare Affinities and gifted Faint. Risk: this repeats Gilmot owning Darcy unless the mechanism differs.
+- Why were Natharul scouts close enough to the field that night: by chance, or for a reason?
 - **The church's reach:** how does the church reach a farm like Gerolt's? A shrine, a priest with a ledger, informers?
 - **The field:** who suppresses the Silent Field in Chapter 13, the church or the army?
 
 ### Avarice
 
-- Which institution does it fight: the church, the Affinity law and stewardship system, Natharul, or all of them?
+- Does Avarice fight the faith itself, or only the church as an institution? How does it treat sincere believers, such as Idony, Aubin and the pilgrims?
 - What do its members call themselves? Does the split-shield symbol survive?
 - Is there a problem with Re:Zero readers linking "Avarice" to Re:Zero's Greed (its Witch and Archbishop of Greed)?
 
