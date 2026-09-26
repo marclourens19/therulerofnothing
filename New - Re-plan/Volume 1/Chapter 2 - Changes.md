@@ -3,14 +3,15 @@
 Written on 26 September 2026. This is every change made to `Chapter 2 - The Price of a Voice.md` since its first draft, each with a before, an after and a reason. How the first draft differs from the old chapter is in `Chapter 2 - From the Old Chapter.md`.
 
 - **Revision 1** (changes 1–13) takes out every comparison Alaric couldn't make and every phrase that was there to sound good.
+- **Revision 2** (changes 14–16, plus change 8 extended) carries out your answers to the calls: the cockier entrance, the cough, and cutting "three tries" and "Empty".
 
 - The first draft is saved, unchanged, as `Drafts/Chapter 2 - The Price of a Voice (Draft 1).md`. Any change you reject can go straight back from there.
 - **Draft line** numbers refer to that saved copy. **Revised line** numbers refer to the chapter as it stands now.
 
 ## At a glance
 
-- **13 changes proposed.** 0 rejected so far, so 13 are in the chapter: 12 rewritten, 1 cut and 0 added.
-- **Length:** 2,907 words before, 2,844 after.
+- **16 changes proposed.** 0 rejected so far, so 16 are in the chapter: 15 rewritten, 1 cut and 0 added.
+- **Length:** 2,907 words before, 2,825 after.
 - **Median paragraph:** 14 words before, 14 after. The house target is roughly 14–22.
 - **"Nothing":** 2 times before, 1 after.
 
@@ -23,6 +24,10 @@ These changes add something about a character or the world that you haven't deci
 **Already decided**
 
 - **Change 1, "An axe going into green wood":** You asked for this one: "how would he know this".
+- **Change 8, The elf's entrance:** Your words, from call 2.
+- **Change 14, "Tell her the old fool sent you":** Your answer to the call.
+- **Change 15, "Took you three tries to sit up at midday":** Your answer to the call.
+- **Change 16, "Empty" as a name:** Your answer to the call.
 
 ## Comparisons kept on purpose
 
@@ -38,7 +43,7 @@ These three compare something to what Alaric has lived through on the page, so h
 
 #### 1. "An axe going into green wood"
 
-*Draft line 127 → revised line 125*
+*Draft line 127 → revised line 123*
 
 **Before**
 
@@ -134,23 +139,31 @@ These three compare something to what Alaric has lived through on the page, so h
 
 **Why.** Decoration: a judgement dressed up to sound good. What the boy sees is a fine, unmarked face.
 
-#### 8. "Like someone who'd stepped in something"
+#### 8. The elf's entrance
 
-*Draft line 73 → revised line 71*
+*Draft lines 73–77 → revised lines 71–73*
 
 **Before**
 
 > He looked over the wreckage. There was no alarm on his face at all. Just mild displeasure, like someone who'd stepped in something.
+>
+> "There," he said. "Now you've no door to answer."
+>
+> He stepped over the threshold with his hands empty, and didn't look where he put his feet.
 
 **After**
 
-> He looked over the wreckage. There was no alarm on his face at all. Only distaste.
+> He looked over the wreckage. There was no alarm on his face at all.
+>
+> He laughed as he stepped over the threshold, his hands empty. "Testing my patience, old man. Now you've no door to answer."
 
-**Why.** The author: "explaining things for the sake of it, using words to make it look cool… this is from Alaric's POV, how would he know this." A comparison has to come from something he has actually lived through on the page, and for him that's almost nothing.
+**Why.** Two rounds. Revision 1 cut "like someone who'd stepped in something", a comparison Alaric couldn't make. Revision 2 answers your call 2: "make it sound more cocky, like he laughs as he walks through… testing my patience old man, now you have no door to answer". Knock-on: he says "old man" before he has seen Gerolt, so it reads as though they already knew who lived here. That fits scouts who are always there and never seen.
+
+**Your decision.** Your words, from call 2.
 
 #### 9. "As though he were waiting for an explanation"
 
-*Draft line 85 → revised line 83*
+*Draft line 85 → revised line 81*
 
 **Before**
 
@@ -164,7 +177,7 @@ These three compare something to what Alaric has lived through on the page, so h
 
 #### 10. "Punched through the empty window"
 
-*Draft line 193 → revised line 191*
+*Draft line 193 → revised line 189*
 
 **Before**
 
@@ -178,7 +191,7 @@ These three compare something to what Alaric has lived through on the page, so h
 
 #### 11. "Like the side of a pot left too long on the hearth"
 
-*Draft line 243 → revised line 241*
+*Draft line 243 → revised line 239*
 
 **Before**
 
@@ -192,7 +205,7 @@ These three compare something to what Alaric has lived through on the page, so h
 
 #### 12. "Frayed almost to nothing"
 
-*Draft line 283 → revised line 281*
+*Draft line 283 → revised line 279*
 
 **Before**
 
@@ -206,7 +219,7 @@ These three compare something to what Alaric has lived through on the page, so h
 
 #### 13. "Flame punched up through the roof"
 
-*Draft line 355 → revised line 353*
+*Draft line 355 → revised line 351*
 
 **Before**
 
@@ -217,3 +230,53 @@ These three compare something to what Alaric has lived through on the page, so h
 > Flame burst up through the roof and ran along the beams. The last shutters blew outward. A wave of heat swept through the wheat, bending every stalk towards him, and struck him hard enough to throw him down among them.
 
 **Why.** The third "punched". Plain verbs.
+
+### Revision 2: your answers to the calls
+
+#### 14. "Tell her the old fool sent you"
+
+*Draft line 213 → revised line 209*
+
+**Before**
+
+> "Tell her—" Gerolt coughed into his shoulder, and when he lifted his head there was fresh blood in his beard. "Tell her the old fool sent you."
+
+**After**
+
+> "Tell her the old fool sent you." It ended in a small cough, and blood began to run from the corner of his mouth.
+
+**Why.** Your call 5: "Have a small cough at the end with blood starting to come out of Gerolt's mouth." The cough that used to interrupt the line moves to its end.
+
+**Your decision.** Your answer to the call.
+
+#### 15. "Took you three tries to sit up at midday"
+
+*Draft line 227 → revised line 223*
+
+**Before**
+
+> "Took you three tries to sit up at midday." Gerolt caught his sleeve before he could try again. "Don't, lad."
+
+**After**
+
+> Gerolt caught his sleeve before he could try again. "Don't, lad."
+
+**Why.** Your call 6: "cut, I don't like it".
+
+**Your decision.** Your answer to the call.
+
+#### 16. "Empty" as a name
+
+*Draft line 265 → revised line 261*
+
+**Before**
+
+> "You're a stubborn little bastard, Empty."
+
+**After**
+
+> "You're a stubborn little bastard."
+
+**Why.** Your call 8: "I like it, remove Empty". So Gerolt never calls him Empty in this chapter.
+
+**Your decision.** Your answer to the call.

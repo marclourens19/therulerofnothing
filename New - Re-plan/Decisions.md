@@ -184,13 +184,20 @@ The plan is built in `Volume 1/Chapter 2 - Design.md`.
 - **Kelmend and Marta.** Gerolt sends him west across the river, to Marta at the inn by Kelmend's south gate. The sword is the proof.
 - **The neighbours.** The elf threatens the other households. Gerolt hears it, looks at the boy, and picks up the sword. Nobody says what that choice costs, and the neighbours' fate is left for a later chapter.
 - **The elves are cocky and full of themselves.** The author's example: "Farmer, answer this damn door before we start knocking down others because of your silence."
-- **"Empty" as a name.** Gerolt calls him "Empty" once, gruffly, when he refuses to leave. Then the name replaces it.
+- **"Empty" as a name: reversed after the first draft.** Gerolt never calls him Empty in Chapter 2. The line is "You're a stubborn little bastard." ("I like it, remove Empty").
 - **Where the name comes from.** It arrives through Chapter 1's vision, and this time he hears the word the running figure's mouth was shaping. The author likes the reaching hand and the mouth. The author doesn't like the gold at the cuff, so there's no gold in Chapter 2, and it has been taken out of Chapter 1 as well (revision 4, changes 50–52).
 - **Two moments at once.** During the name vision the cabin shows two moments together (the door whole and shattered, Gerolt unhurt and bleeding). It's trimmed to two or three images and never explained.
 - **The scouts.** The male dies by the sword through his jaw, choking on his blood, and Alaric never learns his name. Liluth is cut apart (her eye, her face, her arm) and escapes. She heard him, and she returns later in Volume 1.
 - **The name Gerolt swallowed** stays unsaid. He dies without saying it, and it's a thread for later.
 - **Echoes of Chapter 1**, each used once: THOOM as the name arrives; his left hand opening towards the figure's hand; the stool and mug in the wreckage; the hand of fire answering the reddened palm; the boy saying "I've got you" back to Gerolt as he presses on the wound.
 - **Title:** "The Price of a Voice".
+- **Answers on the first draft's calls** (26 September):
+  - The elf laughs as he steps in: "Testing my patience, old man. Now you've no door to answer." He calls Gerolt "old man" before he has seen him.
+  - Kept: the candle line after the wind; the sword skidding to the boy's hand; the last line ("perfect"); the torn-off coat and the shirt on the wound.
+  - "Tell her the old fool sent you" now ends in a small cough, with blood starting at the corner of his mouth.
+  - Cut: "Took you three tries to sit up at midday."
+  - The hot hand is being reworked: "It doesn't sound like Cid speaking; it sounds like a computer monologue."
+  - *Not answered yet:* the second scout's laugh.
 
 ## Alaric
 

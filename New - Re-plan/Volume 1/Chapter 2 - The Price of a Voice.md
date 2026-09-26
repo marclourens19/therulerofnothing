@@ -68,11 +68,9 @@ The boy lifted his head.
 
 A tall figure stood in the empty doorway with the torchlight behind him. His pale hair was bound back from a fine, unmarked face. Close-fitting dark armour covered him, crossed with curling lines of gold, and two pointed ears rose through his hair.
 
-He looked over the wreckage. There was no alarm on his face at all. Only distaste.
+He looked over the wreckage. There was no alarm on his face at all.
 
-"There," he said. "Now you've no door to answer."
-
-He stepped over the threshold with his hands empty, and didn't look where he put his feet.
+He laughed as he stepped over the threshold, his hands empty. "Testing my patience, old man. Now you've no door to answer."
 
 Gerolt came out from behind the post at his side. No shout. No warning.
 
@@ -208,7 +206,7 @@ The boy brought it over. It was heavier than it looked, and the grip was slick. 
 
 The boy stared at the blade across his knees.
 
-"Tell her—" Gerolt coughed into his shoulder, and when he lifted his head there was fresh blood in his beard. "Tell her the old fool sent you."
+"Tell her the old fool sent you." It ended in a small cough, and blood began to run from the corner of his mouth.
 
 "You're coming with me." The boy looked at the doorway, then at the stone. "We'll go together."
 
@@ -222,7 +220,7 @@ He didn't have the breath to finish.
 
 Gerolt cried out and clutched at the stone, and the boy lowered him again at once.
 
-"Took you three tries to sit up at midday." Gerolt caught his sleeve before he could try again. "Don't, lad."
+Gerolt caught his sleeve before he could try again. "Don't, lad."
 
 Another arrow thudded into the wall. Then another.
 
@@ -260,7 +258,7 @@ The boy looked at the dog curled against Gerolt's side, then at the blood spread
 
 "I can't."
 
-"You're a stubborn little bastard, Empty."
+"You're a stubborn little bastard."
 
 The pain reached the boy before the voice did.
 

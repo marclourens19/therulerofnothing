@@ -3,11 +3,12 @@
  "draft": "Chapter 2 - The Price of a Voice (Draft 1).md",
  "chapter": "../Chapter 2 - The Price of a Voice.md",
  "changes_file": "../Chapter 2 - Changes.md",
- "intro_md": "Written on 26 September 2026. This is every change made to `Chapter 2 - The Price of a Voice.md` since its first draft, each with a before, an after and a reason. How the first draft differs from the old chapter is in `Chapter 2 - From the Old Chapter.md`.\n\n- **Revision 1** (changes 1–13) takes out every comparison Alaric couldn't make and every phrase that was there to sound good.\n\n- The first draft is saved, unchanged, as `Drafts/Chapter 2 - The Price of a Voice (Draft 1).md`. Any change you reject can go straight back from there.\n- **Draft line** numbers refer to that saved copy. **Revised line** numbers refer to the chapter as it stands now.",
+ "intro_md": "Written on 26 September 2026. This is every change made to `Chapter 2 - The Price of a Voice.md` since its first draft, each with a before, an after and a reason. How the first draft differs from the old chapter is in `Chapter 2 - From the Old Chapter.md`.\n\n- **Revision 1** (changes 1–13) takes out every comparison Alaric couldn't make and every phrase that was there to sound good.\n- **Revision 2** (changes 14–16, plus change 8 extended) carries out your answers to the calls: the cockier entrance, the cough, and cutting \"three tries\" and \"Empty\".\n\n- The first draft is saved, unchanged, as `Drafts/Chapter 2 - The Price of a Voice (Draft 1).md`. Any change you reject can go straight back from there.\n- **Draft line** numbers refer to that saved copy. **Revised line** numbers refer to the chapter as it stands now.",
  "glance": [],
  "summary_md": "## Comparisons kept on purpose\n\nThese three compare something to what Alaric has lived through on the page, so he can make them. You agreed to keep them.\n\n- \"It rose at the end, the way a question does.\" He has heard questions all night.\n- \"Gerolt's flame had sat in his palm no bigger than a candle's.\" He saw both in Chapter 1.\n- \"…nothing like the voice that had told the boy to take the bowl with both hands.\" He heard that voice.",
  "sections": {
-  "Revision 1": "Revision 1: comparisons he couldn't make"
+  "Revision 1": "Revision 1: comparisons he couldn't make",
+  "Revision 2": "Revision 2: your answers to the calls"
  },
  "changes": [
   {
@@ -90,14 +91,16 @@
   },
   {
    "section": "Revision 1",
-   "title": "\"Like someone who'd stepped in something\"",
+   "title": "The elf's entrance",
    "kind": "changed",
    "tags": [
     "compare"
    ],
-   "before": "He looked over the wreckage. There was no alarm on his face at all. Just mild displeasure, like someone who'd stepped in something.",
-   "after": "He looked over the wreckage. There was no alarm on his face at all. Only distaste.",
-   "why": "The author: \"explaining things for the sake of it, using words to make it look cool… this is from Alaric's POV, how would he know this.\" A comparison has to come from something he has actually lived through on the page, and for him that's almost nothing."
+   "before": "He looked over the wreckage. There was no alarm on his face at all. Just mild displeasure, like someone who'd stepped in something.\n\n\"There,\" he said. \"Now you've no door to answer.\"\n\nHe stepped over the threshold with his hands empty, and didn't look where he put his feet.",
+   "after": "He looked over the wreckage. There was no alarm on his face at all.\n\nHe laughed as he stepped over the threshold, his hands empty. \"Testing my patience, old man. Now you've no door to answer.\"",
+   "why": "Two rounds. Revision 1 cut \"like someone who'd stepped in something\", a comparison Alaric couldn't make. Revision 2 answers your call 2: \"make it sound more cocky, like he laughs as he walks through… testing my patience old man, now you have no door to answer\". Knock-on: he says \"old man\" before he has seen Gerolt, so it reads as though they already knew who lived here. That fits scouts who are always there and never seen.",
+   "decision": "accepted",
+   "decision_note": "Your words, from call 2."
   },
   {
    "section": "Revision 1",
@@ -153,6 +156,45 @@
    "before": "Flame punched up through the roof and rolled along the beams. The last shutters blew outward. A wave of heat swept through the wheat, bending every stalk towards him, and struck him hard enough to throw him down among them.",
    "after": "Flame burst up through the roof and ran along the beams. The last shutters blew outward. A wave of heat swept through the wheat, bending every stalk towards him, and struck him hard enough to throw him down among them.",
    "why": "The third \"punched\". Plain verbs."
+  },
+  {
+   "section": "Revision 2",
+   "title": "\"Tell her the old fool sent you\"",
+   "kind": "changed",
+   "tags": [
+    "calls"
+   ],
+   "before": "\"Tell her—\" Gerolt coughed into his shoulder, and when he lifted his head there was fresh blood in his beard. \"Tell her the old fool sent you.\"",
+   "after": "\"Tell her the old fool sent you.\" It ended in a small cough, and blood began to run from the corner of his mouth.",
+   "why": "Your call 5: \"Have a small cough at the end with blood starting to come out of Gerolt's mouth.\" The cough that used to interrupt the line moves to its end.",
+   "decision": "accepted",
+   "decision_note": "Your answer to the call."
+  },
+  {
+   "section": "Revision 2",
+   "title": "\"Took you three tries to sit up at midday\"",
+   "kind": "changed",
+   "tags": [
+    "calls"
+   ],
+   "before": "\"Took you three tries to sit up at midday.\" Gerolt caught his sleeve before he could try again. \"Don't, lad.\"",
+   "after": "Gerolt caught his sleeve before he could try again. \"Don't, lad.\"",
+   "why": "Your call 6: \"cut, I don't like it\".",
+   "decision": "accepted",
+   "decision_note": "Your answer to the call."
+  },
+  {
+   "section": "Revision 2",
+   "title": "\"Empty\" as a name",
+   "kind": "changed",
+   "tags": [
+    "calls"
+   ],
+   "before": "\"You're a stubborn little bastard, Empty.\"",
+   "after": "\"You're a stubborn little bastard.\"",
+   "why": "Your call 8: \"I like it, remove Empty\". So Gerolt never calls him Empty in this chapter.",
+   "decision": "accepted",
+   "decision_note": "Your answer to the call."
   }
  ]
 }

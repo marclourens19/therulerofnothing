@@ -20,18 +20,18 @@ Written on 26 September 2026. This compares the new `Chapter 2 - The Price of a 
 
 ## Your call
 
-These are new, and each needs a yes or no from you.
+These were new. Your answers are recorded after each one, and the changes they led to are in `Chapter 2 - Changes.md`.
 
 1. **The second scout laughs** before we see her: "Somewhere beyond the wall, a woman laughed." It shows how sure of themselves they are, and it tells the boy there are two.
-2. **The elf's entrance.** "'There,' he said. 'Now you've no door to answer.' / He stepped over the threshold with his hands empty, and didn't look where he put his feet." His contempt is what gets him killed.
-3. **The boy's only other sight of magic.** Right after the wind, one line: "Gerolt's flame had sat in his palm no bigger than a candle's." It's a single comparison, with no comment on it.
-4. **The sword skids** to "an arm's length from the boy's hand" in the fight. Later, Gerolt tells him to fetch it.
-5. **"Tell her the old fool sent you."** It hints that Marta knows him well, without saying she's his niece.
-6. **"Took you three tries to sit up at midday."** This is Gerolt's dry reply when the boy offers to carry him.
-7. **The hot hand.** Gerolt's hand on his wrist turns from warm to hot, "hot, and getting hotter". Gerolt takes it away and closes it into a fist. It's the only sign on the page that the boy's staying holds back his fire.
-8. **"You're a stubborn little bastard, Empty."** This is the one time he uses "Empty" as a name.
-9. **The last line:** "Alaric lay in the wheat with Gerolt's sword beneath him and watched the house burn."
-10. **Where the coat went.** In Chapter 1, his one coat hangs by the door. So the wind tears it off its peg, and the boy presses Gerolt's shirt to the wound.
+2. **The elf's entrance.** "'There,' he said. 'Now you've no door to answer.' / He stepped over the threshold with his hands empty, and didn't look where he put his feet." His contempt is what gets him killed. **Answered:** cockier. He now laughs as he steps in: "Testing my patience, old man. Now you've no door to answer."
+3. **The boy's only other sight of magic.** Right after the wind, one line: "Gerolt's flame had sat in his palm no bigger than a candle's." It's a single comparison, with no comment on it. **Answered:** keep.
+4. **The sword skids** to "an arm's length from the boy's hand" in the fight. Later, Gerolt tells him to fetch it. **Answered:** keep.
+5. **"Tell her the old fool sent you."** It hints that Marta knows him well, without saying she's his niece. **Answered:** keep, and the line now ends "in a small cough, and blood began to run from the corner of his mouth".
+6. **"Took you three tries to sit up at midday."** This is Gerolt's dry reply when the boy offers to carry him. **Answered:** cut.
+7. **The hot hand.** Gerolt's hand on his wrist turns from warm to hot, "hot, and getting hotter". Gerolt takes it away and closes it into a fist. It's the only sign on the page that the boy's staying holds back his fire. **Answered:** rework. "It doesn't sound like Cid speaking; it sounds like a computer monologue." *Being reworked.*
+8. **"You're a stubborn little bastard, Empty."** This is the one time he uses "Empty" as a name. **Answered:** keep, but without "Empty". Gerolt never calls him Empty in this chapter.
+9. **The last line:** "Alaric lay in the wheat with Gerolt's sword beneath him and watched the house burn." **Answered:** "perfect".
+10. **Where the coat went.** In Chapter 1, his one coat hangs by the door. So the wind tears it off its peg, and the boy presses Gerolt's shirt to the wound. **Answered:** keep.
 
 ## 1. The door
 
@@ -83,9 +83,7 @@ Bold is kept for THOOM, so the sound effect has gone. The old passage explained 
 
 > **Before:** "Human," he called into the dark. "You were offered the mercy of answering alone."
 >
-> **After:** "There," he said. "Now you've no door to answer."
->
-> He stepped over the threshold with his hands empty, and didn't look where he put his feet.
+> **After:** He laughed as he stepped over the threshold, his hands empty. "Testing my patience, old man. Now you've no door to answer."
 
 ## 2. The fight
 
@@ -131,7 +129,7 @@ Chapter 1 already showed him choosing silence, so the shout doesn't need a sente
 
 > **Before:** He pulled out a small iron token, dark with age and worn almost smooth. A split shield was stamped into one side. … "West. Across the river." … "Kelmend. Find the inn… near the southern gate." … "Ask for Marta. Give her that." … "Tell her… Gerolt sent you."
 >
-> **After:** "Sword," he said. … "Get it." / The boy brought it over. It was heavier than it looked, and the grip was slick. Gerolt didn't take it. He folded the boy's fingers around the grip and held them there. / "West," he said. "Across the river. Kelmend." … "There's an inn by the south gate. Marta. Show her that. She'll know it." … "Tell her the old fool sent you."
+> **After:** "Sword," he said. … "Get it." / The boy brought it over. It was heavier than it looked, and the grip was slick. Gerolt didn't take it. He folded the boy's fingers around the grip and held them there. / "West," he said. "Across the river. Kelmend." … "There's an inn by the south gate. Marta. Show her that. She'll know it." … "Tell her the old fool sent you." It ended in a small cough, and blood began to run from the corner of his mouth.
 
 **His peace, lost.** This is an echo of Chapter 1.
 
@@ -153,7 +151,7 @@ Chapter 1 already showed him choosing silence, so the shout doesn't need a sente
 
 > **Before:** "Stubborn little bastard," Gerolt murmured. "All that emptiness, and still no room in you for sense."
 >
-> **After:** "You're a stubborn little bastard, Empty."
+> **After:** "You're a stubborn little bastard."
 
 **The name.** It comes through Chapter 1's vision (the reaching hand and the mouth), with no gold.
 

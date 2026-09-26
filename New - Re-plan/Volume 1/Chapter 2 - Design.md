@@ -60,6 +60,17 @@ The old chapter is in `Old - Before Re-plan/Volume 1 - Rewrites/Chapter 2 - The 
 14. **Echoes:** THOOM, the left hand, the stool and mug, the hand of fire, and "I've got you".
 15. **Title:** "The Price of a Voice".
 
+### Round 4: the first draft's calls (answered 26 September)
+
+- **2. The elf's entrance.** "Make it sound more cocky, like he laughs as he walks through… testing my patience old man, now you have no door to answer."
+- **3 and 4.** The candle line and the sword skidding: keep.
+- **5. "The old fool".** "Have a small cough at the end with blood starting to come out of Gerolt's mouth."
+- **6. "Three tries".** "Cut, I don't like it."
+- **7. The hot hand.** "Doesn't sound like Cid speaking, sounds like a computer monologue." *Being reworked; see the question in chat.*
+- **8.** "I like it, remove Empty."
+- **9 and 10.** The last line ("perfect") and the coat: keep.
+- **1. The second scout's laugh.** *Not answered yet.*
+
 ### Later
 
 - Nothing yet. New questions go here as they come up.
