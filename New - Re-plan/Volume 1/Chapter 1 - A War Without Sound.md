@@ -304,7 +304,7 @@ The boy rubbed the dark material between his fingers.
 
 "Who made it?" Gerolt asked.
 
-"I wish I could tell you. I keep looking for something in them—a mark, a colour, anything that might explain who made them or why I was wearing them. There's nothing."
+"I don't know. I keep looking for something in them—a mark, a colour, anything that might explain who made them or why I was wearing them. There's nothing."
 
 "Yet they fit you."
 

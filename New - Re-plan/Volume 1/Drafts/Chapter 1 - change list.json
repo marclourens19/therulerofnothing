@@ -559,14 +559,16 @@
   },
   {
    "section": "Revision 3",
-   "title": "Looking down three times",
+   "title": "Looking down, and \"I wish I could tell you\"",
    "kind": "changed",
    "tags": [
     "r3"
    ],
    "before": "The boy looked down at the fabric. \"I wish I could tell you. I keep looking for something in them—a mark, a colour, anything that might explain who made them or why I was wearing them. There's nothing.\"",
-   "after": "\"I wish I could tell you. I keep looking for something in them—a mark, a colour, anything that might explain who made them or why I was wearing them. There's nothing.\"",
-   "why": "He looks down at himself six lines earlier and is already rubbing the cloth between his fingers. It's clear he's the one answering."
+   "after": "\"I don't know. I keep looking for something in them—a mark, a colour, anything that might explain who made them or why I was wearing them. There's nothing.\"",
+   "why": "He looks down at himself six lines earlier and is already rubbing the cloth between his fingers. It's clear he's the one answering. Also, \"I wish I could tell you\" became \"I don't know\": the same words return at the window, where they matter more (\"I wish I could tell you more… I can see that you're afraid\"), and now the apology belongs only to that moment. The style checker found the repeat.",
+   "decision": "accepted",
+   "decision_note": "You chose \"I don't know.\""
   },
   {
    "section": "Revision 3",

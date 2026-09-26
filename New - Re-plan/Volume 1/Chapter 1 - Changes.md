@@ -14,7 +14,7 @@ Written on 26 September 2026. This is every change made to `Chapter 1 - A War Wi
 ## At a glance
 
 - **49 changes proposed.** 1 rejected so far, so 48 are in the chapter: 42 rewritten, 5 cut and 1 added.
-- **Length:** 6,434 words before, 6,395 after.
+- **Length:** 6,434 words before, 6,392 after.
 - **Median paragraph:** 14 words before, 13.5 after. The house target is roughly 14–22.
 - **"Nothing":** 24 times before, 19 after.
 - **Gerolt's failed laugh:** four times before (lines 103, 277, 417, 471). Now once, in your own line 103.
@@ -45,6 +45,7 @@ These changes add something about a character or the world that you haven't deci
 - **Change 42, Too tired to find it funny:** Agreed.
 - **Change 43, Whose choice:** Agreed.
 - **Change 44, Enough for the boy:** Agreed.
+- **Change 46, Looking down, and "I wish I could tell you":** You chose "I don't know."
 
 ## What each decision became
 
@@ -813,7 +814,7 @@ These changes add something about a character or the world that you haven't deci
 
 **Why.** Line 69 already has "Easy, lad—by the Four", and oaths are meant to be used sparingly. The chapter still has "By the Four" twice (lines 69 and 291) and "the Last Dark" twice.
 
-#### 46. Looking down three times
+#### 46. Looking down, and "I wish I could tell you"
 
 *Draft line 309 → revised line 307*
 
@@ -823,9 +824,11 @@ These changes add something about a character or the world that you haven't deci
 
 **After**
 
-> "I wish I could tell you. I keep looking for something in them—a mark, a colour, anything that might explain who made them or why I was wearing them. There's nothing."
+> "I don't know. I keep looking for something in them—a mark, a colour, anything that might explain who made them or why I was wearing them. There's nothing."
 
-**Why.** He looks down at himself six lines earlier and is already rubbing the cloth between his fingers. It's clear he's the one answering.
+**Why.** He looks down at himself six lines earlier and is already rubbing the cloth between his fingers. It's clear he's the one answering. Also, "I wish I could tell you" became "I don't know": the same words return at the window, where they matter more ("I wish I could tell you more… I can see that you're afraid"), and now the apology belongs only to that moment. The style checker found the repeat.
+
+**Your decision.** You chose "I don't know."
 
 #### 47. Stopped, then not stopped
 
