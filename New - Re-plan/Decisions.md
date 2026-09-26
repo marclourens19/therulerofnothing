@@ -1,8 +1,8 @@
-# Volume 1 Re-plan: Decisions
+# Re-plan: Decisions
 
 Started 26 September 2026. This file records what the author has decided during the re-plan, in the author's own words where possible. Nothing goes under a "Decided" heading unless the author said it. Suggestions stay under **Open questions** until the author agrees.
 
-The World Bible, Main Characters and chapter design files have **not** been updated yet. Where a decision contradicts them, it is listed under **Existing files that now conflict**.
+Everything written before the re-plan now lives in `Old - Before Re-plan/`. That includes the World Bible, Main Characters and the chapter designs, and none of it has been updated. Where a decision contradicts those files, it is listed under **Existing files that now conflict**.
 
 ## How we work
 
@@ -24,6 +24,13 @@ The World Bible, Main Characters and chapter design files have **not** been upda
 - Every major character wants something the story threatens.
 - Borrowed characters lend specific traits, not templates, and we record which trait came from where. In practice the author is already doing this: Gerolt takes Cid's humour and damage.
 
+## The series
+
+- At least twelve volumes, possibly more: a story people come to love.
+- **Order of work:**
+  1. Refine the new Chapter 1 until it's ready.
+  2. Before writing Chapter 2 onward, discuss a picture of Volume 1, Volume 2 and Volume 3.
+
 ## Volume 1
 
 - **Goal.** Volume 1 isn't about answers yet. It's about:
@@ -37,6 +44,7 @@ The World Bible, Main Characters and chapter design files have **not** been upda
 ## Chapter 1
 
 - **Purpose:** it's about him not knowing anything.
+- **Gerolt reacts to the dead elves** on his land.
 - **An uncorrected wrong belief.** At least one belief he forms in Chapter 1 stays uncorrected; the reader learns later that it was wrong. *Which belief: open.*
 - **Why he's shocked when he sees magic:** he has forgotten everything about himself and everything around him. The spell a thousand years ago literally erased his existence.
 - **The author's scene idea, not yet locked:** during the Affinity questioning, Gerolt summons a flicker of flame in his hand to show the boy. The boy is shocked. He recognises magic "from outside", drawing the resemblance, but knows something is missing inside himself.
@@ -85,6 +93,10 @@ The World Bible, Main Characters and chapter design files have **not** been upda
 - Gerolt would be punished for hiding things.
 - People talk, and aren't afraid to give each other up for extra food and gold.
 - **Who rules:** the church gives the big orders. The king is a puppet who watches and enjoys his wealth. He's a vile dictator who only wants things for himself, and is introduced in Volume 2.
+- **How the king is evil (Option A, chosen):** he chose his strings. He handed the church the kingdom, and bowed to Natharul, to keep his throne and his comfort. Every law carries his seal; he could stop any of it and never does. His existing footprint in Volume 1:
+  - "The king's got the palace." (Chapter 25)
+  - "The king bowed first. In his own hall." (Chapters 26, 27 and 30)
+- **Natharul's scouts:** under the agreement between Mydea's king and Natharul, Natharul scouts are all over Mydea, all the time, scouting everywhere. They are never seen. That's the rule, to keep people calm.
 
 ### Avarice (formerly the Broken Shield network)
 
@@ -100,7 +112,6 @@ The World Bible, Main Characters and chapter design files have **not** been upda
   - **Line 139, "*Was I here with them?*"** He concludes that the dead were his own people. Later the reader learns that every army on the field came for him.
   - **Line 571, the running figure.** He concludes "I was what they came to stop." Later, in Chapters 29–30, the reader learns she was running to reach him.
 - Line 571 currently has him voice both guesses about the running figure. For the flaw to work, he would have to settle on one.
-- Does Gerolt react to the dead elves on his land in Chapter 1? Under Natharul's collective-punishment doctrine, dead elves in his wheat put him and his neighbours in danger.
 - The flicker of flame: since fire on himself burns him, does showing the boy mark Gerolt's palm?
 - Should Chapter 1 hint at his willingness to kill? "Chapter 1 is about him not knowing anything" suggests not. *Confirm.*
 - Does Gerolt expect people to arrive by morning (neighbours, the church, soldiers)? If he does, the cabin scene has a deadline.
@@ -120,15 +131,11 @@ The World Bible, Main Characters and chapter design files have **not** been upda
 
 - Does anyone in the present day still say "magic"? Redd says "I *dislike* magic" in Chapter 20.
 - Who changed the word from Magic to Affinity, and when?
-- **How is the king evil?** The author asked for help deciding. His existing footprint in Volume 1:
-  - "The king's got the palace." (Chapter 25)
-  - "The king bowed first. In his own hall." This is said to the Natharul envoy, and it's repeated in Chapters 26, 27 and 30.
-
-  Options offered on 26 September, none chosen yet:
-  - **A. He chose his strings.** He handed the church the kingdom, and bowed to Natharul, to keep his throne and his comfort. Every law carries his seal, and he could stop any of it and never does.
-  - **B. The watcher.** The informers' reports end on his desk. The church uses them to keep order; he uses them for private appetites.
-  - **C. The collector.** His wealth includes people: rare Affinities and gifted Faint. Risk: this repeats Gilmot owning Darcy unless the mechanism differs.
-- Why were Natharul scouts close enough to the field that night: by chance, or for a reason?
+- **The king's appetite:** what does he spend his comfort on? Two options were offered alongside A and not chosen:
+  - **B. The watcher.** The informers' reports end on his desk, and he uses them for private appetites.
+  - **C. The collector.** His wealth includes people.
+- **The scout agreement.** Who knows it exists? Is it an open secret, or known only to the court, the church and people like Gerolt? Does Gerolt know it from his past?
+- **How do the scouts stay unseen?** Magic, skill, or both? The Chapter 1 dismount that makes no sound may already be showing how.
 - **The church's reach:** how does the church reach a farm like Gerolt's? A shrine, a priest with a ledger, informers?
 - **The field:** who suppresses the Silent Field in Chapter 13, the church or the army?
 
@@ -148,10 +155,10 @@ None of these have been changed yet. They're listed so nothing is forgotten when
 
 ### "High" becomes Eminent
 
-- `World Bible/The World.md:874`: the Wind rider is "High".
-- `Chapter Design/Chapter 7 - Story Design.md:259`: Marta is "a High Wind user". The World Bible already says Eminent.
-- `Chapter Design/Chapter 20 - Story Design.md`, lines 84, 85, 291 and 652.
-- `Chapter Design/Chapter 6 - Story Design.md:54`: "not High".
+- `Old - Before Re-plan/World Bible/The World.md:874`: the Wind rider is "High".
+- `Old - Before Re-plan/Chapter Design/Chapter 7 - Story Design.md:259`: Marta is "a High Wind user". The World Bible already says Eminent.
+- `Old - Before Re-plan/Chapter Design/Chapter 20 - Story Design.md`, lines 84, 85, 291 and 652.
+- `Old - Before Re-plan/Chapter Design/Chapter 6 - Story Design.md:54`: "not High".
 
 ### The token becomes the sword
 
@@ -169,15 +176,20 @@ None of these have been changed yet. They're listed so nothing is forgotten when
 
 ### Broken Shield becomes Avarice
 
-- `World Bible/The World.md` (8 mentions).
-- Chapters 2, 6, 7 and 8 in `Volume 1 - Rewrites/`.
+- `Old - Before Re-plan/World Bible/The World.md` (8 mentions).
+- Chapters 2, 6, 7 and 8 in `Old - Before Re-plan/Volume 1 - Rewrites/`.
 - The Chapter 3, 6 and 7 designs.
 
 ### Magic and Affinity
 
-- `Volume 1 - Rewrites/Chapter 6 - The Road Owed to the Dead (Rewrite).md:419`: "Fire『Affinity』" surfaces "with the same unwanted certainty as『Magic』". Under the new rule, "Affinity" is Gerolt's modern word, not buried knowledge.
-- `Volume 1 - Rewrites/Chapter 20 - Liluth (Rewrite).md:249`: Redd says "magic". This depends on the open question above.
-- `Volume 1 - Rewrites/Chapter 2 - The Price of a Voice (Rewrite).md`: "Not some quiet idea you talked about over stew" changes if the flame scene goes in.
+- `Old - Before Re-plan/Volume 1 - Rewrites/Chapter 6 - The Road Owed to the Dead (Rewrite).md:419`: "Fire『Affinity』" surfaces "with the same unwanted certainty as『Magic』". Under the new rule, "Affinity" is Gerolt's modern word, not buried knowledge.
+- `Old - Before Re-plan/Volume 1 - Rewrites/Chapter 20 - Liluth (Rewrite).md:249`: Redd says "magic". This depends on the open question above.
+- `Old - Before Re-plan/Volume 1 - Rewrites/Chapter 2 - The Price of a Voice (Rewrite).md`: "Not some quiet idea you talked about over stew" changes if the flame scene goes in.
+
+### Natharul scouts: always present, never seen
+
+- `New - Re-plan/Volume 1/Chapter 1 - A War Without Sound.md:621`: "Riding openly across Mydean fields… They shouldn't be here. Not ever." Under the new rule the scouts are always here. What should shock Gerolt is that they can be *seen*: they're riding openly with torches.
+- `Old - Before Re-plan/World Bible/The World.md:359` says the same thing and treats it as a breach of the peace arrangement.
 
 ### Chapter 1 fixes from the first review
 
