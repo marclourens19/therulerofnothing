@@ -106,6 +106,23 @@ def main():
                       for g, v in words_at.items() if len(set(v)) > 1})
     report('Repeated six-word runs (exact repeats across the chapter)', repeats)
 
+    # Most repeated words: strong verbs and nouns that recur too often read as an echo
+    STOP = set('''that this with from have what they their there were been into them then than when where which would could
+    should about over under back down only just still even more most some your said says like before after while through around
+    again once other another each every both himself herself itself nothing something someone anything anyone because
+    against between towards toward across behind beside among without within upon onto away also very much many such
+    it's didn't don't can't wasn't couldn't wouldn't hadn't isn't aren't he'd she'd i'm you're i've you've we're they're'''.split())
+    counts = defaultdict(list)
+    for n, l in prose:
+        for w in re.findall(r"[A-Za-z']+", l):
+            lw = w.lower()
+            if len(lw) >= 4 and lw not in STOP and not w[0].isupper():
+                counts[lw].append(n)
+    top = sorted(((len(v), k) for k, v in counts.items()), reverse=True)
+    heavy = [f'{k} {c}' for c, k in top if c >= 6][:25]
+    print('\n== Most repeated words (6 or more; check that strong verbs and images aren\'t echoing)')
+    print('   ' + ', '.join(heavy))
+
     # Paragraph rhythm
     paras = [(n, l) for n, l in body if l.strip() != '---']
     wc = [len(l.split()) for _, l in paras]

@@ -53,6 +53,9 @@ Read the whole chapter, start to finish, with these questions.
 - Bodies and props: moved when touched, and still there when not.
 - Clothing, blood and injuries.
 - What each character knows, and when they learned it.
+- What the viewpoint character worked out in earlier chapters. He shouldn't ask a question he has already answered himself. For example, in Chapter 2's draft the boy asked why the elves came, after deducing it in Chapter 1.
+- Where the light comes from in every scene: torch, fire, moon, candle. When a light leaves, what can still be seen?
+- Which hand is doing what, especially after a hand has been hurt, burned or taken away.
 - Numbers: ages, years and distances.
 - What the viewpoint character can physically see and hear from where they are.
 
@@ -63,6 +66,9 @@ Read the whole chapter, start to finish, with these questions.
 - Every pronoun that follows a sentence about someone else still points to the right person.
 
 **Repetition**
+
+- Strong verbs repeated across the chapter (Chapter 2's draft had "caught" nine times, "tore" nine and "dragged" six). The style check lists the most repeated words.
+- Description repeated from an earlier chapter. Once the reader knows the layered voice, "the layered voice" is enough.
 
 Check each of these for the same thing happening twice:
 
