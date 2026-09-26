@@ -92,6 +92,14 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - **His immaturity in Chapter 1:** because he knows nothing, he believes things are right when they aren't.
 - **Memory rule:** he knows what things are, but has never experienced any of them. This is never stated on the page (see Principle 3).
 
+## Seralune
+
+- **Core (the author's words):** "a stubborn princess who stands up for herself and never backs down from what she wants." She's a bit of a tsundere (when she loves Alaric). She's never cocky, and she says sorry. She has emotions and cares deeply for those around her.
+- **References:** like Alisaie (FFXIV), but more like Shoko Nishimiya (*A Silent Voice*).
+- **Flaw.** She's very compassionate, which makes her want to help everyone, be friends with everyone and have the best image. Because of this she often takes control of situations, and they end badly. She needs to learn that people must choose for themselves, and that her way isn't always the only way.
+- **Her side of the volume's question.** She is told she was sealed for her own good. She doesn't remember it, or making any decision for herself, so it scares her and she rejects it.
+- **What she wants (the author's words):** "a world where people don't have to fear those with nothing, or herself." "A world where people don't have to choose what they want, because they have everything they need."
+
 ## Gerolt Warde
 
 - **Name.** Full name Gerolt Warde. The echo of "ward" (Alaric was the queen's ward) is not deliberate.
@@ -160,6 +168,17 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - The narration calls him "the boy" and Gerolt calls him "lad". Should both stay, given he's twenty? The new draft also lost the line that told readers his age ("Barely twenty winters on you").
 - Should Chapter 1 carry the horror that nobody on earth knows him? It's the opposite of Subaru's situation, where everyone knows him and he doesn't know them.
 - Is the flame scene locked?
+
+### Seralune
+
+- **Alisaie or Shoko, and where?** Alisaie is fiery and blunt; Shoko is gentle, apologises constantly and blames herself. Which one shows in which situations?
+- **The twins.** Alaric is part Alphinaud and Seralune part Alisaie, and those two are twins. Is that deliberate?
+- **What does "tsundere" look like for her?** The design bible warns against "flirtation wearing armour". Her friction with Alaric needs a real source.
+- **"The best image": in whose eyes?** The court's, the people's, Nereth's?
+- **Worth or choice?** Is her Volume 1 question the same as his (worth), or its sibling (who gets to decide)?
+- **"People don't have to choose": is that deliberate?** It's the opposite of her lesson and of the series ending, where people are free to choose.
+- **Shoko's darkness.** In the film, Shoko's self-blame leads her to a suicide attempt. Is that depth part of what you're taking, or only her gentleness and her apologies?
+- **Her immediate goal in Volume 1:** a verb. The world she wants is her deeper desire, not what she's doing this volume.
 
 ### Gerolt
 
