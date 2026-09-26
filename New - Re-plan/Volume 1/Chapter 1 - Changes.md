@@ -1,6 +1,9 @@
-# Chapter 1: Changes in Revision 1
+# Chapter 1: Changes
 
-Written on 26 September 2026. This is every change made to `Chapter 1 - A War Without Sound.md` in this revision, each with a before, an after and a reason.
+Written on 26 September 2026. This is every change made to `Chapter 1 - A War Without Sound.md` since the draft, each with a before, an after and a reason.
+
+- **Revision 1** (changes 1–37) carried out the agreed decisions and craft fixes.
+- **Revision 2** (changes 38–44) trimmed your own lines against principle 5: don't explain the meaning.
 
 - The chapter as it was before is saved, unchanged, as `Drafts/Chapter 1 - A War Without Sound (Draft 1, before revision).md`. Any change you reject can go straight back from there.
 - **Draft line** numbers refer to that saved copy. **Revised line** numbers refer to the chapter as it stands now.
@@ -9,8 +12,8 @@ Written on 26 September 2026. This is every change made to `Chapter 1 - A War Wi
 
 ## At a glance
 
-- **37 changes proposed.** 1 rejected so far, so 36 are in the chapter: 32 rewritten, 3 cut and 1 added.
-- **Length:** 6,434 words before, 6,523 after.
+- **44 changes proposed.** 1 rejected so far, so 43 are in the chapter: 37 rewritten, 5 cut and 1 added.
+- **Length:** 6,434 words before, 6,414 after.
 - **Median paragraph:** 14 words before, 14 after. The house target is roughly 14–22.
 - **"Nothing":** 24 times before, 19 after.
 - **Gerolt's failed laugh:** four times before (lines 103, 277, 417, 471). Now once, in your own line 103.
@@ -34,6 +37,13 @@ These changes add something about a character or the world that you haven't deci
 - **Change 25, "Empty":** Kept. The old class lore is still true.
 - **Change 28, The elves, and the deadline:** Kept: Gerolt names Natharul here, the name he swallows later is something more specific, and the neighbours' house stays.
 - **Change 37, The last line:** Kept: "either of them" is what you meant.
+- **Change 38, "Interrupted":** Agreed.
+- **Change 39, "Appeared":** Agreed.
+- **Change 40, The empty centre:** Agreed.
+- **Change 41, The name of a kingdom:** Agreed.
+- **Change 42, Too tired to find it funny:** Agreed.
+- **Change 43, Whose choice:** Agreed.
+- **Change 44, Enough for the boy:** Agreed.
 
 ## What each decision became
 
@@ -504,7 +514,7 @@ These changes add something about a character or the world that you haven't deci
 
 > "Then you call again. Louder. I'm a farmer, not a scholar. Calling louder is the whole of my strategy."
 
-**Why.** The third failed laugh, as a failed smile. He tells the joke straight. The next paragraph, where the boy is too tired to find it funny, does the rest.
+**Why.** The third failed laugh, as a failed smile. He tells the joke straight, and the boy doesn't answer (see change 42).
 
 #### 27. "Long enough"
 
@@ -658,7 +668,7 @@ These changes add something about a character or the world that you haven't deci
 
 #### 37. The last line
 
-*Draft lines 695–697 → revised lines 695–697*
+*Draft lines 695–697 → revised lines 691–693*
 
 **Before**
 
@@ -675,3 +685,113 @@ These changes add something about a character or the world that you haven't deci
 **Why.** It was in italics but in the third person (italics are for direct thought), and "he" could be Gerolt or the boy. It's now plain narration, with "either of them". Your sentence before it already says the thought comes from the same place that gave him 『Magic』, so it reads as recognising magic, not as a sixth sense for danger (which Alaric's guardrails rule out). *Trimmed after your note on over-explaining: the two sentences explaining the silent footsteps are gone.*
 
 **Your decision.** Kept: "either of them" is what you meant.
+
+### Revision 2: your own lines, against principle 5
+
+#### 38. "Interrupted"
+
+*Draft line 125 → revised line 125*
+
+**Before**
+
+> Neither man had reached the other. The battle had not ended so much as been *interrupted*.
+
+**After**
+
+> Neither man had reached the other.
+
+**Why.** The second sentence told readers what the image means. The horse falling mid-stride and the two reaching hands already show it.
+
+**Your decision.** Agreed.
+
+#### 39. "Appeared"
+
+*Draft line 151 → revised line 151*
+
+**Before**
+
+> Nothing had entered through the crop. The entire battlefield had appeared in its midst without bending a single stalk beyond it.
+
+**After**
+
+> Nothing had entered through the crop.
+
+**Why.** The paragraph before it (no wheel ruts, no trail of broken wheat) and "Nothing had entered through the crop" already make the point. The second sentence drew the conclusion for the reader.
+
+**Your decision.** Agreed.
+
+#### 40. The empty centre
+
+*Draft line 203 → revised line 203*
+
+**Before**
+
+> The boy stared at the empty centre. Some part of him insisted it should not have been empty.
+
+**After**
+
+> The boy stared at the empty centre.
+
+**Why.** "*Someone was there.*" comes straight after and does the work.
+
+**Your decision.** Agreed.
+
+#### 41. The name of a kingdom
+
+*Draft line 281 → revised line 279*
+
+**Before**
+
+> It was the name of an entire kingdom, and the boy had never heard it before. His fingers closed around the blanket as he waited for the name to stir something inside him. Nothing did.
+
+**After**
+
+> His fingers closed around the blanket as he waited for the name to stir something inside him. Nothing did.
+
+**Why.** He says "I've never heard it before" himself two paragraphs later.
+
+**Your decision.** Agreed.
+
+#### 42. Too tired to find it funny
+
+*Draft line 419 → revised line 419*
+
+**Before**
+
+> The boy didn't answer that. He was too tired to find it funny, and too frightened to let it comfort him, and he sat there with both feelings pressing on him at once until neither one won.
+
+**After**
+
+> The boy didn't answer that.
+
+**Why.** The rest named his feelings. His silence after Gerolt's joke already shows them.
+
+**Your decision.** Agreed.
+
+#### 43. Whose choice
+
+*Draft line 639 · cut*
+
+**Before**
+
+> Calling out wouldn't be the boy's choice alone. It would make it for both of them.
+
+**After:** cut.
+
+**Why.** The paragraphs before it show Gerolt hiding in his own house, and "He wanted answers. He chose silence." carries the choice.
+
+**Your decision.** Agreed.
+
+#### 44. Enough for the boy
+
+*Draft line 665 · cut*
+
+**Before**
+
+> For now, that was enough for the boy too.
+
+**After:** cut.
+
+**Why.** "But he knew enough to be afraid." is the stronger place to stop.
+
+**Your decision.** Agreed.

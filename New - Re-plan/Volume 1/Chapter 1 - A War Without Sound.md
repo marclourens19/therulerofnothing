@@ -122,7 +122,7 @@ The boy tried to count the nearest bodies. The number fell apart before he reach
 
 Some had died fighting, their swords still buried in shields or held above their heads halfway through a final blow. Others had simply fallen where they stood. One soldier remained on his knees with both hands wrapped around a spear, though there was no wound on him that the boy could see. Nearby, a horse lay with its forelegs stretched forward as if it had collapsed in the middle of a stride. Its rider was trapped beneath it, reaching towards another man whose fingers rested inches away.
 
-Neither man had reached the other. The battle had not ended so much as been *interrupted*.
+Neither man had reached the other.
 
 Seamless silver structures stood above the bodies. One had collapsed on jointed legs taller than a man. Another lay on its side, its smooth front broken only by a narrow opening blackened around the edges.
 
@@ -148,7 +148,7 @@ The dead did not thin out towards the edge. Burned earth did not soften into tra
 
 He searched for the path the army had taken. Thousands of soldiers should have crushed the crop beneath their boots. Horses, carts and those towering machines should have left roads of torn earth behind them. There were no wheel ruts, no abandoned supplies, no trail of broken wheat leading towards the horizon.
 
-Nothing had entered through the crop. The entire battlefield had appeared in its midst without bending a single stalk beyond it.
+Nothing had entered through the crop.
 
 Behind him, the old man released a breath.
 
@@ -200,7 +200,7 @@ There were no bodies inside. No blood, armour, bone or metal. Not even ash carri
 
 Only a single white flower stood near its edge, its folded petals untouched.
 
-The boy stared at the empty centre. Some part of him insisted it should not have been empty.
+The boy stared at the empty centre.
 
 *Someone was there.*
 
@@ -276,7 +276,7 @@ He pressed a fist into the small of his back to prove it.
 
 *Mydea.*
 
-It was the name of an entire kingdom, and the boy had never heard it before. His fingers closed around the blanket as he waited for the name to stir something inside him. Nothing did.
+His fingers closed around the blanket as he waited for the name to stir something inside him. Nothing did.
 
 "The name should mean something, shouldn't it?" His breath shortened. "But it doesn't. I've never heard it before."
 
@@ -416,7 +416,7 @@ Gerolt's gaze had gone to the door, and it stayed there, as if someone might alr
 
 "Then you call again. Louder. I'm a farmer, not a scholar. Calling louder is the whole of my strategy."
 
-The boy didn't answer that. He was too tired to find it funny, and too frightened to let it comfort him, and he sat there with both feelings pressing on him at once until neither one won.
+The boy didn't answer that.
 
 Gerolt rose and crossed to the window instead of pressing further, opening the shutter a finger's width to stare into the night, one hand braced against the frame.
 
@@ -636,8 +636,6 @@ The boy looked at him. At the man who had walked through thousands of corpses th
 
 Now that same man crouched in the dark beside a smothered fire, hiding from whoever stood outside rather than let them know he was home.
 
-Calling out wouldn't be the boy's choice alone. It would make it for both of them.
-
 He looked once towards the door.
 
 Then he closed his mouth.
@@ -661,8 +659,6 @@ The boy gave up on the voice and listened beneath it instead. A buckle shifting.
 None of it made a picture. He didn't know how many were out there, where they stood, or what they wanted. So he watched Gerolt instead.
 
 If the farmer understood that tongue, his face didn't show it. But he knew enough to be afraid.
-
-For now, that was enough for the boy too.
 
 A stirrup rang softly. A mount released a long breath as weight lifted off its back.
 
