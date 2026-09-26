@@ -185,6 +185,12 @@ The plan is built in `Volume 1/Chapter 2 - Design.md`.
 - **The neighbours.** The elf threatens the other households. Gerolt hears it, looks at the boy, and picks up the sword. Nobody says what that choice costs, and the neighbours' fate is left for a later chapter.
 - **The elves are cocky and full of themselves.** The author's example: "Farmer, answer this damn door before we start knocking down others because of your silence."
 - **"Empty" as a name.** Gerolt calls him "Empty" once, gruffly, when he refuses to leave. Then the name replaces it.
+- **Where the name comes from.** It arrives through Chapter 1's vision, and this time he hears the word the running figure's mouth was shaping. The author likes the reaching hand and the mouth. The author doesn't like the gold at the cuff, so there's no gold in Chapter 2.
+- **Two moments at once.** During the name vision the cabin shows two moments together (the door whole and shattered, Gerolt unhurt and bleeding). It's trimmed to two or three images and never explained.
+- **The scouts.** The male dies by the sword through his jaw, choking on his blood, and Alaric never learns his name. Liluth is cut apart (her eye, her face, her arm) and escapes. She heard him, and she returns later in Volume 1.
+- **The name Gerolt swallowed** stays unsaid. He dies without saying it, and it's a thread for later.
+- **Echoes of Chapter 1**, each used once: THOOM as the name arrives; his left hand opening towards the figure's hand; the stool and mug in the wreckage; the hand of fire answering the reddened palm; the boy saying "I've got you" back to Gerolt as he presses on the wound.
+- **Title:** "The Price of a Voice".
 
 ## Alaric
 
@@ -225,7 +231,7 @@ The plan is built in `Volume 1/Chapter 2 - Design.md`.
 - **Death:** he still dies in Chapter 2, with a hand of fire, ready to use his Affinity in a last stand.
 - **The sword:** instead of the token, Gerolt gives Alaric the sword he's been using. It's memorable, and Alaric can use it in the future.
 - **How he lives (agreed with Chapter 1, revision 1):** one bowl, one coat, one bed, and he gives the bed to the boy. He sets his stool where he can see both the bed and the door.
-- **Natharul.** He names them out loud at the window ("They ask where"). When the riders arrive, the name he starts to say and swallows is something more specific that he recognises. *What that name is: open, for Chapter 2.*
+- **Natharul.** He names them out loud at the window ("They ask where"). When the riders arrive, the name he starts to say and swallows is something more specific that he recognises. He dies without saying it (agreed for Chapter 2). *What that name is: open, for later.*
 - **Sending him away:** in Chapter 2, as he's dying, to Marta in Kelmend, with the sword and Wena (confirmed 26 September).
 
 ## Marta

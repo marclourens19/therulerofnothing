@@ -51,14 +51,14 @@ The old chapter is in `Old - Before Re-plan/Volume 1 - Rewrites/Chapter 2 - The 
 8. **The neighbours.** One beat: Gerolt hears the threat, looks at the boy, and picks up the sword. Nobody says it aloud. The elves must sound "more cocky, like they are full of themselves". The author's example: "Farmer, answer this damn door before we start knocking down others because of your silence."
 9. **"Empty" as a name.** Gerolt uses it once, when the boy refuses to leave, before the name replaces it.
 
-### Round 3 (asked)
+### Round 3 (answered 26 September)
 
-10. Where the name comes from.
-11. The doubled moments in the vision.
-12. The two scouts.
-13. The name Gerolt swallowed in Chapter 1.
-14. Callbacks to Chapter 1.
-15. The title.
+10. **Where the name comes from.** Through Chapter 1's vision, with the reaching hand and the mouth: "What is the gold at the cuff? I don't like that imagery, I like the hand reaching and the mouth." So there's no gold in Chapter 2. *Asked next:* should the gold also come out of Chapter 1?
+11. **Two moments at once.** Keep, trimmed and never explained.
+12. **The scouts.** The male is killed and never named to Alaric. Liluth is cut apart and escapes.
+13. **The swallowed name** stays unsaid.
+14. **Echoes:** THOOM, the left hand, the stool and mug, the hand of fire, and "I've got you".
+15. **Title:** "The Price of a Voice".
 
 ### Later
 
