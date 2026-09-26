@@ -153,23 +153,26 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - **Family.** Freya's older brother. They share the same backstory.
 - **Hatred.** He hates, hates, *hates* elves for what they did to his village and his family.
 - He carries his father's sword. He still names Alaric "Al" later on.
-- **Magic.** Never tested. He uses Water, and is actually Exalted Water.
+- **Magic.** Low Earth; that's simply what he is. No hidden power.
+- **Tested and put in service.** When he and Freya ran away, they were tested. He was put in service to someone in Kelmend. He takes care of his sister, because she had nowhere else to go.
 - **Character.** Warm and funny, and carries pain. His humour is how he butts heads with Silas, and how he shows he cares deeply for his sister.
 - **Lives in the present.**
 - **Flaw:** he's often too carefree when seriousness is needed.
 - **Reference:** Natsu (*Fairy Tail*).
+- **How he differs from Silas:** Silas acts carelessly with violence; Redd acts carelessly out of joy.
 
 ### Freya Vander (new)
 
 - **Age.** 21: Redd's younger sister, one year older than Alaric.
 - **Backstory.** The same as Redd's, but she was too young when it happened.
-- **Magic.** Never tested. She can manage ordinary Earth.
+- **Magic.** Eminent Water. She was tested when she and Redd ran away, and was left alone.
 - **Elves.** She doesn't hate them.
 - **Her brother.** She admires him greatly, follows him and clings to him, and leans on him too much.
 - **What she must learn:** to be her own individual person.
 - **Alaric.** She finds admiration in Alaric: someone who is nothing, wanting to learn who he was.
-- **Romance.** She's a potential love interest, and falls for him along the journey.
-- **Reference:** Tifa (FFVII).
+- **Romance.** She falls for him along the journey. It stays one-sided for the whole story: Alaric gets flustered, but he's more focused on accomplishing his goals.
+- **Her arc.** Her dependence traps her: she starts leaning on Alaric the way she leaned on Redd. She climbs out of it by learning to love herself, and him.
+- **Reference:** Tifa (FFVII): her warmth, and the way she grounds someone.
 
 ## World
 
@@ -265,18 +268,11 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 
 ### Redd and Freya
 
-- **Hidden Exalted, and the theme.** Your series says worth isn't power, and ends by removing magic. If the man everyone would call Faint turns out to be secretly Exalted, how does the story keep his worth from depending on it?
-- **Which part of Natsu?** Natsu is loud, impulsive, fiercely loyal, and full of friendship speeches. He comes from a lighter, shounen tone than a story with a Guts-like Silas.
-  - How does Redd's impulsiveness differ from Silas's? Silas's flaw is also acting without thinking.
-- **Which part of Tifa?** Tifa is steady and independent: she runs a bar, fights, and hides her feelings. She isn't clingy.
-  - Is it her warmth, her quiet love, the way she grounds Cloud in who he really is?
-  - Is the mapping deliberate? Cloud chasing a false past, Tifa rooted in his present, Aerith the fated one from an ancient line.
-- **Does Freya's dependence move to Alaric?** If she stops leaning on Redd and starts leaning on Alaric, she has only changed who she leans on. Is that a trap she falls into and climbs out of, or does loving him help her become herself?
-- **What she admires is his flaw.** She admires his chasing of who he was, which is exactly what Volume 1 punishes.
-- **One-sided or returned?** How does her love sit alongside the central romance with Seralune? Does she get an ending that respects her, not just heartbreak?
-- **Redd and Seralune.** Redd hates elves, and his sister will lose Alaric to one. How much does that deepen his conflict with Seralune?
-- **Untested adults in a surveillance state.** Mydea tests every child at ten and wants to know everything. How have two untested orphans survived? Is that a danger they live with?
-- **Ages.** If Redd is still 28 and the village burned 20 years ago, Freya was 1. That fits "too young". Confirm.
+- **Timeline.** Tests are legally binding at ten. If the village burned twenty years ago and Freya is 21, she was 1 then and was tested at ten. How old is Redd, and when was each of them tested?
+- **Is Redd still in service when Alaric meets him?** If so, joining the party means running from whoever holds him. He'd be a fugitive, and his master might come after him.
+- **Why was an Eminent orphan left alone?** Mydea sends recruiters after Eminents (they came for Marta at eight). How has Freya stayed out of the state's hands? Will it come for her?
+- **One-sided forever, and the risk of "fate wins".** Freya is the present; Seralune is the past, bound to him by fate. If the present always loses, the series could seem to say fate beats the life you're living, which is the opposite of your Volume 1 theme. Alaric's love for Seralune has to be built from present experience of her, not from fate or memory.
+- **His fluster.** Is it only embarrassment, or a flicker he never acts on?
 
 ### Gerolt
 
@@ -336,9 +332,10 @@ None of these have been changed yet. They're listed so nothing is forgotten when
 
 - The old Silas was upper-Common Fire. See the Silas entry in `Old - Before Re-plan/World Bible/The World.md` and `Old - Before Re-plan/Chapter Design/Chapter 6 - Story Design.md:54` ("upper-Common Fire『Affinity』, not High").
 
-### Redd becomes Water; Freya is new
+### Redd loses his hidden power; Freya is new
 
-- The old Redd is hidden Exalted *Earth*: the title of his entry in `Old - Before Re-plan/World Bible/The World.md` (line 876), and `Main Characters.md:362`. His Earth scenes run through about thirteen old chapters (12–15, 18–20, 22–23, 26, 28 and 30), including the earth shelf that holds up Foramen's wall (Chapter 20) and the heaved flagstones in Helmi's house (Chapter 26).
+- The old Redd has hidden Exalted Earth: the title of his entry in `Old - Before Re-plan/World Bible/The World.md` (line 876), and `Main Characters.md:362`. Scenes that relied on big, wild workings need rethinking for low Earth. Examples: the earth shelf that holds up Foramen's wall (Chapter 20), and the heaved flagstones in Helmi's house (Chapter 26).
+- The old Redd was never tested and "No master owns him" (`The World.md`, Redd entry). Now he was tested and put in service in Kelmend.
 - The old Redd has no sister, so every scene with Redd changes.
 
 ### Broken Shield becomes Avarice
