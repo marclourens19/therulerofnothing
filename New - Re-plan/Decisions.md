@@ -125,7 +125,7 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 
 ## The friends
 
-- **Alaric's:** Silas, Redd and Wena stay. **Seralune's:** Nereth stays.
+- **Alaric's:** Silas, Redd and Wena stay, and a new character joins: Freya, Redd's younger sister. **Seralune's:** Nereth stays.
 - **Each gets a full reset** of character, to make them unique.
 
 ### Silas
@@ -147,6 +147,29 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - **Cunning in the moment, reckless in the big choices** (like the gorge).
 - **Gerolt taught him in Avarice.** Gerolt was angry that Silas didn't learn from his teachings.
 - **The sword is why Silas stops for Alaric:** he knows his master's blade on sight.
+
+### Redd Vander
+
+- **Family.** Freya's older brother. They share the same backstory.
+- **Hatred.** He hates, hates, *hates* elves for what they did to his village and his family.
+- He carries his father's sword. He still names Alaric "Al" later on.
+- **Magic.** Never tested. He uses Water, and is actually Exalted Water.
+- **Character.** Warm and funny, and carries pain. His humour is how he butts heads with Silas, and how he shows he cares deeply for his sister.
+- **Lives in the present.**
+- **Flaw:** he's often too carefree when seriousness is needed.
+- **Reference:** Natsu (*Fairy Tail*).
+
+### Freya Vander (new)
+
+- **Age.** 21: Redd's younger sister, one year older than Alaric.
+- **Backstory.** The same as Redd's, but she was too young when it happened.
+- **Magic.** Never tested. She can manage ordinary Earth.
+- **Elves.** She doesn't hate them.
+- **Her brother.** She admires him greatly, follows him and clings to him, and leans on him too much.
+- **What she must learn:** to be her own individual person.
+- **Alaric.** She finds admiration in Alaric: someone who is nothing, wanting to learn who he was.
+- **Romance.** She's a potential love interest, and falls for him along the journey.
+- **Reference:** Tifa (FFVII).
 
 ## World
 
@@ -240,6 +263,21 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 
 - **Is Silas a mirror of Alaric?** Alaric chases a past he can't remember; Silas can't stop reliving one he knows too well. Both must learn to live now.
 
+### Redd and Freya
+
+- **Hidden Exalted, and the theme.** Your series says worth isn't power, and ends by removing magic. If the man everyone would call Faint turns out to be secretly Exalted, how does the story keep his worth from depending on it?
+- **Which part of Natsu?** Natsu is loud, impulsive, fiercely loyal, and full of friendship speeches. He comes from a lighter, shounen tone than a story with a Guts-like Silas.
+  - How does Redd's impulsiveness differ from Silas's? Silas's flaw is also acting without thinking.
+- **Which part of Tifa?** Tifa is steady and independent: she runs a bar, fights, and hides her feelings. She isn't clingy.
+  - Is it her warmth, her quiet love, the way she grounds Cloud in who he really is?
+  - Is the mapping deliberate? Cloud chasing a false past, Tifa rooted in his present, Aerith the fated one from an ancient line.
+- **Does Freya's dependence move to Alaric?** If she stops leaning on Redd and starts leaning on Alaric, she has only changed who she leans on. Is that a trap she falls into and climbs out of, or does loving him help her become herself?
+- **What she admires is his flaw.** She admires his chasing of who he was, which is exactly what Volume 1 punishes.
+- **One-sided or returned?** How does her love sit alongside the central romance with Seralune? Does she get an ending that respects her, not just heartbreak?
+- **Redd and Seralune.** Redd hates elves, and his sister will lose Alaric to one. How much does that deepen his conflict with Seralune?
+- **Untested adults in a surveillance state.** Mydea tests every child at ten and wants to know everything. How have two untested orphans survived? Is that a danger they live with?
+- **Ages.** If Redd is still 28 and the village burned 20 years ago, Freya was 1. That fits "too young". Confirm.
+
 ### Gerolt
 
 - In a state that uses people by rank, how did an Eminent get to retire?
@@ -297,6 +335,11 @@ None of these have been changed yet. They're listed so nothing is forgotten when
 ### Silas is now Eminent
 
 - The old Silas was upper-Common Fire. See the Silas entry in `Old - Before Re-plan/World Bible/The World.md` and `Old - Before Re-plan/Chapter Design/Chapter 6 - Story Design.md:54` ("upper-Common Fire『Affinity』, not High").
+
+### Redd becomes Water; Freya is new
+
+- The old Redd is hidden Exalted *Earth*: the title of his entry in `Old - Before Re-plan/World Bible/The World.md` (line 876), and `Main Characters.md:362`. His Earth scenes run through about thirteen old chapters (12–15, 18–20, 22–23, 26, 28 and 30), including the earth shelf that holds up Foramen's wall (Chapter 20) and the heaved flagstones in Helmi's house (Chapter 26).
+- The old Redd has no sister, so every scene with Redd changes.
 
 ### Broken Shield becomes Avarice
 

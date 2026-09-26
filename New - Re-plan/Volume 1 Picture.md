@@ -71,6 +71,6 @@ Volume 1 tests the question; it doesn't answer it.
 
 - Where the tear happens, and who readers must have met there.
 - What exactly Alaric does that opens the way.
-- The friends' reset characters: Silas, Redd and Wena for Alaric, and Nereth for Seralune.
+- The friends' reset characters: Silas, Redd, Freya (new) and Wena for Alaric, and Nereth for Seralune.
 - Nereth's and Thaeroval's arcs.
 - How far her mother's trail gets.
