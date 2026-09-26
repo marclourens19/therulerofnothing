@@ -34,6 +34,28 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
   1. Refine the new Chapter 1 until it's ready.
   2. Before writing Chapter 2 onward, discuss a picture of Volume 1, Volume 2 and Volume 3.
 
+### Series timeline (approved 26 September; details to be built when we get there)
+
+1. **Volume 1.** Chasing the past; the tear.
+2. **Volume 2.** Darcy's rescue; the war comes home; Seralune and Nereth escape. Alaric and Freya become mutual. Both groups head for Kozmagar.
+3. **Volume 3, Kozmagar.** The Time bearer searches for Alaric. Alaric and Freya become something serious. Seralune and Nereth arrive on the same continent; the two threads converge. **Alaric and Seralune meet at the end of Volume 3.**
+4. **Volume 4.** Hostility, forced together. Freya's relationship is tested with Seralune present. Freya's choice comes near the end, or early in Volume 5.
+5. **Volume 5.** A mission together; the pressure builds.
+6. **Volume 6.** The slow fall into love.
+
+These are rough shapes, not deadlines. The design bible warns against scheduling when people fall in love.
+
+**Guard:** before they meet, their stories must keep affecting each other through cause and effect, never through near-misses.
+
+### Approved direction (Claude's recommendations, 26 September)
+
+- **Hostility comes from the tear, not a murder.** The world, and Redd most of all, hate her as the witch who killed thousands. She publicly accepts the blame; he privately believes it was him and stays silent. Their flaws collide: she decides for people, he refuses help.
+- **Closeness is what's dangerous.** Hostility doesn't make them safe; it only means they aren't reaching for each other. This carries the series ending: in the Soul World they're "finally able to love without endangering anyone". The exact rules are to be set later.
+- **"Time is broken."** The displacement left a thousand-year seam in time. Time remembers, and the tear reopened the seam. The Time bearer feels it as a wrongness, which is why "He's back" slips out.
+- **Gilmot dies in Volume 2, for a new reason.** His threat no longer comes true, so his death becomes the group's moral test under the Volume 2 question: Silas wants any means, Alaric weighs it, and Darcy's choice is central. No one frees her by overruling her.
+- **The border across a sea.** A narrow sea lies between Mydea and Kozmagar, and Mydea's coast is the frontier: forts, harbours and islands. Darcy's strategy held that sea; once she's stolen, beastfolk land on Mydean shores.
+- **Why both groups end up in Kozmagar.** It's the one place neither Mydea nor Natharul controls. Both run there for the same reason and converge through Volume 3. The image of the meeting is still the author's to find.
+
 ### The author's earlier volume outline (working ideas, not locked)
 
 1. Alaric and Seralune discover something is missing, but still choose to be themselves.
@@ -91,11 +113,11 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
   - Alaric and company have crossed Mydea, killing soldiers and stealing the kingdom's strategist. People are truly against them now.
   - The beastfolk are winning on the border and pushing in.
   - Seralune and Nereth, making their decisions together, escape captivity after all the politics.
-- **Alaric and Seralune first meet** right at the end of Volume 2, going into Volume 3. No ending image yet.
+- **Volume 2 ends** with Alaric and company crossing the sea to Kozmagar, and Seralune and Nereth escaping. The reader knows both groups are heading the same way; the characters don't.
 - **Seralune's lesson is only for Nereth, for now.** She learns to ask the person in front of her, not yet the world. That leaves room for her antagonist arc.
 - **Stealing Darcy is why the beastfolk start winning** and pushing into Mydea. Their one small good brings the war home.
 - **Gilmot's threat doesn't come true.** The soldiers are drawn off to the war, leaving the Faint quarter alone.
-- **Alaric and Freya become mutual before Seralune arrives.**
+- **Alaric and Freya become mutual before Seralune arrives,** late in Volume 2, once Freya stands on her own.
 
 ## Chapter 1
 
@@ -298,16 +320,11 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 
 ### Volume 2 picture
 
-- **Where and how do Alaric and Seralune meet?** No ending image yet.
-- **Is Gilmot killed in Volume 2?** (The author's earlier outline says yes.)
+- **The meeting image** at the end of Volume 3. The author doesn't have one yet.
 
-### Series outline
+### Freya and Seralune
 
-- **Does everything after the meeting move one volume earlier?** The earlier outline had the meeting in Volume 4; it's now at the end of Volume 2.
-- **Hostility without murder.** The earlier outline had "maybe Seralune kills Wena or Redd". The design bible (11.4) uses almost exactly this as its warning example: a murder like that can't be temporary hostility, and it would make the later romance ring false. Redd is now Freya's brother too. Could the tear supply the hostility instead? The world, and Redd above all, hate her as the witch who killed thousands, while Alaric secretly believes it was him.
-- **Does hostility calm the bond?** The earlier outline had dislike stopping both the love and her mana going haywire. The design bible (16.3) warns against deciding that hostility conveniently stabilises the bond "simply because it makes Volumes 4–6 easy to organise". If it's kept, it needs a real cause, imperfect reliability and growing exceptions. The alternative: closeness is what's dangerous, as the tear already proved.
-- **"Time is broken":** what does it mean?
-- **The border across a sea.** With Kozmagar a separate continent, how do the beastfolk "push in on the border"? *(Recommendation offered 26 September: see the conversation.)*
+- **Do Freya and Seralune have a relationship of their own?** Freya doesn't hate elves. In FFVII, much of why readers love the Tifa and Aerith triangle rather than resent it is that the two women respect each other.
 
 ### Chapter 1
 

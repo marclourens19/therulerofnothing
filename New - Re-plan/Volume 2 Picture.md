@@ -20,7 +20,7 @@ This is where Volume 1 leaves everyone:
 
 - **Mission:** rescue Darcy, *with* his friends.
 - **Journey:** coming to terms with himself, and learning to accept help.
-- **Freya:** the whole volume develops their relationship realistically, not rushed. He starts to see her. Their arcs cross: he learns to lean on others while she learns to stand alone. It becomes mutual before Seralune arrives.
+- **Freya:** the whole volume develops their relationship realistically, not rushed. He starts to see her. Their arcs cross: he learns to lean on others while she learns to stand alone. It becomes mutual late in the volume, once Freya stands on her own.
 
 ## Seralune's side
 
@@ -33,10 +33,9 @@ This is where Volume 1 leaves everyone:
 - The beastfolk are winning on the border and pushing in, because Darcy was stolen. Their one small good brings the war home.
 - The soldiers are drawn off to the war, so Gilmot's threat against Kelmend's Faint quarter never comes true.
 - Seralune and Nereth have escaped.
-- **Alaric and Seralune meet for the first time,** right at the end, going into Volume 3.
+- **Both groups are heading for Kozmagar,** the one place neither Mydea nor Natharul controls. The reader knows they're converging; the characters don't. They meet at the end of Volume 3.
 
 ## Open
 
-- Where and how Alaric and Seralune meet. No ending image yet.
-- Whether Gilmot is killed. The earlier outline says yes.
+- **Gilmot dies,** for a new reason: the group's moral test, with Darcy's choice at the centre. The details are to be built.
 - Silas's, Redd's and Nereth's Volume 2 arcs.
