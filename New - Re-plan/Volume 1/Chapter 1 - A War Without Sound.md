@@ -120,7 +120,7 @@ Scorched earth stretched towards the horizon, and the dead covered almost every 
 
 The boy tried to count the nearest bodies. The number fell apart before he reached twenty. Behind every corpse lay another, and beyond those were hundreds more, scattered among broken shields, abandoned weapons and armour split open far enough to show what remained inside.
 
-Some had died fighting, their swords still buried in shields or held above their heads halfway through a final blow. Others had simply fallen where they stood. One soldier remained on his knees with both hands wrapped around a spear, though there was no wound on him that the boy could see. Nearby, a horse lay with its forelegs stretched forward as if it had collapsed in the middle of a stride. Its rider was trapped beneath it, reaching towards another man whose fingers rested inches away.
+Some had died fighting, their swords still buried in shields or held above their heads halfway through a final blow. Others had simply fallen where they stood. One soldier remained on his knees with both hands wrapped around a spear, though there was no wound on him that the boy could see. Nearby, a horse lay with its forelegs stretched forward, mid-stride. Its rider was trapped beneath it, reaching towards another man whose fingers rested inches away.
 
 Neither man had reached the other.
 
@@ -172,7 +172,7 @@ He crouched beside the nearest corpse. His hand moved towards the ruined breastp
 
 The boy looked across the bodies again. "Have you found anyone else alive?"
 
-The farmer did not answer straight away. His eyes moved over the nearest dead as though another survivor might rise simply because he had been asked to look for one.
+The farmer did not answer straight away. His eyes moved over the nearest dead.
 
 "I found you."
 
@@ -228,11 +228,11 @@ The ground shifted beneath his knees. Crows lifted from the bodies, their wings 
 
 The boy tried, but the farmer's face would not hold still long enough for him to find it. His arms gave way.
 
-The old man caught him before he struck the ground, swore under his breath and hauled him over one shoulder like a sack of feed.
+The old man caught him before he struck the ground, swore under his breath and hauled him over one shoulder.
 
 "Ten paces," the farmer muttered, rising with a grunt he did not bother to hide. "You couldn't have fallen ten paces nearer the house. Heavy little shite, and half-starved besides. Where do you even keep it—"
 
-He kept talking, low and constant, the way a man talks when he needs to keep his own hands steady.
+He kept talking, low and constant.
 
 Past the farmer's back, at the edge of the boy's narrowing vision, a violet spark stretched between two stones. It thinned until it was no wider than a strand of hair.
 
@@ -364,7 +364,7 @@ The boy forgot the stitches and the blanket and the pounding in his skull.
 
 The word rose from the same place as before, whole and certain. The boy kept it behind his teeth.
 
-Gerolt closed his hand, and the flame went out between his fingers without smoke. When he opened it again and rested it on his knee, the skin of his palm had reddened, as if he'd held it too near the hearth. He didn't look at it.
+Gerolt closed his hand, and the flame went out between his fingers without smoke. When he opened it again and rested it on his knee, the skin of his palm had reddened. He didn't look at it.
 
 "That's mine," he said. "Fire. Now close your eyes. Don't chase after it—that only scares it off. Sit still and feel for whichever one already belongs to you."
 
@@ -408,7 +408,7 @@ When Gerolt spoke again, it was quieter, and not quite to the boy. "They test ev
 
 "What about someone with none?"
 
-Gerolt's gaze had gone to the door, and it stayed there, as if someone might already be standing on the other side of it.
+Gerolt's gaze had gone to the door, and it stayed there.
 
 "I keep hoping if I say the right thing, something in you will just—answer," he said at last. "Like calling a dog that's wandered off. Maybe it didn't hear you the first time."
 
@@ -436,7 +436,7 @@ He kept one eye to the opening in the shutter.
 
 "And the pale ones?" the boy asked. "With the pointed ears?"
 
-"Natharul." Gerolt said it low, as if the dark outside might carry it. "When one of theirs dies, they don't ask who did it. They ask where."
+"Natharul." Gerolt said it low. "When one of theirs dies, they don't ask who did it. They ask where."
 
 The boy thought of the pale faces among the dead. "Then they'll ask about here."
 
@@ -590,7 +590,7 @@ At first, the boy heard nothing. Then a faint rhythm passed through the floorboa
 
 Far off, but coming fast.
 
-Under the bed, Wena's whimpering cut off, as if a hand had closed around it.
+Under the bed, Wena's whimpering cut off.
 
 Gerolt glanced once at the floorboards beneath the table. Then he was at the window before the boy could ask what was wrong. He pressed one eye to the gap in the shutters, and whatever he saw out there wiped the exhaustion from his face and left only fear behind.
 

@@ -54,6 +54,11 @@ All eight are agreed.
 4. **A volume tests its question; it doesn't hand over the answer.**
 5. **Don't explain the meaning.** In the author's words: "I don't like over explaining meaning that make readers think beyond the obvious." Show the plain thing and stop. Cut any sentence that tells the reader what a moment means, and any image that hints so hard it pushes readers past what's on the page. This is the rule the author enforced most on Chapter 1: they rejected one added image and cut fifteen explaining lines, seven of them their own.
 
+   **The same rule covers words chosen to sound good.** The author, on Chapter 2: "explaining things for the sake of it, using words to make it look cool… this is from Alaric's POV, how would he know this." Their example was "a sound like an axe going into green wood": he has never heard an axe go into wood. So:
+   - A comparison ("like", "as if", "as though", "the way…") is allowed only when it points at something the viewpoint character has lived through on the page. For Alaric in Volume 1, that's almost nothing. "Gerolt's flame had sat in his palm no bigger than a candle's" passes; "like water down a drain" doesn't.
+   - Don't dress up a plain thing. Use "leave splinters in his hair", not "comb splinters through his hair". Use "burst", not a third "punched".
+   - Before showing a draft, search it for comparisons (the style check lists them) and defend each one or cut it. Chapter 2's first draft lost thirteen lines to this.
+
 6. **Every major character wants something the story threatens.** Know each character's want before writing a scene, and let the chapter press on it. Gerolt wants his peace with Wena; a stranger in his only bed and "men at my door" by noon end it. The boy wants to know who he is; the riders might know him, and he chooses silence.
 7. **Borrowed characters lend specific traits, not templates.** Take the named trait and nothing else, and record in `Decisions.md` which trait came from where. Gerolt takes Cid's humour over damage, not Cid's life or story. The rest of the cast's borrowed traits are listed under each character in `Decisions.md`.
 8. **An inner spiral must change what it claims each time it turns.** When a character circles a thought, each turn must say something new: a new fear, a new conclusion, or a new cost. Repeating "why me" in bigger words isn't movement (design bible §9.1). This matters most for set pieces like the tear, where "Why did this happen? Why did I do it? Why me, when I'm empty?" are three different claims.
@@ -194,6 +199,7 @@ This is the short form. The full rules are in the design bible §2.3 and the old
 - **Section breaks:** `---` only for a real shift of time, place or viewpoint. The break after "forgot to breathe" in Chapter 1 is the author's deliberate exception.
 - **Oaths are sparing and varied:** "By the Four", "Four preserve us", "By the Eight", "Before the Eight", "The Last Dark take you", "What in the Last Dark…". Don't repeat the same oath in the same way; Gerolt's "Easy, lad—by the Four" once is enough.
 - **Watch-list:** "not X, but Y", "for a moment", "nothing answered", "almost heard", and the same eyes, hands, breath, jaw, shoulder or silence gesture close together. None of these is banned; check for clusters.
+- **Comparisons:** only from what the viewpoint character has lived through on the page. Say plain things plainly (principle 5).
 - **"Nothing"** is the series title word, so keep it rare and meaningful.
 - **Point of view:** close third. Every fact and inference belongs to the viewpoint character. A man passing out can't know someone "talked through the whole walk back".
 - **Alaric's guardrails** (old `Main Characters.md`): no sixth sense for danger, no hidden fighting mastery, no polished explanations of himself. His beliefs can be wrong, and he reasons his way into them.

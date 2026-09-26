@@ -1,6 +1,6 @@
 # Chapter 2: Design
 
-Started 26 September 2026. This is the plan for Chapter 2, agreed with the author one question at a time before any writing. It follows the `chapter-rewrite` skill: most of the old chapter will change, so the plan comes first.
+Started 26 September 2026. **Status:** the first draft is written (`Chapter 2 - The Price of a Voice.md`). It's compared with the old chapter in `Chapter 2 - From the Old Chapter.md`, and it has been through revisions 1–3, the last being the final check against Chapter 1 (see `Chapter 2 - Changes.md`). This is the plan for Chapter 2, agreed with the author one question at a time before any writing. It follows the `chapter-rewrite` skill: most of the old chapter will change, so the plan comes first.
 
 ## Already fixed by decisions
 
@@ -59,6 +59,17 @@ The old chapter is in `Old - Before Re-plan/Volume 1 - Rewrites/Chapter 2 - The 
 13. **The swallowed name** stays unsaid.
 14. **Echoes:** THOOM, the left hand, the stool and mug, the hand of fire, and "I've got you".
 15. **Title:** "The Price of a Voice".
+
+### Round 4: the first draft's calls (answered 26 September)
+
+- **2. The elf's entrance.** "Make it sound more cocky, like he laughs as he walks through… testing my patience old man, now you have no door to answer."
+- **3 and 4.** The candle line and the sword skidding: keep.
+- **5. "The old fool".** "Have a small cough at the end with blood starting to come out of Gerolt's mouth."
+- **6. "Three tries".** "Cut, I don't like it."
+- **7. The hot hand.** "Doesn't sound like Cid speaking, sounds like a computer monologue." Now: "Careful, lad," he said. "I run hot."
+- **8.** "I like it, remove Empty."
+- **9 and 10.** The last line ("perfect") and the coat: keep.
+- **1. The second scout's laugh.** Keep.
 
 ### Later
 
