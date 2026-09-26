@@ -496,11 +496,11 @@ Then the fire went white.
 
 Broken earth filled his sight, cut through with red mud. Before he could find a horizon, the cabin returned: the bowl's weight in his lap, the spoon between his fingers, the fire warming one side of his face.
 
-White took it again, but the field did not return whole. Gold flashed at a wrist. A mouth moved without a face around it. Red mud struck his shins from a bootfall he neither saw nor heard.
+White took it again, but the field did not return whole. A mouth moved without a face around it. Red mud struck his shins from a bootfall he neither saw nor heard.
 
 Then the pieces joined, and someone was already running towards him.
 
-Mud blackened their sleeve to the elbow, but a narrow line of gold still showed at the cuff. The reaching hand opened, closed on empty air and reached again.
+Mud blackened their sleeve to the elbow. The reaching hand opened, closed on empty air and reached again.
 
 His left hand opened in answer.
 
@@ -520,7 +520,7 @@ Gerolt's voice reached him through the white.
 
 The boy tried to answer. His throat closed before a sound came.
 
-The image broke apart again: gold thread, an open hand, a mouth shaping the same word. This time, he almost heard it.
+The image broke apart again: an open hand, a mouth shaping the same word. This time, he almost heard it.
 
 "Boy?"
 

@@ -27,8 +27,8 @@ The author considers this chapter close to the model for the rest of the story. 
 - **Absence as horror.** No sound in the night, no trail through the wheat, no wound under the blood, no footfall after the dismount. Every big fear in the chapter is something missing.
 - **Care shown as practical instruction.** "Take it with both hands, there." "Let the next be small as well." "Feel my arm around you and stay here with me."
 - **Objects that recur and carry feeling:** the mug, the stool, the shutters, the bowl and spoon, the candle, the seams, the left hand.
-- **Motifs:** THOOM (his heartbeat only), the left hand and the wrist, the gold thread, the Light, and "nothing" / "empty".
-- **Concrete visions, not fog:** a gold cuff, an open hand, a mouth, and "They took all three. The distance did not change."
+- **Motifs:** THOOM (his heartbeat only), the left hand and the wrist, the gold thread (*removed in revision 4: the author didn't like it*), the Light, and "nothing" / "empty".
+- **Concrete visions, not fog:** a gold cuff (*removed in revision 4*), an open hand, a mouth, and "They took all three. The distance did not change."
 - **Page rhythm.** One-line paragraphs only where perception narrows; connected paragraphs everywhere else. The median paragraph is 14 words.
 - **A real choice at the climax.** "He wanted answers. He chose silence." It's a decision that changes what happens next.
 - **The title works twice.** Gerolt's testimony that the night was silent, the crow heard "because there was nothing else to cover it", and the dismount with no sound.

@@ -9,6 +9,8 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - One step at a time, together.
 - Never accept the author's words as fact. Challenge them, and ask questions until the intent is clear.
 - Never name a character or give one a trait without the author's input.
+- **Whose eyes.** "Always stay in Alaric's eyes when the chapter is about him." *(Agreed 26 September.)*
+- **Rewritten chapters use the characters we decided, not the old drafts.** The old chapters were written before the characters were redesigned. For example, Gerolt must sound like Cid. "This is the same for all future chapters we rewrite." *(Agreed 26 September.)*
 - Principles settled here become the rules of the rewriting skill. The skill is `.claude/skills/chapter-rewrite/` (created 26 September, after Chapter 1). When a principle here changes, update the skill to match.
 
 ## Principles
@@ -168,6 +170,28 @@ These are rough shapes, not deadlines. The design bible warns against scheduling
 - **Gerolt's surname stays out of Chapter 1.** "Warde" comes later, from someone who knew him.
 - **Revisions 1 and 2 applied and approved (26 September).** Every change is listed with its before and after in `Volume 1/Chapter 1 - Changes.md`. Only change 21 was rejected. The earlier draft is kept in `Volume 1/Drafts/`.
 
+## Chapter 2
+
+The plan is built in `Volume 1/Chapter 2 - Design.md`.
+
+- **Whose eyes, and the ending.** The whole chapter is in Alaric's eyes. It ends on Gerolt's cabin going up in flames. Old Chapter 3's opening ("the night went orange") moves into Chapter 2. *(Claude's proposal, which the author's answer implies: the last he sees of Gerolt is his hand catching fire as he turns to the door.)*
+- **The name returns,** and Gerolt says it back before he sends him away. Gerolt must sound like Cid.
+- **He breaks his silence** to warn Gerolt about the stone. It saves Gerolt for the moment, and the escaping scout hears it.
+- **The fight is explicit and grotesque,** as a boy sees it. The first elf chokes on his own blood. Gerolt cuts the female scout apart with the sword.
+- **His refusal to leave is what holds Gerolt's fire back.** "Fire is dangerous and Gerolt does not want to harm the boy." It's never explained on the page, and Alaric doesn't learn it in Volume 1.
+- **Shape.** Four movements, each ending on an image (the door, the fight, the farewell, the wheat), with no `---` breaks.
+- **Gerolt's voice.** Dry to the end, like Cid: orders instead of feelings, playing down his wound, never saying he cares. His humour drops once, at the name. The old lines are kept or cut as the table in the design file recommends.
+- **Kelmend and Marta.** Gerolt sends him west across the river, to Marta at the inn by Kelmend's south gate. The sword is the proof.
+- **The neighbours.** The elf threatens the other households. Gerolt hears it, looks at the boy, and picks up the sword. Nobody says what that choice costs, and the neighbours' fate is left for a later chapter.
+- **The elves are cocky and full of themselves.** The author's example: "Farmer, answer this damn door before we start knocking down others because of your silence."
+- **"Empty" as a name.** Gerolt calls him "Empty" once, gruffly, when he refuses to leave. Then the name replaces it.
+- **Where the name comes from.** It arrives through Chapter 1's vision, and this time he hears the word the running figure's mouth was shaping. The author likes the reaching hand and the mouth. The author doesn't like the gold at the cuff, so there's no gold in Chapter 2, and it has been taken out of Chapter 1 as well (revision 4, changes 50–52).
+- **Two moments at once.** During the name vision the cabin shows two moments together (the door whole and shattered, Gerolt unhurt and bleeding). It's trimmed to two or three images and never explained.
+- **The scouts.** The male dies by the sword through his jaw, choking on his blood, and Alaric never learns his name. Liluth is cut apart (her eye, her face, her arm) and escapes. She heard him, and she returns later in Volume 1.
+- **The name Gerolt swallowed** stays unsaid. He dies without saying it, and it's a thread for later.
+- **Echoes of Chapter 1**, each used once: THOOM as the name arrives; his left hand opening towards the figure's hand; the stool and mug in the wreckage; the hand of fire answering the reddened palm; the boy saying "I've got you" back to Gerolt as he presses on the wound.
+- **Title:** "The Price of a Voice".
+
 ## Alaric
 
 - About twenty.
@@ -207,8 +231,14 @@ These are rough shapes, not deadlines. The design bible warns against scheduling
 - **Death:** he still dies in Chapter 2, with a hand of fire, ready to use his Affinity in a last stand.
 - **The sword:** instead of the token, Gerolt gives Alaric the sword he's been using. It's memorable, and Alaric can use it in the future.
 - **How he lives (agreed with Chapter 1, revision 1):** one bowl, one coat, one bed, and he gives the bed to the boy. He sets his stool where he can see both the bed and the door.
-- **Natharul.** He names them out loud at the window ("They ask where"). When the riders arrive, the name he starts to say and swallows is something more specific that he recognises. *What that name is: open, for Chapter 2.*
-- **Sending him away (unconfirmed reading):** Gerolt still sends the boy away in Chapter 2, when he dies, not earlier. The author hasn't confirmed this.
+- **Natharul.** He names them out loud at the window ("They ask where"). When the riders arrive, the name he starts to say and swallows is something more specific that he recognises. He dies without saying it (agreed for Chapter 2). *What that name is: open, for later.*
+- **Sending him away:** in Chapter 2, as he's dying, to Marta in Kelmend, with the sword and Wena (confirmed 26 September).
+
+## Marta
+
+- **Gerolt's niece** (agreed 26 September, for Chapter 2). She keeps the inn by Kelmend's south gate.
+- **Her father was Gerolt's brother,** and he died in Silas's gorge. That's part of why Gerolt is angry with Silas.
+- Everything else about her is still to be decided.
 
 ## Thaeroval
 
@@ -417,8 +447,6 @@ These are rough shapes, not deadlines. The design bible warns against scheduling
 - In a state that uses people by rank, how did an Eminent get to retire?
 - What is the name he swallows when the riders arrive in Chapter 1? It's more specific than "Natharul", which he has already said aloud.
 - Where does his damage come from?
-- When does he decide to send the boy to Marta? *Confirm.*
-- In Chapter 2 the boy refuses to leave ("I'm not leaving you", "Then I'll carry you"). If Gerolt can't use his fire while the boy is near, that refusal is what holds him back: the flaw at work, with a cost. Is that intended, and does Alaric ever learn it?
 
 ### World
 
