@@ -129,7 +129,12 @@ These are rough shapes, not deadlines. The design bible warns against scheduling
   - **Mydea's hunters,** crossing the sea after the group.
   - **Beastfolk scouts,** who know of Darcy.
   - **Natharul,** whose hidden aim survives: the war is to kill the Time bearer.
-- **A death (undecided).** A main-cast death in Volume 3 feels too soon to the author. If there is one, the author would choose Redd. The alternative: Seralune and Nereth make a new companion in Volume 2, and that person dies in Volume 3.
+- **A death (undecided).** A main-cast death in Volume 3 feels too soon to the author. Options raised by the author:
+  - Redd.
+  - A new companion that Seralune and Nereth make in Volume 2, who dies in Volume 3.
+  - Wena.
+  - Silas.
+- **Darcy refuses to help Kozmagar.** She doesn't want any more blood on her hands.
 
 ## Chapter 1
 

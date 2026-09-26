@@ -26,6 +26,10 @@ The volume tests whether small moments still matter when a war, and fate, are ab
 
 **Not slow.** Volume 3 has blood and death. That's what makes people value the small moments: the big ones aren't guaranteed.
 
+## Darcy (decided)
+
+- **She refuses to help Kozmagar.** She doesn't want any more blood on her hands. The beastfolk know her mind was used against them, so her refusal leaves her with nothing to trade in the one place that was meant to be free.
+
 ## Where it starts (decided)
 
 - **Alaric, his friends and Darcy** have crossed the sea to Kozmagar. They're wanted in Mydea, which is at war with beastfolk landing on its shores.
@@ -69,11 +73,10 @@ The rule for the whole volume: **small moments happen between the violence, neve
 
 ## Open
 
-- **Who dies in Volume 3?** The author feels a main-cast death is too soon. The options on the table are Redd, or a new companion that Seralune and Nereth make in Volume 2 and who dies in Volume 3. *(Claude recommends the companion; see the conversation.)*
+- **Who dies in Volume 3?** The author feels a main-cast death is too soon. Options raised: Redd, Wena, Silas, or a new companion that Seralune and Nereth make in Volume 2. *(Claude's recommendations are in the conversation of 26 September.)*
 - **Does Alaric's side lose someone too?** It wouldn't be main cast.
 - **The Time bearer:** who he is, and what he wants when he finds Alaric.
 - **Alaric's external goal in Volume 3:** a verb.
-- **Darcy's choice:** her mind was stolen from Mydea. Does she help Kozmagar, or refuse to be anyone's strategist again?
 - **Kozmagar's identity:** does it keep its old canon identity as the place that doesn't rank people by magic?
 - **The group's rituals:** what small routines does the group have? These are the author's to choose.
 - **The meeting image.**
