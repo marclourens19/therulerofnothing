@@ -170,7 +170,13 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - **Her brother.** She admires him greatly, follows him and clings to him, and leans on him too much.
 - **What she must learn:** to be her own individual person.
 - **Alaric.** She finds admiration in Alaric: someone who is nothing, wanting to learn who he was.
-- **Romance.** She falls for him along the journey. It stays one-sided for the whole story: Alaric gets flustered, but he's more focused on accomplishing his goals.
+- **Romance (proposed by Claude, approved by the author).**
+  - **Volume 1: he doesn't see it.** She falls for him, grounds him and starts leaning on him. He gets flustered, but his mind is on who he *was*. The reader sees the life he's missing. When he shuts everyone out at the end, she's one of the people he shuts out.
+  - **Volume 2: he starts to see her,** as part of learning to accept help. Their arcs cross: he learns to lean on others while she learns to stand alone.
+  - **Volume 3, or whenever it's earned: something real and mutual.** It happens only once she's standing on her own, so it's love, not dependence. It's built from shared life, never from fate.
+  - **When Seralune enters his life,** his feelings for her must grow from what happens between them in the present, starting with real friction. The soul bond never decides.
+  - **How it ends: Freya chooses.** She sees where his life is going and chooses a life that's hers. She stays his friend, and is among the friends whose free future is the point of the series ending.
+  - **Guardrails.** He never treats her as a placeholder. She never leaves the story through tragedy. Readers will split, and that's accepted.
 - **Her arc.** Her dependence traps her: she starts leaning on Alaric the way she leaned on Redd. She climbs out of it by learning to love herself, and him.
 - **Reference:** Tifa (FFVII): her warmth, and the way she grounds someone.
 
@@ -271,8 +277,7 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - **Timeline.** Tests are legally binding at ten. If the village burned twenty years ago and Freya is 21, she was 1 then and was tested at ten. How old is Redd, and when was each of them tested?
 - **Is Redd still in service when Alaric meets him?** If so, joining the party means running from whoever holds him. He'd be a fugitive, and his master might come after him.
 - **Why was an Eminent orphan left alone?** Mydea sends recruiters after Eminents (they came for Marta at eight). How has Freya stayed out of the state's hands? Will it come for her?
-- **One-sided forever, and the risk of "fate wins".** Freya is the present; Seralune is the past, bound to him by fate. If the present always loses, the series could seem to say fate beats the life you're living, which is the opposite of your Volume 1 theme. Alaric's love for Seralune has to be built from present experience of her, not from fate or memory.
-- **His fluster.** Is it only embarrassment, or a flicker he never acts on?
+- **When do Alaric and Seralune first meet?** The Freya romance needs room. Meeting in Volume 2 leaves little; Volume 3 or later leaves plenty. To decide in the Volume 2 and 3 pictures.
 
 ### Gerolt
 
