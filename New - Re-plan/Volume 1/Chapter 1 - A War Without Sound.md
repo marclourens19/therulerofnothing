@@ -372,7 +372,7 @@ The boy closed his eyes. If everyone was born with one, it didn't matter what he
 
 The fire ticked and settled somewhere to his right. The blanket was rough beneath his thumb. His pulse beat once, twice, past ten, behind the ache in his temple, and the wind pushed at the shutters like it wanted in.
 
-That was all of it. Fire beside him. Wind beyond the shutters. And inside him, a gap he could feel the edges of, the way a tongue keeps finding the place a tooth used to be.
+That was all of it. Fire beside him. Wind beyond the shutters. Nothing inside him answered either.
 
 He opened his eyes. Gerolt was already watching him.
 

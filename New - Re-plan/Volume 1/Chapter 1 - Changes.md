@@ -8,10 +8,10 @@ Written on 26 September 2026. This is every change made to `Chapter 1 - A War Wi
 
 ## At a glance
 
-- **37 changes:** 33 rewritten, 3 cut and 1 added.
-- **Length:** 6,434 words before, 6,642 after.
+- **37 changes proposed.** 1 rejected so far, so 36 are in the chapter: 32 rewritten, 3 cut and 1 added.
+- **Length:** 6,434 words before, 6,623 after.
 - **Median paragraph:** 14 words before, 15 after. The house target is roughly 14–22.
-- **"Nothing":** 24 times before, 18 after.
+- **"Nothing":** 24 times before, 19 after.
 - **Gerolt's failed laugh:** four times before (lines 103, 277, 417, 471). Now once, in your own line 103.
 - **"What do you remember before this morning?":** asked three times before, once now.
 - **"Leave your clothes alone":** three times before, twice now.
@@ -25,10 +25,13 @@ These changes add something about a character or the world that you haven't deci
 - **Change 9, One of everything.** This is a new detail about how Gerolt lives.
 - **Change 10, Where Gerolt sits.** This is a new behaviour for Gerolt.
 - **Change 19, The flame.** The reddened palm answers an open question in Decisions.md. It was step 4 of the outline you locked, so I've written it in; say no and it comes out (with the matching detail in change 25). The line "Fire needed something to burn. This one had only the man holding it." is new.
-- **Change 21, What he finds inside.** The tooth image is new.
 - **Change 25, "Empty".** "Faint", the testing at ten and "they call it protection" are new on the page. They come from the old World Bible's class table and its "protective stewardship", so tell me if any of that has changed.
 - **Change 28, The elves, and the deadline.** The neighbours' house with children is new. They're unnamed, and nothing else about them is decided. One knock-on: because Gerolt now says "Natharul" out loud here, the name he swallows when the riders arrive ("His mouth started to shape a name") now reads as something more specific he recognises. That leaves a small question for Chapter 2. If you'd rather the swallowed name was simply "Natharul", this line would have to say "Elves" instead.
 - **Change 37, The last line.** If you meant "he" to be one of them in particular, tell me which and I'll make it that one.
+
+**Already decided**
+
+- **Change 21, What he finds inside:** rejected. The original stays.
 
 ## What each decision became
 
@@ -397,19 +400,19 @@ These changes add something about a character or the world that you haven't deci
 
 #### 21. What he finds inside
 
-*Draft line 385 → revised line 375*
+*Draft line 385 · proposed, rejected by you: the original stays at revised line 375*
 
-**Before**
+**Before (kept)**
 
 > That was all of it. Fire beside him. Wind beyond the shutters. Nothing inside him answered either.
 
-**After**
+**Proposed (not used)**
 
 > That was all of it. Fire beside him. Wind beyond the shutters. And inside him, a gap he could feel the edges of, the way a tongue keeps finding the place a tooth used to be.
 
 **Why.** "Nothing answered" is on the watch-list. The flame decision says he recognises magic from outside and knows something is *missing* inside him. A gap with edges is missing; a blank would just be empty.
 
-**Your call.** The tooth image is new.
+**Your decision.** Rejected. You prefer the original: "I don't like over explaining meaning that make readers think beyond the obvious." The original line stays.
 
 #### 22. Gerolt pulls back, then leans in
 
