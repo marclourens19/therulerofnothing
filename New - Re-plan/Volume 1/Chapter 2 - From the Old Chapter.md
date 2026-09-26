@@ -2,6 +2,7 @@
 
 Written on 26 September 2026. This compares the new `Chapter 2 - The Price of a Voice.md` with the old version, `Old - Before Re-plan/Volume 1 - Rewrites/Chapter 2 - The Price of a Voice (Rewrite).md`. Most of the chapter changed, so the comparison goes scene by scene and shows the key passages as before and after. It doesn't go paragraph by paragraph.
 
+- The quotes below show the chapter after revision 1, which took out every comparison Alaric couldn't make (see `Chapter 2 - Changes.md`).
 - The first new version is saved unchanged as `Drafts/Chapter 2 - The Price of a Voice (Draft 1).md`. From now on, every round of changes uses a change list against it, as Chapter 1 did.
 - Every decision this chapter carries is in `Chapter 2 - Design.md`.
 
@@ -27,7 +28,7 @@ These are new, and each needs a yes or no from you.
 4. **The sword skids** to "an arm's length from the boy's hand" in the fight. Later, Gerolt tells him to fetch it.
 5. **"Tell her the old fool sent you."** It hints that Marta knows him well, without saying she's his niece.
 6. **"Took you three tries to sit up at midday."** This is Gerolt's dry reply when the boy offers to carry him.
-7. **The hot hand.** Gerolt's hand on his wrist turns from warm to hot, "like the side of a pot left too long on the hearth". Gerolt takes it away and closes it into a fist. It's the only sign on the page that the boy's staying holds back his fire.
+7. **The hot hand.** Gerolt's hand on his wrist turns from warm to hot, "hot, and getting hotter". Gerolt takes it away and closes it into a fist. It's the only sign on the page that the boy's staying holds back his fire.
 8. **"You're a stubborn little bastard, Empty."** This is the one time he uses "Empty" as a name.
 9. **The last line:** "Alaric lay in the wheat with Gerolt's sword beneath him and watched the house burn."
 10. **Where the coat went.** In Chapter 1, his one coat hangs by the door. So the wind tears it off its peg, and the boy presses Gerolt's shirt to the wound.
@@ -64,7 +65,7 @@ The line is yours. The old paragraph told us he was contemptuous; now his calm a
 >
 > The grumbling old farmer who'd hauled him through the wheat was gone. Or maybe this man had been underneath him the whole time.
 >
-> **After:** Gerolt picked it up as if he had put it down yesterday.
+> **After:** Gerolt picked it up without looking at it.
 
 The last line of the old passage explained what the moment meant (principle 5).
 
@@ -108,7 +109,7 @@ Chapter 1 already showed him choosing silence, so the shout doesn't need a sente
 >
 > **After:** The edge opened her left brow, went through the eye beneath it and dragged across the bridge of her nose, and her cheek fell open to the teeth. What had been her eye ran down her face with the blood. She was still screaming when he swung again.
 >
-> She threw up her arm. The blade broke through her metal bracer and stopped in the bone with a sound like an axe going into green wood. When Gerolt wrenched it out, her hand hung from the end of her arm at an angle no hand should make.
+> She threw up her arm. The blade broke through her metal bracer and stopped in the bone. When Gerolt wrenched it out, her hand hung from the end of her arm at an angle no hand should make.
 >
 > He swung a third time, and the earth rose to meet it.
 

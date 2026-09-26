@@ -81,6 +81,9 @@ def main():
     nothing = grep(r'\bnothing\b')
     print(f'\n== "nothing" (the title word: keep it rare): {len(nothing)}')
     print('   lines: ' + ', '.join(str(n) for n, _ in nothing))
+    report('Comparisons (could the viewpoint character make each one from what has happened to them on the page?)',
+           grep(r"[^.!?]{0,30}\b(like (a|an|the|some\w*|\w+ing)|as if|as though|the way (a|an|someone|something)|no \w+er than|nothing like)\b[^.!?]{0,30}"),
+           limit=60)
     for name, pat in FINGERPRINTS.items():
         report(f'Fingerprint phrase {name}', grep(pat))
 

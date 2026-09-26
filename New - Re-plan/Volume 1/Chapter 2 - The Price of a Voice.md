@@ -30,7 +30,7 @@ A sword.
 
 The leather on its grip had worn smooth and dark. Nicks scarred the guard. The blade was narrow and clean, and one edge took the torchlight.
 
-Gerolt picked it up as if he had put it down yesterday.
+Gerolt picked it up without looking at it.
 
 Outside, metal clicked softly against metal.
 
@@ -38,7 +38,7 @@ Gerolt rose beside the table and took two steps towards the door, the sword held
 
 Then the ash moved.
 
-It lifted off the smothered hearth in thin grey threads. Every loose grain in the cabin slid towards the door at once, drawn like water down a drain.
+It lifted off the smothered hearth in thin grey threads. Every loose grain in the cabin slid towards the door at once.
 
 Gerolt saw it too.
 
@@ -46,15 +46,13 @@ Gerolt saw it too.
 
 He threw himself against the wall beside the doorway, behind the thick timber post, and locked his free arm around it.
 
-The world punched inward.
-
 The latch tore out of the frame. The hinges went with it. The whole door came across the cabin in one piece, turning in the dark, and the boy threw himself flat.
 
-Its lower edge passed close enough to comb splinters through his hair. It struck the back wall and burst, and half the planks behind it burst with it.
+Its lower edge passed close enough to leave splinters in his hair. It struck the back wall and burst, and half the planks behind it burst with it.
 
 Then the wind came in after it.
 
-The bench tore out of his hands. The table went over. Pots ripped off their hooks and flew like thrown stones, and a shutter wrenched loose and was gone into the night. The blanket wrapped his legs, then was torn away.
+The bench tore out of his hands. The table went over. Pots ripped off their hooks and flew across the room, and a shutter wrenched loose and was gone into the night. The blanket wrapped his legs, then was torn away.
 
 The boy jammed his fingers into the gaps between the floorboards and held on.
 
@@ -68,9 +66,9 @@ Gerolt's flame had sat in his palm no bigger than a candle's.
 
 The boy lifted his head.
 
-A tall figure stood in the empty doorway with the torchlight behind him. His pale hair was bound back from a face too fine and unmarked to belong anywhere near a wrecked farmhouse. Close-fitting dark armour covered him, crossed with curling lines of gold, and two pointed ears rose through his hair.
+A tall figure stood in the empty doorway with the torchlight behind him. His pale hair was bound back from a fine, unmarked face. Close-fitting dark armour covered him, crossed with curling lines of gold, and two pointed ears rose through his hair.
 
-He looked over the wreckage. There was no alarm on his face at all. Just mild displeasure, like someone who'd stepped in something.
+He looked over the wreckage. There was no alarm on his face at all. Only distaste.
 
 "There," he said. "Now you've no door to answer."
 
@@ -82,7 +80,7 @@ The sword went up under the elf's jaw.
 
 Gerolt drove it through until the guard met skin and the point came out beneath the other ear. The elf's mouth opened around a sound that never came. Blood welled over his bottom teeth and spilled from both corners of his lips.
 
-He caught Gerolt's wrist and squeezed. His eyes were very wide. He stared at Gerolt with his mouth still working, as though he were waiting for an explanation.
+He caught Gerolt's wrist and squeezed. His eyes were very wide. He stared at Gerolt with his mouth still working.
 
 Then he tried to breathe.
 
@@ -124,7 +122,7 @@ His sword crossed her face.
 
 The edge opened her left brow, went through the eye beneath it and dragged across the bridge of her nose, and her cheek fell open to the teeth. What had been her eye ran down her face with the blood. She was still screaming when he swung again.
 
-She threw up her arm. The blade broke through her metal bracer and stopped in the bone with a sound like an axe going into green wood. When Gerolt wrenched it out, her hand hung from the end of her arm at an angle no hand should make.
+She threw up her arm. The blade broke through her metal bracer and stopped in the bone. When Gerolt wrenched it out, her hand hung from the end of her arm at an angle no hand should make.
 
 He swung a third time, and the earth rose to meet it.
 
@@ -190,7 +188,7 @@ Wena licked the blood off his knuckles. He turned his hand over so she couldn't 
 
 The first arrow came in through the doorway and struck the back wall level with the boy's head.
 
-He ducked over Gerolt. A second arrow punched through the empty window and stood quivering in the upturned table. A third rattled across the roof.
+He ducked over Gerolt. A second arrow came through the empty window and stood quivering in the upturned table. A third rattled across the roof.
 
 The hoofbeats weren't a tremble in the floor any more. They were a sound, rolling in across the fields.
 
@@ -240,7 +238,7 @@ The boy shook his head. "I'm not leaving you."
 
 "Wasn't asking."
 
-Gerolt's hand was still on his wrist. It had been warm. Now it was hot, like the side of a pot left too long on the hearth, and the heat was climbing.
+Gerolt's hand was still on his wrist. It had been warm. Now it was hot, and getting hotter.
 
 Gerolt took it away. He closed it into a fist against the floor and held it there.
 
@@ -280,7 +278,7 @@ The hand reached out of the white. It opened, closed on empty air, and reached a
 
 His left hand opened in answer.
 
-The mouth moved. It shaped the same word it had shaped before, and this time the sound came with it, frayed almost to nothing.
+The mouth moved. It shaped the same word it had shaped before, and this time the sound came with it, faint and broken.
 
 *"…ric…"*
 
@@ -352,6 +350,6 @@ Alaric's legs stopped.
 
 Then the night went orange.
 
-Flame punched up through the roof and rolled along the beams. The last shutters blew outward. A wave of heat swept through the wheat, bending every stalk towards him, and struck him hard enough to throw him down among them.
+Flame burst up through the roof and ran along the beams. The last shutters blew outward. A wave of heat swept through the wheat, bending every stalk towards him, and struck him hard enough to throw him down among them.
 
 Alaric lay in the wheat with Gerolt's sword beneath him and watched the house burn.

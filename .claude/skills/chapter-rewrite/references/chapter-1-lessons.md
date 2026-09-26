@@ -48,6 +48,14 @@ This is the lesson the author enforced hardest. The author wrote: "I don't like 
 
 **Kept, because they show or name something without explaining it:** "It searched him, the way a hand searches a dark room for something it already knows the shape of." / "The wet tearing sound carried across the field because there was nothing else to cover it." (the first time the silence is named) / "He wanted answers. He chose silence."
 
+**Chapter 2 added the other half of the rule: no words chosen to sound good, and no comparisons the viewpoint character couldn't make.**
+
+> Cut: "…stopped in the bone with a sound like an axe going into green wood." The author: "this is from Alaric's POV, how would he know this."
+>
+> Also cut from that draft: "drawn like water down a drain", "flew like thrown stones", "like someone who'd stepped in something", "as if he had put it down yesterday", "like the side of a pot left too long on the hearth", "comb splinters through his hair", "frayed almost to nothing", "The world punched inward."
+>
+> Kept, because he lived them on the page: "Gerolt's flame had sat in his palm no bigger than a candle's." / "…nothing like the voice that had told the boy to take the bowl with both hands."
+
 **Where the line sits.** A web-novel reader moves fast. Before cutting a line that holds the chapter's central mystery, make sure the images alone still carry it. If they don't, keep the plainest sentence.
 
 ## 2. Don't explain the rules either (principle 3)

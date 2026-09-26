@@ -1,0 +1,158 @@
+{
+ "title": "Chapter 2: Changes",
+ "draft": "Chapter 2 - The Price of a Voice (Draft 1).md",
+ "chapter": "../Chapter 2 - The Price of a Voice.md",
+ "changes_file": "../Chapter 2 - Changes.md",
+ "intro_md": "Written on 26 September 2026. This is every change made to `Chapter 2 - The Price of a Voice.md` since its first draft, each with a before, an after and a reason. How the first draft differs from the old chapter is in `Chapter 2 - From the Old Chapter.md`.\n\n- **Revision 1** (changes 1–13) takes out every comparison Alaric couldn't make and every phrase that was there to sound good.\n\n- The first draft is saved, unchanged, as `Drafts/Chapter 2 - The Price of a Voice (Draft 1).md`. Any change you reject can go straight back from there.\n- **Draft line** numbers refer to that saved copy. **Revised line** numbers refer to the chapter as it stands now.",
+ "glance": [],
+ "summary_md": "## Comparisons kept on purpose\n\nThese three compare something to what Alaric has lived through on the page, so he can make them:\n\n- \"It rose at the end, the way a question does.\" He has heard questions all night.\n- \"Gerolt's flame had sat in his palm no bigger than a candle's.\" He saw both in Chapter 1.\n- \"…nothing like the voice that had told the boy to take the bowl with both hands.\" He heard that voice.",
+ "sections": {
+  "Revision 1": "Revision 1: comparisons he couldn't make"
+ },
+ "changes": [
+  {
+   "section": "Revision 1",
+   "title": "\"An axe going into green wood\"",
+   "kind": "changed",
+   "tags": [
+    "compare"
+   ],
+   "before": "She threw up her arm. The blade broke through her metal bracer and stopped in the bone with a sound like an axe going into green wood. When Gerolt wrenched it out, her hand hung from the end of her arm at an angle no hand should make.",
+   "after": "She threw up her arm. The blade broke through her metal bracer and stopped in the bone. When Gerolt wrenched it out, her hand hung from the end of her arm at an angle no hand should make.",
+   "why": "The author: \"explaining things for the sake of it, using words to make it look cool… this is from Alaric's POV, how would he know this.\" A comparison has to come from something he has actually lived through on the page, and for him that's almost nothing. He has never heard an axe go into wood.",
+   "decision": "accepted",
+   "decision_note": "You asked for this one: \"how would he know this\"."
+  },
+  {
+   "section": "Revision 1",
+   "title": "\"As if he had put it down yesterday\"",
+   "kind": "changed",
+   "tags": [
+    "compare"
+   ],
+   "before": "Gerolt picked it up as if he had put it down yesterday.",
+   "after": "Gerolt picked it up without looking at it.",
+   "why": "The author: \"explaining things for the sake of it, using words to make it look cool… this is from Alaric's POV, how would he know this.\" A comparison has to come from something he has actually lived through on the page, and for him that's almost nothing. The boy can't know when Gerolt last held it. What he can see is that Gerolt doesn't need to look."
+  },
+  {
+   "section": "Revision 1",
+   "title": "\"Like water down a drain\"",
+   "kind": "changed",
+   "tags": [
+    "compare"
+   ],
+   "before": "It lifted off the smothered hearth in thin grey threads. Every loose grain in the cabin slid towards the door at once, drawn like water down a drain.",
+   "after": "It lifted off the smothered hearth in thin grey threads. Every loose grain in the cabin slid towards the door at once.",
+   "why": "The author: \"explaining things for the sake of it, using words to make it look cool… this is from Alaric's POV, how would he know this.\" A comparison has to come from something he has actually lived through on the page, and for him that's almost nothing."
+  },
+  {
+   "section": "Revision 1",
+   "title": "\"The world punched inward\"",
+   "kind": "cut",
+   "tags": [
+    "compare"
+   ],
+   "before": "The world punched inward.",
+   "why": "Decoration: the next line shows the door coming in, so this one only announces it. It also shared \"punched\" with two other lines."
+  },
+  {
+   "section": "Revision 1",
+   "title": "\"Comb splinters through his hair\"",
+   "kind": "changed",
+   "tags": [
+    "compare"
+   ],
+   "before": "Its lower edge passed close enough to comb splinters through his hair. It struck the back wall and burst, and half the planks behind it burst with it.",
+   "after": "Its lower edge passed close enough to leave splinters in his hair. It struck the back wall and burst, and half the planks behind it burst with it.",
+   "why": "Decoration: \"comb\" dresses up a plain thing. The splinters are in his hair."
+  },
+  {
+   "section": "Revision 1",
+   "title": "\"Like thrown stones\"",
+   "kind": "changed",
+   "tags": [
+    "compare"
+   ],
+   "before": "The bench tore out of his hands. The table went over. Pots ripped off their hooks and flew like thrown stones, and a shutter wrenched loose and was gone into the night. The blanket wrapped his legs, then was torn away.",
+   "after": "The bench tore out of his hands. The table went over. Pots ripped off their hooks and flew across the room, and a shutter wrenched loose and was gone into the night. The blanket wrapped his legs, then was torn away.",
+   "why": "The author: \"explaining things for the sake of it, using words to make it look cool… this is from Alaric's POV, how would he know this.\" A comparison has to come from something he has actually lived through on the page, and for him that's almost nothing."
+  },
+  {
+   "section": "Revision 1",
+   "title": "\"Too fine to belong anywhere near a wrecked farmhouse\"",
+   "kind": "changed",
+   "tags": [
+    "compare"
+   ],
+   "before": "A tall figure stood in the empty doorway with the torchlight behind him. His pale hair was bound back from a face too fine and unmarked to belong anywhere near a wrecked farmhouse. Close-fitting dark armour covered him, crossed with curling lines of gold, and two pointed ears rose through his hair.",
+   "after": "A tall figure stood in the empty doorway with the torchlight behind him. His pale hair was bound back from a fine, unmarked face. Close-fitting dark armour covered him, crossed with curling lines of gold, and two pointed ears rose through his hair.",
+   "why": "Decoration: a judgement dressed up to sound good. What the boy sees is a fine, unmarked face."
+  },
+  {
+   "section": "Revision 1",
+   "title": "\"Like someone who'd stepped in something\"",
+   "kind": "changed",
+   "tags": [
+    "compare"
+   ],
+   "before": "He looked over the wreckage. There was no alarm on his face at all. Just mild displeasure, like someone who'd stepped in something.",
+   "after": "He looked over the wreckage. There was no alarm on his face at all. Only distaste.",
+   "why": "The author: \"explaining things for the sake of it, using words to make it look cool… this is from Alaric's POV, how would he know this.\" A comparison has to come from something he has actually lived through on the page, and for him that's almost nothing."
+  },
+  {
+   "section": "Revision 1",
+   "title": "\"As though he were waiting for an explanation\"",
+   "kind": "changed",
+   "tags": [
+    "compare"
+   ],
+   "before": "He caught Gerolt's wrist and squeezed. His eyes were very wide. He stared at Gerolt with his mouth still working, as though he were waiting for an explanation.",
+   "after": "He caught Gerolt's wrist and squeezed. His eyes were very wide. He stared at Gerolt with his mouth still working.",
+   "why": "It explained what the stare meant. The stare and the working mouth are enough (principle 5)."
+  },
+  {
+   "section": "Revision 1",
+   "title": "\"Punched through the empty window\"",
+   "kind": "changed",
+   "tags": [
+    "compare"
+   ],
+   "before": "He ducked over Gerolt. A second arrow punched through the empty window and stood quivering in the upturned table. A third rattled across the roof.",
+   "after": "He ducked over Gerolt. A second arrow came through the empty window and stood quivering in the upturned table. A third rattled across the roof.",
+   "why": "The same verb as two other lines. Plain is enough."
+  },
+  {
+   "section": "Revision 1",
+   "title": "\"Like the side of a pot left too long on the hearth\"",
+   "kind": "changed",
+   "tags": [
+    "compare"
+   ],
+   "before": "Gerolt's hand was still on his wrist. It had been warm. Now it was hot, like the side of a pot left too long on the hearth, and the heat was climbing.",
+   "after": "Gerolt's hand was still on his wrist. It had been warm. Now it was hot, and getting hotter.",
+   "why": "The author: \"explaining things for the sake of it, using words to make it look cool… this is from Alaric's POV, how would he know this.\" A comparison has to come from something he has actually lived through on the page, and for him that's almost nothing."
+  },
+  {
+   "section": "Revision 1",
+   "title": "\"Frayed almost to nothing\"",
+   "kind": "changed",
+   "tags": [
+    "compare"
+   ],
+   "before": "The mouth moved. It shaped the same word it had shaped before, and this time the sound came with it, frayed almost to nothing.",
+   "after": "The mouth moved. It shaped the same word it had shaped before, and this time the sound came with it, faint and broken.",
+   "why": "Decoration: \"frayed\" is a cloth word for a sound. \"Faint and broken\" is what he hears."
+  },
+  {
+   "section": "Revision 1",
+   "title": "\"Flame punched up through the roof\"",
+   "kind": "changed",
+   "tags": [
+    "compare"
+   ],
+   "before": "Flame punched up through the roof and rolled along the beams. The last shutters blew outward. A wave of heat swept through the wheat, bending every stalk towards him, and struck him hard enough to throw him down among them.",
+   "after": "Flame burst up through the roof and ran along the beams. The last shutters blew outward. A wave of heat swept through the wheat, bending every stalk towards him, and struck him hard enough to throw him down among them.",
+   "why": "The third \"punched\". Plain verbs."
+  }
+ ]
+}
