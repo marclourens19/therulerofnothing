@@ -50,6 +50,7 @@ Volume 1 tests the question; it doesn't answer it.
 - **Silas.** Gerolt's pupil from Avarice, Eminent Fire, brutal and cunning. He has lived twenty years in the guilt of the gorge. He stops for Alaric because he recognises Gerolt's sword, and teaches him to use it.
 - **Redd.** Low Earth, hates elves, raised his sister on the road. Warm, funny, lives in the present, too carefree when it matters.
 - **Freya.** Redd's younger sister: untested, secretly Eminent Water, and doesn't know it. She leans on Redd, then starts leaning on Alaric, and falls for him. He doesn't see it; he's looking backwards.
+- **Wena.** Gerolt's farm dog, given to Alaric with the sword as Gerolt dies, almost as a wish to keep her safe. She stays by Alaric, but often goes to Freya more than anyone.
 - **Nereth.** Seralune's maid: Ram on duty, Revy when she slips. Loyal to a fault, follows orders, and dreams of seeing the world. Seralune's feelings make her corruption flare.
 
 ## The tear
@@ -78,6 +79,5 @@ Volume 1 tests the question; it doesn't answer it.
 
 - Where the tear happens, and who readers must have met there.
 - What exactly Alaric does that opens the way.
-- Wena's reset.
 - Thaeroval's arc.
 - How far her mother's trail gets.

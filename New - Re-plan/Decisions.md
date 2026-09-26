@@ -148,6 +148,12 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - **Gerolt taught him in Avarice.** Gerolt was angry that Silas didn't learn from his teachings.
 - **The sword is why Silas stops for Alaric:** he knows his master's blade on sight.
 
+### Wena
+
+- **She stays as she is:** Gerolt's large farm dog, and only ever an animal.
+- **Gerolt's dying gift,** alongside the sword. It's almost a wish to keep her safe.
+- **Who she attaches to:** Alaric, but often Freya more than anyone else.
+
 ### Nereth
 
 - A servant maid. Fire.
