@@ -22,6 +22,7 @@ Written on 26 September 2026. This is every change made to `Chapter 1 - A War Wi
 
 These changes add something about a character or the world that you haven't decided yet. Each needs a yes or no from you.
 
+- Nothing is waiting on you. Every change that needed your answer has one.
 
 **Already decided**
 
