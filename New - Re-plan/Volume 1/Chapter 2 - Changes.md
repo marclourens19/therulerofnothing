@@ -10,8 +10,8 @@ Started 27 September 2026. This is the change list for the redesigned Chapter 2.
 
 ## At a glance
 
-- **39 changes proposed.** 0 rejected so far, so 39 are in the chapter: 32 rewritten, 5 cut and 2 added.
-- **Length:** 4,684 words before, 4,758 after.
+- **39 changes proposed.** 1 rejected so far, so 38 are in the chapter: 32 rewritten, 5 cut and 1 added.
+- **Length:** 4,684 words before, 4,733 after.
 - **Median paragraph:** 14 words before, 15 after. The house target is roughly 14–22.
 - **"Nothing":** 2 times before, 2 after.
 - **"The dark":** as a place, 8 times before and 0 after. "Dark" in all: 19 before, 5 after (changes 1, 2, 3, 4, 5, 7, 8, 10, 13, 18, 19, 20, 24). The five left are all from Version 1: the grip, the cloth, the elves' armour twice, and the blood he coughs up.
@@ -22,7 +22,7 @@ Started 27 September 2026. This is the change list for the redesigned Chapter 2.
 
 Each of these needs a yes or no from you. It adds something about a character or the world that you haven't decided, or it's a change you didn't ask for.
 
-- **Change 25, The house he woke up in.** Toned down after "I think kind of, it feels too melodramatic": is this right?
+- Nothing is waiting on you. Every change that needed your answer has one.
 
 **Already decided**
 
@@ -50,6 +50,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 22, The man turns:** "I agree with all the cuts."
 - **Change 23, Wena:** Your note. The words are mine; tell me if the pause should read differently.
 - **Change 24, The last line:** By your instruction to "cut down on" the dark.
+- **Change 25, The house he woke up in:** "I feel it's too much, the woken under it at night section." The house burns without comment.
 - **Change 26, After the fall:** "Keep 'he wasn't moving'", with "ferns" removed.
 - **Change 27, By the river:** "Yes."
 - **Change 28, Why he laughs:** "I agree."
@@ -167,7 +168,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 6. "The trees…"
 
-*Draft lines 237–239 → revised lines 239–241*
+*Draft lines 237–239 → revised lines 237–239*
 
 **Before**
 
@@ -189,7 +190,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 7. The trees come close
 
-*Draft line 269 → revised line 271*
+*Draft line 269 → revised line 269*
 
 **Before**
 
@@ -207,7 +208,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 8. Under the branches
 
-*Draft line 287 → revised line 289*
+*Draft line 287 → revised line 287*
 
 **Before**
 
@@ -223,7 +224,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 9. "Go on"
 
-*Draft lines 303–307 → revised line 305*
+*Draft lines 303–307 → revised line 303*
 
 **Before**
 
@@ -243,7 +244,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 10. The blood on the roots
 
-*Draft line 321 → revised line 319*
+*Draft line 321 → revised line 317*
 
 **Before**
 
@@ -259,7 +260,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 11. "Neither of them moved"
 
-*Draft line 385 → revised line 383*
+*Draft line 385 → revised line 381*
 
 **Before**
 
@@ -289,7 +290,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 13. The river
 
-*Draft line 395 → revised line 391*
+*Draft line 395 → revised line 389*
 
 **Before**
 
@@ -335,7 +336,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 16. "He didn't fall"
 
-*Draft line 453 → revised line 445*
+*Draft line 453 → revised line 443*
 
 **Before**
 
@@ -367,7 +368,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 18. The rider coming up the slope
 
-*Draft lines 475–477 → revised line 465*
+*Draft lines 475–477 → revised line 463*
 
 **Before**
 
@@ -385,7 +386,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 19. The man's cloak and face
 
-*Draft line 481 → revised line 469*
+*Draft line 481 → revised line 467*
 
 **Before**
 
@@ -401,7 +402,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 20. Gerolt's beard
 
-*Draft line 485 → revised line 473*
+*Draft line 485 → revised line 471*
 
 **Before**
 
@@ -431,7 +432,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 22. The man turns
 
-*Draft line 493 → revised line 481*
+*Draft line 493 → revised line 479*
 
 **Before**
 
@@ -447,7 +448,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 23. Wena
 
-*Draft line 507 → revised lines 495–499*
+*Draft line 507 → revised lines 493–497*
 
 **Before**
 
@@ -467,7 +468,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 24. The last line
 
-*Draft line 509 → revised line 501*
+*Draft line 509 → revised line 499*
 
 **Before**
 
@@ -485,25 +486,25 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 25. The house he woke up in
 
-*Added after draft line 217 · now revised line 219*
+*Draft line 217 · proposed, rejected by you: the original stays at revised line 217*
 
-**After this line**
+**Before (kept)**
 
 > His palm had gone an angry red. He didn't look at it.
 
-**New**
+**Proposed (not used)**
 
 > The boy stared up at the burning roof. He had woken under it that night, with a blanket over him and stew on the fire.
 
 **Why.** Your note: "I see a lot of someone did X, he did Y. Just add meaning to things." This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. His question ("What are you doing?") now comes out of something. (Round 3: the author found "It was the only place in the world he knew, and Gerolt had set fire to it himself" "kind of… too melodramatic". Now only the memory is left, and the meaning sits in it.)
 
-**Your call.** Toned down after "I think kind of, it feels too melodramatic": is this right?
+**Your decision.** "I feel it's too much, the woken under it at night section." The house burns without comment.
 
 ### The ride (draft lines 241–267)
 
 #### 26. After the fall
 
-*Draft line 275 → revised line 277*
+*Draft line 275 → revised line 275*
 
 **Before**
 
@@ -521,7 +522,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 27. By the river
 
-*Draft line 399 → revised line 395*
+*Draft line 399 → revised line 393*
 
 **Before**
 
@@ -537,7 +538,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 28. Why he laughs
 
-*Draft line 405 → revised line 401*
+*Draft line 405 → revised line 399*
 
 **Before**
 
@@ -555,7 +556,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 29. Taking the sword
 
-*Draft line 417 → revised line 411*
+*Draft line 417 → revised line 409*
 
 **Before**
 
@@ -571,7 +572,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 30. Three steps
 
-*Draft line 429 → revised line 423*
+*Draft line 429 → revised line 421*
 
 **Before**
 
@@ -587,7 +588,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 31. Blood on the ground
 
-*Draft line 463 → revised line 453*
+*Draft line 463 → revised line 451*
 
 **Before**
 
@@ -605,7 +606,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 32. The fire going out
 
-*Added after draft line 489 · now revised line 479*
+*Added after draft line 489 · now revised line 477*
 
 **After this line**
 
@@ -621,7 +622,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 33. The man reaches him
 
-*Draft line 497 → revised line 485*
+*Draft line 497 → revised line 483*
 
 **Before**
 
@@ -637,7 +638,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 34. Alaric can't get up
 
-*Draft line 501 → revised line 489*
+*Draft line 501 → revised line 487*
 
 **Before**
 
@@ -653,7 +654,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 35. Dragged away
 
-*Draft line 505 → revised line 493*
+*Draft line 505 → revised line 491*
 
 **Before**
 
@@ -671,7 +672,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 36. "Pushed" three times
 
-*Draft line 425 → revised line 419*
+*Draft line 425 → revised line 417*
 
 **Before**
 
@@ -687,7 +688,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 37. Bracken removed (the fall)
 
-*Draft line 271 → revised line 273*
+*Draft line 271 → revised line 271*
 
 **Before**
 
@@ -705,7 +706,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 38. Bracken removed (the sword)
 
-*Draft line 283 → revised line 285*
+*Draft line 283 → revised line 283*
 
 **Before**
 
@@ -721,7 +722,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 39. Bracken removed (getting up)
 
-*Draft line 391 → revised line 389*
+*Draft line 391 → revised line 387*
 
 **Before**
 

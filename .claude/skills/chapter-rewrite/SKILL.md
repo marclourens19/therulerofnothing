@@ -66,7 +66,7 @@ All eight are agreed.
    - The narrator never interprets, decorates or hints.
    - Alaric feels and understands things in plain words, in the moment, about what's in front of him.
    - At a moment that matters to him, a run of bare actions is a fault. Fights can stay fast.
-   - **Keep the meaning small and concrete.** "He had woken under it that night, with a blanket over him and stew on the fire" is enough. "It was the only place in the world he knew" was "too melodramatic". Sweeping words ("the only… in the world", "everything") tip it over.
+   - **Keep the meaning small and concrete, and only where it's needed.** "It was the only place in the world he knew" was "too melodramatic". The toned-down "He had woken under it that night, with a blanket over him and stew on the fire" was still "too much", so the house burns without comment. The moments the author wanted meaning at were the ones about Gerolt: the sword, his feet stopping, the fire going out, being dragged away.
    - **Make "it" clear.** The author read "Alaric waited for it to come back" and asked "what is it?" Name the thing, and let the line say what it meant to him: "Alaric waited for the fire to come back. It had kept burning through both arrows, and now it was out…"
 
    **It never silences the viewpoint character** (agreed 27 September). The rule stops the *narrator* explaining; it doesn't stop Alaric thinking. Chapter 2 was cut so hard that he had no thoughts on the page while Gerolt died for him. Give him his thoughts at the big moments, in his own words and in the moment: *Get up. Why won't you get up.* is Alaric; "the word *I* had somewhere to stand" is the narrator explaining. When he's frightened he has Subaru's mouth, running inside his head (see `Decisions.md`, Alaric).

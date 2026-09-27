@@ -216,8 +216,6 @@ The wood blackened under his palm. Smoke crept out between his fingers, then fla
 
 His palm had gone an angry red. He didn't look at it.
 
-The boy stared up at the burning roof. He had woken under it that night, with a blanket over him and stew on the fire.
-
 "What are you doing?"
 
 Gerolt didn't answer. He was already looking at the horse.
