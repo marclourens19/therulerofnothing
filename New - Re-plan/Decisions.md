@@ -191,7 +191,15 @@ The plan is built in `Volume 1/Chapter 2 - Design.md`.
   - **His death comes just when it looks as though they've made it** (agreed). He gives the sword and Wena in a handful of words, and there's no long goodbye.
   - **Silas is there.** The author: "maybe Gerolt makes his last stand in front of a few elves, is shot with a couple of arrows and falls to his knees. Silas comes through and cuts down the remaining riders, and he and Alaric RUN."
   - **What burns:** "the house and some riders on Gerolt's last stand".
-  - The details still to settle are round 6 of the design file.
+- **Round 6 (answered 27 September):**
+  - **The wound (agreed).** Thanks to the shout, the spear misses his ribs and tears along his side. Liluth's slab still throws him back and breaks something. The arrows are what kill him.
+  - **The house (agreed).** Alaric sees him burn it and doesn't know why. For us, the reasons are "no coming back", and that the fire draws the riders to him and away from the neighbours. His line: "like 'I guess this is finally goodbye', with his Cid sarcastic humour" (being designed).
+  - **The carrying happens twice (agreed):** from the cabin to the horse, and in the forest on foot, where the name comes. "Make the carrying difficult: Alaric is still weak and Gerolt is using most of his strength to stand."
+  - **Why Silas is there.** "Silas is at the river, he 'stays' there. He heard the elves and the fight, so he came to see what it was, and sees his former master fighting to the death."
+  - **Gerolt sees Silas.** "Gerolt is finally on his knees, blood coming out of his mouth, coughing, arrows through him, and then Silas comes. Gerolt lets out a small 'heh' laugh and doesn't say anything again, ever again. After that he is dead."
+  - **Gerolt is dead when they run.**
+  - **Alaric doesn't run when he's told.** The author's line for him: "PLEASE GEROLT! You can still live, come!!! Come with me please, don't leave me alone, I need answers." "It kind of turns sadness into anger that he has nothing again." (Being designed.)
+  - **The last image:** "Gerolt on his knees, dead, as Silas drags Alaric away from the battle."
 
 The decisions below were made for the first version. Each will be checked against the redesign.
 
@@ -304,7 +312,7 @@ The decisions below were made for the first version. Each will be checked agains
 - **Cunning in the moment, reckless in the big choices** (like the gorge).
 - **Gerolt taught him in Avarice.** Gerolt was angry that Silas didn't learn from his teachings.
 - **The sword is why Silas stops for Alaric:** he knows his master's blade on sight. *To check against the redesign.*
-- **He's at Gerolt's last stand** (27 September, Chapter 2). He cuts down the remaining riders, and he and Alaric run. Why he's there is still open (design file, round 6).
+- **He's at Gerolt's last stand** (27 September, Chapter 2). He cuts down the remaining riders, and he and Alaric run. Why he's there: "Silas is at the river, he 'stays' there. He heard the elves and the fight, so he came to see what it was, and sees his former master fighting to the death." Gerolt sees him, gives a small "heh", and never speaks again.
 
 ### Wena
 

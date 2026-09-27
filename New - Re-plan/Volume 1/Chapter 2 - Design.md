@@ -143,6 +143,40 @@ One night, in Alaric's eyes, with no scene breaks:
 7. **Does Alaric run when he's told?** *Recommended:* no. He turns back, the same stubbornness as "I'm not leaving you", and that's why Silas has to drag him away. It's Alaric acting instead of watching. This is a behaviour, so it's your call.
 8. **The last image.** The house now burns early. *Recommended:* end on Gerolt, not Silas: the last Alaric sees of him, kneeling in his own fire as they ride away, with the sword across Alaric's knees. It keeps the shape of the last line you called "perfect".
 
+**Answers (27 September).**
+1. **The wound.** "Yes, correct."
+2. **The house.** Agreed. Gerolt's line: "like 'I guess this is finally goodbye', with his Cid sarcastic humour."
+3. **The carrying.** Agreed. "Make the carrying difficult: Alaric is still weak and Gerolt is using most of his strength to stand."
+4. **Silas.** "Silas is at the river, he 'stays' there. He heard the elves and the fight, so he came to see what it was, and sees his former master fighting to the death."
+5. **Gerolt sees Silas.** "Gerolt is finally on his knees, blood coming out of his mouth, coughing, arrows through him, and then Silas comes. Gerolt lets out a small 'heh' laugh and doesn't say anything again, ever again. After that he is dead."
+6. **Dead when they run.** Yes.
+7. **Alaric doesn't run.** "No, he is like 'PLEASE GEROLT! You can still live, come!!! Come with me please, don't leave me alone, I need answers.' It kind of turns sadness into anger that he has nothing again." ("love" in the original read as "live".)
+8. **The last image.** "Gerolt on his knees, dead, as Silas drags Alaric away from the battle."
+
+### Conversations: the author's lines in the characters' voices (27 September)
+
+**Gerolt, burning the house.**
+- **Author:** "I guess this is finally goodbye."
+- **A:** "Well," he said to the house. "Suppose that's goodbye, then."
+- **B (recommended):** "Goodbye, then," he told the house. "Never did get those shutters to sit right." The joke is aimed at something petty, a chore he'll now never finish, and that's what keeps Gerolt alive on the page. His humour covers what he's losing. "Finally" lives in his manner: he isn't surprised. *Honest note:* the shutters are from Chapter 1 ("your shutters don't sit right in the frame"), so it's an echo, but it's a joke he'd make, not a symbol.
+- **Not recommended:** "Always said I'd leave this place feet first. Close enough." It's the most Cid, but it tells the reader he expects to die, which spends the shock before the forest.
+
+**Alaric, refusing to run.** The shouts come between the fire, the riders burning and the arrows.
+- **Author:** "PLEASE GEROLT! You can still live, come!!! Come with me please, don't leave me alone, I need answers."
+- **Alaric (proposed):**
+  - "Gerolt! Please, you can still get up. I'll carry you. Just come *on*!"
+  - "Don't leave me on my own. I don't know anything. I don't know *anyone*—"
+  - "You said the questions could wait! You *said*—"
+  - "Don't you dare leave me with nothing again!"
+- **Why:**
+  - It keeps your order, sadness first and anger last.
+  - Each shout claims something new (principle 8): he can still live, then I'm alone, then you promised, then the anger.
+  - "The questions can wait" is Gerolt's own promise from Chapter 1, so "I need answers" becomes something Alaric lived through.
+  - "Again" is because the field was the first time he had nothing.
+  - This is his Subaru mouth spilling out loud, because he's cornered.
+
+**Gerolt's last sound.** Keep the author's "heh" exactly. *Proposed:* the page never says he's dead. Alaric sees the "heh", then the fire on Gerolt's hand goes out, and he stays on his knees.
+
 ### Conversations to design together (after round 6)
 
 The author gives each line in their own words, and Claude gives it back in the character's voice.
