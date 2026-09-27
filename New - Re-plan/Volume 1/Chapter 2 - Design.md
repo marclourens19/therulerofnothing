@@ -177,6 +177,27 @@ One night, in Alaric's eyes, with no scene breaks:
 
 **Gerolt's last sound.** Keep the author's "heh" exactly. *Proposed:* the page never says he's dead. Alaric sees the "heh", then the fire on Gerolt's hand goes out, and he stays on his knees.
 
+**The author's answers on these and the next lines (27 September).**
+1. **Gerolt at the house:** "A is better, more human-like. B sounds robotic." So it's: "Well," he said to the house. "Suppose that's goodbye, then."
+2. **Alaric's shouts:** "I agree with all, sounds good. Emphasise 'nothing'." So the last shout is "Don't you dare leave me with *nothing* again!"
+3. **His death** ("heh", the fire going out, still on his knees): agreed.
+4. **Silas:** "He lives on the river to stay away from people. He is near Kelmend because he loves Darcy and wants to keep up to date with any news related to her." *To confirm: Decisions says he loves Marta.*
+5. **The ride:** "Maybe he can say 'Make for the trees, boy', and Wena is running alongside them."
+6. **The name:** agreed. "At 'There you are' add a small pained chuckle from Gerolt: he is happy but in pain."
+7. **The "made it" line:** the author asked for an explanation (see round 7).
+8. **The handover:** agreed, with one line sending him to Marta in Kelmend.
+9. **Silas's first words:** "Silas is shocked and kind of annoyed this boy won't get up. He's like 'Get up, boy, or we're both dead!', something like this."
+
+### Round 7 (asked 27 September)
+
+1. **Marta or Darcy?** Decisions says Silas loves Marta: they were to be married, and he lost her after the gorge, where her father died. In the old canon Darcy is Marta's childhood friend, held by Mydea as its strategist. "News related to her" fits a prisoner like Darcy, but changing it would change the gorge story and Marta's side of it. Which is it?
+2. **The "made it" line, explained.** It's the moment of false relief just before the riders break through (round 5, question 5). Alaric has dragged Gerolt far enough through the trees that the torches have fallen behind, and they can hear the river. Gerolt sits against a tree to get his breath, and says something dry that lets the reader relax, so the riders land as a shock. Plain, to fit the author's taste:
+   - *Recommended:* "Worst horse I ever had." It teases the boy who has just carried him, and it's aimed at the person in front of him, not at the story.
+   - *Alternative:* "Hear that? River." / "Told you we'd make it."
+   - Or the author's own.
+3. **"Lad" or "boy".** Gerolt has called him "lad" since he woke in the cabin. *Recommended:* Gerolt keeps "lad" ("Make for the trees, lad"), and "boy" becomes Silas's word ("Get up, boy, or we're both dead!"). Their voices then differ even when they say the same kind of thing.
+4. **Alaric's thoughts** at the four big moments: the shout, the ride, Gerolt going down, and the last stand. Should the author give rough versions first, or should Claude propose them in the draft, each marked as a call for the author?
+
 ### Conversations to design together (after round 6)
 
 The author gives each line in their own words, and Claude gives it back in the character's voice.

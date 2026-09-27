@@ -200,6 +200,14 @@ The plan is built in `Volume 1/Chapter 2 - Design.md`.
   - **Gerolt is dead when they run.**
   - **Alaric doesn't run when he's told.** The author's line for him: "PLEASE GEROLT! You can still live, come!!! Come with me please, don't leave me alone, I need answers." "It kind of turns sadness into anger that he has nothing again." (Being designed.)
   - **The last image:** "Gerolt on his knees, dead, as Silas drags Alaric away from the battle."
+- **Lines agreed (27 September).** The author gives the line in their words, and Claude gives it back in the character's voice.
+  - **Gerolt at the house:** "Well," he said to the house. "Suppose that's goodbye, then." The author chose this over a joke about the shutters: "A is better, more human-like. B sounds robotic."
+  - **Alaric refusing to run:** "Gerolt! Please, you can still get up. I'll carry you. Just come *on*!" / "Don't leave me on my own. I don't know anything. I don't know *anyone*—" / "You said the questions could wait! You *said*—" / "Don't you dare leave me with *nothing* again!" The author: "emphasise 'nothing'."
+  - **His death:** the page never says he's dead. Alaric sees the "heh", then the fire on Gerolt's hand goes out, and he stays on his knees.
+  - **The ride:** "Make for the trees, boy," with Wena running alongside.
+  - **The name:** the approved exchange stays. At "There you are", Gerolt gives a small pained chuckle: "he is happy but in pain".
+  - **The handover:** the sword and Wena in a handful of words, one line sending him to Marta in Kelmend, then "Take Wena and run, Alaric."
+  - **Silas's first words:** he's "shocked and kind of annoyed this boy won't get up". The author's line: "Get up, boy, or we're both dead!"
 
 The decisions below were made for the first version. Each will be checked against the redesign.
 
@@ -312,7 +320,7 @@ The decisions below were made for the first version. Each will be checked agains
 - **Cunning in the moment, reckless in the big choices** (like the gorge).
 - **Gerolt taught him in Avarice.** Gerolt was angry that Silas didn't learn from his teachings.
 - **The sword is why Silas stops for Alaric:** he knows his master's blade on sight. *To check against the redesign.*
-- **He's at Gerolt's last stand** (27 September, Chapter 2). He cuts down the remaining riders, and he and Alaric run. Why he's there: "Silas is at the river, he 'stays' there. He heard the elves and the fight, so he came to see what it was, and sees his former master fighting to the death." Gerolt sees him, gives a small "heh", and never speaks again.
+- **He's at Gerolt's last stand** (27 September, Chapter 2). He cuts down the remaining riders, and he and Alaric run. **Where he lives** (27 September): "He lives on the river to stay away from people. He is near Kelmend because he loves Darcy and wants to keep up to date with any news related to her." *To confirm: this says Darcy, but the decisions above say he loves Marta.* Why he's there: "Silas is at the river, he 'stays' there. He heard the elves and the fight, so he came to see what it was, and sees his former master fighting to the death." Gerolt sees him, gives a small "heh", and never speaks again.
 
 ### Wena
 
