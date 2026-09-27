@@ -3,7 +3,7 @@
  "draft": "Chapter 1 - A War Without Sound (Draft 1, before revision).md",
  "chapter": "../Chapter 1 - A War Without Sound.md",
  "changes_file": "../Chapter 1 - Changes.md",
- "intro_md": "Written on 26 September 2026. This is every change made to `Chapter 1 - A War Without Sound.md` since the draft, each with a before, an after and a reason.\n\n- **Revision 1** (changes 1–37) carried out the agreed decisions and craft fixes.\n- **Revision 2** (changes 38–44) trimmed your own lines against principle 5: don't explain the meaning.\n- **Revision 3** (changes 45–49) is the final check: small craft fixes from a last full read.\n- **Revision 4** (changes 50–52) takes the gold at the running figure's cuff out of the vision, at your request.\n- **Revision 5** (changes 53–56, plus edits folded into changes 8, 19, 25 and 28) cuts eight comparisons Alaric couldn't make from what he has lived through.\n- **Revision 6** (changes 57–60, plus an edit folded into change 28) takes out \"the dark\", at your request (27 September).\n\n- The chapter as it was before is saved, unchanged, as `Drafts/Chapter 1 - A War Without Sound (Draft 1, before revision).md`. Any change you reject can go straight back from there.\n- **Draft line** numbers refer to that saved copy. **Revised line** numbers refer to the chapter as it stands now.\n- Nothing was changed that isn't listed here.\n- Changes 6, 19, 20, 25, 27 and 37 were trimmed after your note on over-explaining. Each one shows the trimmed version.",
+ "intro_md": "Written on 26 September 2026. This is every change made to `Chapter 1 - A War Without Sound.md` since the draft, each with a before, an after and a reason.\n\n- **Revision 1** (changes 1–37) carried out the agreed decisions and craft fixes.\n- **Revision 2** (changes 38–44) trimmed your own lines against principle 5: don't explain the meaning.\n- **Revision 3** (changes 45–49) is the final check: small craft fixes from a last full read.\n- **Revision 4** (changes 50–52) takes the gold at the running figure's cuff out of the vision, at your request.\n- **Revision 5** (changes 53–56, plus edits folded into changes 8, 19, 25 and 28) cuts eight comparisons Alaric couldn't make from what he has lived through.\n- **Revision 6** (changes 57–60, plus an edit folded into change 28) takes out \"the dark\", at your request (27 September).\n- **Revision 7** (change 61) is the final pass of Chapters 1 and 2 read together (27 September).\n\n- The chapter as it was before is saved, unchanged, as `Drafts/Chapter 1 - A War Without Sound (Draft 1, before revision).md`. Any change you reject can go straight back from there.\n- **Draft line** numbers refer to that saved copy. **Revised line** numbers refer to the chapter as it stands now.\n- Nothing was changed that isn't listed here.\n- Changes 6, 19, 20, 25, 27 and 37 were trimmed after your note on over-explaining. Each one shows the trimmed version.",
  "glance": [
   "**Gerolt's failed laugh:** four times before (lines 103, 277, 417, 471). Now once, in your own line 103.",
   "**\"What do you remember before this morning?\":** asked three times before, once now.",
@@ -21,7 +21,8 @@
   "Revision 3": "Revision 3: the final check",
   "Revision 4": "Revision 4: the gold at the cuff",
   "Revision 5": "Revision 5: comparisons he couldn't make",
-  "Revision 6": "Revision 6: \"the dark\""
+  "Revision 6": "Revision 6: \"the dark\"",
+  "Revision 7": "Revision 7: the final pass with Chapter 2"
  },
  "changes": [
   {
@@ -749,6 +750,18 @@
    "why": "The author: \"One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words.\" Asked for Chapter 1 on 27 September. The smothered fire and the pinched-out candle already say there's no light.",
    "decision": "accepted",
    "decision_note": "At your request."
+  },
+  {
+   "section": "Revision 7",
+   "title": "\"Lad?\"",
+   "kind": "changed",
+   "tags": [
+    "lad"
+   ],
+   "before": "\"Boy?\"",
+   "after": "\"Lad?\"",
+   "why": "The final pass of Chapters 1 and 2 together. It was agreed on 27 September that Gerolt says \"lad\" and \"boy\" is Silas's word. In Chapter 1 Gerolt says \"boy\" at the field, when the boy is a stranger in the mud (your own lines 45, 49 and 69, and line 227), and \"lad\" from then on. This \"Boy?\" in the cabin was the one slip. Keeping \"boy\" at the field gives a small, unspoken parallel: Silas starts where Gerolt started.",
+   "call": "Change the cabin \"Boy?\" to \"Lad?\", and keep \"boy\" at the field?"
   }
  ]
 }

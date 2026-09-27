@@ -68,7 +68,9 @@ The boy lifted his head.
 
 A tall figure stood in the empty doorway with the torchlight behind him. His pale hair was bound back from a fine, unmarked face. Close-fitting dark armour covered him, crossed with curling lines of gold, and two pointed ears rose through his hair.
 
-He looked over the wreckage. There was no alarm on his face at all.
+*Natharul.*
+
+The elf looked over the wreckage. There was no alarm on his face at all.
 
 He laughed as he stepped over the threshold, his hands empty. "Testing my patience, old man. Now you've no door to answer."
 
@@ -444,7 +446,7 @@ He rocked back a step, and the fire on his arm flared. The second arrow went in 
 
 "Gerolt!"
 
-The rest came out of Alaric before he could stop it.
+The rest spilled out of Alaric.
 
 "Please, you can still get up. I'll carry you. Just come *on*!"
 

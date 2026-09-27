@@ -12,10 +12,12 @@ Started 27 September 2026. This is the change list for the redesigned Chapter 2.
 
 **Round 5 (27 September): the final pass.** Full read-through against the final check, including the author's new rules. Nothing needed a judgement call. These are craft fixes only: two unclear pronouns, repeated words ("pushed", "got", "doorway", "up the slope", "out"), and three words many readers won't know ("eaves", "pommel", "sidled"). Some are new changes (41, 42, 43, 44, 45); the rest are folded into changes 5, 23, 27, 29, 32 and 38, each noted in its reason.
 
+**Round 6 (27 September): the final pass of Chapters 1 and 2 together.** Read as one piece: continuity across the seam, what Chapter 1 set up and Chapter 2 now does, phrases repeated between the chapters, and the new rules applied to Chapter 1. One craft fix and one call here; Chapter 1 has one call too (its change 61).
+
 ## At a glance
 
-- **45 changes proposed.** 1 rejected so far, so 44 are in the chapter: 38 rewritten, 5 cut and 1 added.
-- **Length:** 4,684 words before, 4,727 after.
+- **47 changes proposed.** 1 rejected so far, so 46 are in the chapter: 40 rewritten, 5 cut and 1 added.
+- **Length:** 4,684 words before, 4,724 after.
 - **Median paragraph:** 14 words before, 15 after. The house target is roughly 14–22.
 - **"Nothing":** 2 times before, 2 after.
 - **"The dark":** as a place, 8 times before and 0 after. "Dark" in all: 19 before, 5 after (changes 1, 2, 3, 4, 5, 7, 8, 10, 13, 18, 19, 20, 24). The five left are all from Version 1: the grip, the cloth, the elves' armour twice, and the blood he coughs up.
@@ -26,7 +28,7 @@ Started 27 September 2026. This is the change list for the redesigned Chapter 2.
 
 Each of these needs a yes or no from you. It adds something about a character or the world that you haven't decided, or it's a change you didn't ask for.
 
-- Nothing is waiting on you. Every change that needed your answer has one.
+- **Change 47, *Natharul.*.** Add the thought *Natharul.* when he sees the elf? It's your call whether it tells the reader something they already know.
 
 **Already decided**
 
@@ -84,6 +86,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 10. **Round 3.** Your answers on round 2 are in each change's decision. "Bracken" is gone, and "ferns" with it: changes 37, 38, 39 and 26.
 11. **Round 4.** The wall beside the doorway: change 40. With this, every call on the chapter is answered.
 12. **The final pass.** Craft fixes only: changes 41, 42, 43, 44, 45, plus small edits folded into changes 5, 23, 27, 29, 32 and 38.
+13. **Both chapters together.** Changes 46, 47.
 
 ## The changes
 
@@ -109,7 +112,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 2. Her screaming
 
-*Draft line 135 → revised line 135*
+*Draft line 135 → revised line 137*
 
 **Before**
 
@@ -125,7 +128,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 3. Where the torch had gone
 
-*Draft line 155 → revised line 155*
+*Draft line 155 → revised line 157*
 
 **Before**
 
@@ -143,7 +146,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 4. The lights in the distance
 
-*Draft line 187 → revised line 187*
+*Draft line 187 → revised line 189*
 
 **Before**
 
@@ -159,7 +162,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 5. The doorpost
 
-*Draft line 215 → revised line 215*
+*Draft line 215 → revised line 217*
 
 **Before**
 
@@ -175,7 +178,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 6. "The trees…"
 
-*Draft lines 237–239 → revised lines 237–239*
+*Draft lines 237–239 → revised lines 239–241*
 
 **Before**
 
@@ -197,7 +200,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 7. The trees come close
 
-*Draft line 269 → revised line 269*
+*Draft line 269 → revised line 271*
 
 **Before**
 
@@ -215,7 +218,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 8. Under the branches
 
-*Draft line 287 → revised line 287*
+*Draft line 287 → revised line 289*
 
 **Before**
 
@@ -231,7 +234,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 9. "Go on"
 
-*Draft lines 303–307 → revised line 303*
+*Draft lines 303–307 → revised line 305*
 
 **Before**
 
@@ -251,7 +254,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 10. The blood on the roots
 
-*Draft line 321 → revised line 317*
+*Draft line 321 → revised line 319*
 
 **Before**
 
@@ -267,7 +270,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 11. "Neither of them moved"
 
-*Draft line 385 → revised line 381*
+*Draft line 385 → revised line 383*
 
 **Before**
 
@@ -297,7 +300,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 13. The river
 
-*Draft line 395 → revised line 389*
+*Draft line 395 → revised line 391*
 
 **Before**
 
@@ -343,7 +346,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 16. "He didn't fall"
 
-*Draft line 453 → revised line 443*
+*Draft line 453 → revised line 445*
 
 **Before**
 
@@ -375,7 +378,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 18. The rider coming up the slope
 
-*Draft lines 475–477 → revised line 463*
+*Draft lines 475–477 → revised line 465*
 
 **Before**
 
@@ -393,7 +396,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 19. The man's cloak and face
 
-*Draft line 481 → revised line 467*
+*Draft line 481 → revised line 469*
 
 **Before**
 
@@ -409,7 +412,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 20. Gerolt's beard
 
-*Draft line 485 → revised line 471*
+*Draft line 485 → revised line 473*
 
 **Before**
 
@@ -439,7 +442,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 22. The man turns
 
-*Draft line 493 → revised line 479*
+*Draft line 493 → revised line 481*
 
 **Before**
 
@@ -455,7 +458,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 23. Wena
 
-*Draft line 507 → revised lines 493–497*
+*Draft line 507 → revised lines 495–499*
 
 **Before**
 
@@ -475,7 +478,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 24. The last line
 
-*Draft line 509 → revised line 499*
+*Draft line 509 → revised line 501*
 
 **Before**
 
@@ -493,7 +496,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 25. The house he woke up in
 
-*Draft line 217 · proposed, rejected by you: the original stays at revised line 217*
+*Draft line 217 · proposed, rejected by you: the original stays at revised line 219*
 
 **Before (kept)**
 
@@ -511,7 +514,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 26. After the fall
 
-*Draft line 275 → revised line 275*
+*Draft line 275 → revised line 277*
 
 **Before**
 
@@ -529,7 +532,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 27. By the river
 
-*Draft line 399 → revised line 393*
+*Draft line 399 → revised line 395*
 
 **Before**
 
@@ -545,7 +548,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 28. Why he laughs
 
-*Draft line 405 → revised line 399*
+*Draft line 405 → revised line 401*
 
 **Before**
 
@@ -563,7 +566,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 29. Taking the sword
 
-*Draft line 417 → revised line 409*
+*Draft line 417 → revised line 411*
 
 **Before**
 
@@ -579,7 +582,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 30. Three steps
 
-*Draft line 429 → revised line 421*
+*Draft line 429 → revised line 423*
 
 **Before**
 
@@ -595,7 +598,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 31. Blood on the ground
 
-*Draft line 463 → revised line 451*
+*Draft line 463 → revised line 453*
 
 **Before**
 
@@ -613,7 +616,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 32. The fire going out
 
-*Added after draft line 489 · now revised line 477*
+*Added after draft line 489 · now revised line 479*
 
 **After this line**
 
@@ -629,7 +632,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 33. The man reaches him
 
-*Draft line 497 → revised line 483*
+*Draft line 497 → revised line 485*
 
 **Before**
 
@@ -645,7 +648,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 34. Alaric can't get up
 
-*Draft line 501 → revised line 487*
+*Draft line 501 → revised line 489*
 
 **Before**
 
@@ -661,7 +664,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 35. Dragged away
 
-*Draft line 505 → revised line 491*
+*Draft line 505 → revised line 493*
 
 **Before**
 
@@ -679,7 +682,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 36. "Pushed" three times
 
-*Draft line 425 → revised line 417*
+*Draft line 425 → revised line 419*
 
 **Before**
 
@@ -695,7 +698,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 37. Bracken removed (the fall)
 
-*Draft line 271 → revised line 271*
+*Draft line 271 → revised line 273*
 
 **Before**
 
@@ -713,7 +716,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 38. Bracken removed (the sword)
 
-*Draft line 283 → revised line 283*
+*Draft line 283 → revised line 285*
 
 **Before**
 
@@ -729,7 +732,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 39. Bracken removed (getting up)
 
-*Draft line 391 → revised line 387*
+*Draft line 391 → revised line 389*
 
 **Before**
 
@@ -747,7 +750,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 40. The wall, not the doorpost
 
-*Draft lines 209–213 → revised lines 209–213*
+*Draft lines 209–213 → revised lines 211–215*
 
 **Before**
 
@@ -771,7 +774,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 41. The hilt
 
-*Draft line 193 → revised line 193*
+*Draft line 193 → revised line 195*
 
 **Before**
 
@@ -785,7 +788,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 42. Out over the dead elf
 
-*Draft line 207 → revised line 207*
+*Draft line 207 → revised line 209*
 
 **Before**
 
@@ -799,7 +802,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 43. Mounting the horse
 
-*Draft line 225 → revised line 225*
+*Draft line 225 → revised line 227*
 
 **Before**
 
@@ -813,7 +816,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 44. The reins
 
-*Draft line 231 → revised line 231*
+*Draft line 231 → revised line 233*
 
 **Before**
 
@@ -829,7 +832,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 45. Into the trees
 
-*Draft line 285 → revised line 285*
+*Draft line 285 → revised line 287*
 
 **Before**
 
@@ -840,3 +843,43 @@ Each of these needs a yes or no from you. It adds something about a character or
 > They went into the trees like that.
 
 **Why.** A craft fix from the final pass. "One step at a time" is used when they leave the cabin; the reader already knows how slow it is.
+
+### The last stand (draft lines 407–473)
+
+#### 46. The rest spills out
+
+*Draft line 459 → revised line 449*
+
+**Before**
+
+> The rest came out of Alaric before he could stop it.
+
+**After**
+
+> The rest spilled out of Alaric.
+
+**Why.** A craft fix from the final pass of both chapters together. Chapter 1 has "Before he could stop it, hope rose in him." for the same kind of feeling, so the stock phrase came twice for readers going straight on. "Spilled" keeps that it isn't a choice. It's the decided Subaru mouth, spilling out when he's cornered.
+
+### The door (draft lines 3–101)
+
+#### 47. *Natharul.*
+
+*Draft lines 69–71 → revised lines 69–73*
+
+**Before**
+
+> A tall figure stood in the empty doorway with the torchlight behind him. His pale hair was bound back from a fine, unmarked face. Close-fitting dark armour covered him, crossed with curling lines of gold, and two pointed ears rose through his hair.
+>
+> He looked over the wreckage. There was no alarm on his face at all.
+
+**After**
+
+> A tall figure stood in the empty doorway with the torchlight behind him. His pale hair was bound back from a fine, unmarked face. Close-fitting dark armour covered him, crossed with curling lines of gold, and two pointed ears rose through his hair.
+>
+> *Natharul.*
+>
+> The elf looked over the wreckage. There was no alarm on his face at all.
+
+**Why.** From the final pass of both chapters together. In Chapter 1, the boy asked about "the pale ones… with the pointed ears", and Gerolt answered: "Natharul. When one of theirs dies, they don't ask who did it. They ask where." This is the first living one he sees. One word of recognition in his head brings that warning to the door, without saying so. It's small and concrete, the kind of meaning you asked for. After the thought, "He looked over the wreckage" could read as the boy, so it's now "The elf", which is what the narration calls him a few lines later.
+
+**Your call.** Add the thought *Natharul.* when he sees the elf? It's your call whether it tells the reader something they already know.
