@@ -6,7 +6,7 @@ The new chapter is saved unchanged as `Drafts/Chapter 2 - The Price of a Voice (
 
 ## At a glance
 
-- **Length:** 2,809 words before, 4,684 now.
+- **Length:** 2,809 words before, 4,684 in the redraft, and 4,727 after your notes (rounds 1–4 of `Chapter 2 - Changes.md`) and the final pass (round 5).
 - **Shape:** still one night in Alaric's eyes, with no scene breaks. It now has six movements: the door, the fight, the fire, the ride, the forest, and the last stand.
 - **Unchanged:** the door, word for word, up to the stone travelling under the floor.
 - **Kept, moved or adapted:**

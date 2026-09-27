@@ -10,10 +10,12 @@ Started 27 September 2026. This is the change list for the redesigned Chapter 2.
 
 **Round 4 (27 September): the last calls on the redraft.** Gerolt lights the wall beside the empty doorway, not the doorpost. "I run hot" and "Found one lad still breathing" stay out. Everything else is approved: the horse, Gerolt's small lines, the horse being shot, Alaric's thought when Gerolt goes down, the riders from the river, the rider's laugh, Silas's look, Silas seeing the sword, and the last line.
 
+**Round 5 (27 September): the final pass.** Full read-through against the final check, including the author's new rules. Nothing needed a judgement call. These are craft fixes only: two unclear pronouns, repeated words ("pushed", "got", "doorway", "up the slope", "out"), and three words many readers won't know ("eaves", "pommel", "sidled"). Some are new changes (41, 42, 43, 44, 45); the rest are folded into changes 5, 23, 27, 29, 32 and 38, each noted in its reason.
+
 ## At a glance
 
-- **40 changes proposed.** 1 rejected so far, so 39 are in the chapter: 33 rewritten, 5 cut and 1 added.
-- **Length:** 4,684 words before, 4,735 after.
+- **45 changes proposed.** 1 rejected so far, so 44 are in the chapter: 38 rewritten, 5 cut and 1 added.
+- **Length:** 4,684 words before, 4,727 after.
 - **Median paragraph:** 14 words before, 15 after. The house target is roughly 14–22.
 - **"Nothing":** 2 times before, 2 after.
 - **"The dark":** as a place, 8 times before and 0 after. "Dark" in all: 19 before, 5 after (changes 1, 2, 3, 4, 5, 7, 8, 10, 13, 18, 19, 20, 24). The five left are all from Version 1: the grip, the cloth, the elves' armour twice, and the blood he coughs up.
@@ -81,6 +83,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 9. **"Spattered the ground."** Change 31.
 10. **Round 3.** Your answers on round 2 are in each change's decision. "Bracken" is gone, and "ferns" with it: changes 37, 38, 39 and 26.
 11. **Round 4.** The wall beside the doorway: change 40. With this, every call on the chapter is answered.
+12. **The final pass.** Craft fixes only: changes 41, 42, 43, 44, 45, plus small edits folded into changes 5, 23, 27, 29, 32 and 38.
 
 ## The changes
 
@@ -164,9 +167,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> The wood blackened under his palm. Smoke crept out between his fingers, then flame, small at first, running up the wall in a thin line and into the eaves. It caught there with a soft sound and spread. By the time Gerolt took his hand away, the whole front of the roof was alight.
+> The wood blackened under his palm. Smoke crept out between his fingers, then flame, small at first, running up the wall in a thin line. It caught at the top with a soft sound and spread. By the time Gerolt took his hand away, the whole front of the roof was alight.
 
-**Why.** The author: "One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words." The replacement words are mine; reject any you don't like. Burning wood blackens, so it's also the plainer word. (Round 4: "post" became "wall", with change 40.)
+**Why.** The author: "One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words." The replacement words are mine; reject any you don't like. Burning wood blackens, so it's also the plainer word. (Round 4: "post" became "wall", with change 40.) (Final pass: "into the eaves" went. "Eaves" is a word many readers won't know, and "roof" is already in the next sentence.)
 
 **Your decision.** By your instruction to "cut down on" the dark.
 
@@ -460,13 +463,13 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> Wena stood beside him, looking up into his face. Her head turned, and she looked up the slope at Alaric.
+> Wena stood beside him, looking up into his face. Her head turned, and she looked at Alaric.
 >
 > She didn't come.
 >
 > Then she ran after him.
 
-**Why.** The author: "Scenes like this are like just saying it for the sake of it. Remember it's all in Alaric's perspective: he saw Wena staring at Gerolt, then at them, she paused for a brief moment, then ran after Alaric." Now it's in the order he sees it. The pause is "She didn't come.", which is how it feels from his side, and she runs after him, not after "them". (Round 2: "at Gerolt's side" became "beside him", because "Gerolt" had just ended three lines in a row.)
+**Why.** The author: "Scenes like this are like just saying it for the sake of it. Remember it's all in Alaric's perspective: he saw Wena staring at Gerolt, then at them, she paused for a brief moment, then ran after Alaric." Now it's in the order he sees it. The pause is "She didn't come.", which is how it feels from his side, and she runs after him, not after "them". (Round 2: "at Gerolt's side" became "beside him", because "Gerolt" had just ended three lines in a row.) (Final pass: "up the slope" came five times.)
 
 **Your decision.** Your note. The words are mine; tell me if the pause should read differently.
 
@@ -534,9 +537,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> He leaned against a tree and let himself down it until he was sitting. Alaric sank down beside him, too tired to stand, and listened back up the slope. Leaves moved in the wind. The water ran on below them. The torchlight had gone. Nobody was coming.
+> He leaned against a tree and let himself down it until he was sitting. Alaric sank down beside him, too tired to stand, and listened back the way they had come. Leaves moved in the wind. The water ran on below them. The torchlight had gone. Nobody was coming.
 
-**Why.** Your note: "I see a lot of someone did X, he did Y. Just add meaning to things." This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. "Nobody was coming" is what he believes, reasoned from what he can hear, and it's wrong: the riders are already at the river. That's his flaw ("believes things are right when they aren't"), and it makes the relief the reader's too.
+**Why.** Your note: "I see a lot of someone did X, he did Y. Just add meaning to things." This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. "Nobody was coming" is what he believes, reasoned from what he can hear, and it's wrong: the riders are already at the river. That's his flaw ("believes things are right when they aren't"), and it makes the relief the reader's too. (Final pass: "up the slope" came five times in the forest.)
 
 **Your decision.** "Yes."
 
@@ -568,9 +571,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> He held it out to Alaric hilt first. Alaric didn't take it. He had watched Gerolt fight with that sword tonight. If he took it, Gerolt wasn't coming, and he would be facing them with his bare hands. He would die here. Gerolt pushed it into his hands anyway and closed his fingers around the grip.
+> He held it out to Alaric hilt first. Alaric didn't take it. He had watched Gerolt fight with that sword tonight. If he took it, Gerolt wasn't coming, and he would be facing them with his bare hands. He would die here. Gerolt pressed it into his hands anyway and closed his fingers around the grip.
 
-**Why.** Your note: "I see a lot of someone did X, he did Y. Just add meaning to things." This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. He's smart (principle 1): he understands what the sword means before Gerolt says a word. (Round 3, the author: "Add meaning that taking the sword also meant Alaric had seen Gerolt fighting with it, and taking it not only meant that Gerolt was not coming, it meant that Gerolt's fate was sealed, he wasn't going to be able to fight." Alaric doesn't know what Gerolt's fire can do. He has only seen a candle's worth, so to him Gerolt is left with his bare hands, and the hand of fire that follows surprises him.)
+**Why.** Your note: "I see a lot of someone did X, he did Y. Just add meaning to things." This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. He's smart (principle 1): he understands what the sword means before Gerolt says a word. (Round 3, the author: "Add meaning that taking the sword also meant Alaric had seen Gerolt fighting with it, and taking it not only meant that Gerolt was not coming, it meant that Gerolt's fate was sealed, he wasn't going to be able to fight." Alaric doesn't know what Gerolt's fire can do. He has only seen a candle's worth, so to him Gerolt is left with his bare hands, and the hand of fire that follows surprises him.) (Final pass: "pushed himself up" is two lines before.)
 
 **Your decision.** Your idea; the words are mine.
 
@@ -618,9 +621,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **New**
 
-> Alaric waited for the fire to come back. It had kept burning through both arrows, and now it was out, and Gerolt's hand hung open at his side.
+> Alaric waited for the fire to come back. It had kept burning through both arrows. Now it was gone, and Gerolt's hand hung open at his side.
 
-**Why.** Your note: "I see a lot of someone did X, he did Y. Just add meaning to things." This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. It's the one line of his between Gerolt dying and the man turning, and it's hope, not an announcement. (Round 3, the author: "what is it, give meaning to it". "It" is now "the fire", and it carries what the fire meant: it burned through both arrows, and now it's out.)
+**Why.** Your note: "I see a lot of someone did X, he did Y. Just add meaning to things." This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. It's the one line of his between Gerolt dying and the man turning, and it's hope, not an announcement. (Round 3, the author: "what is it, give meaning to it". "It" is now "the fire", and it carries what the fire meant: it burned through both arrows, and now it's out.) (Final pass: "went out" is the line before.)
 
 **Your decision.** Reworked after "what is it, give meaning to it".
 
@@ -718,9 +721,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> The sword lay beside him. Gerolt got its point into the ground again, and the boy got under his arm, and between them they got him standing. It took everything the boy had. It took everything Gerolt had too; the boy could feel it in the arm across his shoulders, shaking without stopping.
+> The sword lay within reach of Gerolt's hand. He set its point in the ground again, the boy ducked under his arm, and between them they got him standing. It took everything the boy had. It took everything Gerolt had too; the boy could feel it in the arm across his shoulders, shaking without stopping.
 
-**Why.** The author asked "what is bracken?" (a tall wild fern that grows at the edges of woods), then "I don't like 'ferns'". So the plant is gone. It was only there to say where they landed.
+**Why.** The author asked "what is bracken?" (a tall wild fern that grows at the edges of woods), then "I don't like 'ferns'". So the plant is gone. It was only there to say where they landed. (Final pass: "beside him" could have meant either of them, and the sentence had "got" three times.)
 
 **Your decision.** After "what is bracken?" and "I don't like 'ferns'".
 
@@ -765,3 +768,75 @@ Each of these needs a yes or no from you. It adds something about a character or
 **Why.** The author, on call 2 of the redraft: "'He put his hand flat on the doorpost.' Just make it the wall next to where the door was." The fire now runs up the wall (folded into change 5).
 
 **Your decision.** Your note.
+
+#### 41. The hilt
+
+*Draft line 193 → revised line 193*
+
+**Before**
+
+> The boy brought it over. It was heavier than it looked, and the grip was slick. Gerolt set its point against the floor and closed both hands over the pommel.
+
+**After**
+
+> The boy brought it over. It was heavier than it looked, and the grip was slick. Gerolt set its point against the floor and closed both hands over the hilt.
+
+**Why.** A craft fix from the final pass. "Pommel" is a word many readers won't know (the author's rule after "bracken").
+
+#### 42. Out over the dead elf
+
+*Draft line 207 → revised line 207*
+
+**Before**
+
+> They went out through the doorway one step at a time, over the dead elf. Wena came after them, pressed so close to the boy's leg that he nearly fell over her.
+
+**After**
+
+> They went out over the dead elf, a step at a time. Wena came after them, pressed so close to the boy's leg that he nearly fell over her.
+
+**Why.** A craft fix from the final pass. The next paragraph starts "beside the empty doorway" (change 40), and the dead elf lies across the threshold, so "through the doorway" wasn't needed.
+
+#### 43. Mounting the horse
+
+*Draft line 225 → revised line 225*
+
+**Before**
+
+> Getting him onto it was worse than getting him up. Gerolt laid the sword across the saddle, got a foot in the stirrup and both hands on it, and the boy put his shoulder under him and pushed. All of Gerolt's weight came down on him at once, and his knees started to go. Behind them the fire grew louder, and the horse sidled, and Gerolt cursed it under his breath. Then he dragged himself over and lay along its neck with his eyes shut.
+
+**After**
+
+> Getting him onto it was worse than getting him up. Gerolt laid the sword across the horse's back, got a foot in the stirrup and both hands on the saddle, and the boy put his shoulder under him and pushed. All of Gerolt's weight came down on him at once, and his knees started to go. Behind them the fire grew louder, and the horse stamped, and Gerolt cursed it under his breath. Then he dragged himself over and lay along its neck with his eyes shut.
+
+**Why.** A craft fix from the final pass. "Both hands on it" could have meant the sword. "Sidled" became "stamped", a common word.
+
+#### 44. The reins
+
+*Draft line 231 → revised line 231*
+
+**Before**
+
+> Gerolt pushed the reins into his hands. "Don't haul on them."
+
+**After**
+
+> Gerolt put the reins in his hands. "Don't haul on them."
+
+**Why.** A craft fix from the final pass. "Pushed" was used six times in the chapter.
+
+### The forest and the river (draft lines 269–405)
+
+#### 45. Into the trees
+
+*Draft line 285 → revised line 285*
+
+**Before**
+
+> They went into the trees like that, one step and then another.
+
+**After**
+
+> They went into the trees like that.
+
+**Why.** A craft fix from the final pass. "One step at a time" is used when they leave the cabin; the reader already knows how slow it is.
