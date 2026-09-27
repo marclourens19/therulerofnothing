@@ -6,12 +6,12 @@ Started 27 September 2026. This is the change list for the redesigned Chapter 2.
 
 **Round 2 (27 September): meaning, and his eyes.** The author: "I see a lot of someone did X, he did Y. Just add meaning to things." Their line for Alaric after Gerolt dies, "The man was at him before he noticed", and "spattered the ground" are taken as given. The same note is applied at eight more moments that matter to Alaric, and each of those waits on your yes or no. The fights stay fast.
 
-**Round 3 (27 September): the author's answers on round 2.** Accepted: "Nobody was coming", the laugh, and "away from Gerolt". Reworked as asked: the sword ("his fate was sealed"), his feet stopping ("down there is weird"), the fire going out ("what is it, give meaning to it"), and the house, toned down ("too melodramatic"). "Bracken" is now "ferns" throughout.
+**Round 3 (27 September): the author's answers on round 2.** Accepted: "Nobody was coming", the laugh, and "away from Gerolt". Reworked as asked: the sword ("his fate was sealed"), his feet stopping ("down there is weird"), the fire going out ("what is it, give meaning to it"), and the house, toned down ("too melodramatic"). "Bracken" is gone, and so is "ferns", which the author didn't like either.
 
 ## At a glance
 
 - **39 changes proposed.** 0 rejected so far, so 39 are in the chapter: 32 rewritten, 5 cut and 2 added.
-- **Length:** 4,684 words before, 4,766 after.
+- **Length:** 4,684 words before, 4,761 after.
 - **Median paragraph:** 14 words before, 15 after. The house target is roughly 14–22.
 - **"Nothing":** 2 times before, 2 after.
 - **"The dark":** as a place, 8 times before and 0 after. "Dark" in all: 19 before, 5 after (changes 1, 2, 3, 4, 5, 7, 8, 10, 13, 18, 19, 20, 24). The five left are all from Version 1: the grip, the cloth, the elves' armour twice, and the blood he coughs up.
@@ -23,7 +23,6 @@ Started 27 September 2026. This is the change list for the redesigned Chapter 2.
 Each of these needs a yes or no from you. It adds something about a character or the world that you haven't decided, or it's a change you didn't ask for.
 
 - **Change 25, The house he woke up in.** Toned down after "I think kind of, it feels too melodramatic": is this right?
-- **Change 26, After the fall.** Add "and he wasn't moving"? (You asked what bracken is, so I've changed it to "ferns", but this one still needs your yes or no.)
 
 **Already decided**
 
@@ -51,6 +50,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 22, The man turns:** "I agree with all the cuts."
 - **Change 23, Wena:** Your note. The words are mine; tell me if the pause should read differently.
 - **Change 24, The last line:** By your instruction to "cut down on" the dark.
+- **Change 26, After the fall:** "Keep 'he wasn't moving'", with "ferns" removed.
 - **Change 27, By the river:** "Yes."
 - **Change 28, Why he laughs:** "I agree."
 - **Change 29, Taking the sword:** Your idea; the words are mine.
@@ -60,9 +60,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 33, The man reaches him:** Your note.
 - **Change 34, Alaric can't get up:** Your line. Say if you want "in this moment" back.
 - **Change 35, Dragged away:** "Yes."
-- **Change 37, Ferns, not bracken (the fall):** After "what is bracken?".
-- **Change 38, Ferns, not bracken (the sword):** After "what is bracken?".
-- **Change 39, Ferns, not bracken (getting up):** After "what is bracken?".
+- **Change 37, Bracken removed (the fall):** After "what is bracken?" and "I don't like 'ferns'".
+- **Change 38, Bracken removed (the sword):** After "what is bracken?" and "I don't like 'ferns'".
+- **Change 39, Bracken removed (getting up):** After "what is bracken?" and "I don't like 'ferns'".
 
 ## What each note became
 
@@ -75,7 +75,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 7. **"Just add meaning to things."** Your line for Alaric after Gerolt dies, word for word apart from the punctuation. Eight more moments where he now feels or understands something in plain words: the house he woke up in, Gerolt not moving after the fall, "Nobody was coming", why he laughs, what taking the sword means, why his feet stop, waiting for the fire to come back, and being dragged "away from Gerolt". These are changes 25, 26, 27, 28, 29, 30, 32, 35.
 8. **"The man was at him before he noticed."** The narration follows where Alaric is looking: change 33.
 9. **"Spattered the ground."** Change 31.
-10. **Round 3.** Your answers on round 2 are in each change's decision. "Bracken" is now "ferns": changes 37, 38, 39 and 26.
+10. **Round 3.** Your answers on round 2 are in each change's decision. "Bracken" is gone, and "ferns" with it: changes 37, 38, 39 and 26.
 
 ## The changes
 
@@ -511,11 +511,11 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> Gerolt lay a few paces off in the ferns, and he wasn't moving. The boy crawled to him on his hands and knees.
+> Gerolt lay a few paces off, and he wasn't moving. The boy crawled to him on his hands and knees.
 
-**Why.** Your note: "I see a lot of someone did X, he did Y. Just add meaning to things." This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. Four words give him, and the reader, a moment of thinking Gerolt is dead before he swears. (Round 3: "bracken" became "ferns". The author asked "what is bracken?", so readers may not know it either.)
+**Why.** Your note: "I see a lot of someone did X, he did Y. Just add meaning to things." This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. Four words give him, and the reader, a moment of thinking Gerolt is dead before he swears. (Round 3: "bracken" became "ferns". The author asked "what is bracken?", so readers may not know it either.) (Round 3, second answer: "I don't like 'ferns'", so it's gone. Where they landed doesn't need a plant.)
 
-**Your call.** Add "and he wasn't moving"? (You asked what bracken is, so I've changed it to "ferns", but this one still needs your yes or no.)
+**Your decision.** "Keep 'he wasn't moving'", with "ferns" removed.
 
 ### The forest and the river (draft lines 269–405)
 
@@ -685,7 +685,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 ### The ride (draft lines 241–267)
 
-#### 37. Ferns, not bracken (the fall)
+#### 37. Bracken removed (the fall)
 
 *Draft line 271 → revised line 273*
 
@@ -695,15 +695,15 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> He landed on his back in the ferns, and all the air went out of him. For a while he could only lie there with his mouth open, trying to get it back.
+> He landed on his back, and all the air went out of him. For a while he could only lie there with his mouth open, trying to get it back.
 
-**Why.** The author asked "what is bracken?" It's a tall wild fern that grows at the edges of woods. If the author doesn't know the word, many readers won't either, so it's "ferns".
+**Why.** The author asked "what is bracken?" (a tall wild fern that grows at the edges of woods), then "I don't like 'ferns'". So the plant is gone. It was only there to say where they landed.
 
-**Your decision.** After "what is bracken?".
+**Your decision.** After "what is bracken?" and "I don't like 'ferns'".
 
 ### The forest and the river (draft lines 269–405)
 
-#### 38. Ferns, not bracken (the sword)
+#### 38. Bracken removed (the sword)
 
 *Draft line 283 → revised line 285*
 
@@ -713,13 +713,13 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> The sword lay in the ferns beside him. Gerolt got its point into the ground again, and the boy got under his arm, and between them they got him standing. It took everything the boy had. It took everything Gerolt had too; the boy could feel it in the arm across his shoulders, shaking without stopping.
+> The sword lay on the ground beside him. Gerolt got its point into the ground again, and the boy got under his arm, and between them they got him standing. It took everything the boy had. It took everything Gerolt had too; the boy could feel it in the arm across his shoulders, shaking without stopping.
 
-**Why.** The author asked "what is bracken?" It's a tall wild fern that grows at the edges of woods. If the author doesn't know the word, many readers won't either, so it's "ferns".
+**Why.** The author asked "what is bracken?" (a tall wild fern that grows at the edges of woods), then "I don't like 'ferns'". So the plant is gone. It was only there to say where they landed.
 
-**Your decision.** After "what is bracken?".
+**Your decision.** After "what is bracken?" and "I don't like 'ferns'".
 
-#### 39. Ferns, not bracken (getting up)
+#### 39. Bracken removed (getting up)
 
 *Draft line 391 → revised line 389*
 
@@ -729,8 +729,8 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> It was harder than before. Alaric's head was still ringing, and his arms were shaking before he'd even started, and Gerolt's weight kept trying to fold him over. But Gerolt was pushing too, harder than he had at the cabin or in the ferns, and between the two of them he came up off the roots and stayed up.
+> It was harder than before. Alaric's head was still ringing, and his arms were shaking before he'd even started, and Gerolt's weight kept trying to fold him over. But Gerolt was pushing too, harder than he had at the cabin or where the horse fell, and between the two of them he came up off the roots and stayed up.
 
-**Why.** The author asked "what is bracken?" It's a tall wild fern that grows at the edges of woods. If the author doesn't know the word, many readers won't either, so it's "ferns".
+**Why.** The author asked "what is bracken?" (a tall wild fern that grows at the edges of woods), then "I don't like 'ferns'". So the plant is gone. It was only there to say where they landed.
 
-**Your decision.** After "what is bracken?".
+**Your decision.** After "what is bracken?" and "I don't like 'ferns'".

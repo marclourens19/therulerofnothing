@@ -270,11 +270,11 @@ Gerolt's head had dropped forward. The boy's sleeve was wet through where his ar
 
 The trees were close now. The boy could see the moonlight on the first trunks when something hissed past his ear, and then another. The horse screamed. Its stride broke, and the ground came up to meet him.
 
-He landed on his back in the ferns, and all the air went out of him. For a while he could only lie there with his mouth open, trying to get it back.
+He landed on his back, and all the air went out of him. For a while he could only lie there with his mouth open, trying to get it back.
 
 The horse was on its side at the edge of the trees, kicking. An arrow stood out of its neck.
 
-Gerolt lay a few paces off in the ferns, and he wasn't moving. The boy crawled to him on his hands and knees.
+Gerolt lay a few paces off, and he wasn't moving. The boy crawled to him on his hands and knees.
 
 "Gerolt—"
 
@@ -282,7 +282,7 @@ Gerolt swore, softly and at length.
 
 Out in the wheat, the torches were close enough now that the boy could hear the horses under them.
 
-The sword lay in the ferns beside him. Gerolt got its point into the ground again, and the boy got under his arm, and between them they got him standing. It took everything the boy had. It took everything Gerolt had too; the boy could feel it in the arm across his shoulders, shaking without stopping.
+The sword lay on the ground beside him. Gerolt got its point into the ground again, and the boy got under his arm, and between them they got him standing. It took everything the boy had. It took everything Gerolt had too; the boy could feel it in the arm across his shoulders, shaking without stopping.
 
 They went into the trees like that, one step and then another.
 
@@ -386,7 +386,7 @@ Gerolt put out his hand.
 
 "Help me up, Alaric."
 
-It was harder than before. Alaric's head was still ringing, and his arms were shaking before he'd even started, and Gerolt's weight kept trying to fold him over. But Gerolt was pushing too, harder than he had at the cabin or in the ferns, and between the two of them he came up off the roots and stayed up.
+It was harder than before. Alaric's head was still ringing, and his arms were shaking before he'd even started, and Gerolt's weight kept trying to fold him over. But Gerolt was pushing too, harder than he had at the cabin or where the horse fell, and between the two of them he came up off the roots and stayed up.
 
 Further down, Alaric heard water. It was only a murmur at first, somewhere below them, and then it was louder, running over stones.
 
