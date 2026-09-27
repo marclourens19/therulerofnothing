@@ -462,7 +462,7 @@ His knees went. He was down in the leaves with the sword across his lap and Wena
 
 "Don't you dare leave me with *nothing* again!"
 
-The rider was halfway up the slope when a blade came around from behind and took him across the back of the neck, and he went off the side of his horse without a sound. The man who had swung it didn't stop. He ran on past the falling body and was on the next rider before the elf could turn, and he cut the horse's legs out from under it, then the rider as he fell. The last one had an arrow on the string. It missed the man's head, and the man's blade came down before the elf could draw another.
+The rider was halfway up the slope when a blade came around from behind and took him across the back of the neck, and he went off the side of his horse without a sound. The man who had swung it didn't stop. He ran on past the falling body and was on the next rider before the elf could turn, and he cut the horse's legs out from under it, then the rider as he fell. The last one had an arrow on the string. It missed his head, and his blade came down before the elf could draw another.
 
 Then there was only the burning, and the horses, and the river.
 

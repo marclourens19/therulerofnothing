@@ -12,7 +12,7 @@ The man drove them along the slope above the river, through brambles and roots a
 
 *He's dead. He's dead, he's—*
 
-A root caught his foot. He went down on one hand and was up again before he'd finished falling, because the man's fist was already in the back of his shirt.
+A root caught his foot. He went down on one hand and was up again before he'd finished falling, because a fist was already in the back of his shirt.
 
 *I shouted. She heard me, and she brought them, and they—*
 
@@ -32,11 +32,11 @@ The man came back for him. He took Alaric by the front of his shirt and pulled h
 
 Alaric stared at him.
 
-"You want to die? Fine. Stay here and let them have you." The man let go. "Then Gerolt died for nothing."
+"You want to die? Fine. Stay here and let them have you." He let go. "Then Gerolt died for nothing."
 
 He knew Gerolt's name.
 
-Alaric didn't know how, and there was no time to ask. The man went on, and Alaric's feet went after him.
+Alaric didn't know how, and there was no time to ask. He went on, and Alaric's feet went after him.
 
 *If I stop, then he—so don't, idiot. Move.*
 
@@ -44,7 +44,7 @@ The slope brought them down towards the water, and through the trees ahead Alari
 
 A small fire burned at the near end of a bridge, and four men in helmets stood round it with their spears, talking among themselves. A rider sat his horse in the middle of them, speaking down to them, with the firelight on his pale hair and the point of one ear, and one of the guards kept nodding up at him.
 
-The man pulled Alaric down behind a tree by his collar.
+A hand pulled Alaric down behind a tree by his collar.
 
 "Kelmend's guards," he said under his breath, and spat.
 
@@ -62,7 +62,7 @@ Wena stopped at the edge and wouldn't go on. She turned back up the slope instea
 
 Alaric caught her. He got two fistfuls of the fur at her neck and pulled. She dragged him a step up the bank before he set his feet and hauled her back, and she twisted in his hands and whined and pulled again, harder, towards Gerolt.
 
-"Leave the dog." The man was in the water to his knees. "We'll never get across hauling a mutt that wants to go back to a dead man."
+"Leave the dog." He was in the water to his knees. "We'll never get across hauling a mutt that wants to go back to a dead man."
 
 Alaric dropped the sword.
 
@@ -80,11 +80,11 @@ A voice was swearing right beside his ear, over the roar of the water. It swore 
 
 The rest came out as a snarl, and the river took it.
 
-The man had one arm hooked over the fallen tree and the other hand in Alaric's collar. He dragged them in along the trunk, hand over hand, still swearing, until Alaric's knees hit stones and all three of them were crawling out onto the far bank, coughing up the river.
+He had one arm hooked over the fallen tree and the other hand in Alaric's collar. He dragged them in along the trunk, hand over hand, still swearing, until Alaric's knees hit stones and all three of them were crawling out onto the far bank, coughing up the river.
 
 Wena scrambled out of his arms and shook herself. Then she stood with her legs braced, staring back across the water at the glow above the trees.
 
-The man knelt in the shallows, getting his breath. He had run out of things to swear at. He pulled Gerolt's sword out of his belt and gave it back to Alaric, and didn't let go of it straight away.
+The stranger knelt in the shallows, getting his breath. He had run out of things to swear at. He pulled Gerolt's sword out of his belt and gave it back to Alaric, and didn't let go of it straight away.
 
 Wena's head came round, and her hackles went up.
 
@@ -92,11 +92,11 @@ Alaric heard it a heartbeat after she did: a horse on this side of the river, co
 
 The man got up. He didn't run. He drew his heavy blade and put himself between them and the sound, and waited.
 
-The rider broke out of the trees at a gallop, low over the horse's neck. The man stepped aside at the last moment and swung low, and the horse's forelegs went out from under it. It went down screaming. The rider went over its head and hit the ground hard, and lay on his back with his mouth opening and closing, trying to find his breath.
+The rider broke out of the trees at a gallop, low over the horse's neck, straight at him. He stepped aside at the last moment and swung low, and the horse's forelegs went out from under it. It went down screaming. The rider went over its head and hit the ground hard, and lay on his back with his mouth opening and closing, trying to find his breath.
 
 The man walked to him.
 
-He didn't hurry. The elf got an elbow under himself and saw him coming, and his free hand came up, open, fingers spread. The man stood on his wrist, put the blade into his chest through the armour, and leaned on it.
+He didn't hurry. The elf got an elbow under himself and saw him coming, and his free hand came up, open, fingers spread. He stood on the elf's wrist, put the blade into his chest through the armour, and leaned on it.
 
 The elf screamed.
 
@@ -106,13 +106,13 @@ Alaric thought of Gerolt's arm, burning white to the elbow, and looked away.
 
 *He could have done that for Gerolt.*
 
-When he looked back, the man had let go of the hilt and was shaking his hand out, hissing through his teeth. He wrapped the corner of his cloak round the hilt before he pulled the blade free. The horse was still screaming. He went to it and ended that too, with one quick cut, and wiped the blade on the dead elf's cloak.
+When he looked back, the stranger had let go of the hilt and was shaking his hand out, hissing through his teeth. He wrapped the corner of his cloak round the hilt before he pulled the blade free. The horse was still screaming. He went to it and ended that too, with one quick cut, and wiped the blade on the dead elf's cloak.
 
 "Come on."
 
-The cave was behind a stand of bush so thick that Alaric would have walked straight past it. The man found a place where the branches gave, pulled them aside and ducked through, and Alaric went after him with Wena pressed against his legs.
+He led them to a stand of bush so thick that Alaric would have walked straight past it, found a place where the branches gave and pulled them aside, and ducked through. Alaric went after him with Wena pressed against his legs.
 
-It was small, dirty and ugly. The roof was low enough that Alaric had to stoop, and the walls were bare earth and rock, black with old smoke at the back. It smelled of damp and ash and the man. There was a bedroll, a blackened pot, a water skin, a sack, and a pile of sticks beside a ring of stones. That was all.
+The cave behind it was small, dirty and ugly. The roof was low enough that Alaric had to stoop, and the walls were bare earth and rock, black with old smoke at the back. It smelled of damp, ash and old sweat. There was a bedroll, a blackened pot, a water skin, a sack, and a pile of sticks beside a ring of stones. That was all.
 
 The man knelt at the stones and put his hand among the sticks, and they caught.
 
@@ -120,7 +120,7 @@ Alaric stood by the entrance with the sword in his hand and the river running ou
 
 "You killed three of them before they could turn round."
 
-It came out too loud for the cave. The man didn't look up from the fire.
+It came out too loud for the cave, and he didn't even look up from the fire.
 
 "You could have fought. You could have *saved* him!"
 
@@ -130,7 +130,7 @@ The man looked up at him then.
 
 Alaric had no answer to that. He had been telling himself the same thing all night.
 
-His knees went, and he sat down hard on the dirt floor with the sword across them. Wena lay down against his side, wet and shivering. The fire cracked, and the man fed it another stick.
+His knees went, and he sat down hard on the dirt floor with the sword across them. Wena lay down against his side, wet and shivering. The fire cracked.
 
 "So…" It was a stupid thing to ask. Alaric asked it anyway. "What's your name?"
 
