@@ -309,6 +309,14 @@ The plan is built in `Volume 1/Chapter 3 - Design.md`.
   - Lengths: Chapter 1 is 6,284 words, Chapter 2 4,723, Chapter 3 1,990.
 - **Round 6 (27 September).** Two of Alaric's thoughts are joined into single lines. "*If I stop, then he—so don't, idiot. Move.*" uses Silas's own "move". "*They've already killed him—what more do they want? Why are they still chasing me?*" stays a question, so it claims nothing he couldn't know. Chapter 3 is now 1,995 words.
 - **"The man is said too much" (27 September).** In Chapter 3 it was said 22 times before Silas gives his name, and now 8, plus "the stranger" twice. The rest became "he" where only he can be meant, "a fist" or "a hand" where that's all Alaric feels, or were cut. The end of Chapter 2 lost a sentence that said it twice.
+- **An outside review (27 September).** The author pasted a five-point review of Chapter 3. Nothing in the text changes. Two notes carry forward to later chapters (Claude's reading; the author moved straight on to Chapter 4):
+  - **Pay a small answer on Silas, Gerolt and Marta soon,** most naturally when Marta sees Silas at her door. "Marta." said to the blade is a strong tell, and readers will be waiting.
+  - **Next time Silas is on the page, he shouldn't win cleanly.** He has now shown he's capable three times running. His flaws are decided ("acts instead of thinking", "reckless in the big choices"), and Marta can shake him.
+  - Answered against the review: "Then Gerolt died for nothing" stays, because Gerolt's death is decided and Chapter 2 already says it. "Stop drowning in self-pity" stays, because it's the author's line, meant to be harsh, and Alaric's "*Move*" echoes it.
+
+## Chapter 4
+
+The plan is built in `Volume 1/Chapter 4 - Design.md`. Round 1 was asked on 27 September.
 
 ## Alaric
 
