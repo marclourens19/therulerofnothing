@@ -31,7 +31,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Already decided**
 
-- **Change 1, The bridge, and the guards:** Your notes, rounds 1 and 2.
+- **Change 1, The bridge, and the guards:** Your notes, rounds 1 and 2. The round 6 wording of the thought is accepted ("yes, merge").
 - **Change 2, A fallen tree, not the bridge:** Follows your bridge note.
 - **Change 3, Along the trunk:** Follows your bridge note.
 - **Change 4, Silas gives the sword back:** "Add a glimpse of Silas's grief."
@@ -101,7 +101,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Why.** The author: "The bridge shouldn't be broken. Guards from Kelmend watch it, but an elf rider is already there speaking to the guards." So Alaric *sees* Mydea standing with Natharul before Silas says it in the cave ("Them whoreson guards would sell their own mothers to Natharul"). Also the author: "'It's me. They're coming for me.' How does he know they are coming for him?" He can't, so that thought and the look down at himself that led to it are gone. His question stays: *"They've already killed him. Why are they still coming?"* (Round 2, the author: "No hut, no lantern. They are standing around a small fire chatting, and a rider is amongst them speaking. Make the sentences combine so they don't sound robotic.") (Round 6, the author: make it one line, like "They already killed him, what more could they be looking for, why are they still chasing me!?". Claude's wording joins it with a dash, keeps it a question (so it claims nothing he couldn't know), and leaves out the "!?".)
 
-**Your decision.** Your notes, rounds 1 and 2.
+**Your decision.** Your notes, rounds 1 and 2. The round 6 wording of the thought is accepted ("yes, merge").
 
 ### The river
 
