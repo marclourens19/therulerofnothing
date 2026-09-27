@@ -1,6 +1,6 @@
 # Chapter 4: Design
 
-Started 27 September 2026. **Status:** rounds 1 and 2 answered, round 3 and the lines asked. This is the plan for Chapters 4 and 5, Seralune's first two chapters, agreed one question at a time before any writing, following the `chapter-rewrite` skill.
+Started 27 September 2026. **Status:** rounds 1–3 answered. The lines are drafted, waiting on the author, with two questions (round 4). This is the plan for Chapters 4 and 5, Seralune's first two chapters, agreed one question at a time before any writing, following the `chapter-rewrite` skill.
 
 ## Where the story stands
 
@@ -286,3 +286,101 @@ Each piece she puts together comes from something she sees or hears, and none of
    3. Her thought when she sees the tree: your rough version is "it was that big yesterday".
    4. Her snap at Nereth, and Nereth's cover to the guards.
    5. The end of her talk with Thaer in her room, before the lock. Does she say "I trust you", or something else?
+
+**Answers (27 September).**
+- **Her mana** (the knock-on question): "Yes, her mana acts on its own."
+- **"Ask me":** "Should be like 'I'm standing right here, you know, just ask me.' Something like this."
+1. **Chapter 5's order:** "Yes, it holds."
+2. **Through the door:** "The king took the royal battleship in the sky; a rider can't catch up. He [Leorin] just says the king must be told at once, take her into custody and prepare the seal. Thaer gets a bit angry here, saying no one touches my sister until I say so, something like this."
+3. **The palace:** "There is a city inside the forest, like Oriflamme. I agree with the falls."
+4. **Cyrandor:** "I think he bows and smiles a bit, and in her internal monologue it's like: I've never seen this person before, and he is the first person who smiled at me, when everyone so far looks worried and scared."
+5. **Her sorry:** "Yes."
+6. **The lines.**
+   1. *Am I dead?* The author pasted Alisaie's lines from FFXIV, on saving Ga Bu, as the model for her thinking.
+   2. Thaer's orders: "He wants to get her away from prying eyes, and in a place he thinks is safe, so he can do other things."
+   3. The tree: "Help me craft it with the Alisaie dialogue above."
+   4. The snap at Nereth: skipped, so drafted below for the author to react to.
+   5. The end of her talk with Thaer: "No, she is angry with him, how Alisaie fights with Alphinaud."
+
+### The lines (drafted 27 September)
+
+What I took from the Alisaie lines: she reasons her way forward out loud, she's sure of her conclusions ("I am convinced"), and she turns straight to the next practical step ("And so, before attempting anything, we should learn all we possibly can"). The dryness is small ("little and less") and never a joke for its own sake.
+
+1. ***Am I dead?*** (Chapter 4). Your version: "thinking if she is dead, how did she end up here, what is happening."
+   > *Am I dead?*
+   >
+   > *No. Don't be ridiculous. Surely the dead don't get cold, and I'm freezing.*
+   >
+   > *So I'm alive, and lying on a stone floor I don't know, somewhere so black I can't see my own hand. Very well. Before I do anything else, I need to find out where I am.*
+
+   And the same voice later, at *How did I get here?*:
+   > *The council bell rang, and Mother sent the pears back to the kitchens again, and Thaer leaned in my doorway and promised he'd be back before evening. And then… what? I must have done something after he left. I must have gone somewhere. So why can't I remember going anywhere at all?*
+2. **Thaer's orders** (Chapter 5). Your version: "Enough of the questions, come, follow me, do this, do that."
+   - In the chamber, when she asks where she is:
+     > "Not here." His eyes went past her to the broken doorway. "No more questions, Seralune. Not here."
+   - When the court arrives:
+     > "Come with me. Stay close, and don't speak to anyone until we're upstairs."
+   - In her room:
+     > "Eat something, and rest. I'll come back when I can."
+   - **Your call, new:** one thought of hers, the first time he orders her: *He gives everyone orders. He's never once given them to me.* Thaer commands everyone else, and asks her. In the old version that was his tenderness. Now he's stopped asking, and she notices.
+3. **"Ask me"** (Chapter 5). Your version: "I'm standing right here, you know, just ask me."
+   > "I'm standing right here, you know. You can just ask me."
+
+   It's your line with one word changed. "You can just" is a little sharper, which suits Alisaie with a stranger.
+4. **The tree** (Chapter 5). Your version: "it was that big yesterday", and she's shocked.
+   > *That tree hasn't grown a hand's width in my whole life, and yesterday it was half that size.*
+   >
+   > *How long was I down there?*
+
+   "Half that size" is my number; change it freely. She works it out the way Alisaie would, from what she knows, and the narrator never says "a long time".
+5. **Through the door** (Chapter 5). Your version: the king has taken the royal battleship; the king must be told at once; take her into custody and prepare the seal; "no one touches my sister until I say so".
+   > "Your father is halfway to Mydea on the royal ship," Leorin said. "He must be told at once. Until he's back, she's to be taken into custody, and the seal prepared."
+   >
+   > "No one touches my sister." Thaer didn't raise his voice. "Not until I say so."
+
+   See round 4, question 1, on the word "seal".
+6. **The snap at Nereth, and Nereth's cover** (Chapter 5). Skipped, so here's a draft to react to.
+   > Another blow came up through the floor.
+   >
+   > "What are they doing down there?"
+   >
+   > "I couldn't say, Your Highness."
+   >
+   > "You couldn't say. Of course you couldn't." Seralune got up. "Nobody in this whole palace can say anything, can they? Not my brother, not Leorin, and not you. Were you told to stand there and call me 'Your Highness' until I stop asking?"
+   >
+   > The door banged open, and two guards came in with their swords out.
+   >
+   > Nereth was between them and Seralune before Seralune had seen her move. "Her Highness is tired," she said, in the same even voice she'd used all evening, with the swords a step from her. "She needs to rest. That's all."
+   >
+   > The guards looked past her at Seralune. Then they backed out, the door shut, and the lock turned.
+   >
+   > "I'm sorry," Seralune said to Nereth's back. "I shouldn't have shouted at you. None of this is your doing."
+   >
+   > Nereth turned round. For a moment she didn't seem to know what to do with her hands. "…Your Highness."
+
+   "Were you told to…?" is true in a way Seralune can't know: Cyrandor did tell her something. Nothing on the page points at it.
+7. **The end of her talk with Thaer** (Chapter 5). Your version: she's angry with him, the way Alisaie fights with Alphinaud.
+   > "You've told me to follow you, to eat, to rest and to wait." Seralune was on her feet before she'd decided to stand. "You haven't told me one thing, Thaer. Not one."
+   >
+   > "When you've slept—"
+   >
+   > "Don't. I'm not a child you can send to bed because she's asking too many questions."
+   >
+   > He went to the door. "I'll come back at first light."
+   >
+   > "You said that yesterday." It came out harder than she meant it to. "You said you'd be back before evening."
+   >
+   > His hand stopped on the door. Then he opened it and went out, and the lock turned.
+
+   To her, his promise was yesterday. The reader knows it wasn't. And at first light, two knocks come, spaced exactly like his.
+
+### Round 4 (asked 27 September)
+
+1. **"The seal" through the door.** In round 2 we agreed she doesn't have the word "sealed" by the end of Chapter 5. Your line for Leorin has "prepare the seal". So which is it?
+   - *Recommended:* keep "the seal". Hearing it through a door is exactly putting the pieces together. With the crystal she woke in and the blows under the floor, she can work out what's being prepared, and for whom. Nobody says it to her face, and nobody tells her *why*. That still waits.
+   - *Alternative:* "and the crystal made ready", which keeps the word for Cyrandor.
+2. **Ships in the sky.** Did they exist in her time?
+   - If not, "the royal ship" means nothing to her, and the reader won't know it flies unless someone sees one.
+   - *Recommended:* when she comes up and sees the falls, the forest and the tree, there's a ship in the sky over the city: the one thing on the whole mountain she has no word for. It's another piece of "a long time", and it shows the reader what the king left on.
+   - *Alternative:* they existed in her time, and there's nothing to show.
+3. **The lines above.** Yes, change or cut, by number.

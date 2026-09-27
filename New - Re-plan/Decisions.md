@@ -330,9 +330,19 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - **Chapter 4's order is approved,** with two changes. "I don't like the counting, remove it." And when she goes back through her last day, it's her mother and Thaer only: "not Elowen yet".
   - **The crystal:** yes to Claude's suggestions. It split open around her, and she wakes on the floor among sharp pieces, in a stone room with a door that has no handle on her side. She feels the break: her mana rushing out towards something far away and finding it, then the crack and the white. Afterwards the broken crystal still pulls at her mana.
   - **What she works out** (agreed): many years have passed, and the crystal was made for her. Nobody says "sealed" or "a thousand years". The number and her mother come from Cyrandor in the escape, the first person who answers her instead of giving orders.
-  - **Cyrandor's first sight of her:** "a mix of both" (the old bow, and keeping him off the page). *Claude's reading, to confirm:* she sees one old servant bow the old way, unafraid, and then he's gone, with no name, so the knock still surprises.
+  - **Cyrandor's first sight of her:** "a mix of both" (the old bow, and keeping him off the page). *Settled in round 3:* he bows and smiles, and there's no special old bow.
   - **Seralune snaps at Nereth, and her mana doesn't flare** (the author): "Seralune is getting angry at no one telling her anything and snaps at Nereth. The guards charge in thinking something bad is going to happen, but Nereth steps between them, saying she is just tired and needs to rest", because of Cyrandor's order.
   - **The blows under the floor** all night are the crystal being repaired.
+- **Round 3 (27 September).**
+  - **Chapter 5's order holds** ("Yes, it holds"). See `Volume 1/Chapter 4 - Design.md`.
+  - **"Ask me":** the author's version is "I'm standing right here, you know, just ask me", "something like this".
+  - **Through the door.** "The king took the royal battleship in the sky; a rider can't catch up." Leorin "just says the king must be told at once, take her into custody and prepare the seal". Thaer gets angry: "no one touches my sister until I say so", "something like this".
+  - **Why Thaer gives orders:** "He wants to get her away from prying eyes, and in a place he thinks is safe, so he can do other things."
+  - **The city** is inside the forest, "like Oriflamme" (FFXVI). The sound of the falls is the first thing she knows when she comes up.
+  - **Cyrandor bows and smiles a little.** In her head: she has never seen him before, and he is the first person who has smiled at her, when everyone so far looks worried and scared.
+  - **Her sorry to Nereth,** once the guards have gone: yes.
+  - **Her thinking is Alisaie's.** The author pasted Alisaie's lines from FFXIV (on saving Ga Bu) as the model for her inner voice: she reasons her way forward, is sure of her conclusions, and turns straight to the next practical step.
+  - **The end of her talk with Thaer:** she doesn't say "I trust you". "No, she is angry with him, how Alisaie fights with Alphinaud."
 
 ## Alaric
 
@@ -362,6 +372,7 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 - **Volume 1 breaks her into something dangerous.**
 - **Her mana.** She knows she has mana, and a lot of it. Everyone believes it's simply a very large pool: no one has been able to find its end. In truth it has none.
 - **A rule: her mana can't be used** (27 September). "Her mana isn't usable at all, nor should she think it is. It is only usable through Alaric. Her mana just exists within her." So she never tries to shape it, and never expects to.
+- **But it acts on its own** (27 September): "Yes, her mana acts on its own." That's how it went searching for Alaric, and how her feelings make Nereth's corruption flare.
 - **Her last choice in Volume 1.** She accepts responsibility for who she was, even though that isn't her true self and she didn't actually do those things. Her internal war: "I need to atone for all these deaths. But was it me? Why must I? But I should."
 - **Where Volume 1 leaves her:** she and Nereth are held by the Holy bearer. The church keeps her alive as leverage over Natharul.
 
@@ -393,7 +404,7 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 - **Everything from the old version survives,** and he stays exactly as written. His entry in `Old - Before Re-plan/World Bible/The World.md` ("Thaeroval — Seralune's Elder Brother / First Blade / Dark Bearer") is the reference.
 - **What he wants in Volume 1:** his sister safe in his "chains". He believes he must choose for her the best way to keep her safe, and that is resealing her.
 - **The seal** (27 September): "Thaeroval sealed her in a massive crystalline structure that contained her mana and used it against her to keep her sealed. When Alaric appeared, the mana searched for him and cracked the seal." It's intentional that she wakes because Alaric appeared.
-- **How he answers her** (27 September): he doesn't. "Enough of the questions, come, follow me, do this, do that."
+- **How he answers her** (27 September): he doesn't. "Enough of the questions, come, follow me, do this, do that." Why: "He wants to get her away from prying eyes, and in a place he thinks is safe, so he can do other things."
 - **He spares Alaric.** He's far more interested in reaching his sister than in doing anything to a boy who means nothing compared to her.
 - **When he passes Alaric he feels literally nothing.**
 - **His erosion.** He slowly loses his emotions until he becomes flat, but that happens much later in the series.
@@ -414,6 +425,8 @@ Agreed for Chapters 4–5 (27 September). Who each person is gets decided with t
   - **The palace** is massive, on a hillside, "like a kingdom in FF16 and the elven kingdom of Rivendell in LOTR".
   - **The waterfall** beside it is huge, "bigger than a massive building". It's holy: it represents life to the elves, and they believe it supplies life to the lands of Natharul.
   - **A massive forest** lies below.
+  - **The city** lies inside the forest, "like Oriflamme" (FFXVI).
+  - **The royal battleship** flies. The king took it to Mydea, and no rider can catch it.
   - **The royal tree** stands at the top of the waterfall, and can be seen from the castle. It's just a tree, with no symbols. It's far bigger than it was a thousand years ago, so the sight of it shocks her, because to her it was a smaller tree yesterday.
 
 ## The friends
@@ -582,7 +595,6 @@ Agreed for Chapters 4–5 (27 September). Who each person is gets decided with t
 
 ### Seralune
 
-- **Her mana "just exists" (27 September). Does it ever act without Alaric?** The decisions have Nereth's corruption flaring with Seralune's feelings. *Claude's reading, to confirm later:* her mana never does anything by her will, but it can be acted on, as the crystal did, and as whatever corrupts Nereth may.
 - **What does "tsundere" look like for her?** The design bible warns against "flirtation wearing armour", so her friction with Alaric needs a real source. One candidate from existing decisions: she can't stop helping and takes control to do it, while he won't let anyone help him.
 - **"The best image": in whose eyes?** The court's, the people's, Nereth's?
 - **One question, two verdicts (my reading, to confirm).** The world tells him he's nothing and tells her she's dangerous. By the end of Volume 1 each believes the verdict: he is nothing, she is the problem.
