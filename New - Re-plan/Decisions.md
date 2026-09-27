@@ -307,6 +307,7 @@ The plan is built in `Volume 1/Chapter 3 - Design.md`.
   - Fixes: two "already"s Alaric couldn't know, one in Chapter 1 ("to find Gerolt watching him") and one in Chapter 2 ("He was looking at the horse"). Chapter 3 no longer repeats two phrases from Chapter 2 ("broke out of the trees", "set his feet").
   - Stale notes are resolved here, and in the Volume 1 picture.
   - Lengths: Chapter 1 is 6,284 words, Chapter 2 4,723, Chapter 3 1,990.
+- **Round 6 (27 September).** Two of Alaric's thoughts are joined into single lines. "*If I stop, then he—so don't, idiot. Move.*" uses Silas's own "move". "*They've already killed him—what more do they want? Why are they still chasing me?*" stays a question, so it claims nothing he couldn't know. Chapter 3 is now 1,995 words.
 
 ## Alaric
 
