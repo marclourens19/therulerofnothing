@@ -3,7 +3,7 @@
  "draft": "Chapter 1 - A War Without Sound (Draft 1, before revision).md",
  "chapter": "../Chapter 1 - A War Without Sound.md",
  "changes_file": "../Chapter 1 - Changes.md",
- "intro_md": "Written on 26 September 2026. This is every change made to `Chapter 1 - A War Without Sound.md` since the draft, each with a before, an after and a reason.\n\n- **Revision 1** (changes 1–37) carried out the agreed decisions and craft fixes.\n- **Revision 2** (changes 38–44) trimmed your own lines against principle 5: don't explain the meaning.\n- **Revision 3** (changes 45–49) is the final check: small craft fixes from a last full read.\n- **Revision 4** (changes 50–52) takes the gold at the running figure's cuff out of the vision, at your request.\n- **Revision 5** (changes 53–56, plus edits folded into changes 8, 19, 25 and 28) cuts eight comparisons Alaric couldn't make from what he has lived through.\n- **Revision 6** (changes 57–60, plus an edit folded into change 28) takes out \"the dark\", at your request (27 September).\n- **Revision 7** (change 61) is the final pass of Chapters 1 and 2 read together (27 September).\n\n- The chapter as it was before is saved, unchanged, as `Drafts/Chapter 1 - A War Without Sound (Draft 1, before revision).md`. Any change you reject can go straight back from there.\n- **Draft line** numbers refer to that saved copy. **Revised line** numbers refer to the chapter as it stands now.\n- Nothing was changed that isn't listed here.\n- Changes 6, 19, 20, 25, 27 and 37 were trimmed after your note on over-explaining. Each one shows the trimmed version.",
+ "intro_md": "Written on 26 September 2026. This is every change made to `Chapter 1 - A War Without Sound.md` since the draft, each with a before, an after and a reason.\n\n- **Revision 1** (changes 1–37) carried out the agreed decisions and craft fixes.\n- **Revision 2** (changes 38–44) trimmed your own lines against principle 5: don't explain the meaning.\n- **Revision 3** (changes 45–49) is the final check: small craft fixes from a last full read.\n- **Revision 4** (changes 50–52) takes the gold at the running figure's cuff out of the vision, at your request.\n- **Revision 5** (changes 53–56, plus edits folded into changes 8, 19, 25 and 28) cuts eight comparisons Alaric couldn't make from what he has lived through.\n- **Revision 6** (changes 57–60, plus an edit folded into change 28) takes out \"the dark\", at your request (27 September).\n- **Revision 7** (change 61) is the final pass of Chapters 1 and 2 read together (27 September).\n- **Revision 8** (change 62) is the final pass of Chapters 1–3 (27 September).\n\n- The chapter as it was before is saved, unchanged, as `Drafts/Chapter 1 - A War Without Sound (Draft 1, before revision).md`. Any change you reject can go straight back from there.\n- **Draft line** numbers refer to that saved copy. **Revised line** numbers refer to the chapter as it stands now.\n- Nothing was changed that isn't listed here.\n- Changes 6, 19, 20, 25, 27 and 37 were trimmed after your note on over-explaining. Each one shows the trimmed version.",
  "glance": [
   "**Gerolt's failed laugh:** four times before (lines 103, 277, 417, 471). Now once, in your own line 103.",
   "**\"What do you remember before this morning?\":** asked three times before, once now.",
@@ -22,7 +22,8 @@
   "Revision 4": "Revision 4: the gold at the cuff",
   "Revision 5": "Revision 5: comparisons he couldn't make",
   "Revision 6": "Revision 6: \"the dark\"",
-  "Revision 7": "Revision 7: the final pass with Chapter 2"
+  "Revision 7": "Revision 7: the final pass with Chapter 2",
+  "Revision 8": "Revision 8: the final pass of Chapters 1–3"
  },
  "changes": [
   {
@@ -764,6 +765,17 @@
    "call": "Change the cabin \"Boy?\" to \"Lad?\", and keep \"boy\" at the field?",
    "decision": "accepted",
    "decision_note": "\"I agree with everything you said.\""
+  },
+  {
+   "section": "Revision 8",
+   "title": "Watching him",
+   "kind": "changed",
+   "tags": [
+    "final8"
+   ],
+   "before": "He opened his eyes. Gerolt was already watching him.",
+   "after": "He opened his eyes to find Gerolt watching him.",
+   "why": "The final pass of Chapters 1–3 (27 September). The author's rule from Chapter 3: \"how does he know he is already looking at it?\" Alaric sees Gerolt watching when he opens his eyes, but can't know when Gerolt started."
   }
  ]
 }

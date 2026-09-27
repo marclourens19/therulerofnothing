@@ -3,7 +3,7 @@
  "draft": "Chapter 3 - The Weight of the Living (Draft 1).md",
  "chapter": "../Chapter 3 - The Weight of the Living.md",
  "changes_file": "../Chapter 3 - Changes.md",
- "intro_md": "Started 27 September 2026. This is the change list for Chapter 3. The first draft is compared with the old chapters in `Chapter 3 - From the Old Chapters.md`, and is saved unchanged as `Drafts/Chapter 3 - The Weight of the Living (Draft 1).md`. Every round of changes goes here as a change against it.\n\n**Round 1 (27 September): the author's notes on the draft, and what else it needs.**\n- **The author's notes:** the bridge is whole, watched by Kelmend's guards, with an elf rider already talking to them. \"It's me. They're coming for me.\" is cut (\"How does he know?\"). The hands over his face now hold a picture of Gerolt well.\n- **Asked whether anything should be added:** Claude thinks the length is right for a quiet chapter after two loud ones. It proposes three small things that are missing rather than extra length: a glimpse of Silas's grief, Silas not having heard the battle either, and the chasing rider coming from the bridge.\n\n**Round 2 (27 September).** The bridge is as the author describes it: a small fire, guards chatting, a rider among them speaking, in joined-up sentences. The glimpse of Silas's grief and the rider from the bridge are accepted. Silas's reaction becomes disbelief (\"a battle that size on Gerolt's farm would be the talk of Kelmend\"). Three point-of-view fixes make everything Alaric can't see in the cave, with his hands over his face or his eyes on the sword, something he hears.\n\n**Round 3 (27 September).** Silas's swearing in the river is now the author's (\"stupid little prick, should've listened to me\"), and \"He didn't care to ask for Alaric's\". \"Already\" is gone from \"looking at the fire\", because Alaric can't know it. The ending: he strokes Wena's head and whispers \"I'm sorry\" to her, which is also meant for Gerolt, and nobody says so. Everything else from the draft's list is approved, including the title.\n\n**Round 4 (27 September): the final pass.** A full read-through against the final check and the end of Chapter 2. Continuity holds, and nothing needed a judgement call. There are four craft fixes (changes {tag:final}): two more \"already\"s Alaric couldn't know, an unclear \"it\", and a repeated \"pushed\".",
+ "intro_md": "Started 27 September 2026. This is the change list for Chapter 3. The first draft is compared with the old chapters in `Chapter 3 - From the Old Chapters.md`, and is saved unchanged as `Drafts/Chapter 3 - The Weight of the Living (Draft 1).md`. Every round of changes goes here as a change against it.\n\n**Round 1 (27 September): the author's notes on the draft, and what else it needs.**\n- **The author's notes:** the bridge is whole, watched by Kelmend's guards, with an elf rider already talking to them. \"It's me. They're coming for me.\" is cut (\"How does he know?\"). The hands over his face now hold a picture of Gerolt well.\n- **Asked whether anything should be added:** Claude thinks the length is right for a quiet chapter after two loud ones. It proposes three small things that are missing rather than extra length: a glimpse of Silas's grief, Silas not having heard the battle either, and the chasing rider coming from the bridge.\n\n**Round 2 (27 September).** The bridge is as the author describes it: a small fire, guards chatting, a rider among them speaking, in joined-up sentences. The glimpse of Silas's grief and the rider from the bridge are accepted. Silas's reaction becomes disbelief (\"a battle that size on Gerolt's farm would be the talk of Kelmend\"). Three point-of-view fixes make everything Alaric can't see in the cave, with his hands over his face or his eyes on the sword, something he hears.\n\n**Round 3 (27 September).** Silas's swearing in the river is now the author's (\"stupid little prick, should've listened to me\"), and \"He didn't care to ask for Alaric's\". \"Already\" is gone from \"looking at the fire\", because Alaric can't know it. The ending: he strokes Wena's head and whispers \"I'm sorry\" to her, which is also meant for Gerolt, and nobody says so. Everything else from the draft's list is approved, including the title.\n\n**Round 4 (27 September): the final pass.** A full read-through against the final check and the end of Chapter 2. Continuity holds, and nothing needed a judgement call. There are four craft fixes (changes {tag:final}): two more \"already\"s Alaric couldn't know, an unclear \"it\", and a repeated \"pushed\".\n\n**Round 5 (27 September): the final pass of Chapters 1–3.** Two phrases that Chapter 2 had already used for something else (changes {tag:final5}).",
  "glance": [],
  "summary_md": "## What each note became\n\n1. **The bridge:** whole, guarded, with the elf rider talking to Kelmend's guards. Change {tag:author}, with {tag:knock} following from it.\n2. **\"How does he know they are coming for him?\"** He can't, so it's cut (in change 1).\n3. **Behind his hands:** Gerolt at supper, well, and seeing Silas would make it real (change 6).\n4. **Proposed additions:** changes {tag:proposal}.\n5. **Round 2:** Silas doesn't believe him (change 7). Point-of-view fixes: changes {tag:pov}.\n6. **Round 3:** changes {tag:round3} and change 10.",
  "sections": {
@@ -221,6 +221,28 @@
    "before": "\"Get some sleep,\" he said, and pushed out through the branches.",
    "after": "\"Get some sleep,\" he said, and ducked out through the branches.",
    "why": "A craft fix from the final pass. \"Pushed\" came three times in the last two paragraphs."
+  },
+  {
+   "section": "The last elf",
+   "title": "Broke out of the trees",
+   "kind": "changed",
+   "tags": [
+    "final5"
+   ],
+   "before": "The rider came out of the trees at a gallop, low over the horse's neck. The man stepped aside at the last moment and swung low, and the horse's forelegs went out from under it. It went down screaming. The rider went over its head and hit the ground hard, and lay on his back with his mouth opening and closing, trying to find his breath.",
+   "after": "The rider broke out of the trees at a gallop, low over the horse's neck. The man stepped aside at the last moment and swung low, and the horse's forelegs went out from under it. It went down screaming. The rider went over its head and hit the ground hard, and lay on his back with his mouth opening and closing, trying to find his breath.",
+   "why": "The final pass of Chapters 1–3 (27 September). Chapter 2 has \"The riders came out of the trees below\", so the phrase came twice for readers going straight on."
+  },
+  {
+   "section": "The river",
+   "title": "Set his feet",
+   "kind": "changed",
+   "tags": [
+    "final5"
+   ],
+   "before": "Alaric caught her. He got two fistfuls of the fur at her neck and pulled. She dragged him a step up the bank before he dug his heels in and hauled her back, and she twisted in his hands and whined and pulled again, harder, towards Gerolt.",
+   "after": "Alaric caught her. He got two fistfuls of the fur at her neck and pulled. She dragged him a step up the bank before he set his feet and hauled her back, and she twisted in his hands and whined and pulled again, harder, towards Gerolt.",
+   "why": "The final pass of Chapters 1–3 (27 September). In Chapter 2 he \"dug his heels in\" to make the horse go, a different act in the same words."
   }
  ]
 }

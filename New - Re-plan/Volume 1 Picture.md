@@ -48,7 +48,7 @@ Volume 1 tests the question; it doesn't answer it.
 
 ## Around them
 
-- **Silas.** Gerolt's pupil from Avarice, Eminent Fire, brutal and cunning. He has lived twenty years in the guilt of the gorge. He stops for Alaric because he recognises Gerolt's sword, and teaches him to use it.
+- **Silas.** Gerolt's pupil from Avarice, Eminent Fire, brutal and cunning. He has lived twenty years in the guilt of the gorge. He reaches Gerolt's last stand in time to see him die, knows his master's sword in Alaric's hands, and drags Alaric out. He will teach him to use it.
 - **Redd.** Low Earth, hates elves, raised his sister on the road. Warm, funny, lives in the present, too carefree when it matters.
 - **Freya.** Redd's younger sister: untested, secretly Eminent Water, and doesn't know it. She leans on Redd, then starts leaning on Alaric, and falls for him. He doesn't see it; he's looking backwards. She hates fighting, and may never learn what she is.
 - **Wena.** Gerolt's farm dog, given to Alaric with the sword as Gerolt dies, almost as a wish to keep her safe. She stays by Alaric, but often goes to Freya more than anyone.

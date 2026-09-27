@@ -10,7 +10,7 @@ The first draft is saved unchanged as `Drafts/Chapter 3 - The Weight of the Livi
 
 ## At a glance
 
-- **Length:** 1,896 words. That's short next to Chapter 2 (4,724) and old Chapter 3's Alaric half (about 2,800). It covers everything you asked for without padding. Tell me if you want more room anywhere.
+- **Length:** 1,896 words in the first draft, and 1,990 after your notes and the final passes (`Chapter 3 - Changes.md`). That's short next to Chapter 2 (4,724) and old Chapter 3's Alaric half (about 2,800). It covers everything you asked for without padding. Tell me if you want more room anywhere.
 - **Shape:** one night into first light, all in Alaric's eyes, with no scene breaks. It moves through the run, the broken bridge, the river, the last elf, the cave, "Marta", and alone.
 - **"Nothing":** three times, all in your lines for Silas: "Then Gerolt died for nothing", "You did nothing" and "A boy like you means nothing to them".
 - **"The dark":** none.
@@ -18,7 +18,7 @@ The first draft is saved unchanged as `Drafts/Chapter 3 - The Weight of the Livi
 
 ## Your call
 
-These are mine, not yours, so each needs a yes or no. **Round 1 (27 September)** has answered call 2 (the bridge is whole, with Kelmend's guards and an elf rider) and call 8 (a picture of Gerolt behind his hands), and cut *"It's me. They're coming for me."* from call 1 ("How does he know?"). It also answered call 13: the length stays, with three small additions proposed. See `Chapter 3 - Changes.md`.
+These were mine, not yours. **All answered by 27 September** (rounds 1–3 of `Chapter 3 - Changes.md`). **Round 1** has answered call 2 (the bridge is whole, with Kelmend's guards and an elf rider) and call 8 (a picture of Gerolt behind his hands), and cut *"It's me. They're coming for me."* from call 1 ("How does he know?"). It also answered call 13: the length stays, with three small additions proposed. See `Chapter 3 - Changes.md`.
 
 1. **His inner fight, with more turns than we agreed.** Each one is new, so the spiral moves:
    - "Every stride jarred the ache behind Alaric's eyes, where the name had come in."

@@ -12,10 +12,12 @@ Started 27 September 2026. This is the change list for Chapter 3. The first draf
 
 **Round 4 (27 September): the final pass.** A full read-through against the final check and the end of Chapter 2. Continuity holds, and nothing needed a judgement call. There are four craft fixes (changes 14, 15, 16, 17): two more "already"s Alaric couldn't know, an unclear "it", and a repeated "pushed".
 
+**Round 5 (27 September): the final pass of Chapters 1–3.** Two phrases that Chapter 2 had already used for something else (changes 18, 19).
+
 ## At a glance
 
-- **17 changes proposed.** 0 rejected so far, so 17 are in the chapter: 17 rewritten, 0 cut and 0 added.
-- **Length:** 1,896 words before, 1,991 after.
+- **19 changes proposed.** 0 rejected so far, so 19 are in the chapter: 19 rewritten, 0 cut and 0 added.
+- **Length:** 1,896 words before, 1,990 after.
 - **Median paragraph:** 16 words before, 16 after. The house target is roughly 14–22.
 - **"Nothing":** 3 times before, 3 after.
 
@@ -385,3 +387,35 @@ Each of these needs a yes or no from you. It adds something about a character or
 > "Get some sleep," he said, and ducked out through the branches.
 
 **Why.** A craft fix from the final pass. "Pushed" came three times in the last two paragraphs.
+
+### The last elf
+
+#### 18. Broke out of the trees
+
+*Draft line 95 → revised line 97*
+
+**Before**
+
+> The rider came out of the trees at a gallop, low over the horse's neck. The man stepped aside at the last moment and swung low, and the horse's forelegs went out from under it. It went down screaming. The rider went over its head and hit the ground hard, and lay on his back with his mouth opening and closing, trying to find his breath.
+
+**After**
+
+> The rider broke out of the trees at a gallop, low over the horse's neck. The man stepped aside at the last moment and swung low, and the horse's forelegs went out from under it. It went down screaming. The rider went over its head and hit the ground hard, and lay on his back with his mouth opening and closing, trying to find his breath.
+
+**Why.** The final pass of Chapters 1–3 (27 September). Chapter 2 has "The riders came out of the trees below", so the phrase came twice for readers going straight on.
+
+### The river
+
+#### 19. Set his feet
+
+*Draft line 63 → revised line 65*
+
+**Before**
+
+> Alaric caught her. He got two fistfuls of the fur at her neck and pulled. She dragged him a step up the bank before he dug his heels in and hauled her back, and she twisted in his hands and whined and pulled again, harder, towards Gerolt.
+
+**After**
+
+> Alaric caught her. He got two fistfuls of the fur at her neck and pulled. She dragged him a step up the bank before he set his feet and hauled her back, and she twisted in his hands and whined and pulled again, harder, towards Gerolt.
+
+**Why.** The final pass of Chapters 1–3 (27 September). In Chapter 2 he "dug his heels in" to make the horse go, a different act in the same words.

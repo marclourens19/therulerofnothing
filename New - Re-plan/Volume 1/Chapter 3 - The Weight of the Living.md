@@ -62,7 +62,7 @@ The river was wide and loud. It broke white over the rocks below them and ran qu
 
 Wena stopped at the edge and wouldn't go on. She turned back up the slope instead, towards the glow above the trees, and started to run.
 
-Alaric caught her. He got two fistfuls of the fur at her neck and pulled. She dragged him a step up the bank before he dug his heels in and hauled her back, and she twisted in his hands and whined and pulled again, harder, towards Gerolt.
+Alaric caught her. He got two fistfuls of the fur at her neck and pulled. She dragged him a step up the bank before he set his feet and hauled her back, and she twisted in his hands and whined and pulled again, harder, towards Gerolt.
 
 "Leave the dog." The man was in the water to his knees. "We'll never get across hauling a mutt that wants to go back to a dead man."
 
@@ -94,7 +94,7 @@ Alaric heard it a heartbeat after she did: a horse on this side of the river, co
 
 The man got up. He didn't run. He drew his heavy blade and put himself between them and the sound, and waited.
 
-The rider came out of the trees at a gallop, low over the horse's neck. The man stepped aside at the last moment and swung low, and the horse's forelegs went out from under it. It went down screaming. The rider went over its head and hit the ground hard, and lay on his back with his mouth opening and closing, trying to find his breath.
+The rider broke out of the trees at a gallop, low over the horse's neck. The man stepped aside at the last moment and swung low, and the horse's forelegs went out from under it. It went down screaming. The rider went over its head and hit the ground hard, and lay on his back with his mouth opening and closing, trying to find his breath.
 
 The man walked to him.
 

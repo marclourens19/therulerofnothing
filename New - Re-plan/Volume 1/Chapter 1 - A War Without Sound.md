@@ -374,7 +374,7 @@ The fire ticked and settled somewhere to his right. The blanket was rough beneat
 
 That was all of it. Fire beside him. Wind beyond the shutters. Nothing inside him answered either.
 
-He opened his eyes. Gerolt was already watching him.
+He opened his eyes to find Gerolt watching him.
 
 "Well?"
 
