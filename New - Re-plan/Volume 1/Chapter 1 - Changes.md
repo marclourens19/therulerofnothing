@@ -8,6 +8,7 @@ Written on 26 September 2026. This is every change made to `Chapter 1 - A War Wi
 - **Revision 4** (changes 50–52) takes the gold at the running figure's cuff out of the vision, at your request.
 - **Revision 5** (changes 53–56, plus edits folded into changes 8, 19, 25 and 28) cuts eight comparisons Alaric couldn't make from what he has lived through.
 - **Revision 6** (changes 57–60, plus an edit folded into change 28) takes out "the dark", at your request (27 September).
+- **Revision 7** (change 61) is the final pass of Chapters 1 and 2 read together (27 September).
 
 - The chapter as it was before is saved, unchanged, as `Drafts/Chapter 1 - A War Without Sound (Draft 1, before revision).md`. Any change you reject can go straight back from there.
 - **Draft line** numbers refer to that saved copy. **Revised line** numbers refer to the chapter as it stands now.
@@ -16,7 +17,7 @@ Written on 26 September 2026. This is every change made to `Chapter 1 - A War Wi
 
 ## At a glance
 
-- **60 changes proposed.** 1 rejected so far, so 59 are in the chapter: 53 rewritten, 5 cut and 1 added.
+- **61 changes proposed.** 1 rejected so far, so 60 are in the chapter: 54 rewritten, 5 cut and 1 added.
 - **Length:** 6,434 words before, 6,284 after.
 - **Median paragraph:** 14 words before, 13 after. The house target is roughly 14–22.
 - **"Nothing":** 24 times before, 19 after.
@@ -61,6 +62,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 58, The candle goes out:** At your request.
 - **Change 59, Gerolt's face:** At your request.
 - **Change 60, The man hiding:** At your request.
+- **Change 61, "Lad?":** "I agree with everything you said."
 
 ## What each decision became
 
@@ -1068,3 +1070,21 @@ Each of these needs a yes or no from you. It adds something about a character or
 **Why.** The author: "One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words." Asked for Chapter 1 on 27 September. The smothered fire and the pinched-out candle already say there's no light.
 
 **Your decision.** At your request.
+
+### Revision 7: the final pass with Chapter 2
+
+#### 61. "Lad?"
+
+*Draft line 525 → revised line 525*
+
+**Before**
+
+> "Boy?"
+
+**After**
+
+> "Lad?"
+
+**Why.** The final pass of Chapters 1 and 2 together. It was agreed on 27 September that Gerolt says "lad" and "boy" is Silas's word. In Chapter 1 Gerolt says "boy" at the field, when the boy is a stranger in the mud (your own lines 45, 49 and 69, and line 227), and "lad" from then on. This "Boy?" in the cabin was the one slip. Keeping "boy" at the field gives a small, unspoken parallel: Silas starts where Gerolt started.
+
+**Your decision.** "I agree with everything you said."

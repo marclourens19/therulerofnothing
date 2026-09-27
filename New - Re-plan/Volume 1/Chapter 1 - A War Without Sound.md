@@ -522,7 +522,7 @@ The boy tried to answer. His throat closed before a sound came.
 
 The image broke apart again: an open hand, a mouth shaping the same word. This time, he almost heard it.
 
-"Boy?"
+"Lad?"
 
 The stool scraped against the floorboards.
 
