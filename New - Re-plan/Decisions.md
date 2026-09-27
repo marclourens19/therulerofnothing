@@ -284,7 +284,12 @@ The plan is built in `Volume 1/Chapter 3 - Design.md`.
   - **The ending:** "Marta", Silas's reaction, and "Kelmend's no good". Then Alaric, alone with Wena, cries at last.
   - The neighbours are left out of Chapter 3.
 - **The lines (27 September),** designed together. The author gave rough versions and notes; the final wording is in `Volume 1/Chapter 3 - From the Old Chapters.md`. The river has no thought from Alaric ("Alaric isn't thinking here, full of adrenaline"), and Silas hauls them out "swearing the whole time". "Empty" isn't talked about yet.
-- **First draft written (27 September):** `Volume 1/Chapter 3 - The Weight of the Living.md` (1,896 words, working title). Its calls are waiting on the author.
+- **First draft written (27 September):** `Volume 1/Chapter 3 - The Weight of the Living.md` (1,896 words, working title).
+- **Round 1 (27 September).**
+  - **The bridge** isn't broken: "guards from Kelmend watch it, but an elf rider is already there speaking to the guards".
+  - "*It's me. They're coming for me.*" is cut: "How does he know they are coming for him?"
+  - **Behind his hands** is a picture of Gerolt well, and seeing Silas "would make reality set in".
+  - The author asked whether to add anything. Claude kept the length and proposed three small additions: a glimpse of Silas's grief, Silas not having heard the battle either, and the chasing rider coming from the bridge.
 
 ## Alaric
 

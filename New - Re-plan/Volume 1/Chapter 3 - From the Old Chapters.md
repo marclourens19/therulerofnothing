@@ -18,7 +18,7 @@ The first draft is saved unchanged as `Drafts/Chapter 3 - The Weight of the Livi
 
 ## Your call
 
-These are mine, not yours, so each needs a yes or no.
+These are mine, not yours, so each needs a yes or no. **Round 1 (27 September)** has answered call 2 (the bridge is whole, with Kelmend's guards and an elf rider) and call 8 (a picture of Gerolt behind his hands), and cut *"It's me. They're coming for me."* from call 1 ("How does he know?"). It also answered call 13: the length stays, with three small additions proposed. See `Chapter 3 - Changes.md`.
 
 1. **His inner fight, with more turns than we agreed.** Each one is new, so the spiral moves:
    - "Every stride jarred the ache behind Alaric's eyes, where the name had come in."

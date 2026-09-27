@@ -216,7 +216,7 @@ This is the short form. The full rules are in the design bible §2.3 and the old
 - **Common words:** the author asked "what is bracken?", then "I don't like 'ferns'" either. If they don't know a word, many readers won't. When a detail is only there to say where something is, drop it rather than swap in another word for it ("He landed on his back"). Watch for British country words and trade words: bracken, eaves, pommel, sidle. ("Bracer" was approved in Chapter 2.)
 - **"The dark":** the author, 27 September: "One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words." Say where something is, or what can and can't be seen ("somewhere below them", "Under the branches, the moon came through only in patches"). The style check counts it.
 - **"Nothing"** is the series title word, so keep it rare and meaningful.
-- **Point of view:** close third. Every fact and inference belongs to the viewpoint character. A man passing out can't know someone "talked through the whole walk back".
+- **Point of view:** close third. Every fact and inference belongs to the viewpoint character, and he can only conclude what the page has given him evidence for. "*It's me. They're coming for me.*" drew "How does he know they are coming for him?" A frightened question ("*Why are they still coming?*") is fine; a conclusion he can't have isn't. A man passing out can't know someone "talked through the whole walk back".
 - **Alaric's guardrails** (old `Main Characters.md`): no sixth sense for danger, no hidden fighting mastery, no polished explanations of himself. His beliefs can be wrong, and he reasons his way into them.
 
 ## Files in this skill

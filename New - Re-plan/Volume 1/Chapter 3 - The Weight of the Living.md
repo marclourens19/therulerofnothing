@@ -42,21 +42,23 @@ Alaric didn't know how, and there was no time to ask. The man was already moving
 
 *So don't stop.*
 
-The slope brought them down to the water where a track met the bank. A bridge crossed there, or it had. Its near end stood on the bank as it should, but halfway over, the planks stopped, and the rest of it hung down into the river from the far side, twisting in the current. The broken ends were pale and splintered.
+The slope brought them down towards the water, and through the trees ahead Alaric saw lanterns.
 
-The man swore. "They've brought the bridge down."
+A bridge crossed the river there. At its near end stood a hut with a lantern hung by the door, and four men in helmets were standing round it with spears. A rider sat his horse among them. The lantern caught his pale hair, bound back, and the point of one ear. One of the men was talking up at him, nodding and nodding.
 
-He looked upstream. Torches were moving along the bank towards them.
+The man pulled Alaric down behind a tree by his collar.
+
+"Kelmend's guards," he said under his breath, and spat.
+
+Behind them, torches were moving along the bank.
 
 *They've already killed him. Why are they still coming?*
 
-Alaric looked at the torches, then down at himself: the sword, his hands, Gerolt's blood stiffening on his sleeves.
+The man looked from the bridge to the torches, and then down at the river below them.
 
-*It's me. They're coming for me.*
+"We cross here," he said.
 
-"We cross here," the man said.
-
-The river was wide, and loud enough that he'd had to raise his voice. It broke white over the rocks around the fallen end of the bridge and ran quick and smooth everywhere else.
+The river was wide and loud. It broke white over the rocks below them and ran quick and smooth everywhere else.
 
 Wena stopped at the edge and wouldn't go on. She turned back up the slope instead, towards the glow above the trees, and started to run.
 
@@ -70,7 +72,7 @@ He got his arms under Wena's chest and belly and lifted her off her feet. She wa
 
 The cold took his breath. By the second step it was at his waist, and on the third the riverbed went out from under him, and the current had them both.
 
-He went under and came up still holding her. Water filled his mouth and nose. The river turned him round, and the bank went past, and then the hanging end of the bridge, close enough to touch. He couldn't reach for it without letting go of Wena, so he didn't.
+He went under and came up still holding her. Water filled his mouth and nose. The river turned him round, and the bank went past, and then a fallen tree lying out into the river from the far bank, close enough to touch. He couldn't reach for it without letting go of Wena, so he didn't.
 
 Something caught him by the collar and yanked.
 
@@ -80,15 +82,15 @@ A voice was swearing right beside his ear, over the roar of the water. It swore 
 
 The river took the rest.
 
-The man had one arm hooked through the broken planks and the other hand in Alaric's collar. He dragged them in along the fallen bridge, hand over hand, still swearing, until Alaric's knees hit stones and all three of them were crawling out onto the far bank, coughing up the river.
+The man had one arm hooked over the fallen tree and the other hand in Alaric's collar. He dragged them in along the trunk, hand over hand, still swearing, until Alaric's knees hit stones and all three of them were crawling out onto the far bank, coughing up the river.
 
 Wena scrambled out of his arms and shook herself. Then she stood with her legs braced, staring back across the water at the glow above the trees.
 
-The man knelt in the shallows, getting his breath. He had run out of things to swear at. He pulled Gerolt's sword out of his belt and gave it back to Alaric.
+The man knelt in the shallows, getting his breath. He had run out of things to swear at. He pulled Gerolt's sword out of his belt and gave it back to Alaric, and didn't let go of it straight away.
 
 Wena's head came round, and her hackles went up.
 
-Alaric heard it a heartbeat after she did: a horse on this side of the river, coming fast along the bank.
+Alaric heard it a heartbeat after she did: a horse on this side of the river, coming fast along the bank from the bridge.
 
 The man got up. He didn't run. He drew his heavy blade and put himself between them and the sound, and waited.
 
@@ -148,9 +150,9 @@ Alaric opened his mouth and couldn't answer.
 
 *Why me? What did I* do*? And that battle on Gerolt's farm—thousands dead, and he never heard a sound. What* was *that? What's happening to me?*
 
-He put his hands over his face.
+He put his hands over his face and shut his eyes, and Gerolt was still there, sitting on his stool by the fire, cradling his dented mug and telling him to eat first and thank him after. If he took his hands away, he would see Silas, and it would be real.
 
-"I woke up on his farm today, under a dead man. There were thousands of them." It was easier with his hands there, where he didn't have to see Silas's face. "I didn't know anything. I still don't."
+"I woke up on his farm today, under a dead man. There were thousands of them." He kept his hands where they were. "I didn't know anything. I still don't."
 
 Silas didn't interrupt.
 
@@ -160,7 +162,9 @@ The fire cracked. The rag went along the blade and back.
 
 *If he'd left me in the mud, he'd be asleep in his own bed right now.*
 
-When Silas spoke again, it was to the blade. "So what now? You're not bringing more elves to my door."
+"Thousands." Silas's voice was flat. "I'm an hour down the river from that farm. I didn't hear a thing last night."
+
+Alaric didn't answer. After a while, Silas spoke again, to the blade. "So what now? You're not bringing more elves to my door."
 
 Alaric took his hands away from his face and looked at the sword across his knees.
 
