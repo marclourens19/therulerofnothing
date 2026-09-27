@@ -21,7 +21,7 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 2. **Small answers constantly; big ones withheld.** Volume 1 answers small questions often, so readers trust that the big ones will come.
 3. **Live the rules; don't explain them.** Never set out how his memory works "on paper like a thesis". People don't think like that. He thinks and reacts the way amnesiac Subaru does in Re:Zero Arc 6 (Chapter 57 onward).
 4. **A volume tests its question; it doesn't hand over the answer.**
-5. **Don't explain the meaning.** In the author's words: "I don't like over explaining meaning that make readers think beyond the obvious." Show the plain thing and stop. Don't follow a moment with an image or a sentence that tells readers what it means or where to look. It covers both explaining a moment and hinting so hard that it pushes readers past what's on the page. *(Claude's reading, accepted with the cuts it led to.)* First applied in Chapter 1, revision 1: change 21 was rejected ("Nothing inside him answered either" stays), and changes 6, 19, 20, 25, 27 and 37 were trimmed. Revision 2 applied it to the author's own lines (changes 38–44). Lines 55, 143 and 645 were kept: they show or name something, and they don't explain it. **It also rules out comparisons the viewpoint character couldn't make, and words chosen to sound good** (added 26 September, on Chapter 2). The author: "One thing you're still doing which I said we should stop is explaining things for the sake of it, using words to make it look cool. This is from Alaric's POV, how would he know this." Their example was "a sound like an axe going into green wood". A comparison is allowed only when it points at something the viewpoint character has lived through on the page. For Alaric, that's almost nothing: Gerolt's flame, the stew, his voice. Applied to Chapter 2 (revision 1, thirteen lines) and Chapter 1 (revision 5, eight lines). The comparisons that remain are ones he can make: how the words land on him, the Light, Gerolt's voice and flame, his own hair, the layered voice, the knock's patience, and Gerolt's own "calling a dog".
+5. **Don't explain the meaning.** In the author's words: "I don't like over explaining meaning that make readers think beyond the obvious." Show the plain thing and stop. Don't follow a moment with an image or a sentence that tells readers what it means or where to look. It covers both explaining a moment and hinting so hard that it pushes readers past what's on the page. *(Claude's reading, accepted with the cuts it led to.)* First applied in Chapter 1, revision 1: change 21 was rejected ("Nothing inside him answered either" stays), and changes 6, 19, 20, 25, 27 and 37 were trimmed. Revision 2 applied it to the author's own lines (changes 38–44). Lines 55, 143 and 645 were kept: they show or name something, and they don't explain it. **It also rules out comparisons the viewpoint character couldn't make, and words chosen to sound good** (added 26 September, on Chapter 2). The author: "One thing you're still doing which I said we should stop is explaining things for the sake of it, using words to make it look cool. This is from Alaric's POV, how would he know this." Their example was "a sound like an axe going into green wood". A comparison is allowed only when it points at something the viewpoint character has lived through on the page. For Alaric, that's almost nothing: Gerolt's flame, the stew, his voice. Applied to Chapter 2 (revision 1, thirteen lines) and Chapter 1 (revision 5, eight lines). The comparisons that remain are ones he can make: how the words land on him, the Light, Gerolt's voice and flame, his own hair, the layered voice, the knock's patience, and Gerolt's own "calling a dog". **It never silences Alaric** (agreed 27 September, with putting his thoughts back into Chapter 2: "We can do this together"). The rule stops the narrator explaining; it doesn't stop him thinking. Chapter 2 had been cut until he had no thoughts on the page while Gerolt died.
 6. **Every major character wants something the story threatens.** *(Agreed 26 September.)* In Chapter 1, Gerolt wants his peace, and the boy ends it.
 7. **Borrowed characters lend specific traits, not templates,** and we record which trait came from where. *(Agreed 26 September.)* For example, Gerolt takes Cid's humour and damage, not Cid's life.
 8. **An internal spiral must change its claim on each turn.** Repeating "why me" with bigger words isn't movement (design bible §9.1). *(Agreed 26 September.)*
@@ -97,6 +97,7 @@ These are rough shapes, not deadlines. The design bible warns against scheduling
 - **The act that causes the tear:** he causes it while chasing who he was, alone and on a wrong belief.
 - **Through him, not from him.** Seralune is the one who can use his Veiled powers, but he feels it pass through him.
 - **The mechanism:** both reach at once. He reaches for his past, she reaches for him, and her power goes through him. Chasing the past is literally what opens the way.
+- **What he wins in Volume 1** (27 September): "companions that want to help him grow."
 - **His last choice in Volume 1:** he carries it alone. He tells no one what he felt pass through him, and shuts out the friends beside him.
 - **End state:** two beliefs that can't both be true: "I am nothing" and "I killed thousands."
 - **Volume 1 in the design bible's five phases (agreed):**
@@ -174,6 +175,15 @@ These are rough shapes, not deadlines. The design bible warns against scheduling
 
 The plan is built in `Volume 1/Chapter 2 - Design.md`.
 
+**Redesign (27 September).** The chapter merged on 26 September is the version before this redesign.
+
+- **The reader should feel shock at Gerolt's death, not grief.** So there's no extra day before the scouts come.
+- **Chapter 1's ending stays** ("I like chapter 1's ending").
+- **Gerolt lives longer.** The author: "maybe we can make Gerolt live for a bit longer with him and Alaric running somewhere, then Gerolt dies and gives his sword and Wena to Alaric at the end of chapter 2." The handover and his death move from the cabin to the end of the run. The details are being designed in round 5 of the design file.
+- **Alaric's thoughts come back** into Chapter 2, in his own words, and we work them out together.
+
+The decisions below were made for the first version. Each will be checked against the redesign.
+
 - **Whose eyes, and the ending.** The whole chapter is in Alaric's eyes. It ends on Gerolt's cabin going up in flames. Old Chapter 3's opening ("the night went orange") moves into Chapter 2. *(Claude's proposal, which the author's answer implies: the last he sees of Gerolt is his hand catching fire as he turns to the door.)*
 - **The name returns,** and Gerolt says it back before he sends him away. Gerolt must sound like Cid.
 - **He breaks his silence** to warn Gerolt about the stone. It saves Gerolt for the moment, and the escaping scout hears it.
@@ -207,6 +217,9 @@ The plan is built in `Volume 1/Chapter 2 - Design.md`.
 - **Flaw.** He thinks he can carry everything alone and wants to take on everyone's burdens. Early on he can be a bit immature because he's young. He learns from terrible mistakes, grows as a person and learns to rely on those around him.
 - **His immaturity in Chapter 1:** because he knows nothing, he believes things are right when they aren't.
 - **Memory rule:** he knows what things are, but has never experienced any of them. This is never stated on the page (see Principle 3).
+- **When he's frightened: Subaru's mouth** (27 September). The author: "like omg what was that, what must I do, I'm a weakling, I can't do anything, omg omg."
+- **His habit** (27 September): "he likes to think a lot and keep emotions to himself instead of asking others for help."
+- *Claude's reading, to confirm:* the two fit together if the mouth runs inside his head and he keeps it shut outside. It spills out loud only when he's cornered, as in the Chapter 1 rant ("that is the whole list, Gerolt"). His panic keeps Subaru's shape (fast, repeating, calling himself useless) in words from his own world, since he isn't from ours.
 
 ## Seralune
 
@@ -322,6 +335,8 @@ The plan is built in `Volume 1/Chapter 2 - Design.md`.
 - **Magic.** Eminent Water, but she was never tested. She grew up with Redd in Kelmend's Faint quarter.
 - **How she avoided testing.** Kelmend's guards held inspections every year. Redd always hid her until she was older.
 - **She doesn't know she's Eminent,** but she can use her magic decently well.
+- **Her Eminence isn't for anything** (27 September). The author: "Nothing, she just is, and maybe never even learns it."
+- **She hates fighting** (27 September).
 - **Elves.** She doesn't hate them.
 - **Her brother.** She admires him greatly, follows him and clings to him, and leans on him too much.
 - **What she must learn:** to be her own individual person.
@@ -435,7 +450,7 @@ The plan is built in `Volume 1/Chapter 2 - Design.md`.
 
 ### Redd and Freya
 
-- **When does anyone find out Freya is Eminent?** If the state learns it, it will want her, as it wanted Marta.
+- **Does the reader ever find out Freya is Eminent, and through whose eyes?** She may never learn it herself (27 September). If the reader is told, they'll wait for it to matter. If the state learns it, it will want her, as it wanted Marta.
 
 ### Nereth
 

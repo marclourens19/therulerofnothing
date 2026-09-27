@@ -1,6 +1,6 @@
 # Chapter 2: Design
 
-Started 26 September 2026. **Status:** the first draft is written (`Chapter 2 - The Price of a Voice.md`). It's compared with the old chapter in `Chapter 2 - From the Old Chapter.md`, and it has been through revisions 1–3, the last being the final check against Chapter 1 (see `Chapter 2 - Changes.md`). This is the plan for Chapter 2, agreed with the author one question at a time before any writing. It follows the `chapter-rewrite` skill: most of the old chapter will change, so the plan comes first.
+Started 26 September 2026. **Status (27 September):** being redesigned. Gerolt now lives longer: he and Alaric run together, and he dies at the end of the chapter (round 5, below). Until the new version is ready, the merged chapter stays as it is. **Status before the redesign:** the first draft is written (`Chapter 2 - The Price of a Voice.md`). It's compared with the old chapter in `Chapter 2 - From the Old Chapter.md`, and it has been through revisions 1–3, the last being the final check against Chapter 1 (see `Chapter 2 - Changes.md`). This is the plan for Chapter 2, agreed with the author one question at a time before any writing. It follows the `chapter-rewrite` skill: most of the old chapter will change, so the plan comes first.
 
 ## Already fixed by decisions
 
@@ -71,9 +71,46 @@ The old chapter is in `Old - Before Re-plan/Volume 1 - Rewrites/Chapter 2 - The 
 - **9 and 10.** The last line ("perfect") and the coat: keep.
 - **1. The second scout's laugh.** Keep.
 
+### Round 5: the redesign (asked 27 September)
+
+This came out of an honest review of Chapters 1 and 2. Two problems: Alaric had no thoughts on the page in Chapter 2, and Gerolt died before the reader knew him beyond one evening. The author's answers:
+
+- **Shock, not grief.** Chapter 1's ending stays, so there's no extra day.
+- **Gerolt lives longer.** "Maybe we can make Gerolt live for a bit longer with him and Alaric running somewhere, then Gerolt dies and gives his sword and Wena to Alaric at the end of chapter 2."
+- **Alaric's thoughts come back,** worked out together. When frightened he has Subaru's mouth; his habit is thinking a lot and keeping it to himself (see `Decisions.md`, Alaric).
+
+Shock and a longer life fit together, as long as the reader believes he'll make it. The shock comes from *when* he dies, not from how little we knew him. So the long goodbye in the cabin can't stay where it is.
+
+The questions, each with Claude's recommendation:
+
+1. **Why does Gerolt go at all?** *Recommended:* because the boy won't leave without him. Gerolt meant to stay and hold the door. The boy's refusal ("I'm not leaving you", "You're a stubborn little bastard") is what gets him up off the floor. So Alaric's stubbornness buys the extra time, and "His refusal holds back Gerolt's fire" still holds.
+2. **How does he move with the stone under his ribs?** "Can't walk" has to go.
+   - *Recommended:* Alaric half-carries him, crouched through the hip-high wheat while the riders search with torches. "Then I'll carry you" comes true, the way Gerolt carried him out of the field. They have to stay silent, so Alaric's Subaru mouth has to stay inside his head: panic he can't say aloud.
+   - *Alternative:* the dead elf's horse, already standing at the door. It's faster, but loud and easy to follow.
+3. **Where are they going?**
+   - *Recommended:* west to the river, the way to Kelmend. In a dry wheat field, fire would kill everyone, the boy included, so Gerolt's fire is useless there. That's why they must creep, not fight. Water between them is the only thing that lets him burn.
+   - *Alternative:* the neighbours two fields over, to warn them. It makes the elf's threat real, but it's darker and leads the riders to the children.
+4. **When does the name come?**
+   - *Recommended:* on the run, at the worst moment (Gerolt goes down in the wheat, the torches close in, Alaric's panic peaks). "There you are" is said with time still left. They get up and keep going, and the reader believes they'll make it.
+   - *Alternative:* keep it at the death.
+5. **How does he die?** *Recommended:* at the river, just when it looks as though they've made it. Gerolt makes a dry joke and the reader breathes. Then the riders break out of the wheat. He gives the sword and Wena in a handful of words, pushes Alaric away, and turns with the hand of fire. There's no long goodbye, and Alaric sees it from where he is.
+6. **What burns, and what's the last image?** The cabin burning was the last line ("perfect").
+   - *Recommended:* the riders fire the cabin mid-run to light up the field, so the dark stops being safe. The chapter ends on Gerolt's fire, seen from the river, with your last line kept in shape (for example, lying in the shallows with the sword beneath him, watching the wheat burn).
+   - *Honest note:* Gerolt burning his own wheat ("Poor wheat, but mine") is the kind of neat echo flagged in the review. It's here because it's a cause, not a decoration.
+7. **What does Gerolt say on the way?** He has a few whispered minutes. This is your call.
+   - *Recommended:* grumbling that's about nothing (his back, his wheat, the dog), with one useful thing hidden in it, the way Cid cares through practical orders. Candidates for the useful thing: how to survive being Empty, or Marta and the road.
+8. **What stays from the merged chapter?**
+   - *Recommended:* the door and the fight stay as written, up to the horns.
+   - Everything after the horns is rebuilt, and the farewell lines are sorted into the run, the river, or cut. "Can't walk" goes.
+   - The strongest lines can move rather than disappear: "It's noth—", "You already did", "Wasn't asking", "Found one lad still breathing", "There you are", "Take Wena and run, Alaric".
+
+**Knock-on effects.**
+- The chapter will probably run 6,000–8,000 words, still one night with no scene breaks.
+- Old Chapter 3 ("Alaric ran", through the wheat to the forest) and the river crossing in old Chapters 3 and 6 will change.
+
 ### Later
 
-- Nothing yet. New questions go here as they come up.
+- **What Alaric wins in Volume 1** is "companions that want to help him grow". The reader needs to feel that as a win before he shuts them out at the end: a moment where the group wins something together before the tear. To design with the Volume 1 chapters.
 
 ## Proposed shape (for question 5)
 

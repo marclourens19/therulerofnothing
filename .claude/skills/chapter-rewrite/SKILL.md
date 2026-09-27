@@ -40,7 +40,7 @@ The rules below come from the author's own instructions ("Never accept my words 
 - **Keep the record current.** Put each answer into `Decisions.md` as it's given, and move answered questions out of "Open questions". Commit and push after each round, following the session's git instructions.
 - **Plain words.** Explain craft terms the first time. Keep chat short and put the detail in files.
 - **The old chapters' characters are out of date.** They were written before the characters were redesigned. Re-voice every character from `Decisions.md`, never from the old draft. For example, Gerolt must sound like Cid. The author: "this is the same for all future chapters we rewrite".
-- **Stay in one pair of eyes.** "Always stay in Alaric's eyes when the chapter is about him." Don't cut away to show what he can't see; let him see it from where he is. On Chapter 2, that means Gerolt's last stand is seen from the wheat.
+- **Stay in one pair of eyes.** "Always stay in Alaric's eyes when the chapter is about him." Don't cut away to show what he can't see; let him see it from where he is. On Chapter 2, that means Gerolt's last stand is seen from where Alaric is.
 
 ## The principles
 
@@ -58,6 +58,8 @@ All eight are agreed.
    - A comparison ("like", "as if", "as though", "the way…") is allowed only when it points at something the viewpoint character has lived through on the page. For Alaric in Volume 1, that's almost nothing. "Gerolt's flame had sat in his palm no bigger than a candle's" passes; "like water down a drain" doesn't.
    - Don't dress up a plain thing. Use "leave splinters in his hair", not "comb splinters through his hair". Use "burst", not a third "punched".
    - Before showing a draft, search it for comparisons (the style check lists them) and defend each one or cut it. Chapter 2's first draft lost thirteen lines to this.
+
+   **It never silences the viewpoint character** (agreed 27 September). The rule stops the *narrator* explaining; it doesn't stop Alaric thinking. Chapter 2 was cut so hard that he had no thoughts on the page while Gerolt died for him. Give him his thoughts at the big moments, in his own words and in the moment: *Get up. Why won't you get up.* is Alaric; "the word *I* had somewhere to stand" is the narrator explaining. When he's frightened he has Subaru's mouth, running inside his head (see `Decisions.md`, Alaric).
 
 6. **Every major character wants something the story threatens.** Know each character's want before writing a scene, and let the chapter press on it. Gerolt wants his peace with Wena; a stranger in his only bed and "men at my door" by noon end it. The boy wants to know who he is; the riders might know him, and he chooses silence.
 7. **Borrowed characters lend specific traits, not templates.** Take the named trait and nothing else, and record in `Decisions.md` which trait came from where. Gerolt takes Cid's humour over damage, not Cid's life or story. The rest of the cast's borrowed traits are listed under each character in `Decisions.md`.
