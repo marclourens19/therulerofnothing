@@ -295,6 +295,13 @@ The plan is built in `Volume 1/Chapter 3 - Design.md`.
   - **Accepted:** Silas's grief glimpse (he doesn't let go of the sword straight away), and the rider from the bridge.
   - **Silas doesn't believe him:** "A battle that size on Gerolt's farm would be the talk of Kelmend, boy, and there wasn't a sound last night." He's "struggling to believe Alaric's answers".
   - Point-of-view fixes: while his eyes are covered or down, Alaric only hears.
+- **Round 3 (27 September).**
+  - Silas in the river: "—stupid little prick, should've listened to me—", then a snarl.
+  - "He didn't care to ask for Alaric's."
+  - "Already" is gone from "looking at the fire".
+  - **The ending:** he strokes Wena's head, cries, and whispers "I'm sorry" to her. It's meant for Gerolt as well, and nothing on the page points at it.
+  - Everything else from the draft's list is approved ("everything else is fine"), including the title "The Weight of the Living".
+- **Final pass (27 September),** round 4: craft fixes only. Chapter 3 is 1,990 words, and nothing is waiting on the author.
 
 ## Alaric
 

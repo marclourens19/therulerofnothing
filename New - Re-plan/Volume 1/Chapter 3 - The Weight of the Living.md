@@ -36,7 +36,7 @@ Alaric stared at him.
 
 He knew Gerolt's name.
 
-Alaric didn't know how, and there was no time to ask. The man was already moving, and Alaric's feet went after him.
+Alaric didn't know how, and there was no time to ask. The man went on, and Alaric's feet went after him.
 
 *If I stop, then he—*
 
@@ -64,7 +64,7 @@ Wena stopped at the edge and wouldn't go on. She turned back up the slope instea
 
 Alaric caught her. He got two fistfuls of the fur at her neck and pulled. She dragged him a step up the bank before he dug his heels in and hauled her back, and she twisted in his hands and whined and pulled again, harder, towards Gerolt.
 
-"Leave the dog." The man was already in the water to his knees. "We'll never get across hauling a mutt that wants to go back to a dead man."
+"Leave the dog." The man was in the water to his knees. "We'll never get across hauling a mutt that wants to go back to a dead man."
 
 Alaric dropped the sword.
 
@@ -78,9 +78,9 @@ Something caught him by the collar and yanked.
 
 A voice was swearing right beside his ear, over the roar of the water. It swore at the river and at the dog, and at Alaric, and at the dog again.
 
-"—stupid, stubborn little—"
+"—stupid little prick, should've listened to me—"
 
-The river took the rest.
+The rest came out as a snarl, and the river took it.
 
 The man had one arm hooked over the fallen tree and the other hand in Alaric's collar. He dragged them in along the trunk, hand over hand, still swearing, until Alaric's knees hit stones and all three of them were crawling out onto the far bank, coughing up the river.
 
@@ -108,7 +108,7 @@ Alaric thought of Gerolt's arm, burning white to the elbow, and looked away.
 
 *He could have done that for Gerolt.*
 
-When he looked back, the man had let go of the hilt and was shaking his hand out, hissing through his teeth. He wrapped the corner of his cloak round it before he pulled the blade free. The horse was still screaming. He went to it and ended that too, with one quick cut, and wiped the blade on the dead elf's cloak.
+When he looked back, the man had let go of the hilt and was shaking his hand out, hissing through his teeth. He wrapped the corner of his cloak round the hilt before he pulled the blade free. The horse was still screaming. He went to it and ended that too, with one quick cut, and wiped the blade on the dead elf's cloak.
 
 "Come on."
 
@@ -138,7 +138,7 @@ His knees went, and he sat down hard on the dirt floor with the sword across the
 
 "Silas."
 
-He didn't ask for Alaric's.
+He didn't care to ask for Alaric's.
 
 Silas pulled a rag out of the sack and began wiping down his blade. "So how did the old man know you?"
 
@@ -182,16 +182,14 @@ He turned the blade over and looked along its edge.
 
 "We'll need another way in."
 
-Alaric stared at him, but Silas was already looking at the fire.
+Alaric stared at him, but Silas was looking at the fire.
 
 Silas didn't say much after that. He ate something out of the sack and pushed the sack across to Alaric, and when Alaric didn't touch it, he didn't push it again. The fire burned down. When the gaps in the bush had begun to go grey, he took up his blade and went to the mouth of the cave.
 
-"Get some sleep," he said, and pushed out through the branches.
+"Get some sleep," he said, and ducked out through the branches.
 
 Alaric sat where he was.
 
-Wena put her head in his lap. He laid his hand on it and moved his thumb once between her eyes, the way Gerolt had.
+Wena put her head in his lap. He stroked it, and then he was crying with his face pressed into her wet fur, quietly, so that Silas wouldn't hear.
 
-He cried with his face pressed into her wet fur, quietly, so that Silas wouldn't hear.
-
-*I'm sorry.*
+"I'm sorry," he whispered to her. "I'm sorry."

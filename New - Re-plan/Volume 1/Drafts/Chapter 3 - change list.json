@@ -3,9 +3,9 @@
  "draft": "Chapter 3 - The Weight of the Living (Draft 1).md",
  "chapter": "../Chapter 3 - The Weight of the Living.md",
  "changes_file": "../Chapter 3 - Changes.md",
- "intro_md": "Started 27 September 2026. This is the change list for Chapter 3. The first draft is compared with the old chapters in `Chapter 3 - From the Old Chapters.md`, and is saved unchanged as `Drafts/Chapter 3 - The Weight of the Living (Draft 1).md`. Every round of changes goes here as a change against it.\n\n**Round 1 (27 September): the author's notes on the draft, and what else it needs.**\n- **The author's notes:** the bridge is whole, watched by Kelmend's guards, with an elf rider already talking to them. \"It's me. They're coming for me.\" is cut (\"How does he know?\"). The hands over his face now hold a picture of Gerolt well.\n- **Asked whether anything should be added:** Claude thinks the length is right for a quiet chapter after two loud ones. It proposes three small things that are missing rather than extra length: a glimpse of Silas's grief, Silas not having heard the battle either, and the chasing rider coming from the bridge.\n\n**Round 2 (27 September).** The bridge is as the author describes it: a small fire, guards chatting, a rider among them speaking, in joined-up sentences. The glimpse of Silas's grief and the rider from the bridge are accepted. Silas's reaction becomes disbelief (\"a battle that size on Gerolt's farm would be the talk of Kelmend\"). Three point-of-view fixes make everything Alaric can't see in the cave, with his hands over his face or his eyes on the sword, something he hears.",
+ "intro_md": "Started 27 September 2026. This is the change list for Chapter 3. The first draft is compared with the old chapters in `Chapter 3 - From the Old Chapters.md`, and is saved unchanged as `Drafts/Chapter 3 - The Weight of the Living (Draft 1).md`. Every round of changes goes here as a change against it.\n\n**Round 1 (27 September): the author's notes on the draft, and what else it needs.**\n- **The author's notes:** the bridge is whole, watched by Kelmend's guards, with an elf rider already talking to them. \"It's me. They're coming for me.\" is cut (\"How does he know?\"). The hands over his face now hold a picture of Gerolt well.\n- **Asked whether anything should be added:** Claude thinks the length is right for a quiet chapter after two loud ones. It proposes three small things that are missing rather than extra length: a glimpse of Silas's grief, Silas not having heard the battle either, and the chasing rider coming from the bridge.\n\n**Round 2 (27 September).** The bridge is as the author describes it: a small fire, guards chatting, a rider among them speaking, in joined-up sentences. The glimpse of Silas's grief and the rider from the bridge are accepted. Silas's reaction becomes disbelief (\"a battle that size on Gerolt's farm would be the talk of Kelmend\"). Three point-of-view fixes make everything Alaric can't see in the cave, with his hands over his face or his eyes on the sword, something he hears.\n\n**Round 3 (27 September).** Silas's swearing in the river is now the author's (\"stupid little prick, should've listened to me\"), and \"He didn't care to ask for Alaric's\". \"Already\" is gone from \"looking at the fire\", because Alaric can't know it. The ending: he strokes Wena's head and whispers \"I'm sorry\" to her, which is also meant for Gerolt, and nobody says so. Everything else from the draft's list is approved, including the title.\n\n**Round 4 (27 September): the final pass.** A full read-through against the final check and the end of Chapter 2. Continuity holds, and nothing needed a judgement call. There are four craft fixes (changes {tag:final}): two more \"already\"s Alaric couldn't know, an unclear \"it\", and a repeated \"pushed\".",
  "glance": [],
- "summary_md": "## What each note became\n\n1. **The bridge:** whole, guarded, with the elf rider talking to Kelmend's guards. Change {tag:author}, with {tag:knock} following from it.\n2. **\"How does he know they are coming for him?\"** He can't, so it's cut (in change 1).\n3. **Behind his hands:** Gerolt at supper, well, and seeing Silas would make it real (change 6).\n4. **Proposed additions:** changes {tag:proposal}.\n5. **Round 2:** Silas doesn't believe him (change 7). Point-of-view fixes: changes {tag:pov}.",
+ "summary_md": "## What each note became\n\n1. **The bridge:** whole, guarded, with the elf rider talking to Kelmend's guards. Change {tag:author}, with {tag:knock} following from it.\n2. **\"How does he know they are coming for him?\"** He can't, so it's cut (in change 1).\n3. **Behind his hands:** Gerolt at supper, well, and seeing Silas would make it real (change 6).\n4. **Proposed additions:** changes {tag:proposal}.\n5. **Round 2:** Silas doesn't believe him (change 7). Point-of-view fixes: changes {tag:pov}.\n6. **Round 3:** changes {tag:round3} and change 10.",
  "sections": {
   "The bridge": "The run and the bridge",
   "The river": "The river",
@@ -134,8 +134,93 @@
     "pov"
    ],
    "before": "Alaric looked up. Silas was already looking at the fire.",
-   "after": "Alaric stared at him, but Silas was already looking at the fire.",
-   "why": "A point-of-view fix from round 2. He has already looked up (change 10). The two short sentences are joined too."
+   "after": "Alaric stared at him, but Silas was looking at the fire.",
+   "why": "A point-of-view fix from round 2. He has already looked up (change 10). The two short sentences are joined too. (Round 3, the author: \"how does he know he is already looking at it?\" He can't, so \"already\" goes.)",
+   "decision": "accepted",
+   "decision_note": "After \"how does he know he is already looking at it?\""
+  },
+  {
+   "section": "The river",
+   "title": "Silas swearing",
+   "kind": "changed",
+   "tags": [
+    "round3"
+   ],
+   "before": "\"—stupid, stubborn little—\"\n\nThe river took the rest.",
+   "after": "\"—stupid little prick, should've listened to me—\"\n\nThe rest came out as a snarl, and the river took it.",
+   "why": "The author: \"stupid little prick, should have listened to me, grrahh (something like that, make it better)\". The \"grrahh\" is the snarl the river swallows.",
+   "decision": "accepted",
+   "decision_note": "Your line; the snarl is mine."
+  },
+  {
+   "section": "The cave",
+   "title": "He didn't care to ask",
+   "kind": "changed",
+   "tags": [
+    "round3"
+   ],
+   "before": "He didn't ask for Alaric's.",
+   "after": "He didn't care to ask for Alaric's.",
+   "why": "The author: \"he didn't care to ask for Alaric's\".",
+   "decision": "accepted",
+   "decision_note": "Your words."
+  },
+  {
+   "section": "The cave",
+   "title": "The ending",
+   "kind": "changed",
+   "tags": [
+    "round3"
+   ],
+   "before": "Wena put her head in his lap. He laid his hand on it and moved his thumb once between her eyes, the way Gerolt had.\n\nHe cried with his face pressed into her wet fur, quietly, so that Silas wouldn't hear.\n\n*I'm sorry.*",
+   "after": "Wena put her head in his lap. He stroked it, and then he was crying with his face pressed into her wet fur, quietly, so that Silas wouldn't hear.\n\n\"I'm sorry,\" he whispered to her. \"I'm sorry.\"",
+   "why": "The author: \"I don't like [the thumb between Wena's eyes]. He can just pet Wena's head and cry 'I'm sorry' to her, but it has a double meaning, saying sorry to Gerolt as well.\" The double meaning is left for the reader; nothing points at it.",
+   "decision": "accepted",
+   "decision_note": "Your ending."
+  },
+  {
+   "section": "The bridge",
+   "title": "The man went on",
+   "kind": "changed",
+   "tags": [
+    "final"
+   ],
+   "before": "Alaric didn't know how, and there was no time to ask. The man was already moving, and Alaric's feet went after him.",
+   "after": "Alaric didn't know how, and there was no time to ask. The man went on, and Alaric's feet went after him.",
+   "why": "A craft fix from the final pass. The same fault as \"already looking at the fire\": Alaric can't know when someone else started."
+  },
+  {
+   "section": "The bridge",
+   "title": "In the water to his knees",
+   "kind": "changed",
+   "tags": [
+    "final"
+   ],
+   "before": "\"Leave the dog.\" The man was already in the water to his knees. \"We'll never get across hauling a mutt that wants to go back to a dead man.\"",
+   "after": "\"Leave the dog.\" The man was in the water to his knees. \"We'll never get across hauling a mutt that wants to go back to a dead man.\"",
+   "why": "A craft fix from the final pass. The same \"already\" fault."
+  },
+  {
+   "section": "The last elf",
+   "title": "The cloak round the hilt",
+   "kind": "changed",
+   "tags": [
+    "final"
+   ],
+   "before": "When he looked back, the man had let go of the hilt and was shaking his hand out, hissing through his teeth. He wrapped the corner of his cloak round it before he pulled the blade free. The horse was still screaming. He went to it and ended that too, with one quick cut, and wiped the blade on the dead elf's cloak.",
+   "after": "When he looked back, the man had let go of the hilt and was shaking his hand out, hissing through his teeth. He wrapped the corner of his cloak round the hilt before he pulled the blade free. The horse was still screaming. He went to it and ended that too, with one quick cut, and wiped the blade on the dead elf's cloak.",
+   "why": "A craft fix from the final pass. \"Round it\" could have meant his hand or the hot hilt."
+  },
+  {
+   "section": "The cave",
+   "title": "Ducked out",
+   "kind": "changed",
+   "tags": [
+    "final"
+   ],
+   "before": "\"Get some sleep,\" he said, and pushed out through the branches.",
+   "after": "\"Get some sleep,\" he said, and ducked out through the branches.",
+   "why": "A craft fix from the final pass. \"Pushed\" came three times in the last two paragraphs."
   }
  ]
 }

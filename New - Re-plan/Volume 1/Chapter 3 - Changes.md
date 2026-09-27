@@ -8,10 +8,14 @@ Started 27 September 2026. This is the change list for Chapter 3. The first draf
 
 **Round 2 (27 September).** The bridge is as the author describes it: a small fire, guards chatting, a rider among them speaking, in joined-up sentences. The glimpse of Silas's grief and the rider from the bridge are accepted. Silas's reaction becomes disbelief ("a battle that size on Gerolt's farm would be the talk of Kelmend"). Three point-of-view fixes make everything Alaric can't see in the cave, with his hands over his face or his eyes on the sword, something he hears.
 
+**Round 3 (27 September).** Silas's swearing in the river is now the author's ("stupid little prick, should've listened to me"), and "He didn't care to ask for Alaric's". "Already" is gone from "looking at the fire", because Alaric can't know it. The ending: he strokes Wena's head and whispers "I'm sorry" to her, which is also meant for Gerolt, and nobody says so. Everything else from the draft's list is approved, including the title.
+
+**Round 4 (27 September): the final pass.** A full read-through against the final check and the end of Chapter 2. Continuity holds, and nothing needed a judgement call. There are four craft fixes (changes 14, 15, 16, 17): two more "already"s Alaric couldn't know, an unclear "it", and a repeated "pushed".
+
 ## At a glance
 
-- **10 changes proposed.** 0 rejected so far, so 10 are in the chapter: 10 rewritten, 0 cut and 0 added.
-- **Length:** 1,896 words before, 1,986 after.
+- **17 changes proposed.** 0 rejected so far, so 17 are in the chapter: 17 rewritten, 0 cut and 0 added.
+- **Length:** 1,896 words before, 1,991 after.
 - **Median paragraph:** 16 words before, 16 after. The house target is roughly 14–22.
 - **"Nothing":** 3 times before, 3 after.
 
@@ -30,6 +34,10 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 5, The rider from the bridge:** "Agreed."
 - **Change 6, Behind his hands:** Your idea; the words are mine. Tell me if it's too much.
 - **Change 7, Silas doesn't believe him:** Your line; the words are mine.
+- **Change 10, Already looking at the fire:** After "how does he know he is already looking at it?"
+- **Change 11, Silas swearing:** Your line; the snarl is mine.
+- **Change 12, He didn't care to ask:** Your words.
+- **Change 13, The ending:** Your ending.
 
 ## What each note became
 
@@ -38,6 +46,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 3. **Behind his hands:** Gerolt at supper, well, and seeing Silas would make it real (change 6).
 4. **Proposed additions:** changes 4, 5, 7.
 5. **Round 2:** Silas doesn't believe him (change 7). Point-of-view fixes: changes 8, 9, 10.
+6. **Round 3:** changes 11, 12, 13 and change 10.
 
 ## The changes
 
@@ -247,6 +256,132 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> Alaric stared at him, but Silas was already looking at the fire.
+> Alaric stared at him, but Silas was looking at the fire.
 
-**Why.** A point-of-view fix from round 2. He has already looked up (change 10). The two short sentences are joined too.
+**Why.** A point-of-view fix from round 2. He has already looked up (change 10). The two short sentences are joined too. (Round 3, the author: "how does he know he is already looking at it?" He can't, so "already" goes.)
+
+**Your decision.** After "how does he know he is already looking at it?"
+
+### The river
+
+#### 11. Silas swearing
+
+*Draft lines 79–81 → revised lines 81–83*
+
+**Before**
+
+> "—stupid, stubborn little—"
+>
+> The river took the rest.
+
+**After**
+
+> "—stupid little prick, should've listened to me—"
+>
+> The rest came out as a snarl, and the river took it.
+
+**Why.** The author: "stupid little prick, should have listened to me, grrahh (something like that, make it better)". The "grrahh" is the snarl the river swallows.
+
+**Your decision.** Your line; the snarl is mine.
+
+### The cave
+
+#### 12. He didn't care to ask
+
+*Draft line 139 → revised line 141*
+
+**Before**
+
+> He didn't ask for Alaric's.
+
+**After**
+
+> He didn't care to ask for Alaric's.
+
+**Why.** The author: "he didn't care to ask for Alaric's".
+
+**Your decision.** Your words.
+
+#### 13. The ending
+
+*Draft lines 189–193 → revised lines 193–195*
+
+**Before**
+
+> Wena put her head in his lap. He laid his hand on it and moved his thumb once between her eyes, the way Gerolt had.
+>
+> He cried with his face pressed into her wet fur, quietly, so that Silas wouldn't hear.
+>
+> *I'm sorry.*
+
+**After**
+
+> Wena put her head in his lap. He stroked it, and then he was crying with his face pressed into her wet fur, quietly, so that Silas wouldn't hear.
+>
+> "I'm sorry," he whispered to her. "I'm sorry."
+
+**Why.** The author: "I don't like [the thumb between Wena's eyes]. He can just pet Wena's head and cry 'I'm sorry' to her, but it has a double meaning, saying sorry to Gerolt as well." The double meaning is left for the reader; nothing points at it.
+
+**Your decision.** Your ending.
+
+### The run and the bridge
+
+#### 14. The man went on
+
+*Draft line 39 → revised line 39*
+
+**Before**
+
+> Alaric didn't know how, and there was no time to ask. The man was already moving, and Alaric's feet went after him.
+
+**After**
+
+> Alaric didn't know how, and there was no time to ask. The man went on, and Alaric's feet went after him.
+
+**Why.** A craft fix from the final pass. The same fault as "already looking at the fire": Alaric can't know when someone else started.
+
+#### 15. In the water to his knees
+
+*Draft line 65 → revised line 67*
+
+**Before**
+
+> "Leave the dog." The man was already in the water to his knees. "We'll never get across hauling a mutt that wants to go back to a dead man."
+
+**After**
+
+> "Leave the dog." The man was in the water to his knees. "We'll never get across hauling a mutt that wants to go back to a dead man."
+
+**Why.** A craft fix from the final pass. The same "already" fault.
+
+### The last elf
+
+#### 16. The cloak round the hilt
+
+*Draft line 109 → revised line 111*
+
+**Before**
+
+> When he looked back, the man had let go of the hilt and was shaking his hand out, hissing through his teeth. He wrapped the corner of his cloak round it before he pulled the blade free. The horse was still screaming. He went to it and ended that too, with one quick cut, and wiped the blade on the dead elf's cloak.
+
+**After**
+
+> When he looked back, the man had let go of the hilt and was shaking his hand out, hissing through his teeth. He wrapped the corner of his cloak round the hilt before he pulled the blade free. The horse was still screaming. He went to it and ended that too, with one quick cut, and wiped the blade on the dead elf's cloak.
+
+**Why.** A craft fix from the final pass. "Round it" could have meant his hand or the hot hilt.
+
+### The cave
+
+#### 17. Ducked out
+
+*Draft line 185 → revised line 189*
+
+**Before**
+
+> "Get some sleep," he said, and pushed out through the branches.
+
+**After**
+
+> "Get some sleep," he said, and ducked out through the branches.
+
+**Why.** A craft fix from the final pass. "Pushed" came three times in the last two paragraphs.

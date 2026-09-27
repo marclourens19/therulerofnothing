@@ -1,6 +1,6 @@
 # Chapter 3: Design
 
-Started 27 September 2026. **Status:** rounds 1 and 2 and the lines are agreed (27 September). The first draft is written: `Chapter 3 - The Weight of the Living.md`, compared with the old chapters in `Chapter 3 - From the Old Chapters.md`. This is the plan for Chapter 3, agreed one question at a time before any writing, following the `chapter-rewrite` skill. Most of the old material changes, so the plan comes first.
+Started 27 September 2026. **Status:** rounds 1 and 2 and the lines are agreed (27 September). The first draft is written: `Chapter 3 - The Weight of the Living.md`, compared with the old chapters in `Chapter 3 - From the Old Chapters.md`. The author's notes are rounds 1–3 of `Chapter 3 - Changes.md`, and round 4 is the final pass. Every call is answered. This is the plan for Chapter 3, agreed one question at a time before any writing, following the `chapter-rewrite` skill. Most of the old material changes, so the plan comes first.
 
 ## Where Chapter 2 leaves it
 
