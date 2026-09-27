@@ -208,6 +208,16 @@ One night, in Alaric's eyes, with no scene breaks:
    - At the last stand: "What do I do, I can't do anything, I want to help, I can't, I'm scared to help, I will die, I don't want to die."
    - When Gerolt goes down in the forest: not given, so Claude proposes it in the draft as a call for the author.
 
+### The author's notes on the redraft (27 September)
+
+- "Things like this kind of draw the scene away now: 'Alaric stopped laughing.' You don't need to explain things like this, because the reader will know he stopped laughing. Laughing doesn't last forever."
+- "Like this as well: 'He stayed on his knees.' The reader knows he is on his knees."
+- Call 1: "Yes, could be like Gerolt looked though first 'The trees…', 'Make for the trees lad'."
+- "One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words."
+- "'Wena looked from Gerolt to them. Then she came after them.' Scenes like this are like just saying it for the sake of it. Remember it's all in Alaric's perspective: he saw Wena staring at Gerolt, then at them, she paused for a brief moment, then ran after Alaric."
+
+They're round 1 of the change list (`Chapter 2 - Changes.md`).
+
 ### Conversations to design together (after round 6)
 
 The author gives each line in their own words, and Claude gives it back in the character's voice.

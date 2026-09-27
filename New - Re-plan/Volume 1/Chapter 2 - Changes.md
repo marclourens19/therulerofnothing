@@ -1,18 +1,459 @@
 # Chapter 2: Changes
 
-Started 27 September 2026. This is the change list for the redesigned Chapter 2. The redesign itself is compared with the version before it, scene by scene, in `Chapter 2 - What the Redesign Changed.md`. Its first draft is saved unchanged as `Drafts/Chapter 2 - The Price of a Voice (Draft 2, the redesign).md`, and every later round is a change against it. The version before the redesign, with its own 38 changes, is kept in `Drafts/` as Version 1.
+Started 27 September 2026. This is the change list for the redesigned Chapter 2. The redesign is compared with the version before it, scene by scene, in `Chapter 2 - What the Redesign Changed.md`. Its first draft is saved unchanged as `Drafts/Chapter 2 - The Price of a Voice (Draft 2, the redesign).md`, and every round is a change against it. The version before the redesign, with its own 38 changes, is kept in `Drafts/` as Version 1.
+
+**Round 1 (27 September): the author's notes on the redesigned draft.** Four notes, taken as given: cut "Alaric stopped laughing" and "He stayed on his knees", add Gerolt's "The trees…", and show Wena as Alaric sees her. One instruction applied across the chapter: "the dark". The same rule as the two cuts is applied to eight more lines, and each of those waits on your yes or no.
 
 ## At a glance
 
-- **0 changes proposed.** 0 rejected so far, so 0 are in the chapter: 0 rewritten, 0 cut and 0 added.
-- **Length:** 4,684 words before, 4,684 after.
+- **24 changes proposed.** 0 rejected so far, so 24 are in the chapter: 19 rewritten, 5 cut and 0 added.
+- **Length:** 4,684 words before, 4,628 after.
 - **Median paragraph:** 14 words before, 14 after. The house target is roughly 14–22.
 - **"Nothing":** 2 times before, 2 after.
+- **"The dark":** as a place, 8 times before and 0 after. "Dark" in all: 19 before, 5 after (changes 1, 2, 3, 4, 5, 7, 8, 10, 13, 18, 19, 20, 24). The five left are all from Version 1: the grip, the cloth, the elves' armour twice, and the blood he coughs up.
+- **Lines that told the reader what they already knew:** 2 cut on your word (changes 14, 21), and 8 more proposed (changes 9, 11, 12, 15, 16, 17, 18, 22).
 
 ## Your call
 
-These changes add something about a character or the world that you haven't decided yet. Each needs a yes or no from you.
+Each of these needs a yes or no from you. It adds something about a character or the world that you haven't decided, or it's a change you didn't ask for.
 
-- Nothing is waiting on you. Every change that needed your answer has one.
+- **Change 9, "Go on".** Cut "The boy stopped pulling." and say "Go on" once?
+- **Change 11, "Neither of them moved".** Cut "Neither of them moved."?
+- **Change 12, "They carried on down the slope".** Cut it?
+- **Change 15, "The laughing stopped".** Cut it?
+- **Change 16, "He didn't fall".** Cut "He didn't fall."?
+- **Change 17, "The fire was still burning".** Cut it?
+- **Change 18, The rider coming up the slope.** The rider's line folded into what Alaric sees, and the last kill made concrete: yes?
+- **Change 22, The man turns.** Cut "The man stayed where he was."?
+
+**Already decided**
+
+- **Change 1, The door turning:** By your instruction to "cut down on" the dark.
+- **Change 2, Her screaming:** By your instruction to "cut down on" the dark.
+- **Change 3, Where the torch had gone:** By your instruction to "cut down on" the dark.
+- **Change 4, The lights in the distance:** By your instruction to "cut down on" the dark.
+- **Change 5, The doorpost:** By your instruction to "cut down on" the dark.
+- **Change 6, "The trees…":** Your line. Tell me if I've read it wrongly.
+- **Change 7, The trees come close:** By your instruction to "cut down on" the dark.
+- **Change 8, Under the branches:** By your instruction to "cut down on" the dark.
+- **Change 10, The blood on the roots:** By your instruction to "cut down on" the dark.
+- **Change 13, The river:** By your instruction to "cut down on" the dark.
+- **Change 14, "Alaric stopped laughing":** Your note.
+- **Change 19, The man's cloak and face:** By your instruction to "cut down on" the dark.
+- **Change 20, Gerolt's beard:** By your instruction to "cut down on" the dark.
+- **Change 21, "He stayed on his knees":** Your note.
+- **Change 23, Wena:** Your note. The words are mine; tell me if the pause should read differently.
+- **Change 24, The last line:** By your instruction to "cut down on" the dark.
+
+## What each note became
+
+1. **"Alaric stopped laughing."** Cut, as you said: change 14.
+2. **"He stayed on his knees."** Cut, as you said: change 21. The page still never says he's dead: after the "heh" the fire goes out, and the last line shows him kneeling.
+3. **"The trees…"** Gerolt looks at the window, says "The trees…", then gives the order: change 6.
+4. **Wena.** Shown as Alaric sees it: she stares at Gerolt, looks at him, doesn't come, then runs after him: change 23.
+5. **"The dark."** Every "the dark" is gone, and "dark" is down from 19 to 5: changes 1, 2, 3, 4, 5, 7, 8, 10, 13, 18, 19, 20, 24.
+6. **The same rule, applied further.** Eight more lines that told the reader what they already knew: changes 9, 11, 12, 15, 16, 17, 18, 22. These are the only changes waiting on you.
 
 ## The changes
+
+### The door (draft lines 3–101)
+
+#### 1. The door turning
+
+*Draft line 49 → revised line 49*
+
+**Before**
+
+> The latch tore out of the frame. The hinges went with it. The whole door came across the cabin in one piece, turning in the dark, and the boy threw himself flat.
+
+**After**
+
+> The latch tore out of the frame. The hinges went with it. The whole door came across the cabin in one piece, turning as it came, and the boy threw himself flat.
+
+**Why.** The author: "One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words." The replacement words are mine; reject any you don't like. This line is from Version 1.
+
+**Your decision.** By your instruction to "cut down on" the dark.
+
+### The fight (draft lines 103–183)
+
+#### 2. Her screaming
+
+*Draft line 135 → revised line 135*
+
+**Before**
+
+> Hooves crashed away through the stalks, and her screaming went with them into the dark.
+
+**After**
+
+> Hooves crashed away through the stalks, and her screaming went with them.
+
+**Why.** The author: "One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words." The replacement words are mine; reject any you don't like. From Version 1. The next line ("Gerolt watched until the torchlight was gone") already says she's out of sight.
+
+**Your decision.** By your instruction to "cut down on" the dark.
+
+#### 3. Where the torch had gone
+
+*Draft line 155 → revised line 155*
+
+**Before**
+
+> Beyond the doorway, the dead elf's horse turned circles in the moonlight under its empty saddle, snorting at the blood on the threshold. The boy looked from it to the dark where the torch had gone, and his stomach dropped.
+
+**After**
+
+> Beyond the doorway, the dead elf's horse turned circles in the moonlight under its empty saddle, snorting at the blood on the threshold. The boy looked from it to where the torch had gone, and his stomach dropped.
+
+**Why.** The author: "One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words." The replacement words are mine; reject any you don't like. From Version 1.
+
+**Your decision.** By your instruction to "cut down on" the dark.
+
+### The fire (draft lines 185–239)
+
+#### 4. The lights in the distance
+
+*Draft line 187 → revised line 187*
+
+**Before**
+
+> Past the doorway, out beyond the wheat, small lights had come up out of the dark. A line of them, far off, and moving.
+
+**After**
+
+> Past the doorway, out beyond the wheat, small lights had appeared. A line of them, far off, and moving.
+
+**Why.** The author: "One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words." The replacement words are mine; reject any you don't like.
+
+**Your decision.** By your instruction to "cut down on" the dark.
+
+#### 5. The doorpost
+
+*Draft line 215 → revised line 215*
+
+**Before**
+
+> The wood darkened under his palm. Smoke crept out between his fingers, then flame, small at first, running up the post in a thin line and into the eaves. It caught there with a soft sound and spread. By the time Gerolt took his hand away, the whole front of the roof was alight.
+
+**After**
+
+> The wood blackened under his palm. Smoke crept out between his fingers, then flame, small at first, running up the post in a thin line and into the eaves. It caught there with a soft sound and spread. By the time Gerolt took his hand away, the whole front of the roof was alight.
+
+**Why.** The author: "One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words." The replacement words are mine; reject any you don't like. Burning wood blackens, so it's also the plainer word.
+
+**Your decision.** By your instruction to "cut down on" the dark.
+
+#### 6. "The trees…"
+
+*Draft lines 237–239 → revised lines 237–239*
+
+**Before**
+
+> Gerolt raised his head and looked at it, for as long as it took the horse to shift its feet twice. Then he turned his head the other way, towards the black line of trees at the far side of the field.
+>
+> "Make for the trees, lad."
+
+**After**
+
+> Gerolt raised his head and looked at it, for as long as it took the horse to shift its feet twice. Then he turned his head the other way, towards the line of trees at the far side of the field.
+>
+> "The trees…" he said. "Make for the trees, lad."
+
+**Why.** Your answer to call 1: "Yes, could be like Gerolt looked though first 'The trees…', 'Make for the trees lad'." I read it as: he looks at the window, then says "The trees…" as he decides, then gives the order. Both lines are his, so they share one paragraph, and the "…" carries the pause. "Black line" also goes, since "black" was standing in for "dark".
+
+**Your decision.** Your line. Tell me if I've read it wrongly.
+
+### The ride (draft lines 241–267)
+
+#### 7. The trees come close
+
+*Draft line 269 → revised line 269*
+
+**Before**
+
+> The trees came up at them out of the dark. The boy could see the moonlight on the first trunks when something hissed past his ear, and then another. The horse screamed. Its stride broke, and the ground came up to meet him.
+
+**After**
+
+> The trees were close now. The boy could see the moonlight on the first trunks when something hissed past his ear, and then another. The horse screamed. Its stride broke, and the ground came up to meet him.
+
+**Why.** The author: "One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words." The replacement words are mine; reject any you don't like.
+
+**Your decision.** By your instruction to "cut down on" the dark.
+
+### The forest and the river (draft lines 269–405)
+
+#### 8. Under the branches
+
+*Draft line 287 → revised line 287*
+
+**Before**
+
+> It was dark under the branches, with the moon coming through in patches. Roots caught at their feet. Twice the boy went down on one knee under Gerolt's weight, and twice Gerolt leaned on the sword and waited, breathing in short, careful pulls, until the boy could get up again. Wena ran ahead of them and kept stopping to look back.
+
+**After**
+
+> Under the branches, the moon came through only in patches. Roots caught at their feet. Twice the boy went down on one knee under Gerolt's weight, and twice Gerolt leaned on the sword and waited, breathing in short, careful pulls, until the boy could get up again. Wena ran ahead of them and kept stopping to look back.
+
+**Why.** The author: "One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words." The replacement words are mine; reject any you don't like. It says how little light there is, without the word.
+
+**Your decision.** By your instruction to "cut down on" the dark.
+
+#### 9. "Go on"
+
+*Draft lines 303–307 → revised line 303*
+
+**Before**
+
+> "Go on," Gerolt said.
+>
+> The boy stopped pulling.
+>
+> "Go on," Gerolt said again. His eyes were open now. "Leave me here."
+
+**After**
+
+> "Go on," Gerolt said. His eyes were open now. "Leave me here."
+
+**Why.** Your rule on "Alaric stopped laughing" and "He stayed on his knees" ("you don't need to explain things like this, because the reader will know"), applied to a line you didn't name. Of course he stops pulling when Gerolt speaks, so "Go on" only needs saying once.
+
+**Your call.** Cut "The boy stopped pulling." and say "Go on" once?
+
+#### 10. The blood on the roots
+
+*Draft line 321 → revised line 317*
+
+**Before**
+
+> The boy looked at the dog curled against Gerolt's side, then at the blood spreading dark over the roots beneath them both.
+
+**After**
+
+> The boy looked at the dog curled against Gerolt's side, then at the blood spreading over the roots beneath them both.
+
+**Why.** The author: "One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words." The replacement words are mine; reject any you don't like.
+
+**Your decision.** By your instruction to "cut down on" the dark.
+
+#### 11. "Neither of them moved"
+
+*Draft line 385 → revised line 381*
+
+**Before**
+
+> Neither of them moved. Up behind them, the torchlight went on searching between the trees.
+
+**After**
+
+> Up behind them, the torchlight went on searching between the trees.
+
+**Why.** Your rule on "Alaric stopped laughing" and "He stayed on his knees" ("you don't need to explain things like this, because the reader will know"), applied to a line you didn't name. The torchlight is the news; that they're still sitting there isn't.
+
+**Your call.** Cut "Neither of them moved."?
+
+#### 12. "They carried on down the slope"
+
+*Draft line 393 · cut*
+
+**Before**
+
+> They carried on down the slope.
+
+**After:** cut.
+
+**Why.** Your rule on "Alaric stopped laughing" and "He stayed on his knees" ("you don't need to explain things like this, because the reader will know"), applied to a line you didn't name. The next line starts "Further down", which already says it.
+
+**Your call.** Cut it?
+
+#### 13. The river
+
+*Draft line 395 → revised line 389*
+
+**Before**
+
+> Further down, Alaric heard water. It was only a murmur at first, somewhere below them in the dark, and then it was louder, running over stones.
+
+**After**
+
+> Further down, Alaric heard water. It was only a murmur at first, somewhere below them, and then it was louder, running over stones.
+
+**Why.** The author: "One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words." The replacement words are mine; reject any you don't like.
+
+**Your decision.** By your instruction to "cut down on" the dark.
+
+### The last stand (draft lines 407–473)
+
+#### 14. "Alaric stopped laughing"
+
+*Draft line 409 · cut*
+
+**Before**
+
+> Alaric stopped laughing.
+
+**After:** cut.
+
+**Why.** The author: "Things like this kind of draw the scene away now. You don't need to explain things like this, because the reader will know he stopped laughing. Laughing doesn't last forever."
+
+**Your decision.** Your note.
+
+#### 15. "The laughing stopped"
+
+*Draft line 439 · cut*
+
+**Before**
+
+> The laughing stopped.
+
+**After:** cut.
+
+**Why.** Your rule on "Alaric stopped laughing" and "He stayed on his knees" ("you don't need to explain things like this, because the reader will know"), applied to a line you didn't name. It's the same kind of line as "Alaric stopped laughing": the reader knows the rider stops laughing once Gerolt's arm is on fire.
+
+**Your call.** Cut it?
+
+#### 16. "He didn't fall"
+
+*Draft line 453 → revised line 443*
+
+**Before**
+
+> He rocked back a step, and the fire on his arm flared. He didn't fall. The second arrow went in under his ribs, and he fell to his knees.
+
+**After**
+
+> He rocked back a step, and the fire on his arm flared. The second arrow went in under his ribs, and he fell to his knees.
+
+**Why.** Your rule on "Alaric stopped laughing" and "He stayed on his knees" ("you don't need to explain things like this, because the reader will know"), applied to a line you didn't name. "He rocked back a step" already shows he's still standing.
+
+**Your call.** Cut "He didn't fall."?
+
+#### 17. "The fire was still burning"
+
+*Draft line 455 · cut*
+
+**Before**
+
+> The fire was still burning on his arm.
+
+**After:** cut.
+
+**Why.** Your rule on "Alaric stopped laughing" and "He stayed on his knees" ("you don't need to explain things like this, because the reader will know"), applied to a line you didn't name. Nothing said it went out, so the reader knows it's still burning. "The fire on his hand went out" still lands later.
+
+**Your call.** Cut it?
+
+### Silas (draft lines 475–509)
+
+#### 18. The rider coming up the slope
+
+*Draft lines 475–477 → revised line 463*
+
+**Before**
+
+> The rider coming up the slope never reached him.
+>
+> A blade came around out of the dark behind the elf and took him across the back of the neck, and he went off the side of his horse without a sound. The man who had swung it didn't stop. He ran on past the falling body and was on the next rider before the elf could turn, and he cut the horse's legs out from under it, then the rider as he fell. The last one had an arrow on the string. It missed the man's head, and the man was on him before the elf could draw another.
+
+**After**
+
+> The rider was halfway up the slope when a blade came around from behind and took him across the back of the neck, and he went off the side of his horse without a sound. The man who had swung it didn't stop. He ran on past the falling body and was on the next rider before the elf could turn, and he cut the horse's legs out from under it, then the rider as he fell. The last one had an arrow on the string. It missed the man's head, and the man's blade came down before the elf could draw another.
+
+**Why.** The author: "One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words." The replacement words are mine; reject any you don't like. Also, "never reached him" told the reader how it would end before Alaric saw it happen; now he sees it as it happens. The last kill is now something he sees (the blade coming down), not a summary ("was on him").
+
+**Your call.** The rider's line folded into what Alaric sees, and the last kill made concrete: yes?
+
+#### 19. The man's cloak and face
+
+*Draft line 481 → revised line 467*
+
+**Before**
+
+> The man stood among the bodies, breathing hard. He was big, in a dark cloak, and the heavy blade in his hand was black to the hilt. When he turned, the firelight caught his face: dark stubble, and an old pale scar running from his cheekbone down towards his jaw.
+
+**After**
+
+> The man stood among the bodies, breathing hard. He was big, in a long cloak, and the heavy blade in his hand was black to the hilt. When he turned, the firelight caught his face: stubble, and an old pale scar running from his cheekbone down towards his jaw.
+
+**Why.** The author: "One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words." The replacement words are mine; reject any you don't like. Silas's look itself is still call 10 from the first presentation.
+
+**Your decision.** By your instruction to "cut down on" the dark.
+
+#### 20. Gerolt's beard
+
+*Draft line 485 → revised line 471*
+
+**Before**
+
+> Gerolt lifted his head. The point of one arrow stood out through the back of his shirt. He coughed, and turned his face a little towards the light, and his beard was dark with blood. He looked at the man for a long time.
+
+**After**
+
+> Gerolt lifted his head. The point of one arrow stood out through the back of his shirt. He coughed, and turned his face a little towards the light, and his beard was wet with blood. He looked at the man for a long time.
+
+**Why.** The author: "One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words." The replacement words are mine; reject any you don't like.
+
+**Your decision.** By your instruction to "cut down on" the dark.
+
+#### 21. "He stayed on his knees"
+
+*Draft line 491 · cut*
+
+**Before**
+
+> He stayed on his knees.
+
+**After:** cut.
+
+**Why.** The author: "Like this as well: 'He stayed on his knees.' The reader knows he is on his knees." The page still never says he's dead: the "heh", then the fire going out, and the last line still shows him kneeling.
+
+**Your decision.** Your note.
+
+#### 22. The man turns
+
+*Draft line 493 → revised line 477*
+
+**Before**
+
+> The man stayed where he was. Then his head turned, and he found Alaric in the leaves. His eyes went to the sword across Alaric's lap and stayed there, and something crossed his face that Alaric couldn't read.
+
+**After**
+
+> The man's head turned, and he found Alaric in the leaves. His eyes went to the sword across Alaric's lap and stayed there, and something crossed his face that Alaric couldn't read.
+
+**Why.** Your rule on "Alaric stopped laughing" and "He stayed on his knees" ("you don't need to explain things like this, because the reader will know"), applied to a line you didn't name. He'd already "gone very still" three lines up. It also needs "The man's" now: with "He stayed on his knees" gone, "his head" would point at Gerolt.
+
+**Your call.** Cut "The man stayed where he was."?
+
+#### 23. Wena
+
+*Draft line 507 → revised lines 491–495*
+
+**Before**
+
+> Wena looked from Gerolt to them. Then she came after them.
+
+**After**
+
+> Wena stood at Gerolt's side, staring up at him. Her head turned, and she looked up the slope at Alaric.
+>
+> She didn't come.
+>
+> Then she ran after him.
+
+**Why.** The author: "Scenes like this are like just saying it for the sake of it. Remember it's all in Alaric's perspective: he saw Wena staring at Gerolt, then at them, she paused for a brief moment, then ran after Alaric." Now it's in the order he sees it. The pause is "She didn't come.", which is how it feels from his side, and she runs after him, not after "them".
+
+**Your decision.** Your note. The words are mine; tell me if the pause should read differently.
+
+#### 24. The last line
+
+*Draft line 509 → revised line 497*
+
+**Before**
+
+> Alaric went backwards into the dark with Gerolt's sword still in his hand, and watched Gerolt kneeling in the firelight until he couldn't see him any more.
+
+**After**
+
+> Alaric went backwards through the trees with Gerolt's sword still in his hand, and watched Gerolt kneeling in the firelight until he couldn't see him any more.
+
+**Why.** The author: "One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words." The replacement words are mine; reject any you don't like. The last line itself is still call 13 from the first presentation.
+
+**Your decision.** By your instruction to "cut down on" the dark.

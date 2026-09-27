@@ -81,6 +81,16 @@ def main():
     nothing = grep(r'\bnothing\b')
     print(f'\n== "nothing" (the title word: keep it rare): {len(nothing)}')
     print('   lines: ' + ', '.join(str(n) for n, _ in nothing))
+    dark = grep(r'\bdark(ness|ened|er|est)?\b')
+    print(f'\n== "dark" (the author: "you say \'the dark\' a lot. Cut down on that, find other words"): {len(dark)}')
+    print('   lines: ' + ', '.join(str(n) for n, _ in dark))
+    report('"The dark" and "darkness" as a place (say where, or what can and can\'t be seen, instead)',
+           grep(r"[^.!?]{0,25}\b(the dark|darkness)\b[^.!?]{0,15}"))
+    report('Short lines that may tell the reader what they already know ("Alaric stopped laughing", '
+           '"He stayed on his knees")',
+           [(n, l) for n, l in prose
+            if len(l.split()) <= 8 and not l.lstrip().startswith(('"', '*'))
+            and re.search(r"\b(stopped|stayed|still|didn't|did not|went on|carried on|kept|remained|never)\b", l, re.I)])
     report('Comparisons (could the viewpoint character make each one from what has happened to them on the page?)',
            grep(r"[^.!?]{0,30}\b(like (a|an|the|some\w*|\w+ing)|as if|as though|the way (a|an|someone|something)|no \w+er than|nothing like)\b[^.!?]{0,30}"),
            limit=60)

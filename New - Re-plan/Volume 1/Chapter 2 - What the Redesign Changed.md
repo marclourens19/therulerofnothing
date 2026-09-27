@@ -25,9 +25,9 @@ The new chapter is saved unchanged as `Drafts/Chapter 2 - The Price of a Voice (
 
 ## Your call
 
-These are new, mine rather than yours, and each needs a yes or no.
+These are new, mine rather than yours, and each needs a yes or no. Since this was written, your notes have become round 1 of `Chapter 2 - Changes.md`, and the quotes below show the draft before them.
 
-1. **The neighbours' window.** As they ride out: "Two fields over, a single window was lit." Gerolt looks at it, then turns the other way: "Make for the trees, lad." It's the only place the reader learns why he runs that way, and nobody says it.
+1. **The neighbours' window.** As they ride out: "Two fields over, a single window was lit." Gerolt looks at it, then turns the other way: "Make for the trees, lad." It's the only place the reader learns why he runs that way, and nobody says it. **Answered:** yes, and Gerolt says "The trees…" first (`Chapter 2 - Changes.md`, change 6).
 2. **How he lights the house.** He puts his palm flat on the doorpost, and the fire runs up it into the eaves. Afterwards "His palm had gone an angry red. He didn't look at it." That's the same cost as the candle in Chapter 1.
 3. **Alaric and the horse.** "Up close, it was taller than any horse he had pictured when he heard the word." He gets on badly, half hanging off it. It's the memory rule lived: he knows what a horse is, but has never been on one.
 4. **Gerolt's small lines, all new:**
@@ -42,7 +42,7 @@ These are new, mine rather than yours, and each needs a yes or no.
 9. **A rider laughs** at Gerolt standing alone with empty hands, and "The laughing stopped" when his hand catches fire.
 10. **Silas's look,** taken from the old World Bible: "He was big, in a dark cloak, and the heavy blade in his hand was black to the hilt. When he turned, the firelight caught his face: dark stubble, and an old pale scar running from his cheekbone down towards his jaw." He kills the three riders who are left.
 11. **Silas and the sword.** "His eyes went to the sword across Alaric's lap and stayed there, and something crossed his face that Alaric couldn't read." This is where he knows his master's blade.
-12. **Wena at the end.** She runs to Gerolt, pushes her nose under his hand, then follows them.
+12. **Wena at the end.** She runs to Gerolt, pushes her nose under his hand, then follows them. **Answered:** reworked to show it as Alaric sees it (change 23).
 13. **The last line:** "Alaric went backwards into the dark with Gerolt's sword still in his hand, and watched Gerolt kneeling in the firelight until he couldn't see him any more." It keeps the shape of the line you called "perfect".
 14. **Two approved lines had no place:** "Careful, lad. I run hot." (it answered the hot hand in the cabin, which is gone) and "On that field… Found one lad still breathing." *Recommended:* leave both out, to keep the forest short.
 

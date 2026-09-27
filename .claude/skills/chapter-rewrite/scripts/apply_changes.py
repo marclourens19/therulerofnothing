@@ -135,8 +135,8 @@ def main():
     w('')
     w('## Your call')
     w('')
-    w("These changes add something about a character or the world that you haven't decided yet. "
-      'Each needs a yes or no from you.')
+    w("Each of these needs a yes or no from you. It adds something about a character or the world "
+      "that you haven't decided, or it's a change you didn't ask for.")
     w('')
     pending = [c for c in changes if c.get('call') and not c.get('decision')]
     for c in pending:

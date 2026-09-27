@@ -3,9 +3,325 @@
  "draft": "Chapter 2 - The Price of a Voice (Draft 2, the redesign).md",
  "chapter": "../Chapter 2 - The Price of a Voice.md",
  "changes_file": "../Chapter 2 - Changes.md",
- "intro_md": "Started 27 September 2026. This is the change list for the redesigned Chapter 2. The redesign itself is compared with the version before it, scene by scene, in `Chapter 2 - What the Redesign Changed.md`. Its first draft is saved unchanged as `Drafts/Chapter 2 - The Price of a Voice (Draft 2, the redesign).md`, and every later round is a change against it. The version before the redesign, with its own 38 changes, is kept in `Drafts/` as Version 1.",
- "glance": [],
- "summary_md": "",
- "sections": {},
- "changes": []
+ "intro_md": "Started 27 September 2026. This is the change list for the redesigned Chapter 2. The redesign is compared with the version before it, scene by scene, in `Chapter 2 - What the Redesign Changed.md`. Its first draft is saved unchanged as `Drafts/Chapter 2 - The Price of a Voice (Draft 2, the redesign).md`, and every round is a change against it. The version before the redesign, with its own 38 changes, is kept in `Drafts/` as Version 1.\n\n**Round 1 (27 September): the author's notes on the redesigned draft.** Four notes, taken as given: cut \"Alaric stopped laughing\" and \"He stayed on his knees\", add Gerolt's \"The trees…\", and show Wena as Alaric sees her. One instruction applied across the chapter: \"the dark\". The same rule as the two cuts is applied to eight more lines, and each of those waits on your yes or no.",
+ "glance": [
+  "**\"The dark\":** as a place, 8 times before and 0 after. \"Dark\" in all: 19 before, 5 after (changes {tag:dark}). The five left are all from Version 1: the grip, the cloth, the elves' armour twice, and the blood he coughs up.",
+  "**Lines that told the reader what they already knew:** 2 cut on your word (changes {tag:yourcuts}), and 8 more proposed (changes {tag:further})."
+ ],
+ "summary_md": "## What each note became\n\n1. **\"Alaric stopped laughing.\"** Cut, as you said: change 14.\n2. **\"He stayed on his knees.\"** Cut, as you said: change 21. The page still never says he's dead: after the \"heh\" the fire goes out, and the last line shows him kneeling.\n3. **\"The trees…\"** Gerolt looks at the window, says \"The trees…\", then gives the order: change {tag:trees}.\n4. **Wena.** Shown as Alaric sees it: she stares at Gerolt, looks at him, doesn't come, then runs after him: change {tag:wena}.\n5. **\"The dark.\"** Every \"the dark\" is gone, and \"dark\" is down from 19 to 5: changes {tag:dark}.\n6. **The same rule, applied further.** Eight more lines that told the reader what they already knew: changes {tag:further}. These are the only changes waiting on you.",
+ "sections": {
+  "The door": "The door (draft lines 3–101)",
+  "The fight": "The fight (draft lines 103–183)",
+  "The fire": "The fire (draft lines 185–239)",
+  "The ride": "The ride (draft lines 241–267)",
+  "The forest": "The forest and the river (draft lines 269–405)",
+  "The last stand": "The last stand (draft lines 407–473)",
+  "Silas": "Silas (draft lines 475–509)"
+ },
+ "changes": [
+  {
+   "section": "The door",
+   "title": "The door turning",
+   "kind": "changed",
+   "tags": [
+    "dark"
+   ],
+   "before": "The latch tore out of the frame. The hinges went with it. The whole door came across the cabin in one piece, turning in the dark, and the boy threw himself flat.",
+   "after": "The latch tore out of the frame. The hinges went with it. The whole door came across the cabin in one piece, turning as it came, and the boy threw himself flat.",
+   "why": "The author: \"One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words.\" The replacement words are mine; reject any you don't like. This line is from Version 1.",
+   "decision": "accepted",
+   "decision_note": "By your instruction to \"cut down on\" the dark."
+  },
+  {
+   "section": "The fight",
+   "title": "Her screaming",
+   "kind": "changed",
+   "tags": [
+    "dark"
+   ],
+   "before": "Hooves crashed away through the stalks, and her screaming went with them into the dark.",
+   "after": "Hooves crashed away through the stalks, and her screaming went with them.",
+   "why": "The author: \"One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words.\" The replacement words are mine; reject any you don't like. From Version 1. The next line (\"Gerolt watched until the torchlight was gone\") already says she's out of sight.",
+   "decision": "accepted",
+   "decision_note": "By your instruction to \"cut down on\" the dark."
+  },
+  {
+   "section": "The fight",
+   "title": "Where the torch had gone",
+   "kind": "changed",
+   "tags": [
+    "dark"
+   ],
+   "before": "Beyond the doorway, the dead elf's horse turned circles in the moonlight under its empty saddle, snorting at the blood on the threshold. The boy looked from it to the dark where the torch had gone, and his stomach dropped.",
+   "after": "Beyond the doorway, the dead elf's horse turned circles in the moonlight under its empty saddle, snorting at the blood on the threshold. The boy looked from it to where the torch had gone, and his stomach dropped.",
+   "why": "The author: \"One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words.\" The replacement words are mine; reject any you don't like. From Version 1.",
+   "decision": "accepted",
+   "decision_note": "By your instruction to \"cut down on\" the dark."
+  },
+  {
+   "section": "The fire",
+   "title": "The lights in the distance",
+   "kind": "changed",
+   "tags": [
+    "dark"
+   ],
+   "before": "Past the doorway, out beyond the wheat, small lights had come up out of the dark. A line of them, far off, and moving.",
+   "after": "Past the doorway, out beyond the wheat, small lights had appeared. A line of them, far off, and moving.",
+   "why": "The author: \"One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words.\" The replacement words are mine; reject any you don't like.",
+   "decision": "accepted",
+   "decision_note": "By your instruction to \"cut down on\" the dark."
+  },
+  {
+   "section": "The fire",
+   "title": "The doorpost",
+   "kind": "changed",
+   "tags": [
+    "dark"
+   ],
+   "before": "The wood darkened under his palm. Smoke crept out between his fingers, then flame, small at first, running up the post in a thin line and into the eaves. It caught there with a soft sound and spread. By the time Gerolt took his hand away, the whole front of the roof was alight.",
+   "after": "The wood blackened under his palm. Smoke crept out between his fingers, then flame, small at first, running up the post in a thin line and into the eaves. It caught there with a soft sound and spread. By the time Gerolt took his hand away, the whole front of the roof was alight.",
+   "why": "The author: \"One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words.\" The replacement words are mine; reject any you don't like. Burning wood blackens, so it's also the plainer word.",
+   "decision": "accepted",
+   "decision_note": "By your instruction to \"cut down on\" the dark."
+  },
+  {
+   "section": "The fire",
+   "title": "\"The trees…\"",
+   "kind": "changed",
+   "tags": [
+    "author",
+    "trees"
+   ],
+   "before": "Gerolt raised his head and looked at it, for as long as it took the horse to shift its feet twice. Then he turned his head the other way, towards the black line of trees at the far side of the field.\n\n\"Make for the trees, lad.\"",
+   "after": "Gerolt raised his head and looked at it, for as long as it took the horse to shift its feet twice. Then he turned his head the other way, towards the line of trees at the far side of the field.\n\n\"The trees…\" he said. \"Make for the trees, lad.\"",
+   "why": "Your answer to call 1: \"Yes, could be like Gerolt looked though first 'The trees…', 'Make for the trees lad'.\" I read it as: he looks at the window, then says \"The trees…\" as he decides, then gives the order. Both lines are his, so they share one paragraph, and the \"…\" carries the pause. \"Black line\" also goes, since \"black\" was standing in for \"dark\".",
+   "decision": "accepted",
+   "decision_note": "Your line. Tell me if I've read it wrongly."
+  },
+  {
+   "section": "The ride",
+   "title": "The trees come close",
+   "kind": "changed",
+   "tags": [
+    "dark"
+   ],
+   "before": "The trees came up at them out of the dark. The boy could see the moonlight on the first trunks when something hissed past his ear, and then another. The horse screamed. Its stride broke, and the ground came up to meet him.",
+   "after": "The trees were close now. The boy could see the moonlight on the first trunks when something hissed past his ear, and then another. The horse screamed. Its stride broke, and the ground came up to meet him.",
+   "why": "The author: \"One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words.\" The replacement words are mine; reject any you don't like.",
+   "decision": "accepted",
+   "decision_note": "By your instruction to \"cut down on\" the dark."
+  },
+  {
+   "section": "The forest",
+   "title": "Under the branches",
+   "kind": "changed",
+   "tags": [
+    "dark"
+   ],
+   "before": "It was dark under the branches, with the moon coming through in patches. Roots caught at their feet. Twice the boy went down on one knee under Gerolt's weight, and twice Gerolt leaned on the sword and waited, breathing in short, careful pulls, until the boy could get up again. Wena ran ahead of them and kept stopping to look back.",
+   "after": "Under the branches, the moon came through only in patches. Roots caught at their feet. Twice the boy went down on one knee under Gerolt's weight, and twice Gerolt leaned on the sword and waited, breathing in short, careful pulls, until the boy could get up again. Wena ran ahead of them and kept stopping to look back.",
+   "why": "The author: \"One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words.\" The replacement words are mine; reject any you don't like. It says how little light there is, without the word.",
+   "decision": "accepted",
+   "decision_note": "By your instruction to \"cut down on\" the dark."
+  },
+  {
+   "section": "The forest",
+   "title": "\"Go on\"",
+   "kind": "changed",
+   "tags": [
+    "further"
+   ],
+   "before": "\"Go on,\" Gerolt said.\n\nThe boy stopped pulling.\n\n\"Go on,\" Gerolt said again. His eyes were open now. \"Leave me here.\"",
+   "after": "\"Go on,\" Gerolt said. His eyes were open now. \"Leave me here.\"",
+   "why": "Your rule on \"Alaric stopped laughing\" and \"He stayed on his knees\" (\"you don't need to explain things like this, because the reader will know\"), applied to a line you didn't name. Of course he stops pulling when Gerolt speaks, so \"Go on\" only needs saying once.",
+   "call": "Cut \"The boy stopped pulling.\" and say \"Go on\" once?"
+  },
+  {
+   "section": "The forest",
+   "title": "The blood on the roots",
+   "kind": "changed",
+   "tags": [
+    "dark"
+   ],
+   "before": "The boy looked at the dog curled against Gerolt's side, then at the blood spreading dark over the roots beneath them both.",
+   "after": "The boy looked at the dog curled against Gerolt's side, then at the blood spreading over the roots beneath them both.",
+   "why": "The author: \"One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words.\" The replacement words are mine; reject any you don't like.",
+   "decision": "accepted",
+   "decision_note": "By your instruction to \"cut down on\" the dark."
+  },
+  {
+   "section": "The forest",
+   "title": "\"Neither of them moved\"",
+   "kind": "changed",
+   "tags": [
+    "further"
+   ],
+   "before": "Neither of them moved. Up behind them, the torchlight went on searching between the trees.",
+   "after": "Up behind them, the torchlight went on searching between the trees.",
+   "why": "Your rule on \"Alaric stopped laughing\" and \"He stayed on his knees\" (\"you don't need to explain things like this, because the reader will know\"), applied to a line you didn't name. The torchlight is the news; that they're still sitting there isn't.",
+   "call": "Cut \"Neither of them moved.\"?"
+  },
+  {
+   "section": "The forest",
+   "title": "\"They carried on down the slope\"",
+   "kind": "cut",
+   "tags": [
+    "further"
+   ],
+   "before": "They carried on down the slope.",
+   "why": "Your rule on \"Alaric stopped laughing\" and \"He stayed on his knees\" (\"you don't need to explain things like this, because the reader will know\"), applied to a line you didn't name. The next line starts \"Further down\", which already says it.",
+   "call": "Cut it?"
+  },
+  {
+   "section": "The forest",
+   "title": "The river",
+   "kind": "changed",
+   "tags": [
+    "dark"
+   ],
+   "before": "Further down, Alaric heard water. It was only a murmur at first, somewhere below them in the dark, and then it was louder, running over stones.",
+   "after": "Further down, Alaric heard water. It was only a murmur at first, somewhere below them, and then it was louder, running over stones.",
+   "why": "The author: \"One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words.\" The replacement words are mine; reject any you don't like.",
+   "decision": "accepted",
+   "decision_note": "By your instruction to \"cut down on\" the dark."
+  },
+  {
+   "section": "The last stand",
+   "title": "\"Alaric stopped laughing\"",
+   "kind": "cut",
+   "tags": [
+    "author",
+    "yourcuts"
+   ],
+   "before": "Alaric stopped laughing.",
+   "why": "The author: \"Things like this kind of draw the scene away now. You don't need to explain things like this, because the reader will know he stopped laughing. Laughing doesn't last forever.\"",
+   "decision": "accepted",
+   "decision_note": "Your note."
+  },
+  {
+   "section": "The last stand",
+   "title": "\"The laughing stopped\"",
+   "kind": "cut",
+   "tags": [
+    "further"
+   ],
+   "before": "The laughing stopped.",
+   "why": "Your rule on \"Alaric stopped laughing\" and \"He stayed on his knees\" (\"you don't need to explain things like this, because the reader will know\"), applied to a line you didn't name. It's the same kind of line as \"Alaric stopped laughing\": the reader knows the rider stops laughing once Gerolt's arm is on fire.",
+   "call": "Cut it?"
+  },
+  {
+   "section": "The last stand",
+   "title": "\"He didn't fall\"",
+   "kind": "changed",
+   "tags": [
+    "further"
+   ],
+   "before": "He rocked back a step, and the fire on his arm flared. He didn't fall. The second arrow went in under his ribs, and he fell to his knees.",
+   "after": "He rocked back a step, and the fire on his arm flared. The second arrow went in under his ribs, and he fell to his knees.",
+   "why": "Your rule on \"Alaric stopped laughing\" and \"He stayed on his knees\" (\"you don't need to explain things like this, because the reader will know\"), applied to a line you didn't name. \"He rocked back a step\" already shows he's still standing.",
+   "call": "Cut \"He didn't fall.\"?"
+  },
+  {
+   "section": "The last stand",
+   "title": "\"The fire was still burning\"",
+   "kind": "cut",
+   "tags": [
+    "further"
+   ],
+   "before": "The fire was still burning on his arm.",
+   "why": "Your rule on \"Alaric stopped laughing\" and \"He stayed on his knees\" (\"you don't need to explain things like this, because the reader will know\"), applied to a line you didn't name. Nothing said it went out, so the reader knows it's still burning. \"The fire on his hand went out\" still lands later.",
+   "call": "Cut it?"
+  },
+  {
+   "section": "Silas",
+   "title": "The rider coming up the slope",
+   "kind": "changed",
+   "tags": [
+    "dark",
+    "further"
+   ],
+   "before": "The rider coming up the slope never reached him.\n\nA blade came around out of the dark behind the elf and took him across the back of the neck, and he went off the side of his horse without a sound. The man who had swung it didn't stop. He ran on past the falling body and was on the next rider before the elf could turn, and he cut the horse's legs out from under it, then the rider as he fell. The last one had an arrow on the string. It missed the man's head, and the man was on him before the elf could draw another.",
+   "after": "The rider was halfway up the slope when a blade came around from behind and took him across the back of the neck, and he went off the side of his horse without a sound. The man who had swung it didn't stop. He ran on past the falling body and was on the next rider before the elf could turn, and he cut the horse's legs out from under it, then the rider as he fell. The last one had an arrow on the string. It missed the man's head, and the man's blade came down before the elf could draw another.",
+   "why": "The author: \"One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words.\" The replacement words are mine; reject any you don't like. Also, \"never reached him\" told the reader how it would end before Alaric saw it happen; now he sees it as it happens. The last kill is now something he sees (the blade coming down), not a summary (\"was on him\").",
+   "call": "The rider's line folded into what Alaric sees, and the last kill made concrete: yes?"
+  },
+  {
+   "section": "Silas",
+   "title": "The man's cloak and face",
+   "kind": "changed",
+   "tags": [
+    "dark"
+   ],
+   "before": "The man stood among the bodies, breathing hard. He was big, in a dark cloak, and the heavy blade in his hand was black to the hilt. When he turned, the firelight caught his face: dark stubble, and an old pale scar running from his cheekbone down towards his jaw.",
+   "after": "The man stood among the bodies, breathing hard. He was big, in a long cloak, and the heavy blade in his hand was black to the hilt. When he turned, the firelight caught his face: stubble, and an old pale scar running from his cheekbone down towards his jaw.",
+   "why": "The author: \"One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words.\" The replacement words are mine; reject any you don't like. Silas's look itself is still call 10 from the first presentation.",
+   "decision": "accepted",
+   "decision_note": "By your instruction to \"cut down on\" the dark."
+  },
+  {
+   "section": "Silas",
+   "title": "Gerolt's beard",
+   "kind": "changed",
+   "tags": [
+    "dark"
+   ],
+   "before": "Gerolt lifted his head. The point of one arrow stood out through the back of his shirt. He coughed, and turned his face a little towards the light, and his beard was dark with blood. He looked at the man for a long time.",
+   "after": "Gerolt lifted his head. The point of one arrow stood out through the back of his shirt. He coughed, and turned his face a little towards the light, and his beard was wet with blood. He looked at the man for a long time.",
+   "why": "The author: \"One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words.\" The replacement words are mine; reject any you don't like.",
+   "decision": "accepted",
+   "decision_note": "By your instruction to \"cut down on\" the dark."
+  },
+  {
+   "section": "Silas",
+   "title": "\"He stayed on his knees\"",
+   "kind": "cut",
+   "tags": [
+    "author",
+    "yourcuts"
+   ],
+   "before": "He stayed on his knees.",
+   "why": "The author: \"Like this as well: 'He stayed on his knees.' The reader knows he is on his knees.\" The page still never says he's dead: the \"heh\", then the fire going out, and the last line still shows him kneeling.",
+   "decision": "accepted",
+   "decision_note": "Your note."
+  },
+  {
+   "section": "Silas",
+   "title": "The man turns",
+   "kind": "changed",
+   "tags": [
+    "further"
+   ],
+   "before": "The man stayed where he was. Then his head turned, and he found Alaric in the leaves. His eyes went to the sword across Alaric's lap and stayed there, and something crossed his face that Alaric couldn't read.",
+   "after": "The man's head turned, and he found Alaric in the leaves. His eyes went to the sword across Alaric's lap and stayed there, and something crossed his face that Alaric couldn't read.",
+   "why": "Your rule on \"Alaric stopped laughing\" and \"He stayed on his knees\" (\"you don't need to explain things like this, because the reader will know\"), applied to a line you didn't name. He'd already \"gone very still\" three lines up. It also needs \"The man's\" now: with \"He stayed on his knees\" gone, \"his head\" would point at Gerolt.",
+   "call": "Cut \"The man stayed where he was.\"?"
+  },
+  {
+   "section": "Silas",
+   "title": "Wena",
+   "kind": "changed",
+   "tags": [
+    "author",
+    "wena"
+   ],
+   "before": "Wena looked from Gerolt to them. Then she came after them.",
+   "after": "Wena stood at Gerolt's side, staring up at him. Her head turned, and she looked up the slope at Alaric.\n\nShe didn't come.\n\nThen she ran after him.",
+   "why": "The author: \"Scenes like this are like just saying it for the sake of it. Remember it's all in Alaric's perspective: he saw Wena staring at Gerolt, then at them, she paused for a brief moment, then ran after Alaric.\" Now it's in the order he sees it. The pause is \"She didn't come.\", which is how it feels from his side, and she runs after him, not after \"them\".",
+   "decision": "accepted",
+   "decision_note": "Your note. The words are mine; tell me if the pause should read differently."
+  },
+  {
+   "section": "Silas",
+   "title": "The last line",
+   "kind": "changed",
+   "tags": [
+    "dark"
+   ],
+   "before": "Alaric went backwards into the dark with Gerolt's sword still in his hand, and watched Gerolt kneeling in the firelight until he couldn't see him any more.",
+   "after": "Alaric went backwards through the trees with Gerolt's sword still in his hand, and watched Gerolt kneeling in the firelight until he couldn't see him any more.",
+   "why": "The author: \"One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words.\" The replacement words are mine; reject any you don't like. The last line itself is still call 13 from the first presentation.",
+   "decision": "accepted",
+   "decision_note": "By your instruction to \"cut down on\" the dark."
+  }
+ ]
 }

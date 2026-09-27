@@ -41,7 +41,7 @@ The rules below come from the author's own instructions ("Never accept my words 
 - **Plain words.** Explain craft terms the first time. Keep chat short and put the detail in files.
 - **The old chapters' characters are out of date.** They were written before the characters were redesigned. Re-voice every character from `Decisions.md`, never from the old draft. For example, Gerolt must sound like Cid. The author: "this is the same for all future chapters we rewrite".
 - **Design important dialogue together.** The author: "I will give my input on how important lines between characters must read, with your input as well. I often tend to put it in my own voice, but you move it from my voice to the characters we agreed." Before drafting, list the chapter's key exchanges and ask for the author's rough version of each. Give it back in the character's agreed voice, show both side by side, and keep what the author meant. Their words are the intent; the voice comes from `Decisions.md`. **Plain beats clever.** Offered a plain line ("Suppose that's goodbye, then") and a joke built on a Chapter 1 detail ("Never did get those shutters to sit right"), the author chose the plain one: "A is better, more human-like. B sounds robotic." A line that's clever about the story, rather than about the person in front of them, sounds written.
-- **Stay in one pair of eyes.** "Always stay in Alaric's eyes when the chapter is about him." Don't cut away to show what he can't see; let him see it from where he is. On Chapter 2, that means Gerolt's last stand is seen from where Alaric is.
+- **Stay in one pair of eyes.** "Always stay in Alaric's eyes when the chapter is about him." Don't cut away to show what he can't see; let him see it from where he is. On Chapter 2, that means Gerolt's last stand is seen from where Alaric is. **Show a beat the way he sees it, step by step, not as a summary line.** On "Wena looked from Gerolt to them. Then she came after them.", the author said: "Scenes like this are like just saying it for the sake of it. Remember it's all in Alaric's perspective: he saw Wena staring at Gerolt, then at them, she paused for a brief moment, then ran after Alaric."
 
 ## The principles
 
@@ -59,6 +59,8 @@ All eight are agreed.
    - A comparison ("like", "as if", "as though", "the way…") is allowed only when it points at something the viewpoint character has lived through on the page. For Alaric in Volume 1, that's almost nothing. "Gerolt's flame had sat in his palm no bigger than a candle's" passes; "like water down a drain" doesn't.
    - Don't dress up a plain thing. Use "leave splinters in his hair", not "comb splinters through his hair". Use "burst", not a third "punched".
    - Before showing a draft, search it for comparisons (the style check lists them) and defend each one or cut it. Chapter 2's first draft lost thirteen lines to this.
+
+   **Don't tell the reader what they already know** (27 September, on the redesigned Chapter 2). The author: "You don't need to explain things like this, because the reader will know he stopped laughing. Laughing doesn't last forever." And: "'He stayed on his knees.' The reader knows he is on his knees." A line that only reports a laugh ending, a pause, or someone staying where they were "draws the scene away". Cut it, unless the pause itself is the event. The style check lists short lines of this kind.
 
    **It never silences the viewpoint character** (agreed 27 September). The rule stops the *narrator* explaining; it doesn't stop Alaric thinking. Chapter 2 was cut so hard that he had no thoughts on the page while Gerolt died for him. Give him his thoughts at the big moments, in his own words and in the moment: *Get up. Why won't you get up.* is Alaric; "the word *I* had somewhere to stand" is the narrator explaining. When he's frightened he has Subaru's mouth, running inside his head (see `Decisions.md`, Alaric).
 
@@ -203,6 +205,7 @@ This is the short form. The full rules are in the design bible §2.3 and the old
 - **Oaths are sparing and varied:** "By the Four", "Four preserve us", "By the Eight", "Before the Eight", "The Last Dark take you", "What in the Last Dark…". Don't repeat the same oath in the same way; Gerolt's "Easy, lad—by the Four" once is enough.
 - **Watch-list:** "not X, but Y", "for a moment", "nothing answered", "almost heard", and the same eyes, hands, breath, jaw, shoulder or silence gesture close together. None of these is banned; check for clusters.
 - **Comparisons:** only from what the viewpoint character has lived through on the page. Say plain things plainly (principle 5).
+- **"The dark":** the author, 27 September: "One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words." Say where something is, or what can and can't be seen ("somewhere below them", "Under the branches, the moon came through only in patches"). The style check counts it.
 - **"Nothing"** is the series title word, so keep it rare and meaningful.
 - **Point of view:** close third. Every fact and inference belongs to the viewpoint character. A man passing out can't know someone "talked through the whole walk back".
 - **Alaric's guardrails** (old `Main Characters.md`): no sixth sense for danger, no hidden fighting mastery, no polished explanations of himself. His beliefs can be wrong, and he reasons his way into them.
@@ -212,4 +215,4 @@ This is the short form. The full rules are in the design bible §2.3 and the old
 - `references/chapter-1-lessons.md`: every lesson from Chapter 1 as a before and after, with the author's verdict.
 - `references/final-check.md`: the read-through checklist for the final pass.
 - `scripts/apply_changes.py`: applies a change list and writes the chapter and its changes file.
-- `scripts/style_check.py`: counts what a script can count (spelling, typography, oaths, fingerprint phrases, gesture clusters, exact repeats, paragraph rhythm, untagged dialogue). It points at places to look, and doesn't fix anything.
+- `scripts/style_check.py`: counts what a script can count (spelling, typography, oaths, "nothing", "the dark", short lines that may tell the reader what they already know, comparisons, fingerprint phrases, gesture clusters, exact repeats, most repeated words, paragraph rhythm, untagged dialogue). It points at places to look, and doesn't fix anything.
