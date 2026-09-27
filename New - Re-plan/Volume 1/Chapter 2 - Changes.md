@@ -4,7 +4,7 @@ Started 27 September 2026. This is the change list for the redesigned Chapter 2.
 
 **Round 1 (27 September): the author's notes on the redesigned draft.** Four notes, taken as given: cut "Alaric stopped laughing" and "He stayed on his knees", add Gerolt's "The trees…", and show Wena as Alaric sees her. One instruction applied across the chapter: "the dark". The same rule as the two cuts is applied to eight more lines, and each of those waits on your yes or no.
 
-**Round 2 (27 September): meaning, and his eyes.** The author: "I see a lot of someone did X, he did Y. Just add meaning to things." Their line for Alaric after Gerolt dies, "The man was at him before he noticed", and "spattered the ground" are taken as given. The same note is applied at seven more moments that matter to Alaric, and each of those waits on your yes or no. The fights stay fast.
+**Round 2 (27 September): meaning, and his eyes.** The author: "I see a lot of someone did X, he did Y. Just add meaning to things." Their line for Alaric after Gerolt dies, "The man was at him before he noticed", and "spattered the ground" are taken as given. The same note is applied at eight more moments that matter to Alaric, and each of those waits on your yes or no. The fights stay fast.
 
 ## At a glance
 
@@ -14,7 +14,7 @@ Started 27 September 2026. This is the change list for the redesigned Chapter 2.
 - **"Nothing":** 2 times before, 2 after.
 - **"The dark":** as a place, 8 times before and 0 after. "Dark" in all: 19 before, 5 after (changes 1, 2, 3, 4, 5, 7, 8, 10, 13, 18, 19, 20, 24). The five left are all from Version 1: the grip, the cloth, the elves' armour twice, and the blood he coughs up.
 - **Lines that told the reader what they already knew:** 2 cut on your word (changes 14, 21), and 8 more proposed (changes 9, 11, 12, 15, 16, 17, 18, 22).
-- **Meaning added:** 3 changes on your word (changes 31, 33, 34), and 7 more moments proposed (changes 25, 26, 27, 28, 29, 30, 32, 35).
+- **Meaning added:** 3 changes on your word (changes 31, 33, 34), and 8 more moments proposed (changes 25, 26, 27, 28, 29, 30, 32, 35).
 
 ## Your call
 
@@ -67,7 +67,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 4. **Wena.** Shown as Alaric sees it: she stares at Gerolt, looks at him, doesn't come, then runs after him: change 23.
 5. **"The dark."** Every "the dark" is gone, and "dark" is down from 19 to 5: changes 1, 2, 3, 4, 5, 7, 8, 10, 13, 18, 19, 20, 24.
 6. **The same rule, applied further.** Eight more lines that told the reader what they already knew: changes 9, 11, 12, 15, 16, 17, 18, 22. These are the only changes waiting on you.
-7. **"Just add meaning to things."** Your line for Alaric after Gerolt dies, word for word apart from the punctuation. Seven more moments where he now feels or understands something in plain words: the house he woke up in, Gerolt not moving after the fall, "Nobody was coming", why he laughs, what taking the sword means, why his feet stop, and waiting for the fire to come back. These are changes 25, 26, 27, 28, 29, 30, 32, 35.
+7. **"Just add meaning to things."** Your line for Alaric after Gerolt dies, word for word apart from the punctuation. Eight more moments where he now feels or understands something in plain words: the house he woke up in, Gerolt not moving after the fall, "Nobody was coming", why he laughs, what taking the sword means, why his feet stop, waiting for the fire to come back, and being dragged "away from Gerolt". These are changes 25, 26, 27, 28, 29, 30, 32, 35.
 8. **"The man was at him before he noticed."** The narration follows where Alaric is looking: change 33.
 9. **"Spattered the ground."** Change 31.
 
