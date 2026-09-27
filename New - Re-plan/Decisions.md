@@ -323,8 +323,16 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - **Chapter 4 is the day in the seal.** "She is exploring this dark room, completely black, fighting with her Alisaie inner monologue: thinking if she is dead, how did she end up here, what is happening. She must explore all emotions. It's a full day of nothingness."
   - **It ends on the old image:** Thaeroval at the door, and Seralune seeing fear in her brother's eyes for the first time ever.
   - **Not told "sealed" yet.** "Revealing 'sealed' right now is too soon. She should put the pieces together." Thaeroval deflects: "enough of the questions, come, follow me, do this, do that."
-  - **Her voice** (agreed): Shoko with Thaer at first, turning Alisaie as he shuts her out; Alisaie with everyone else from the start. She says sorry when her mana flares. She keeps the counting in Thaer's voice ("Count. One breath first.").
-  - *Claude's reading, to confirm:* "Yes" to question 2 also accepts Thaer feeling the seal break and coming from far off, which is why no one comes all day, and the reader learning she's an elf from the point of his ear.
+  - **Her voice** (agreed): Shoko with Thaer at first, turning Alisaie as he shuts her out; Alisaie with everyone else from the start. She says sorry. *Superseded in round 2:* the counting in Thaer's voice ("Count. One breath first."), and the sorry "when her mana flares", since it no longer flares.
+  - *Claude's reading, not objected to in round 2:* "Yes" to question 2 also accepts Thaer feeling the seal break and coming from far off, which is why no one comes all day, and the reader learning she's an elf from the point of his ear.
+- **Round 2 (27 September).**
+  - **Chapter 5 ends on the two knocks** at first light, with Cyrandor unseen behind the door. Her escape is Chapter 7, after Alaric's Chapter 6.
+  - **Chapter 4's order is approved,** with two changes. "I don't like the counting, remove it." And when she goes back through her last day, it's her mother and Thaer only: "not Elowen yet".
+  - **The crystal:** yes to Claude's suggestions. It split open around her, and she wakes on the floor among sharp pieces, in a stone room with a door that has no handle on her side. She feels the break: her mana rushing out towards something far away and finding it, then the crack and the white. Afterwards the broken crystal still pulls at her mana.
+  - **What she works out** (agreed): many years have passed, and the crystal was made for her. Nobody says "sealed" or "a thousand years". The number and her mother come from Cyrandor in the escape, the first person who answers her instead of giving orders.
+  - **Cyrandor's first sight of her:** "a mix of both" (the old bow, and keeping him off the page). *Claude's reading, to confirm:* she sees one old servant bow the old way, unafraid, and then he's gone, with no name, so the knock still surprises.
+  - **Seralune snaps at Nereth, and her mana doesn't flare** (the author): "Seralune is getting angry at no one telling her anything and snaps at Nereth. The guards charge in thinking something bad is going to happen, but Nereth steps between them, saying she is just tired and needs to rest", because of Cyrandor's order.
+  - **The blows under the floor** all night are the crystal being repaired.
 
 ## Alaric
 
@@ -353,6 +361,7 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 - **Her belief across Volume 1.** At first she thinks, "How could I be dangerous? I never had magic." She says "magic" because she knows the word from a thousand years ago. People around her accuse her. Then her own actions endanger people, and she starts to believe she is the problem.
 - **Volume 1 breaks her into something dangerous.**
 - **Her mana.** She knows she has mana, and a lot of it. Everyone believes it's simply a very large pool: no one has been able to find its end. In truth it has none.
+- **A rule: her mana can't be used** (27 September). "Her mana isn't usable at all, nor should she think it is. It is only usable through Alaric. Her mana just exists within her." So she never tries to shape it, and never expects to.
 - **Her last choice in Volume 1.** She accepts responsibility for who she was, even though that isn't her true self and she didn't actually do those things. Her internal war: "I need to atone for all these deaths. But was it me? Why must I? But I should."
 - **Where Volume 1 leaves her:** she and Nereth are held by the Holy bearer. The church keeps her alive as leverage over Natharul.
 
@@ -394,11 +403,18 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 Agreed for Chapters 4–5 (27 September). Who each person is gets decided with the author when they're on the page.
 
 - **Leorin** is the author's own character. He's Seralune's cousin, and "he looks extremely old now, like 70 years old".
+- **Who ages, and how much** (27 September). "Thaer isn't old because of his royal elf blood directly. Leorin is just related to royal blood. Her father just looks a little older." So direct royal blood barely ages in a thousand years, and Leorin, who is only related to it, has grown old.
 - **Elowen** was Seralune's attendant before the seal.
 - **Cyrandor** stays, with his name, as the keeper of the queen's Order. The old image of him weeping and dropping his linen changes: "something else better suited".
+  - **To Nereth** (27 September): "He is her mentor, almost a father figure. He taught her everything in the castle, and how to work and do things."
 - **No wardwrights, and no silver chain.** The author: "I don't like the silver chain and there are no wardwrights."
 - **The king is away.** Natharul's scouts told him to come and see a battlefield with dead elves on it, thinking Mydea killed his people. (Chapter 1 already has "pale soldiers with pointed ears" among the dead.)
-- **The palace and the city** are to be built together from the author's picture: "we can change this together".
+- **The palace and the city** are built together from the author's picture: "we can change this together". The picture so far (27 September):
+  - **Natharul is both the continent and the kingdom.**
+  - **The palace** is massive, on a hillside, "like a kingdom in FF16 and the elven kingdom of Rivendell in LOTR".
+  - **The waterfall** beside it is huge, "bigger than a massive building". It's holy: it represents life to the elves, and they believe it supplies life to the lands of Natharul.
+  - **A massive forest** lies below.
+  - **The royal tree** stands at the top of the waterfall, and can be seen from the castle. It's just a tree, with no symbols. It's far bigger than it was a thousand years ago, so the sight of it shocks her, because to her it was a smaller tree yesterday.
 
 ## The friends
 
@@ -443,7 +459,7 @@ Agreed for Chapters 4–5 (27 September). Who each person is gets decided with t
 - **Ram on duty, Revy when she slips.**
 - **Seralune's feelings make her corruption flare.**
 - **Her first refusal of Seralune comes later,** not in Volume 1.
-- **Always composed on duty** (27 September).
+- **Always composed on duty** (27 September). Her first slip comes in the escape, not before.
 - **Cyrandor's order** (27 September): "Secretly, before meeting Seralune, Cyrandor told Nereth to watch over Seralune: even if she seems dangerous, she is important. Nereth obeys, but is struggling to understand why her." This replaces the old canon that she has nothing to do with the Order.
 
 ### Redd Vander
@@ -518,6 +534,7 @@ Agreed for Chapters 4–5 (27 September). Who each person is gets decided with t
 ### Geography
 
 - **Kozmagar is a separate continent,** the beast continent.
+- **Natharul is both a continent and the kingdom on it** (27 September). See "Natharul's palace".
 - **Gerolt's nearest neighbours** live two fields over, in a house with children. They're unnamed, and nothing else about them is decided.
 
 ### Ranks
@@ -565,6 +582,7 @@ Agreed for Chapters 4–5 (27 September). Who each person is gets decided with t
 
 ### Seralune
 
+- **Her mana "just exists" (27 September). Does it ever act without Alaric?** The decisions have Nereth's corruption flaring with Seralune's feelings. *Claude's reading, to confirm later:* her mana never does anything by her will, but it can be acted on, as the crystal did, and as whatever corrupts Nereth may.
 - **What does "tsundere" look like for her?** The design bible warns against "flirtation wearing armour", so her friction with Alaric needs a real source. One candidate from existing decisions: she can't stop helping and takes control to do it, while he won't let anyone help him.
 - **"The best image": in whose eyes?** The court's, the people's, Nereth's?
 - **One question, two verdicts (my reading, to confirm).** The world tells him he's nothing and tells her she's dangerous. By the end of Volume 1 each believes the verdict: he is nothing, she is the problem.
@@ -691,7 +709,9 @@ None of these have been changed yet. They're listed so nothing is forgotten when
 
 - `Old - Before Re-plan/World Bible/The World.md`, "The Queen's Order", says Nereth "is **not** secretly a member". Now Cyrandor has told her to watch over Seralune.
 - The old Chapters 3–5 and their designs: the carved circle and its metal strips become the crystal, and the wardwrights and the silver chain are gone.
-- `Old - Before Re-plan/World Bible/The World.md`, "Elven aging": royal bloodlines age "at a vastly slower rate", so a thousand years barely shows. Leorin now looks about seventy. See Chapter 4, round 2.
+- `Old - Before Re-plan/World Bible/The World.md`, "Elven aging": royal bloodlines age "at a vastly slower rate", so a thousand years barely shows. *Settled in Chapter 4, round 2:* that holds for direct royal blood; Leorin, who is only related to it, looks about seventy.
+- The old Chapter 4: the royal tree carved with nine stars where there were four. The tree is now a real tree at the top of the waterfall, with no symbols, grown far bigger.
+- The old Chapters 3–4: Seralune tries to make light, and her mana flares the lamps. Under the new rule her mana can't be used at all, and it never flares.
 
 ### Thaeroval feels nothing
 

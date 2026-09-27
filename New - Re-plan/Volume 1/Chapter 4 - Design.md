@@ -1,6 +1,6 @@
 # Chapter 4: Design
 
-Started 27 September 2026. **Status:** round 1 answered, round 2 asked. This is the plan for Chapters 4 and 5, Seralune's first two chapters, agreed one question at a time before any writing, following the `chapter-rewrite` skill.
+Started 27 September 2026. **Status:** rounds 1 and 2 answered, round 3 and the lines asked. This is the plan for Chapters 4 and 5, Seralune's first two chapters, agreed one question at a time before any writing, following the `chapter-rewrite` skill.
 
 ## Where the story stands
 
@@ -221,3 +221,68 @@ This table was written before round 1. The answers below change several rows: th
    - **What she notices has changed:** the royal tree with nine stars where there were four, and portraits of strangers.
    - **Now that there are no wardwrights:** who comes when her mana flares the lamps? *Suggestion:* guards with drawn swords, then Leorin himself.
    - **The blows under the floor through the night:** what are they? *Suggestion:* they're working on the broken crystal, to make it whole again, and she can guess what that means.
+
+**Answers (27 September).**
+1. **Where Chapter 5 stops.** "Agreed." It ends on the two knocks at first light, and the escape is Chapter 7.
+2. **The day of nothing.** "I don't like the counting, remove it. Everything else is perfect, but when thinking about her mother and Thaer only, not Elowen yet."
+3. **The crystal.** "Yes." And a rule: "Her mana isn't usable at all, nor should she think it is. It is only usable through Alaric. Her mana just exists within her."
+4. **What she works out.** "Agreed."
+5. **Ages.** "Thaer isn't old because of his royal elf blood directly. Leorin is just related to royal blood. Her father just looks a little older."
+6. **Cyrandor.** "A mix of both."
+7. **Nereth.** "He is her mentor, almost a father figure. He taught her everything in the castle, and how to work and do things. Yes, her slip only happens in the escape. Her mana doesn't flare at all. Instead Seralune is getting angry at no one telling her anything, and snaps at Nereth. The guards charge in thinking something bad is going to happen, but Nereth steps between them, saying she is just tired and needs to rest", because of Cyrandor.
+8. **Natharul.** "Natharul is the continent and the kingdom name in one. It is a massive palace on the hillside with a huge waterfall, bigger than a massive building. It is a holy waterfall representing life to the elves. There is a massive forest below, and they believe the waterfall is holy, supplying life to the lands of Natharul. The palace is like a kingdom in FF16 and the elven kingdom of Rivendell in LOTR. The royal tree can be seen from the castle, on top of the waterfall. It is just a tree, no symbols, but it is way bigger than 1000 years ago, so she is shocked: it was that big yesterday."
+9. **Who comes, and the blows.** "The castle guards come in. No mana flares. The crystal is getting repaired."
+
+**What the rule changes.**
+- She never tries to make light, and never expects her mana to do anything. It's simply there, as it always has been.
+- The crystal pulling at her mana is something done *to* her. So she doesn't "snatch it back" (that would be using it): she scrambles away from the crystal with her body.
+- Question 7 (Nereth's "why her") wasn't answered, so I've kept my reading: she doesn't understand why Seralune matters so much.
+
+### Chapter 4, the order (approved in round 2)
+
+1. Her mana rushes out of her towards something far away and finds it. Then the crack, the white, and black. She can't tell whether her eyes are open.
+2. *Am I dead?* Her Alisaie voice argues with itself, and her body answers: the cold, the stone, her hand hurting.
+3. She explores, and finds the crystal split open around her. It's huge, cold and sharp, and she cuts her hand on it. It pulls at her mana, and she scrambles away from it.
+4. She goes back through her last day: her mother, Thaer, his promise. She can't get past him leaving. *How did I get here?*
+5. She calls for Thaer and her mother. Nobody comes.
+6. Anger. Stubborn, she refuses to sit and wait, and hits the door.
+7. Panic, with no counting now. Her own voice has to fight it.
+8. Nothing. Time goes, and she's thirsty, her legs are weak, and she can't tell whether she slept.
+9. Footsteps, then Thaer in the light, the point of his ear, and the fear in his eyes, for the first time in her life.
+
+### Chapter 5, the order (proposed)
+
+Each piece she puts together comes from something she sees or hears, and none of it is told to her.
+
+1. **The embrace** that hurts. He asks his own questions ("How long have you been awake?") and answers none of hers: enough questions, come, follow me.
+2. **The court comes.** Leorin is old now. He calls her "Your Highness", and the guards are afraid of her. She says: "I'm standing right here. Ask me."
+3. **The walk up.** Servants press themselves to the walls. One old servant bows the old way, unafraid, and then he's gone.
+4. **Outside.** The sound of the falls, then the waterfall itself and the forest, and the royal tree at the top of the falls, far bigger than yesterday. *Piece: it has been a very long time.*
+5. **Her room,** ready for her. Nereth is composed and answers what she's asked. "Where's Elowen?" Nobody has heard the name. *Piece: long enough for everyone she knew to be gone.*
+6. **Through the door,** Thaer and Leorin argue, and the king is away at a field in Mydea. (What they argue about is question 2.)
+7. **Thaer comes back.** Her questions meet his orders, and she turns Alisaie with him for the first time. He leaves, and the lock turns.
+8. **The night.** Blows come up through the floor as the crystal is repaired. *Piece: it was made for her, and they're making it again.*
+9. **She snaps at Nereth,** because nobody will tell her anything. The guards charge in. Nereth steps between them: she's tired, and needs to rest. Then Seralune's sorry.
+10. **First light.** Sounds in the corridor, then two knocks spaced exactly like Thaer's, and the lock turns.
+
+### Round 3 (asked 27 September)
+
+1. **Chapter 5's order,** above. Does it hold? Anything to move, add or cut?
+2. **What Thaer and Leorin argue about.** In the old version, Leorin pushed to contain her and Thaer refused. Now Thaer himself wants her resealed, so what do they fight over?
+   - *Recommended:* the king. Leorin says the king must be told, because a rider could still catch him on the road to Mydea. Thaer says nobody tells him until the crystal is whole.
+     - All three believe she's dangerous; they disagree on who decides.
+     - It makes Thaer's resealing an act of love: he wants her safe before their father can choose something worse.
+     - She hears "the crystal" and "by morning", and puts it together with the blows under the floor.
+   - *Alternative:* Leorin doubts the sealing itself. What he believes is still open, and he's your character.
+3. **Your palace.**
+   1. Which kingdom in FFXVI do you mean? I'd rather ask than guess the wrong one.
+   2. Is there a city below the palace, or only the forest?
+   3. *Suggestion:* when they come up from the chamber, the sound of the falls is the first thing she knows, before she sees anything. Your call.
+4. **Cyrandor's bow.** My reading of "a mix of both": she sees one old servant bow the old way, unafraid, and then he's gone, with no name, so the knock still surprises. Is that right? And what does the old bow look like? It's yours to decide.
+5. **Her sorry.** *Recommended:* once the guards have gone, she says sorry to Nereth directly, and means it. It's the first time Nereth is apologised to by a princess, and it doesn't fit anything Nereth knows.
+6. **The lines.** Give me your rough version of any of these, and I'll give it back in the character's voice. Any you skip, I'll draft for you to react to.
+   1. Her Alisaie voice at *Am I dead?* (Chapter 4).
+   2. Thaer's first orders after the embrace: your rough version is "enough of the questions, come, follow me, do this, do that".
+   3. Her thought when she sees the tree: your rough version is "it was that big yesterday".
+   4. Her snap at Nereth, and Nereth's cover to the guards.
+   5. The end of her talk with Thaer in her room, before the lock. Does she say "I trust you", or something else?
