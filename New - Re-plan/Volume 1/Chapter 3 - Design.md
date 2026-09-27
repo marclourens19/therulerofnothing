@@ -1,6 +1,6 @@
 # Chapter 3: Design
 
-Started 27 September 2026. **Status:** rounds 1 and 2 answered (27 September). The lines are being designed together. This is the plan for Chapter 3, agreed one question at a time before any writing, following the `chapter-rewrite` skill. Most of the old material changes, so the plan comes first.
+Started 27 September 2026. **Status:** rounds 1 and 2 and the lines are agreed (27 September). The first draft is written: `Chapter 3 - The Weight of the Living.md`, compared with the old chapters in `Chapter 3 - From the Old Chapters.md`. This is the plan for Chapter 3, agreed one question at a time before any writing, following the `chapter-rewrite` skill. Most of the old material changes, so the plan comes first.
 
 ## Where Chapter 2 leaves it
 
@@ -162,6 +162,14 @@ Alaric's thoughts are built from the author's round 1 words ("Gerolt just died b
 5. **Silas's questions:** "So how did the old man know you? Something must have drawn them to be so aggressive. What happened back there?" Alaric answers.
 6. **"Marta":** Silas: "Well, what do you plan to do now? You ain't drawing more elves to my doorstep." Alaric: Gerolt told me to find a woman named Marta. Silas is shocked.
 7. **Kelmend:** "Well, boy, hate to break it to you, but Kelmend's no good. Them whoreson guards would sell their own mothers to Natharul just so they could *live*. A boy like you will mean nothing to them."
+
+**The author's notes on the voiced lines (27 September).**
+- Alaric's answer: "He fed me. He gave me his bed." becomes "He fed me. He looked after me." "He killed one. He cut the other one apart." becomes one sentence: "Make this one sentence, it seems robotic."
+- Line 3 (Silas): "And you sat in the leaves and screamed" becomes "And you just sat there and looked on like a scared little puppy".
+- Line 4: Alaric asks awkwardly: "Umm, so… what is your name? Something like this."
+- Line 5 (Silas): "Make it one sentence."
+- Line 6: "Make Alaric's line better and match who he is in this moment."
+- **The river:** "Alaric isn't thinking here and is full of adrenaline. He just picks Wena up and tries to cross, but is swept away. I agree Silas hauls them out and is swearing the whole time." So his thought at the bank ("*He gave her to me.*") is cut.
 
 ### Later
 

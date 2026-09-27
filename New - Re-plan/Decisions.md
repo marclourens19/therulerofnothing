@@ -283,6 +283,8 @@ The plan is built in `Volume 1/Chapter 3 - Design.md`.
   - **What Alaric tells Silas:** waking up knowing nothing, Gerolt giving him food and comfort, the riders, and Gerolt killing one without hesitating and maiming the other. He says it sitting on the ground, hands over his face, in shock.
   - **The ending:** "Marta", Silas's reaction, and "Kelmend's no good". Then Alaric, alone with Wena, cries at last.
   - The neighbours are left out of Chapter 3.
+- **The lines (27 September),** designed together. The author gave rough versions and notes; the final wording is in `Volume 1/Chapter 3 - From the Old Chapters.md`. The river has no thought from Alaric ("Alaric isn't thinking here, full of adrenaline"), and Silas hauls them out "swearing the whole time". "Empty" isn't talked about yet.
+- **First draft written (27 September):** `Volume 1/Chapter 3 - The Weight of the Living.md` (1,896 words, working title). Its calls are waiting on the author.
 
 ## Alaric
 
