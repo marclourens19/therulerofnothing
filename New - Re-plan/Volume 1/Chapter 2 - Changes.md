@@ -16,10 +16,12 @@ Started 27 September 2026. This is the change list for the redesigned Chapter 2.
 
 **Round 7 (27 September): the final pass of Chapters 1–3.** One fix: an "already" Alaric couldn't know (change 48).
 
+**Round 8 (27 September).** A sentence that said "the man" twice (folded into change 18), after the author's note on Chapter 3.
+
 ## At a glance
 
 - **48 changes proposed.** 1 rejected so far, so 47 are in the chapter: 41 rewritten, 5 cut and 1 added.
-- **Length:** 4,684 words before, 4,723 after.
+- **Length:** 4,684 words before, 4,721 after.
 - **Median paragraph:** 14 words before, 15 after. The house target is roughly 14–22.
 - **"Nothing":** 2 times before, 2 after.
 - **"The dark":** as a place, 8 times before and 0 after. "Dark" in all: 19 before, 5 after (changes 1, 2, 3, 4, 5, 7, 8, 10, 13, 18, 19, 20, 24). The five left are all from Version 1: the grip, the cloth, the elves' armour twice, and the blood he coughs up.
@@ -391,9 +393,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> The rider was halfway up the slope when a blade came around from behind and took him across the back of the neck, and he went off the side of his horse without a sound. The man who had swung it didn't stop. He ran on past the falling body and was on the next rider before the elf could turn, and he cut the horse's legs out from under it, then the rider as he fell. The last one had an arrow on the string. It missed the man's head, and the man's blade came down before the elf could draw another.
+> The rider was halfway up the slope when a blade came around from behind and took him across the back of the neck, and he went off the side of his horse without a sound. The man who had swung it didn't stop. He ran on past the falling body and was on the next rider before the elf could turn, and he cut the horse's legs out from under it, then the rider as he fell. The last one had an arrow on the string. It missed his head, and his blade came down before the elf could draw another.
 
-**Why.** The author: "One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words." The replacement words are mine; reject any you don't like. Also, "never reached him" told the reader how it would end before Alaric saw it happen; now he sees it as it happens. The last kill is now something he sees (the blade coming down), not a summary ("was on him").
+**Why.** The author: "One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words." The replacement words are mine; reject any you don't like. Also, "never reached him" told the reader how it would end before Alaric saw it happen; now he sees it as it happens. The last kill is now something he sees (the blade coming down), not a summary ("was on him"). (Round 8, after the author's note on Chapter 3, "The man is said too much": this sentence said it twice.)
 
 **Your decision.** "I agree with all the cuts."
 

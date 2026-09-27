@@ -16,11 +16,13 @@ Started 27 September 2026. This is the change list for Chapter 3. The first draf
 
 **Round 6 (27 September).** Two of Alaric's thoughts joined into single lines at the author's request: "*If I stop, then he—so don't, idiot. Move.*" (change 20), and "*They've already killed him—what more do they want? Why are they still chasing me?*" (folded into change 1).
 
+**Round 7 (27 September): "The man is said too much."** 22 times before Silas gives his name, now 8. It's replaced by "he" where only he can be meant, "a fist" or "a hand" where that's all Alaric feels, "the stranger" twice, or cut (changes 21, 22, 23, 24, 25, 26, 27, plus edits folded into changes 1, 3, 4, 14, 15, 16 and 18).
+
 ## At a glance
 
-- **20 changes proposed.** 0 rejected so far, so 20 are in the chapter: 20 rewritten, 0 cut and 0 added.
-- **Length:** 1,896 words before, 1,995 after.
-- **Median paragraph:** 16 words before, 16.5 after. The house target is roughly 14–22.
+- **27 changes proposed.** 0 rejected so far, so 27 are in the chapter: 27 rewritten, 0 cut and 0 added.
+- **Length:** 1,896 words before, 1,986 after.
+- **Median paragraph:** 16 words before, 17 after. The house target is roughly 14–22.
 - **"Nothing":** 3 times before, 3 after.
 
 ## Your call
@@ -43,6 +45,13 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 12, He didn't care to ask:** Your words.
 - **Change 13, The ending:** Your ending.
 - **Change 20, "So don't, idiot. Move.":** "I like your version."
+- **Change 21, A fist:** Your note; the wording is mine.
+- **Change 22, He let go:** Your note; the wording is mine.
+- **Change 23, The elf's wrist:** Your note; the wording is mine.
+- **Change 24, He found a place:** Your note; the wording is mine.
+- **Change 25, Old sweat:** Your note; the wording is mine.
+- **Change 26, He didn't even look up:** Your note; the wording is mine.
+- **Change 27, The fire cracked:** Your note; the wording is mine.
 
 ## What each note became
 
@@ -85,7 +94,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 >
 > A small fire burned at the near end of a bridge, and four men in helmets stood round it with their spears, talking among themselves. A rider sat his horse in the middle of them, speaking down to them, with the firelight on his pale hair and the point of one ear, and one of the guards kept nodding up at him.
 >
-> The man pulled Alaric down behind a tree by his collar.
+> A hand pulled Alaric down behind a tree by his collar.
 >
 > "Kelmend's guards," he said under his breath, and spat.
 >
@@ -99,7 +108,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 >
 > The river was wide and loud. It broke white over the rocks below them and ran quick and smooth everywhere else.
 
-**Why.** The author: "The bridge shouldn't be broken. Guards from Kelmend watch it, but an elf rider is already there speaking to the guards." So Alaric *sees* Mydea standing with Natharul before Silas says it in the cave ("Them whoreson guards would sell their own mothers to Natharul"). Also the author: "'It's me. They're coming for me.' How does he know they are coming for him?" He can't, so that thought and the look down at himself that led to it are gone. His question stays: *"They've already killed him. Why are they still coming?"* (Round 2, the author: "No hut, no lantern. They are standing around a small fire chatting, and a rider is amongst them speaking. Make the sentences combine so they don't sound robotic.") (Round 6, the author: make it one line, like "They already killed him, what more could they be looking for, why are they still chasing me!?". Claude's wording joins it with a dash, keeps it a question (so it claims nothing he couldn't know), and leaves out the "!?".)
+**Why.** The author: "The bridge shouldn't be broken. Guards from Kelmend watch it, but an elf rider is already there speaking to the guards." So Alaric *sees* Mydea standing with Natharul before Silas says it in the cave ("Them whoreson guards would sell their own mothers to Natharul"). Also the author: "'It's me. They're coming for me.' How does he know they are coming for him?" He can't, so that thought and the look down at himself that led to it are gone. His question stays: *"They've already killed him. Why are they still coming?"* (Round 2, the author: "No hut, no lantern. They are standing around a small fire chatting, and a rider is amongst them speaking. Make the sentences combine so they don't sound robotic.") (Round 6, the author: make it one line, like "They already killed him, what more could they be looking for, why are they still chasing me!?". Claude's wording joins it with a dash, keeps it a question (so it claims nothing he couldn't know), and leaves out the "!?".) (Round 7: fewer "the man"s.)
 
 **Your decision.** Your notes, rounds 1 and 2. The round 6 wording of the thought is accepted ("yes, merge").
 
@@ -131,9 +140,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> The man had one arm hooked over the fallen tree and the other hand in Alaric's collar. He dragged them in along the trunk, hand over hand, still swearing, until Alaric's knees hit stones and all three of them were crawling out onto the far bank, coughing up the river.
+> He had one arm hooked over the fallen tree and the other hand in Alaric's collar. He dragged them in along the trunk, hand over hand, still swearing, until Alaric's knees hit stones and all three of them were crawling out onto the far bank, coughing up the river.
 
-**Why.** A knock-on effect of change 1.
+**Why.** A knock-on effect of change 1. (Round 7: fewer "the man"s.)
 
 **Your decision.** Follows your bridge note.
 
@@ -147,9 +156,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> The man knelt in the shallows, getting his breath. He had run out of things to swear at. He pulled Gerolt's sword out of his belt and gave it back to Alaric, and didn't let go of it straight away.
+> The stranger knelt in the shallows, getting his breath. He had run out of things to swear at. He pulled Gerolt's sword out of his belt and gave it back to Alaric, and didn't let go of it straight away.
 
-**Why.** Proposed in answer to "do you think more should be added anywhere?" His master has just died in front of him, and until now Silas shows no sign of feeling it. This is one glimpse, seen through Alaric's hands, with nothing explained.
+**Why.** Proposed in answer to "do you think more should be added anywhere?" His master has just died in front of him, and until now Silas shows no sign of feeling it. This is one glimpse, seen through Alaric's hands, with nothing explained. (Round 7: fewer "the man"s.)
 
 **Your decision.** "Add a glimpse of Silas's grief."
 
@@ -341,9 +350,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> Alaric didn't know how, and there was no time to ask. The man went on, and Alaric's feet went after him.
+> Alaric didn't know how, and there was no time to ask. He went on, and Alaric's feet went after him.
 
-**Why.** A craft fix from the final pass. The same fault as "already looking at the fire": Alaric can't know when someone else started.
+**Why.** A craft fix from the final pass. The same fault as "already looking at the fire": Alaric can't know when someone else started. (Round 7: fewer "the man"s.)
 
 #### 15. In the water to his knees
 
@@ -355,9 +364,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> "Leave the dog." The man was in the water to his knees. "We'll never get across hauling a mutt that wants to go back to a dead man."
+> "Leave the dog." He was in the water to his knees. "We'll never get across hauling a mutt that wants to go back to a dead man."
 
-**Why.** A craft fix from the final pass. The same "already" fault.
+**Why.** A craft fix from the final pass. The same "already" fault. (Round 7: fewer "the man"s.)
 
 ### The last elf
 
@@ -371,9 +380,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> When he looked back, the man had let go of the hilt and was shaking his hand out, hissing through his teeth. He wrapped the corner of his cloak round the hilt before he pulled the blade free. The horse was still screaming. He went to it and ended that too, with one quick cut, and wiped the blade on the dead elf's cloak.
+> When he looked back, the stranger had let go of the hilt and was shaking his hand out, hissing through his teeth. He wrapped the corner of his cloak round the hilt before he pulled the blade free. The horse was still screaming. He went to it and ended that too, with one quick cut, and wiped the blade on the dead elf's cloak.
 
-**Why.** A craft fix from the final pass. "Round it" could have meant his hand or the hot hilt.
+**Why.** A craft fix from the final pass. "Round it" could have meant his hand or the hot hilt. (Round 7: fewer "the man"s.)
 
 ### The cave
 
@@ -403,9 +412,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> The rider broke out of the trees at a gallop, low over the horse's neck. The man stepped aside at the last moment and swung low, and the horse's forelegs went out from under it. It went down screaming. The rider went over its head and hit the ground hard, and lay on his back with his mouth opening and closing, trying to find his breath.
+> The rider broke out of the trees at a gallop, low over the horse's neck, straight at him. He stepped aside at the last moment and swung low, and the horse's forelegs went out from under it. It went down screaming. The rider went over its head and hit the ground hard, and lay on his back with his mouth opening and closing, trying to find his breath.
 
-**Why.** The final pass of Chapters 1–3 (27 September). Chapter 2 has "The riders came out of the trees below", so the phrase came twice for readers going straight on.
+**Why.** The final pass of Chapters 1–3 (27 September). Chapter 2 has "The riders came out of the trees below", so the phrase came twice for readers going straight on. (Round 7: fewer "the man"s.)
 
 ### The river
 
@@ -442,3 +451,121 @@ Each of these needs a yes or no from you. It adds something about a character or
 **Why.** The author: "Should be one though, and he should think 'If I stop, then he—so don't, then, idiot, keep moving', something like that. What do you recommend?" "Move" is Silas's own word from a moment before ("Stop drowning in self-pity, boy, and move."), so Alaric is ordering himself with it. "Idiot" is him turning on himself, and the lower-case "so" cuts him off mid-thought.
 
 **Your decision.** "I like your version."
+
+#### 21. A fist
+
+*Draft line 15 → revised line 15*
+
+**Before**
+
+> A root caught his foot. He went down on one hand and was up again before he'd finished falling, because the man's fist was already in the back of his shirt.
+
+**After**
+
+> A root caught his foot. He went down on one hand and was up again before he'd finished falling, because a fist was already in the back of his shirt.
+
+**Why.** The author: "The man is said too much." (22 times before Silas gives his name.)
+
+**Your decision.** Your note; the wording is mine.
+
+#### 22. He let go
+
+*Draft line 35 → revised line 35*
+
+**Before**
+
+> "You want to die? Fine. Stay here and let them have you." The man let go. "Then Gerolt died for nothing."
+
+**After**
+
+> "You want to die? Fine. Stay here and let them have you." He let go. "Then Gerolt died for nothing."
+
+**Why.** The author: "The man is said too much." (22 times before Silas gives his name.)
+
+**Your decision.** Your note; the wording is mine.
+
+### The last elf
+
+#### 23. The elf's wrist
+
+*Draft line 99 → revised line 99*
+
+**Before**
+
+> He didn't hurry. The elf got an elbow under himself and saw him coming, and his free hand came up, open, fingers spread. The man stood on his wrist, put the blade into his chest through the armour, and leaned on it.
+
+**After**
+
+> He didn't hurry. The elf got an elbow under himself and saw him coming, and his free hand came up, open, fingers spread. He stood on the elf's wrist, put the blade into his chest through the armour, and leaned on it.
+
+**Why.** The author: "The man is said too much." (22 times before Silas gives his name.)
+
+**Your decision.** Your note; the wording is mine.
+
+### The run and the bridge
+
+#### 24. He found a place
+
+*Draft line 113 → revised line 113*
+
+**Before**
+
+> The cave was behind a stand of bush so thick that Alaric would have walked straight past it. The man found a place where the branches gave, pulled them aside and ducked through, and Alaric went after him with Wena pressed against his legs.
+
+**After**
+
+> He led them to a stand of bush so thick that Alaric would have walked straight past it, found a place where the branches gave and pulled them aside, and ducked through. Alaric went after him with Wena pressed against his legs.
+
+**Why.** The author: "The man is said too much." (22 times before Silas gives his name.) Starting the sentence from him, straight after his "Come on", means "he" can't be read as Alaric.
+
+**Your decision.** Your note; the wording is mine.
+
+### The cave
+
+#### 25. Old sweat
+
+*Draft line 115 → revised line 115*
+
+**Before**
+
+> It was small, dirty and ugly. The roof was low enough that Alaric had to stoop, and the walls were bare earth and rock, black with old smoke at the back. It smelled of damp and ash and the man. There was a bedroll, a blackened pot, a water skin, a sack, and a pile of sticks beside a ring of stones. That was all.
+
+**After**
+
+> The cave behind it was small, dirty and ugly. The roof was low enough that Alaric had to stoop, and the walls were bare earth and rock, black with old smoke at the back. It smelled of damp, ash and old sweat. There was a bedroll, a blackened pot, a water skin, a sack, and a pile of sticks beside a ring of stones. That was all.
+
+**Why.** The author: "The man is said too much." (22 times before Silas gives his name.)
+
+**Your decision.** Your note; the wording is mine.
+
+#### 26. He didn't even look up
+
+*Draft line 123 → revised line 123*
+
+**Before**
+
+> It came out too loud for the cave. The man didn't look up from the fire.
+
+**After**
+
+> It came out too loud for the cave, and he didn't even look up from the fire.
+
+**Why.** The author: "The man is said too much." (22 times before Silas gives his name.)
+
+**Your decision.** Your note; the wording is mine.
+
+#### 27. The fire cracked
+
+*Draft line 133 → revised line 133*
+
+**Before**
+
+> His knees went, and he sat down hard on the dirt floor with the sword across them. Wena lay down against his side, wet and shivering. The fire cracked, and the man fed it another stick.
+
+**After**
+
+> His knees went, and he sat down hard on the dirt floor with the sword across them. Wena lay down against his side, wet and shivering. The fire cracked.
+
+**Why.** The author: "The man is said too much." (22 times before Silas gives his name.)
+
+**Your decision.** Your note; the wording is mine.

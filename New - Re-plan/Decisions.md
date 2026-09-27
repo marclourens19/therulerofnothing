@@ -308,6 +308,7 @@ The plan is built in `Volume 1/Chapter 3 - Design.md`.
   - Stale notes are resolved here, and in the Volume 1 picture.
   - Lengths: Chapter 1 is 6,284 words, Chapter 2 4,723, Chapter 3 1,990.
 - **Round 6 (27 September).** Two of Alaric's thoughts are joined into single lines. "*If I stop, then he—so don't, idiot. Move.*" uses Silas's own "move". "*They've already killed him—what more do they want? Why are they still chasing me?*" stays a question, so it claims nothing he couldn't know. Chapter 3 is now 1,995 words.
+- **"The man is said too much" (27 September).** In Chapter 3 it was said 22 times before Silas gives his name, and now 8, plus "the stranger" twice. The rest became "he" where only he can be meant, "a fist" or "a hand" where that's all Alaric feels, or were cut. The end of Chapter 2 lost a sentence that said it twice.
 
 ## Alaric
 
