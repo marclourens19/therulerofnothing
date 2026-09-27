@@ -216,7 +216,7 @@ The wood blackened under his palm. Smoke crept out between his fingers, then fla
 
 His palm had gone an angry red. He didn't look at it.
 
-The boy stared up at the burning roof. He had woken under it that night, with a blanket over him and stew on the fire. It was the only place in the world he knew, and Gerolt had set fire to it himself.
+The boy stared up at the burning roof. He had woken under it that night, with a blanket over him and stew on the fire.
 
 "What are you doing?"
 
@@ -270,11 +270,11 @@ Gerolt's head had dropped forward. The boy's sleeve was wet through where his ar
 
 The trees were close now. The boy could see the moonlight on the first trunks when something hissed past his ear, and then another. The horse screamed. Its stride broke, and the ground came up to meet him.
 
-He landed on his back in bracken, and all the air went out of him. For a while he could only lie there with his mouth open, trying to get it back.
+He landed on his back in the ferns, and all the air went out of him. For a while he could only lie there with his mouth open, trying to get it back.
 
 The horse was on its side at the edge of the trees, kicking. An arrow stood out of its neck.
 
-Gerolt lay a few paces off in the bracken, and he wasn't moving. The boy crawled to him on his hands and knees.
+Gerolt lay a few paces off in the ferns, and he wasn't moving. The boy crawled to him on his hands and knees.
 
 "Gerolt—"
 
@@ -282,7 +282,7 @@ Gerolt swore, softly and at length.
 
 Out in the wheat, the torches were close enough now that the boy could hear the horses under them.
 
-The sword lay in the bracken beside him. Gerolt got its point into the ground again, and the boy got under his arm, and between them they got him standing. It took everything the boy had. It took everything Gerolt had too; the boy could feel it in the arm across his shoulders, shaking without stopping.
+The sword lay in the ferns beside him. Gerolt got its point into the ground again, and the boy got under his arm, and between them they got him standing. It took everything the boy had. It took everything Gerolt had too; the boy could feel it in the arm across his shoulders, shaking without stopping.
 
 They went into the trees like that, one step and then another.
 
@@ -386,7 +386,7 @@ Gerolt put out his hand.
 
 "Help me up, Alaric."
 
-It was harder than before. Alaric's head was still ringing, and his arms were shaking before he'd even started, and Gerolt's weight kept trying to fold him over. But Gerolt was pushing too, harder than he had at the cabin or in the bracken, and between the two of them he came up off the roots and stayed up.
+It was harder than before. Alaric's head was still ringing, and his arms were shaking before he'd even started, and Gerolt's weight kept trying to fold him over. But Gerolt was pushing too, harder than he had at the cabin or in the ferns, and between the two of them he came up off the roots and stayed up.
 
 Further down, Alaric heard water. It was only a murmur at first, somewhere below them, and then it was louder, running over stones.
 
@@ -408,7 +408,7 @@ Gerolt had seen it too. He put his hand on the tree behind him and pushed himsel
 
 "Sword," he said.
 
-He held it out to Alaric hilt first. Alaric didn't take it. Taking it meant Gerolt wasn't coming. Gerolt pushed it into his hands anyway and closed his fingers around the grip.
+He held it out to Alaric hilt first. Alaric didn't take it. He had watched Gerolt fight with that sword tonight. If he took it, Gerolt wasn't coming, and he would be facing them with his bare hands. He would die here. Gerolt pushed it into his hands anyway and closed his fingers around the grip.
 
 "Kelmend. Over the river." His breath snagged, and he waited until he had it back. "Marta, at the inn by the south gate. Show her that. Tell her the old fool sent you."
 
@@ -420,7 +420,7 @@ Gerolt shoved him back up the slope. There wasn't much strength in it. Then he t
 
 Alaric went three steps and stopped.
 
-He had Wena's collar in one hand and the sword in the other, and his feet wouldn't go any further. He couldn't leave Gerolt down there on his own.
+He had Wena's collar in one hand and the sword in the other, and his feet wouldn't go any further. He couldn't leave Gerolt alone with them.
 
 The riders came out of the trees below. There were five of them. The first of them reined in when he saw Gerolt standing alone with his hands empty. He said something in the layered voice, and one of the others laughed.
 
@@ -476,7 +476,7 @@ Gerolt lifted his head. The point of one arrow stood out through the back of his
 
 The fire on his hand went out.
 
-Alaric waited for it to come back.
+Alaric waited for the fire to come back. It had kept burning through both arrows, and now it was out, and Gerolt's hand hung open at his side.
 
 The man's head turned, and he found Alaric in the leaves. His eyes went to the sword across Alaric's lap and stayed there, and something crossed his face that Alaric couldn't read.
 

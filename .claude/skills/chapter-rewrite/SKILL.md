@@ -66,6 +66,8 @@ All eight are agreed.
    - The narrator never interprets, decorates or hints.
    - Alaric feels and understands things in plain words, in the moment, about what's in front of him.
    - At a moment that matters to him, a run of bare actions is a fault. Fights can stay fast.
+   - **Keep the meaning small and concrete.** "He had woken under it that night, with a blanket over him and stew on the fire" is enough. "It was the only place in the world he knew" was "too melodramatic". Sweeping words ("the only… in the world", "everything") tip it over.
+   - **Make "it" clear.** The author read "Alaric waited for it to come back" and asked "what is it?" Name the thing, and let the line say what it meant to him: "Alaric waited for the fire to come back. It had kept burning through both arrows, and now it was out…"
 
    **It never silences the viewpoint character** (agreed 27 September). The rule stops the *narrator* explaining; it doesn't stop Alaric thinking. Chapter 2 was cut so hard that he had no thoughts on the page while Gerolt died for him. Give him his thoughts at the big moments, in his own words and in the moment: *Get up. Why won't you get up.* is Alaric; "the word *I* had somewhere to stand" is the narrator explaining. When he's frightened he has Subaru's mouth, running inside his head (see `Decisions.md`, Alaric).
 
@@ -211,6 +213,7 @@ This is the short form. The full rules are in the design bible §2.3 and the old
 - **Watch-list:** "not X, but Y", "for a moment", "nothing answered", "almost heard", and the same eyes, hands, breath, jaw, shoulder or silence gesture close together. None of these is banned; check for clusters.
 - **Comparisons:** only from what the viewpoint character has lived through on the page. Say plain things plainly (principle 5).
 - **Plain nouns:** "spattered the ground", not "spattered the leaves" (the author's note, 27 September).
+- **Common words:** "ferns", not "bracken". The author asked "what is bracken?", and if they don't know a word, many readers won't either. Watch for British country words and trade words: bracken, eaves, pommel, bracer, sidle.
 - **"The dark":** the author, 27 September: "One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words." Say where something is, or what can and can't be seen ("somewhere below them", "Under the branches, the moon came through only in patches"). The style check counts it.
 - **"Nothing"** is the series title word, so keep it rare and meaningful.
 - **Point of view:** close third. Every fact and inference belongs to the viewpoint character. A man passing out can't know someone "talked through the whole walk back".

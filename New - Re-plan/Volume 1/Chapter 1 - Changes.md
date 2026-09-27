@@ -7,6 +7,7 @@ Written on 26 September 2026. This is every change made to `Chapter 1 - A War Wi
 - **Revision 3** (changes 45–49) is the final check: small craft fixes from a last full read.
 - **Revision 4** (changes 50–52) takes the gold at the running figure's cuff out of the vision, at your request.
 - **Revision 5** (changes 53–56, plus edits folded into changes 8, 19, 25 and 28) cuts eight comparisons Alaric couldn't make from what he has lived through.
+- **Revision 6** (changes 57–60, plus an edit folded into change 28) takes out "the dark", at your request (27 September).
 
 - The chapter as it was before is saved, unchanged, as `Drafts/Chapter 1 - A War Without Sound (Draft 1, before revision).md`. Any change you reject can go straight back from there.
 - **Draft line** numbers refer to that saved copy. **Revised line** numbers refer to the chapter as it stands now.
@@ -15,14 +16,15 @@ Written on 26 September 2026. This is every change made to `Chapter 1 - A War Wi
 
 ## At a glance
 
-- **56 changes proposed.** 1 rejected so far, so 55 are in the chapter: 49 rewritten, 5 cut and 1 added.
-- **Length:** 6,434 words before, 6,291 after.
+- **60 changes proposed.** 1 rejected so far, so 59 are in the chapter: 53 rewritten, 5 cut and 1 added.
+- **Length:** 6,434 words before, 6,284 after.
 - **Median paragraph:** 14 words before, 13 after. The house target is roughly 14–22.
 - **"Nothing":** 24 times before, 19 after.
 - **Gerolt's failed laugh:** four times before (lines 103, 277, 417, 471). Now once, in your own line 103.
 - **"What do you remember before this morning?":** asked three times before, once now.
 - **"Leave your clothes alone":** three times before, twice now.
 - **"Almost heard":** 2 before, 1 after. The word he can't hear is still mentioned twice in the vision itself.
+- **"The dark" as a place:** five times before revision 6, none now (changes 57, 58, 59, 60, and change 28).
 
 ## Your call
 
@@ -55,6 +57,10 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 54, "As though another survivor might rise":** You asked for it: "Yes cut all".
 - **Change 55, "Like a sack of feed":** You asked for it: "Yes cut all".
 - **Change 56, "As if a hand had closed around it":** You asked for it: "Yes cut all".
+- **Change 57, Wena's hiding place:** At your request.
+- **Change 58, The candle goes out:** At your request.
+- **Change 59, Gerolt's face:** At your request.
+- **Change 60, The man hiding:** At your request.
 
 ## What each decision became
 
@@ -557,9 +563,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 >
 > The boy thought of the pale faces among the dead. "Then they'll ask about here."
 >
-> "Aye. And the nearest house with children in it is two fields over." He was still watching the dark where the field lay. "Come first light, somebody'll see the crows. By noon, somebody'll have sold what they saw, and there'll be men at my door asking what I found out there."
+> "Aye. And the nearest house with children in it is two fields over." He was still watching the field through the gap in the shutter. "Come first light, somebody'll see the crows. By noon, somebody'll have sold what they saw, and there'll be men at my door asking what I found out there."
 
-**Why.** Two decisions: Gerolt reacts to the dead elves, and he expects people by morning. His window speech named the banners, the armour, the machines and the beastfolk, and stopped short of the elves. Now the boy notices what he left out and asks, which is the boy's personality working. "They ask where" shows Natharul's collective punishment through Gerolt's fear instead of explaining it. The deadline is Mydea's informers: someone sees, someone sells. It's also the moment his peace visibly ends: "what I found out there" is the boy. *Revision 5 cut a comparison from this change: "as if the dark outside might carry it". The author, on Chapter 2: "how would he know this". A comparison has to come from something Alaric has lived through on the page. Cut in revision 5 at the author's request ("Yes cut all").*
+**Why.** Two decisions: Gerolt reacts to the dead elves, and he expects people by morning. His window speech named the banners, the armour, the machines and the beastfolk, and stopped short of the elves. Now the boy notices what he left out and asks, which is the boy's personality working. "They ask where" shows Natharul's collective punishment through Gerolt's fear instead of explaining it. The deadline is Mydea's informers: someone sees, someone sells. It's also the moment his peace visibly ends: "what I found out there" is the boy. *Revision 5 cut a comparison from this change: "as if the dark outside might carry it". The author, on Chapter 2: "how would he know this". A comparison has to come from something Alaric has lived through on the page. Cut in revision 5 at the author's request ("Yes cut all").* (Revision 6: "watching the dark where the field lay" became "watching the field through the gap in the shutter", at the author's request to cut down on "the dark".)
 
 **Your decision.** Kept: Gerolt names Natharul here, the name he swallows later is something more specific, and the neighbours' house stays.
 
@@ -996,3 +1002,69 @@ Each of these needs a yes or no from you. It adds something about a character or
 **Why.** The author, on Chapter 2: "how would he know this". A comparison has to come from something Alaric has lived through on the page. Cut in revision 5 at the author's request ("Yes cut all").
 
 **Your decision.** You asked for it: "Yes cut all".
+
+### Revision 6: "the dark"
+
+#### 57. Wena's hiding place
+
+*Draft line 443 → revised line 449*
+
+**Before**
+
+> "That's Wena." Gerolt nodded towards the darkness beneath the frame. "Barks at owls, carts, the wind changing its mind about which direction to blow. Give her half an excuse and she'll use it. Last night, not a sound out of her."
+
+**After**
+
+> "That's Wena." Gerolt nodded at the bed. "Barks at owls, carts, the wind changing its mind about which direction to blow. Give her half an excuse and she'll use it. Last night, not a sound out of her."
+
+**Why.** The author: "One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words." Asked for Chapter 1 on 27 September. The whine two lines before has already put Wena under the bed, and "beneath the bed" comes again in the next line, so a nod at the bed is enough.
+
+**Your decision.** At your request.
+
+#### 58. The candle goes out
+
+*Draft line 603 → revised line 603*
+
+**Before**
+
+> Darkness swallowed the cabin.
+
+**After**
+
+> The cabin went black.
+
+**Why.** The author: "One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words." Asked for Chapter 1 on 27 September. "Swallowed" was also a word chosen to sound good (principle 5).
+
+**Your decision.** At your request.
+
+#### 59. Gerolt's face
+
+*Draft line 613 → revised line 613*
+
+**Before**
+
+> Then he found Gerolt's face in the dark, and understood.
+
+**After**
+
+> Then he found Gerolt's face, and understood.
+
+**Why.** The author: "One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words." Asked for Chapter 1 on 27 September. "Found" already says it was hard to see.
+
+**Your decision.** At your request.
+
+#### 60. The man hiding
+
+*Draft line 637 → revised line 637*
+
+**Before**
+
+> Now that same man crouched in the dark beside a smothered fire, hiding from whoever stood outside rather than let them know he was home.
+
+**After**
+
+> Now that same man crouched beside a smothered fire, hiding from whoever stood outside rather than let them know he was home.
+
+**Why.** The author: "One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words." Asked for Chapter 1 on 27 September. The smothered fire and the pinched-out candle already say there's no light.
+
+**Your decision.** At your request.

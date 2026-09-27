@@ -6,11 +6,13 @@ Started 27 September 2026. This is the change list for the redesigned Chapter 2.
 
 **Round 2 (27 September): meaning, and his eyes.** The author: "I see a lot of someone did X, he did Y. Just add meaning to things." Their line for Alaric after Gerolt dies, "The man was at him before he noticed", and "spattered the ground" are taken as given. The same note is applied at eight more moments that matter to Alaric, and each of those waits on your yes or no. The fights stay fast.
 
+**Round 3 (27 September): the author's answers on round 2.** Accepted: "Nobody was coming", the laugh, and "away from Gerolt". Reworked as asked: the sword ("his fate was sealed"), his feet stopping ("down there is weird"), the fire going out ("what is it, give meaning to it"), and the house, toned down ("too melodramatic"). "Bracken" is now "ferns" throughout.
+
 ## At a glance
 
-- **36 changes proposed.** 0 rejected so far, so 36 are in the chapter: 29 rewritten, 5 cut and 2 added.
-- **Length:** 4,684 words before, 4,740 after.
-- **Median paragraph:** 14 words before, 14.5 after. The house target is roughly 14–22.
+- **39 changes proposed.** 0 rejected so far, so 39 are in the chapter: 32 rewritten, 5 cut and 2 added.
+- **Length:** 4,684 words before, 4,766 after.
+- **Median paragraph:** 14 words before, 15 after. The house target is roughly 14–22.
 - **"Nothing":** 2 times before, 2 after.
 - **"The dark":** as a place, 8 times before and 0 after. "Dark" in all: 19 before, 5 after (changes 1, 2, 3, 4, 5, 7, 8, 10, 13, 18, 19, 20, 24). The five left are all from Version 1: the grip, the cloth, the elves' armour twice, and the blood he coughs up.
 - **Lines that told the reader what they already knew:** 2 cut on your word (changes 14, 21), and 8 more proposed (changes 9, 11, 12, 15, 16, 17, 18, 22).
@@ -28,14 +30,8 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 17, "The fire was still burning".** Cut it?
 - **Change 18, The rider coming up the slope.** The rider's line folded into what Alaric sees, and the last kill made concrete: yes?
 - **Change 22, The man turns.** Cut "The man stayed where he was."?
-- **Change 25, The house he woke up in.** Add what the house is to him?
-- **Change 26, After the fall.** Add "and he wasn't moving"?
-- **Change 27, By the river.** Add "Nobody was coming."?
-- **Change 28, Why he laughs.** The laugh with its meaning: yes?
-- **Change 29, Taking the sword.** Add "Taking it meant Gerolt wasn't coming."?
-- **Change 30, Three steps.** Add "He couldn't leave Gerolt down there on his own."?
-- **Change 32, The fire going out.** Add "Alaric waited for it to come back."?
-- **Change 35, Dragged away.** Add "away from Gerolt"?
+- **Change 25, The house he woke up in.** Toned down after "I think kind of, it feels too melodramatic": is this right?
+- **Change 26, After the fall.** Add "and he wasn't moving"? (You asked what bracken is, so I've changed it to "ferns", but this one still needs your yes or no.)
 
 **Already decided**
 
@@ -55,9 +51,18 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 21, "He stayed on his knees":** Your note.
 - **Change 23, Wena:** Your note. The words are mine; tell me if the pause should read differently.
 - **Change 24, The last line:** By your instruction to "cut down on" the dark.
+- **Change 27, By the river:** "Yes."
+- **Change 28, Why he laughs:** "I agree."
+- **Change 29, Taking the sword:** Your idea; the words are mine.
+- **Change 30, Three steps:** Reworded after "down there is weird".
 - **Change 31, Blood on the ground:** Your note.
+- **Change 32, The fire going out:** Reworked after "what is it, give meaning to it".
 - **Change 33, The man reaches him:** Your note.
 - **Change 34, Alaric can't get up:** Your line. Say if you want "in this moment" back.
+- **Change 35, Dragged away:** "Yes."
+- **Change 37, Ferns, not bracken (the fall):** After "what is bracken?".
+- **Change 38, Ferns, not bracken (the sword):** After "what is bracken?".
+- **Change 39, Ferns, not bracken (getting up):** After "what is bracken?".
 
 ## What each note became
 
@@ -70,6 +75,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 7. **"Just add meaning to things."** Your line for Alaric after Gerolt dies, word for word apart from the punctuation. Eight more moments where he now feels or understands something in plain words: the house he woke up in, Gerolt not moving after the fall, "Nobody was coming", why he laughs, what taking the sword means, why his feet stop, waiting for the fire to come back, and being dragged "away from Gerolt". These are changes 25, 26, 27, 28, 29, 30, 32, 35.
 8. **"The man was at him before he noticed."** The narration follows where Alaric is looking: change 33.
 9. **"Spattered the ground."** Change 31.
+10. **Round 3.** Your answers on round 2 are in each change's decision. "Bracken" is now "ferns": changes 37, 38, 39 and 26.
 
 ## The changes
 
@@ -487,11 +493,11 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **New**
 
-> The boy stared up at the burning roof. He had woken under it that night, with a blanket over him and stew on the fire. It was the only place in the world he knew, and Gerolt had set fire to it himself.
+> The boy stared up at the burning roof. He had woken under it that night, with a blanket over him and stew on the fire.
 
-**Why.** Your note: "I see a lot of someone did X, he did Y. Just add meaning to things." This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. His question ("What are you doing?") now comes out of something.
+**Why.** Your note: "I see a lot of someone did X, he did Y. Just add meaning to things." This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. His question ("What are you doing?") now comes out of something. (Round 3: the author found "It was the only place in the world he knew, and Gerolt had set fire to it himself" "kind of… too melodramatic". Now only the memory is left, and the meaning sits in it.)
 
-**Your call.** Add what the house is to him?
+**Your call.** Toned down after "I think kind of, it feels too melodramatic": is this right?
 
 ### The ride (draft lines 241–267)
 
@@ -505,11 +511,11 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> Gerolt lay a few paces off in the bracken, and he wasn't moving. The boy crawled to him on his hands and knees.
+> Gerolt lay a few paces off in the ferns, and he wasn't moving. The boy crawled to him on his hands and knees.
 
-**Why.** Your note: "I see a lot of someone did X, he did Y. Just add meaning to things." This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. Four words give him, and the reader, a moment of thinking Gerolt is dead before he swears.
+**Why.** Your note: "I see a lot of someone did X, he did Y. Just add meaning to things." This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. Four words give him, and the reader, a moment of thinking Gerolt is dead before he swears. (Round 3: "bracken" became "ferns". The author asked "what is bracken?", so readers may not know it either.)
 
-**Your call.** Add "and he wasn't moving"?
+**Your call.** Add "and he wasn't moving"? (You asked what bracken is, so I've changed it to "ferns", but this one still needs your yes or no.)
 
 ### The forest and the river (draft lines 269–405)
 
@@ -527,7 +533,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Why.** Your note: "I see a lot of someone did X, he did Y. Just add meaning to things." This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. "Nobody was coming" is what he believes, reasoned from what he can hear, and it's wrong: the riders are already at the river. That's his flaw ("believes things are right when they aren't"), and it makes the relief the reader's too.
 
-**Your call.** Add "Nobody was coming."?
+**Your decision.** "Yes."
 
 #### 28. Why he laughs
 
@@ -543,7 +549,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Why.** Your note: "I see a lot of someone did X, he did Y. Just add meaning to things." This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. This replaces "He couldn't have said why", which was call 7 on the redraft.
 
-**Your call.** The laugh with its meaning: yes?
+**Your decision.** "I agree."
 
 ### The last stand (draft lines 407–473)
 
@@ -557,11 +563,11 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> He held it out to Alaric hilt first. Alaric didn't take it. Taking it meant Gerolt wasn't coming. Gerolt pushed it into his hands anyway and closed his fingers around the grip.
+> He held it out to Alaric hilt first. Alaric didn't take it. He had watched Gerolt fight with that sword tonight. If he took it, Gerolt wasn't coming, and he would be facing them with his bare hands. He would die here. Gerolt pushed it into his hands anyway and closed his fingers around the grip.
 
-**Why.** Your note: "I see a lot of someone did X, he did Y. Just add meaning to things." This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. He's smart (principle 1): he understands what the sword means before Gerolt says a word.
+**Why.** Your note: "I see a lot of someone did X, he did Y. Just add meaning to things." This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. He's smart (principle 1): he understands what the sword means before Gerolt says a word. (Round 3, the author: "Add meaning that taking the sword also meant Alaric had seen Gerolt fighting with it, and taking it not only meant that Gerolt was not coming, it meant that Gerolt's fate was sealed, he wasn't going to be able to fight." Alaric doesn't know what Gerolt's fire can do. He has only seen a candle's worth, so to him Gerolt is left with his bare hands, and the hand of fire that follows surprises him.)
 
-**Your call.** Add "Taking it meant Gerolt wasn't coming."?
+**Your decision.** Your idea; the words are mine.
 
 #### 30. Three steps
 
@@ -573,11 +579,11 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> He had Wena's collar in one hand and the sword in the other, and his feet wouldn't go any further. He couldn't leave Gerolt down there on his own.
+> He had Wena's collar in one hand and the sword in the other, and his feet wouldn't go any further. He couldn't leave Gerolt alone with them.
 
-**Why.** Your note: "I see a lot of someone did X, he did Y. Just add meaning to things." This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. It says why he stops, which the draft left blank.
+**Why.** Your note: "I see a lot of someone did X, he did Y. Just add meaning to things." This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. It says why he stops, which the draft left blank. (Round 3: "down there is weird", so it's now "alone with them".)
 
-**Your call.** Add "He couldn't leave Gerolt down there on his own."?
+**Your decision.** Reworded after "down there is weird".
 
 #### 31. Blood on the ground
 
@@ -607,11 +613,11 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **New**
 
-> Alaric waited for it to come back.
+> Alaric waited for the fire to come back. It had kept burning through both arrows, and now it was out, and Gerolt's hand hung open at his side.
 
-**Why.** Your note: "I see a lot of someone did X, he did Y. Just add meaning to things." This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. It's the one line of his between Gerolt dying and the man turning, and it's hope, not an announcement.
+**Why.** Your note: "I see a lot of someone did X, he did Y. Just add meaning to things." This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. It's the one line of his between Gerolt dying and the man turning, and it's hope, not an announcement. (Round 3, the author: "what is it, give meaning to it". "It" is now "the fire", and it carries what the fire meant: it burned through both arrows, and now it's out.)
 
-**Your call.** Add "Alaric waited for it to come back."?
+**Your decision.** Reworked after "what is it, give meaning to it".
 
 #### 33. The man reaches him
 
@@ -659,7 +665,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Why.** Your note: "I see a lot of someone did X, he did Y. Just add meaning to things." This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. "Away from Gerolt" is the part that matters to Alaric.
 
-**Your call.** Add "away from Gerolt"?
+**Your decision.** "Yes."
 
 ### The last stand (draft lines 407–473)
 
@@ -676,3 +682,55 @@ Each of these needs a yes or no from you. It adds something about a character or
 > Gerolt shoved him back up the slope. There wasn't much strength in it. Then he turned towards the torches.
 
 **Why.** A craft fix. Round 2 put "pushed it into his hands anyway" two lines above this, and "pushed himself up it" is just before that. Three "pushed" in twelve lines.
+
+### The ride (draft lines 241–267)
+
+#### 37. Ferns, not bracken (the fall)
+
+*Draft line 271 → revised line 273*
+
+**Before**
+
+> He landed on his back in bracken, and all the air went out of him. For a while he could only lie there with his mouth open, trying to get it back.
+
+**After**
+
+> He landed on his back in the ferns, and all the air went out of him. For a while he could only lie there with his mouth open, trying to get it back.
+
+**Why.** The author asked "what is bracken?" It's a tall wild fern that grows at the edges of woods. If the author doesn't know the word, many readers won't either, so it's "ferns".
+
+**Your decision.** After "what is bracken?".
+
+### The forest and the river (draft lines 269–405)
+
+#### 38. Ferns, not bracken (the sword)
+
+*Draft line 283 → revised line 285*
+
+**Before**
+
+> The sword lay in the bracken beside him. Gerolt got its point into the ground again, and the boy got under his arm, and between them they got him standing. It took everything the boy had. It took everything Gerolt had too; the boy could feel it in the arm across his shoulders, shaking without stopping.
+
+**After**
+
+> The sword lay in the ferns beside him. Gerolt got its point into the ground again, and the boy got under his arm, and between them they got him standing. It took everything the boy had. It took everything Gerolt had too; the boy could feel it in the arm across his shoulders, shaking without stopping.
+
+**Why.** The author asked "what is bracken?" It's a tall wild fern that grows at the edges of woods. If the author doesn't know the word, many readers won't either, so it's "ferns".
+
+**Your decision.** After "what is bracken?".
+
+#### 39. Ferns, not bracken (getting up)
+
+*Draft line 391 → revised line 389*
+
+**Before**
+
+> It was harder than before. Alaric's head was still ringing, and his arms were shaking before he'd even started, and Gerolt's weight kept trying to fold him over. But Gerolt was pushing too, harder than he had at the cabin or in the bracken, and between the two of them he came up off the roots and stayed up.
+
+**After**
+
+> It was harder than before. Alaric's head was still ringing, and his arms were shaking before he'd even started, and Gerolt's weight kept trying to fold him over. But Gerolt was pushing too, harder than he had at the cabin or in the ferns, and between the two of them he came up off the roots and stayed up.
+
+**Why.** The author asked "what is bracken?" It's a tall wild fern that grows at the edges of woods. If the author doesn't know the word, many readers won't either, so it's "ferns".
+
+**Your decision.** After "what is bracken?".

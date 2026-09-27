@@ -3,12 +3,13 @@
  "draft": "Chapter 1 - A War Without Sound (Draft 1, before revision).md",
  "chapter": "../Chapter 1 - A War Without Sound.md",
  "changes_file": "../Chapter 1 - Changes.md",
- "intro_md": "Written on 26 September 2026. This is every change made to `Chapter 1 - A War Without Sound.md` since the draft, each with a before, an after and a reason.\n\n- **Revision 1** (changes 1–37) carried out the agreed decisions and craft fixes.\n- **Revision 2** (changes 38–44) trimmed your own lines against principle 5: don't explain the meaning.\n- **Revision 3** (changes 45–49) is the final check: small craft fixes from a last full read.\n- **Revision 4** (changes 50–52) takes the gold at the running figure's cuff out of the vision, at your request.\n- **Revision 5** (changes 53–56, plus edits folded into changes 8, 19, 25 and 28) cuts eight comparisons Alaric couldn't make from what he has lived through.\n\n- The chapter as it was before is saved, unchanged, as `Drafts/Chapter 1 - A War Without Sound (Draft 1, before revision).md`. Any change you reject can go straight back from there.\n- **Draft line** numbers refer to that saved copy. **Revised line** numbers refer to the chapter as it stands now.\n- Nothing was changed that isn't listed here.\n- Changes 6, 19, 20, 25, 27 and 37 were trimmed after your note on over-explaining. Each one shows the trimmed version.",
+ "intro_md": "Written on 26 September 2026. This is every change made to `Chapter 1 - A War Without Sound.md` since the draft, each with a before, an after and a reason.\n\n- **Revision 1** (changes 1–37) carried out the agreed decisions and craft fixes.\n- **Revision 2** (changes 38–44) trimmed your own lines against principle 5: don't explain the meaning.\n- **Revision 3** (changes 45–49) is the final check: small craft fixes from a last full read.\n- **Revision 4** (changes 50–52) takes the gold at the running figure's cuff out of the vision, at your request.\n- **Revision 5** (changes 53–56, plus edits folded into changes 8, 19, 25 and 28) cuts eight comparisons Alaric couldn't make from what he has lived through.\n- **Revision 6** (changes 57–60, plus an edit folded into change 28) takes out \"the dark\", at your request (27 September).\n\n- The chapter as it was before is saved, unchanged, as `Drafts/Chapter 1 - A War Without Sound (Draft 1, before revision).md`. Any change you reject can go straight back from there.\n- **Draft line** numbers refer to that saved copy. **Revised line** numbers refer to the chapter as it stands now.\n- Nothing was changed that isn't listed here.\n- Changes 6, 19, 20, 25, 27 and 37 were trimmed after your note on over-explaining. Each one shows the trimmed version.",
  "glance": [
   "**Gerolt's failed laugh:** four times before (lines 103, 277, 417, 471). Now once, in your own line 103.",
   "**\"What do you remember before this morning?\":** asked three times before, once now.",
   "**\"Leave your clothes alone\":** three times before, twice now.",
-  "**\"Almost heard\":** 2 before, 1 after. The word he can't hear is still mentioned twice in the vision itself."
+  "**\"Almost heard\":** 2 before, 1 after. The word he can't hear is still mentioned twice in the vision itself.",
+  "**\"The dark\" as a place:** five times before revision 6, none now (changes {tag:dark}, and change 28)."
  ],
  "summary_md": "## What each decision became\n\n**The six decisions you agreed**\n\n1. **The belief that stays wrong** is the running figure: change {tag:belief}.\n2. **Gerolt expects people by morning:** change {tag:deadline}.\n3. **Gerolt knows about the scout agreement:** change {tag:scouts}.\n4. **The sword, planted with one glance:** change {tag:sword}.\n5. **\"The boy\", with one age cue:** change {tag:age}.\n6. **First name only:** nothing to change. The chapter already calls him just \"Gerolt\".\n\n**Earlier decisions**\n\n- **The flame (locked):** changes {tag:flame}.\n- **\"Empty\" is spoken,** and his fear turns to what the world does to people with no magic: changes {tag:fear}.\n- **Gerolt reacts to the dead elves:** change {tag:elves}.\n- **Gerolt's peace, and the boy ending it:** changes {tag:peace}.\n- **Gerolt's damage, shown through what he does:** changes {tag:damage}, plus the sword glance ({tag:sword}) and his knowing the scouts ({tag:scouts}). The candle burn and the practised way he smothers the fire were already there.\n- **The thesis passages (Principle 3):** changes {tag:thesis}.\n\n**Craft fixes from the first review**\n\n- The repeated question: changes {tag:repeat-q}. The clothes warnings: changes {tag:clothes}. The failed laughs: changes {tag:laugh}.\n- Exact repeats of \"nothing\": changes {tag:nothing}. \"Almost heard\": change {tag:almost}. The over-polished line: change {tag:polish}.\n- Staging: changes {tag:staging}. Spelling: changes {tag:spelling}. Point of view: change {tag:pov}. The duplicate wound line: change {tag:dup}. Time of day: change {tag:time}. The last line: change {tag:last}.\n- Found while revising: the unattributed \"Wena?\" (change {tag:wena}).\n\n## Left alone on purpose\n\n- **Your opening (draft lines 3–115).** Only staging, spelling and one cut (changes 1–5). THOOM, the Light searching him, Gerolt checking the field \"the way a man checks a door\", and your line 103 laugh are all untouched.\n- **Gerolt's numbers.** \"Fifty winters on this land\", \"thirty years of traders\" and \"sixty years\" put him near seventy. His age is still open in `Decisions.md`, so they stay until you decide.\n- **The heading.** The old Rewrites files used a different format, but they no longer set the standard. Yours stands.\n- **Everything the Revision Notes list under \"keep\":** the circle and the white flower, the left hand and the wrist, the vision, the choice (\"He wanted answers. He chose silence.\"), the dismount with no sound and the four knocks.\n- **\"*Was I here with them?*\"** stays a question he can't answer.",
  "sections": {
@@ -19,7 +20,8 @@
   "Revision 2": "Revision 2: your own lines, against principle 5",
   "Revision 3": "Revision 3: the final check",
   "Revision 4": "Revision 4: the gold at the cuff",
-  "Revision 5": "Revision 5: comparisons he couldn't make"
+  "Revision 5": "Revision 5: comparisons he couldn't make",
+  "Revision 6": "Revision 6: \"the dark\""
  },
  "changes": [
   {
@@ -353,8 +355,8 @@
     "peace"
    ],
    "before": "\"So either I've been wrong about how the world works for sixty years, or something out there made it true just long enough to kill every one of them.\"",
-   "after": "\"And the pale ones?\" the boy asked. \"With the pointed ears?\"\n\n\"Natharul.\" Gerolt said it low. \"When one of theirs dies, they don't ask who did it. They ask where.\"\n\nThe boy thought of the pale faces among the dead. \"Then they'll ask about here.\"\n\n\"Aye. And the nearest house with children in it is two fields over.\" He was still watching the dark where the field lay. \"Come first light, somebody'll see the crows. By noon, somebody'll have sold what they saw, and there'll be men at my door asking what I found out there.\"",
-   "why": "Two decisions: Gerolt reacts to the dead elves, and he expects people by morning. His window speech named the banners, the armour, the machines and the beastfolk, and stopped short of the elves. Now the boy notices what he left out and asks, which is the boy's personality working. \"They ask where\" shows Natharul's collective punishment through Gerolt's fear instead of explaining it. The deadline is Mydea's informers: someone sees, someone sells. It's also the moment his peace visibly ends: \"what I found out there\" is the boy. *Revision 5 cut a comparison from this change: \"as if the dark outside might carry it\". The author, on Chapter 2: \"how would he know this\". A comparison has to come from something Alaric has lived through on the page. Cut in revision 5 at the author's request (\"Yes cut all\").*",
+   "after": "\"And the pale ones?\" the boy asked. \"With the pointed ears?\"\n\n\"Natharul.\" Gerolt said it low. \"When one of theirs dies, they don't ask who did it. They ask where.\"\n\nThe boy thought of the pale faces among the dead. \"Then they'll ask about here.\"\n\n\"Aye. And the nearest house with children in it is two fields over.\" He was still watching the field through the gap in the shutter. \"Come first light, somebody'll see the crows. By noon, somebody'll have sold what they saw, and there'll be men at my door asking what I found out there.\"",
+   "why": "Two decisions: Gerolt reacts to the dead elves, and he expects people by morning. His window speech named the banners, the armour, the machines and the beastfolk, and stopped short of the elves. Now the boy notices what he left out and asks, which is the boy's personality working. \"They ask where\" shows Natharul's collective punishment through Gerolt's fear instead of explaining it. The deadline is Mydea's informers: someone sees, someone sells. It's also the moment his peace visibly ends: \"what I found out there\" is the boy. *Revision 5 cut a comparison from this change: \"as if the dark outside might carry it\". The author, on Chapter 2: \"how would he know this\". A comparison has to come from something Alaric has lived through on the page. Cut in revision 5 at the author's request (\"Yes cut all\").* (Revision 6: \"watching the dark where the field lay\" became \"watching the field through the gap in the shutter\", at the author's request to cut down on \"the dark\".)",
    "call": "The neighbours' house with children is new. They're unnamed, and nothing else about them is decided. One knock-on: because Gerolt now says \"Natharul\" out loud here, the name he swallows when the riders arrive (\"His mouth started to shape a name\") now reads as something more specific he recognises. That leaves a small question for Chapter 2. If you'd rather the swallowed name was simply \"Natharul\", this line would have to say \"Elves\" instead.",
    "decision": "accepted",
    "decision_note": "Kept: Gerolt names Natharul here, the name he swallows later is something more specific, and the neighbours' house stays."
@@ -695,6 +697,58 @@
    "why": "The author, on Chapter 2: \"how would he know this\". A comparison has to come from something Alaric has lived through on the page. Cut in revision 5 at the author's request (\"Yes cut all\").",
    "decision": "accepted",
    "decision_note": "You asked for it: \"Yes cut all\"."
+  },
+  {
+   "section": "Revision 6",
+   "title": "Wena's hiding place",
+   "kind": "changed",
+   "tags": [
+    "dark"
+   ],
+   "before": "\"That's Wena.\" Gerolt nodded towards the darkness beneath the frame. \"Barks at owls, carts, the wind changing its mind about which direction to blow. Give her half an excuse and she'll use it. Last night, not a sound out of her.\"",
+   "after": "\"That's Wena.\" Gerolt nodded at the bed. \"Barks at owls, carts, the wind changing its mind about which direction to blow. Give her half an excuse and she'll use it. Last night, not a sound out of her.\"",
+   "why": "The author: \"One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words.\" Asked for Chapter 1 on 27 September. The whine two lines before has already put Wena under the bed, and \"beneath the bed\" comes again in the next line, so a nod at the bed is enough.",
+   "decision": "accepted",
+   "decision_note": "At your request."
+  },
+  {
+   "section": "Revision 6",
+   "title": "The candle goes out",
+   "kind": "changed",
+   "tags": [
+    "dark"
+   ],
+   "before": "Darkness swallowed the cabin.",
+   "after": "The cabin went black.",
+   "why": "The author: \"One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words.\" Asked for Chapter 1 on 27 September. \"Swallowed\" was also a word chosen to sound good (principle 5).",
+   "decision": "accepted",
+   "decision_note": "At your request."
+  },
+  {
+   "section": "Revision 6",
+   "title": "Gerolt's face",
+   "kind": "changed",
+   "tags": [
+    "dark"
+   ],
+   "before": "Then he found Gerolt's face in the dark, and understood.",
+   "after": "Then he found Gerolt's face, and understood.",
+   "why": "The author: \"One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words.\" Asked for Chapter 1 on 27 September. \"Found\" already says it was hard to see.",
+   "decision": "accepted",
+   "decision_note": "At your request."
+  },
+  {
+   "section": "Revision 6",
+   "title": "The man hiding",
+   "kind": "changed",
+   "tags": [
+    "dark"
+   ],
+   "before": "Now that same man crouched in the dark beside a smothered fire, hiding from whoever stood outside rather than let them know he was home.",
+   "after": "Now that same man crouched beside a smothered fire, hiding from whoever stood outside rather than let them know he was home.",
+   "why": "The author: \"One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words.\" Asked for Chapter 1 on 27 September. The smothered fire and the pinched-out candle already say there's no light.",
+   "decision": "accepted",
+   "decision_note": "At your request."
   }
  ]
 }

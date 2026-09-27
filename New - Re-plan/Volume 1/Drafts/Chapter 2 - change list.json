@@ -3,13 +3,13 @@
  "draft": "Chapter 2 - The Price of a Voice (Draft 2, the redesign).md",
  "chapter": "../Chapter 2 - The Price of a Voice.md",
  "changes_file": "../Chapter 2 - Changes.md",
- "intro_md": "Started 27 September 2026. This is the change list for the redesigned Chapter 2. The redesign is compared with the version before it, scene by scene, in `Chapter 2 - What the Redesign Changed.md`. Its first draft is saved unchanged as `Drafts/Chapter 2 - The Price of a Voice (Draft 2, the redesign).md`, and every round is a change against it. The version before the redesign, with its own 38 changes, is kept in `Drafts/` as Version 1.\n\n**Round 1 (27 September): the author's notes on the redesigned draft.** Four notes, taken as given: cut \"Alaric stopped laughing\" and \"He stayed on his knees\", add Gerolt's \"The trees…\", and show Wena as Alaric sees her. One instruction applied across the chapter: \"the dark\". The same rule as the two cuts is applied to eight more lines, and each of those waits on your yes or no.\n\n**Round 2 (27 September): meaning, and his eyes.** The author: \"I see a lot of someone did X, he did Y. Just add meaning to things.\" Their line for Alaric after Gerolt dies, \"The man was at him before he noticed\", and \"spattered the ground\" are taken as given. The same note is applied at eight more moments that matter to Alaric, and each of those waits on your yes or no. The fights stay fast.",
+ "intro_md": "Started 27 September 2026. This is the change list for the redesigned Chapter 2. The redesign is compared with the version before it, scene by scene, in `Chapter 2 - What the Redesign Changed.md`. Its first draft is saved unchanged as `Drafts/Chapter 2 - The Price of a Voice (Draft 2, the redesign).md`, and every round is a change against it. The version before the redesign, with its own 38 changes, is kept in `Drafts/` as Version 1.\n\n**Round 1 (27 September): the author's notes on the redesigned draft.** Four notes, taken as given: cut \"Alaric stopped laughing\" and \"He stayed on his knees\", add Gerolt's \"The trees…\", and show Wena as Alaric sees her. One instruction applied across the chapter: \"the dark\". The same rule as the two cuts is applied to eight more lines, and each of those waits on your yes or no.\n\n**Round 2 (27 September): meaning, and his eyes.** The author: \"I see a lot of someone did X, he did Y. Just add meaning to things.\" Their line for Alaric after Gerolt dies, \"The man was at him before he noticed\", and \"spattered the ground\" are taken as given. The same note is applied at eight more moments that matter to Alaric, and each of those waits on your yes or no. The fights stay fast.\n\n**Round 3 (27 September): the author's answers on round 2.** Accepted: \"Nobody was coming\", the laugh, and \"away from Gerolt\". Reworked as asked: the sword (\"his fate was sealed\"), his feet stopping (\"down there is weird\"), the fire going out (\"what is it, give meaning to it\"), and the house, toned down (\"too melodramatic\"). \"Bracken\" is now \"ferns\" throughout.",
  "glance": [
   "**\"The dark\":** as a place, 8 times before and 0 after. \"Dark\" in all: 19 before, 5 after (changes {tag:dark}). The five left are all from Version 1: the grip, the cloth, the elves' armour twice, and the blood he coughs up.",
   "**Lines that told the reader what they already knew:** 2 cut on your word (changes {tag:yourcuts}), and 8 more proposed (changes {tag:further}).",
   "**Meaning added:** 3 changes on your word (changes {tag:author2}), and 8 more moments proposed (changes {tag:meaningcall})."
  ],
- "summary_md": "## What each note became\n\n1. **\"Alaric stopped laughing.\"** Cut, as you said: change 14.\n2. **\"He stayed on his knees.\"** Cut, as you said: change 21. The page still never says he's dead: after the \"heh\" the fire goes out, and the last line shows him kneeling.\n3. **\"The trees…\"** Gerolt looks at the window, says \"The trees…\", then gives the order: change {tag:trees}.\n4. **Wena.** Shown as Alaric sees it: she stares at Gerolt, looks at him, doesn't come, then runs after him: change {tag:wena}.\n5. **\"The dark.\"** Every \"the dark\" is gone, and \"dark\" is down from 19 to 5: changes {tag:dark}.\n6. **The same rule, applied further.** Eight more lines that told the reader what they already knew: changes {tag:further}. These are the only changes waiting on you.\n7. **\"Just add meaning to things.\"** Your line for Alaric after Gerolt dies, word for word apart from the punctuation. Eight more moments where he now feels or understands something in plain words: the house he woke up in, Gerolt not moving after the fall, \"Nobody was coming\", why he laughs, what taking the sword means, why his feet stop, waiting for the fire to come back, and being dragged \"away from Gerolt\". These are changes {tag:meaningcall}.\n8. **\"The man was at him before he noticed.\"** The narration follows where Alaric is looking: change {tag:eyes}.\n9. **\"Spattered the ground.\"** Change {tag:plain}.",
+ "summary_md": "## What each note became\n\n1. **\"Alaric stopped laughing.\"** Cut, as you said: change 14.\n2. **\"He stayed on his knees.\"** Cut, as you said: change 21. The page still never says he's dead: after the \"heh\" the fire goes out, and the last line shows him kneeling.\n3. **\"The trees…\"** Gerolt looks at the window, says \"The trees…\", then gives the order: change {tag:trees}.\n4. **Wena.** Shown as Alaric sees it: she stares at Gerolt, looks at him, doesn't come, then runs after him: change {tag:wena}.\n5. **\"The dark.\"** Every \"the dark\" is gone, and \"dark\" is down from 19 to 5: changes {tag:dark}.\n6. **The same rule, applied further.** Eight more lines that told the reader what they already knew: changes {tag:further}. These are the only changes waiting on you.\n7. **\"Just add meaning to things.\"** Your line for Alaric after Gerolt dies, word for word apart from the punctuation. Eight more moments where he now feels or understands something in plain words: the house he woke up in, Gerolt not moving after the fall, \"Nobody was coming\", why he laughs, what taking the sword means, why his feet stop, waiting for the fire to come back, and being dragged \"away from Gerolt\". These are changes {tag:meaningcall}.\n8. **\"The man was at him before he noticed.\"** The narration follows where Alaric is looking: change {tag:eyes}.\n9. **\"Spattered the ground.\"** Change {tag:plain}.\n10. **Round 3.** Your answers on round 2 are in each change's decision. \"Bracken\" is now \"ferns\": changes {tag:plainword} and 26.",
  "sections": {
   "The door": "The door (draft lines 3–101)",
   "The fight": "The fight (draft lines 103–183)",
@@ -333,9 +333,9 @@
     "meaningcall"
    ],
    "before": "His palm had gone an angry red. He didn't look at it.",
-   "after": "The boy stared up at the burning roof. He had woken under it that night, with a blanket over him and stew on the fire. It was the only place in the world he knew, and Gerolt had set fire to it himself.",
-   "why": "Your note: \"I see a lot of someone did X, he did Y. Just add meaning to things.\" This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. His question (\"What are you doing?\") now comes out of something.",
-   "call": "Add what the house is to him?"
+   "after": "The boy stared up at the burning roof. He had woken under it that night, with a blanket over him and stew on the fire.",
+   "why": "Your note: \"I see a lot of someone did X, he did Y. Just add meaning to things.\" This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. His question (\"What are you doing?\") now comes out of something. (Round 3: the author found \"It was the only place in the world he knew, and Gerolt had set fire to it himself\" \"kind of… too melodramatic\". Now only the memory is left, and the meaning sits in it.)",
+   "call": "Toned down after \"I think kind of, it feels too melodramatic\": is this right?"
   },
   {
    "section": "The ride",
@@ -346,9 +346,9 @@
     "meaningcall"
    ],
    "before": "Gerolt lay a few paces off in the bracken. The boy crawled to him on his hands and knees.",
-   "after": "Gerolt lay a few paces off in the bracken, and he wasn't moving. The boy crawled to him on his hands and knees.",
-   "why": "Your note: \"I see a lot of someone did X, he did Y. Just add meaning to things.\" This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. Four words give him, and the reader, a moment of thinking Gerolt is dead before he swears.",
-   "call": "Add \"and he wasn't moving\"?"
+   "after": "Gerolt lay a few paces off in the ferns, and he wasn't moving. The boy crawled to him on his hands and knees.",
+   "why": "Your note: \"I see a lot of someone did X, he did Y. Just add meaning to things.\" This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. Four words give him, and the reader, a moment of thinking Gerolt is dead before he swears. (Round 3: \"bracken\" became \"ferns\". The author asked \"what is bracken?\", so readers may not know it either.)",
+   "call": "Add \"and he wasn't moving\"? (You asked what bracken is, so I've changed it to \"ferns\", but this one still needs your yes or no.)"
   },
   {
    "section": "The forest",
@@ -361,7 +361,9 @@
    "before": "He leaned against a tree and let himself down it until he was sitting. Alaric sank down beside him, too tired to stand, and listened back up the slope. Leaves moved in the wind. The water ran on below them. The torchlight had gone.",
    "after": "He leaned against a tree and let himself down it until he was sitting. Alaric sank down beside him, too tired to stand, and listened back up the slope. Leaves moved in the wind. The water ran on below them. The torchlight had gone. Nobody was coming.",
    "why": "Your note: \"I see a lot of someone did X, he did Y. Just add meaning to things.\" This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. \"Nobody was coming\" is what he believes, reasoned from what he can hear, and it's wrong: the riders are already at the river. That's his flaw (\"believes things are right when they aren't\"), and it makes the relief the reader's too.",
-   "call": "Add \"Nobody was coming.\"?"
+   "call": "Add \"Nobody was coming.\"?",
+   "decision": "accepted",
+   "decision_note": "\"Yes.\""
   },
   {
    "section": "The forest",
@@ -374,7 +376,9 @@
    "before": "Alaric laughed too. He couldn't have said why.",
    "after": "Alaric laughed too, and couldn't stop. Gerolt was bleeding and the house was gone, and none of it was funny.",
    "why": "Your note: \"I see a lot of someone did X, he did Y. Just add meaning to things.\" This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. This replaces \"He couldn't have said why\", which was call 7 on the redraft.",
-   "call": "The laugh with its meaning: yes?"
+   "call": "The laugh with its meaning: yes?",
+   "decision": "accepted",
+   "decision_note": "\"I agree.\""
   },
   {
    "section": "The last stand",
@@ -385,9 +389,10 @@
     "meaningcall"
    ],
    "before": "He held it out to Alaric hilt first. When Alaric didn't take it, he pushed it into his hands and closed his fingers around the grip.",
-   "after": "He held it out to Alaric hilt first. Alaric didn't take it. Taking it meant Gerolt wasn't coming. Gerolt pushed it into his hands anyway and closed his fingers around the grip.",
-   "why": "Your note: \"I see a lot of someone did X, he did Y. Just add meaning to things.\" This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. He's smart (principle 1): he understands what the sword means before Gerolt says a word.",
-   "call": "Add \"Taking it meant Gerolt wasn't coming.\"?"
+   "after": "He held it out to Alaric hilt first. Alaric didn't take it. He had watched Gerolt fight with that sword tonight. If he took it, Gerolt wasn't coming, and he would be facing them with his bare hands. He would die here. Gerolt pushed it into his hands anyway and closed his fingers around the grip.",
+   "why": "Your note: \"I see a lot of someone did X, he did Y. Just add meaning to things.\" This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. He's smart (principle 1): he understands what the sword means before Gerolt says a word. (Round 3, the author: \"Add meaning that taking the sword also meant Alaric had seen Gerolt fighting with it, and taking it not only meant that Gerolt was not coming, it meant that Gerolt's fate was sealed, he wasn't going to be able to fight.\" Alaric doesn't know what Gerolt's fire can do. He has only seen a candle's worth, so to him Gerolt is left with his bare hands, and the hand of fire that follows surprises him.)",
+   "decision": "accepted",
+   "decision_note": "Your idea; the words are mine."
   },
   {
    "section": "The last stand",
@@ -398,9 +403,10 @@
     "meaningcall"
    ],
    "before": "He had Wena's collar in one hand and the sword in the other, and he couldn't make his feet go any further.",
-   "after": "He had Wena's collar in one hand and the sword in the other, and his feet wouldn't go any further. He couldn't leave Gerolt down there on his own.",
-   "why": "Your note: \"I see a lot of someone did X, he did Y. Just add meaning to things.\" This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. It says why he stops, which the draft left blank.",
-   "call": "Add \"He couldn't leave Gerolt down there on his own.\"?"
+   "after": "He had Wena's collar in one hand and the sword in the other, and his feet wouldn't go any further. He couldn't leave Gerolt alone with them.",
+   "why": "Your note: \"I see a lot of someone did X, he did Y. Just add meaning to things.\" This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. It says why he stops, which the draft left blank. (Round 3: \"down there is weird\", so it's now \"alone with them\".)",
+   "decision": "accepted",
+   "decision_note": "Reworded after \"down there is weird\"."
   },
   {
    "section": "The last stand",
@@ -426,9 +432,10 @@
     "meaningcall"
    ],
    "before": "The fire on his hand went out.",
-   "after": "Alaric waited for it to come back.",
-   "why": "Your note: \"I see a lot of someone did X, he did Y. Just add meaning to things.\" This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. It's the one line of his between Gerolt dying and the man turning, and it's hope, not an announcement.",
-   "call": "Add \"Alaric waited for it to come back.\"?"
+   "after": "Alaric waited for the fire to come back. It had kept burning through both arrows, and now it was out, and Gerolt's hand hung open at his side.",
+   "why": "Your note: \"I see a lot of someone did X, he did Y. Just add meaning to things.\" This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. It's the one line of his between Gerolt dying and the man turning, and it's hope, not an announcement. (Round 3, the author: \"what is it, give meaning to it\". \"It\" is now \"the fire\", and it carries what the fire meant: it burned through both arrows, and now it's out.)",
+   "decision": "accepted",
+   "decision_note": "Reworked after \"what is it, give meaning to it\"."
   },
   {
    "section": "Silas",
@@ -471,7 +478,9 @@
    "before": "The man swore. He took Alaric by the collar and dragged him.",
    "after": "The man swore, took Alaric by the collar and dragged him away from Gerolt.",
    "why": "Your note: \"I see a lot of someone did X, he did Y. Just add meaning to things.\" This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. \"Away from Gerolt\" is the part that matters to Alaric.",
-   "call": "Add \"away from Gerolt\"?"
+   "call": "Add \"away from Gerolt\"?",
+   "decision": "accepted",
+   "decision_note": "\"Yes.\""
   },
   {
    "section": "The last stand",
@@ -483,6 +492,45 @@
    "before": "Gerolt pushed him back up the slope. There wasn't much strength in it. Then he turned towards the torches.",
    "after": "Gerolt shoved him back up the slope. There wasn't much strength in it. Then he turned towards the torches.",
    "why": "A craft fix. Round 2 put \"pushed it into his hands anyway\" two lines above this, and \"pushed himself up it\" is just before that. Three \"pushed\" in twelve lines."
+  },
+  {
+   "section": "The ride",
+   "title": "Ferns, not bracken (the fall)",
+   "kind": "changed",
+   "tags": [
+    "plainword"
+   ],
+   "before": "He landed on his back in bracken, and all the air went out of him. For a while he could only lie there with his mouth open, trying to get it back.",
+   "after": "He landed on his back in the ferns, and all the air went out of him. For a while he could only lie there with his mouth open, trying to get it back.",
+   "why": "The author asked \"what is bracken?\" It's a tall wild fern that grows at the edges of woods. If the author doesn't know the word, many readers won't either, so it's \"ferns\".",
+   "decision": "accepted",
+   "decision_note": "After \"what is bracken?\"."
+  },
+  {
+   "section": "The forest",
+   "title": "Ferns, not bracken (the sword)",
+   "kind": "changed",
+   "tags": [
+    "plainword"
+   ],
+   "before": "The sword lay in the bracken beside him. Gerolt got its point into the ground again, and the boy got under his arm, and between them they got him standing. It took everything the boy had. It took everything Gerolt had too; the boy could feel it in the arm across his shoulders, shaking without stopping.",
+   "after": "The sword lay in the ferns beside him. Gerolt got its point into the ground again, and the boy got under his arm, and between them they got him standing. It took everything the boy had. It took everything Gerolt had too; the boy could feel it in the arm across his shoulders, shaking without stopping.",
+   "why": "The author asked \"what is bracken?\" It's a tall wild fern that grows at the edges of woods. If the author doesn't know the word, many readers won't either, so it's \"ferns\".",
+   "decision": "accepted",
+   "decision_note": "After \"what is bracken?\"."
+  },
+  {
+   "section": "The forest",
+   "title": "Ferns, not bracken (getting up)",
+   "kind": "changed",
+   "tags": [
+    "plainword"
+   ],
+   "before": "It was harder than before. Alaric's head was still ringing, and his arms were shaking before he'd even started, and Gerolt's weight kept trying to fold him over. But Gerolt was pushing too, harder than he had at the cabin or in the bracken, and between the two of them he came up off the roots and stayed up.",
+   "after": "It was harder than before. Alaric's head was still ringing, and his arms were shaking before he'd even started, and Gerolt's weight kept trying to fold him over. But Gerolt was pushing too, harder than he had at the cabin or in the ferns, and between the two of them he came up off the roots and stayed up.",
+   "why": "The author asked \"what is bracken?\" It's a tall wild fern that grows at the edges of woods. If the author doesn't know the word, many readers won't either, so it's \"ferns\".",
+   "decision": "accepted",
+   "decision_note": "After \"what is bracken?\"."
   }
  ]
 }
