@@ -220,7 +220,7 @@ His palm had gone an angry red. He didn't look at it.
 
 "What are you doing?"
 
-Gerolt didn't answer. He was already looking at the horse.
+Gerolt didn't answer. He was looking at the horse.
 
 It had backed away from the fire to the far side of the yard, throwing its head. The boy half carried Gerolt across to it. Up close, it was taller than any horse he had pictured when he heard the word. Gerolt caught the trailing reins and spoke to it low, words the boy couldn't make out, until it stood.
 

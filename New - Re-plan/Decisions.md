@@ -238,14 +238,14 @@ The plan is built in `Volume 1/Chapter 2 - Design.md`.
     - On the ride: "Why are they attacking us, what just happened, why did Gerolt kill that man, why, what is happening."
     - At the last stand: "What do I do, I can't do anything, I want to help, I can't, I'm scared to help, I will die, I don't want to die."
 
-The decisions below were made for the first version. Each will be checked against the redesign.
+The decisions below were made for Version 1. They were checked against the redesign on 27 September: most still hold, and the ones the redesign replaced are marked *Superseded*.
 
-- **Whose eyes, and the ending.** The whole chapter is in Alaric's eyes. It ends on Gerolt's cabin going up in flames. Old Chapter 3's opening ("the night went orange") moves into Chapter 2. *(Claude's proposal, which the author's answer implies: the last he sees of Gerolt is his hand catching fire as he turns to the door.)*
+- **Whose eyes, and the ending.** The whole chapter is in Alaric's eyes. *Superseded ending:* it no longer ends on the cabin burning. Gerolt sets the cabin alight mid-chapter, and the chapter ends with Gerolt kneeling, dead, as Silas drags Alaric away. (Version 1: it ends on Gerolt's cabin going up in flames.) Old Chapter 3's opening ("the night went orange") moves into Chapter 2. *(Claude's proposal, which the author's answer implies: the last he sees of Gerolt is his hand catching fire as he turns to the door.)*
 - **The name returns,** and Gerolt says it back before he sends him away. Gerolt must sound like Cid.
 - **He breaks his silence** to warn Gerolt about the stone. It saves Gerolt for the moment, and the escaping scout hears it.
 - **The fight is explicit and grotesque,** as a boy sees it. The first elf chokes on his own blood. Gerolt cuts the female scout apart with the sword.
-- **His refusal to leave is what holds Gerolt's fire back.** "Fire is dangerous and Gerolt does not want to harm the boy." It's never explained on the page, and Alaric doesn't learn it in Volume 1.
-- **Shape.** Four movements, each ending on an image (the door, the fight, the farewell, the wheat), with no `---` breaks.
+- *Superseded:* Gerolt still keeps his fire away from the boy, but now he burns his own house once the boy is outside, and uses fire in his last stand at the river. (Version 1: **His refusal to leave is what holds Gerolt's fire back.**) "Fire is dangerous and Gerolt does not want to harm the boy." It's never explained on the page, and Alaric doesn't learn it in Volume 1.
+- **Shape.** *Superseded:* now six movements (the door, the fight, the fire, the ride, the forest, the last stand), still with no `---` breaks. (Version 1: four movements, each ending on an image: the door, the fight, the farewell, the wheat.)
 - **Gerolt's voice.** Dry to the end, like Cid: orders instead of feelings, playing down his wound, never saying he cares. His humour drops once, at the name. The old lines are kept or cut as the table in the design file recommends.
 - **Kelmend and Marta.** Gerolt sends him west across the river, to Marta at the inn by Kelmend's south gate. The sword is the proof.
 - **The neighbours.** The elf threatens the other households. Gerolt hears it, looks at the boy, and picks up the sword. Nobody says what that choice costs, and the neighbours' fate is left for a later chapter.
@@ -259,11 +259,54 @@ The decisions below were made for the first version. Each will be checked agains
 - **Title:** "The Price of a Voice".
 - **Answers on the first draft's calls** (26 September):
   - The elf laughs as he steps in: "Testing my patience, old man. Now you've no door to answer." He calls Gerolt "old man" before he has seen him.
-  - Kept: the candle line after the wind; the sword skidding to the boy's hand; the last line ("perfect"); the torn-off coat and the shirt on the wound.
+  - Kept: the candle line after the wind; the sword skidding to the boy's hand; the torn-off coat and the shirt on the wound. The last line ("perfect") is *superseded* by the redesign's ending.
   - "Tell her the old fool sent you" now ends in a small cough, with blood starting at the corner of his mouth.
   - Cut: "Took you three tries to sit up at midday."
-  - The hot hand: Gerolt covers it with a dry line, "Careful, lad. I run hot." (The author's note: the old narration "doesn't sound like Cid speaking, sounds like a computer monologue.")
+  - *Superseded:* "I run hot" is cut from the redesign ("I don't like 'I run hot'"). (Version 1: the hot hand, which Gerolt covers with a dry line, "Careful, lad. I run hot.") (The author's note: the old narration "doesn't sound like Cid speaking, sounds like a computer monologue.")
   - Kept: the second scout's laugh before we see her.
+
+## Chapter 3
+
+The plan is built in `Volume 1/Chapter 3 - Design.md`.
+
+- **Seralune comes in with Chapter 4,** which is all hers: "Yes, we can make Chapter 4 all Seralune." Chapter 3 stays in Alaric's eyes. *(Proposed, to design in Chapter 4: her chapter goes back to midday, when her seal broke as Alaric arrived.)*
+- **The centre of Chapter 3 is Alaric's inner fight.** "He thinks he is the reason Gerolt is now dead. He is not in a good headspace this chapter." His questions start: why are the elves trying to kill him, what was that war on Gerolt's farm, what is happening.
+- **Silas grounds him:** "snap out of it for Gerolt's sake, and keep moving forward for Gerolt's sake and Wena's."
+- **The river.** The bridge is broken and the current is strong. Wena still tries to go back to Gerolt, and Alaric grabs her fur and drags her. Silas says to leave the dog; Alaric doesn't.
+- **Silas kills one more elf** on their heels, brutally, with his Affinity.
+- **Silas's cave:** "covered behind thick bush. It's small, dirty and ugly, and just has the necessary stuff to survive."
+- **In the cave,** Silas gives only his name and asks the questions: how Alaric knew Gerolt, why the elves are after him, what happened before. Alaric is angry with him, and brings up that Gerolt told him to go to Marta.
+- **Kelmend:** Silas says it's no good, because the guards will hand him over to Natharul without question, so they need to find a way in. This comes after he hears "Marta".
+- **Round 2 (27 September).**
+  - Alaric ends the chapter still believing Gerolt died because of him. Nobody corrects it, and Silas never says it wasn't his fault.
+  - **The kill:** a horse closes in. Silas cuts the horse down, and the rider is left winded on the ground. Silas walks to him slowly and stabs him through the chest, heating his sword and burning him.
+  - **What Alaric tells Silas:** waking up knowing nothing, Gerolt giving him food and comfort, the riders, and Gerolt killing one without hesitating and maiming the other. He says it sitting on the ground, hands over his face, in shock.
+  - **The ending:** "Marta", Silas's reaction, and "Kelmend's no good". Then Alaric, alone with Wena, cries at last.
+  - The neighbours are left out of Chapter 3.
+- **The lines (27 September),** designed together. The author gave rough versions and notes; the final wording is in `Volume 1/Chapter 3 - From the Old Chapters.md`. The river has no thought from Alaric ("Alaric isn't thinking here, full of adrenaline"), and Silas hauls them out "swearing the whole time". "Empty" isn't talked about yet.
+- **First draft written (27 September):** `Volume 1/Chapter 3 - The Weight of the Living.md` (1,896 words, working title).
+- **Round 1 (27 September).**
+  - **The bridge** isn't broken: "guards from Kelmend watch it, but an elf rider is already there speaking to the guards".
+  - "*It's me. They're coming for me.*" is cut: "How does he know they are coming for him?"
+  - **Behind his hands** is a picture of Gerolt well, and seeing Silas "would make reality set in".
+  - The author asked whether to add anything. Claude kept the length and proposed three small additions: a glimpse of Silas's grief, Silas not having heard the battle either, and the chasing rider coming from the bridge.
+- **Round 2 (27 September).**
+  - **The bridge:** "no hut, no lantern". The guards stand round a small fire, chatting, with the rider among them speaking, in joined-up sentences.
+  - **Accepted:** Silas's grief glimpse (he doesn't let go of the sword straight away), and the rider from the bridge.
+  - **Silas doesn't believe him:** "A battle that size on Gerolt's farm would be the talk of Kelmend, boy, and there wasn't a sound last night." He's "struggling to believe Alaric's answers".
+  - Point-of-view fixes: while his eyes are covered or down, Alaric only hears.
+- **Round 3 (27 September).**
+  - Silas in the river: "—stupid little prick, should've listened to me—", then a snarl.
+  - "He didn't care to ask for Alaric's."
+  - "Already" is gone from "looking at the fire".
+  - **The ending:** he strokes Wena's head, cries, and whispers "I'm sorry" to her. It's meant for Gerolt as well, and nothing on the page points at it.
+  - Everything else from the draft's list is approved ("everything else is fine"), including the title "The Weight of the Living".
+- **Final pass (27 September),** round 4: craft fixes only. Nothing is waiting on the author.
+- **Final pass of Chapters 1–3 (27 September),** before merging.
+  - Read as one run: continuity across both seams, the rules added since each chapter was finished, phrases repeated between chapters, and the records.
+  - Fixes: two "already"s Alaric couldn't know, one in Chapter 1 ("to find Gerolt watching him") and one in Chapter 2 ("He was looking at the horse"). Chapter 3 no longer repeats two phrases from Chapter 2 ("broke out of the trees", "set his feet").
+  - Stale notes are resolved here, and in the Volume 1 picture.
+  - Lengths: Chapter 1 is 6,284 words, Chapter 2 4,723, Chapter 3 1,990.
 
 ## Alaric
 
@@ -309,7 +352,7 @@ The decisions below were made for the first version. Each will be checked agains
 - **The sword:** instead of the token, Gerolt gives Alaric the sword he's been using. It's memorable, and Alaric can use it in the future.
 - **How he lives (agreed with Chapter 1, revision 1):** one bowl, one coat, one bed, and he gives the bed to the boy. He sets his stool where he can see both the bed and the door.
 - **Natharul.** He names them out loud at the window ("They ask where"). When the riders arrive, the name he starts to say and swallows is something more specific that he recognises. He dies without saying it (agreed for Chapter 2). *What that name is: open, for later.*
-- **Sending him away:** in Chapter 2, as he's dying, to Marta in Kelmend, with the sword and Wena (confirmed 26 September). *To check against the redesign, now that Silas is there.*
+- **Sending him away:** in Chapter 2, as he's dying, to Marta in Kelmend, with the sword and Wena (confirmed 26 September). This still holds in the redesign: at the river, "Kelmend. Over the river. Marta, at the inn by the south gate. Show her that. Tell her the old fool sent you."
 
 ## Marta
 
@@ -348,7 +391,7 @@ The decisions below were made for the first version. Each will be checked agains
 - **Underneath:** a loving, caring man who just wants to protect his comrades.
 - **Cunning in the moment, reckless in the big choices** (like the gorge).
 - **Gerolt taught him in Avarice.** Gerolt was angry that Silas didn't learn from his teachings.
-- **The sword is why Silas stops for Alaric:** he knows his master's blade on sight. *To check against the redesign.*
+- **He knows his master's blade on sight.** In the redesign he comes because he heard the fight, not for the sword. When he sees the sword across Alaric's lap his face changes (Chapter 2). In Chapter 3 he picks it up from the riverbank and gives it back, and doesn't let go of it straight away.
 - **He's at Gerolt's last stand** (27 September, Chapter 2). He cuts down the remaining riders, and he and Alaric run. **Where he lives** (27 September): "He lives on the river to stay away from people. He is near Kelmend because he loves Darcy and wants to keep up to date with any news related to her." The author then corrected "Darcy": "I meant Marta, sorry." So he loves Marta, and he lives on the river near Kelmend for news of her. Why he's there: "Silas is at the river, he 'stays' there. He heard the elves and the fight, so he came to see what it was, and sees his former master fighting to the death." Gerolt sees him, gives a small "heh", and never speaks again.
 
 ### Wena

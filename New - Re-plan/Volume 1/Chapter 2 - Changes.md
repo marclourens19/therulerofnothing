@@ -14,10 +14,12 @@ Started 27 September 2026. This is the change list for the redesigned Chapter 2.
 
 **Round 6 (27 September): the final pass of Chapters 1 and 2 together.** Read as one piece: continuity across the seam, what Chapter 1 set up and Chapter 2 now does, phrases repeated between the chapters, and the new rules applied to Chapter 1. One craft fix and one call here; Chapter 1 has one call too (its change 61).
 
+**Round 7 (27 September): the final pass of Chapters 1–3.** One fix: an "already" Alaric couldn't know (change 48).
+
 ## At a glance
 
-- **47 changes proposed.** 1 rejected so far, so 46 are in the chapter: 40 rewritten, 5 cut and 1 added.
-- **Length:** 4,684 words before, 4,724 after.
+- **48 changes proposed.** 1 rejected so far, so 47 are in the chapter: 41 rewritten, 5 cut and 1 added.
+- **Length:** 4,684 words before, 4,723 after.
 - **Median paragraph:** 14 words before, 15 after. The house target is roughly 14–22.
 - **"Nothing":** 2 times before, 2 after.
 - **"The dark":** as a place, 8 times before and 0 after. "Dark" in all: 19 before, 5 after (changes 1, 2, 3, 4, 5, 7, 8, 10, 13, 18, 19, 20, 24). The five left are all from Version 1: the grip, the cloth, the elves' armour twice, and the blood he coughs up.
@@ -884,3 +886,19 @@ Each of these needs a yes or no from you. It adds something about a character or
 **Why.** From the final pass of both chapters together. In Chapter 1, the boy asked about "the pale ones… with the pointed ears", and Gerolt answered: "Natharul. When one of theirs dies, they don't ask who did it. They ask where." This is the first living one he sees. One word of recognition in his head brings that warning to the door, without saying so. It's small and concrete, the kind of meaning you asked for. After the thought, "He looked over the wreckage" could read as the boy, so it's now "The elf", which is what the narration calls him a few lines later.
 
 **Your decision.** "I agree with everything you said."
+
+### The fire (draft lines 185–239)
+
+#### 48. Looking at the horse
+
+*Draft line 221 → revised line 223*
+
+**Before**
+
+> Gerolt didn't answer. He was already looking at the horse.
+
+**After**
+
+> Gerolt didn't answer. He was looking at the horse.
+
+**Why.** The final pass of Chapters 1–3 (27 September). The author's rule from Chapter 3: "how does he know he is already looking at it?" Alaric sees Gerolt looking at the horse, but can't know when he started.

@@ -9,6 +9,7 @@ Written on 26 September 2026. This is every change made to `Chapter 1 - A War Wi
 - **Revision 5** (changes 53–56, plus edits folded into changes 8, 19, 25 and 28) cuts eight comparisons Alaric couldn't make from what he has lived through.
 - **Revision 6** (changes 57–60, plus an edit folded into change 28) takes out "the dark", at your request (27 September).
 - **Revision 7** (change 61) is the final pass of Chapters 1 and 2 read together (27 September).
+- **Revision 8** (change 62) is the final pass of Chapters 1–3 (27 September).
 
 - The chapter as it was before is saved, unchanged, as `Drafts/Chapter 1 - A War Without Sound (Draft 1, before revision).md`. Any change you reject can go straight back from there.
 - **Draft line** numbers refer to that saved copy. **Revised line** numbers refer to the chapter as it stands now.
@@ -17,7 +18,7 @@ Written on 26 September 2026. This is every change made to `Chapter 1 - A War Wi
 
 ## At a glance
 
-- **61 changes proposed.** 1 rejected so far, so 60 are in the chapter: 54 rewritten, 5 cut and 1 added.
+- **62 changes proposed.** 1 rejected so far, so 61 are in the chapter: 55 rewritten, 5 cut and 1 added.
 - **Length:** 6,434 words before, 6,284 after.
 - **Median paragraph:** 14 words before, 13 after. The house target is roughly 14–22.
 - **"Nothing":** 24 times before, 19 after.
@@ -1088,3 +1089,19 @@ Each of these needs a yes or no from you. It adds something about a character or
 **Why.** The final pass of Chapters 1 and 2 together. It was agreed on 27 September that Gerolt says "lad" and "boy" is Silas's word. In Chapter 1 Gerolt says "boy" at the field, when the boy is a stranger in the mud (your own lines 45, 49 and 69, and line 227), and "lad" from then on. This "Boy?" in the cabin was the one slip. Keeping "boy" at the field gives a small, unspoken parallel: Silas starts where Gerolt started.
 
 **Your decision.** "I agree with everything you said."
+
+### Revision 8: the final pass of Chapters 1–3
+
+#### 62. Watching him
+
+*Draft line 387 → revised line 377*
+
+**Before**
+
+> He opened his eyes. Gerolt was already watching him.
+
+**After**
+
+> He opened his eyes to find Gerolt watching him.
+
+**Why.** The final pass of Chapters 1–3 (27 September). The author's rule from Chapter 3: "how does he know he is already looking at it?" Alaric sees Gerolt watching when he opens his eyes, but can't know when Gerolt started.
