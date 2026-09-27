@@ -9,8 +9,10 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - One step at a time, together.
 - Never accept the author's words as fact. Challenge them, and ask questions until the intent is clear.
 - Never name a character or give one a trait without the author's input.
-- **Whose eyes.** "Always stay in Alaric's eyes when the chapter is about him." *(Agreed 26 September.)*
+- **Whose eyes.** "Always stay in Alaric's eyes when the chapter is about him." *(Agreed 26 September.)* **The narration follows his attention** (27 September): "The man was at him before he noticed, something like this." **Show a beat the way he sees it,** step by step, not as a summary line (27 September). On "Wena looked from Gerolt to them. Then she came after them.", the author said: "Scenes like this are like just saying it for the sake of it. Remember it's all in Alaric's perspective: he saw Wena staring at Gerolt, then at them, she paused for a brief moment, then ran after Alaric."
+- **"The dark"** (27 September). "One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words."
 - **Rewritten chapters use the characters we decided, not the old drafts.** The old chapters were written before the characters were redesigned. For example, Gerolt must sound like Cid. "This is the same for all future chapters we rewrite." *(Agreed 26 September.)*
+- **Important dialogue is designed together** (27 September). The author: "let's design conversations together in the chapter. I will give my input on how important lines between characters must read, with your input as well. I often tend to put it in my own voice, but you move it from my voice to the characters we agreed." So the author gives the line in their own words, and Claude gives it back in the agreed character's voice, with both shown side by side.
 - Principles settled here become the rules of the rewriting skill. The skill is `.claude/skills/chapter-rewrite/` (created 26 September, after Chapter 1). When a principle here changes, update the skill to match.
 
 ## Principles
@@ -21,7 +23,8 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 2. **Small answers constantly; big ones withheld.** Volume 1 answers small questions often, so readers trust that the big ones will come.
 3. **Live the rules; don't explain them.** Never set out how his memory works "on paper like a thesis". People don't think like that. He thinks and reacts the way amnesiac Subaru does in Re:Zero Arc 6 (Chapter 57 onward).
 4. **A volume tests its question; it doesn't hand over the answer.**
-5. **Don't explain the meaning.** In the author's words: "I don't like over explaining meaning that make readers think beyond the obvious." Show the plain thing and stop. Don't follow a moment with an image or a sentence that tells readers what it means or where to look. It covers both explaining a moment and hinting so hard that it pushes readers past what's on the page. *(Claude's reading, accepted with the cuts it led to.)* First applied in Chapter 1, revision 1: change 21 was rejected ("Nothing inside him answered either" stays), and changes 6, 19, 20, 25, 27 and 37 were trimmed. Revision 2 applied it to the author's own lines (changes 38–44). Lines 55, 143 and 645 were kept: they show or name something, and they don't explain it. **It also rules out comparisons the viewpoint character couldn't make, and words chosen to sound good** (added 26 September, on Chapter 2). The author: "One thing you're still doing which I said we should stop is explaining things for the sake of it, using words to make it look cool. This is from Alaric's POV, how would he know this." Their example was "a sound like an axe going into green wood". A comparison is allowed only when it points at something the viewpoint character has lived through on the page. For Alaric, that's almost nothing: Gerolt's flame, the stew, his voice. Applied to Chapter 2 (revision 1, thirteen lines) and Chapter 1 (revision 5, eight lines). The comparisons that remain are ones he can make: how the words land on him, the Light, Gerolt's voice and flame, his own hair, the layered voice, the knock's patience, and Gerolt's own "calling a dog".
+5. **Don't explain the meaning.** In the author's words: "I don't like over explaining meaning that make readers think beyond the obvious." Show the plain thing and stop. Don't follow a moment with an image or a sentence that tells readers what it means or where to look. It covers both explaining a moment and hinting so hard that it pushes readers past what's on the page. *(Claude's reading, accepted with the cuts it led to.)* First applied in Chapter 1, revision 1: change 21 was rejected ("Nothing inside him answered either" stays), and changes 6, 19, 20, 25, 27 and 37 were trimmed. Revision 2 applied it to the author's own lines (changes 38–44). Lines 55, 143 and 645 were kept: they show or name something, and they don't explain it. **It also rules out comparisons the viewpoint character couldn't make, and words chosen to sound good** (added 26 September, on Chapter 2). The author: "One thing you're still doing which I said we should stop is explaining things for the sake of it, using words to make it look cool. This is from Alaric's POV, how would he know this." Their example was "a sound like an axe going into green wood". A comparison is allowed only when it points at something the viewpoint character has lived through on the page. For Alaric, that's almost nothing: Gerolt's flame, the stew, his voice. Applied to Chapter 2 (revision 1, thirteen lines) and Chapter 1 (revision 5, eight lines). The comparisons that remain are ones he can make: how the words land on him, the Light, Gerolt's voice and flame, his own hair, the layered voice, the knock's patience, and Gerolt's own "calling a dog". **Don't tell the reader what they already know** (27 September, on the redesigned Chapter 2). The author: "You don't need to explain things like this, because the reader will know he stopped laughing. Laughing doesn't last forever." And: "'He stayed on his knees.' The reader knows he is on his knees." **But add meaning where he'd feel it** (27 September). "I see a lot of someone did X, he did Y. Just add meaning to things." The author's example: "Alaric couldn't get up, he was staring at Gerolt, that old man had taken care of him until his dying breath and now, in this moment he was going to leave him and never see him again." *Claude's reading of where the two rules meet, to confirm:* the narrator never interprets, decorates or hints, but Alaric feels and understands things in plain words, in the moment. Keep it small and concrete: "It was the only place in the world he knew" was "kind of… too melodramatic" (27 September).
+- **Common words** (27 September). The author asked "what is bracken?", then said "I don't like 'ferns'". Readers shouldn't meet a word the author doesn't know, and a detail that only says where something is can go. **It never silences Alaric** (agreed 27 September, with putting his thoughts back into Chapter 2: "We can do this together"). The rule stops the narrator explaining; it doesn't stop him thinking. Chapter 2 had been cut until he had no thoughts on the page while Gerolt died.
 6. **Every major character wants something the story threatens.** *(Agreed 26 September.)* In Chapter 1, Gerolt wants his peace, and the boy ends it.
 7. **Borrowed characters lend specific traits, not templates,** and we record which trait came from where. *(Agreed 26 September.)* For example, Gerolt takes Cid's humour and damage, not Cid's life.
 8. **An internal spiral must change its claim on each turn.** Repeating "why me" with bigger words isn't movement (design bible §9.1). *(Agreed 26 September.)*
@@ -97,6 +100,7 @@ These are rough shapes, not deadlines. The design bible warns against scheduling
 - **The act that causes the tear:** he causes it while chasing who he was, alone and on a wrong belief.
 - **Through him, not from him.** Seralune is the one who can use his Veiled powers, but he feels it pass through him.
 - **The mechanism:** both reach at once. He reaches for his past, she reaches for him, and her power goes through him. Chasing the past is literally what opens the way.
+- **What he wins in Volume 1** (27 September): "companions that want to help him grow."
 - **His last choice in Volume 1:** he carries it alone. He tells no one what he felt pass through him, and shuts out the friends beside him.
 - **End state:** two beliefs that can't both be true: "I am nothing" and "I killed thousands."
 - **Volume 1 in the design bible's five phases (agreed):**
@@ -174,6 +178,64 @@ These are rough shapes, not deadlines. The design bible warns against scheduling
 
 The plan is built in `Volume 1/Chapter 2 - Design.md`.
 
+**Redesign (27 September).** The chapter merged on 26 September is the version before this redesign.
+
+- **The reader should feel shock at Gerolt's death, not grief.** So there's no extra day before the scouts come.
+- **Chapter 1's ending stays** ("I like chapter 1's ending").
+- **Gerolt lives longer.** The author: "maybe we can make Gerolt live for a bit longer with him and Alaric running somewhere, then Gerolt dies and gives his sword and Wena to Alaric at the end of chapter 2." The handover and his death move from the cabin to the end of the run. The details are being designed in round 5 of the design file.
+- **Alaric's thoughts come back** into Chapter 2, in his own words, and we work them out together.
+- **The new shape (round 5, answered 27 September):**
+  - **The door stays as written.** In the fight, Gerolt *dodges* Liluth's stone instead of taking it under the ribs, then cuts her. "Maybe he is injured as well."
+  - **Gerolt sets his own house on fire** as they leave, "knowing there is no coming back".
+  - **He leads the riders away from his neighbours.** "Gerolt knows he needs to lead the elves away or they will kill his neighbours, so they both get on the horse outside and run towards the forest."
+  - **Alaric part-carries him** at some point (agreed).
+  - **The name comes on the run,** at the worst moment, and "There you are" is said with time still left (agreed).
+  - **His death comes just when it looks as though they've made it** (agreed). He gives the sword and Wena in a handful of words, and there's no long goodbye.
+  - **Silas is there.** The author: "maybe Gerolt makes his last stand in front of a few elves, is shot with a couple of arrows and falls to his knees. Silas comes through and cuts down the remaining riders, and he and Alaric RUN."
+  - **What burns:** "the house and some riders on Gerolt's last stand".
+- **Round 6 (answered 27 September):**
+  - **The wound (agreed).** Thanks to the shout, the spear misses his ribs and tears along his side. Liluth's slab still throws him back and breaks something. The arrows are what kill him.
+  - **The house (agreed).** Alaric sees him burn it and doesn't know why. For us, the reasons are "no coming back", and that the fire draws the riders to him and away from the neighbours. His line: "like 'I guess this is finally goodbye', with his Cid sarcastic humour" (being designed).
+  - **The carrying happens twice (agreed):** from the cabin to the horse, and in the forest on foot, where the name comes. "Make the carrying difficult: Alaric is still weak and Gerolt is using most of his strength to stand."
+  - **Why Silas is there.** "Silas is at the river, he 'stays' there. He heard the elves and the fight, so he came to see what it was, and sees his former master fighting to the death."
+  - **Gerolt sees Silas.** "Gerolt is finally on his knees, blood coming out of his mouth, coughing, arrows through him, and then Silas comes. Gerolt lets out a small 'heh' laugh and doesn't say anything again, ever again. After that he is dead."
+  - **Gerolt is dead when they run.**
+  - **Alaric doesn't run when he's told.** The author's line for him: "PLEASE GEROLT! You can still live, come!!! Come with me please, don't leave me alone, I need answers." "It kind of turns sadness into anger that he has nothing again." (Being designed.)
+  - **The last image:** "Gerolt on his knees, dead, as Silas drags Alaric away from the battle."
+- **Redrafted (27 September).** The new draft is compared with Version 1 in `Volume 1/Chapter 2 - What the Redesign Changed.md`.
+- **The author's notes on the redraft (27 September),** applied as round 1 of `Volume 1/Drafts/Chapter 2 - change list.json`:
+  - Cut "Alaric stopped laughing." and "He stayed on his knees." The page still never says Gerolt is dead: the "heh", the fire going out, and the last line showing him kneeling.
+  - The neighbours' window stays (call 1: "Yes"), and Gerolt says "The trees…" before "Make for the trees, lad."
+  - Wena is shown as Alaric sees her: staring at Gerolt, looking at Alaric, a pause, then running after him.
+  - "The dark" cut across the chapter.
+  - The other calls from the redraft were answered on 27 September (round 4). Gerolt puts his hand on "the wall next to where the door was", not the doorpost. "I don't like 'I run hot'", so it stays out, as does "Found one lad still breathing". "Everything else I approve": the horse, Gerolt's small lines ("Good.", "Don't haul on them.", "Still here.", swearing "softly and at length"), the horse being shot, Alaric's thought when Gerolt goes down, the riders coming from the river, the rider's laugh, Silas's look (big, a long cloak, a heavy blade, stubble, a pale scar from cheekbone to jaw), Silas's eyes on the sword, and the last line.
+- **Round 2 (27 September): "Just add meaning to things."** The author's line after Gerolt dies goes in: "Alaric couldn't get up. He was staring at Gerolt. That old man had taken care of him until his dying breath, and now Alaric was going to leave him there and never see him again." So Alaric's understanding, not the narration, is where Gerolt's death is said. Also "The man was at his side before Alaric had noticed him move", and "spattered the ground". Eight more moments with meaning added wait on the author.
+- **Round 3 (27 September): the answers on round 2.**
+  - Accepted: "Nobody was coming.", the laugh ("none of it was funny"), and "away from Gerolt".
+  - The sword gets the author's meaning: he watched Gerolt fight with it, and giving it away means Gerolt will face them with his bare hands and die. Alaric doesn't know what Gerolt's fire can do.
+  - "He couldn't leave Gerolt alone with them" ("down there is weird").
+  - "Alaric waited for the fire to come back. It had kept burning through both arrows, and now it was out…" ("what is it, give meaning to it").
+  - The house is toned down ("too melodramatic"). "Bracken" is gone, and so is "ferns".
+  - The eight cuts from round 1 are accepted ("I agree with all the cuts"). Change 26 kept ("Keep 'he wasn't moving'"), with "ferns" removed everywhere ("I don't like 'ferns'"). The house line is rejected (change 25: "I feel it's too much"), so the house burns without comment. Nothing in the change list is waiting on the author, and every call on the redraft is answered.
+- **Final pass (27 September),** round 5 of the change list: craft fixes only (two unclear pronouns, repeated words, and "eaves", "pommel" and "sidled" swapped for common words). Merged into main the same day.
+- **Chapter 1, revision 6 (27 September):** "the dark" taken out five times, at the author's request.
+- **Lines agreed (27 September).** The author gives the line in their words, and Claude gives it back in the character's voice.
+  - **Gerolt at the house:** "Well," he said to the house. "Suppose that's goodbye, then." The author chose this over a joke about the shutters: "A is better, more human-like. B sounds robotic."
+  - **Alaric refusing to run:** "Gerolt! Please, you can still get up. I'll carry you. Just come *on*!" / "Don't leave me on my own. I don't know anything. I don't know *anyone*—" / "You said the questions could wait! You *said*—" / "Don't you dare leave me with *nothing* again!" The author: "emphasise 'nothing'."
+  - **His death:** the narration never announces it. Alaric sees the "heh", then the fire on Gerolt's hand goes out, and it lands in his own understanding: "That old man had taken care of him until his dying breath…" (the author's line, round 2). ("He stayed on his knees" was cut on 27 September: "The reader knows he is on his knees.")
+  - **The ride:** "Make for the trees, boy," with Wena running alongside.
+  - **The name:** the approved exchange stays. At "There you are", Gerolt gives a small pained chuckle: "he is happy but in pain".
+  - **The handover:** the sword and Wena in a handful of words, one line sending him to Marta in Kelmend, then "Take Wena and run, Alaric."
+  - **Silas's first words:** he's "shocked and kind of annoyed this boy won't get up". The author's line: "Get up, boy, or we're both dead!"
+  - **The "made it" line:** "That was the worst horse I ever had, ah haha, slow as shite." "He is laughing at the situation."
+  - **"Lad" and "boy":** Gerolt says "lad", and "boy" is Silas's word (agreed).
+  - **Alaric's thoughts (the author's rough versions):**
+    - At the shout: "He thought that was it, that was all done, everything he has known, even if just in this moment. He would be alone and be nothing again."
+    - On the ride: "Why are they attacking us, what just happened, why did Gerolt kill that man, why, what is happening."
+    - At the last stand: "What do I do, I can't do anything, I want to help, I can't, I'm scared to help, I will die, I don't want to die."
+
+The decisions below were made for the first version. Each will be checked against the redesign.
+
 - **Whose eyes, and the ending.** The whole chapter is in Alaric's eyes. It ends on Gerolt's cabin going up in flames. Old Chapter 3's opening ("the night went orange") moves into Chapter 2. *(Claude's proposal, which the author's answer implies: the last he sees of Gerolt is his hand catching fire as he turns to the door.)*
 - **The name returns,** and Gerolt says it back before he sends him away. Gerolt must sound like Cid.
 - **He breaks his silence** to warn Gerolt about the stone. It saves Gerolt for the moment, and the escaping scout hears it.
@@ -207,6 +269,9 @@ The plan is built in `Volume 1/Chapter 2 - Design.md`.
 - **Flaw.** He thinks he can carry everything alone and wants to take on everyone's burdens. Early on he can be a bit immature because he's young. He learns from terrible mistakes, grows as a person and learns to rely on those around him.
 - **His immaturity in Chapter 1:** because he knows nothing, he believes things are right when they aren't.
 - **Memory rule:** he knows what things are, but has never experienced any of them. This is never stated on the page (see Principle 3).
+- **When he's frightened: Subaru's mouth** (27 September). The author: "like omg what was that, what must I do, I'm a weakling, I can't do anything, omg omg."
+- **His habit** (27 September): "he likes to think a lot and keep emotions to himself instead of asking others for help."
+- *Claude's reading, to confirm:* the two fit together if the mouth runs inside his head and he keeps it shut outside. It spills out loud only when he's cornered, as in the Chapter 1 rant ("that is the whole list, Gerolt"). His panic keeps Subaru's shape (fast, repeating, calling himself useless) in words from his own world, since he isn't from ours.
 
 ## Seralune
 
@@ -235,11 +300,12 @@ The plan is built in `Volume 1/Chapter 2 - Design.md`.
 - **From Cid (FFXVI):** a mix of the humour and the damage underneath.
 - **His fear.** He knows what people do to those with no magic, and he's scared the boy won't survive in this world, on top of the boy knowing nothing about himself. He can't shelter him because of what would happen, but he doesn't want to harm him either.
 - **Why he doesn't use fire until the end:** magic can have negative effects, and he doesn't want to hurt the boy or destroy his house.
-- **Death:** he still dies in Chapter 2, with a hand of fire, ready to use his Affinity in a last stand.
+- **Death:** he still dies in Chapter 2, with a hand of fire, ready to use his Affinity in a last stand. *Redesign (27 September):* the stand is now in front of a few riders, away from the house. Some riders burn, then he's shot with a couple of arrows and falls to his knees, and Silas arrives.
+- **He burns his own house** (27 September), "knowing there is no coming back". It's the first time the boy sees his fire used in full.
 - **The sword:** instead of the token, Gerolt gives Alaric the sword he's been using. It's memorable, and Alaric can use it in the future.
 - **How he lives (agreed with Chapter 1, revision 1):** one bowl, one coat, one bed, and he gives the bed to the boy. He sets his stool where he can see both the bed and the door.
 - **Natharul.** He names them out loud at the window ("They ask where"). When the riders arrive, the name he starts to say and swallows is something more specific that he recognises. He dies without saying it (agreed for Chapter 2). *What that name is: open, for later.*
-- **Sending him away:** in Chapter 2, as he's dying, to Marta in Kelmend, with the sword and Wena (confirmed 26 September).
+- **Sending him away:** in Chapter 2, as he's dying, to Marta in Kelmend, with the sword and Wena (confirmed 26 September). *To check against the redesign, now that Silas is there.*
 
 ## Marta
 
@@ -278,7 +344,8 @@ The plan is built in `Volume 1/Chapter 2 - Design.md`.
 - **Underneath:** a loving, caring man who just wants to protect his comrades.
 - **Cunning in the moment, reckless in the big choices** (like the gorge).
 - **Gerolt taught him in Avarice.** Gerolt was angry that Silas didn't learn from his teachings.
-- **The sword is why Silas stops for Alaric:** he knows his master's blade on sight.
+- **The sword is why Silas stops for Alaric:** he knows his master's blade on sight. *To check against the redesign.*
+- **He's at Gerolt's last stand** (27 September, Chapter 2). He cuts down the remaining riders, and he and Alaric run. **Where he lives** (27 September): "He lives on the river to stay away from people. He is near Kelmend because he loves Darcy and wants to keep up to date with any news related to her." The author then corrected "Darcy": "I meant Marta, sorry." So he loves Marta, and he lives on the river near Kelmend for news of her. Why he's there: "Silas is at the river, he 'stays' there. He heard the elves and the fight, so he came to see what it was, and sees his former master fighting to the death." Gerolt sees him, gives a small "heh", and never speaks again.
 
 ### Wena
 
@@ -322,6 +389,8 @@ The plan is built in `Volume 1/Chapter 2 - Design.md`.
 - **Magic.** Eminent Water, but she was never tested. She grew up with Redd in Kelmend's Faint quarter.
 - **How she avoided testing.** Kelmend's guards held inspections every year. Redd always hid her until she was older.
 - **She doesn't know she's Eminent,** but she can use her magic decently well.
+- **Her Eminence isn't for anything** (27 September). The author: "Nothing, she just is, and maybe never even learns it."
+- **She hates fighting** (27 September).
 - **Elves.** She doesn't hate them.
 - **Her brother.** She admires him greatly, follows him and clings to him, and leans on him too much.
 - **What she must learn:** to be her own individual person.
@@ -435,7 +504,7 @@ The plan is built in `Volume 1/Chapter 2 - Design.md`.
 
 ### Redd and Freya
 
-- **When does anyone find out Freya is Eminent?** If the state learns it, it will want her, as it wanted Marta.
+- **Does the reader ever find out Freya is Eminent, and through whose eyes?** She may never learn it herself (27 September). If the reader is told, they'll wait for it to matter. If the state learns it, it will want her, as it wanted Marta.
 
 ### Nereth
 
@@ -487,6 +556,10 @@ None of these have been changed yet. They're listed so nothing is forgotten when
 - `Old - Before Re-plan/Chapter Design/Chapter 7 - Story Design.md:259`: Marta is "a High Wind user". The World Bible already says Eminent.
 - `Old - Before Re-plan/Chapter Design/Chapter 20 - Story Design.md`, lines 84, 85, 291 and 652.
 - `Old - Before Re-plan/Chapter Design/Chapter 6 - Story Design.md:54`: "not High".
+
+### Silas arrives in Chapter 2
+
+- In the old version Alaric is alone from Gerolt's death until he meets Silas at the river (old Chapters 3–6). Now Silas is with him from the end of Chapter 2, so old Chapters 3–6 change: the escape, the river crossing, and Silas recognising the sword.
 
 ### The token becomes the sword
 

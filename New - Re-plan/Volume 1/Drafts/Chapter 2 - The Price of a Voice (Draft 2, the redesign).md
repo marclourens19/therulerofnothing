@@ -46,7 +46,7 @@ Gerolt saw it too.
 
 He threw himself against the wall beside the doorway, behind the thick timber post, and locked his free arm around it.
 
-The latch tore out of the frame. The hinges went with it. The whole door came across the cabin in one piece, turning as it came, and the boy threw himself flat.
+The latch tore out of the frame. The hinges went with it. The whole door came across the cabin in one piece, turning in the dark, and the boy threw himself flat.
 
 Its lower edge passed close enough to leave splinters in his hair. It struck the back wall and broke apart, and half the planks behind it went with it.
 
@@ -132,7 +132,7 @@ The boy scrambled towards him.
 
 Outside, the woman lurched to the nearest horse with one arm swinging loose at her side. She got the other hand on the saddle and tried to haul herself up. Her boot slipped in the blood running off her face. Slipped again. At last she dragged herself across the horse's back and kicked it into the wheat.
 
-Hooves crashed away through the stalks, and her screaming went with them.
+Hooves crashed away through the stalks, and her screaming went with them into the dark.
 
 Gerolt watched until the torchlight was gone. Then he let his forehead rest against the floor.
 
@@ -152,7 +152,7 @@ Gerolt's hand settled over his instead of pushing it away.
 
 "Doesn't matter now." Gerolt swallowed, and every line in his face tightened with it. "She got away."
 
-Beyond the doorway, the dead elf's horse turned circles in the moonlight under its empty saddle, snorting at the blood on the threshold. The boy looked from it to where the torch had gone, and his stomach dropped.
+Beyond the doorway, the dead elf's horse turned circles in the moonlight under its empty saddle, snorting at the blood on the threshold. The boy looked from it to the dark where the torch had gone, and his stomach dropped.
 
 "She heard me."
 
@@ -184,13 +184,13 @@ Wena licked the blood off his knuckles. He turned his hand over so she couldn't 
 
 Gerolt's eyes went around the cabin. The table on its side. The dead hearth. The stool knocked over, and his dented mug lying in the ash.
 
-Past the doorway, out beyond the wheat, small lights had appeared. A line of them, far off, and moving.
+Past the doorway, out beyond the wheat, small lights had come up out of the dark. A line of them, far off, and moving.
 
 Gerolt watched them. Then he looked at the boy.
 
 "Sword," he said.
 
-The boy brought it over. It was heavier than it looked, and the grip was slick. Gerolt set its point against the floor and closed both hands over the hilt.
+The boy brought it over. It was heavier than it looked, and the grip was slick. Gerolt set its point against the floor and closed both hands over the pommel.
 
 "Help me up."
 
@@ -204,15 +204,15 @@ They tried again. Gerolt made a sound through his teeth that the boy felt more t
 
 "Good," Gerolt said. He didn't sound as though anything was good.
 
-They went out over the dead elf, a step at a time. Wena came after them, pressed so close to the boy's leg that he nearly fell over her.
+They went out through the doorway one step at a time, over the dead elf. Wena came after them, pressed so close to the boy's leg that he nearly fell over her.
 
-The moon was high over the wheat. Gerolt stopped beside the empty doorway and leaned his shoulder against the wall, getting his breath. He looked back into the house.
+The moon was high over the wheat. Gerolt stopped at the doorpost and leaned his shoulder against it, getting his breath. He looked back into the house.
 
 "Well," he said to the house. "Suppose that's goodbye, then."
 
-He put his hand flat on the wall.
+He put his hand flat on the doorpost.
 
-The wood blackened under his palm. Smoke crept out between his fingers, then flame, small at first, running up the wall in a thin line. It caught at the top with a soft sound and spread. By the time Gerolt took his hand away, the whole front of the roof was alight.
+The wood darkened under his palm. Smoke crept out between his fingers, then flame, small at first, running up the post in a thin line and into the eaves. It caught there with a soft sound and spread. By the time Gerolt took his hand away, the whole front of the roof was alight.
 
 His palm had gone an angry red. He didn't look at it.
 
@@ -222,21 +222,21 @@ Gerolt didn't answer. He was already looking at the horse.
 
 It had backed away from the fire to the far side of the yard, throwing its head. The boy half carried Gerolt across to it. Up close, it was taller than any horse he had pictured when he heard the word. Gerolt caught the trailing reins and spoke to it low, words the boy couldn't make out, until it stood.
 
-Getting him onto it was worse than getting him up. Gerolt laid the sword across the horse's back, got a foot in the stirrup and both hands on the saddle, and the boy put his shoulder under him and pushed. All of Gerolt's weight came down on him at once, and his knees started to go. Behind them the fire grew louder, and the horse stamped, and Gerolt cursed it under his breath. Then he dragged himself over and lay along its neck with his eyes shut.
+Getting him onto it was worse than getting him up. Gerolt laid the sword across the saddle, got a foot in the stirrup and both hands on it, and the boy put his shoulder under him and pushed. All of Gerolt's weight came down on him at once, and his knees started to go. Behind them the fire grew louder, and the horse sidled, and Gerolt cursed it under his breath. Then he dragged himself over and lay along its neck with his eyes shut.
 
 "Up," he said, without opening them. "Behind me."
 
 The boy grabbed the back of the saddle and jumped, and the horse walked off with him still half hanging from it. He kicked and hauled until he was up behind Gerolt, and sat. The only thing to hold on to was Gerolt, so he put his arms around him.
 
-Gerolt put the reins in his hands. "Don't haul on them."
+Gerolt pushed the reins into his hands. "Don't haul on them."
 
 The fire had taken the whole roof now. Its light went out across the wheat in every direction.
 
 Two fields over, a single window was lit.
 
-Gerolt raised his head and looked at it, for as long as it took the horse to shift its feet twice. Then he turned his head the other way, towards the line of trees at the far side of the field.
+Gerolt raised his head and looked at it, for as long as it took the horse to shift its feet twice. Then he turned his head the other way, towards the black line of trees at the far side of the field.
 
-"The trees…" he said. "Make for the trees, lad."
+"Make for the trees, lad."
 
 The boy dug his heels in, and the horse went.
 
@@ -266,13 +266,13 @@ Gerolt's head had dropped forward. The boy's sleeve was wet through where his ar
 
 "Still here."
 
-The trees were close now. The boy could see the moonlight on the first trunks when something hissed past his ear, and then another. The horse screamed. Its stride broke, and the ground came up to meet him.
+The trees came up at them out of the dark. The boy could see the moonlight on the first trunks when something hissed past his ear, and then another. The horse screamed. Its stride broke, and the ground came up to meet him.
 
-He landed on his back, and all the air went out of him. For a while he could only lie there with his mouth open, trying to get it back.
+He landed on his back in bracken, and all the air went out of him. For a while he could only lie there with his mouth open, trying to get it back.
 
 The horse was on its side at the edge of the trees, kicking. An arrow stood out of its neck.
 
-Gerolt lay a few paces off, and he wasn't moving. The boy crawled to him on his hands and knees.
+Gerolt lay a few paces off in the bracken. The boy crawled to him on his hands and knees.
 
 "Gerolt—"
 
@@ -280,11 +280,11 @@ Gerolt swore, softly and at length.
 
 Out in the wheat, the torches were close enough now that the boy could hear the horses under them.
 
-The sword lay within reach of Gerolt's hand. He set its point in the ground again, the boy ducked under his arm, and between them they got him standing. It took everything the boy had. It took everything Gerolt had too; the boy could feel it in the arm across his shoulders, shaking without stopping.
+The sword lay in the bracken beside him. Gerolt got its point into the ground again, and the boy got under his arm, and between them they got him standing. It took everything the boy had. It took everything Gerolt had too; the boy could feel it in the arm across his shoulders, shaking without stopping.
 
-They went into the trees like that.
+They went into the trees like that, one step and then another.
 
-Under the branches, the moon came through only in patches. Roots caught at their feet. Twice the boy went down on one knee under Gerolt's weight, and twice Gerolt leaned on the sword and waited, breathing in short, careful pulls, until the boy could get up again. Wena ran ahead of them and kept stopping to look back.
+It was dark under the branches, with the moon coming through in patches. Roots caught at their feet. Twice the boy went down on one knee under Gerolt's weight, and twice Gerolt leaned on the sword and waited, breathing in short, careful pulls, until the boy could get up again. Wena ran ahead of them and kept stopping to look back.
 
 Behind them, the torches reached the edge of the wood and held there. The layered voices called to one another. Then the lights started in among the trees, slowly, spread apart.
 
@@ -300,7 +300,11 @@ The boy got his arms under Gerolt's and pulled. His own arms shook. Gerolt didn'
 
 *I can't. I can't even lift him. What use am I if I can't even—*
 
-"Go on," Gerolt said. His eyes were open now. "Leave me here."
+"Go on," Gerolt said.
+
+The boy stopped pulling.
+
+"Go on," Gerolt said again. His eyes were open now. "Leave me here."
 
 "I'm not leaving you."
 
@@ -314,7 +318,7 @@ Wena came back to them and pushed her muzzle under Gerolt's hand. He stroked her
 
 "She'll stay if you do," he said.
 
-The boy looked at the dog curled against Gerolt's side, then at the blood spreading over the roots beneath them both.
+The boy looked at the dog curled against Gerolt's side, then at the blood spreading dark over the roots beneath them both.
 
 "I can't."
 
@@ -378,27 +382,31 @@ It came out soft, roughened by blood. Then he gave a small chuckle, and winced a
 
 "There you are."
 
-Up behind them, the torchlight went on searching between the trees.
+Neither of them moved. Up behind them, the torchlight went on searching between the trees.
 
 Gerolt put out his hand.
 
 "Help me up, Alaric."
 
-It was harder than before. Alaric's head was still ringing, and his arms were shaking before he'd even started, and Gerolt's weight kept trying to fold him over. But Gerolt was pushing too, harder than he had at the cabin or where the horse fell, and between the two of them he came up off the roots and stayed up.
+It was harder than before. Alaric's head was still ringing, and his arms were shaking before he'd even started, and Gerolt's weight kept trying to fold him over. But Gerolt was pushing too, harder than he had at the cabin or in the bracken, and between the two of them he came up off the roots and stayed up.
 
-Further down, Alaric heard water. It was only a murmur at first, somewhere below them, and then it was louder, running over stones.
+They carried on down the slope.
+
+Further down, Alaric heard water. It was only a murmur at first, somewhere below them in the dark, and then it was louder, running over stones.
 
 "River," Gerolt said.
 
-He leaned against a tree and let himself down it until he was sitting. Alaric sank down beside him, too tired to stand, and listened back the way they had come. Leaves moved in the wind. The water ran on below them. The torchlight had gone. Nobody was coming.
+He leaned against a tree and let himself down it until he was sitting. Alaric sank down beside him, too tired to stand, and listened back up the slope. Leaves moved in the wind. The water ran on below them. The torchlight had gone.
 
 "That," Gerolt said, "was the worst horse I ever had." He turned his head and looked at Alaric. "Slow as shite."
 
 Then he started to laugh. It hurt him—Alaric could see it hurt him—and he kept on anyway, one hand clamped to his side, until it broke into coughing.
 
-Alaric laughed too, and couldn't stop. Gerolt was bleeding and the house was gone, and none of it was funny.
+Alaric laughed too. He couldn't have said why.
 
 Light moved between the trees below them, down by the water.
+
+Alaric stopped laughing.
 
 It was torchlight. It came up the slope from the river, three torches, then four, and under them were horses picking their way between the trunks. Someone spoke in the layered voice, and the rest went quiet.
 
@@ -406,7 +414,7 @@ Gerolt had seen it too. He put his hand on the tree behind him and pushed himsel
 
 "Sword," he said.
 
-He held it out to Alaric hilt first. Alaric didn't take it. He had watched Gerolt fight with that sword tonight. If he took it, Gerolt wasn't coming, and he would be facing them with his bare hands. He would die here. Gerolt pressed it into his hands anyway and closed his fingers around the grip.
+He held it out to Alaric hilt first. When Alaric didn't take it, he pushed it into his hands and closed his fingers around the grip.
 
 "Kelmend. Over the river." His breath snagged, and he waited until he had it back. "Marta, at the inn by the south gate. Show her that. Tell her the old fool sent you."
 
@@ -414,11 +422,11 @@ It ended in a small cough, and blood began to run from the corner of his mouth.
 
 "Take Wena and run, Alaric."
 
-Gerolt shoved him back up the slope. There wasn't much strength in it. Then he turned towards the torches.
+Gerolt pushed him back up the slope. There wasn't much strength in it. Then he turned towards the torches.
 
 Alaric went three steps and stopped.
 
-He had Wena's collar in one hand and the sword in the other, and his feet wouldn't go any further. He couldn't leave Gerolt alone with them.
+He had Wena's collar in one hand and the sword in the other, and he couldn't make his feet go any further.
 
 The riders came out of the trees below. There were five of them. The first of them reined in when he saw Gerolt standing alone with his hands empty. He said something in the layered voice, and one of the others laughed.
 
@@ -427,6 +435,8 @@ Gerolt lifted his empty hand.
 It caught fire.
 
 The whole hand, then the arm to the elbow, burning white at the heart and orange at the edges. Gerolt stood inside it and did not pull away.
+
+The laughing stopped.
 
 He swept his arm out, and the fire left it. It fell across the first two riders and their horses in a sheet, and all four of them were burning at once. The horses screamed. One rider came out of his saddle already alight and ran, and the fire lit the trunks one after another as he passed them, until he fell and lay still. The other never got out of his saddle at all. His horse carried him burning into the trees.
 
@@ -440,7 +450,9 @@ He had a sword in one hand. In the other he was holding on to a dog.
 
 An arrow took Gerolt high in the chest.
 
-He rocked back a step, and the fire on his arm flared. The second arrow went in under his ribs, and he fell to his knees.
+He rocked back a step, and the fire on his arm flared. He didn't fall. The second arrow went in under his ribs, and he fell to his knees.
+
+The fire was still burning on his arm.
 
 "Gerolt!"
 
@@ -448,7 +460,7 @@ The rest came out of Alaric before he could stop it.
 
 "Please, you can still get up. I'll carry you. Just come *on*!"
 
-Gerolt didn't turn round. He coughed, and blood spattered the ground in front of him.
+Gerolt didn't turn round. He coughed, and blood spattered the leaves in front of him.
 
 "Don't leave me on my own." Alaric's voice cracked. "I don't know anything. I don't know *anyone*—"
 
@@ -460,40 +472,38 @@ His knees went. He was down in the leaves with the sword across his lap and Wena
 
 "Don't you dare leave me with *nothing* again!"
 
-The rider was halfway up the slope when a blade came around from behind and took him across the back of the neck, and he went off the side of his horse without a sound. The man who had swung it didn't stop. He ran on past the falling body and was on the next rider before the elf could turn, and he cut the horse's legs out from under it, then the rider as he fell. The last one had an arrow on the string. It missed the man's head, and the man's blade came down before the elf could draw another.
+The rider coming up the slope never reached him.
+
+A blade came around out of the dark behind the elf and took him across the back of the neck, and he went off the side of his horse without a sound. The man who had swung it didn't stop. He ran on past the falling body and was on the next rider before the elf could turn, and he cut the horse's legs out from under it, then the rider as he fell. The last one had an arrow on the string. It missed the man's head, and the man was on him before the elf could draw another.
 
 Then there was only the burning, and the horses, and the river.
 
-The man stood among the bodies, breathing hard. He was big, in a long cloak, and the heavy blade in his hand was black to the hilt. When he turned, the firelight caught his face: stubble, and an old pale scar running from his cheekbone down towards his jaw.
+The man stood among the bodies, breathing hard. He was big, in a dark cloak, and the heavy blade in his hand was black to the hilt. When he turned, the firelight caught his face: dark stubble, and an old pale scar running from his cheekbone down towards his jaw.
 
 He saw Gerolt, and he went very still.
 
-Gerolt lifted his head. The point of one arrow stood out through the back of his shirt. He coughed, and turned his face a little towards the light, and his beard was wet with blood. He looked at the man for a long time.
+Gerolt lifted his head. The point of one arrow stood out through the back of his shirt. He coughed, and turned his face a little towards the light, and his beard was dark with blood. He looked at the man for a long time.
 
 "Heh."
 
 The fire on his hand went out.
 
-Alaric waited for the fire to come back. It had kept burning through both arrows. Now it was gone, and Gerolt's hand hung open at his side.
+He stayed on his knees.
 
-The man's head turned, and he found Alaric in the leaves. His eyes went to the sword across Alaric's lap and stayed there, and something crossed his face that Alaric couldn't read.
+The man stayed where he was. Then his head turned, and he found Alaric in the leaves. His eyes went to the sword across Alaric's lap and stayed there, and something crossed his face that Alaric couldn't read.
 
 A horn sounded along the river. Another answered it, nearer.
 
-The man was at his side before Alaric had noticed him move.
+The man crossed to him in a few strides.
 
 "Get up, boy, or we're both dead!"
 
-Alaric couldn't get up. He was staring at Gerolt. That old man had taken care of him until his dying breath, and now Alaric was going to leave him there and never see him again.
+Alaric didn't get up. He couldn't look away from Gerolt.
 
 Wena pulled free of his hand and ran down to Gerolt. She pushed her nose under Gerolt's hand and whined.
 
-The man swore, took Alaric by the collar and dragged him away from Gerolt.
+The man swore. He took Alaric by the collar and dragged him.
 
-Wena stood beside him, looking up into his face. Her head turned, and she looked at Alaric.
+Wena looked from Gerolt to them. Then she came after them.
 
-She didn't come.
-
-Then she ran after him.
-
-Alaric went backwards through the trees with Gerolt's sword still in his hand, and watched Gerolt kneeling in the firelight until he couldn't see him any more.
+Alaric went backwards into the dark with Gerolt's sword still in his hand, and watched Gerolt kneeling in the firelight until he couldn't see him any more.

@@ -1,5 +1,7 @@
 # Chapter 2: What Changed from the Old Chapter
 
+**Note (27 September):** this compares *Version 1* of the new chapter, now kept in `Drafts/`, with the old one. The chapter has since been redesigned; see `Chapter 2 - What the Redesign Changed.md`.
+
 Written on 26 September 2026. This compares the new `Chapter 2 - The Price of a Voice.md` with the old version, `Old - Before Re-plan/Volume 1 - Rewrites/Chapter 2 - The Price of a Voice (Rewrite).md`. Most of the chapter changed, so the comparison goes scene by scene and shows the key passages as before and after. It doesn't go paragraph by paragraph.
 
 - The quotes below show the chapter after revision 1, which took out every comparison Alaric couldn't make (see `Chapter 2 - Changes.md`).

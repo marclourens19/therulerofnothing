@@ -144,3 +144,58 @@ Every addition changes something else. Once Gerolt says "Natharul" at the window
 - **Rejected:** the tooth image, a figurative line that explained the meaning. Later, the gold at the running figure's cuff, a decorative clue: "I don't like that imagery, I like the hand reaching and the mouth." The author prefers plain bodily images to ornamental ones.
 - **Trimmed on request:** every addition that explained what a moment meant.
 - **Pattern:** the author accepts concrete behaviour and plain statement, and rejects interpretation. When in doubt, write the action and stop.
+
+## 12. Lessons from Chapter 2's redesign (27 September)
+
+The author's notes on the redesigned draft. Each became a rule in `SKILL.md`.
+
+**Don't tell the reader what they already know.** Gerolt's "worst horse" joke makes them both laugh, then the riders' torches appear:
+
+> **Before:** Light moved between the trees below them, down by the water.
+>
+> Alaric stopped laughing.
+>
+> It was torchlight.
+>
+> **After:** Light moved between the trees below them, down by the water.
+>
+> It was torchlight.
+
+The author: "Things like this kind of draw the scene away now. You don't need to explain things like this, because the reader will know he stopped laughing. Laughing doesn't last forever." The same went for "He stayed on his knees." after Gerolt dies kneeling ("The reader knows he is on his knees"), and eight more lines of the same kind were proposed on the same rule.
+
+**Show the beat as he sees it, not as a summary.**
+
+> **Before:** Wena looked from Gerolt to them. Then she came after them.
+>
+> **After:** Wena stood at Gerolt's side, staring up at him. Her head turned, and she looked up the slope at Alaric.
+>
+> She didn't come.
+>
+> Then she ran after him.
+
+The author: "Scenes like this are like just saying it for the sake of it. Remember it's all in Alaric's perspective: he saw Wena staring at Gerolt, then at them, she paused for a brief moment, then ran after Alaric."
+
+**"The dark" is a habit.** It appeared 19 times in one chapter, 8 of them as a place ("out of the dark", "into the dark"). The author: "Cut down on that, find other words." Say where, or what can be seen: "somewhere below them in the dark" became "somewhere below them", and "It was dark under the branches" became "Under the branches, the moon came through only in patches".
+
+**Plain beats clever.** For Gerolt burning his house, the author's line was "I guess this is finally goodbye". Offered "'Goodbye, then,' he told the house. 'Never did get those shutters to sit right.'" or "'Well,' he said to the house. 'Suppose that's goodbye, then.'", the author chose the second: "A is better, more human-like. B sounds robotic."
+
+**Add meaning where he'd feel it.** The rules above cut the narrator's explaining. They were never meant to leave a list of actions behind.
+
+> **Before:** "Get up, boy, or we're both dead!"
+>
+> Alaric didn't get up. He couldn't look away from Gerolt.
+>
+> **After:** "Get up, boy, or we're both dead!"
+>
+> Alaric couldn't get up. He was staring at Gerolt. That old man had taken care of him until his dying breath, and now Alaric was going to leave him there and never see him again.
+
+The author: "I see a lot of someone did X, he did Y. Just add meaning to things." The line is theirs, with punctuation added. It isn't the narrator interpreting. It's Alaric understanding, in plain words, what is happening to him.
+
+**The narration follows his attention.**
+
+> **Before:** The man crossed to him in a few strides.
+>
+> **After:** The man was at his side before Alaric had noticed him move.
+
+He was staring at Gerolt, so he doesn't see the man cross. The author: "The man was at him before he noticed, something like this."
+

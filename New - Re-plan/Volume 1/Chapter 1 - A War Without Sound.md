@@ -440,13 +440,13 @@ He kept one eye to the opening in the shutter.
 
 The boy thought of the pale faces among the dead. "Then they'll ask about here."
 
-"Aye. And the nearest house with children in it is two fields over." He was still watching the dark where the field lay. "Come first light, somebody'll see the crows. By noon, somebody'll have sold what they saw, and there'll be men at my door asking what I found out there."
+"Aye. And the nearest house with children in it is two fields over." He was still watching the field through the gap in the shutter. "Come first light, somebody'll see the crows. By noon, somebody'll have sold what they saw, and there'll be men at my door asking what I found out there."
 
 Something beneath the bed gave a thin whine.
 
 The boy looked down.
 
-"That's Wena." Gerolt nodded towards the darkness beneath the frame. "Barks at owls, carts, the wind changing its mind about which direction to blow. Give her half an excuse and she'll use it. Last night, not a sound out of her."
+"That's Wena." Gerolt nodded at the bed. "Barks at owls, carts, the wind changing its mind about which direction to blow. Give her half an excuse and she'll use it. Last night, not a sound out of her."
 
 Two frightened eyes caught the firelight beneath the bed.
 
@@ -600,7 +600,7 @@ He moved at once.
 
 The iron poker scraped through the hearth. Ash fell over the coals, and their orange glow died, ember by ember. He crossed to the table and pinched out the candle between finger and thumb. The flame burned him. He did not pull away.
 
-Darkness swallowed the cabin.
+The cabin went black.
 
 Outside, a torch flared to life. Orange light cut through the shutters and laid long bars across the floor. A shape passed behind the lowest gap—dark metal crossed by a curling line of gold—and vanished with the moving flame.
 
@@ -610,7 +610,7 @@ He froze.
 
 *They saw me.*
 
-Then he found Gerolt's face in the dark, and understood.
+Then he found Gerolt's face, and understood.
 
 He flattened himself against the floorboards, dragging the blanket with him. Gerolt crossed the room in two strides, eased the bench onto its side, and pulled the boy in behind it.
 
@@ -634,7 +634,7 @@ He drew breath to call out—
 
 The boy looked at him. At the man who had walked through thousands of corpses that morning without breaking. Who had carried a stranger home across his own ruined harvest, and put food in his hands, and asked for nothing.
 
-Now that same man crouched in the dark beside a smothered fire, hiding from whoever stood outside rather than let them know he was home.
+Now that same man crouched beside a smothered fire, hiding from whoever stood outside rather than let them know he was home.
 
 He looked once towards the door.
 

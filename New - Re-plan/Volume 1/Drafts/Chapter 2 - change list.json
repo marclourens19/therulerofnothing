@@ -1,445 +1,622 @@
 {
  "title": "Chapter 2: Changes",
- "draft": "Chapter 2 - The Price of a Voice (Draft 1).md",
+ "draft": "Chapter 2 - The Price of a Voice (Draft 2, the redesign).md",
  "chapter": "../Chapter 2 - The Price of a Voice.md",
  "changes_file": "../Chapter 2 - Changes.md",
- "intro_md": "Written on 26 September 2026. This is every change made to `Chapter 2 - The Price of a Voice.md` since its first draft, each with a before, an after and a reason. How the first draft differs from the old chapter is in `Chapter 2 - From the Old Chapter.md`.\n\n- **Revision 1** (changes 1–13) takes out every comparison Alaric couldn't make and every phrase that was there to sound good.\n- **Revision 2** (changes 14–16, plus changes 8 and 11 extended) carries out your answers to the calls: the cockier entrance, the cough, cutting \"three tries\" and \"Empty\", and Gerolt's dry line at the hot hand.\n- **Revision 3** (changes 17–38, plus small edits noted in changes 5, 6, 9 and 13) is the final check against Chapter 1: continuity errors, unclear pronouns and repeated verbs.\n\n- The first draft is saved, unchanged, as `Drafts/Chapter 2 - The Price of a Voice (Draft 1).md`. Any change you reject can go straight back from there.\n- **Draft line** numbers refer to that saved copy. **Revised line** numbers refer to the chapter as it stands now.",
- "glance": [],
- "summary_md": "## Comparisons kept on purpose\n\nThese three compare something to what Alaric has lived through on the page, so he can make them. You agreed to keep them.\n\n- \"It rose at the end, the way a question does.\" He has heard questions all night.\n- \"Gerolt's flame had sat in his palm no bigger than a candle's.\" He saw both in Chapter 1.\n- \"…nothing like the voice that had told the boy to take the bowl with both hands.\" He heard that voice.",
+ "intro_md": "Started 27 September 2026. This is the change list for the redesigned Chapter 2. The redesign is compared with the version before it, scene by scene, in `Chapter 2 - What the Redesign Changed.md`. Its first draft is saved unchanged as `Drafts/Chapter 2 - The Price of a Voice (Draft 2, the redesign).md`, and every round is a change against it. The version before the redesign, with its own 38 changes, is kept in `Drafts/` as Version 1.\n\n**Round 1 (27 September): the author's notes on the redesigned draft.** Four notes, taken as given: cut \"Alaric stopped laughing\" and \"He stayed on his knees\", add Gerolt's \"The trees…\", and show Wena as Alaric sees her. One instruction applied across the chapter: \"the dark\". The same rule as the two cuts is applied to eight more lines, and each of those waits on your yes or no.\n\n**Round 2 (27 September): meaning, and his eyes.** The author: \"I see a lot of someone did X, he did Y. Just add meaning to things.\" Their line for Alaric after Gerolt dies, \"The man was at him before he noticed\", and \"spattered the ground\" are taken as given. The same note is applied at eight more moments that matter to Alaric, and each of those waits on your yes or no. The fights stay fast.\n\n**Round 3 (27 September): the author's answers on round 2.** Accepted: \"Nobody was coming\", the laugh, and \"away from Gerolt\". Reworked as asked: the sword (\"his fate was sealed\"), his feet stopping (\"down there is weird\"), the fire going out (\"what is it, give meaning to it\"), and the house, toned down (\"too melodramatic\"). \"Bracken\" is gone, and so is \"ferns\", which the author didn't like either.\n\n**Round 4 (27 September): the last calls on the redraft.** Gerolt lights the wall beside the empty doorway, not the doorpost. \"I run hot\" and \"Found one lad still breathing\" stay out. Everything else is approved: the horse, Gerolt's small lines, the horse being shot, Alaric's thought when Gerolt goes down, the riders from the river, the rider's laugh, Silas's look, Silas seeing the sword, and the last line.\n\n**Round 5 (27 September): the final pass.** Full read-through against the final check, including the author's new rules. Nothing needed a judgement call. These are craft fixes only: two unclear pronouns, repeated words (\"pushed\", \"got\", \"doorway\", \"up the slope\", \"out\"), and three words many readers won't know (\"eaves\", \"pommel\", \"sidled\"). Some are new changes ({tag:final}); the rest are folded into changes 5, 23, 27, 29, 32 and 38, each noted in its reason.",
+ "glance": [
+  "**\"The dark\":** as a place, 8 times before and 0 after. \"Dark\" in all: 19 before, 5 after (changes {tag:dark}). The five left are all from Version 1: the grip, the cloth, the elves' armour twice, and the blood he coughs up.",
+  "**Lines that told the reader what they already knew:** 2 cut on your word (changes {tag:yourcuts}), and 8 more proposed (changes {tag:further}).",
+  "**Meaning added:** 3 changes on your word (changes {tag:author2}), and 8 more moments proposed (changes {tag:meaningcall})."
+ ],
+ "summary_md": "## What each note became\n\n1. **\"Alaric stopped laughing.\"** Cut, as you said: change 14.\n2. **\"He stayed on his knees.\"** Cut, as you said: change 21. The page still never says he's dead: after the \"heh\" the fire goes out, and the last line shows him kneeling.\n3. **\"The trees…\"** Gerolt looks at the window, says \"The trees…\", then gives the order: change {tag:trees}.\n4. **Wena.** Shown as Alaric sees it: she stares at Gerolt, looks at him, doesn't come, then runs after him: change {tag:wena}.\n5. **\"The dark.\"** Every \"the dark\" is gone, and \"dark\" is down from 19 to 5: changes {tag:dark}.\n6. **The same rule, applied further.** Eight more lines that told the reader what they already knew: changes {tag:further}. These are the only changes waiting on you.\n7. **\"Just add meaning to things.\"** Your line for Alaric after Gerolt dies, word for word apart from the punctuation. Eight more moments where he now feels or understands something in plain words: the house he woke up in, Gerolt not moving after the fall, \"Nobody was coming\", why he laughs, what taking the sword means, why his feet stop, waiting for the fire to come back, and being dragged \"away from Gerolt\". These are changes {tag:meaningcall}.\n8. **\"The man was at him before he noticed.\"** The narration follows where Alaric is looking: change {tag:eyes}.\n9. **\"Spattered the ground.\"** Change {tag:plain}.\n10. **Round 3.** Your answers on round 2 are in each change's decision. \"Bracken\" is gone, and \"ferns\" with it: changes {tag:plainword} and 26.\n11. **Round 4.** The wall beside the doorway: change {tag:author4}. With this, every call on the chapter is answered.\n12. **The final pass.** Craft fixes only: changes {tag:final}, plus small edits folded into changes 5, 23, 27, 29, 32 and 38.",
  "sections": {
-  "Revision 1": "Revision 1: comparisons he couldn't make",
-  "Revision 2": "Revision 2: your answers to the calls",
-  "Revision 3": "Revision 3: the final check"
+  "The door": "The door (draft lines 3–101)",
+  "The fight": "The fight (draft lines 103–183)",
+  "The fire": "The fire (draft lines 185–239)",
+  "The ride": "The ride (draft lines 241–267)",
+  "The forest": "The forest and the river (draft lines 269–405)",
+  "The last stand": "The last stand (draft lines 407–473)",
+  "Silas": "Silas (draft lines 475–509)"
  },
  "changes": [
   {
-   "section": "Revision 1",
-   "title": "\"An axe going into green wood\"",
+   "section": "The door",
+   "title": "The door turning",
    "kind": "changed",
    "tags": [
-    "compare"
+    "dark"
    ],
-   "before": "She threw up her arm. The blade broke through her metal bracer and stopped in the bone with a sound like an axe going into green wood. When Gerolt wrenched it out, her hand hung from the end of her arm at an angle no hand should make.",
-   "after": "She threw up her arm. The blade broke through her metal bracer and stopped in the bone. When Gerolt wrenched it out, her hand hung from the end of her arm at an angle no hand should make.",
-   "why": "The author: \"explaining things for the sake of it, using words to make it look cool… this is from Alaric's POV, how would he know this.\" A comparison has to come from something he has actually lived through on the page, and for him that's almost nothing. He has never heard an axe go into wood.",
+   "before": "The latch tore out of the frame. The hinges went with it. The whole door came across the cabin in one piece, turning in the dark, and the boy threw himself flat.",
+   "after": "The latch tore out of the frame. The hinges went with it. The whole door came across the cabin in one piece, turning as it came, and the boy threw himself flat.",
+   "why": "The author: \"One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words.\" The replacement words are mine; reject any you don't like. This line is from Version 1.",
    "decision": "accepted",
-   "decision_note": "You asked for this one: \"how would he know this\"."
+   "decision_note": "By your instruction to \"cut down on\" the dark."
   },
   {
-   "section": "Revision 1",
-   "title": "\"As if he had put it down yesterday\"",
+   "section": "The fight",
+   "title": "Her screaming",
    "kind": "changed",
    "tags": [
-    "compare"
+    "dark"
    ],
-   "before": "Gerolt picked it up as if he had put it down yesterday.",
-   "after": "Gerolt picked it up without looking at it.",
-   "why": "The author: \"explaining things for the sake of it, using words to make it look cool… this is from Alaric's POV, how would he know this.\" A comparison has to come from something he has actually lived through on the page, and for him that's almost nothing. The boy can't know when Gerolt last held it. What he can see is that Gerolt doesn't need to look."
+   "before": "Hooves crashed away through the stalks, and her screaming went with them into the dark.",
+   "after": "Hooves crashed away through the stalks, and her screaming went with them.",
+   "why": "The author: \"One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words.\" The replacement words are mine; reject any you don't like. From Version 1. The next line (\"Gerolt watched until the torchlight was gone\") already says she's out of sight.",
+   "decision": "accepted",
+   "decision_note": "By your instruction to \"cut down on\" the dark."
   },
   {
-   "section": "Revision 1",
-   "title": "\"Like water down a drain\"",
+   "section": "The fight",
+   "title": "Where the torch had gone",
    "kind": "changed",
    "tags": [
-    "compare"
+    "dark"
    ],
-   "before": "It lifted off the smothered hearth in thin grey threads. Every loose grain in the cabin slid towards the door at once, drawn like water down a drain.",
-   "after": "It lifted off the smothered hearth in thin grey threads. Every loose grain in the cabin slid towards the door at once.",
-   "why": "The author: \"explaining things for the sake of it, using words to make it look cool… this is from Alaric's POV, how would he know this.\" A comparison has to come from something he has actually lived through on the page, and for him that's almost nothing."
+   "before": "Beyond the doorway, the dead elf's horse turned circles in the moonlight under its empty saddle, snorting at the blood on the threshold. The boy looked from it to the dark where the torch had gone, and his stomach dropped.",
+   "after": "Beyond the doorway, the dead elf's horse turned circles in the moonlight under its empty saddle, snorting at the blood on the threshold. The boy looked from it to where the torch had gone, and his stomach dropped.",
+   "why": "The author: \"One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words.\" The replacement words are mine; reject any you don't like. From Version 1.",
+   "decision": "accepted",
+   "decision_note": "By your instruction to \"cut down on\" the dark."
   },
   {
-   "section": "Revision 1",
-   "title": "\"The world punched inward\"",
+   "section": "The fire",
+   "title": "The lights in the distance",
+   "kind": "changed",
+   "tags": [
+    "dark"
+   ],
+   "before": "Past the doorway, out beyond the wheat, small lights had come up out of the dark. A line of them, far off, and moving.",
+   "after": "Past the doorway, out beyond the wheat, small lights had appeared. A line of them, far off, and moving.",
+   "why": "The author: \"One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words.\" The replacement words are mine; reject any you don't like.",
+   "decision": "accepted",
+   "decision_note": "By your instruction to \"cut down on\" the dark."
+  },
+  {
+   "section": "The fire",
+   "title": "The doorpost",
+   "kind": "changed",
+   "tags": [
+    "dark"
+   ],
+   "before": "The wood darkened under his palm. Smoke crept out between his fingers, then flame, small at first, running up the post in a thin line and into the eaves. It caught there with a soft sound and spread. By the time Gerolt took his hand away, the whole front of the roof was alight.",
+   "after": "The wood blackened under his palm. Smoke crept out between his fingers, then flame, small at first, running up the wall in a thin line. It caught at the top with a soft sound and spread. By the time Gerolt took his hand away, the whole front of the roof was alight.",
+   "why": "The author: \"One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words.\" The replacement words are mine; reject any you don't like. Burning wood blackens, so it's also the plainer word. (Round 4: \"post\" became \"wall\", with change 40.) (Final pass: \"into the eaves\" went. \"Eaves\" is a word many readers won't know, and \"roof\" is already in the next sentence.)",
+   "decision": "accepted",
+   "decision_note": "By your instruction to \"cut down on\" the dark."
+  },
+  {
+   "section": "The fire",
+   "title": "\"The trees…\"",
+   "kind": "changed",
+   "tags": [
+    "author",
+    "trees"
+   ],
+   "before": "Gerolt raised his head and looked at it, for as long as it took the horse to shift its feet twice. Then he turned his head the other way, towards the black line of trees at the far side of the field.\n\n\"Make for the trees, lad.\"",
+   "after": "Gerolt raised his head and looked at it, for as long as it took the horse to shift its feet twice. Then he turned his head the other way, towards the line of trees at the far side of the field.\n\n\"The trees…\" he said. \"Make for the trees, lad.\"",
+   "why": "Your answer to call 1: \"Yes, could be like Gerolt looked though first 'The trees…', 'Make for the trees lad'.\" I read it as: he looks at the window, then says \"The trees…\" as he decides, then gives the order. Both lines are his, so they share one paragraph, and the \"…\" carries the pause. \"Black line\" also goes, since \"black\" was standing in for \"dark\".",
+   "decision": "accepted",
+   "decision_note": "Your line. Tell me if I've read it wrongly."
+  },
+  {
+   "section": "The ride",
+   "title": "The trees come close",
+   "kind": "changed",
+   "tags": [
+    "dark"
+   ],
+   "before": "The trees came up at them out of the dark. The boy could see the moonlight on the first trunks when something hissed past his ear, and then another. The horse screamed. Its stride broke, and the ground came up to meet him.",
+   "after": "The trees were close now. The boy could see the moonlight on the first trunks when something hissed past his ear, and then another. The horse screamed. Its stride broke, and the ground came up to meet him.",
+   "why": "The author: \"One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words.\" The replacement words are mine; reject any you don't like.",
+   "decision": "accepted",
+   "decision_note": "By your instruction to \"cut down on\" the dark."
+  },
+  {
+   "section": "The forest",
+   "title": "Under the branches",
+   "kind": "changed",
+   "tags": [
+    "dark"
+   ],
+   "before": "It was dark under the branches, with the moon coming through in patches. Roots caught at their feet. Twice the boy went down on one knee under Gerolt's weight, and twice Gerolt leaned on the sword and waited, breathing in short, careful pulls, until the boy could get up again. Wena ran ahead of them and kept stopping to look back.",
+   "after": "Under the branches, the moon came through only in patches. Roots caught at their feet. Twice the boy went down on one knee under Gerolt's weight, and twice Gerolt leaned on the sword and waited, breathing in short, careful pulls, until the boy could get up again. Wena ran ahead of them and kept stopping to look back.",
+   "why": "The author: \"One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words.\" The replacement words are mine; reject any you don't like. It says how little light there is, without the word.",
+   "decision": "accepted",
+   "decision_note": "By your instruction to \"cut down on\" the dark."
+  },
+  {
+   "section": "The forest",
+   "title": "\"Go on\"",
+   "kind": "changed",
+   "tags": [
+    "further"
+   ],
+   "before": "\"Go on,\" Gerolt said.\n\nThe boy stopped pulling.\n\n\"Go on,\" Gerolt said again. His eyes were open now. \"Leave me here.\"",
+   "after": "\"Go on,\" Gerolt said. His eyes were open now. \"Leave me here.\"",
+   "why": "Your rule on \"Alaric stopped laughing\" and \"He stayed on his knees\" (\"you don't need to explain things like this, because the reader will know\"), applied to a line you didn't name. Of course he stops pulling when Gerolt speaks, so \"Go on\" only needs saying once.",
+   "call": "Cut \"The boy stopped pulling.\" and say \"Go on\" once?",
+   "decision": "accepted",
+   "decision_note": "\"I agree with all the cuts.\""
+  },
+  {
+   "section": "The forest",
+   "title": "The blood on the roots",
+   "kind": "changed",
+   "tags": [
+    "dark"
+   ],
+   "before": "The boy looked at the dog curled against Gerolt's side, then at the blood spreading dark over the roots beneath them both.",
+   "after": "The boy looked at the dog curled against Gerolt's side, then at the blood spreading over the roots beneath them both.",
+   "why": "The author: \"One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words.\" The replacement words are mine; reject any you don't like.",
+   "decision": "accepted",
+   "decision_note": "By your instruction to \"cut down on\" the dark."
+  },
+  {
+   "section": "The forest",
+   "title": "\"Neither of them moved\"",
+   "kind": "changed",
+   "tags": [
+    "further"
+   ],
+   "before": "Neither of them moved. Up behind them, the torchlight went on searching between the trees.",
+   "after": "Up behind them, the torchlight went on searching between the trees.",
+   "why": "Your rule on \"Alaric stopped laughing\" and \"He stayed on his knees\" (\"you don't need to explain things like this, because the reader will know\"), applied to a line you didn't name. The torchlight is the news; that they're still sitting there isn't.",
+   "call": "Cut \"Neither of them moved.\"?",
+   "decision": "accepted",
+   "decision_note": "\"I agree with all the cuts.\""
+  },
+  {
+   "section": "The forest",
+   "title": "\"They carried on down the slope\"",
    "kind": "cut",
    "tags": [
-    "compare"
+    "further"
    ],
-   "before": "The world punched inward.",
-   "why": "Decoration: the next line shows the door coming in, so this one only announces it. It also shared \"punched\" with two other lines."
-  },
-  {
-   "section": "Revision 1",
-   "title": "\"Comb splinters through his hair\"",
-   "kind": "changed",
-   "tags": [
-    "compare"
-   ],
-   "before": "Its lower edge passed close enough to comb splinters through his hair. It struck the back wall and burst, and half the planks behind it burst with it.",
-   "after": "Its lower edge passed close enough to leave splinters in his hair. It struck the back wall and broke apart, and half the planks behind it went with it.",
-   "why": "Decoration: \"comb\" dresses up a plain thing. The splinters are in his hair. *Tightened in revision 3: \"It struck the back wall and burst, and half the planks behind it burst with it.\" became \"It struck the back wall and broke apart, and half the planks behind it went with it.\" (repeated verb).*"
-  },
-  {
-   "section": "Revision 1",
-   "title": "\"Like thrown stones\"",
-   "kind": "changed",
-   "tags": [
-    "compare"
-   ],
-   "before": "The bench tore out of his hands. The table went over. Pots ripped off their hooks and flew like thrown stones, and a shutter wrenched loose and was gone into the night. The blanket wrapped his legs, then was torn away.",
-   "after": "The bench was pulled from his hands. The table went over. Pots ripped off their hooks and flew across the room, and a shutter wrenched loose and was gone into the night. The blanket wrapped his legs, then was torn away.",
-   "why": "The author: \"explaining things for the sake of it, using words to make it look cool… this is from Alaric's POV, how would he know this.\" A comparison has to come from something he has actually lived through on the page, and for him that's almost nothing. *Tightened in revision 3: \"The bench tore out of his hands.\" became \"The bench was pulled from his hands.\" (repeated verb).*"
-  },
-  {
-   "section": "Revision 1",
-   "title": "\"Too fine to belong anywhere near a wrecked farmhouse\"",
-   "kind": "changed",
-   "tags": [
-    "compare"
-   ],
-   "before": "A tall figure stood in the empty doorway with the torchlight behind him. His pale hair was bound back from a face too fine and unmarked to belong anywhere near a wrecked farmhouse. Close-fitting dark armour covered him, crossed with curling lines of gold, and two pointed ears rose through his hair.",
-   "after": "A tall figure stood in the empty doorway with the torchlight behind him. His pale hair was bound back from a fine, unmarked face. Close-fitting dark armour covered him, crossed with curling lines of gold, and two pointed ears rose through his hair.",
-   "why": "Decoration: a judgement dressed up to sound good. What the boy sees is a fine, unmarked face."
-  },
-  {
-   "section": "Revision 1",
-   "title": "The elf's entrance",
-   "kind": "changed",
-   "tags": [
-    "compare"
-   ],
-   "before": "He looked over the wreckage. There was no alarm on his face at all. Just mild displeasure, like someone who'd stepped in something.\n\n\"There,\" he said. \"Now you've no door to answer.\"\n\nHe stepped over the threshold with his hands empty, and didn't look where he put his feet.",
-   "after": "He looked over the wreckage. There was no alarm on his face at all.\n\nHe laughed as he stepped over the threshold, his hands empty. \"Testing my patience, old man. Now you've no door to answer.\"",
-   "why": "Two rounds. Revision 1 cut \"like someone who'd stepped in something\", a comparison Alaric couldn't make. Revision 2 answers your call 2: \"make it sound more cocky, like he laughs as he walks through… testing my patience old man, now you have no door to answer\". Knock-on: he says \"old man\" before he has seen Gerolt, so it reads as though they already knew who lived here. That fits scouts who are always there and never seen.",
+   "before": "They carried on down the slope.",
+   "why": "Your rule on \"Alaric stopped laughing\" and \"He stayed on his knees\" (\"you don't need to explain things like this, because the reader will know\"), applied to a line you didn't name. The next line starts \"Further down\", which already says it.",
+   "call": "Cut it?",
    "decision": "accepted",
-   "decision_note": "Your words, from call 2."
+   "decision_note": "\"I agree with all the cuts.\""
   },
   {
-   "section": "Revision 1",
-   "title": "\"As though he were waiting for an explanation\"",
+   "section": "The forest",
+   "title": "The river",
    "kind": "changed",
    "tags": [
-    "compare"
+    "dark"
    ],
-   "before": "He caught Gerolt's wrist and squeezed. His eyes were very wide. He stared at Gerolt with his mouth still working, as though he were waiting for an explanation.",
-   "after": "He grabbed Gerolt's wrist and squeezed. His eyes were very wide. He stared at Gerolt with his mouth still working.",
-   "why": "It explained what the stare meant. The stare and the working mouth are enough (principle 5). *Tightened in revision 3: \"He caught Gerolt's wrist and squeezed.\" became \"He grabbed Gerolt's wrist and squeezed.\" (repeated verb).*"
-  },
-  {
-   "section": "Revision 1",
-   "title": "\"Punched through the empty window\"",
-   "kind": "changed",
-   "tags": [
-    "compare"
-   ],
-   "before": "He ducked over Gerolt. A second arrow punched through the empty window and stood quivering in the upturned table. A third rattled across the roof.",
-   "after": "He ducked over Gerolt. A second arrow came through the empty window and stood quivering in the upturned table. A third rattled across the roof.",
-   "why": "The same verb as two other lines. Plain is enough."
-  },
-  {
-   "section": "Revision 1",
-   "title": "The hot hand",
-   "kind": "changed",
-   "tags": [
-    "compare"
-   ],
-   "before": "Gerolt's hand was still on his wrist. It had been warm. Now it was hot, like the side of a pot left too long on the hearth, and the heat was climbing.\n\nGerolt took it away. He closed it into a fist against the floor and held it there.",
-   "after": "Gerolt's hand had gone hot on his sleeve. He took it away and pressed it flat to the floor.\n\n\"Careful, lad,\" he said. \"I run hot.\"",
-   "why": "Two rounds. Revision 1 cut \"like the side of a pot left too long on the hearth\", a comparison Alaric couldn't make. Revision 2 answers call 7 (\"doesn't sound like Cid speaking, sounds like a computer monologue\"): Gerolt covers the moment with a dry joke instead. It also fixes a slip: Gerolt had caught his sleeve, not his wrist.",
+   "before": "Further down, Alaric heard water. It was only a murmur at first, somewhere below them in the dark, and then it was louder, running over stones.",
+   "after": "Further down, Alaric heard water. It was only a murmur at first, somewhere below them, and then it was louder, running over stones.",
+   "why": "The author: \"One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words.\" The replacement words are mine; reject any you don't like.",
    "decision": "accepted",
-   "decision_note": "You chose \"Gerolt says a dry line\"."
+   "decision_note": "By your instruction to \"cut down on\" the dark."
   },
   {
-   "section": "Revision 1",
-   "title": "\"Frayed almost to nothing\"",
-   "kind": "changed",
+   "section": "The last stand",
+   "title": "\"Alaric stopped laughing\"",
+   "kind": "cut",
    "tags": [
-    "compare"
+    "author",
+    "yourcuts"
    ],
-   "before": "The mouth moved. It shaped the same word it had shaped before, and this time the sound came with it, frayed almost to nothing.",
-   "after": "The mouth moved. It shaped the same word it had shaped before, and this time the sound came with it, faint and broken.",
-   "why": "Decoration: \"frayed\" is a cloth word for a sound. \"Faint and broken\" is what he hears."
-  },
-  {
-   "section": "Revision 1",
-   "title": "\"Flame punched up through the roof\"",
-   "kind": "changed",
-   "tags": [
-    "compare"
-   ],
-   "before": "Flame punched up through the roof and rolled along the beams. The last shutters blew outward. A wave of heat swept through the wheat, bending every stalk towards him, and struck him hard enough to throw him down among them.",
-   "after": "Flame broke through the roof and ran along the beams. The last shutters blew outward. A wave of heat swept through the wheat, bending every stalk towards him, and struck him hard enough to throw him down among them.",
-   "why": "The third \"punched\". Plain verbs. *Tightened in revision 3: \"Flame burst up through the roof\" became \"Flame broke through the roof\" (repeated verb).*"
-  },
-  {
-   "section": "Revision 2",
-   "title": "\"Tell her the old fool sent you\"",
-   "kind": "changed",
-   "tags": [
-    "calls"
-   ],
-   "before": "\"Tell her—\" Gerolt coughed into his shoulder, and when he lifted his head there was fresh blood in his beard. \"Tell her the old fool sent you.\"",
-   "after": "\"Tell her the old fool sent you.\" It ended in a small cough, and blood began to run from the corner of his mouth.",
-   "why": "Your call 5: \"Have a small cough at the end with blood starting to come out of Gerolt's mouth.\" The cough that used to interrupt the line moves to its end.",
+   "before": "Alaric stopped laughing.",
+   "why": "The author: \"Things like this kind of draw the scene away now. You don't need to explain things like this, because the reader will know he stopped laughing. Laughing doesn't last forever.\"",
    "decision": "accepted",
-   "decision_note": "Your answer to the call."
+   "decision_note": "Your note."
   },
   {
-   "section": "Revision 2",
-   "title": "\"Took you three tries to sit up at midday\"",
-   "kind": "changed",
+   "section": "The last stand",
+   "title": "\"The laughing stopped\"",
+   "kind": "cut",
    "tags": [
-    "calls"
+    "further"
    ],
-   "before": "\"Took you three tries to sit up at midday.\" Gerolt caught his sleeve before he could try again. \"Don't, lad.\"",
-   "after": "Gerolt caught his sleeve before he could try again. \"Don't, lad.\"",
-   "why": "Your call 6: \"cut, I don't like it\".",
+   "before": "The laughing stopped.",
+   "why": "Your rule on \"Alaric stopped laughing\" and \"He stayed on his knees\" (\"you don't need to explain things like this, because the reader will know\"), applied to a line you didn't name. It's the same kind of line as \"Alaric stopped laughing\": the reader knows the rider stops laughing once Gerolt's arm is on fire.",
+   "call": "Cut it?",
    "decision": "accepted",
-   "decision_note": "Your answer to the call."
+   "decision_note": "\"I agree with all the cuts.\""
   },
   {
-   "section": "Revision 2",
-   "title": "\"Empty\" as a name",
+   "section": "The last stand",
+   "title": "\"He didn't fall\"",
    "kind": "changed",
    "tags": [
-    "calls"
+    "further"
    ],
-   "before": "\"You're a stubborn little bastard, Empty.\"",
-   "after": "\"You're a stubborn little bastard.\"",
-   "why": "Your call 8: \"I like it, remove Empty\". So Gerolt never calls him Empty in this chapter.",
+   "before": "He rocked back a step, and the fire on his arm flared. He didn't fall. The second arrow went in under his ribs, and he fell to his knees.",
+   "after": "He rocked back a step, and the fire on his arm flared. The second arrow went in under his ribs, and he fell to his knees.",
+   "why": "Your rule on \"Alaric stopped laughing\" and \"He stayed on his knees\" (\"you don't need to explain things like this, because the reader will know\"), applied to a line you didn't name. \"He rocked back a step\" already shows he's still standing.",
+   "call": "Cut \"He didn't fall.\"?",
    "decision": "accepted",
-   "decision_note": "Your answer to the call."
+   "decision_note": "\"I agree with all the cuts.\""
   },
   {
-   "section": "Revision 3",
-   "title": "The voice, described twice",
-   "kind": "changed",
+   "section": "The last stand",
+   "title": "\"The fire was still burning\"",
+   "kind": "cut",
    "tags": [
-    "check"
+    "further"
    ],
-   "before": "Then the voice came again, several throats shaping the same words without keeping time with one another. It rose at the end, the way a question does.",
-   "after": "Then the layered voice came again. It rose at the end, the way a question does.",
-   "why": "It repeated Chapter 1's description of the voice almost word for word (\"several throats… without keeping time with one another\"). The reader already knows it."
+   "before": "The fire was still burning on his arm.",
+   "why": "Your rule on \"Alaric stopped laughing\" and \"He stayed on his knees\" (\"you don't need to explain things like this, because the reader will know\"), applied to a line you didn't name. Nothing said it went out, so the reader knows it's still burning. \"The fire on his hand went out\" still lands later.",
+   "call": "Cut it?",
+   "decision": "accepted",
+   "decision_note": "\"I agree with all the cuts.\""
   },
   {
-   "section": "Revision 3",
-   "title": "\"He looked at the door\"",
+   "section": "Silas",
+   "title": "The rider coming up the slope",
    "kind": "changed",
    "tags": [
-    "check"
+    "dark",
+    "further"
    ],
-   "before": "Gerolt's fingers dug into the boy's shoulder. He looked at the door. Then he looked down at the boy, and kept looking, long enough that the boy felt it.",
-   "after": "Gerolt looked at the door. Then he looked down at the boy, and kept looking, long enough that the boy felt it.",
-   "why": "\"He\" after \"Gerolt's fingers dug into the boy's shoulder\" could be read as the boy. The fingers digging in was also Chapter 1's gesture twice over; his hand is already clamped on the shoulder."
+   "before": "The rider coming up the slope never reached him.\n\nA blade came around out of the dark behind the elf and took him across the back of the neck, and he went off the side of his horse without a sound. The man who had swung it didn't stop. He ran on past the falling body and was on the next rider before the elf could turn, and he cut the horse's legs out from under it, then the rider as he fell. The last one had an arrow on the string. It missed the man's head, and the man was on him before the elf could draw another.",
+   "after": "The rider was halfway up the slope when a blade came around from behind and took him across the back of the neck, and he went off the side of his horse without a sound. The man who had swung it didn't stop. He ran on past the falling body and was on the next rider before the elf could turn, and he cut the horse's legs out from under it, then the rider as he fell. The last one had an arrow on the string. It missed the man's head, and the man's blade came down before the elf could draw another.",
+   "why": "The author: \"One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words.\" The replacement words are mine; reject any you don't like. Also, \"never reached him\" told the reader how it would end before Alaric saw it happen; now he sees it as it happens. The last kill is now something he sees (the blade coming down), not a summary (\"was on him\").",
+   "call": "The rider's line folded into what Alaric sees, and the last kill made concrete: yes?",
+   "decision": "accepted",
+   "decision_note": "\"I agree with all the cuts.\""
   },
   {
-   "section": "Revision 3",
-   "title": "Why they came",
+   "section": "Silas",
+   "title": "The man's cloak and face",
    "kind": "changed",
    "tags": [
-    "check"
+    "dark"
    ],
-   "before": "\"Why did they come here?\" The cloth was already soaking through under his fingers.",
-   "after": "\"They came because of the field.\" The cloth was already soaking through under his fingers.",
-   "why": "An error: in Chapter 1 the boy worked it out himself (\"Then they'll ask about here.\"), so asking why they came contradicted him."
+   "before": "The man stood among the bodies, breathing hard. He was big, in a dark cloak, and the heavy blade in his hand was black to the hilt. When he turned, the firelight caught his face: dark stubble, and an old pale scar running from his cheekbone down towards his jaw.",
+   "after": "The man stood among the bodies, breathing hard. He was big, in a long cloak, and the heavy blade in his hand was black to the hilt. When he turned, the firelight caught his face: stubble, and an old pale scar running from his cheekbone down towards his jaw.",
+   "why": "The author: \"One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words.\" The replacement words are mine; reject any you don't like. Silas's look itself is still call 10 from the first presentation.",
+   "decision": "accepted",
+   "decision_note": "By your instruction to \"cut down on\" the dark."
   },
   {
-   "section": "Revision 3",
-   "title": "Where the light comes from",
+   "section": "Silas",
+   "title": "Gerolt's beard",
    "kind": "changed",
    "tags": [
-    "check"
+    "dark"
    ],
-   "before": "Beyond the doorway, the dead elf's horse turned circles under its empty saddle, snorting at the blood on the threshold. The boy looked from it to the dark where the torch had gone, and his stomach dropped.",
-   "after": "Beyond the doorway, the dead elf's horse turned circles in the moonlight under its empty saddle, snorting at the blood on the threshold. The boy looked from it to the dark where the torch had gone, and his stomach dropped.",
-   "why": "An error: the only torch left with the woman, and the hearth and candle are out. Without the moon, the boy couldn't see any of this."
+   "before": "Gerolt lifted his head. The point of one arrow stood out through the back of his shirt. He coughed, and turned his face a little towards the light, and his beard was dark with blood. He looked at the man for a long time.",
+   "after": "Gerolt lifted his head. The point of one arrow stood out through the back of his shirt. He coughed, and turned his face a little towards the light, and his beard was wet with blood. He looked at the man for a long time.",
+   "why": "The author: \"One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words.\" The replacement words are mine; reject any you don't like.",
+   "decision": "accepted",
+   "decision_note": "By your instruction to \"cut down on\" the dark."
   },
   {
-   "section": "Revision 3",
-   "title": "The hand on his sleeve",
-   "kind": "changed",
+   "section": "Silas",
+   "title": "\"He stayed on his knees\"",
+   "kind": "cut",
    "tags": [
-    "check"
+    "author",
+    "yourcuts"
    ],
-   "before": "His fingers tightened weakly on the boy's sleeve.",
-   "after": "His other hand found the boy's sleeve and tightened weakly on it.",
-   "why": "An error: Gerolt's hot hand is pressed flat to the floor, so this has to be the other one."
+   "before": "He stayed on his knees.",
+   "why": "The author: \"Like this as well: 'He stayed on his knees.' The reader knows he is on his knees.\" The page still never says he's dead: the \"heh\", then the fire going out, and the last line still shows him kneeling.",
+   "decision": "accepted",
+   "decision_note": "Your note."
   },
   {
-   "section": "Revision 3",
-   "title": "\"Beneath his knees\"",
+   "section": "Silas",
+   "title": "The man turns",
    "kind": "changed",
    "tags": [
-    "check"
+    "further"
    ],
-   "before": "The door hung whole on its hinges and lay in pieces against the back wall. Gerolt knelt over him, unhurt. Gerolt bled beneath his knees.",
-   "after": "The door hung whole on its hinges and lay in pieces against the back wall. Gerolt knelt over him, unhurt. Gerolt lay bleeding beside him.",
-   "why": "\"Beneath his knees\" could mean Gerolt's own knees."
+   "before": "The man stayed where he was. Then his head turned, and he found Alaric in the leaves. His eyes went to the sword across Alaric's lap and stayed there, and something crossed his face that Alaric couldn't read.",
+   "after": "The man's head turned, and he found Alaric in the leaves. His eyes went to the sword across Alaric's lap and stayed there, and something crossed his face that Alaric couldn't read.",
+   "why": "Your rule on \"Alaric stopped laughing\" and \"He stayed on his knees\" (\"you don't need to explain things like this, because the reader will know\"), applied to a line you didn't name. He'd already \"gone very still\" three lines up. It also needs \"The man's\" now: with \"He stayed on his knees\" gone, \"his head\" would point at Gerolt.",
+   "call": "Cut \"The man stayed where he was.\"?",
+   "decision": "accepted",
+   "decision_note": "\"I agree with all the cuts.\""
   },
   {
-   "section": "Revision 3",
-   "title": "\"His ruined chest\"",
+   "section": "Silas",
+   "title": "Wena",
    "kind": "changed",
    "tags": [
-    "check"
+    "author",
+    "wena"
    ],
-   "before": "He reached for it. Agony tore from his fingertips to the base of his spine, and his body slammed against the floor. Gerolt caught the back of his head before it could strike again, and the effort dragged a cry out of his ruined chest.",
-   "after": "He reached for it. Agony ran from his fingertips to the base of his spine, and his body slammed against the floor. Gerolt caught the back of his head before it could strike again, crying out at the effort.",
-   "why": "\"His ruined chest\" could be read as the boy's. Also one fewer \"tore\"."
+   "before": "Wena looked from Gerolt to them. Then she came after them.",
+   "after": "Wena stood beside him, looking up into his face. Her head turned, and she looked at Alaric.\n\nShe didn't come.\n\nThen she ran after him.",
+   "why": "The author: \"Scenes like this are like just saying it for the sake of it. Remember it's all in Alaric's perspective: he saw Wena staring at Gerolt, then at them, she paused for a brief moment, then ran after Alaric.\" Now it's in the order he sees it. The pause is \"She didn't come.\", which is how it feels from his side, and she runs after him, not after \"them\". (Round 2: \"at Gerolt's side\" became \"beside him\", because \"Gerolt\" had just ended three lines in a row.) (Final pass: \"up the slope\" came five times.)",
+   "decision": "accepted",
+   "decision_note": "Your note. The words are mine; tell me if the pause should read differently."
   },
   {
-   "section": "Revision 3",
-   "title": "\"Caught himself listening\"",
+   "section": "Silas",
+   "title": "The last line",
    "kind": "changed",
    "tags": [
-    "check"
+    "dark"
    ],
-   "before": "The boy stayed pressed behind the overturned bench with Gerolt's hand clamped on his shoulder. Under the bed, Wena had gone so quiet that he caught himself listening for her breathing.",
-   "after": "The boy stayed pressed behind the overturned bench with Gerolt's hand clamped on his shoulder. Under the bed, Wena had gone so quiet that he found himself listening for her breathing.",
-   "why": "Too many repeats of the same verb in one chapter (\"caught\" 9 times, \"tore\" 9, \"dragged\" 6). Plain alternatives, same meaning."
+   "before": "Alaric went backwards into the dark with Gerolt's sword still in his hand, and watched Gerolt kneeling in the firelight until he couldn't see him any more.",
+   "after": "Alaric went backwards through the trees with Gerolt's sword still in his hand, and watched Gerolt kneeling in the firelight until he couldn't see him any more.",
+   "why": "The author: \"One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words.\" The replacement words are mine; reject any you don't like. The last line itself is still call 13 from the first presentation.",
+   "decision": "accepted",
+   "decision_note": "By your instruction to \"cut down on\" the dark."
   },
   {
-   "section": "Revision 3",
-   "title": "\"Coat tore off\"",
-   "kind": "changed",
+   "section": "The fire",
+   "title": "The house he woke up in",
+   "kind": "added",
    "tags": [
-    "check"
+    "meaning",
+    "meaningcall"
    ],
-   "before": "By the doorway, Gerolt's coat tore off its peg and was gone. He kept his head down behind the post.",
-   "after": "By the doorway, Gerolt's coat flew off its peg and was gone. He kept his head down behind the post.",
-   "why": "Too many repeats of the same verb in one chapter (\"caught\" 9 times, \"tore\" 9, \"dragged\" 6). Plain alternatives, same meaning."
+   "before": "His palm had gone an angry red. He didn't look at it.",
+   "after": "The boy stared up at the burning roof. He had woken under it that night, with a blanket over him and stew on the fire.",
+   "why": "Your note: \"I see a lot of someone did X, he did Y. Just add meaning to things.\" This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. His question (\"What are you doing?\") now comes out of something. (Round 3: the author found \"It was the only place in the world he knew, and Gerolt had set fire to it himself\" \"kind of… too melodramatic\". Now only the memory is left, and the meaning sits in it.)",
+   "decision": "rejected",
+   "decision_note": "\"I feel it's too much, the woken under it at night section.\" The house burns without comment."
   },
   {
-   "section": "Revision 3",
-   "title": "\"Caught the saddle\"",
+   "section": "The ride",
+   "title": "After the fall",
    "kind": "changed",
    "tags": [
-    "check"
+    "meaning",
+    "meaningcall"
    ],
-   "before": "Outside, the woman lurched to the nearest horse with one arm swinging loose at her side. She caught the saddle with the other and tried to haul herself up. Her boot slipped in the blood running off her face. Slipped again. At last she dragged herself across the horse's back and kicked it into the wheat.",
-   "after": "Outside, the woman lurched to the nearest horse with one arm swinging loose at her side. She got the other hand on the saddle and tried to haul herself up. Her boot slipped in the blood running off her face. Slipped again. At last she dragged herself across the horse's back and kicked it into the wheat.",
-   "why": "Too many repeats of the same verb in one chapter (\"caught\" 9 times, \"tore\" 9, \"dragged\" 6). Plain alternatives, same meaning."
+   "before": "Gerolt lay a few paces off in the bracken. The boy crawled to him on his hands and knees.",
+   "after": "Gerolt lay a few paces off, and he wasn't moving. The boy crawled to him on his hands and knees.",
+   "why": "Your note: \"I see a lot of someone did X, he did Y. Just add meaning to things.\" This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. Four words give him, and the reader, a moment of thinking Gerolt is dead before he swears. (Round 3: \"bracken\" became \"ferns\". The author asked \"what is bracken?\", so readers may not know it either.) (Round 3, second answer: \"I don't like 'ferns'\", so it's gone. Where they landed doesn't need a plant.)",
+   "decision": "accepted",
+   "decision_note": "\"Keep 'he wasn't moving'\", with \"ferns\" removed."
   },
   {
-   "section": "Revision 3",
-   "title": "\"Hooves tore away\"",
+   "section": "The forest",
+   "title": "By the river",
    "kind": "changed",
    "tags": [
-    "check"
+    "meaning",
+    "meaningcall"
    ],
-   "before": "Hooves tore away through the stalks, and her screaming went with them into the dark.",
-   "after": "Hooves crashed away through the stalks, and her screaming went with them into the dark.",
-   "why": "Too many repeats of the same verb in one chapter (\"caught\" 9 times, \"tore\" 9, \"dragged\" 6). Plain alternatives, same meaning."
+   "before": "He leaned against a tree and let himself down it until he was sitting. Alaric sank down beside him, too tired to stand, and listened back up the slope. Leaves moved in the wind. The water ran on below them. The torchlight had gone.",
+   "after": "He leaned against a tree and let himself down it until he was sitting. Alaric sank down beside him, too tired to stand, and listened back the way they had come. Leaves moved in the wind. The water ran on below them. The torchlight had gone. Nobody was coming.",
+   "why": "Your note: \"I see a lot of someone did X, he did Y. Just add meaning to things.\" This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. \"Nobody was coming\" is what he believes, reasoned from what he can hear, and it's wrong: the riders are already at the river. That's his flaw (\"believes things are right when they aren't\"), and it makes the relief the reader's too. (Final pass: \"up the slope\" came five times in the forest.)",
+   "call": "Add \"Nobody was coming.\"?",
+   "decision": "accepted",
+   "decision_note": "\"Yes.\""
   },
   {
-   "section": "Revision 3",
-   "title": "\"A cough tore through him\"",
+   "section": "The forest",
+   "title": "Why he laughs",
    "kind": "changed",
    "tags": [
-    "check"
+    "meaning",
+    "meaningcall"
    ],
-   "before": "A cough tore through him. Dark blood spattered the boards under his mouth.",
-   "after": "A cough shook him. Dark blood spattered the boards under his mouth.",
-   "why": "Too many repeats of the same verb in one chapter (\"caught\" 9 times, \"tore\" 9, \"dragged\" 6). Plain alternatives, same meaning."
+   "before": "Alaric laughed too. He couldn't have said why.",
+   "after": "Alaric laughed too, and couldn't stop. Gerolt was bleeding and the house was gone, and none of it was funny.",
+   "why": "Your note: \"I see a lot of someone did X, he did Y. Just add meaning to things.\" This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. This replaces \"He couldn't have said why\", which was call 7 on the redraft.",
+   "call": "The laugh with its meaning: yes?",
+   "decision": "accepted",
+   "decision_note": "\"I agree.\""
   },
   {
-   "section": "Revision 3",
-   "title": "\"Hissed\" twice",
+   "section": "The last stand",
+   "title": "Taking the sword",
    "kind": "changed",
    "tags": [
-    "check"
+    "meaning",
+    "meaningcall"
    ],
-   "before": "So the boy bunched up Gerolt's shirt and pressed it against the blood welling around the stone. Gerolt hissed through his teeth.",
-   "after": "So the boy bunched up Gerolt's shirt and pressed it against the blood welling around the stone. Gerolt sucked air through his teeth.",
-   "why": "\"Hiss\" twice in three paragraphs."
+   "before": "He held it out to Alaric hilt first. When Alaric didn't take it, he pushed it into his hands and closed his fingers around the grip.",
+   "after": "He held it out to Alaric hilt first. Alaric didn't take it. He had watched Gerolt fight with that sword tonight. If he took it, Gerolt wasn't coming, and he would be facing them with his bare hands. He would die here. Gerolt pressed it into his hands anyway and closed his fingers around the grip.",
+   "why": "Your note: \"I see a lot of someone did X, he did Y. Just add meaning to things.\" This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. He's smart (principle 1): he understands what the sword means before Gerolt says a word. (Round 3, the author: \"Add meaning that taking the sword also meant Alaric had seen Gerolt fighting with it, and taking it not only meant that Gerolt was not coming, it meant that Gerolt's fate was sealed, he wasn't going to be able to fight.\" Alaric doesn't know what Gerolt's fire can do. He has only seen a candle's worth, so to him Gerolt is left with his bare hands, and the hand of fire that follows surprises him.) (Final pass: \"pushed himself up\" is two lines before.)",
+   "decision": "accepted",
+   "decision_note": "Your idea; the words are mine."
   },
   {
-   "section": "Revision 3",
-   "title": "\"His breath caught\"",
+   "section": "The last stand",
+   "title": "Three steps",
    "kind": "changed",
    "tags": [
-    "check"
+    "meaning",
+    "meaningcall"
    ],
-   "before": "\"West,\" he said. \"Across the river. Kelmend.\" His breath caught on the stone, and he waited until he had it back. \"There's an inn by the south gate. Marta. Show her that. She'll know it.\"",
-   "after": "\"West,\" he said. \"Across the river. Kelmend.\" His breath snagged on the stone, and he waited until he had it back. \"There's an inn by the south gate. Marta. Show her that. She'll know it.\"",
-   "why": "Too many repeats of the same verb in one chapter (\"caught\" 9 times, \"tore\" 9, \"dragged\" 6). Plain alternatives, same meaning."
+   "before": "He had Wena's collar in one hand and the sword in the other, and he couldn't make his feet go any further.",
+   "after": "He had Wena's collar in one hand and the sword in the other, and his feet wouldn't go any further. He couldn't leave Gerolt alone with them.",
+   "why": "Your note: \"I see a lot of someone did X, he did Y. Just add meaning to things.\" This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. It says why he stops, which the draft left blank. (Round 3: \"down there is weird\", so it's now \"alone with them\".)",
+   "decision": "accepted",
+   "decision_note": "Reworded after \"down there is weird\"."
   },
   {
-   "section": "Revision 3",
-   "title": "\"He caught Gerolt's arm\"",
+   "section": "The last stand",
+   "title": "Blood on the ground",
    "kind": "changed",
    "tags": [
-    "check"
+    "author",
+    "author2",
+    "plain"
    ],
-   "before": "He caught Gerolt's arm. \"Please.\"",
-   "after": "He held on to Gerolt's arm. \"Please.\"",
-   "why": "Too many repeats of the same verb in one chapter (\"caught\" 9 times, \"tore\" 9, \"dragged\" 6). Plain alternatives, same meaning."
+   "before": "Gerolt didn't turn round. He coughed, and blood spattered the leaves in front of him.",
+   "after": "Gerolt didn't turn round. He coughed, and blood spattered the ground in front of him.",
+   "why": "The author: \"spattered the leaves / spattered the ground\".",
+   "decision": "accepted",
+   "decision_note": "Your note."
   },
   {
-   "section": "Revision 3",
-   "title": "\"Dragged in a thin breath\"",
-   "kind": "changed",
+   "section": "Silas",
+   "title": "The fire going out",
+   "kind": "added",
    "tags": [
-    "check"
+    "meaning",
+    "meaningcall"
    ],
-   "before": "\"On that field…\" He dragged in a thin, shaking breath. \"Found one lad still breathing.\"",
-   "after": "\"On that field…\" He drew a thin, shaking breath. \"Found one lad still breathing.\"",
-   "why": "Too many repeats of the same verb in one chapter (\"caught\" 9 times, \"tore\" 9, \"dragged\" 6). Plain alternatives, same meaning."
+   "before": "The fire on his hand went out.",
+   "after": "Alaric waited for the fire to come back. It had kept burning through both arrows. Now it was gone, and Gerolt's hand hung open at his side.",
+   "why": "Your note: \"I see a lot of someone did X, he did Y. Just add meaning to things.\" This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. It's the one line of his between Gerolt dying and the man turning, and it's hope, not an announcement. (Round 3, the author: \"what is it, give meaning to it\". \"It\" is now \"the fire\", and it carries what the fire meant: it burned through both arrows, and now it's out.) (Final pass: \"went out\" is the line before.)",
+   "decision": "accepted",
+   "decision_note": "Reworked after \"what is it, give meaning to it\"."
   },
   {
-   "section": "Revision 3",
-   "title": "\"Caught hold of the doorpost\"",
+   "section": "Silas",
+   "title": "The man reaches him",
    "kind": "changed",
    "tags": [
-    "check"
+    "author",
+    "eyes",
+    "author2"
    ],
-   "before": "Gerolt turned towards it. He caught hold of the doorpost and dragged himself up it. The stone shifted under his ribs, and blood ran freely down over his hip and into his boot, but he stood.",
-   "after": "Gerolt turned towards it. He got a hand on the doorpost and dragged himself up it. The stone shifted under his ribs, and blood ran freely down over his hip and into his boot, but he stood.",
-   "why": "Too many repeats of the same verb in one chapter (\"caught\" 9 times, \"tore\" 9, \"dragged\" 6). Plain alternatives, same meaning."
+   "before": "The man crossed to him in a few strides.",
+   "after": "The man was at his side before Alaric had noticed him move.",
+   "why": "The author: \"'The man crossed to him in a few strides.' The man was at him before he noticed, something like this.\" Alaric is staring at Gerolt, so the narration follows his attention: he doesn't see the man cross.",
+   "decision": "accepted",
+   "decision_note": "Your note."
   },
   {
-   "section": "Revision 3",
-   "title": "\"Caught on his side\"",
+   "section": "Silas",
+   "title": "Alaric can't get up",
    "kind": "changed",
    "tags": [
-    "check"
+    "author",
+    "meaning",
+    "author2"
    ],
-   "before": "Gerolt tried to turn over and stopped halfway with a hiss, caught on his side. Blood was spreading beneath him along the seams between the boards. The broken stone was still in him, and it moved when he breathed.",
-   "after": "Gerolt tried to turn over and stopped halfway with a hiss. Blood was spreading beneath him along the seams between the boards. The broken stone was still in him, and it moved when he breathed.",
-   "why": "Too many repeats of the same verb in one chapter (\"caught\" 9 times, \"tore\" 9, \"dragged\" 6). Plain alternatives, same meaning."
+   "before": "Alaric didn't get up. He couldn't look away from Gerolt.",
+   "after": "Alaric couldn't get up. He was staring at Gerolt. That old man had taken care of him until his dying breath, and now Alaric was going to leave him there and never see him again.",
+   "why": "The author: \"Should be more like: Alaric couldn't get up, he was staring at Gerolt, that old man had taken care of him until his dying breath and now, in this moment he was going to leave him and never see him again.\" Your words, with the punctuation added and \"in this moment\" dropped (\"now\" carries it). \"Alaric was going to leave him\" says who is leaving whom.",
+   "decision": "accepted",
+   "decision_note": "Your line. Say if you want \"in this moment\" back."
   },
   {
-   "section": "Revision 3",
-   "title": "\"He dragged in another\"",
+   "section": "Silas",
+   "title": "Dragged away",
    "kind": "changed",
    "tags": [
-    "check"
+    "meaning",
+    "meaningcall"
    ],
-   "before": "His first try at a breath failed. He dragged in another.",
-   "after": "His first try at a breath failed. He managed a second.",
-   "why": "Too many repeats of the same verb in one chapter (\"caught\" 9 times, \"tore\" 9, \"dragged\" 6). Plain alternatives, same meaning."
+   "before": "The man swore. He took Alaric by the collar and dragged him.",
+   "after": "The man swore, took Alaric by the collar and dragged him away from Gerolt.",
+   "why": "Your note: \"I see a lot of someone did X, he did Y. Just add meaning to things.\" This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. \"Away from Gerolt\" is the part that matters to Alaric.",
+   "call": "Add \"away from Gerolt\"?",
+   "decision": "accepted",
+   "decision_note": "\"Yes.\""
   },
   {
-   "section": "Revision 3",
-   "title": "Which hand strokes Wena",
+   "section": "The last stand",
+   "title": "\"Pushed\" three times",
    "kind": "changed",
    "tags": [
-    "check"
+    "craft"
    ],
-   "before": "Wena pushed her muzzle under Gerolt's hand. He stroked her once more, slowly this time, from between her ears all the way down the back of her neck.",
-   "after": "Wena pushed her muzzle under Gerolt's hand, and he let go of the boy's sleeve to stroke her once more, slowly this time, from between her ears all the way down the back of her neck.",
-   "why": "Final pass: by now one of Gerolt's hands is pressed hot to the floor and the other holds the boy's sleeve, so he has to let go to stroke her."
+   "before": "Gerolt pushed him back up the slope. There wasn't much strength in it. Then he turned towards the torches.",
+   "after": "Gerolt shoved him back up the slope. There wasn't much strength in it. Then he turned towards the torches.",
+   "why": "A craft fix. Round 2 put \"pushed it into his hands anyway\" two lines above this, and \"pushed himself up it\" is just before that. Three \"pushed\" in twelve lines."
   },
   {
-   "section": "Revision 3",
-   "title": "\"Warm under his knees\"",
+   "section": "The ride",
+   "title": "Bracken removed (the fall)",
    "kind": "changed",
    "tags": [
-    "check"
+    "plainword"
    ],
-   "before": "The cabin crashed back in around him. Arrows. Hoofbeats. Wena's whining. Gerolt's blood, warm under his knees.",
-   "after": "The cabin crashed back in around him. Arrows. Hoofbeats. Wena's whining. Gerolt's blood, warm on the boards beneath him.",
-   "why": "Final pass: he has just been slammed flat against the floor, so he isn't kneeling."
+   "before": "He landed on his back in bracken, and all the air went out of him. For a while he could only lie there with his mouth open, trying to get it back.",
+   "after": "He landed on his back, and all the air went out of him. For a while he could only lie there with his mouth open, trying to get it back.",
+   "why": "The author asked \"what is bracken?\" (a tall wild fern that grows at the edges of woods), then \"I don't like 'ferns'\". So the plant is gone. It was only there to say where they landed.",
+   "decision": "accepted",
+   "decision_note": "After \"what is bracken?\" and \"I don't like 'ferns'\"."
   },
   {
-   "section": "Revision 3",
-   "title": "\"Doorway\" twice",
+   "section": "The forest",
+   "title": "Bracken removed (the sword)",
    "kind": "changed",
    "tags": [
-    "check"
+    "plainword"
    ],
-   "before": "Torchlight moved around the cabin in pieces. Riders were closing on the doorway from both sides, and in the doorway, lit by their torches, stood Gerolt.",
-   "after": "Torchlight moved around the cabin in pieces. Riders were closing on the cabin from both sides, and in the doorway, lit by their torches, stood Gerolt.",
-   "why": "Final pass: \"doorway\" twice in one sentence."
+   "before": "The sword lay in the bracken beside him. Gerolt got its point into the ground again, and the boy got under his arm, and between them they got him standing. It took everything the boy had. It took everything Gerolt had too; the boy could feel it in the arm across his shoulders, shaking without stopping.",
+   "after": "The sword lay within reach of Gerolt's hand. He set its point in the ground again, the boy ducked under his arm, and between them they got him standing. It took everything the boy had. It took everything Gerolt had too; the boy could feel it in the arm across his shoulders, shaking without stopping.",
+   "why": "The author asked \"what is bracken?\" (a tall wild fern that grows at the edges of woods), then \"I don't like 'ferns'\". So the plant is gone. It was only there to say where they landed. (Final pass: \"beside him\" could have meant either of them, and the sentence had \"got\" three times.)",
+   "decision": "accepted",
+   "decision_note": "After \"what is bracken?\" and \"I don't like 'ferns'\"."
+  },
+  {
+   "section": "The forest",
+   "title": "Bracken removed (getting up)",
+   "kind": "changed",
+   "tags": [
+    "plainword"
+   ],
+   "before": "It was harder than before. Alaric's head was still ringing, and his arms were shaking before he'd even started, and Gerolt's weight kept trying to fold him over. But Gerolt was pushing too, harder than he had at the cabin or in the bracken, and between the two of them he came up off the roots and stayed up.",
+   "after": "It was harder than before. Alaric's head was still ringing, and his arms were shaking before he'd even started, and Gerolt's weight kept trying to fold him over. But Gerolt was pushing too, harder than he had at the cabin or where the horse fell, and between the two of them he came up off the roots and stayed up.",
+   "why": "The author asked \"what is bracken?\" (a tall wild fern that grows at the edges of woods), then \"I don't like 'ferns'\". So the plant is gone. It was only there to say where they landed.",
+   "decision": "accepted",
+   "decision_note": "After \"what is bracken?\" and \"I don't like 'ferns'\"."
+  },
+  {
+   "section": "The fire",
+   "title": "The wall, not the doorpost",
+   "kind": "changed",
+   "tags": [
+    "author4"
+   ],
+   "before": "The moon was high over the wheat. Gerolt stopped at the doorpost and leaned his shoulder against it, getting his breath. He looked back into the house.\n\n\"Well,\" he said to the house. \"Suppose that's goodbye, then.\"\n\nHe put his hand flat on the doorpost.",
+   "after": "The moon was high over the wheat. Gerolt stopped beside the empty doorway and leaned his shoulder against the wall, getting his breath. He looked back into the house.\n\n\"Well,\" he said to the house. \"Suppose that's goodbye, then.\"\n\nHe put his hand flat on the wall.",
+   "why": "The author, on call 2 of the redraft: \"'He put his hand flat on the doorpost.' Just make it the wall next to where the door was.\" The fire now runs up the wall (folded into change 5).",
+   "decision": "accepted",
+   "decision_note": "Your note."
+  },
+  {
+   "section": "The fire",
+   "title": "The hilt",
+   "kind": "changed",
+   "tags": [
+    "final"
+   ],
+   "before": "The boy brought it over. It was heavier than it looked, and the grip was slick. Gerolt set its point against the floor and closed both hands over the pommel.",
+   "after": "The boy brought it over. It was heavier than it looked, and the grip was slick. Gerolt set its point against the floor and closed both hands over the hilt.",
+   "why": "A craft fix from the final pass. \"Pommel\" is a word many readers won't know (the author's rule after \"bracken\")."
+  },
+  {
+   "section": "The fire",
+   "title": "Out over the dead elf",
+   "kind": "changed",
+   "tags": [
+    "final"
+   ],
+   "before": "They went out through the doorway one step at a time, over the dead elf. Wena came after them, pressed so close to the boy's leg that he nearly fell over her.",
+   "after": "They went out over the dead elf, a step at a time. Wena came after them, pressed so close to the boy's leg that he nearly fell over her.",
+   "why": "A craft fix from the final pass. The next paragraph starts \"beside the empty doorway\" (change 40), and the dead elf lies across the threshold, so \"through the doorway\" wasn't needed."
+  },
+  {
+   "section": "The fire",
+   "title": "Mounting the horse",
+   "kind": "changed",
+   "tags": [
+    "final"
+   ],
+   "before": "Getting him onto it was worse than getting him up. Gerolt laid the sword across the saddle, got a foot in the stirrup and both hands on it, and the boy put his shoulder under him and pushed. All of Gerolt's weight came down on him at once, and his knees started to go. Behind them the fire grew louder, and the horse sidled, and Gerolt cursed it under his breath. Then he dragged himself over and lay along its neck with his eyes shut.",
+   "after": "Getting him onto it was worse than getting him up. Gerolt laid the sword across the horse's back, got a foot in the stirrup and both hands on the saddle, and the boy put his shoulder under him and pushed. All of Gerolt's weight came down on him at once, and his knees started to go. Behind them the fire grew louder, and the horse stamped, and Gerolt cursed it under his breath. Then he dragged himself over and lay along its neck with his eyes shut.",
+   "why": "A craft fix from the final pass. \"Both hands on it\" could have meant the sword. \"Sidled\" became \"stamped\", a common word."
+  },
+  {
+   "section": "The fire",
+   "title": "The reins",
+   "kind": "changed",
+   "tags": [
+    "final"
+   ],
+   "before": "Gerolt pushed the reins into his hands. \"Don't haul on them.\"",
+   "after": "Gerolt put the reins in his hands. \"Don't haul on them.\"",
+   "why": "A craft fix from the final pass. \"Pushed\" was used six times in the chapter."
+  },
+  {
+   "section": "The forest",
+   "title": "Into the trees",
+   "kind": "changed",
+   "tags": [
+    "final"
+   ],
+   "before": "They went into the trees like that, one step and then another.",
+   "after": "They went into the trees like that.",
+   "why": "A craft fix from the final pass. \"One step at a time\" is used when they leave the cabin; the reader already knows how slow it is."
   }
  ]
 }

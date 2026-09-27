@@ -83,6 +83,8 @@ Check each of these for the same thing happening twice:
 
 - Alaric's guardrails: no sixth sense for danger, no hidden mastery, no polished explanations of himself.
 - A wrong belief is reached by reasoning, and isn't corrected on the page.
+- At every moment that matters to Alaric, does he feel or understand something on the page, in his own plain words? A run of "someone did X, he did Y" there is a fault (the author, 27 September: "Just add meaning to things"). Fights can stay fast.
+- Does the narration follow his attention? If he's staring at Gerolt, someone reaching him "before he noticed" is right, and "crossed to him in a few strides" is a camera.
 - Each person shows fear in their own way (design bible §9.4). For example, Gerolt gives instructions, and Alaric looks for a rule.
 - Voices pass the swap test (design bible §7.6): an important line couldn't be moved to another character without sounding wrong.
 
