@@ -6,10 +6,12 @@ Started 27 September 2026. This is the change list for Chapter 3. The first draf
 - **The author's notes:** the bridge is whole, watched by Kelmend's guards, with an elf rider already talking to them. "It's me. They're coming for me." is cut ("How does he know?"). The hands over his face now hold a picture of Gerolt well.
 - **Asked whether anything should be added:** Claude thinks the length is right for a quiet chapter after two loud ones. It proposes three small things that are missing rather than extra length: a glimpse of Silas's grief, Silas not having heard the battle either, and the chasing rider coming from the bridge.
 
+**Round 2 (27 September).** The bridge is as the author describes it: a small fire, guards chatting, a rider among them speaking, in joined-up sentences. The glimpse of Silas's grief and the rider from the bridge are accepted. Silas's reaction becomes disbelief ("a battle that size on Gerolt's farm would be the talk of Kelmend"). Three point-of-view fixes make everything Alaric can't see in the cave, with his hands over his face or his eyes on the sword, something he hears.
+
 ## At a glance
 
-- **7 changes proposed.** 0 rejected so far, so 7 are in the chapter: 7 rewritten, 0 cut and 0 added.
-- **Length:** 1,896 words before, 1,978 after.
+- **10 changes proposed.** 0 rejected so far, so 10 are in the chapter: 10 rewritten, 0 cut and 0 added.
+- **Length:** 1,896 words before, 1,986 after.
 - **Median paragraph:** 16 words before, 16 after. The house target is roughly 14–22.
 - **"Nothing":** 3 times before, 3 after.
 
@@ -17,16 +19,17 @@ Started 27 September 2026. This is the change list for Chapter 3. The first draf
 
 Each of these needs a yes or no from you. It adds something about a character or the world that you haven't decided, or it's a change you didn't ask for.
 
-- **Change 4, Silas gives the sword back.** Add "and didn't let go of it straight away"?
-- **Change 5, The rider from the bridge.** Add "from the bridge"?
-- **Change 7, Silas didn't hear it either.** Add Silas's line?
+- Nothing is waiting on you. Every change that needed your answer has one.
 
 **Already decided**
 
-- **Change 1, The bridge, and the guards:** Your two notes. The staging and the guards' nodding are mine.
+- **Change 1, The bridge, and the guards:** Your notes, rounds 1 and 2.
 - **Change 2, A fallen tree, not the bridge:** Follows your bridge note.
 - **Change 3, Along the trunk:** Follows your bridge note.
+- **Change 4, Silas gives the sword back:** "Add a glimpse of Silas's grief."
+- **Change 5, The rider from the bridge:** "Agreed."
 - **Change 6, Behind his hands:** Your idea; the words are mine. Tell me if it's too much.
+- **Change 7, Silas doesn't believe him:** Your line; the words are mine.
 
 ## What each note became
 
@@ -34,6 +37,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 2. **"How does he know they are coming for him?"** He can't, so it's cut (in change 1).
 3. **Behind his hands:** Gerolt at supper, well, and seeing Silas would make it real (change 6).
 4. **Proposed additions:** changes 4, 5, 7.
+5. **Round 2:** Silas doesn't believe him (change 7). Point-of-view fixes: changes 8, 9, 10.
 
 ## The changes
 
@@ -63,9 +67,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> The slope brought them down towards the water, and through the trees ahead Alaric saw lanterns.
+> The slope brought them down towards the water, and through the trees ahead Alaric saw a light.
 >
-> A bridge crossed the river there. At its near end stood a hut with a lantern hung by the door, and four men in helmets were standing round it with spears. A rider sat his horse among them. The lantern caught his pale hair, bound back, and the point of one ear. One of the men was talking up at him, nodding and nodding.
+> A small fire burned at the near end of a bridge, and four men in helmets stood round it with their spears, talking among themselves. A rider sat his horse in the middle of them, speaking down to them, with the firelight on his pale hair and the point of one ear, and one of the guards kept nodding up at him.
 >
 > The man pulled Alaric down behind a tree by his collar.
 >
@@ -81,9 +85,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 >
 > The river was wide and loud. It broke white over the rocks below them and ran quick and smooth everywhere else.
 
-**Why.** The author: "The bridge shouldn't be broken. Guards from Kelmend watch it, but an elf rider is already there speaking to the guards." So Alaric *sees* Mydea standing with Natharul before Silas says it in the cave ("Them whoreson guards would sell their own mothers to Natharul"). Also the author: "'It's me. They're coming for me.' How does he know they are coming for him?" He can't, so that thought and the look down at himself that led to it are gone. His question stays: *"They've already killed him. Why are they still coming?"*
+**Why.** The author: "The bridge shouldn't be broken. Guards from Kelmend watch it, but an elf rider is already there speaking to the guards." So Alaric *sees* Mydea standing with Natharul before Silas says it in the cave ("Them whoreson guards would sell their own mothers to Natharul"). Also the author: "'It's me. They're coming for me.' How does he know they are coming for him?" He can't, so that thought and the look down at himself that led to it are gone. His question stays: *"They've already killed him. Why are they still coming?"* (Round 2, the author: "No hut, no lantern. They are standing around a small fire chatting, and a rider is amongst them speaking. Make the sentences combine so they don't sound robotic.")
 
-**Your decision.** Your two notes. The staging and the guards' nodding are mine.
+**Your decision.** Your notes, rounds 1 and 2.
 
 ### The river
 
@@ -133,7 +137,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Why.** Proposed in answer to "do you think more should be added anywhere?" His master has just died in front of him, and until now Silas shows no sign of feeling it. This is one glimpse, seen through Alaric's hands, with nothing explained.
 
-**Your call.** Add "and didn't let go of it straight away"?
+**Your decision.** "Add a glimpse of Silas's grief."
 
 ### The last elf
 
@@ -151,7 +155,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Why.** Proposed. It's the elf from the bridge, who has heard or seen them cross. So the chase has a cause, and nobody says so.
 
-**Your call.** Add "from the bridge"?
+**Your decision.** "Agreed."
 
 ### The cave
 
@@ -175,7 +179,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Your decision.** Your idea; the words are mine. Tell me if it's too much.
 
-#### 7. Silas didn't hear it either
+#### 7. Silas doesn't believe him
 
 *Draft lines 161–163 → revised lines 163–167*
 
@@ -189,10 +193,60 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 > *If he'd left me in the mud, he'd be asleep in his own bed right now.*
 >
-> "Thousands." Silas's voice was flat. "I'm an hour down the river from that farm. I didn't hear a thing last night."
+> "Thousands." Silas snorted. "A battle that size on Gerolt's farm would be the talk of Kelmend, boy, and there wasn't a sound last night."
 >
-> Alaric didn't answer. After a while, Silas spoke again, to the blade. "So what now? You're not bringing more elves to my door."
+> Alaric didn't answer. After a while, Silas spoke again. "So what now? You're not bringing more elves to my door."
 
-**Why.** Proposed. The author wanted Silas "asking more questions to understand what is going on", but so far he doesn't react to anything Alaric tells him. He lives close by, so if he didn't hear a battle of thousands either, that's a second witness to the silence. It deepens the mystery without explaining it. "That farm" says he knew it and kept away. The line is mine, so give me yours if it isn't how he'd say it.
+**Why.** The author: "'I'm an hour down the river from that farm. I didn't hear a thing last night.' Sounds way too specific. He should be like: a battle on Gerolt's farm would be the talk of Kelmend, and not a sound was heard last night. He is struggling to believe Alaric's answers." Also a point-of-view fix: Alaric's hands are still over his face here, so Silas can't be seen speaking "to the blade". Only the snort and the words reach him.
 
-**Your call.** Add Silas's line?
+**Your decision.** Your line; the words are mine.
+
+#### 8. What he can hear
+
+*Draft line 159 → revised line 161*
+
+**Before**
+
+> The fire cracked. The rag went along the blade and back.
+
+**After**
+
+> The fire cracked. He could hear the rag going along the blade and back.
+
+**Why.** A point-of-view fix from round 2. Alaric's hands are over his face, so the rag is something he hears.
+
+#### 9. The rag stops
+
+*Draft lines 169–173 → revised lines 173–177*
+
+**Before**
+
+> Silas's hands stopped.
+>
+> "Marta."
+>
+> He said it to the blade, not to Alaric. Then the rag moved again, harder than before.
+
+**After**
+
+> The rag stopped, and Alaric looked up.
+>
+> "Marta."
+>
+> Silas said it to the blade, not to Alaric. Then the rag moved again, harder than before.
+
+**Why.** A point-of-view fix from round 2. Alaric is looking at the sword across his knees ("He didn't look up"), so he can't see Silas's hands stop. He hears the rag stop, and looks up in time to see who Silas says the name to.
+
+#### 10. Already looking at the fire
+
+*Draft line 181 → revised line 185*
+
+**Before**
+
+> Alaric looked up. Silas was already looking at the fire.
+
+**After**
+
+> Alaric stared at him, but Silas was already looking at the fire.
+
+**Why.** A point-of-view fix from round 2. He has already looked up (change 10). The two short sentences are joined too.

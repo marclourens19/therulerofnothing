@@ -42,9 +42,9 @@ Alaric didn't know how, and there was no time to ask. The man was already moving
 
 *So don't stop.*
 
-The slope brought them down towards the water, and through the trees ahead Alaric saw lanterns.
+The slope brought them down towards the water, and through the trees ahead Alaric saw a light.
 
-A bridge crossed the river there. At its near end stood a hut with a lantern hung by the door, and four men in helmets were standing round it with spears. A rider sat his horse among them. The lantern caught his pale hair, bound back, and the point of one ear. One of the men was talking up at him, nodding and nodding.
+A small fire burned at the near end of a bridge, and four men in helmets stood round it with their spears, talking among themselves. A rider sat his horse in the middle of them, speaking down to them, with the firelight on his pale hair and the point of one ear, and one of the guards kept nodding up at him.
 
 The man pulled Alaric down behind a tree by his collar.
 
@@ -158,23 +158,23 @@ Silas didn't interrupt.
 
 "He fed me. He looked after me." His voice went, and he waited until it came back. "Then they came, and he didn't even stop to think. He killed one and cut the other one apart."
 
-The fire cracked. The rag went along the blade and back.
+The fire cracked. He could hear the rag going along the blade and back.
 
 *If he'd left me in the mud, he'd be asleep in his own bed right now.*
 
-"Thousands." Silas's voice was flat. "I'm an hour down the river from that farm. I didn't hear a thing last night."
+"Thousands." Silas snorted. "A battle that size on Gerolt's farm would be the talk of Kelmend, boy, and there wasn't a sound last night."
 
-Alaric didn't answer. After a while, Silas spoke again, to the blade. "So what now? You're not bringing more elves to my door."
+Alaric didn't answer. After a while, Silas spoke again. "So what now? You're not bringing more elves to my door."
 
 Alaric took his hands away from his face and looked at the sword across his knees.
 
 "I'm not staying." He didn't look up. "Gerolt told me where to go. Kelmend. Marta, at the inn by the south gate."
 
-Silas's hands stopped.
+The rag stopped, and Alaric looked up.
 
 "Marta."
 
-He said it to the blade, not to Alaric. Then the rag moved again, harder than before.
+Silas said it to the blade, not to Alaric. Then the rag moved again, harder than before.
 
 "Hate to break it to you, boy, but Kelmend's no good. Them whoreson guards would sell their own mothers to Natharul if it meant they got to *live*. A boy like you means nothing to them."
 
@@ -182,7 +182,7 @@ He turned the blade over and looked along its edge.
 
 "We'll need another way in."
 
-Alaric looked up. Silas was already looking at the fire.
+Alaric stared at him, but Silas was already looking at the fire.
 
 Silas didn't say much after that. He ate something out of the sack and pushed the sack across to Alaric, and when Alaric didn't touch it, he didn't push it again. The fire burned down. When the gaps in the bush had begun to go grey, he took up his blade and went to the mouth of the cave.
 

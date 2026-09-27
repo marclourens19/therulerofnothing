@@ -290,6 +290,11 @@ The plan is built in `Volume 1/Chapter 3 - Design.md`.
   - "*It's me. They're coming for me.*" is cut: "How does he know they are coming for him?"
   - **Behind his hands** is a picture of Gerolt well, and seeing Silas "would make reality set in".
   - The author asked whether to add anything. Claude kept the length and proposed three small additions: a glimpse of Silas's grief, Silas not having heard the battle either, and the chasing rider coming from the bridge.
+- **Round 2 (27 September).**
+  - **The bridge:** "no hut, no lantern". The guards stand round a small fire, chatting, with the rider among them speaking, in joined-up sentences.
+  - **Accepted:** Silas's grief glimpse (he doesn't let go of the sword straight away), and the rider from the bridge.
+  - **Silas doesn't believe him:** "A battle that size on Gerolt's farm would be the talk of Kelmend, boy, and there wasn't a sound last night." He's "struggling to believe Alaric's answers".
+  - Point-of-view fixes: while his eyes are covered or down, Alaric only hears.
 
 ## Alaric
 

@@ -3,9 +3,9 @@
  "draft": "Chapter 3 - The Weight of the Living (Draft 1).md",
  "chapter": "../Chapter 3 - The Weight of the Living.md",
  "changes_file": "../Chapter 3 - Changes.md",
- "intro_md": "Started 27 September 2026. This is the change list for Chapter 3. The first draft is compared with the old chapters in `Chapter 3 - From the Old Chapters.md`, and is saved unchanged as `Drafts/Chapter 3 - The Weight of the Living (Draft 1).md`. Every round of changes goes here as a change against it.\n\n**Round 1 (27 September): the author's notes on the draft, and what else it needs.**\n- **The author's notes:** the bridge is whole, watched by Kelmend's guards, with an elf rider already talking to them. \"It's me. They're coming for me.\" is cut (\"How does he know?\"). The hands over his face now hold a picture of Gerolt well.\n- **Asked whether anything should be added:** Claude thinks the length is right for a quiet chapter after two loud ones. It proposes three small things that are missing rather than extra length: a glimpse of Silas's grief, Silas not having heard the battle either, and the chasing rider coming from the bridge.",
+ "intro_md": "Started 27 September 2026. This is the change list for Chapter 3. The first draft is compared with the old chapters in `Chapter 3 - From the Old Chapters.md`, and is saved unchanged as `Drafts/Chapter 3 - The Weight of the Living (Draft 1).md`. Every round of changes goes here as a change against it.\n\n**Round 1 (27 September): the author's notes on the draft, and what else it needs.**\n- **The author's notes:** the bridge is whole, watched by Kelmend's guards, with an elf rider already talking to them. \"It's me. They're coming for me.\" is cut (\"How does he know?\"). The hands over his face now hold a picture of Gerolt well.\n- **Asked whether anything should be added:** Claude thinks the length is right for a quiet chapter after two loud ones. It proposes three small things that are missing rather than extra length: a glimpse of Silas's grief, Silas not having heard the battle either, and the chasing rider coming from the bridge.\n\n**Round 2 (27 September).** The bridge is as the author describes it: a small fire, guards chatting, a rider among them speaking, in joined-up sentences. The glimpse of Silas's grief and the rider from the bridge are accepted. Silas's reaction becomes disbelief (\"a battle that size on Gerolt's farm would be the talk of Kelmend\"). Three point-of-view fixes make everything Alaric can't see in the cave, with his hands over his face or his eyes on the sword, something he hears.",
  "glance": [],
- "summary_md": "## What each note became\n\n1. **The bridge:** whole, guarded, with the elf rider talking to Kelmend's guards. Change {tag:author}, with {tag:knock} following from it.\n2. **\"How does he know they are coming for him?\"** He can't, so it's cut (in change 1).\n3. **Behind his hands:** Gerolt at supper, well, and seeing Silas would make it real (change 6).\n4. **Proposed additions:** changes {tag:proposal}.",
+ "summary_md": "## What each note became\n\n1. **The bridge:** whole, guarded, with the elf rider talking to Kelmend's guards. Change {tag:author}, with {tag:knock} following from it.\n2. **\"How does he know they are coming for him?\"** He can't, so it's cut (in change 1).\n3. **Behind his hands:** Gerolt at supper, well, and seeing Silas would make it real (change 6).\n4. **Proposed additions:** changes {tag:proposal}.\n5. **Round 2:** Silas doesn't believe him (change 7). Point-of-view fixes: changes {tag:pov}.",
  "sections": {
   "The bridge": "The run and the bridge",
   "The river": "The river",
@@ -21,10 +21,10 @@
     "author"
    ],
    "before": "The slope brought them down to the water where a track met the bank. A bridge crossed there, or it had. Its near end stood on the bank as it should, but halfway over, the planks stopped, and the rest of it hung down into the river from the far side, twisting in the current. The broken ends were pale and splintered.\n\nThe man swore. \"They've brought the bridge down.\"\n\nHe looked upstream. Torches were moving along the bank towards them.\n\n*They've already killed him. Why are they still coming?*\n\nAlaric looked at the torches, then down at himself: the sword, his hands, Gerolt's blood stiffening on his sleeves.\n\n*It's me. They're coming for me.*\n\n\"We cross here,\" the man said.\n\nThe river was wide, and loud enough that he'd had to raise his voice. It broke white over the rocks around the fallen end of the bridge and ran quick and smooth everywhere else.",
-   "after": "The slope brought them down towards the water, and through the trees ahead Alaric saw lanterns.\n\nA bridge crossed the river there. At its near end stood a hut with a lantern hung by the door, and four men in helmets were standing round it with spears. A rider sat his horse among them. The lantern caught his pale hair, bound back, and the point of one ear. One of the men was talking up at him, nodding and nodding.\n\nThe man pulled Alaric down behind a tree by his collar.\n\n\"Kelmend's guards,\" he said under his breath, and spat.\n\nBehind them, torches were moving along the bank.\n\n*They've already killed him. Why are they still coming?*\n\nThe man looked from the bridge to the torches, and then down at the river below them.\n\n\"We cross here,\" he said.\n\nThe river was wide and loud. It broke white over the rocks below them and ran quick and smooth everywhere else.",
-   "why": "The author: \"The bridge shouldn't be broken. Guards from Kelmend watch it, but an elf rider is already there speaking to the guards.\" So Alaric *sees* Mydea standing with Natharul before Silas says it in the cave (\"Them whoreson guards would sell their own mothers to Natharul\"). Also the author: \"'It's me. They're coming for me.' How does he know they are coming for him?\" He can't, so that thought and the look down at himself that led to it are gone. His question stays: *\"They've already killed him. Why are they still coming?\"*",
+   "after": "The slope brought them down towards the water, and through the trees ahead Alaric saw a light.\n\nA small fire burned at the near end of a bridge, and four men in helmets stood round it with their spears, talking among themselves. A rider sat his horse in the middle of them, speaking down to them, with the firelight on his pale hair and the point of one ear, and one of the guards kept nodding up at him.\n\nThe man pulled Alaric down behind a tree by his collar.\n\n\"Kelmend's guards,\" he said under his breath, and spat.\n\nBehind them, torches were moving along the bank.\n\n*They've already killed him. Why are they still coming?*\n\nThe man looked from the bridge to the torches, and then down at the river below them.\n\n\"We cross here,\" he said.\n\nThe river was wide and loud. It broke white over the rocks below them and ran quick and smooth everywhere else.",
+   "why": "The author: \"The bridge shouldn't be broken. Guards from Kelmend watch it, but an elf rider is already there speaking to the guards.\" So Alaric *sees* Mydea standing with Natharul before Silas says it in the cave (\"Them whoreson guards would sell their own mothers to Natharul\"). Also the author: \"'It's me. They're coming for me.' How does he know they are coming for him?\" He can't, so that thought and the look down at himself that led to it are gone. His question stays: *\"They've already killed him. Why are they still coming?\"* (Round 2, the author: \"No hut, no lantern. They are standing around a small fire chatting, and a rider is amongst them speaking. Make the sentences combine so they don't sound robotic.\")",
    "decision": "accepted",
-   "decision_note": "Your two notes. The staging and the guards' nodding are mine."
+   "decision_note": "Your notes, rounds 1 and 2."
   },
   {
    "section": "The river",
@@ -62,7 +62,8 @@
    "before": "The man knelt in the shallows, getting his breath. He had run out of things to swear at. He pulled Gerolt's sword out of his belt and gave it back to Alaric.",
    "after": "The man knelt in the shallows, getting his breath. He had run out of things to swear at. He pulled Gerolt's sword out of his belt and gave it back to Alaric, and didn't let go of it straight away.",
    "why": "Proposed in answer to \"do you think more should be added anywhere?\" His master has just died in front of him, and until now Silas shows no sign of feeling it. This is one glimpse, seen through Alaric's hands, with nothing explained.",
-   "call": "Add \"and didn't let go of it straight away\"?"
+   "decision": "accepted",
+   "decision_note": "\"Add a glimpse of Silas's grief.\""
   },
   {
    "section": "The last elf",
@@ -74,7 +75,8 @@
    "before": "Alaric heard it a heartbeat after she did: a horse on this side of the river, coming fast along the bank.",
    "after": "Alaric heard it a heartbeat after she did: a horse on this side of the river, coming fast along the bank from the bridge.",
    "why": "Proposed. It's the elf from the bridge, who has heard or seen them cross. So the chase has a cause, and nobody says so.",
-   "call": "Add \"from the bridge\"?"
+   "decision": "accepted",
+   "decision_note": "\"Agreed.\""
   },
   {
    "section": "The cave",
@@ -91,15 +93,49 @@
   },
   {
    "section": "The cave",
-   "title": "Silas didn't hear it either",
+   "title": "Silas doesn't believe him",
    "kind": "changed",
    "tags": [
     "proposal"
    ],
    "before": "*If he'd left me in the mud, he'd be asleep in his own bed right now.*\n\nWhen Silas spoke again, it was to the blade. \"So what now? You're not bringing more elves to my door.\"",
-   "after": "*If he'd left me in the mud, he'd be asleep in his own bed right now.*\n\n\"Thousands.\" Silas's voice was flat. \"I'm an hour down the river from that farm. I didn't hear a thing last night.\"\n\nAlaric didn't answer. After a while, Silas spoke again, to the blade. \"So what now? You're not bringing more elves to my door.\"",
-   "why": "Proposed. The author wanted Silas \"asking more questions to understand what is going on\", but so far he doesn't react to anything Alaric tells him. He lives close by, so if he didn't hear a battle of thousands either, that's a second witness to the silence. It deepens the mystery without explaining it. \"That farm\" says he knew it and kept away. The line is mine, so give me yours if it isn't how he'd say it.",
-   "call": "Add Silas's line?"
+   "after": "*If he'd left me in the mud, he'd be asleep in his own bed right now.*\n\n\"Thousands.\" Silas snorted. \"A battle that size on Gerolt's farm would be the talk of Kelmend, boy, and there wasn't a sound last night.\"\n\nAlaric didn't answer. After a while, Silas spoke again. \"So what now? You're not bringing more elves to my door.\"",
+   "why": "The author: \"'I'm an hour down the river from that farm. I didn't hear a thing last night.' Sounds way too specific. He should be like: a battle on Gerolt's farm would be the talk of Kelmend, and not a sound was heard last night. He is struggling to believe Alaric's answers.\" Also a point-of-view fix: Alaric's hands are still over his face here, so Silas can't be seen speaking \"to the blade\". Only the snort and the words reach him.",
+   "decision": "accepted",
+   "decision_note": "Your line; the words are mine."
+  },
+  {
+   "section": "The cave",
+   "title": "What he can hear",
+   "kind": "changed",
+   "tags": [
+    "pov"
+   ],
+   "before": "The fire cracked. The rag went along the blade and back.",
+   "after": "The fire cracked. He could hear the rag going along the blade and back.",
+   "why": "A point-of-view fix from round 2. Alaric's hands are over his face, so the rag is something he hears."
+  },
+  {
+   "section": "The cave",
+   "title": "The rag stops",
+   "kind": "changed",
+   "tags": [
+    "pov"
+   ],
+   "before": "Silas's hands stopped.\n\n\"Marta.\"\n\nHe said it to the blade, not to Alaric. Then the rag moved again, harder than before.",
+   "after": "The rag stopped, and Alaric looked up.\n\n\"Marta.\"\n\nSilas said it to the blade, not to Alaric. Then the rag moved again, harder than before.",
+   "why": "A point-of-view fix from round 2. Alaric is looking at the sword across his knees (\"He didn't look up\"), so he can't see Silas's hands stop. He hears the rag stop, and looks up in time to see who Silas says the name to."
+  },
+  {
+   "section": "The cave",
+   "title": "Already looking at the fire",
+   "kind": "changed",
+   "tags": [
+    "pov"
+   ],
+   "before": "Alaric looked up. Silas was already looking at the fire.",
+   "after": "Alaric stared at him, but Silas was already looking at the fire.",
+   "why": "A point-of-view fix from round 2. He has already looked up (change 10). The two short sentences are joined too."
   }
  ]
 }
