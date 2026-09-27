@@ -150,6 +150,19 @@ One night into first light, in Alaric's eyes:
 
 Alaric's thoughts are built from the author's round 1 words ("Gerolt just died because of me, it's all my fault", "why are these elves trying to kill him, what was that war on Gerolt's farm, what is happening"). They're shown to the author in voice, turn by turn. The spoken lines wait for the author's own rough versions first.
 
+**The author's notes on the thoughts (27 September).**
+- "And the field… I feel there is a better way. Maybe say something about the battle or Gerolt's farm. Saying 'the field' doesn't have emotional impact, and just reads like a generic title for something." The same went for "I woke up in his field" in Alaric's answer ("again repeated here").
+- Thoughts 1, 2, 3 and 5 stand. "Empty" isn't talked about yet ("No, they don't talk about that yet").
+
+**The author's rough lines (27 September), with the voiced versions shown to the author:**
+1. **Silas grounding him:** "Boy, stop drowning in self-pity and do something. If you want to die, fine, stay. Make Gerolt's death mean he died for nothing." "It should be harsh."
+2. **At the bank:** "Leave the dog, we won't survive the crossing carrying a mutt hanging on to its dead master." "Maybe not as harsh, but it should be there." Alaric grabs her anyway, and tries to cross with her in his arms.
+3. **The anger:** Alaric: you killed some, you could have fought and saved him. Silas fights back: "and you did nothing".
+4. **The name:** after the back and forth, Alaric asks his name. "Silas should be straight and just say 'Silas'."
+5. **Silas's questions:** "So how did the old man know you? Something must have drawn them to be so aggressive. What happened back there?" Alaric answers.
+6. **"Marta":** Silas: "Well, what do you plan to do now? You ain't drawing more elves to my doorstep." Alaric: Gerolt told me to find a woman named Marta. Silas is shocked.
+7. **Kelmend:** "Well, boy, hate to break it to you, but Kelmend's no good. Them whoreson guards would sell their own mothers to Natharul just so they could *live*. A boy like you will mean nothing to them."
+
 ### Later
 
 - The important lines, designed together once the shape is agreed. They include Alaric's thoughts, Silas's first real exchange with him, and "Marta".
