@@ -351,6 +351,12 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - **No explaining in her thoughts.** "That tree hasn't grown a hand's width in my whole life" was "against chapter rules, explaining things like a hand's width, doesn't make any sense". It's now "How in the world did the tree grow so big? Yesterday it was way smaller. How long was I in that room?"
   - **Her snap must break.** "You couldn't say. Of course you couldn't." "sounds weird": make it one sentence, "Of course, no one can say anything." And "Were you told to stand there…" "doesn't sound angry at all. Seralune must break here, like 'ARRGHH, WHY CAN'T ANYONE JUST SAY WHAT IS GOING ON!?'"
   - **Her anger at Thaer,** in the author's words: "You told me to follow you and I did, you told me to rest and I did, I waited, and now I want answers, I want them now." / "I'm not a child any more, Thaer, I want to know what is going on." / Thaer: "Seralune, get some rest, I will be back in the morning."
+- **Round 5 (27 September).**
+  - **The airship she sees is the royal warship itself, leaving** (agreed). Ships in her time were "smaller, not this big": "not in her time, 1000 years ago".
+  - **The fight with her mother she can't remember is a hole where Alaric was:** "Yes." It stays unexplained on the page.
+  - **"You said you'd be back before evening, too."** Keep.
+  - **The first draft of Chapter 4 begins:** "begin the chapter".
+- **First draft written (27 September):** `Volume 1/Chapter 4 - Before Evening.md` (2,651 words, working title), compared with the old coda in `Volume 1/Chapter 4 - From the Old Chapters.md`. It has eight calls for the author: the scream in the white, the silent falls, how her mana feels when she's frightened, Thaer's knocks and the cut door, "He smelled of horses", the crystal's inside pulling, the length, and the title.
 
 ## Alaric
 

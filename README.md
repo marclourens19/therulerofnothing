@@ -20,7 +20,8 @@ The story is being re-planned from the beginning. Current work lives in **New - 
   - `Chapter 2 - From the Old Chapter.md`: the first new Chapter 2 (Version 1) compared with the old one, scene by scene.
   - `Chapter 3 - Design.md`: the plan for Chapter 3, agreed question by question.
   - `Chapter 3 - The Weight of the Living.md`: the first draft (27 September), compared with the old chapters in `Chapter 3 - From the Old Chapters.md`.
-  - `Chapter 4 - Design.md`: the plan for Chapter 4, Seralune's first chapter, agreed question by question.
+  - `Chapter 4 - Design.md`: the plan for Chapters 4 and 5, Seralune's first two chapters, agreed question by question.
+  - `Chapter 4 - Before Evening.md`: the first draft (27 September), compared with the old coda in `Chapter 4 - From the Old Chapters.md`.
   - `Drafts/`: earlier versions of the chapters, kept unchanged.
 
 ## The rewriting skill

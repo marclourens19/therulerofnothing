@@ -1,6 +1,6 @@
 # Chapter 4: Design
 
-Started 27 September 2026. **Status:** rounds 1–4 answered, and the lines are revised from the author's notes. Round 5 has four small confirmations before the first draft of Chapter 4. This is the plan for Chapters 4 and 5, Seralune's first two chapters, agreed one question at a time before any writing, following the `chapter-rewrite` skill.
+Started 27 September 2026. **Status:** rounds 1–5 answered. The first draft of Chapter 4 is written: `Chapter 4 - Before Evening.md`, compared with the old coda in `Chapter 4 - From the Old Chapters.md`, with eight calls for the author. Chapter 5's lines are agreed; Chapter 5 is written after Chapter 4 is settled. This is the plan for Chapters 4 and 5, Seralune's first two chapters, agreed one question at a time before any writing, following the `chapter-rewrite` skill.
 
 ## Where the story stands
 
@@ -463,3 +463,9 @@ What I took from the Alisaie lines: she reasons her way forward out loud, she's 
 2. **The fight with her mother** that she can't remember. Is that a hole where Alaric was? On the page it stays exactly as you wrote it either way, unexplained. I only need to know for later, so nothing contradicts it.
 3. **"You said you'd be back before evening, too."** Keep it or cut it? To her the promise was this morning, and it's night. To the reader it was a thousand years ago.
 4. **Next: the first draft of Chapter 4.** If these are right, I'll write it: the whole day in the seal, in her eyes, ending on the fear in Thaer's eyes.
+
+**Answers (27 September).**
+1. **The airship:** "Yes, not in her time. 1000 years ago they were smaller, not this big." So she has seen ships that fly, but nothing like this one.
+2. **The fight she can't remember** is a hole where Alaric was: "Yes." It stays unexplained on the page.
+3. **"You said you'd be back before evening, too":** "Yes, keep."
+4. **"Begin the chapter."**
