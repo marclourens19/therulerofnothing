@@ -11,6 +11,7 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - Never name a character or give one a trait without the author's input.
 - **Whose eyes.** "Always stay in Alaric's eyes when the chapter is about him." *(Agreed 26 September.)*
 - **Rewritten chapters use the characters we decided, not the old drafts.** The old chapters were written before the characters were redesigned. For example, Gerolt must sound like Cid. "This is the same for all future chapters we rewrite." *(Agreed 26 September.)*
+- **Important dialogue is designed together** (27 September). The author: "let's design conversations together in the chapter. I will give my input on how important lines between characters must read, with your input as well. I often tend to put it in my own voice, but you move it from my voice to the characters we agreed." So the author gives the line in their own words, and Claude gives it back in the agreed character's voice, with both shown side by side.
 - Principles settled here become the rules of the rewriting skill. The skill is `.claude/skills/chapter-rewrite/` (created 26 September, after Chapter 1). When a principle here changes, update the skill to match.
 
 ## Principles
@@ -181,6 +182,16 @@ The plan is built in `Volume 1/Chapter 2 - Design.md`.
 - **Chapter 1's ending stays** ("I like chapter 1's ending").
 - **Gerolt lives longer.** The author: "maybe we can make Gerolt live for a bit longer with him and Alaric running somewhere, then Gerolt dies and gives his sword and Wena to Alaric at the end of chapter 2." The handover and his death move from the cabin to the end of the run. The details are being designed in round 5 of the design file.
 - **Alaric's thoughts come back** into Chapter 2, in his own words, and we work them out together.
+- **The new shape (round 5, answered 27 September):**
+  - **The door stays as written.** In the fight, Gerolt *dodges* Liluth's stone instead of taking it under the ribs, then cuts her. "Maybe he is injured as well."
+  - **Gerolt sets his own house on fire** as they leave, "knowing there is no coming back".
+  - **He leads the riders away from his neighbours.** "Gerolt knows he needs to lead the elves away or they will kill his neighbours, so they both get on the horse outside and run towards the forest."
+  - **Alaric part-carries him** at some point (agreed).
+  - **The name comes on the run,** at the worst moment, and "There you are" is said with time still left (agreed).
+  - **His death comes just when it looks as though they've made it** (agreed). He gives the sword and Wena in a handful of words, and there's no long goodbye.
+  - **Silas is there.** The author: "maybe Gerolt makes his last stand in front of a few elves, is shot with a couple of arrows and falls to his knees. Silas comes through and cuts down the remaining riders, and he and Alaric RUN."
+  - **What burns:** "the house and some riders on Gerolt's last stand".
+  - The details still to settle are round 6 of the design file.
 
 The decisions below were made for the first version. Each will be checked against the redesign.
 
@@ -248,11 +259,12 @@ The decisions below were made for the first version. Each will be checked agains
 - **From Cid (FFXVI):** a mix of the humour and the damage underneath.
 - **His fear.** He knows what people do to those with no magic, and he's scared the boy won't survive in this world, on top of the boy knowing nothing about himself. He can't shelter him because of what would happen, but he doesn't want to harm him either.
 - **Why he doesn't use fire until the end:** magic can have negative effects, and he doesn't want to hurt the boy or destroy his house.
-- **Death:** he still dies in Chapter 2, with a hand of fire, ready to use his Affinity in a last stand.
+- **Death:** he still dies in Chapter 2, with a hand of fire, ready to use his Affinity in a last stand. *Redesign (27 September):* the stand is now in front of a few riders, away from the house. Some riders burn, then he's shot with a couple of arrows and falls to his knees, and Silas arrives.
+- **He burns his own house** (27 September), "knowing there is no coming back". It's the first time the boy sees his fire used in full.
 - **The sword:** instead of the token, Gerolt gives Alaric the sword he's been using. It's memorable, and Alaric can use it in the future.
 - **How he lives (agreed with Chapter 1, revision 1):** one bowl, one coat, one bed, and he gives the bed to the boy. He sets his stool where he can see both the bed and the door.
 - **Natharul.** He names them out loud at the window ("They ask where"). When the riders arrive, the name he starts to say and swallows is something more specific that he recognises. He dies without saying it (agreed for Chapter 2). *What that name is: open, for later.*
-- **Sending him away:** in Chapter 2, as he's dying, to Marta in Kelmend, with the sword and Wena (confirmed 26 September).
+- **Sending him away:** in Chapter 2, as he's dying, to Marta in Kelmend, with the sword and Wena (confirmed 26 September). *To check against the redesign, now that Silas is there.*
 
 ## Marta
 
@@ -291,7 +303,8 @@ The decisions below were made for the first version. Each will be checked agains
 - **Underneath:** a loving, caring man who just wants to protect his comrades.
 - **Cunning in the moment, reckless in the big choices** (like the gorge).
 - **Gerolt taught him in Avarice.** Gerolt was angry that Silas didn't learn from his teachings.
-- **The sword is why Silas stops for Alaric:** he knows his master's blade on sight.
+- **The sword is why Silas stops for Alaric:** he knows his master's blade on sight. *To check against the redesign.*
+- **He's at Gerolt's last stand** (27 September, Chapter 2). He cuts down the remaining riders, and he and Alaric run. Why he's there is still open (design file, round 6).
 
 ### Wena
 
@@ -502,6 +515,10 @@ None of these have been changed yet. They're listed so nothing is forgotten when
 - `Old - Before Re-plan/Chapter Design/Chapter 7 - Story Design.md:259`: Marta is "a High Wind user". The World Bible already says Eminent.
 - `Old - Before Re-plan/Chapter Design/Chapter 20 - Story Design.md`, lines 84, 85, 291 and 652.
 - `Old - Before Re-plan/Chapter Design/Chapter 6 - Story Design.md:54`: "not High".
+
+### Silas arrives in Chapter 2
+
+- In the old version Alaric is alone from Gerolt's death until he meets Silas at the river (old Chapters 3–6). Now Silas is with him from the end of Chapter 2, so old Chapters 3–6 change: the escape, the river crossing, and Silas recognising the sword.
 
 ### The token becomes the sword
 

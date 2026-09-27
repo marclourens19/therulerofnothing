@@ -108,6 +108,54 @@ The questions, each with Claude's recommendation:
 - The chapter will probably run 6,000–8,000 words, still one night with no scene breaks.
 - Old Chapter 3 ("Alaric ran", through the wheat to the forest) and the river crossing in old Chapters 3 and 6 will change.
 
+**Answers (27 September).**
+1. **The fight.** "In the new chapter 2 the beginning stays the same. Instead of Gerolt getting hit, he dodges Liluth's attack and then he injures Liluth. Maybe he is injured as well, and they leave his house, and he himself sets it on fire knowing there is no coming back."
+2. **Alaric part-carries him.** Agreed.
+3. **Where.** "Gerolt knows he needs to lead the elves away or they will kill his neighbours, so they both get on the horse outside and run towards the forest." The forest replaces the river.
+4. **The name on the run.** Agreed.
+5. **The death.** Agreed, and "Silas should be there as well. Maybe Gerolt makes his last stand in front of a few elves, is shot with a couple of arrows and falls to his knees. Silas comes through and cuts down the remaining riders, and he and Alaric RUN."
+6. **What burns.** "The house and some riders on Gerolt's last stand."
+7. **What Gerolt says.** "Let's design conversations together in the chapter." The author gives the line in their own words, and Claude moves it into the character's agreed voice.
+8. Not answered directly. Answer 1 implies the door stays and the fight changes from the dodge onwards.
+
+### The new shape (Claude's outline of the answers above)
+
+One night, in Alaric's eyes, with no scene breaks:
+
+1. **The door.** As written: the fourth knock, the threat, the sword, the wind, the elf laughing in the doorway, the sword through his jaw.
+2. **The fight.** The stone runs under the floor. "GEROLT!" He dodges, and the spear comes up where he stood. He cuts Liluth (eye, face, arm, as written), then something hurts him. She escapes on her horse. "She heard me." The horns.
+3. **The fire.** Alaric gets Gerolt out to the dead elf's horse, and Gerolt sets his own house alight.
+4. **The ride.** Both on the horse, Wena running, towards the forest, with the riders following.
+5. **On foot.** Alaric part-carries him. Gerolt goes down, the name comes, and "There you are." They get up, and it looks as though they've made it.
+6. **The last stand.** The riders break through. Sword and Wena in a handful of words. The hand of fire, and riders burning. Arrows, then his knees. Silas cuts down the rest, and he and Alaric run.
+
+### Round 6: settling the new shape (asked 27 September)
+
+1. **Gerolt's wound.** *Recommended:* thanks to the shout, the spear misses his ribs and tears along his side. Liluth's slab still throws him back and breaks something. He's hurt enough to need Alaric's shoulder, but not enough to die of it; the arrows kill him.
+2. **Why he burns the house.** On the page Alaric sees him do it and doesn't know why, with one dry line from Gerolt at most. *Recommended reasons, for us:* "no coming back", and the fire tells the riders where to look, so they come to him and follow the horse away from the neighbours.
+3. **Where the carrying happens, now there's a horse.** *Recommended:* twice. First from the cabin to the horse, because he can't mount alone. Then in the forest, when the horse can't go on (the trees are too thick, or an arrow takes it). The name comes there, on foot.
+4. **Why Silas is there.** A rescuer who turns up just in time is the one coincidence readers don't forgive; a coincidence that makes things worse is easier to accept.
+   - *Recommended:* he was following the riders. Scouts letting themselves be seen caught his eye just as it shocked Gerolt in Chapter 1, and the burning house told him where. Alaric learns none of this in Chapter 2.
+   - *Alternative:* he was already on his way to Gerolt after years apart, and arrives too late, as he did at the gorge.
+   - *Cost either way:* Alaric is never alone on the road, and Silas knowing the sword on sight becomes Silas seeing it handed over.
+5. **Does Gerolt see Silas?** *Recommended:* one look between them that Alaric sees and can't read, and at most one word. It's a key line to design together.
+6. **Is Gerolt dead when they run?** *Recommended:* yes, and fast, so the shock holds. Silas leaving his master alive would go against "a loving man who just wants to protect his comrades".
+7. **Does Alaric run when he's told?** *Recommended:* no. He turns back, the same stubbornness as "I'm not leaving you", and that's why Silas has to drag him away. It's Alaric acting instead of watching. This is a behaviour, so it's your call.
+8. **The last image.** The house now burns early. *Recommended:* end on Gerolt, not Silas: the last Alaric sees of him, kneeling in his own fire as they ride away, with the sword across Alaric's knees. It keeps the shape of the last line you called "perfect".
+
+### Conversations to design together (after round 6)
+
+The author gives each line in their own words, and Claude gives it back in the character's voice.
+
+- **The cabin:** Gerolt telling him they're leaving, and setting the house alight.
+- **The ride:** the one useful thing Gerolt says under his grumbling (Marta and the road, or how to survive being Empty).
+- **The name:** "My name… It's Alaric." / "There you are."
+- **"Made it":** Gerolt's dry joke just before the riders.
+- **The handover:** the sword and Wena, "Take Wena and run, Alaric."
+- **Gerolt and Silas:** the look, and whether there's a word.
+- **Silas to Alaric:** his first words.
+- **Alaric's thoughts** at the shout, on the ride, when Gerolt goes down, and at the last stand.
+
 ### Later
 
 - **What Alaric wins in Volume 1** is "companions that want to help him grow". The reader needs to feel that as a win before he shuts them out at the end: a moment where the group wins something together before the tear. To design with the Volume 1 chapters.
