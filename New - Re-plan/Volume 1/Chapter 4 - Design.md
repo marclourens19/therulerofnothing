@@ -1,6 +1,6 @@
 # Chapter 4: Design
 
-Started 27 September 2026. **Status:** rounds 1–3 answered. The lines are drafted, waiting on the author, with two questions (round 4). This is the plan for Chapters 4 and 5, Seralune's first two chapters, agreed one question at a time before any writing, following the `chapter-rewrite` skill.
+Started 27 September 2026. **Status:** rounds 1–4 answered, and the lines are revised from the author's notes. Round 5 has four small confirmations before the first draft of Chapter 4. This is the plan for Chapters 4 and 5, Seralune's first two chapters, agreed one question at a time before any writing, following the `chapter-rewrite` skill.
 
 ## Where the story stands
 
@@ -384,3 +384,82 @@ What I took from the Alisaie lines: she reasons her way forward out loud, she's 
    - *Recommended:* when she comes up and sees the falls, the forest and the tree, there's a ship in the sky over the city: the one thing on the whole mountain she has no word for. It's another piece of "a long time", and it shows the reader what the king left on.
    - *Alternative:* they existed in her time, and there's nothing to show.
 3. **The lines above.** Yes, change or cut, by number.
+
+**Answers and line notes (27 September).**
+- **Line 1, *How did I get here?*:** "Just say Mother was in my room this morning, I forgot what we fought about, and Thaer was there promising to be back before evening… put the rest of the sentence after."
+- **Line 2, Thaer's orders:** "'Come with me, Seralune, and stay close, don't speak to anyone until we're upstairs.' Something like this." In her room: "Get some rest, I need to do a few things, I'll be back as soon as I am able." Her thought: "She should think more like: why is he acting so stressed? He has never been like this before."
+- **Line 4, the tree:** "Again against chapter rules, explaining things like a hand's width, doesn't make any sense. Should be like: How in the world did the tree grow so big? Yesterday it was way smaller. How long was I in that room?"
+- **Line 5, Leorin:** "'Your father is already halfway to Mydea,' Leorin said. 'He must be sent word at once. This is no small matter, Thaeroval. She must be taken into custody and the seal prepared with posthaste.' Something like that."
+- **Line 6, the snap:** "'You couldn't say. Of course you couldn't.' sounds weird. Make it one sentence, like 'Of course, no one can say anything.' 'Were you told to stand there…' doesn't sound angry at all. Seralune must break here, like 'ARRGHH, WHY CAN'T ANYONE JUST SAY WHAT IS GOING ON!?' Something like this."
+- **Line 7, the end with Thaer:** "You told me to follow you and I did, you told me to rest and I did, I waited, and now I want answers, I want them now." / "I'm not a child any more, Thaer, I want to know what is going on." / "Seralune, get some rest, I will be back in the morning."
+- **Round 4, question 1:** "She overhears it. She thinks: Seal? What seal, why are they preparing a seal? Is that the room I was in? Something like that."
+- **Round 4, question 2:** "Yes. If you read Chapter 13 or 14 of the old stories, the airship is there."
+- Lines not commented on are taken as approved: *Am I dead?*, Thaer's "Not here… No more questions, Seralune. Not here.", "You can just ask me", Thaer's "No one touches my sister. Not until I say so.", and Nereth's cover and the sorry.
+
+### The lines, version 2 (27 September)
+
+1. ***Am I dead?*** Approved as drafted.
+2. ***How did I get here?***
+   > *Mother was in my room this morning and we fought, though I can't even remember what about, and Thaer was there too, promising he'd be back before evening. And then… what? I must have done something after he left. I must have gone somewhere. So why can't I remember going anywhere at all?*
+3. **Thaer's orders.**
+   - In the chamber (approved): "Not here." His eyes went past her to the broken doorway. "No more questions, Seralune. Not here."
+   - When the court arrives (your line): "Come with me, Seralune, and stay close. Don't speak to anyone until we're upstairs."
+   - In her room: "Get some rest. There are things I have to see to, and I'll be back as soon as I'm able."
+   - Her thought: *Why is he so on edge? He's never been like this, not once.*
+4. **"Ask me"** (approved): "I'm standing right here, you know. You can just ask me."
+5. **The tree.**
+   > *How in the world did it grow so big? It was nowhere near that size this morning.*
+   >
+   > *How long was I in that room?*
+
+   "This morning", not "yesterday": your line 2 puts her last memory in "this morning", so the tree is small in that same memory.
+6. **Through the door.**
+   > "Your father is already halfway to Mydea," Leorin said. "He must be sent word at once. This is no small matter, Thaeroval. She must be taken into custody, and the seal prepared with all haste."
+   >
+   > "No one touches my sister." Thaer didn't raise his voice. "Not until I say so."
+   >
+   > *Seal? What seal? Why are they preparing a seal?*
+   >
+   > *Is that what that room was?*
+
+   "With all haste" is the usual form of "posthaste" in a sentence like this. Say if you'd rather keep "posthaste".
+7. **The snap, the cover and the sorry.**
+   > "What are they doing down there?"
+   >
+   > "I couldn't say, Your Highness."
+   >
+   > "Of course. No one can say anything." The next blow came up through the floor, and Seralune was on her feet and shouting before she knew it. "*Why can't anyone just say what is going on?*"
+   >
+   > The door banged open, and two guards came in with their swords out.
+   >
+   > Nereth was between them and Seralune before Seralune had seen her move. "Her Highness is tired," she said, in the same even voice she'd used all evening, with the swords a step from her. "She needs to rest. That's all."
+   >
+   > The guards looked past her at Seralune. Then they backed out, the door shut, and the lock turned.
+   >
+   > "I'm sorry," Seralune said to Nereth's back. "I shouldn't have shouted at you. None of this is your doing."
+   >
+   > Nereth turned round. For a moment she didn't seem to know what to do with her hands. "…Your Highness."
+8. **The end with Thaer.**
+   > "You told me to follow you, and I did. You told me to rest, and I did." Seralune was on her feet before she'd decided to stand. "I've waited, Thaer, and now I want answers. I want them now."
+   >
+   > "When you've slept—"
+   >
+   > "I'm not a child any more. I want to know what's going on."
+   >
+   > He went to the door. "Seralune, get some rest. I'll be back in the morning."
+   >
+   > "You said you'd be back before evening, too."
+   >
+   > His hand stopped on the door. Then he opened it and went out, and the lock turned.
+
+   The last line of hers is still mine, from version 1: see round 5.
+
+### Round 5 (asked 27 September)
+
+1. **The airship she sees.**
+   - *Recommended:* it's the royal warship itself, leaving. As they come up, the falls come first, then the forest and the city, and then something enormous moving off over the trees with blue-green light along its underside. She has no word for it, and nobody tells her. Then the tree.
+   - Later, through the door, "Your father is already halfway to Mydea" lets the reader put it together. She can't: she doesn't know what she saw.
+   - I've read your "Yes" as meaning there were no ships like it in her time. Is that right?
+2. **The fight with her mother** that she can't remember. Is that a hole where Alaric was? On the page it stays exactly as you wrote it either way, unexplained. I only need to know for later, so nothing contradicts it.
+3. **"You said you'd be back before evening, too."** Keep it or cut it? To her the promise was this morning, and it's night. To the reader it was a thousand years ago.
+4. **Next: the first draft of Chapter 4.** If these are right, I'll write it: the whole day in the seal, in her eyes, ending on the fear in Thaer's eyes.

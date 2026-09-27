@@ -343,6 +343,14 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - **Her sorry to Nereth,** once the guards have gone: yes.
   - **Her thinking is Alisaie's.** The author pasted Alisaie's lines from FFXIV (on saving Ga Bu) as the model for her inner voice: she reasons her way forward, is sure of her conclusions, and turns straight to the next practical step.
   - **The end of her talk with Thaer:** she doesn't say "I trust you". "No, she is angry with him, how Alisaie fights with Alphinaud."
+- **Round 4 and the line notes (27 September).** The lines as they now stand are in `Volume 1/Chapter 4 - Design.md`.
+  - **She overhears "the seal".** This changes round 2's "she doesn't have the word yet". She hears it through the door and asks herself: "Seal? What seal, why are they preparing a seal? Is that the room I was in?" Nobody says it to her face, and nobody tells her why.
+  - **Ships in the sky:** "Yes, if you read Chapter 13 or 14 of the old stories, there is the airship there." The look comes from old Chapter 13: an immense armoured body of overlapping plates, a ribbed underside with blue-green light running through it, and a deep hum.
+  - **Her last memory is "this morning"** (the author): "Mother was in my room this morning, I forgot what we fought about, and Thaer was there promising to be back before evening." The pears are gone.
+  - **Her thought about Thaer** isn't that he's giving her orders, but "why is he acting so stressed? He has never been like this before."
+  - **No explaining in her thoughts.** "That tree hasn't grown a hand's width in my whole life" was "against chapter rules, explaining things like a hand's width, doesn't make any sense". It's now "How in the world did the tree grow so big? Yesterday it was way smaller. How long was I in that room?"
+  - **Her snap must break.** "You couldn't say. Of course you couldn't." "sounds weird": make it one sentence, "Of course, no one can say anything." And "Were you told to stand there…" "doesn't sound angry at all. Seralune must break here, like 'ARRGHH, WHY CAN'T ANYONE JUST SAY WHAT IS GOING ON!?'"
+  - **Her anger at Thaer,** in the author's words: "You told me to follow you and I did, you told me to rest and I did, I waited, and now I want answers, I want them now." / "I'm not a child any more, Thaer, I want to know what is going on." / Thaer: "Seralune, get some rest, I will be back in the morning."
 
 ## Alaric
 
