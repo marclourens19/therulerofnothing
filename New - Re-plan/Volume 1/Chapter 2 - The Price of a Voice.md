@@ -282,7 +282,7 @@ Gerolt swore, softly and at length.
 
 Out in the wheat, the torches were close enough now that the boy could hear the horses under them.
 
-The sword lay on the ground beside him. Gerolt got its point into the ground again, and the boy got under his arm, and between them they got him standing. It took everything the boy had. It took everything Gerolt had too; the boy could feel it in the arm across his shoulders, shaking without stopping.
+The sword lay beside him. Gerolt got its point into the ground again, and the boy got under his arm, and between them they got him standing. It took everything the boy had. It took everything Gerolt had too; the boy could feel it in the arm across his shoulders, shaking without stopping.
 
 They went into the trees like that, one step and then another.
 

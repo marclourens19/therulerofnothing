@@ -11,7 +11,7 @@ Started 27 September 2026. This is the change list for the redesigned Chapter 2.
 ## At a glance
 
 - **39 changes proposed.** 0 rejected so far, so 39 are in the chapter: 32 rewritten, 5 cut and 2 added.
-- **Length:** 4,684 words before, 4,761 after.
+- **Length:** 4,684 words before, 4,758 after.
 - **Median paragraph:** 14 words before, 15 after. The house target is roughly 14–22.
 - **"Nothing":** 2 times before, 2 after.
 - **"The dark":** as a place, 8 times before and 0 after. "Dark" in all: 19 before, 5 after (changes 1, 2, 3, 4, 5, 7, 8, 10, 13, 18, 19, 20, 24). The five left are all from Version 1: the grip, the cloth, the elves' armour twice, and the blood he coughs up.
@@ -713,7 +713,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> The sword lay on the ground beside him. Gerolt got its point into the ground again, and the boy got under his arm, and between them they got him standing. It took everything the boy had. It took everything Gerolt had too; the boy could feel it in the arm across his shoulders, shaking without stopping.
+> The sword lay beside him. Gerolt got its point into the ground again, and the boy got under his arm, and between them they got him standing. It took everything the boy had. It took everything Gerolt had too; the boy could feel it in the arm across his shoulders, shaking without stopping.
 
 **Why.** The author asked "what is bracken?" (a tall wild fern that grows at the edges of woods), then "I don't like 'ferns'". So the plant is gone. It was only there to say where they landed.
 
