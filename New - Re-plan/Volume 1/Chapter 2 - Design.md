@@ -1,6 +1,6 @@
 # Chapter 2: Design
 
-Started 26 September 2026. **Status (27 September):** being redesigned. Gerolt now lives longer: he and Alaric run together, and he dies at the end of the chapter (round 5, below). Until the new version is ready, the merged chapter stays as it is. **Status before the redesign:** the first draft is written (`Chapter 2 - The Price of a Voice.md`). It's compared with the old chapter in `Chapter 2 - From the Old Chapter.md`, and it has been through revisions 1–3, the last being the final check against Chapter 1 (see `Chapter 2 - Changes.md`). This is the plan for Chapter 2, agreed with the author one question at a time before any writing. It follows the `chapter-rewrite` skill: most of the old chapter will change, so the plan comes first.
+Started 26 September 2026. **Status (27 September):** redesigned and redrafted from rounds 5–7. Gerolt now lives longer: he and Alaric run together, and he dies at the end of the chapter. The new draft is compared with the version before it in `Chapter 2 - What the Redesign Changed.md`, and its calls are waiting on the author. **Status before the redesign:** the first draft is written (`Chapter 2 - The Price of a Voice.md`). It's compared with the old chapter in `Chapter 2 - From the Old Chapter.md`, and it has been through revisions 1–3, the last being the final check against Chapter 1 (see `Chapter 2 - Changes.md`). This is the plan for Chapter 2, agreed with the author one question at a time before any writing. It follows the `chapter-rewrite` skill: most of the old chapter will change, so the plan comes first.
 
 ## Already fixed by decisions
 
@@ -197,6 +197,16 @@ One night, in Alaric's eyes, with no scene breaks:
    - Or the author's own.
 3. **"Lad" or "boy".** Gerolt has called him "lad" since he woke in the cabin. *Recommended:* Gerolt keeps "lad" ("Make for the trees, lad"), and "boy" becomes Silas's word ("Get up, boy, or we're both dead!"). Their voices then differ even when they say the same kind of thing.
 4. **Alaric's thoughts** at the four big moments: the shout, the ride, Gerolt going down, and the last stand. Should the author give rough versions first, or should Claude propose them in the draft, each marked as a call for the author?
+
+**Answers (27 September).**
+1. "I meant Marta, sorry."
+2. "I like that. Make it like 'That was the worst horse I ever had, ah haha, slow as shite.' He is laughing at the situation, something like that."
+3. Agreed: Gerolt says "lad", Silas says "boy".
+4. The author's rough thoughts for Alaric:
+   - At the shout: "He thought that was it, that was all done, everything he has known, even if just in this moment. He would be alone and be nothing again."
+   - On the ride: "Why are they attacking us, what just happened, why did Gerolt kill that man, why, what is happening."
+   - At the last stand: "What do I do, I can't do anything, I want to help, I can't, I'm scared to help, I will die, I don't want to die."
+   - When Gerolt goes down in the forest: not given, so Claude proposes it in the draft as a call for the author.
 
 ### Conversations to design together (after round 6)
 

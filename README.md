@@ -16,7 +16,8 @@ The story is being re-planned from the beginning. Current work lives in **New - 
   - `Chapter 1 - Revision Notes.md`: what to keep and what to change in Chapter 1.
   - `Chapter 1 - Changes.md`: every change in the latest revision, with its before and after.
   - `Chapter 2 - Design.md`: the plan for Chapter 2, agreed question by question.
-  - `Chapter 2 - From the Old Chapter.md`: the new Chapter 2 compared with the old one, scene by scene.
+  - `Chapter 2 - What the Redesign Changed.md`: the redesigned Chapter 2 (27 September) compared with the version before it, scene by scene.
+  - `Chapter 2 - From the Old Chapter.md`: the first new Chapter 2 (Version 1) compared with the old one, scene by scene.
   - `Drafts/`: earlier versions of the chapters, kept unchanged.
 
 ## The rewriting skill
