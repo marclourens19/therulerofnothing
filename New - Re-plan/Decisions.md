@@ -265,6 +265,19 @@ The decisions below were made for the first version. Each will be checked agains
   - The hot hand: Gerolt covers it with a dry line, "Careful, lad. I run hot." (The author's note: the old narration "doesn't sound like Cid speaking, sounds like a computer monologue.")
   - Kept: the second scout's laugh before we see her.
 
+## Chapter 3
+
+The plan is built in `Volume 1/Chapter 3 - Design.md`.
+
+- **Seralune comes in with Chapter 4,** which is all hers: "Yes, we can make Chapter 4 all Seralune." Chapter 3 stays in Alaric's eyes. *(Proposed, to design in Chapter 4: her chapter goes back to midday, when her seal broke as Alaric arrived.)*
+- **The centre of Chapter 3 is Alaric's inner fight.** "He thinks he is the reason Gerolt is now dead. He is not in a good headspace this chapter." His questions start: why are the elves trying to kill him, what was that war on Gerolt's farm, what is happening.
+- **Silas grounds him:** "snap out of it for Gerolt's sake, and keep moving forward for Gerolt's sake and Wena's."
+- **The river.** The bridge is broken and the current is strong. Wena still tries to go back to Gerolt, and Alaric grabs her fur and drags her. Silas says to leave the dog; Alaric doesn't.
+- **Silas kills one more elf** on their heels, brutally, with his Affinity.
+- **Silas's cave:** "covered behind thick bush. It's small, dirty and ugly, and just has the necessary stuff to survive."
+- **In the cave,** Silas gives only his name and asks the questions: how Alaric knew Gerolt, why the elves are after him, what happened before. Alaric is angry with him, and brings up that Gerolt told him to go to Marta.
+- **Kelmend:** Silas says it's no good, because the guards will hand him over to Natharul without question, so they need to find a way in. This comes after he hears "Marta".
+
 ## Alaric
 
 - About twenty.

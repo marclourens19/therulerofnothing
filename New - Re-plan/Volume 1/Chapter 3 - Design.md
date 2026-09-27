@@ -1,6 +1,6 @@
 # Chapter 3: Design
 
-Started 27 September 2026. **Status:** round 1 of questions is waiting on the author. This is the plan for Chapter 3, agreed one question at a time before any writing, following the `chapter-rewrite` skill. Most of the old material changes, so the plan comes first.
+Started 27 September 2026. **Status:** round 1 answered (27 September); round 2 is waiting on the author. This is the plan for Chapter 3, agreed one question at a time before any writing, following the `chapter-rewrite` skill. Most of the old material changes, so the plan comes first.
 
 ## Where Chapter 2 leaves it
 
@@ -95,6 +95,49 @@ The old Chapter 3 is `Old - Before Re-plan/Volume 1 - Rewrites/Chapter 3 - The W
    - *Recommended:* Silas gives one line about Mydea's guards handing him over by sunrise.
    - Alaric works out the other part himself: why Gerolt looked at the neighbours' window and then rode for the trees.
    - The honest tension is that the reader may already have worked it out. But it's the moment Alaric understands what Gerolt did, which is the kind of meaning you asked for. Keep it, or leave it for the reader?
+
+**Answers (27 September).**
+1. **Seralune.** "Yes, we can make Chapter 4 all Seralune."
+2. **What Chapter 3 covers.**
+   - Alaric's inner monologue is the chapter's centre: "he is fighting with himself. He thinks he is the reason Gerolt is now dead. He is not in a good headspace this chapter. He is thinking 'Gerolt just died because of me, it's all my fault'."
+   - His own questions start here: "Why are these elves trying to kill him? What was that war on Gerolt's farm? What is happening?"
+   - "Silas should be there to ground him, telling him to snap out of it for Gerolt's sake, and to keep moving forward for Gerolt's sake and Wena's."
+   - **The river.** "They cross the river since the bridge is broken. The currents are strong. Wena is still trying to go to Gerolt. Alaric must stop her, grabbing her fur and pulling."
+   - "Silas uses his Affinity to brutally kill one more elf on their heels before they get to Silas's cave and can take a breather."
+   - **The cave.** "Silas asks how Alaric knew Gerolt, why the elves are after him, what happened before, and Alaric brings up that Gerolt told him to go to Marta."
+3. **The dog.** "Silas says leave the dog, at the riverbank."
+4. **His grief.** "He is angry with Silas."
+5. **Silas.** "Just his name. He is asking Alaric more questions to understand what is going on."
+6. **Silas's home.** "It's a cave covered behind thick bush. It's small, dirty and ugly, and just has the necessary stuff to survive."
+7. **Kelmend.** "Silas will say Kelmend is no good, as the guards will hand him over to Natharul without question, and they need to find a way in. This can be later, after hearing Marta." The neighbours part of the question wasn't answered, so it's asked again in round 2.
+
+### The shape, from the answers
+
+One night into first light, in Alaric's eyes:
+
+1. **Running.** Silas drags him, then drives him on. Alaric's head: Gerolt is dead because of him. Silas grounds him: snap out of it, for Gerolt, for Wena.
+2. **The river.** The bridge is broken and the current is strong. Wena pulls back towards Gerolt. Silas: leave the dog. Alaric grabs her fur and drags her through.
+3. **The last elf.** One rider catches up on the far side, and Silas kills him brutally with his Affinity.
+4. **The cave.** It's behind thick bush, small, dirty and ugly. Silas gives his name and asks questions: how Alaric knew Gerolt, why the elves want him, what happened. Alaric turns on him for leaving Gerolt, then says "Marta". Silas: Kelmend is no good, the guards will hand him over, they'll need a way in.
+
+### Round 2 (asked 27 September)
+
+1. **Where his head gets to.** A spiral has to say something new each time it turns (principle 8), or a chapter of "it's my fault" becomes noise.
+   - *Recommended turns:* Gerolt's dead → because of me (my shout, I wouldn't leave, I was slow) → why do they want me? → what was that war in the field? Then, when Silas asks, he finds that he can't answer any of it out loud.
+   - *Recommended end:* he still believes it's his fault. Nobody corrects it, and Silas never says "it wasn't your fault"; he says keep moving. It's the first brick of how Volume 1 ends ("I killed thousands"). The reader knows it's only partly true: the elves came for the field.
+2. **How Silas kills the last elf.** He's Eminent Fire, like Gerolt, and Alaric has just watched Gerolt's fire.
+   - *Recommended:* close and cruel. He takes hold of the elf and drives the heat through his armour until it glows, and the elf screams inside it.
+   - Gerolt's fire was wide, and it was given away. Silas's is close, and it's meant to hurt. It says who he is without anyone saying it.
+   - Seeing fire again, Alaric thinks of Gerolt. That's the meaning at that moment.
+   - Other ways: fire along his blade, or a burst to the face. Your call.
+3. **How much Alaric tells Silas.** Silas asks, and Alaric keeps things to himself.
+   - *Recommended:* the truth about Gerolt (he met him yesterday) and the field.
+   - He keeps back that he remembers nothing before it, and that nothing answered when Gerolt asked for his Affinity. The last time he said that out loud, Gerolt's stool scraped back and his eyes went to the door.
+   - Silas finding out that his master died for a boy he met a day ago is its own moment.
+4. **Where the chapter ends.**
+   - *Recommended:* "Marta", Silas's reaction, and "Kelmend's no good to you". Then later, with Silas gone out to watch, Alaric alone with Wena, crying at last.
+   - The last image is his grief, and Chapter 4 cuts to Seralune.
+5. **The neighbours** (the other half of round 1's question 7). *Recommended:* leave it this chapter. His spiral is "it's my fault", and working out that Gerolt also rode away to save the children two fields over would soften that too early. The neighbours' fate is still open for a later chapter.
 
 ### Later
 
