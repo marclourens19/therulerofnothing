@@ -279,7 +279,7 @@ Each piece she puts together comes from something she sees or hears, and none of
    2. Is there a city below the palace, or only the forest?
    3. *Suggestion:* when they come up from the chamber, the sound of the falls is the first thing she knows, before she sees anything. Your call.
 4. **Cyrandor's bow.** My reading of "a mix of both": she sees one old servant bow the old way, unafraid, and then he's gone, with no name, so the knock still surprises. Is that right? And what does the old bow look like? It's yours to decide.
-5. **Her sorry.** *Recommended:* once the guards have gone, she says sorry to Nereth directly, and means it. It's the first time Nereth is apologised to by a princess, and it doesn't fit anything Nereth knows.
+5. **Her sorry.** *Recommended:* once the guards have gone, she says sorry to Nereth directly, and means it. Seralune can see that Nereth doesn't know what to do with a princess saying sorry. (We're in Seralune's eyes, so that's all the page can show.)
 6. **The lines.** Give me your rough version of any of these, and I'll give it back in the character's voice. Any you skip, I'll draft for you to react to.
    1. Her Alisaie voice at *Am I dead?* (Chapter 4).
    2. Thaer's first orders after the embrace: your rough version is "enough of the questions, come, follow me, do this, do that".
