@@ -31,7 +31,7 @@ Written on 26 September 2026. This is every change made to `Chapter 1 - A War Wi
 
 Each of these needs a yes or no from you. It adds something about a character or the world that you haven't decided, or it's a change you didn't ask for.
 
-- **Change 61, "Lad?".** Change the cabin "Boy?" to "Lad?", and keep "boy" at the field?
+- Nothing is waiting on you. Every change that needed your answer has one.
 
 **Already decided**
 
@@ -62,6 +62,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 58, The candle goes out:** At your request.
 - **Change 59, Gerolt's face:** At your request.
 - **Change 60, The man hiding:** At your request.
+- **Change 61, "Lad?":** "I agree with everything you said."
 
 ## What each decision became
 
@@ -1086,4 +1087,4 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Why.** The final pass of Chapters 1 and 2 together. It was agreed on 27 September that Gerolt says "lad" and "boy" is Silas's word. In Chapter 1 Gerolt says "boy" at the field, when the boy is a stranger in the mud (your own lines 45, 49 and 69, and line 227), and "lad" from then on. This "Boy?" in the cabin was the one slip. Keeping "boy" at the field gives a small, unspoken parallel: Silas starts where Gerolt started.
 
-**Your call.** Change the cabin "Boy?" to "Lad?", and keep "boy" at the field?
+**Your decision.** "I agree with everything you said."

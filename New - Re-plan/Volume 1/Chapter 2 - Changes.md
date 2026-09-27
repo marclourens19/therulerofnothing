@@ -28,7 +28,7 @@ Started 27 September 2026. This is the change list for the redesigned Chapter 2.
 
 Each of these needs a yes or no from you. It adds something about a character or the world that you haven't decided, or it's a change you didn't ask for.
 
-- **Change 47, *Natharul.*.** Add the thought *Natharul.* when he sees the elf? It's your call whether it tells the reader something they already know.
+- Nothing is waiting on you. Every change that needed your answer has one.
 
 **Already decided**
 
@@ -71,6 +71,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 38, Bracken removed (the sword):** After "what is bracken?" and "I don't like 'ferns'".
 - **Change 39, Bracken removed (getting up):** After "what is bracken?" and "I don't like 'ferns'".
 - **Change 40, The wall, not the doorpost:** Your note.
+- **Change 47, *Natharul.*:** "I agree with everything you said."
 
 ## What each note became
 
@@ -882,4 +883,4 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Why.** From the final pass of both chapters together. In Chapter 1, the boy asked about "the pale ones… with the pointed ears", and Gerolt answered: "Natharul. When one of theirs dies, they don't ask who did it. They ask where." This is the first living one he sees. One word of recognition in his head brings that warning to the door, without saying so. It's small and concrete, the kind of meaning you asked for. After the thought, "He looked over the wreckage" could read as the boy, so it's now "The elf", which is what the narration calls him a few lines later.
 
-**Your call.** Add the thought *Natharul.* when he sees the elf? It's your call whether it tells the reader something they already know.
+**Your decision.** "I agree with everything you said."

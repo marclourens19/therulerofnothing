@@ -761,7 +761,9 @@
    "before": "\"Boy?\"",
    "after": "\"Lad?\"",
    "why": "The final pass of Chapters 1 and 2 together. It was agreed on 27 September that Gerolt says \"lad\" and \"boy\" is Silas's word. In Chapter 1 Gerolt says \"boy\" at the field, when the boy is a stranger in the mud (your own lines 45, 49 and 69, and line 227), and \"lad\" from then on. This \"Boy?\" in the cabin was the one slip. Keeping \"boy\" at the field gives a small, unspoken parallel: Silas starts where Gerolt started.",
-   "call": "Change the cabin \"Boy?\" to \"Lad?\", and keep \"boy\" at the field?"
+   "call": "Change the cabin \"Boy?\" to \"Lad?\", and keep \"boy\" at the field?",
+   "decision": "accepted",
+   "decision_note": "\"I agree with everything you said.\""
   }
  ]
 }
