@@ -206,13 +206,13 @@ They tried again. Gerolt made a sound through his teeth that the boy felt more t
 
 They went out through the doorway one step at a time, over the dead elf. Wena came after them, pressed so close to the boy's leg that he nearly fell over her.
 
-The moon was high over the wheat. Gerolt stopped at the doorpost and leaned his shoulder against it, getting his breath. He looked back into the house.
+The moon was high over the wheat. Gerolt stopped beside the empty doorway and leaned his shoulder against the wall, getting his breath. He looked back into the house.
 
 "Well," he said to the house. "Suppose that's goodbye, then."
 
-He put his hand flat on the doorpost.
+He put his hand flat on the wall.
 
-The wood blackened under his palm. Smoke crept out between his fingers, then flame, small at first, running up the post in a thin line and into the eaves. It caught there with a soft sound and spread. By the time Gerolt took his hand away, the whole front of the roof was alight.
+The wood blackened under his palm. Smoke crept out between his fingers, then flame, small at first, running up the wall in a thin line and into the eaves. It caught there with a soft sound and spread. By the time Gerolt took his hand away, the whole front of the roof was alight.
 
 His palm had gone an angry red. He didn't look at it.
 

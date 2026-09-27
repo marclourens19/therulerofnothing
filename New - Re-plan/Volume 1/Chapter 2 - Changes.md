@@ -8,10 +8,12 @@ Started 27 September 2026. This is the change list for the redesigned Chapter 2.
 
 **Round 3 (27 September): the author's answers on round 2.** Accepted: "Nobody was coming", the laugh, and "away from Gerolt". Reworked as asked: the sword ("his fate was sealed"), his feet stopping ("down there is weird"), the fire going out ("what is it, give meaning to it"), and the house, toned down ("too melodramatic"). "Bracken" is gone, and so is "ferns", which the author didn't like either.
 
+**Round 4 (27 September): the last calls on the redraft.** Gerolt lights the wall beside the empty doorway, not the doorpost. "I run hot" and "Found one lad still breathing" stay out. Everything else is approved: the horse, Gerolt's small lines, the horse being shot, Alaric's thought when Gerolt goes down, the riders from the river, the rider's laugh, Silas's look, Silas seeing the sword, and the last line.
+
 ## At a glance
 
-- **39 changes proposed.** 1 rejected so far, so 38 are in the chapter: 32 rewritten, 5 cut and 1 added.
-- **Length:** 4,684 words before, 4,733 after.
+- **40 changes proposed.** 1 rejected so far, so 39 are in the chapter: 33 rewritten, 5 cut and 1 added.
+- **Length:** 4,684 words before, 4,735 after.
 - **Median paragraph:** 14 words before, 15 after. The house target is roughly 14–22.
 - **"Nothing":** 2 times before, 2 after.
 - **"The dark":** as a place, 8 times before and 0 after. "Dark" in all: 19 before, 5 after (changes 1, 2, 3, 4, 5, 7, 8, 10, 13, 18, 19, 20, 24). The five left are all from Version 1: the grip, the cloth, the elves' armour twice, and the blood he coughs up.
@@ -64,6 +66,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 37, Bracken removed (the fall):** After "what is bracken?" and "I don't like 'ferns'".
 - **Change 38, Bracken removed (the sword):** After "what is bracken?" and "I don't like 'ferns'".
 - **Change 39, Bracken removed (getting up):** After "what is bracken?" and "I don't like 'ferns'".
+- **Change 40, The wall, not the doorpost:** Your note.
 
 ## What each note became
 
@@ -77,6 +80,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 8. **"The man was at him before he noticed."** The narration follows where Alaric is looking: change 33.
 9. **"Spattered the ground."** Change 31.
 10. **Round 3.** Your answers on round 2 are in each change's decision. "Bracken" is gone, and "ferns" with it: changes 37, 38, 39 and 26.
+11. **Round 4.** The wall beside the doorway: change 40. With this, every call on the chapter is answered.
 
 ## The changes
 
@@ -160,9 +164,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> The wood blackened under his palm. Smoke crept out between his fingers, then flame, small at first, running up the post in a thin line and into the eaves. It caught there with a soft sound and spread. By the time Gerolt took his hand away, the whole front of the roof was alight.
+> The wood blackened under his palm. Smoke crept out between his fingers, then flame, small at first, running up the wall in a thin line and into the eaves. It caught there with a soft sound and spread. By the time Gerolt took his hand away, the whole front of the roof was alight.
 
-**Why.** The author: "One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words." The replacement words are mine; reject any you don't like. Burning wood blackens, so it's also the plainer word.
+**Why.** The author: "One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words." The replacement words are mine; reject any you don't like. Burning wood blackens, so it's also the plainer word. (Round 4: "post" became "wall", with change 40.)
 
 **Your decision.** By your instruction to "cut down on" the dark.
 
@@ -735,3 +739,29 @@ Each of these needs a yes or no from you. It adds something about a character or
 **Why.** The author asked "what is bracken?" (a tall wild fern that grows at the edges of woods), then "I don't like 'ferns'". So the plant is gone. It was only there to say where they landed.
 
 **Your decision.** After "what is bracken?" and "I don't like 'ferns'".
+
+### The fire (draft lines 185–239)
+
+#### 40. The wall, not the doorpost
+
+*Draft lines 209–213 → revised lines 209–213*
+
+**Before**
+
+> The moon was high over the wheat. Gerolt stopped at the doorpost and leaned his shoulder against it, getting his breath. He looked back into the house.
+>
+> "Well," he said to the house. "Suppose that's goodbye, then."
+>
+> He put his hand flat on the doorpost.
+
+**After**
+
+> The moon was high over the wheat. Gerolt stopped beside the empty doorway and leaned his shoulder against the wall, getting his breath. He looked back into the house.
+>
+> "Well," he said to the house. "Suppose that's goodbye, then."
+>
+> He put his hand flat on the wall.
+
+**Why.** The author, on call 2 of the redraft: "'He put his hand flat on the doorpost.' Just make it the wall next to where the door was." The fire now runs up the wall (folded into change 5).
+
+**Your decision.** Your note.

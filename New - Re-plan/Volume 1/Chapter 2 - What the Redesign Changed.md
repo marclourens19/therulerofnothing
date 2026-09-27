@@ -25,7 +25,7 @@ The new chapter is saved unchanged as `Drafts/Chapter 2 - The Price of a Voice (
 
 ## Your call
 
-These are new, mine rather than yours, and each needs a yes or no. Since this was written, your notes have become round 1 of `Chapter 2 - Changes.md`, and the quotes below show the draft before them.
+These were new, mine rather than yours. **All answered on 27 September.** Your notes became rounds 1–4 of `Chapter 2 - Changes.md`, and the quotes below show the draft before them. Two were changed: 1 (Gerolt says "The trees…" first) and 2 (it's the wall beside the doorway, not the doorpost). Call 7's line became "Alaric laughed too, and couldn't stop…", 12 (Wena) was reworked, and 14's two lines stay out ("I don't like 'I run hot'"). Everything else was approved.
 
 1. **The neighbours' window.** As they ride out: "Two fields over, a single window was lit." Gerolt looks at it, then turns the other way: "Make for the trees, lad." It's the only place the reader learns why he runs that way, and nobody says it. **Answered:** yes, and Gerolt says "The trees…" first (`Chapter 2 - Changes.md`, change 6).
 2. **How he lights the house.** He puts his palm flat on the doorpost, and the fire runs up it into the eaves. Afterwards "His palm had gone an angry red. He didn't look at it." That's the same cost as the candle in Chapter 1.

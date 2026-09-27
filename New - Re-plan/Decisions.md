@@ -208,7 +208,7 @@ The plan is built in `Volume 1/Chapter 2 - Design.md`.
   - The neighbours' window stays (call 1: "Yes"), and Gerolt says "The trees…" before "Make for the trees, lad."
   - Wena is shown as Alaric sees her: staring at Gerolt, looking at Alaric, a pause, then running after him.
   - "The dark" cut across the chapter.
-  - The other calls from the redraft (2–11, 13, 14) haven't been answered yet.
+  - The other calls from the redraft were answered on 27 September (round 4). Gerolt puts his hand on "the wall next to where the door was", not the doorpost. "I don't like 'I run hot'", so it stays out, as does "Found one lad still breathing". "Everything else I approve": the horse, Gerolt's small lines ("Good.", "Don't haul on them.", "Still here.", swearing "softly and at length"), the horse being shot, Alaric's thought when Gerolt goes down, the riders coming from the river, the rider's laugh, Silas's look (big, a long cloak, a heavy blade, stubble, a pale scar from cheekbone to jaw), Silas's eyes on the sword, and the last line.
 - **Round 2 (27 September): "Just add meaning to things."** The author's line after Gerolt dies goes in: "Alaric couldn't get up. He was staring at Gerolt. That old man had taken care of him until his dying breath, and now Alaric was going to leave him there and never see him again." So Alaric's understanding, not the narration, is where Gerolt's death is said. Also "The man was at his side before Alaric had noticed him move", and "spattered the ground". Eight more moments with meaning added wait on the author.
 - **Round 3 (27 September): the answers on round 2.**
   - Accepted: "Nobody was coming.", the laugh ("none of it was funny"), and "away from Gerolt".
@@ -216,7 +216,7 @@ The plan is built in `Volume 1/Chapter 2 - Design.md`.
   - "He couldn't leave Gerolt alone with them" ("down there is weird").
   - "Alaric waited for the fire to come back. It had kept burning through both arrows, and now it was out…" ("what is it, give meaning to it").
   - The house is toned down ("too melodramatic"). "Bracken" is gone, and so is "ferns".
-  - The eight cuts from round 1 are accepted ("I agree with all the cuts"). Change 26 kept ("Keep 'he wasn't moving'"), with "ferns" removed everywhere ("I don't like 'ferns'"). The house line is rejected (change 25: "I feel it's too much"), so the house burns without comment. Nothing in the change list is waiting on the author.
+  - The eight cuts from round 1 are accepted ("I agree with all the cuts"). Change 26 kept ("Keep 'he wasn't moving'"), with "ferns" removed everywhere ("I don't like 'ferns'"). The house line is rejected (change 25: "I feel it's too much"), so the house burns without comment. Nothing in the change list is waiting on the author, and every call on the redraft is answered.
 - **Chapter 1, revision 6 (27 September):** "the dark" taken out five times, at the author's request.
 - **Lines agreed (27 September).** The author gives the line in their words, and Claude gives it back in the character's voice.
   - **Gerolt at the house:** "Well," he said to the house. "Suppose that's goodbye, then." The author chose this over a joke about the shutters: "A is better, more human-like. B sounds robotic."
