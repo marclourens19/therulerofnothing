@@ -1,6 +1,6 @@
 # Chapter 4: Design
 
-Started 27 September 2026. **Status:** round 1 asked. This is the plan for Chapter 4, Seralune's first chapter, agreed one question at a time before any writing, following the `chapter-rewrite` skill.
+Started 27 September 2026. **Status:** round 1 answered, round 2 asked. This is the plan for Chapters 4 and 5, Seralune's first two chapters, agreed one question at a time before any writing, following the `chapter-rewrite` skill.
 
 ## Where the story stands
 
@@ -63,6 +63,8 @@ The old material is three pieces, about 10,900 words in all:
 - old Chapter 5, `… Chapter 5 - The Last Keeper (Rewrite).md`, 4,908 words.
 
 The old designs are in `Old - Before Re-plan/Chapter Design/`. The characters in them are out of date: everyone is re-voiced from `Decisions.md`.
+
+This table was written before round 1. The answers below change several rows: there are two chapters now, there's a crystal instead of a circle, and there are no wardwrights and no chain.
 
 | Old beat | What happens to it now |
 |---|---|
@@ -152,3 +154,70 @@ The old designs are in `Old - Before Re-plan/Chapter Design/`. The characters in
 - her "I never had magic";
 - whether she says "I trust you";
 - Nereth's slip.
+
+**Answers (27 September).**
+1. **Two chapters.** "Both Chapters 4 and 5 must be her chapters; 6 can return to Alaric. 4 and 5 can be about her leaving her seal, and all the lore around Natharul leading up to Cyrandor. These chapters must be better than their predecessors and rely on my image of world building."
+2. **The day in the black.** "Yes. She is exploring this dark room, completely black, fighting with her Alisaie inner monologue: thinking if she is dead, how did she end up here, what is happening. She must explore all emotions. It's a full day of nothingness. I like the same ending image of Thaeroval and Seralune seeing fear in her brother's eyes for the first time ever."
+   - *My reading, to confirm:* the "Yes" also covers Thaer feeling the seal break and coming from far off, and the reader learning she's an elf from the point of his ear.
+3. **Not "sealed" yet.** "Revealing 'sealed' right now is too soon, and she should put the pieces together. Thaer must say, like, enough of the questions, come, follow me, do this, do that."
+4. **The years.** "Seralune gets out of her seal because Alaric appeared. It's intentional. But it isn't exactly 1000 years; it's random, but rounded to 1000 years."
+5. **The old cast.**
+   1. "Leorin did come from me. He is her cousin, and he looks extremely old now, like 70 years old."
+   2. "Elowen was her old attendant."
+   3. "Yes, still Cyrandor, but the imagery of him weeping and the linen dropping can be something else, better suited."
+   4. "I don't like the silver chain, and there are no wardwrights. Thaeroval sealed her in a massive crystalline structure that contained her mana and used it against her to keep her sealed. When Alaric appeared, the mana searched for him and cracked the seal."
+   5. "Yes. The elves informed the king to come see a battle with dead elves, thinking Mydea killed his people."
+   6. "We can change this together."
+6. **Nereth.** "She is always composed on duty. Secretly, before meeting Seralune, Cyrandor told Nereth to watch over Seralune: even if she seems dangerous, she is important. Nereth obeys, but is struggling to understand why her."
+7. **Her voice.** "Agreed."
+
+### The shape, from the answers
+
+- **Chapter 4, the seal.** From the white to Thaer at the door: one whole day alone in the black. It's her Alisaie voice against herself. Is she dead? How did she get here? What's happening? It ends on the fear in his eyes.
+- **Chapter 5, Natharul.** From the chamber to first light: Thaer's orders instead of answers, Leorin, the palace, her room, Nereth, and the night. She puts the pieces together herself. It leads up to Cyrandor.
+- **Chapter 6** returns to Alaric.
+
+### Round 2 (asked 27 September)
+
+1. **Where Chapter 5 stops.** "Leading up to Cyrandor" could mean two things.
+   - *Recommended:* Chapter 5 ends on the two knocks at first light, with Cyrandor unseen behind the door. Her escape with him becomes Chapter 7, after Alaric's Chapter 6.
+   - *Alternative:* the escape happens inside Chapter 5. That makes Chapter 5 very long, and the knock stops being a hook.
+2. **Keeping a day of nothing moving.** This is the boldest chapter yet: the reader's first time with her, and she's alone with nothing to see. It works only if every stretch changes what she feels or believes (principle 8), and the reader learns something about her each time. My proposed order is below. Which emotions matter most to you, and is anything missing or wrong?
+   1. The white, then black. She can't tell whether her eyes are open.
+   2. *Am I dead?* Her Alisaie voice argues with itself, and her body answers: the cold, the stone, her hand hurting.
+   3. She explores, and finds the crystal: huge, cracked and sharp. She cuts her hand on it.
+   4. She reaches for her mana, and can't shape it, as always.
+   5. She goes back through her last day: the bell, the pears, Thaer's promise. She can't get past him leaving. *How did I get here?*
+   6. She calls for Thaer, her mother and Elowen. Nobody comes.
+   7. Anger. Stubborn, she refuses to sit and wait, and hits the door.
+   8. Panic, and the counting in Thaer's voice.
+   9. Nothing. Time goes, and she's thirsty, her legs are weak, and she can't tell whether she slept.
+   10. Footsteps, then Thaer, and the fear in his eyes.
+3. **The crystal, as you see it.**
+   - **Where she wakes.** *My suggestion, to change freely:* she was inside it, and it has split open. She's on the floor at its foot among broken pieces. It's bigger than she can reach round, cold and smooth, with edges that cut. The room is stone, with one door and no handle on her side.
+   - **The moment it breaks.** Her mana went searching for Alaric and cracked the seal. Should she feel that?
+     - *My suggestion:* her first sensation is her mana rushing out of her towards something far away, and finding it. Then the crack, and the white.
+     - She doesn't know what it was, and it's never explained. It answers Chapter 1's light, which "searched him".
+     - The risk is that it points too hard. Your call.
+   - **Her mana afterwards.** *My suggestion:* when she reaches for it later, the broken crystal still pulls at it, and she snatches it back. It's a small clue that the crystal was made to hold her. Your call.
+4. **What she has worked out by the end of Chapter 5.** Nobody says "sealed", and Thaer gives her orders, not answers.
+   - *Recommended:* she works out for herself that many years have passed, from Leorin's face, Elowen being gone and the palace changing. She works out that the crystal was made for her, from what she felt in it and from how people look at her. She doesn't have the words "sealed" or "a thousand years" yet.
+   - The number, and her mother, come from Cyrandor in the escape: the first person who answers her questions instead of giving her orders. Thaer commands and Cyrandor answers, and that's why she'd follow a stranger.
+5. **Leorin looks seventy. What about Thaer?** The old canon says royal elves age "at a vastly slower rate", which is how her family lived through the thousand years. If Leorin now looks about seventy, Thaer should have aged too. But Thaer "stays as written", and in the old version he looked almost as she remembered.
+   - *Recommended:* Leorin is old and Thaer isn't. She sees it, and it frightens her. She asks, and Thaer answers with an order. The reason, something to do with what Thaer is, stays hidden for later. It gives her a question with no answer yet.
+   - *Alternatives:* Thaer has aged too, or Leorin has aged faster for a reason of his own.
+   - The same goes for her father, who is still alive: is he old now?
+6. **Cyrandor's first sight of her,** without the weeping and the linen.
+   - *Recommended:* the servants press themselves to the walls in fear, but one old servant bows in a way nobody else does. It's the old bow, the way servants bowed in her mother's rooms, and he doesn't look afraid. It's the first familiar thing in the whole palace, and she doesn't know why. The bow was passed down through the Order, and that pays off in the escape.
+   - *Alternative:* keep him off the page until the knock, so his arrival is a surprise, and let only Nereth's behaviour hint at him.
+   - If you like the bow, what it looks like is yours to decide.
+7. **Nereth.**
+   1. "Struggling to understand why her": does she not understand why Seralune matters so much, or why Cyrandor chose Nereth? I read it as the first.
+   2. What is Cyrandor to her, that she obeys a secret order from him? *Suggestion:* he's the senior servant who trained her when she came to the palace at ten. Your call.
+   3. "Always composed on duty": so no slip in Chapters 4–5? *Recommended:* none. Save her first slip for the escape.
+   4. When her mana flares the lamps and the guards come in with swords, she steps in front of Seralune, because Cyrandor told her to watch over her. *Recommended:* keep the beat, with Cyrandor's order as the reason.
+8. **Natharul, as you see it.** You want these chapters to rest on your picture of the world. Tell me what you see, in any words, and I'll bring it back in her eyes. For reference, here's what the old version had:
+   - **The palace and the city:** a palace on a mountainside, a waterfall through the forest below, terraces of silver and green held up by columns of light, and caged crystals for lamps.
+   - **What she notices has changed:** the royal tree with nine stars where there were four, and portraits of strangers.
+   - **Now that there are no wardwrights:** who comes when her mana flares the lamps? *Suggestion:* guards with drawn swords, then Leorin himself.
+   - **The blows under the floor through the night:** what are they? *Suggestion:* they're working on the broken crystal, to make it whole again, and she can guess what that means.

@@ -269,7 +269,7 @@ The decisions below were made for Version 1. They were checked against the redes
 
 The plan is built in `Volume 1/Chapter 3 - Design.md`.
 
-- **Seralune comes in with Chapter 4,** which is all hers: "Yes, we can make Chapter 4 all Seralune." Chapter 3 stays in Alaric's eyes. *(Proposed, to design in Chapter 4: her chapter goes back to midday, when her seal broke as Alaric arrived.)*
+- **Seralune comes in with Chapter 4,** which is all hers: "Yes, we can make Chapter 4 all Seralune." Chapter 3 stays in Alaric's eyes. *(Settled in Chapter 4, round 1: Chapters 4 and 5 are both hers, and Chapter 4 is the whole day in the seal, from the moment it broke.)*
 - **The centre of Chapter 3 is Alaric's inner fight.** "He thinks he is the reason Gerolt is now dead. He is not in a good headspace this chapter." His questions start: why are the elves trying to kill him, what was that war on Gerolt's farm, what is happening.
 - **Silas grounds him:** "snap out of it for Gerolt's sake, and keep moving forward for Gerolt's sake and Wena's."
 - **The river.** The bridge is broken and the current is strong. Wena still tries to go back to Gerolt, and Alaric grabs her fur and drags her. Silas says to leave the dog; Alaric doesn't.
@@ -316,7 +316,15 @@ The plan is built in `Volume 1/Chapter 3 - Design.md`.
 
 ## Chapter 4
 
-The plan is built in `Volume 1/Chapter 4 - Design.md`. Round 1 was asked on 27 September.
+The plan is built in `Volume 1/Chapter 4 - Design.md`.
+
+- **Round 1 (27 September).**
+  - **Two chapters, not one.** "Both Chapters 4 and 5 must be her chapters; 6 can return to Alaric." They cover "her leaving her seal, and all the lore around Natharul leading up to Cyrandor". "These chapters must be better than their predecessors and rely on my image of world building."
+  - **Chapter 4 is the day in the seal.** "She is exploring this dark room, completely black, fighting with her Alisaie inner monologue: thinking if she is dead, how did she end up here, what is happening. She must explore all emotions. It's a full day of nothingness."
+  - **It ends on the old image:** Thaeroval at the door, and Seralune seeing fear in her brother's eyes for the first time ever.
+  - **Not told "sealed" yet.** "Revealing 'sealed' right now is too soon. She should put the pieces together." Thaeroval deflects: "enough of the questions, come, follow me, do this, do that."
+  - **Her voice** (agreed): Shoko with Thaer at first, turning Alisaie as he shuts her out; Alisaie with everyone else from the start. She says sorry when her mana flares. She keeps the counting in Thaer's voice ("Count. One breath first.").
+  - *Claude's reading, to confirm:* "Yes" to question 2 also accepts Thaer feeling the seal break and coming from far off, which is why no one comes all day, and the reader learning she's an elf from the point of his ear.
 
 ## Alaric
 
@@ -338,6 +346,7 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`. Round 1 was asked on 27 S
 - **The twins are deliberate.** Alaric takes from Alphinaud and Seralune from Alisaie, his twin, to show their connection to one another.
 - **Flaw.** She's very compassionate, which makes her want to help everyone, be friends with everyone and have the best image. Because of this she often takes control of situations, and they end badly. She needs to learn that people must choose for themselves, and that her way isn't always the only way.
 - **Her side of the volume's question.** She is told she was sealed for her own good. She doesn't remember it, or making any decision for herself, so it scares her and she rejects it.
+  - **Not in Chapters 4–5** (27 September): "Revealing 'sealed' right now is too soon. She should put the pieces together."
 - **What she wants (the author's words):** "a world where people don't have to fear those with nothing, or herself." "A world where people don't have to choose what they want, because they have everything they need."
 - **Her wish is deliberately the seed of her antagonist arc.** She wants to choose for others. People don't want that; they want their own freedom of choice.
 - **Volume 1 goal.** She wants to escape a system that is choosing to lock her away because everyone tells her she's dangerous. She knows she isn't: she's a kind person who just wants to help everyone. Her mother opposed her sealing, and she wants answers on why they sealed her, directly from her mother.
@@ -374,9 +383,22 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`. Round 1 was asked on 27 S
 
 - **Everything from the old version survives,** and he stays exactly as written. His entry in `Old - Before Re-plan/World Bible/The World.md` ("Thaeroval — Seralune's Elder Brother / First Blade / Dark Bearer") is the reference.
 - **What he wants in Volume 1:** his sister safe in his "chains". He believes he must choose for her the best way to keep her safe, and that is resealing her.
+- **The seal** (27 September): "Thaeroval sealed her in a massive crystalline structure that contained her mana and used it against her to keep her sealed. When Alaric appeared, the mana searched for him and cracked the seal." It's intentional that she wakes because Alaric appeared.
+- **How he answers her** (27 September): he doesn't. "Enough of the questions, come, follow me, do this, do that."
 - **He spares Alaric.** He's far more interested in reaching his sister than in doing anything to a boy who means nothing compared to her.
 - **When he passes Alaric he feels literally nothing.**
 - **His erosion.** He slowly loses his emotions until he becomes flat, but that happens much later in the series.
+
+## Natharul's palace
+
+Agreed for Chapters 4–5 (27 September). Who each person is gets decided with the author when they're on the page.
+
+- **Leorin** is the author's own character. He's Seralune's cousin, and "he looks extremely old now, like 70 years old".
+- **Elowen** was Seralune's attendant before the seal.
+- **Cyrandor** stays, with his name, as the keeper of the queen's Order. The old image of him weeping and dropping his linen changes: "something else better suited".
+- **No wardwrights, and no silver chain.** The author: "I don't like the silver chain and there are no wardwrights."
+- **The king is away.** Natharul's scouts told him to come and see a battlefield with dead elves on it, thinking Mydea killed his people. (Chapter 1 already has "pale soldiers with pointed ears" among the dead.)
+- **The palace and the city** are to be built together from the author's picture: "we can change this together".
 
 ## The friends
 
@@ -421,6 +443,8 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`. Round 1 was asked on 27 S
 - **Ram on duty, Revy when she slips.**
 - **Seralune's feelings make her corruption flare.**
 - **Her first refusal of Seralune comes later,** not in Volume 1.
+- **Always composed on duty** (27 September).
+- **Cyrandor's order** (27 September): "Secretly, before meeting Seralune, Cyrandor told Nereth to watch over Seralune: even if she seems dangerous, she is important. Nereth obeys, but is struggling to understand why her." This replaces the old canon that she has nothing to do with the Order.
 
 ### Redd Vander
 
@@ -472,6 +496,7 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`. Round 1 was asked on 27 S
 - **The distance was random.** He just activated his Time magic; he didn't choose a thousand years. It could have been any length of time.
 - **Deliberate parallel:** both protagonists were saved without their consent by someone who loved them. Thaeroval sealed Seralune; the Time bearer sent Alaric away.
 - **Seralune does not remember Alaric** at the end of Volume 1.
+- **A thousand years, rounded** (27 September). "It isn't exactly 1000 years; it's random, but rounded to 1000 years."
 
 ### Seralune's mother, the queen
 
@@ -551,7 +576,6 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`. Round 1 was asked on 27 S
 
 ### Time
 
-- **Exactly a thousand years, or roughly?** If the distance was random, an exact thousand looks designed, and readers will hunt for a reason. An uneven figure that people round to "a thousand" would support the randomness. The old canon says exactly one thousand.
 - **Did anyone in the ancient coalition learn what he did,** and what happened to him?
 - **Does Time remember inside Alaric?** He carries Time too, dormant.
 
@@ -662,6 +686,12 @@ None of these have been changed yet. They're listed so nothing is forgotten when
 ### No one knows Alaric from the past
 
 - `Old - Before Re-plan/World Bible/The World.md:1049`: the old epilogue's "He's back" is resolved (Time remembers, not the person), but the old ritual design in `The World.md` ("The Erasure Ritual") says Alaric's own Affinities resisted the spell and the Time component displaced him by accident. Now the displacement is the ancient Time bearer's deliberate act. Does his own resistance still play a part?
+
+### The seal, the wardwrights and Nereth (Chapter 4, round 1)
+
+- `Old - Before Re-plan/World Bible/The World.md`, "The Queen's Order", says Nereth "is **not** secretly a member". Now Cyrandor has told her to watch over Seralune.
+- The old Chapters 3–5 and their designs: the carved circle and its metal strips become the crystal, and the wardwrights and the silver chain are gone.
+- `Old - Before Re-plan/World Bible/The World.md`, "Elven aging": royal bloodlines age "at a vastly slower rate", so a thousand years barely shows. Leorin now looks about seventy. See Chapter 4, round 2.
 
 ### Thaeroval feels nothing
 
