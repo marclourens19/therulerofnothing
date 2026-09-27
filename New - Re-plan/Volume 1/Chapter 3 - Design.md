@@ -1,6 +1,6 @@
 # Chapter 3: Design
 
-Started 27 September 2026. **Status:** round 1 answered (27 September); round 2 is waiting on the author. This is the plan for Chapter 3, agreed one question at a time before any writing, following the `chapter-rewrite` skill. Most of the old material changes, so the plan comes first.
+Started 27 September 2026. **Status:** rounds 1 and 2 answered (27 September). The lines are being designed together. This is the plan for Chapter 3, agreed one question at a time before any writing, following the `chapter-rewrite` skill. Most of the old material changes, so the plan comes first.
 
 ## Where Chapter 2 leaves it
 
@@ -138,6 +138,17 @@ One night into first light, in Alaric's eyes:
    - *Recommended:* "Marta", Silas's reaction, and "Kelmend's no good to you". Then later, with Silas gone out to watch, Alaric alone with Wena, crying at last.
    - The last image is his grief, and Chapter 4 cuts to Seralune.
 5. **The neighbours** (the other half of round 1's question 7). *Recommended:* leave it this chapter. His spiral is "it's my fault", and working out that Gerolt also rode away to save the children two fields over would soften that too early. The neighbours' fate is still open for a later chapter.
+
+**Answers (27 September).**
+1. **His head:** "I agree." He ends still believing it's his fault, and nobody corrects it.
+2. **The kill:** "They hear a horse closing in on them. Silas uses his skill with his sword to cut the horse down, leaving the rider winded on the ground. Silas approaches slowly, walking to him, and stabs him through the chest, heating his sword and burning the rider, killing him." *Note:* in Chapter 2 Silas also cut a horse's legs out from under a rider. Doing it again makes it his way, horses first, and it's left unremarked.
+3. **What Alaric tells Silas:** "About waking up not knowing anything, and Gerolt was there to give him food and comfort. Then riders came, and Gerolt didn't hesitate to kill one and injure the other. Alaric should be sitting on the ground in grief, his hands hiding his face as he speaks. He is shocked." So he *does* tell Silas he remembers nothing, which isn't what Claude recommended. Whether he also tells Silas about "Empty" is asked in the lines round.
+4. **The ending:** agreed.
+5. **The neighbours:** agreed, left out of this chapter.
+
+### The lines (started 27 September)
+
+Alaric's thoughts are built from the author's round 1 words ("Gerolt just died because of me, it's all my fault", "why are these elves trying to kill him, what was that war on Gerolt's farm, what is happening"). They're shown to the author in voice, turn by turn. The spoken lines wait for the author's own rough versions first.
 
 ### Later
 

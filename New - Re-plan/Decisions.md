@@ -277,6 +277,12 @@ The plan is built in `Volume 1/Chapter 3 - Design.md`.
 - **Silas's cave:** "covered behind thick bush. It's small, dirty and ugly, and just has the necessary stuff to survive."
 - **In the cave,** Silas gives only his name and asks the questions: how Alaric knew Gerolt, why the elves are after him, what happened before. Alaric is angry with him, and brings up that Gerolt told him to go to Marta.
 - **Kelmend:** Silas says it's no good, because the guards will hand him over to Natharul without question, so they need to find a way in. This comes after he hears "Marta".
+- **Round 2 (27 September).**
+  - Alaric ends the chapter still believing Gerolt died because of him. Nobody corrects it, and Silas never says it wasn't his fault.
+  - **The kill:** a horse closes in. Silas cuts the horse down, and the rider is left winded on the ground. Silas walks to him slowly and stabs him through the chest, heating his sword and burning him.
+  - **What Alaric tells Silas:** waking up knowing nothing, Gerolt giving him food and comfort, the riders, and Gerolt killing one without hesitating and maiming the other. He says it sitting on the ground, hands over his face, in shock.
+  - **The ending:** "Marta", Silas's reaction, and "Kelmend's no good". Then Alaric, alone with Wena, cries at last.
+  - The neighbours are left out of Chapter 3.
 
 ## Alaric
 
