@@ -218,6 +218,11 @@ One night, in Alaric's eyes, with no scene breaks:
 
 They're round 1 of the change list (`Chapter 2 - Changes.md`).
 
+Then (round 2):
+- "'Alaric didn't get up. He couldn't look away from Gerolt.' Should be more like: Alaric couldn't get up, he was staring at Gerolt, that old man had taken care of him until his dying breath and now, in this moment he was going to leave him and never see him again. Learn from these writing styles and implement them. I see a lot of someone did X, he did Y. Just add meaning to things."
+- "'The man crossed to him in a few strides.' The man was at him before he noticed, something like this."
+- "spattered the leaves / spattered the ground".
+
 ### Conversations to design together (after round 6)
 
 The author gives each line in their own words, and Claude gives it back in the character's voice.

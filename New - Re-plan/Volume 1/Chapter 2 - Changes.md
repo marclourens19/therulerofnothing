@@ -4,14 +4,17 @@ Started 27 September 2026. This is the change list for the redesigned Chapter 2.
 
 **Round 1 (27 September): the author's notes on the redesigned draft.** Four notes, taken as given: cut "Alaric stopped laughing" and "He stayed on his knees", add Gerolt's "The trees…", and show Wena as Alaric sees her. One instruction applied across the chapter: "the dark". The same rule as the two cuts is applied to eight more lines, and each of those waits on your yes or no.
 
+**Round 2 (27 September): meaning, and his eyes.** The author: "I see a lot of someone did X, he did Y. Just add meaning to things." Their line for Alaric after Gerolt dies, "The man was at him before he noticed", and "spattered the ground" are taken as given. The same note is applied at seven more moments that matter to Alaric, and each of those waits on your yes or no. The fights stay fast.
+
 ## At a glance
 
-- **24 changes proposed.** 0 rejected so far, so 24 are in the chapter: 19 rewritten, 5 cut and 0 added.
-- **Length:** 4,684 words before, 4,628 after.
-- **Median paragraph:** 14 words before, 14 after. The house target is roughly 14–22.
+- **36 changes proposed.** 0 rejected so far, so 36 are in the chapter: 29 rewritten, 5 cut and 2 added.
+- **Length:** 4,684 words before, 4,740 after.
+- **Median paragraph:** 14 words before, 14.5 after. The house target is roughly 14–22.
 - **"Nothing":** 2 times before, 2 after.
 - **"The dark":** as a place, 8 times before and 0 after. "Dark" in all: 19 before, 5 after (changes 1, 2, 3, 4, 5, 7, 8, 10, 13, 18, 19, 20, 24). The five left are all from Version 1: the grip, the cloth, the elves' armour twice, and the blood he coughs up.
 - **Lines that told the reader what they already knew:** 2 cut on your word (changes 14, 21), and 8 more proposed (changes 9, 11, 12, 15, 16, 17, 18, 22).
+- **Meaning added:** 3 changes on your word (changes 31, 33, 34), and 7 more moments proposed (changes 25, 26, 27, 28, 29, 30, 32, 35).
 
 ## Your call
 
@@ -25,6 +28,14 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 17, "The fire was still burning".** Cut it?
 - **Change 18, The rider coming up the slope.** The rider's line folded into what Alaric sees, and the last kill made concrete: yes?
 - **Change 22, The man turns.** Cut "The man stayed where he was."?
+- **Change 25, The house he woke up in.** Add what the house is to him?
+- **Change 26, After the fall.** Add "and he wasn't moving"?
+- **Change 27, By the river.** Add "Nobody was coming."?
+- **Change 28, Why he laughs.** The laugh with its meaning: yes?
+- **Change 29, Taking the sword.** Add "Taking it meant Gerolt wasn't coming."?
+- **Change 30, Three steps.** Add "He couldn't leave Gerolt down there on his own."?
+- **Change 32, The fire going out.** Add "Alaric waited for it to come back."?
+- **Change 35, Dragged away.** Add "away from Gerolt"?
 
 **Already decided**
 
@@ -44,6 +55,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 21, "He stayed on his knees":** Your note.
 - **Change 23, Wena:** Your note. The words are mine; tell me if the pause should read differently.
 - **Change 24, The last line:** By your instruction to "cut down on" the dark.
+- **Change 31, Blood on the ground:** Your note.
+- **Change 33, The man reaches him:** Your note.
+- **Change 34, Alaric can't get up:** Your line. Say if you want "in this moment" back.
 
 ## What each note became
 
@@ -53,6 +67,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 4. **Wena.** Shown as Alaric sees it: she stares at Gerolt, looks at him, doesn't come, then runs after him: change 23.
 5. **"The dark."** Every "the dark" is gone, and "dark" is down from 19 to 5: changes 1, 2, 3, 4, 5, 7, 8, 10, 13, 18, 19, 20, 24.
 6. **The same rule, applied further.** Eight more lines that told the reader what they already knew: changes 9, 11, 12, 15, 16, 17, 18, 22. These are the only changes waiting on you.
+7. **"Just add meaning to things."** Your line for Alaric after Gerolt dies, word for word apart from the punctuation. Seven more moments where he now feels or understands something in plain words: the house he woke up in, Gerolt not moving after the fall, "Nobody was coming", why he laughs, what taking the sword means, why his feet stop, and waiting for the fire to come back. These are changes 25, 26, 27, 28, 29, 30, 32, 35.
+8. **"The man was at him before he noticed."** The narration follows where Alaric is looking: change 33.
+9. **"Spattered the ground."** Change 31.
 
 ## The changes
 
@@ -144,7 +161,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 6. "The trees…"
 
-*Draft lines 237–239 → revised lines 237–239*
+*Draft lines 237–239 → revised lines 239–241*
 
 **Before**
 
@@ -166,7 +183,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 7. The trees come close
 
-*Draft line 269 → revised line 269*
+*Draft line 269 → revised line 271*
 
 **Before**
 
@@ -184,7 +201,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 8. Under the branches
 
-*Draft line 287 → revised line 287*
+*Draft line 287 → revised line 289*
 
 **Before**
 
@@ -200,7 +217,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 9. "Go on"
 
-*Draft lines 303–307 → revised line 303*
+*Draft lines 303–307 → revised line 305*
 
 **Before**
 
@@ -220,7 +237,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 10. The blood on the roots
 
-*Draft line 321 → revised line 317*
+*Draft line 321 → revised line 319*
 
 **Before**
 
@@ -236,7 +253,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 11. "Neither of them moved"
 
-*Draft line 385 → revised line 381*
+*Draft line 385 → revised line 383*
 
 **Before**
 
@@ -266,7 +283,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 13. The river
 
-*Draft line 395 → revised line 389*
+*Draft line 395 → revised line 391*
 
 **Before**
 
@@ -312,7 +329,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 16. "He didn't fall"
 
-*Draft line 453 → revised line 443*
+*Draft line 453 → revised line 445*
 
 **Before**
 
@@ -344,7 +361,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 18. The rider coming up the slope
 
-*Draft lines 475–477 → revised line 463*
+*Draft lines 475–477 → revised line 465*
 
 **Before**
 
@@ -362,7 +379,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 19. The man's cloak and face
 
-*Draft line 481 → revised line 467*
+*Draft line 481 → revised line 469*
 
 **Before**
 
@@ -378,7 +395,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 20. Gerolt's beard
 
-*Draft line 485 → revised line 471*
+*Draft line 485 → revised line 473*
 
 **Before**
 
@@ -408,7 +425,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 22. The man turns
 
-*Draft line 493 → revised line 477*
+*Draft line 493 → revised line 481*
 
 **Before**
 
@@ -424,7 +441,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 23. Wena
 
-*Draft line 507 → revised lines 491–495*
+*Draft line 507 → revised lines 495–499*
 
 **Before**
 
@@ -432,19 +449,19 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> Wena stood at Gerolt's side, staring up at him. Her head turned, and she looked up the slope at Alaric.
+> Wena stood beside him, looking up into his face. Her head turned, and she looked up the slope at Alaric.
 >
 > She didn't come.
 >
 > Then she ran after him.
 
-**Why.** The author: "Scenes like this are like just saying it for the sake of it. Remember it's all in Alaric's perspective: he saw Wena staring at Gerolt, then at them, she paused for a brief moment, then ran after Alaric." Now it's in the order he sees it. The pause is "She didn't come.", which is how it feels from his side, and she runs after him, not after "them".
+**Why.** The author: "Scenes like this are like just saying it for the sake of it. Remember it's all in Alaric's perspective: he saw Wena staring at Gerolt, then at them, she paused for a brief moment, then ran after Alaric." Now it's in the order he sees it. The pause is "She didn't come.", which is how it feels from his side, and she runs after him, not after "them". (Round 2: "at Gerolt's side" became "beside him", because "Gerolt" had just ended three lines in a row.)
 
 **Your decision.** Your note. The words are mine; tell me if the pause should read differently.
 
 #### 24. The last line
 
-*Draft line 509 → revised line 497*
+*Draft line 509 → revised line 501*
 
 **Before**
 
@@ -457,3 +474,205 @@ Each of these needs a yes or no from you. It adds something about a character or
 **Why.** The author: "One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words." The replacement words are mine; reject any you don't like. The last line itself is still call 13 from the first presentation.
 
 **Your decision.** By your instruction to "cut down on" the dark.
+
+### The fire (draft lines 185–239)
+
+#### 25. The house he woke up in
+
+*Added after draft line 217 · now revised line 219*
+
+**After this line**
+
+> His palm had gone an angry red. He didn't look at it.
+
+**New**
+
+> The boy stared up at the burning roof. He had woken under it that night, with a blanket over him and stew on the fire. It was the only place in the world he knew, and Gerolt had set fire to it himself.
+
+**Why.** Your note: "I see a lot of someone did X, he did Y. Just add meaning to things." This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. His question ("What are you doing?") now comes out of something.
+
+**Your call.** Add what the house is to him?
+
+### The ride (draft lines 241–267)
+
+#### 26. After the fall
+
+*Draft line 275 → revised line 277*
+
+**Before**
+
+> Gerolt lay a few paces off in the bracken. The boy crawled to him on his hands and knees.
+
+**After**
+
+> Gerolt lay a few paces off in the bracken, and he wasn't moving. The boy crawled to him on his hands and knees.
+
+**Why.** Your note: "I see a lot of someone did X, he did Y. Just add meaning to things." This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. Four words give him, and the reader, a moment of thinking Gerolt is dead before he swears.
+
+**Your call.** Add "and he wasn't moving"?
+
+### The forest and the river (draft lines 269–405)
+
+#### 27. By the river
+
+*Draft line 399 → revised line 395*
+
+**Before**
+
+> He leaned against a tree and let himself down it until he was sitting. Alaric sank down beside him, too tired to stand, and listened back up the slope. Leaves moved in the wind. The water ran on below them. The torchlight had gone.
+
+**After**
+
+> He leaned against a tree and let himself down it until he was sitting. Alaric sank down beside him, too tired to stand, and listened back up the slope. Leaves moved in the wind. The water ran on below them. The torchlight had gone. Nobody was coming.
+
+**Why.** Your note: "I see a lot of someone did X, he did Y. Just add meaning to things." This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. "Nobody was coming" is what he believes, reasoned from what he can hear, and it's wrong: the riders are already at the river. That's his flaw ("believes things are right when they aren't"), and it makes the relief the reader's too.
+
+**Your call.** Add "Nobody was coming."?
+
+#### 28. Why he laughs
+
+*Draft line 405 → revised line 401*
+
+**Before**
+
+> Alaric laughed too. He couldn't have said why.
+
+**After**
+
+> Alaric laughed too, and couldn't stop. Gerolt was bleeding and the house was gone, and none of it was funny.
+
+**Why.** Your note: "I see a lot of someone did X, he did Y. Just add meaning to things." This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. This replaces "He couldn't have said why", which was call 7 on the redraft.
+
+**Your call.** The laugh with its meaning: yes?
+
+### The last stand (draft lines 407–473)
+
+#### 29. Taking the sword
+
+*Draft line 417 → revised line 411*
+
+**Before**
+
+> He held it out to Alaric hilt first. When Alaric didn't take it, he pushed it into his hands and closed his fingers around the grip.
+
+**After**
+
+> He held it out to Alaric hilt first. Alaric didn't take it. Taking it meant Gerolt wasn't coming. Gerolt pushed it into his hands anyway and closed his fingers around the grip.
+
+**Why.** Your note: "I see a lot of someone did X, he did Y. Just add meaning to things." This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. He's smart (principle 1): he understands what the sword means before Gerolt says a word.
+
+**Your call.** Add "Taking it meant Gerolt wasn't coming."?
+
+#### 30. Three steps
+
+*Draft line 429 → revised line 423*
+
+**Before**
+
+> He had Wena's collar in one hand and the sword in the other, and he couldn't make his feet go any further.
+
+**After**
+
+> He had Wena's collar in one hand and the sword in the other, and his feet wouldn't go any further. He couldn't leave Gerolt down there on his own.
+
+**Why.** Your note: "I see a lot of someone did X, he did Y. Just add meaning to things." This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. It says why he stops, which the draft left blank.
+
+**Your call.** Add "He couldn't leave Gerolt down there on his own."?
+
+#### 31. Blood on the ground
+
+*Draft line 463 → revised line 453*
+
+**Before**
+
+> Gerolt didn't turn round. He coughed, and blood spattered the leaves in front of him.
+
+**After**
+
+> Gerolt didn't turn round. He coughed, and blood spattered the ground in front of him.
+
+**Why.** The author: "spattered the leaves / spattered the ground".
+
+**Your decision.** Your note.
+
+### Silas (draft lines 475–509)
+
+#### 32. The fire going out
+
+*Added after draft line 489 · now revised line 479*
+
+**After this line**
+
+> The fire on his hand went out.
+
+**New**
+
+> Alaric waited for it to come back.
+
+**Why.** Your note: "I see a lot of someone did X, he did Y. Just add meaning to things." This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. It's the one line of his between Gerolt dying and the man turning, and it's hope, not an announcement.
+
+**Your call.** Add "Alaric waited for it to come back."?
+
+#### 33. The man reaches him
+
+*Draft line 497 → revised line 485*
+
+**Before**
+
+> The man crossed to him in a few strides.
+
+**After**
+
+> The man was at his side before Alaric had noticed him move.
+
+**Why.** The author: "'The man crossed to him in a few strides.' The man was at him before he noticed, something like this." Alaric is staring at Gerolt, so the narration follows his attention: he doesn't see the man cross.
+
+**Your decision.** Your note.
+
+#### 34. Alaric can't get up
+
+*Draft line 501 → revised line 489*
+
+**Before**
+
+> Alaric didn't get up. He couldn't look away from Gerolt.
+
+**After**
+
+> Alaric couldn't get up. He was staring at Gerolt. That old man had taken care of him until his dying breath, and now Alaric was going to leave him there and never see him again.
+
+**Why.** The author: "Should be more like: Alaric couldn't get up, he was staring at Gerolt, that old man had taken care of him until his dying breath and now, in this moment he was going to leave him and never see him again." Your words, with the punctuation added and "in this moment" dropped ("now" carries it). "Alaric was going to leave him" says who is leaving whom.
+
+**Your decision.** Your line. Say if you want "in this moment" back.
+
+#### 35. Dragged away
+
+*Draft line 505 → revised line 493*
+
+**Before**
+
+> The man swore. He took Alaric by the collar and dragged him.
+
+**After**
+
+> The man swore, took Alaric by the collar and dragged him away from Gerolt.
+
+**Why.** Your note: "I see a lot of someone did X, he did Y. Just add meaning to things." This is a moment that matters to Alaric, and the draft only reported what happened. Now he feels or understands something, in plain words. "Away from Gerolt" is the part that matters to Alaric.
+
+**Your call.** Add "away from Gerolt"?
+
+### The last stand (draft lines 407–473)
+
+#### 36. "Pushed" three times
+
+*Draft line 425 → revised line 419*
+
+**Before**
+
+> Gerolt pushed him back up the slope. There wasn't much strength in it. Then he turned towards the torches.
+
+**After**
+
+> Gerolt shoved him back up the slope. There wasn't much strength in it. Then he turned towards the torches.
+
+**Why.** A craft fix. Round 2 put "pushed it into his hands anyway" two lines above this, and "pushed himself up it" is just before that. Three "pushed" in twelve lines.

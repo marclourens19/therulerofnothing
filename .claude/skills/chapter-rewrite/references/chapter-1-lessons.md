@@ -179,3 +179,23 @@ The author: "Scenes like this are like just saying it for the sake of it. Rememb
 
 **Plain beats clever.** For Gerolt burning his house, the author's line was "I guess this is finally goodbye". Offered "'Goodbye, then,' he told the house. 'Never did get those shutters to sit right.'" or "'Well,' he said to the house. 'Suppose that's goodbye, then.'", the author chose the second: "A is better, more human-like. B sounds robotic."
 
+**Add meaning where he'd feel it.** The rules above cut the narrator's explaining. They were never meant to leave a list of actions behind.
+
+> **Before:** "Get up, boy, or we're both dead!"
+>
+> Alaric didn't get up. He couldn't look away from Gerolt.
+>
+> **After:** "Get up, boy, or we're both dead!"
+>
+> Alaric couldn't get up. He was staring at Gerolt. That old man had taken care of him until his dying breath, and now Alaric was going to leave him there and never see him again.
+
+The author: "I see a lot of someone did X, he did Y. Just add meaning to things." The line is theirs, with punctuation added. It isn't the narrator interpreting. It's Alaric understanding, in plain words, what is happening to him.
+
+**The narration follows his attention.**
+
+> **Before:** The man crossed to him in a few strides.
+>
+> **After:** The man was at his side before Alaric had noticed him move.
+
+He was staring at Gerolt, so he doesn't see the man cross. The author: "The man was at him before he noticed, something like this."
+
