@@ -14,11 +14,13 @@ Started 27 September 2026. This is the change list for Chapter 3. The first draf
 
 **Round 5 (27 September): the final pass of Chapters 1–3.** Two phrases that Chapter 2 had already used for something else (changes 18, 19).
 
+**Round 6 (27 September).** Two of Alaric's thoughts joined into single lines at the author's request: "*If I stop, then he—so don't, idiot. Move.*" (change 20), and "*They've already killed him—what more do they want? Why are they still chasing me?*" (folded into change 1).
+
 ## At a glance
 
-- **19 changes proposed.** 0 rejected so far, so 19 are in the chapter: 19 rewritten, 0 cut and 0 added.
-- **Length:** 1,896 words before, 1,990 after.
-- **Median paragraph:** 16 words before, 16 after. The house target is roughly 14–22.
+- **20 changes proposed.** 0 rejected so far, so 20 are in the chapter: 20 rewritten, 0 cut and 0 added.
+- **Length:** 1,896 words before, 1,995 after.
+- **Median paragraph:** 16 words before, 16.5 after. The house target is roughly 14–22.
 - **"Nothing":** 3 times before, 3 after.
 
 ## Your call
@@ -40,6 +42,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 11, Silas swearing:** Your line; the snarl is mine.
 - **Change 12, He didn't care to ask:** Your words.
 - **Change 13, The ending:** Your ending.
+- **Change 20, "So don't, idiot. Move.":** "I like your version."
 
 ## What each note became
 
@@ -56,7 +59,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 1. The bridge, and the guards
 
-*Draft lines 45–59 → revised lines 45–61*
+*Draft lines 45–59 → revised lines 43–59*
 
 **Before**
 
@@ -88,7 +91,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 >
 > Behind them, torches were moving along the bank.
 >
-> *They've already killed him. Why are they still coming?*
+> *They've already killed him—what more do they want? Why are they still chasing me?*
 >
 > The man looked from the bridge to the torches, and then down at the river below them.
 >
@@ -96,7 +99,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 >
 > The river was wide and loud. It broke white over the rocks below them and ran quick and smooth everywhere else.
 
-**Why.** The author: "The bridge shouldn't be broken. Guards from Kelmend watch it, but an elf rider is already there speaking to the guards." So Alaric *sees* Mydea standing with Natharul before Silas says it in the cave ("Them whoreson guards would sell their own mothers to Natharul"). Also the author: "'It's me. They're coming for me.' How does he know they are coming for him?" He can't, so that thought and the look down at himself that led to it are gone. His question stays: *"They've already killed him. Why are they still coming?"* (Round 2, the author: "No hut, no lantern. They are standing around a small fire chatting, and a rider is amongst them speaking. Make the sentences combine so they don't sound robotic.")
+**Why.** The author: "The bridge shouldn't be broken. Guards from Kelmend watch it, but an elf rider is already there speaking to the guards." So Alaric *sees* Mydea standing with Natharul before Silas says it in the cave ("Them whoreson guards would sell their own mothers to Natharul"). Also the author: "'It's me. They're coming for me.' How does he know they are coming for him?" He can't, so that thought and the look down at himself that led to it are gone. His question stays: *"They've already killed him. Why are they still coming?"* (Round 2, the author: "No hut, no lantern. They are standing around a small fire chatting, and a rider is amongst them speaking. Make the sentences combine so they don't sound robotic.") (Round 6, the author: make it one line, like "They already killed him, what more could they be looking for, why are they still chasing me!?". Claude's wording joins it with a dash, keeps it a question (so it claims nothing he couldn't know), and leaves out the "!?".)
 
 **Your decision.** Your notes, rounds 1 and 2.
 
@@ -104,7 +107,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 2. A fallen tree, not the bridge
 
-*Draft line 73 → revised line 75*
+*Draft line 73 → revised line 73*
 
 **Before**
 
@@ -120,7 +123,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 3. Along the trunk
 
-*Draft line 83 → revised line 85*
+*Draft line 83 → revised line 83*
 
 **Before**
 
@@ -136,7 +139,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 4. Silas gives the sword back
 
-*Draft line 87 → revised line 89*
+*Draft line 87 → revised line 87*
 
 **Before**
 
@@ -154,7 +157,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 5. The rider from the bridge
 
-*Draft line 91 → revised line 93*
+*Draft line 91 → revised line 91*
 
 **Before**
 
@@ -172,7 +175,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 6. Behind his hands
 
-*Draft lines 151–153 → revised lines 153–155*
+*Draft lines 151–153 → revised lines 151–153*
 
 **Before**
 
@@ -192,7 +195,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 7. Silas doesn't believe him
 
-*Draft lines 161–163 → revised lines 163–167*
+*Draft lines 161–163 → revised lines 161–165*
 
 **Before**
 
@@ -214,7 +217,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 8. What he can hear
 
-*Draft line 159 → revised line 161*
+*Draft line 159 → revised line 159*
 
 **Before**
 
@@ -228,7 +231,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 9. The rag stops
 
-*Draft lines 169–173 → revised lines 173–177*
+*Draft lines 169–173 → revised lines 171–175*
 
 **Before**
 
@@ -250,7 +253,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 10. Already looking at the fire
 
-*Draft line 181 → revised line 185*
+*Draft line 181 → revised line 183*
 
 **Before**
 
@@ -268,7 +271,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 11. Silas swearing
 
-*Draft lines 79–81 → revised lines 81–83*
+*Draft lines 79–81 → revised lines 79–81*
 
 **Before**
 
@@ -290,7 +293,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 12. He didn't care to ask
 
-*Draft line 139 → revised line 141*
+*Draft line 139 → revised line 139*
 
 **Before**
 
@@ -306,7 +309,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 13. The ending
 
-*Draft lines 189–193 → revised lines 193–195*
+*Draft lines 189–193 → revised lines 191–193*
 
 **Before**
 
@@ -344,7 +347,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 15. In the water to his knees
 
-*Draft line 65 → revised line 67*
+*Draft line 65 → revised line 65*
 
 **Before**
 
@@ -360,7 +363,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 16. The cloak round the hilt
 
-*Draft line 109 → revised line 111*
+*Draft line 109 → revised line 109*
 
 **Before**
 
@@ -376,7 +379,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 17. Ducked out
 
-*Draft line 185 → revised line 189*
+*Draft line 185 → revised line 187*
 
 **Before**
 
@@ -392,7 +395,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 18. Broke out of the trees
 
-*Draft line 95 → revised line 97*
+*Draft line 95 → revised line 95*
 
 **Before**
 
@@ -408,7 +411,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 19. Set his feet
 
-*Draft line 63 → revised line 65*
+*Draft line 63 → revised line 63*
 
 **Before**
 
@@ -419,3 +422,23 @@ Each of these needs a yes or no from you. It adds something about a character or
 > Alaric caught her. He got two fistfuls of the fur at her neck and pulled. She dragged him a step up the bank before he set his feet and hauled her back, and she twisted in his hands and whined and pulled again, harder, towards Gerolt.
 
 **Why.** The final pass of Chapters 1–3 (27 September). In Chapter 2 he "dug his heels in" to make the horse go, a different act in the same words.
+
+### The run and the bridge
+
+#### 20. "So don't, idiot. Move."
+
+*Draft lines 41–43 → revised line 41*
+
+**Before**
+
+> *If I stop, then he—*
+>
+> *So don't stop.*
+
+**After**
+
+> *If I stop, then he—so don't, idiot. Move.*
+
+**Why.** The author: "Should be one though, and he should think 'If I stop, then he—so don't, then, idiot, keep moving', something like that. What do you recommend?" "Move" is Silas's own word from a moment before ("Stop drowning in self-pity, boy, and move."), so Alaric is ordering himself with it. "Idiot" is him turning on himself, and the lower-case "so" cuts him off mid-thought.
+
+**Your decision.** "I like your version."

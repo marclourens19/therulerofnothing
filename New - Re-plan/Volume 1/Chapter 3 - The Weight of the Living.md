@@ -38,9 +38,7 @@ He knew Gerolt's name.
 
 Alaric didn't know how, and there was no time to ask. The man went on, and Alaric's feet went after him.
 
-*If I stop, then he—*
-
-*So don't stop.*
+*If I stop, then he—so don't, idiot. Move.*
 
 The slope brought them down towards the water, and through the trees ahead Alaric saw a light.
 
@@ -52,7 +50,7 @@ The man pulled Alaric down behind a tree by his collar.
 
 Behind them, torches were moving along the bank.
 
-*They've already killed him. Why are they still coming?*
+*They've already killed him—what more do they want? Why are they still chasing me?*
 
 The man looked from the bridge to the torches, and then down at the river below them.
 
