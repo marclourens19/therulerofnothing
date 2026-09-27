@@ -216,7 +216,7 @@ The plan is built in `Volume 1/Chapter 2 - Design.md`.
   - "He couldn't leave Gerolt alone with them" ("down there is weird").
   - "Alaric waited for the fire to come back. It had kept burning through both arrows, and now it was out…" ("what is it, give meaning to it").
   - The house is toned down ("too melodramatic"). "Bracken" is now "ferns".
-  - Still waiting: the house as toned down, "and he wasn't moving", and the eight cuts from round 1.
+  - The eight cuts from round 1 are accepted ("I agree with all the cuts"). Still waiting: the house as toned down, and "and he wasn't moving" (change 26).
 - **Chapter 1, revision 6 (27 September):** "the dark" taken out five times, at the author's request.
 - **Lines agreed (27 September).** The author gives the line in their words, and Claude gives it back in the character's voice.
   - **Gerolt at the house:** "Well," he said to the house. "Suppose that's goodbye, then." The author chose this over a joke about the shutters: "A is better, more human-like. B sounds robotic."

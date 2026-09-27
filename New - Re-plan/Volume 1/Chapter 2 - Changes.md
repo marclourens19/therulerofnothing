@@ -22,14 +22,6 @@ Started 27 September 2026. This is the change list for the redesigned Chapter 2.
 
 Each of these needs a yes or no from you. It adds something about a character or the world that you haven't decided, or it's a change you didn't ask for.
 
-- **Change 9, "Go on".** Cut "The boy stopped pulling." and say "Go on" once?
-- **Change 11, "Neither of them moved".** Cut "Neither of them moved."?
-- **Change 12, "They carried on down the slope".** Cut it?
-- **Change 15, "The laughing stopped".** Cut it?
-- **Change 16, "He didn't fall".** Cut "He didn't fall."?
-- **Change 17, "The fire was still burning".** Cut it?
-- **Change 18, The rider coming up the slope.** The rider's line folded into what Alaric sees, and the last kill made concrete: yes?
-- **Change 22, The man turns.** Cut "The man stayed where he was."?
 - **Change 25, The house he woke up in.** Toned down after "I think kind of, it feels too melodramatic": is this right?
 - **Change 26, After the fall.** Add "and he wasn't moving"? (You asked what bracken is, so I've changed it to "ferns", but this one still needs your yes or no.)
 
@@ -43,12 +35,20 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 6, "The trees…":** Your line. Tell me if I've read it wrongly.
 - **Change 7, The trees come close:** By your instruction to "cut down on" the dark.
 - **Change 8, Under the branches:** By your instruction to "cut down on" the dark.
+- **Change 9, "Go on":** "I agree with all the cuts."
 - **Change 10, The blood on the roots:** By your instruction to "cut down on" the dark.
+- **Change 11, "Neither of them moved":** "I agree with all the cuts."
+- **Change 12, "They carried on down the slope":** "I agree with all the cuts."
 - **Change 13, The river:** By your instruction to "cut down on" the dark.
 - **Change 14, "Alaric stopped laughing":** Your note.
+- **Change 15, "The laughing stopped":** "I agree with all the cuts."
+- **Change 16, "He didn't fall":** "I agree with all the cuts."
+- **Change 17, "The fire was still burning":** "I agree with all the cuts."
+- **Change 18, The rider coming up the slope:** "I agree with all the cuts."
 - **Change 19, The man's cloak and face:** By your instruction to "cut down on" the dark.
 - **Change 20, Gerolt's beard:** By your instruction to "cut down on" the dark.
 - **Change 21, "He stayed on his knees":** Your note.
+- **Change 22, The man turns:** "I agree with all the cuts."
 - **Change 23, Wena:** Your note. The words are mine; tell me if the pause should read differently.
 - **Change 24, The last line:** By your instruction to "cut down on" the dark.
 - **Change 27, By the river:** "Yes."
@@ -239,7 +239,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Why.** Your rule on "Alaric stopped laughing" and "He stayed on his knees" ("you don't need to explain things like this, because the reader will know"), applied to a line you didn't name. Of course he stops pulling when Gerolt speaks, so "Go on" only needs saying once.
 
-**Your call.** Cut "The boy stopped pulling." and say "Go on" once?
+**Your decision.** "I agree with all the cuts."
 
 #### 10. The blood on the roots
 
@@ -271,7 +271,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Why.** Your rule on "Alaric stopped laughing" and "He stayed on his knees" ("you don't need to explain things like this, because the reader will know"), applied to a line you didn't name. The torchlight is the news; that they're still sitting there isn't.
 
-**Your call.** Cut "Neither of them moved."?
+**Your decision.** "I agree with all the cuts."
 
 #### 12. "They carried on down the slope"
 
@@ -285,7 +285,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Why.** Your rule on "Alaric stopped laughing" and "He stayed on his knees" ("you don't need to explain things like this, because the reader will know"), applied to a line you didn't name. The next line starts "Further down", which already says it.
 
-**Your call.** Cut it?
+**Your decision.** "I agree with all the cuts."
 
 #### 13. The river
 
@@ -331,7 +331,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Why.** Your rule on "Alaric stopped laughing" and "He stayed on his knees" ("you don't need to explain things like this, because the reader will know"), applied to a line you didn't name. It's the same kind of line as "Alaric stopped laughing": the reader knows the rider stops laughing once Gerolt's arm is on fire.
 
-**Your call.** Cut it?
+**Your decision.** "I agree with all the cuts."
 
 #### 16. "He didn't fall"
 
@@ -347,7 +347,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Why.** Your rule on "Alaric stopped laughing" and "He stayed on his knees" ("you don't need to explain things like this, because the reader will know"), applied to a line you didn't name. "He rocked back a step" already shows he's still standing.
 
-**Your call.** Cut "He didn't fall."?
+**Your decision.** "I agree with all the cuts."
 
 #### 17. "The fire was still burning"
 
@@ -361,7 +361,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Why.** Your rule on "Alaric stopped laughing" and "He stayed on his knees" ("you don't need to explain things like this, because the reader will know"), applied to a line you didn't name. Nothing said it went out, so the reader knows it's still burning. "The fire on his hand went out" still lands later.
 
-**Your call.** Cut it?
+**Your decision.** "I agree with all the cuts."
 
 ### Silas (draft lines 475–509)
 
@@ -381,7 +381,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Why.** The author: "One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words." The replacement words are mine; reject any you don't like. Also, "never reached him" told the reader how it would end before Alaric saw it happen; now he sees it as it happens. The last kill is now something he sees (the blade coming down), not a summary ("was on him").
 
-**Your call.** The rider's line folded into what Alaric sees, and the last kill made concrete: yes?
+**Your decision.** "I agree with all the cuts."
 
 #### 19. The man's cloak and face
 
@@ -443,7 +443,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Why.** Your rule on "Alaric stopped laughing" and "He stayed on his knees" ("you don't need to explain things like this, because the reader will know"), applied to a line you didn't name. He'd already "gone very still" three lines up. It also needs "The man's" now: with "He stayed on his knees" gone, "his head" would point at Gerolt.
 
-**Your call.** Cut "The man stayed where he was."?
+**Your decision.** "I agree with all the cuts."
 
 #### 23. Wena
 

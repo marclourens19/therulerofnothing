@@ -135,7 +135,9 @@
    "before": "\"Go on,\" Gerolt said.\n\nThe boy stopped pulling.\n\n\"Go on,\" Gerolt said again. His eyes were open now. \"Leave me here.\"",
    "after": "\"Go on,\" Gerolt said. His eyes were open now. \"Leave me here.\"",
    "why": "Your rule on \"Alaric stopped laughing\" and \"He stayed on his knees\" (\"you don't need to explain things like this, because the reader will know\"), applied to a line you didn't name. Of course he stops pulling when Gerolt speaks, so \"Go on\" only needs saying once.",
-   "call": "Cut \"The boy stopped pulling.\" and say \"Go on\" once?"
+   "call": "Cut \"The boy stopped pulling.\" and say \"Go on\" once?",
+   "decision": "accepted",
+   "decision_note": "\"I agree with all the cuts.\""
   },
   {
    "section": "The forest",
@@ -160,7 +162,9 @@
    "before": "Neither of them moved. Up behind them, the torchlight went on searching between the trees.",
    "after": "Up behind them, the torchlight went on searching between the trees.",
    "why": "Your rule on \"Alaric stopped laughing\" and \"He stayed on his knees\" (\"you don't need to explain things like this, because the reader will know\"), applied to a line you didn't name. The torchlight is the news; that they're still sitting there isn't.",
-   "call": "Cut \"Neither of them moved.\"?"
+   "call": "Cut \"Neither of them moved.\"?",
+   "decision": "accepted",
+   "decision_note": "\"I agree with all the cuts.\""
   },
   {
    "section": "The forest",
@@ -171,7 +175,9 @@
    ],
    "before": "They carried on down the slope.",
    "why": "Your rule on \"Alaric stopped laughing\" and \"He stayed on his knees\" (\"you don't need to explain things like this, because the reader will know\"), applied to a line you didn't name. The next line starts \"Further down\", which already says it.",
-   "call": "Cut it?"
+   "call": "Cut it?",
+   "decision": "accepted",
+   "decision_note": "\"I agree with all the cuts.\""
   },
   {
    "section": "The forest",
@@ -208,7 +214,9 @@
    ],
    "before": "The laughing stopped.",
    "why": "Your rule on \"Alaric stopped laughing\" and \"He stayed on his knees\" (\"you don't need to explain things like this, because the reader will know\"), applied to a line you didn't name. It's the same kind of line as \"Alaric stopped laughing\": the reader knows the rider stops laughing once Gerolt's arm is on fire.",
-   "call": "Cut it?"
+   "call": "Cut it?",
+   "decision": "accepted",
+   "decision_note": "\"I agree with all the cuts.\""
   },
   {
    "section": "The last stand",
@@ -220,7 +228,9 @@
    "before": "He rocked back a step, and the fire on his arm flared. He didn't fall. The second arrow went in under his ribs, and he fell to his knees.",
    "after": "He rocked back a step, and the fire on his arm flared. The second arrow went in under his ribs, and he fell to his knees.",
    "why": "Your rule on \"Alaric stopped laughing\" and \"He stayed on his knees\" (\"you don't need to explain things like this, because the reader will know\"), applied to a line you didn't name. \"He rocked back a step\" already shows he's still standing.",
-   "call": "Cut \"He didn't fall.\"?"
+   "call": "Cut \"He didn't fall.\"?",
+   "decision": "accepted",
+   "decision_note": "\"I agree with all the cuts.\""
   },
   {
    "section": "The last stand",
@@ -231,7 +241,9 @@
    ],
    "before": "The fire was still burning on his arm.",
    "why": "Your rule on \"Alaric stopped laughing\" and \"He stayed on his knees\" (\"you don't need to explain things like this, because the reader will know\"), applied to a line you didn't name. Nothing said it went out, so the reader knows it's still burning. \"The fire on his hand went out\" still lands later.",
-   "call": "Cut it?"
+   "call": "Cut it?",
+   "decision": "accepted",
+   "decision_note": "\"I agree with all the cuts.\""
   },
   {
    "section": "Silas",
@@ -244,7 +256,9 @@
    "before": "The rider coming up the slope never reached him.\n\nA blade came around out of the dark behind the elf and took him across the back of the neck, and he went off the side of his horse without a sound. The man who had swung it didn't stop. He ran on past the falling body and was on the next rider before the elf could turn, and he cut the horse's legs out from under it, then the rider as he fell. The last one had an arrow on the string. It missed the man's head, and the man was on him before the elf could draw another.",
    "after": "The rider was halfway up the slope when a blade came around from behind and took him across the back of the neck, and he went off the side of his horse without a sound. The man who had swung it didn't stop. He ran on past the falling body and was on the next rider before the elf could turn, and he cut the horse's legs out from under it, then the rider as he fell. The last one had an arrow on the string. It missed the man's head, and the man's blade came down before the elf could draw another.",
    "why": "The author: \"One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words.\" The replacement words are mine; reject any you don't like. Also, \"never reached him\" told the reader how it would end before Alaric saw it happen; now he sees it as it happens. The last kill is now something he sees (the blade coming down), not a summary (\"was on him\").",
-   "call": "The rider's line folded into what Alaric sees, and the last kill made concrete: yes?"
+   "call": "The rider's line folded into what Alaric sees, and the last kill made concrete: yes?",
+   "decision": "accepted",
+   "decision_note": "\"I agree with all the cuts.\""
   },
   {
    "section": "Silas",
@@ -295,7 +309,9 @@
    "before": "The man stayed where he was. Then his head turned, and he found Alaric in the leaves. His eyes went to the sword across Alaric's lap and stayed there, and something crossed his face that Alaric couldn't read.",
    "after": "The man's head turned, and he found Alaric in the leaves. His eyes went to the sword across Alaric's lap and stayed there, and something crossed his face that Alaric couldn't read.",
    "why": "Your rule on \"Alaric stopped laughing\" and \"He stayed on his knees\" (\"you don't need to explain things like this, because the reader will know\"), applied to a line you didn't name. He'd already \"gone very still\" three lines up. It also needs \"The man's\" now: with \"He stayed on his knees\" gone, \"his head\" would point at Gerolt.",
-   "call": "Cut \"The man stayed where he was.\"?"
+   "call": "Cut \"The man stayed where he was.\"?",
+   "decision": "accepted",
+   "decision_note": "\"I agree with all the cuts.\""
   },
   {
    "section": "Silas",
