@@ -536,6 +536,8 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 
 ## Chapter 6
 
+- **Design started (29 September)** in `Volume 1/Chapter 6 - Design.md`: a proposed six-scene shape and round 1 of questions.
+
 - **A day on the road first** (29 September). The author: "I recommend having a day on the road first, having Alaric distrust Silas, and Silas not responding to questions." So Marta's door moves to a later Alaric chapter. What turns the day is round 2 of `Volume 1/Chapters 5-15 - Outline.md`.
 
 ## Alaric
