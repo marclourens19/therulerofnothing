@@ -425,3 +425,147 @@ Read against the chapter as it stands, `Decisions.md`, and every round of this f
    - a. What else has changed in the palace that she'd notice, in corridors she knows?
    - b. Why does Thaer take her to a room she doesn't know? Are her old rooms still there, gone, or someone else's now?
    - c. One thing about Elowen, who she was to Seralune, so that "I've never heard of her" hurts and doesn't only puzzle her.
+
+**Answers (29 September).**
+1. **Length:** "Yes. In future make 4k–5k a goal, but chapters can go on for as long as they need to, if it means storytelling and character writing can be done better." So Chapter 5 aims for about 4,000 words, and from Chapter 6 on the goal is 4,000–5,000, with no ceiling when the story needs more. *Claude's reading:* the "yes" also leaves Chapters 3 and 4 as they are.
+2. **Where it ends:** "Option A." It ends on the knock.
+3. **Her change:** "Agreed." She keeps what she heard from Thaer and gives him one more chance ("What was that room, Thaer?"), and in the night she looks down from the window at the drop, then eats the bread.
+4. **Leorin:** "Yes, think of him as her cousin." **His position:** "that of a royal voice when the king is away. Since Thaer is a Ruler, he is unable to become king, since he will be used for the army etc. Leorin takes the king's voice when the king is away, like the King's Hand in GOT."
+5. **Nereth:** "Agreed." She stays silent in the corner, Seralune asks her name, and her first act of care comes after the guards have gone.
+6. **The voices through the door:** "Agreed." It starts too low to hear, then whole short lines come through, and one of them lets her wonder whether her father was on the ship.
+7. **The blows:** "Agreed." The question at the first blow, her answer later in the night, and at first light the silence frightens her.
+8. **The author's own lines:** "Agreed." So "You left me in here, and I stayed.", and "you… you of all people" and "I couldn't say" stay.
+9. **The author's world:**
+   - a. "It's been 1000 years, so everything has changed."
+   - b. "The palace has been changed drastically." So her old rooms are gone, and the corridors at the top of the stairs are no longer ones she knows. *(This changes the draft's "At the top, the corridors were ones she knew.")*
+   - c. Elowen: "She was Seralune's handmaiden. She is basically her 'mother', in terms of a maid helping her learn to read, write and act like a lady."
+
+## The deep revision: the new design (29 September)
+
+Built from round 1's answers, the agreed lines, and the parts of the plan the author accepted. Each scene says what stays, what changes and what's new. **New** marks Claude's own ideas that the author hasn't agreed yet. Wording marked "for the dialogue round" isn't written yet. The word counts are targets, not quotas; together they come to about 4,300.
+
+### The facts this design adds
+
+- **Leorin speaks for the king while he's away,** like the King's Hand in *Game of Thrones*. The guards obey him. He can argue with Thaer but, on Claude's reading (round 2, question 4), he can't make him do anything.
+- **Thaer can never be king.** He's a Ruler, and he's needed for the army. Nothing in Chapter 5 says so.
+- **The palace has changed beyond knowing.** The falls and the royal tree are where she left them; the palace around them isn't. Her old rooms are gone.
+- **Elowen raised her,** as much as a maid can: she taught her to read and write and how to act like a lady.
+
+### 1. The chamber (about 450 words; now about 370)
+
+- **Stays:** "What's wrong?" she whispered. The sword missing its sheath, and "she had watched him put that sword away all her life". The embrace that hurts and "You're hurting me." "How long have you been awake?" / "…I called and called, and nobody came." "What is that thing, Thaer?… What is this place?" "Not here… No more questions, Seralune. Not here."
+- **Changes (prose):** the sword sentence loses two of its three "and"s; "His eyes came down to her at last" becomes plainer; "'Thaer.' She said it into his chest." becomes "'Thaer,' she said into his chest."; "She stopped, and made him stop with her" becomes his grip pulling before he stops.
+- **New (round 1, agreed):** when she says nobody came, he answers that before anything else. His hands tighten on her shoulders, and what he says isn't an order. Then his eyes go back to the crystal. *For the dialogue round.*
+
+### 2. Leorin at the foot of the stairs (about 500 words; now about 280)
+
+- **Stays:** the guards stopping so suddenly that the ones behind walk into them; the white knuckles; the one who backs up without knowing it; *What's happening? Why are so many people here?*; her mana crowding up under her ribs; the guards standing aside for Leorin without being told; his low bow and "Your Highness."; her slow recognition; "Leorin?"; "I'm standing right here, you know. You can just ask me."; "Nobody did."; "Come with me, Seralune, and stay close. Don't speak to anyone until we're upstairs."; *Upstairs, then. He'll tell me everything then.*
+- **Changes (round 1, question 4):** his "Thaeroval. What happened here? Why has the door been cut down?" stays, and she sees him look from the cut door to the sword at Thaer's hip, so it lands as an accusation. When she knows him, she knows him as her cousin.
+- **New (round 1, question 4):** a few lines between the two men over her head, before "I'm standing right here, you know." Leorin wants her held down here, under guard (round 3 of Chapter 4's design: "take her into custody"); Thaer is taking her up himself. Neither of them asks her, which is what her line answers. Thaer ends it because she can barely stand. *For the dialogue round.*
+- **Stays, and now means more:** "The guards followed at a distance, and Leorin's voice went on among them, too low to make out." It's the king's voice giving orders.
+
+### 3. The walk up (about 850 words; now about 625)
+
+- **Stays:** the stairs; the falls, first as a sound; *So I was in the palace after all. Somewhere very deep in it.*; the servants pressing back and bowing, and the ones who forget; her knees giving; the gallery, the falls white under the moon, the forest and the city's lights; the ship, its blue-green light and its hum, and "She had seen ships fly before, but never one that size."; Thaer watching it go in silence; the royal tree; *How in the world did it grow so big? It was nowhere near that size this morning.*; *How long was I in that room?*
+- **Changes:**
+  - The long stair sentence becomes two.
+  - **At the top, the corridors aren't ones she knows** (round 1, 9b). She can hear the falls exactly where they've always been, so this is the palace, but nothing else is where it should be. What she notices is round 2, question 1.
+  - **Cyrandor is "an old servant",** so he isn't a second "old man" straight after Leorin.
+  - "At first she took it for a cloud, it was so big" becomes "It was so big that at first she took it for a cloud."
+- **New:**
+  - **On the stairs** (agreed), after her thoughts about Leorin's age: she looks at Thaer, and his face is the one she saw this morning. *Leorin had grown old. Thaer had not.* She doesn't know why; nothing explains royal blood.
+  - **On the gallery** (agreed), after *How long was I in that room?*, she asks him aloud. He doesn't answer, and takes her on. *For the dialogue round.*
+
+### 4. The room, and Nereth (about 450 words; now about 290)
+
+- **Stays:** a room she doesn't know, made ready, with the fire, the lamps, the bed, the water, the bread and fruit, and the shutters open on the falls; she drinks first; "We're upstairs," she said.; "Get some rest. There are things I have to see to, and I'll be back as soon as I'm able."; Nereth standing silent in the corner by the door, there all along (round 1, agreed); "Where's my mother?" / "I couldn't say, Your Highness." / "Then fetch Elowen. She'll know." / "I've never heard of her, Your Highness."; the stare; *Never heard of Elowen? How? She's by my side every day.*; "Well. This is getting me nowhere." … "You do have a name, I take it?" / "Nereth, Your Highness."
+- **Changes:** "He brought her the length of the gallery and in through a door, into a room she didn't know" becomes "Thaer led her along the gallery and through a door into a room she didn't know." A basin and clean linen join the room's description, so Nereth has them to hand later.
+- **New:**
+  - **Elowen** (round 1, 9c): one small memory after *She's by my side every day*, so that "never heard of her" hurts. Round 2, question 2.
+  - *Optional, new:* one thought that these aren't her rooms. Cut it if it crowds "We're upstairs."
+
+### 5. The door (about 500 words; now about 250)
+
+- **Stays:** her pacing, legs shaking; *Why is he so on edge? He's never been like this, not once.*; voices outside; her ear to the wood, with Nereth an arm's length away in her corner, not moving; *Is that Thaer speaking? And who else?*; backing away and sitting down hard on the bed; *Who? Me? Sealed? No.*; *Is that what that room was?*; *People don't sleep inside crystal. That's what I told myself.*
+- **Cut:** "Nobody had told her anything, not Leorin or the guards or this maid, and not Thaer either." The reader has just watched it happen (the plan).
+- **Changes (round 1, question 6):** the fragments become an argument that starts too low to hear, then rises, until a few whole short lines come through.
+  - It's about who decides what happens to her, and neither man thinks to ask her.
+  - Leorin wants her sealed before her strength comes back. She hears "sealed", never "again".
+  - Thaer won't let anyone touch his sister until their father is back ("No one touches my sister", round 3; "At least wait until my father has returned. He'll have answers.", outline round 2).
+  - Leorin says the king will be gone for weeks. *New:* once, in the heat of it, he says he speaks for the king until then.
+  - *For the dialogue round.*
+- **New (agreed):** after the sealed thoughts, the ship: *Weeks. That ship…* and her question whether Father was on it.
+- **New (round 1, question 3):** before his knock, she decides not to tell him what she heard. It's one thought, in her own words, and the first thing she has ever kept from him. *For the dialogue round.*
+
+### 6. Thaer comes back (about 650 words; now about 200)
+
+- **Stays:** two knocks, and he comes in before she can answer, the way he always has ("it" now points at him, not at the door); "What's happening, Thaer? Why is everyone acting like this?" and no answer; "Did I do something wrong? Nobody will tell me anything, and you… you of all people."; "You haven't eaten."; the anger; "When you've slept—" / "Don't you dare send me to bed like a child!"; she catches his arm; "Seralune, get some rest. I'll be back in the morning."; "You said you'd be back before evening, too."; his hand stopping on the door; the lock turning.
+- **Changes:**
+  - "You told me to rest, and I rested." becomes "You left me in here, and I stayed." (round 1, 8a).
+  - "He freed his arm" becomes something with feeling in it.
+  - **"You haven't eaten." moves:** it's now his answer to the room question.
+- **New** (the order of the pressure):
+  1. *New:* to "Did I do something wrong?", he says "No." at once. It's the one question he answers, because it costs him nothing.
+  2. **The last chance** (agreed): "What was that room, Thaer?" He looks at the tray: "You haven't eaten." Now the reader sees what she sees: he knows, and he won't say.
+  3. *New:* her evidence spills out unevenly in the anger. Leorin's face, the tree, nobody having heard of Elowen, and "how long?" a second time, angrier than on the gallery.
+  4. *New:* after the lock, one thought only, that he didn't tell her. *For the dialogue round.*
+
+### 7. The night (about 750 words; now about 250)
+
+- **Stays:** she doesn't sleep; the fire burns low; *And Mother? Mother would never let them do this to me.*; the first blow, felt through her feet before she hears it; *What are those noises? They're coming from under the palace, from where I just was.*; "What are they doing down there?" / "I couldn't say, Your Highness." / "Of course. No one can say anything."; the break, "*Why can't anyone just say what is going on?*"; the guards with their swords out; Nereth between them: "Her Highness is tired. She needs to rest. That's all."; "I'm sorry. I shouldn't have shouted at you. None of this is your doing."
+- **Changes:**
+  - *Wait until my father returned. So Father's gone somewhere…* goes, because she now knows more than that. A new thought takes its place: what "weeks" means for her. *For the dialogue round.*
+  - "then Seralune was up off the bed, shouting" gets a step between the blow and the shout.
+  - Nereth stands still less often, and differently each time.
+  - "She didn't seem to know what to do with her hands." and "…Your Highness." go.
+- **New:**
+  - **The guards push back** (agreed): one orders Nereth aside, and she doesn't move; one of them lowers his sword before the other; she takes it on herself to call them if anything happens. *For the dialogue round.*
+  - **Nereth answers the sorry** (agreed, round 1, question 5), and then, without being asked, she sees to the cut hand with the basin and linen. *For the dialogue round.*
+  - **The blows, answered** (agreed): later, with the room quiet again, she puts "sealed", "that room" and the blows together, in her own plain words.
+  - **Her act** (agreed): she goes to the window and looks down at the drop, then comes back and eats the bread. Nobody says what it means.
+  - She still waits for Thaer. She doesn't trust what he decides any more, but she still wants her brother.
+
+### 8. First light (about 150 words; now about 60)
+
+- **Stays:** the window greying; the blows stopping; footsteps in the corridor; "Two knocks came." / "The door stayed shut."; "She had been waiting for him all night. 'Thaer?'"; "The lock turned."
+- **New (agreed):** when the blows stop, the silence frightens her more than they did, because it might mean they've finished. So "Thaer?" is hope and fear at once.
+
+### Knock-on effects
+
+- The corridors she knew (draft line 77) become corridors she doesn't know.
+- *So I was in the palace after all* now rests on the falls alone, which is how the draft already has it.
+- "You haven't eaten." pays off in the night, when she eats the bread.
+- The basin and linen appear in the room before Nereth uses them.
+- Her father thought in the night changes, because she hears "weeks".
+
+### Round 2 (asked 29 September)
+
+1. **What she sees changed in the palace.** "Everything has changed" needs one or two things she notices with her own eyes, or it stays a statement.
+   - a. *Recommended:* the corridors themselves. She hears the falls where they've always been, but where a passage should turn, it runs straight, and there are walls and doors where she remembers none. It follows from your answer and invents nothing.
+   - b. **Is the palace lit differently now?** If it is, light is the first thing she'd see. *New, your call:* the lamps give the same blue-green light she then sees along the ship, with no flame in them. That ties the new palace to the ship. The draft says "lamps burning", and the old World Bible had lamps that answer her mana.
+   - c. Anything else you see. Your picture comes first.
+2. **Elowen's memory.** One small memory, straight after *She's by my side every day*. *New, both of them:*
+   - a. Elowen's finger moving under each word, the nights she was learning to read.
+   - b. "Shoulders," every time she slouched.
+   - *Recommended:* whichever sounds like your Elowen, or your own. B gives her a voice in one word; A is gentler.
+3. **Leorin's office.** Does it have a name? *Suggested:* "the King's Voice", from your own words. Chapter 5 doesn't need to name it.
+4. **What can Leorin order?** Claude's reading: while the king is away, Leorin speaks for him, so the court and the guards obey Leorin. But nobody can make a Ruler do anything, so all Leorin can do with Thaer is argue. Is that right?
+5. **Who ordered the crystal repaired?** *Recommended:* Leorin, in the king's name. Thaer let him, because a mended crystal isn't her inside it (the plan's "Thaer may permit the broken crystal to be repaired"). She can't know it in Chapter 5, but it matters in Chapter 7.
+
+### The dialogue round (next, once the design is agreed)
+
+These are the exchanges to plan together. The author's rough version comes first, and Claude gives it back in the characters' agreed voices.
+
+1. Her "nobody came", and Thaer's answer.
+2. Leorin and Thaer over her head at the stairs.
+3. Her thoughts on the stairs: her cousin, old, and Thaer, not.
+4. "How long?" on the gallery.
+5. Elowen's memory.
+6. The argument through the door.
+7. Her decision, "No.", "What was that room, Thaer?", the spill, and the thought after the lock.
+8. The night:
+   - the new thought about her father;
+   - the guards and Nereth;
+   - Nereth's answer to the sorry;
+   - her words when she works out the blows;
+   - her fear when they stop.

@@ -26,7 +26,7 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - **Design one chapter at a time** (29 September). "I prefer designing chapter by chapter. The 5–15 can be a rough idea of what happens. I prefer going into detail on the current chapter." A plan across several chapters stays rough; the detail goes into the current chapter's own design file.
 - **A one-line fix is still prose** (29 September). Claude's fix "He had the sword and wanted to help. He tried to go down to Gerolt, but his knees would not unlock." was "writing sentences in a robotic manner": two short "He…" sentences side by side read like a list, and "his knees would not unlock" reads like a report. A fix gets the same test as a new paragraph: does it run the way his thought would run?
 - **Challenge the author's lines too, and offer a better-built one** (29 September). "I want you to always challenge me and ask questions, which is good." "If you have a better constructed sentence, tell me." So when the author offers a line, check it against the page (where the character is, what they've just done, what they can know) and say what doesn't fit, with a version that keeps what they meant.
-- **More content, not more words** (29 September). The author: "The chapters we are creating are far too short for my liking… little in content, where I prefer more." Chapters 3–5 are 2,000–2,600 words; Chapter 2 is 4,660 and Chapter 1 is 6,200. So a chapter's design should plan enough to happen: people under pressure, their reactions, and a choice the reader can see. The extra never comes from lore or decoration, and principle 5 still holds. *The target length is question 1 of the Chapter 5 deep revision.*
+- **More content, not more words** (29 September). The author: "The chapters we are creating are far too short for my liking… little in content, where I prefer more." Chapters 3–5 are 2,000–2,600 words; Chapter 2 is 4,660 and Chapter 1 is 6,200. So a chapter's design should plan enough to happen: people under pressure, their reactions, and a choice the reader can see. The extra never comes from lore or decoration, and principle 5 still holds. **The target** (29 September): "In future make 4k–5k a goal, but chapters can go on for as long as they need to, if it means storytelling and character writing can be done better."
 - **Keep the statuses apart** (handoff §12). Decided, inherited-but-not-contradicted, later-volume concept and open are different things. Settle one mechanism at a time, and record whether the author approves it, rejects it or keeps it open.
 - Principles settled here become the rules of the rewriting skill. The skill is `.claude/skills/chapter-rewrite/` (created 26 September, after Chapter 1). When a principle here changes, update the skill to match.
 
@@ -483,6 +483,17 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 - **Title: "Yesterday's Memories"** (29 September). The author: "Make it something like: Yesterday's Memories." What she remembers is "this morning", and by the end it's the next morning. The file is `Volume 1/Chapter 5 - Yesterday's Memories.md`.
 - **Her first words: "What's wrong?" she whispered** (29 September, "make it A"), in place of "I'm sorry". Her sorry comes later, to Nereth.
 - **A deep revision** (29 September). The author: "One thing I've noticed: the chapters we are creating are far too short for my liking. They are going slightly in the right direction, but they're little in content, where I prefer more." They shared a deep revision plan for Chapter 5, saved unchanged as `Volume 1/Chapter 5 - Deep Revision Plan.md`. It's an editorial proposal, not canon; where it conflicts with what's decided here, this file wins until the author says otherwise. Claude's reading of it, and round 1 of questions, are in `Volume 1/Chapter 5 - Design.md` ("The deep revision").
+- **The deep revision, round 1 (29 September).** The new design is in `Volume 1/Chapter 5 - Design.md` ("The deep revision: the new design"). What the author agreed:
+  - **About 4,000 words,** ending on the knock (the plan's Option A). Cyrandor, her mother and the escape stay in Chapter 7.
+  - **Her change is visible.** She keeps what she heard from Thaer and gives him one more chance ("What was that room, Thaer?"), which he answers with "You haven't eaten." In the night she looks down from the window at the drop, then eats the bread.
+  - **Thaer's love comes first:** when she says nobody came, he answers that before he evades anything.
+  - **Leorin:** she knows him as her cousin. His "Why has the door been cut down?" stays, as an accusation. He and Thaer clash over her head before "I'm standing right here, you know."
+  - **She sees it:** Leorin has grown old and Thaer hasn't. On the gallery she asks Thaer aloud how long it's been, and he doesn't answer.
+  - **Nereth** stays silent in the corner, and Seralune asks her name. Her first act of care comes after the guards have gone: she answers the sorry and sees to the cut hand. The guards push back before they leave.
+  - **Through the door,** the voices rise until whole short lines come through. One of them tells her the king will be gone for weeks, and she wonders whether her father was on the ship.
+  - **The blows:** her question at the first blow stays; she works out the answer later in the night; when they stop at first light, the silence frightens her.
+  - **The author's lines:** "You left me in here, and I stayed." replaces "You told me to rest, and I rested." (she never rested). "You… you of all people" and "I couldn't say" stay.
+  - **Chapters 3 and 4 stay as they are** (Claude's reading of the "yes" to question 1).
 - *Open:* Nereth's first disobedience ("still undecided", handoff §15.10).
 
 ## Chapter 6
@@ -556,14 +567,18 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 - **He spares Alaric.** He's far more interested in reaching his sister than in doing anything to a boy who means nothing compared to her.
 - **When he passes Alaric he feels literally nothing.**
 - **His erosion.** He slowly loses his emotions until he becomes flat, but that happens much later in the series.
+- **He can never be king** (the author, 29 September): "Since Thaer is a Ruler, he is unable to become king, since he will be used for the army." Whether that holds for every Ruler, or only in Natharul, is open.
 
 ## Natharul's palace
 
 Agreed for Chapters 4–5 (27 September). Who each person is gets decided with the author when they're on the page.
 
 - **Leorin** is the author's own character. He's Seralune's cousin, and "he looks extremely old now, like 70 years old".
+  - **He speaks for the king while the king is away** (the author, 29 September): "that of a royal voice when the king is away… Leorin takes the king's voice when the king is away, like the King's Hand in GOT." So the guards obey him. *To confirm (Chapter 5, deep revision round 2):* the office's name, and Claude's reading that he can argue with Thaer but can't make a Ruler do anything.
+  - Seralune thinks of him as her cousin (29 September).
 - **Who ages, and how much** (27 September). "Thaer isn't old because of his royal elf blood directly. Leorin is just related to royal blood. Her father just looks a little older." So direct royal blood barely ages in a thousand years, and Leorin, who is only related to it, has grown old.
-- **Elowen** was Seralune's attendant before the seal.
+- **Elowen** was Seralune's attendant before the seal. **She was her handmaiden, and almost a mother to her** (the author, 29 September): "basically her 'mother', in terms of a maid helping her learn to read, write and act like a lady."
+- **The palace has changed drastically in a thousand years** (the author, 29 September): "It's been 1000 years, so everything has changed." Her old rooms are gone. The falls and the royal tree are where she left them.
 - **Cyrandor** stays, with his name, as the keeper of the queen's Order. The old image of him weeping and dropping his linen changes: "something else better suited".
   - **To Nereth** (27 September): "He is her mentor, almost a father figure. He taught her everything in the castle, and how to work and do things."
 - **No wardwrights, and no silver chain.** The author: "I don't like the silver chain and there are no wardwrights."
@@ -800,6 +815,8 @@ Not in the central cast yet, and not locked (handoff §7, §14.3).
 - **The trail.** How far does her mother's trail get in Volume 1? In the old version it ended in ashes at the Lily Steps.
 
 - **Two internal wars at one climax.** His ("Why me, when I'm empty?") and hers ("Why must I? But I should.") need different shapes. She keeps her own sensory language and doesn't borrow his.
+
+- **The heir.** If a Ruler can't be king, who is Natharul's heir now, and who was it in Seralune's time? *(Raised by Claude, 29 September, from the author's note on Thaer. Not needed for Chapter 5.)*
 
 ### Time
 
