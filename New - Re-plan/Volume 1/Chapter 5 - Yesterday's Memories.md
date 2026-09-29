@@ -1,6 +1,6 @@
-# Chapter 5
+# Chapter 5 – Yesterday's Memories
 
-"I'm sorry," she whispered.
+"What's wrong?" she whispered.
 
 His eyes came down to her at last. He went to put his sword away without looking, and the point missed the sheath and scraped across the plates at his hip, and he had to look down to find it. She had watched him put that sword away all her life, and he had never once needed to look.
 

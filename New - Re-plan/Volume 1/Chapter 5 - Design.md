@@ -1,6 +1,6 @@
 # Chapter 5: Design
 
-Started 29 September 2026. **Status:** the design and the dialogue are agreed ("that room", 29 September). **Chapter 5 is one chapter now** (`Chapter 5.md`, 2,190 words), after the author's "Combine both chapters, no need for Part 1 and Part 2, since it's a short chapter in total." Two things are open: its first line ("I'm sorry", options below) and its title (twenty options below).
+Started 29 September 2026. **Status:** the design and the dialogue are agreed ("that room", 29 September). **Chapter 5 – Yesterday's Memories** (`Chapter 5 - Yesterday's Memories.md`, 2,190 words) is one chapter, after the author's "Combine both chapters, no need for Part 1 and Part 2, since it's a short chapter in total." Its title and first line were settled on 29 September (below). Nothing is waiting on the author.
 
 **How this chapter gets written** (the author, 29 September): the design is agreed first, then we plan dialogue options for the key exchanges, and only then does Claude write, after saying it's ready and getting the go-ahead. The go-ahead came on 29 September: "Agreed with the room, write part 1 first."
 
@@ -326,4 +326,10 @@ The author: "No, give me 20 title options to choose from." Each works at first g
 18. **Locked From the Outside**. Chapter 4's door had no handle on her side. Now her own room locks from the outside too.
 19. **Under the Palace**. Where she was, where the noises in the night come from, and what's being done down there.
 20. **A Face She Almost Knew**. Leorin, old, with the young man she remembers somewhere under the lines.
+
+**Answers (29 September).**
+- **Her first words:** "For I'm sorry, make it A." So it opens with "What's wrong?" she whispered (change 4 in `Chapter 5 - Changes.md`).
+- **The title:** "Make it something like: Yesterday's Memories, or if you have some better recommendations tell me." It's **Yesterday's Memories** (change 3). What she remembers is "this morning", and by the end it's first light on a new day, so those memories are literally yesterday's; the reader knows they're older than that.
+  - *Two alternatives Claude offered in the same vein:* **Yesterday's Princess** (everyone bows to her, and she belongs to yesterday) and **Only This Morning** (her own words about the tree, and by the end it's the next morning).
+- **Chapter 4's title:** "Remember to make Chapter 4's title A Promise Left Fractured." It already is, in its file name and heading.
 

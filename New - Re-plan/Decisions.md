@@ -479,7 +479,8 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 - **Part 2's first draft is written (29 September):** Part 2 (950 words; its first draft is now `Volume 1/Drafts/Chapter 5 - Your Highness (Part 2) (Draft 1).md`), with twelve calls in `Volume 1/Chapter 5 - Design.md`.
 - **One chapter, not two parts** (29 September). The author: "Combine both chapters, no need for Part 1 and Part 2, since it's a short chapter in total." *(Supersedes the two parts agreed in round 1.)* It's `Volume 1/Chapter 5.md`, 2,190 words.
 - **The author on Part 2's calls (29 September):** yes to calls 1–10 (the room she doesn't know, the water, "We're upstairs", Nereth there all along, the stare before the Elowen thought, sitting on the bed, *People don't sleep inside crystal. That's what I told myself.*, Thaer's knock-and-walk-in, "You haven't eaten.", and her night thoughts about her father and mother). The noises: "she would think like: what are those noises, it's coming from below the castle where I just was", so it's *What are those noises? They're coming from under the palace, from where I just was.*
-- **Open:** the title (not "Your Highness"; twenty options in `Volume 1/Chapter 5 - Design.md`), and "I'm sorry" as her first words.
+- **Title: "Yesterday's Memories"** (29 September). The author: "Make it something like: Yesterday's Memories." What she remembers is "this morning", and by the end it's the next morning. The file is `Volume 1/Chapter 5 - Yesterday's Memories.md`.
+- **Her first words: "What's wrong?" she whispered** (29 September, "make it A"), in place of "I'm sorry". Her sorry comes later, to Nereth.
 - *Open:* Nereth's first disobedience ("still undecided", handoff §15.10).
 
 ## Chapter 6

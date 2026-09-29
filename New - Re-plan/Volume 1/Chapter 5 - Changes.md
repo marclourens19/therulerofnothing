@@ -3,13 +3,14 @@
 Written on 29 September 2026. The author: "Combine both chapters, no need for Part 1 and Part 2, since it's a short chapter in total." So Parts 1 and 2 are joined, with no break, as `Drafts/Chapter 5 (Draft 2, one chapter).md`: Part 1 as it stood after its round 1 (`Chapter 5 - Changes (Part 1).md`), then Part 2's first draft. Every change here is measured against that copy.
 
 - **Combining** (change 1): one exact repeat that joining the parts created.
-- **Round 1** (change 2): the author's answers to Part 2's calls. Calls 1–10 were accepted as written; call 11 is change 2; call 12 (the title) is waiting on the author's pick from twenty options in `Chapter 5 - Design.md`.
+- **Round 1** (change 2): the author's answers to Part 2's calls. Calls 1–10 were accepted as written; call 11 is change 2.
+- **Round 2** (changes 3–4): the title, and her first words.
 
-The heading is plain "Chapter 5" until the title is chosen. **Later rounds go on this list** (`Drafts/Chapter 5 - change list.json`).
+**Later rounds go on this list** (`Drafts/Chapter 5 - change list.json`).
 
 ## At a glance
 
-- **2 changes proposed.** 0 rejected so far, so 2 are in the chapter: 2 rewritten, 0 cut and 0 added.
+- **4 changes proposed.** 0 rejected so far, so 4 are in the chapter: 4 rewritten, 0 cut and 0 added.
 - **Length:** 2,191 words before, 2,190 after.
 - **Median paragraph:** 14 words before, 14 after. The house target is roughly 14–22.
 - **"Nothing":** 0 times before, 0 after.
@@ -24,6 +25,8 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 - **Change 1, The gallery door:** An objective repeat, fixed with the combining.
 - **Change 2, The noises below:** The author's line (29 September).
+- **Change 3, Yesterday's Memories:** The author's title (29 September).
+- **Change 4, Her first words:** The author: "For I'm sorry, make it A" (29 September).
 
 ## The changes
 
@@ -66,3 +69,39 @@ Each of these needs a yes or no from you. It adds something about a character or
 **Why.** The author (Part 2, call 11): "No, she would think like: what are those noises, it's coming from below the castle where I just was." Her thought now does the locating, so the narration no longer says "from somewhere far below her". The author's "castle" is "palace" here, as everywhere else in Chapters 4 and 5.
 
 **Your decision.** The author's line (29 September).
+
+### The title
+
+#### 3. Yesterday's Memories
+
+*Draft line 1 → revised line 1*
+
+**Before**
+
+> # Chapter 5
+
+**After**
+
+> # Chapter 5 – Yesterday's Memories
+
+**Why.** The author, choosing the title (29 September): "Make it something like: Yesterday's Memories, or if you have some better recommendations tell me." It works twice. What she remembers is "this morning": the fight with her mother, Thaer's promise, the small tree, Elowen at her side. By the end of the chapter it's first light on a new day, so those memories are literally yesterday's, and the reader knows they're older than that.
+
+**Your decision.** The author's title (29 September).
+
+### The chamber
+
+#### 4. Her first words
+
+*Draft line 3 → revised line 3*
+
+**Before**
+
+> "I'm sorry," she whispered.
+
+**After**
+
+> "What's wrong?" she whispered.
+
+**Why.** The author asked why she says sorry. Claude's reason (an instinct that she'd done something, from the Shoko side of her) wasn't on the page. "What's wrong?" is what anyone says to someone they love who looks frightened, and her sorry still comes later, to Nereth, where its reason is on the page.
+
+**Your decision.** The author: "For I'm sorry, make it A" (29 September).
