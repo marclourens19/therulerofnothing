@@ -29,6 +29,7 @@ The story is being re-planned from the beginning. Current work lives in **New - 
   - `Chapters 5-15 - Outline.md`: a rough outline of Chapters 5–15. The detail is designed one chapter at a time.
   - `Chapter 5 - Design.md`: the design of Chapter 5, agreed question by question (started 29 September), and its deep revision.
   - `Chapter 5 - The Shape of Absence.md`: Seralune's second chapter (29 September; first titled "Yesterday's Memories"). `Chapter 5 - Changes.md` shows its changes, and `Chapter 5 - Changes (Part 1).md` the changes made while it was drafted in two parts.
+  - `Chapter 5 - What the Deep Revision Changed.md`: the rewritten Chapter 5 (29 September) compared with the version before it, scene by scene, with Claude's calls. Later rounds are in `Chapter 5 - Changes (deep revision).md`.
   - `Chapter 5 - Deep Revision Plan.md`: the author's plan for revising Chapter 5 in depth (29 September), saved unchanged. It's a proposal for discussion; Claude's reading of it and the questions on it are at the end of `Chapter 5 - Design.md`.
   - `Drafts/`: earlier versions of the chapters, kept unchanged.
 

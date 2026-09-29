@@ -512,8 +512,9 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - In the night: *Father will listen to me. He has to.* / *And Mother? Mother would never let them do this to me.*
   - The guards: "Nereth, get out of the way." She doesn't move; the second guard lowers his sword ("Leave it."); "And if she—" / "Then I'll call you." She never tells them no.
   - Nereth's answer to the sorry: "No, Your Highness. You shouldn't have." Then she sees to the cut hand (the author chose this edge over the more composed option).
-  - The blows, answered: *They're mending it, and it's for me.* (Claude's reading of "the one we came up with", to confirm.)
-  - *To confirm:* Claude's reworks of the author's notes on A (Thaer's "I'm here now, Seralune." / "Where were you? I thought you'd never come."), E and G (in Alisaie's voice), I ("Leorin's an old man, Thaer. What happened while I was in that room?") and O (*They've stopped. It's mended, then.*).
+  - The blows, answered: *They're mending it, and it's for me.* (Claude's reading of "the one we came up with", confirmed with the go-ahead.)
+  - Claude's reworks of the author's notes, confirmed with the go-ahead ("Okay, write the chapter"): A (Thaer's "I'm here now, Seralune." / "Where were you? I thought you'd never come."), E and G (in Alisaie's voice), I ("Leorin's an old man, Thaer. What happened while I was in that room?") and O (*They've stopped. It's mended, then.*).
+- **The deep revision is written (29 September):** `Volume 1/Chapter 5 - The Shape of Absence.md`, 3,208 words (2,190 before). `Volume 1/Chapter 5 - What the Deep Revision Changed.md` compares it with the version before, scene by scene, and lists fourteen calls on Claude's own new lines. Everything agreed, written plainly, came to just under 2,900 words; going further needs backstory only the author can give (a memory of Thaer, of her mother, of Leorin young). Later rounds go on `Volume 1/Drafts/Chapter 5 - change list (deep revision).json`.
 - *Open:* Nereth's first disobedience ("still undecided", handoff §15.10).
 
 ## Chapter 6

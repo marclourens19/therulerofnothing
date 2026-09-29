@@ -7,7 +7,7 @@ Written on 29 September 2026. The author: "Combine both chapters, no need for Pa
 - **Round 2** (changes 3–4): the title, and her first words.
 - **The deep revision** (29 September): the title changes again, to "The Shape of Absence" (change 3, edited in place so the numbering stays).
 
-**Later rounds go on this list** (`Drafts/Chapter 5 - change list.json`).
+**Since the deep revision (29 September)** this list writes `Drafts/Chapter 5 - The Shape of Absence (Draft 3, before the deep revision).md`: the chapter as it stood before it was rewritten from the new design. The rewrite is compared with it scene by scene in `Chapter 5 - What the Deep Revision Changed.md`, and later rounds go on `Drafts/Chapter 5 - change list (deep revision).json`.
 
 ## At a glance
 
