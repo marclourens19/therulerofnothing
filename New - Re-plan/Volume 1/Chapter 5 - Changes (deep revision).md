@@ -12,7 +12,7 @@ Started 29 September 2026. Chapter 5 was rewritten from the new design agreed in
 ## At a glance
 
 - **24 changes proposed.** 0 rejected so far, so 24 are in the chapter: 22 rewritten, 2 cut and 0 added.
-- **Length:** 3,201 words before, 3,054 after.
+- **Length:** 3,201 words before, 3,061 after.
 - **Median paragraph:** 14 words before, 13 after. The house target is roughly 14–22.
 - **"Nothing":** 1 times before, 1 after.
 
@@ -467,9 +467,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> *It sounds like they're doing something to it.*
+> *Whatever they're doing down there, they're doing it to that thing.*
 
-**Why.** The author: "I still don't like these two lines, make something Alisaie would think… It sounds like they are doing something to it." The sentence before it names the crystal, so "it" is clear. Replaces N2, agreed in the dialogue round.
+**Why.** The author: "I still don't like these two lines, make something Alisaie would think… It sounds like they are doing something to it." The sentence before it names the crystal, so "it" is clear. Replaces N2, agreed in the dialogue round. *Edited (29 September):* the author picked option 3 of five variants.
 
 **Your decision.** The author's line (29 September).
 
@@ -483,8 +483,8 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> *The noises… They've stopped.*
+> *They've stopped. Whatever they were doing, it's done.*
 
-**Why.** The author's line ("The noises… They've stopped"). Replaces O, agreed in the dialogue round.
+**Why.** The author's line ("The noises… They've stopped"). Replaces O, agreed in the dialogue round. *Edited (29 September):* the author picked option 2 of five variants.
 
 **Your decision.** The author's line (29 September).

@@ -296,7 +296,7 @@ Nereth sat on the very edge of the chair by the hearth, with her back straight a
 
 The blows went on. Seralune listened to them from the bed, and thought of the crystal standing split open in that room far below her, and of the word that had come through the door.
 
-*It sounds like they're doing something to it.*
+*Whatever they're doing down there, they're doing it to that thing.*
 
 She got up and went to the window. The shutters still stood open, and the spray blew in cold off the falls. She leaned out as far as she dared. The wall dropped away beneath her, smooth and wet, all the way down to where the falls met the forest, so far below that she couldn't see the bottom.
 
@@ -304,7 +304,7 @@ She stayed there until the cold had got into her hands. Then she went back to th
 
 When the window began to grey, the blows stopped.
 
-*The noises… They've stopped.*
+*They've stopped. Whatever they were doing, it's done.*
 
 There were footsteps in the corridor.
 
