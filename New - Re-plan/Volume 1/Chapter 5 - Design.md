@@ -1,6 +1,6 @@
 # Chapter 5: Design
 
-Started 29 September 2026. **Status:** the design and the dialogue are agreed ("that room", 29 September). **Chapter 5 – Yesterday's Memories** (`Chapter 5 - Yesterday's Memories.md`, 2,190 words) is one chapter, after the author's "Combine both chapters, no need for Part 1 and Part 2, since it's a short chapter in total." Its title and first line were settled on 29 September (below). Nothing is waiting on the author.
+Started 29 September 2026. **Status:** the design and the dialogue are agreed ("that room", 29 September). **Chapter 5 – Yesterday's Memories** (`Chapter 5 - Yesterday's Memories.md`, 2,190 words) is one chapter, after the author's "Combine both chapters, no need for Part 1 and Part 2, since it's a short chapter in total." Its title and first line were settled on 29 September (below). **Since 29 September it's being revised in depth.** The author finds it too short and too thin in content, and shared a deep revision plan (`Chapter 5 - Deep Revision Plan.md`). Round 1 of questions on it is waiting on the author: see "The deep revision" at the end of this file.
 
 **How this chapter gets written** (the author, 29 September): the design is agreed first, then we plan dialogue options for the key exchanges, and only then does Claude write, after saying it's ready and getting the go-ahead. The go-ahead came on 29 September: "Agreed with the room, write part 1 first."
 
@@ -333,3 +333,95 @@ The author: "No, give me 20 title options to choose from." Each works at first g
   - *Two alternatives Claude offered in the same vein:* **Yesterday's Princess** (everyone bows to her, and she belongs to yesterday) and **Only This Morning** (her own words about the tree, and by the end it's the next morning).
 - **Chapter 4's title:** "Remember to make Chapter 4's title A Promise Left Fractured." It already is, in its file name and heading.
 
+
+## The deep revision (29 September)
+
+The author: "One thing I've noticed: the chapters we are creating are far too short for my liking. They are going slightly in the right direction, but they're little in content, where I prefer more. I have a deep revision plan so you can understand what I'm thinking. Let's discuss it together."
+
+The plan is saved unchanged as `Chapter 5 - Deep Revision Plan.md`. By its own status line it's "an editorial proposal for discussion", so nothing in it is canon until it's agreed here. The order stays the same as for every chapter: the design is agreed, then a dialogue round, then Claude says the rewrite is ready and waits for the go-ahead. Because much of the chapter will change, the rewrite follows the skill's route for a large change: the chapter as it stands is saved in `Drafts/` first, the new version is presented scene by scene, and later rounds go on a change list.
+
+### How long the chapters are
+
+| Chapter | Words |
+|---|---:|
+| 1, A War Without Sound | 6,217 |
+| 2, The Price of a Voice | 4,660 |
+| 3, The Weight of the Living | 2,024 |
+| 4, A Promise Left Fractured | 2,633 |
+| 5, Yesterday's Memories | 2,195 |
+
+### Claude's reading of the plan
+
+Read against the chapter as it stands, `Decisions.md`, and every round of this file and `Chapters 5-15 - Outline.md`.
+
+**Already right in the repository.** Two of the plan's "must fix" points describe a copy that lost its formatting, probably when it was pasted somewhere:
+- The heading has its `#`, and every thought is in italics.
+- The knock at first light is already different from Thaer's, by the method agreed in round 1 of the outline. Thaer knocks twice and walks straight in ("the door opened before she could answer"); at first light, "The door stayed shut." The plan's quieter, quicker knock could go on top, but the difference is already there for a reader to catch.
+
+**Where Claude agrees with the plan.** These go into the new design unless the author says no.
+1. The chapter's weakness is movement. She follows, waits and asks, and ends the night the way she began it. (But see question 3: the outline's round 2 already gave her a choice, and the draft doesn't show it.)
+2. The added length should come from people, not lore: reactions, interruptions, relationships under pressure. The plan's "Material not to add" list stands.
+3. **Thaer's love, early.** When she says nobody came, he answers that before he evades anything else.
+4. ***Leorin had grown old. Thaer had not.*** It's canon (direct royal blood barely ages), it's the first thing she'd notice, and the draft leaves it out.
+5. **She asks Thaer aloud** how long she was down there, on the gallery, and he doesn't answer. Her thought *How long was I in that room?* stays.
+6. **Cyrandor is "an old servant",** so two old men close together don't blur.
+7. **The guards don't leave after one line.** They order Nereth aside, she doesn't move, and one of them lowers his sword before the other.
+8. **"She didn't seem to know what to do with her hands" goes.** Decisions keep Nereth composed on duty until the escape.
+9. **Prose:**
+   - "His eyes came down to her at last" is stiff.
+   - The sword sentence has three "and"s, and they bury the mistake.
+   - "She stopped, and made him stop with her" sounds composed rather than lived.
+   - In "the way it always had", the "it" points at the door rather than at Thaer.
+   - "He freed his arm" is mechanical.
+   - "At first she took it for a cloud, it was so big" is a comma splice.
+
+**Where Claude disagrees with the plan.**
+- **"You brought her up."** Leorin meets them at the bottom of the stairs, before anyone has brought her anywhere (question 4).
+- **"It was so large that she mistook it for a cloud at first."** This fixes the comma splice, but it trades plain words for stiffer ones ("large", "mistook"). Better: "It was so big that at first she took it for a cloud."
+- **"Sometime in the night".** "Some time in the night" is standard British usage, and it stays.
+- **Thaer's "Not before Father comes home."** It tells her to her face that they mean to put her back. The chapter's fixed facts keep that from being said to her face, and it's more of an answer than this Thaer gives anyone.
+- **The sample confrontation** has her throw what she heard at him: "Then why was Leorin asking what you meant to do with me?" That reverses the outline's round 2, where she keeps it to herself (question 3).
+- ***They were repairing it.*** as her thought at the first blow. The author chose a question there instead (question 7).
+
+**Where the plan undoes the author's own choices** (questions 3–8):
+- Nereth standing silent in the corner (round 1);
+- Seralune asking Nereth's name (round 1);
+- Leorin's first words (round 2);
+- the fragments through the door (outline, round 2);
+- keeping what she heard from Thaer (outline, round 2);
+- the question at the first blow (Part 2, call 11);
+- "You told me to rest, and I rested" (Chapter 4 design, round 4) and "you… you of all people" (round 2).
+
+### Round 1 (asked 29 September)
+
+1. **Length.**
+   - The plan aims for 3,100–3,500 words and warns against pushing towards 5,000. The author wants more.
+   - *Recommended:* about 4,000 for Chapter 5, which is roughly what questions 3–9 add without padding. From Chapter 6 on, 4,000–5,000 is the normal target, with Chapter 2 (4,660) as the model. A quiet chapter can come in lower, but never because we planned too little to happen.
+   - **Chapters 3 and 4:** *Recommended,* leave them. Both are accepted, and the handoff says Chapters 1–4 need no broad rewrites. If something is missing from them, name it and it gets added the same way.
+2. **Where the chapter ends.**
+   - *Recommended:* the plan's Option A, which is also what was agreed on 27 September: it ends on the knock, and Cyrandor, her mother's proof and the escape stay in Chapter 7.
+3. **Her change** (the plan's biggest point).
+   - In the outline's round 2 the author agreed that she keeps what she heard to herself, and gives Thaer the chance to tell her the truth. It's the first thing she has ever kept from him. The draft never shows it as her choice, so the plan reads her as only waiting.
+   - *Recommended:* keep that choice and make it visible. When his knock comes, one thought shows she has decided not to tell him. Then she gives him one more chance: "What was that room, Thaer?" She asked in the chamber, and took his "until we're upstairs" as a promise. He answers with the food. Now his silence is a lie she can see, and the anger that follows is earned.
+   - **In the night,** one thing she *does*, not only feels, to show she has stopped waiting for him. *Recommended (new, your call):* she goes to the window and looks down at the drop, then comes back and eats the bread he told her to eat. Nobody says what it means. *Alternative:* she tries the door herself once the guards have gone.
+4. **Leorin.**
+   - **His first words are the author's:** "What happened here? Why has the door been cut down?" The plan calls it a question asked for the reader's benefit. Claude thinks it holds. To Leorin, a door that was meant to stay shut has been cut open by the prince, so it isn't a request for information but an accusation. *Recommended:* keep it, and let her see him look from the door to Thaer's sword, so the reader hears the accusation. Then take the plan's idea: a few lines between the two men over her head, before "I'm standing right here, you know."
+   - **He's her cousin.** Does the page say so yet? *Recommended:* yes, one word in her head when she knows him. Family bowing to her like a stranger is what makes the bow hurt.
+   - **What is he now?** The guards step aside for him without being told. His place decides how he can speak to the prince. Nothing is decided; your call.
+5. **Nereth.**
+   - The author's image (round 1): she stands in the corner in silence and does nothing. The plan wants her doing small jobs from the start (linen, water), and Thaer naming her before he goes.
+   - *Recommended:* keep the silence, and keep Seralune asking her name ("You do have a name, I take it?"). The silence is what Seralune breaks against. Nereth's first act of care comes after the guards have gone, in answer to the sorry: she sees to the cut hand, or pours her water. It's the plan's idea, moved to where it means most. Her words back go into the dialogue round; the plan's "No, Your Highness. You shouldn't have." is one option.
+6. **The voices through the door.**
+   - The author chose fragments: "…needs to be… sealed…" / "…at least wait until… my father… returned… answers…". The plan says a door doesn't drop out exactly the important words, and wants a whole argument.
+   - *Recommended, in between:* it starts too low to hear, as now. Then the voices rise, and a few whole short lines come through, the way raised voices do. Leorin wants her sealed before she gets her strength back. Thaer won't let anyone touch her until their father is back (the author's round 3 line, "no one touches my sister", can come back here). And one line says the king will be gone a long time. That lets her ask herself whether her father was on that ship, which pays off Thaer watching it go in silence. The exact lines are for the dialogue round.
+7. **The blows.**
+   - The author's thought at the first blow stays: *What are those noises? They're coming from under the palace, from where I just was.* The plan wants her to conclude *They were repairing it.*
+   - *Recommended:* the question at the first blow, and the answer later in the night, in her own plain words, once she has put "sealed", "that room" and the blows together. Then (new, your call) when the blows stop at first light, she's afraid it means they've finished, so her "Thaer?" at the knock is hope and fear at once.
+8. **The author's own lines that the plan wants changed.**
+   - a. "You told me to rest, and I rested." On the page she didn't rest; she paced and listened at the door. *Recommended:* keep its shape and make the second half true, for example "You told me to follow you, and I followed. You left me in here, and I stayed."
+   - b. "you… you of all people". The plan calls it generic. *Recommended:* keep it. It's how people talk when they're hurt, and it breaks off because she can't finish.
+   - c. Nereth's "I couldn't say, Your Highness." The plan calls it a placeholder. *Recommended:* keep it. The snap, "Of course. No one can say anything.", works because Seralune throws Nereth's own word back at her.
+9. **More of the author's world, and of hers.** Chapter 4's round 1: "These chapters must… rely on my image of world building." The walk up is where the draft is thinnest, and the plan adds nothing there. Your words first; Claude gives them back in her voice.
+   - a. What else has changed in the palace that she'd notice, in corridors she knows?
+   - b. Why does Thaer take her to a room she doesn't know? Are her old rooms still there, gone, or someone else's now?
+   - c. One thing about Elowen, who she was to Seralune, so that "I've never heard of her" hurts and doesn't only puzzle her.
