@@ -13,8 +13,8 @@ Started 29 September 2026. Chapter 5 was rewritten from the new design agreed in
 ## At a glance
 
 - **28 changes proposed.** 0 rejected so far, so 28 are in the chapter: 26 rewritten, 2 cut and 0 added.
-- **Length:** 3,201 words before, 3,137 after.
-- **Median paragraph:** 14 words before, 14 after. The house target is roughly 14–22.
+- **Length:** 3,201 words before, 3,134 after.
+- **Median paragraph:** 14 words before, 13.5 after. The house target is roughly 14–22.
 - **"Nothing":** 1 times before, 1 after.
 
 ## Your call
@@ -362,9 +362,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> *Leorin isn't old. And my own cousin bowed to me like he'd never seen me before.*
+> *Leorin isn't old. My own cousin, asking me to forgive him. For what?*
 
-**Why.** Review: "*Leorin isn't old.* would do." The cousin line stays (the author's round 1 and C1). **Cut from the author's own lines:** *So why does he look so old? What happened?* (Part 1, call 6).
+**Why.** Review: "*Leorin isn't old.* would do." The cousin line stays (the author's round 1 and C1). **Cut from the author's own lines:** *So why does he look so old? What happened?* (Part 1, call 6). *Edited (29 September):* once Leorin says "Forgive me, Seralune." (change 25), a thought about him bowing "like he'd never seen me before" ignored what he'd just said. It now reacts to it, and keeps "my own cousin" (the author's round 1).
 
 **Your decision.** The author's review (29 September).
 

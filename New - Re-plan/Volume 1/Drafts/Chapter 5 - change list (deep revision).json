@@ -238,10 +238,10 @@
     "round5"
    ],
    "before": "*That was Leorin. It can't have been, though. Leorin isn't old.*\n\n*But it was him, I know it was. My own cousin, bowing to me like he'd never seen me before. So why does he look so old? What happened?*",
-   "why": "Review: \"*Leorin isn't old.* would do.\" The cousin line stays (the author's round 1 and C1). **Cut from the author's own lines:** *So why does he look so old? What happened?* (Part 1, call 6).",
+   "why": "Review: \"*Leorin isn't old.* would do.\" The cousin line stays (the author's round 1 and C1). **Cut from the author's own lines:** *So why does he look so old? What happened?* (Part 1, call 6). *Edited (29 September):* once Leorin says \"Forgive me, Seralune.\" (change 25), a thought about him bowing \"like he'd never seen me before\" ignored what he'd just said. It now reacts to it, and keeps \"my own cousin\" (the author's round 1).",
    "decision": "accepted",
    "decision_note": "The author's review (29 September).",
-   "after": "*Leorin isn't old. And my own cousin bowed to me like he'd never seen me before.*"
+   "after": "*Leorin isn't old. My own cousin, asking me to forgive him. For what?*"
   },
   {
    "section": "The walk up",

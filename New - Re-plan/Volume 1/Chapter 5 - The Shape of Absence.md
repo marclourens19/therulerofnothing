@@ -74,7 +74,7 @@ Leorin stepped back against the wall to let them pass. As she went by him, he sa
 
 The stairs went on and on. Thaer took them fast, with his hand closed round her arm, and he didn't look at her once. Her legs had been shaking since she stood up in that room, and her bare feet were numb on the stone. By the first turning, she was leaning on him with every step. The guards followed at a distance, with their swords still out, and Leorin's voice went on among them, too low to make out.
 
-*Leorin isn't old. And my own cousin bowed to me like he'd never seen me before.*
+*Leorin isn't old. My own cousin, asking me to forgive him. For what?*
 
 She looked up at Thaer. He was watching the stairs ahead of them, and his face was the one she had seen this morning, not a day older.
 
