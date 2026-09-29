@@ -11,15 +11,19 @@ The story is being re-planned from the beginning. Current work lives in **New - 
   - Every decision made during the re-plan.
   - The questions still open.
   - The old files each decision now conflicts with.
+- **`Claude Handoff.md`**: the author's work outside this repository on 28–29 September (the philosophy, the Eight Rulers, the shared soul, the approved ending direction, love, and a proposed Volume 1 structure). What the author set there is copied into `Decisions.md`; the rest is discussion and proposals.
+- **`Going Forward.md`**: what Claude understood from the handoff, the faults found in the new lines, and the next steps in order (29 September).
 - **`The Ruler of Nothing - Narrative and Web-Novel Design Bible.md`**: the craft reference for the rewrite.
-- **`Volume 1/`**: the re-planned manuscript. It starts with Chapter 1, which is being refined before Chapter 2 onward is written.
+- **`Volume 1/`**: the re-planned manuscript. Chapters 1–4 are written and accepted.
   - `Chapter 1 - Revision Notes.md`: what to keep and what to change in Chapter 1.
   - `Chapter 1 - Changes.md`: every change in the latest revision, with its before and after.
   - `Chapter 2 - Design.md`: the plan for Chapter 2, agreed question by question.
   - `Chapter 2 - What the Redesign Changed.md`: the redesigned Chapter 2 (27 September) compared with the version before it, scene by scene.
   - `Chapter 2 - From the Old Chapter.md`: the first new Chapter 2 (Version 1) compared with the old one, scene by scene.
   - `Chapter 3 - Design.md`: the plan for Chapter 3, agreed question by question.
-  - `Chapter 3 - The Weight of the Living.md`: the first draft (27 September), compared with the old chapters in `Chapter 3 - From the Old Chapters.md`.
+  - `Chapter 3 - The Weight of the Living.md`: the chapter, first drafted on 27 September and compared with the old chapters in `Chapter 3 - From the Old Chapters.md`.
+  - `Chapter N - Changes (line pass).md`: the line pass of Chapters 1–3 (28–29 September), change by change. Later rounds go on these lists.
+  - `Chapter 4 - A Promise Left Fractured.md`: Seralune's first chapter.
   - `Drafts/`: earlier versions of the chapters, kept unchanged.
 
 ## The rewriting skill

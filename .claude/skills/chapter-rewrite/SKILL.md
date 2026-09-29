@@ -14,16 +14,17 @@ Read `references/chapter-1-lessons.md` once before your first chapter. It shows 
 Read these before touching a chapter. When two sources disagree, the higher one wins.
 
 1. **`New - Re-plan/Decisions.md`.** Every decision made with the author, the questions still open, and the old files that now conflict. It overrides everything below it. Read the sections for the volume, the chapter, and every character and place in it.
-2. **`New - Re-plan/Volume N Picture.md`.** The shape of the volume: its question, arcs and ending.
-3. **`New - Re-plan/Volume 1/Chapter 1 - A War Without Sound.md`.** The model chapter for voice, rhythm and page style.
-4. **`New - Re-plan/The Ruler of Nothing - Narrative and Web-Novel Design Bible.md`.** The craft reference. The most-used parts:
+2. **`New - Re-plan/Claude Handoff.md`** (added 29 September). The author's work outside this repository on 28–29 September: the line pass of Chapters 1–3, Chapter 4, the philosophy, the Eight Rulers, the shared soul, the approved survival ending, love, and a proposed Volume 1 structure. What the author set there is copied into `Decisions.md`; everything else in it keeps its own label (**author-set**, **working consensus**, **unapproved proposal**, **strong recommendation**, **still open**). Never treat a recommendation in it as decided.
+3. **`New - Re-plan/Volume N Picture.md`.** The shape of the volume: its question, arcs and ending.
+4. **`New - Re-plan/Volume 1/Chapter 1 - A War Without Sound.md`.** The model chapter for voice, rhythm and page style. For Seralune's voice, `Chapter 4 - A Promise Left Fractured.md`.
+5. **`New - Re-plan/The Ruler of Nothing - Narrative and Web-Novel Design Bible.md`.** The craft reference. The most-used parts:
    - §2.3, the house page style;
    - §7.5, character voices;
    - §9.4, how each character shows emotion;
    - §9.6, italics;
    - §17–18, scene and chapter design;
    - §19.3, horror through absence.
-5. **`Old - Before Re-plan/World Bible/`.** The lore record, but only where `Decisions.md` doesn't override it. `Chapter Craft Writing Rules.md` §24 is the long final checklist.
+6. **`Old - Before Re-plan/World Bible/`.** The lore record, but only where `Decisions.md` doesn't override it. `Chapter Craft Writing Rules.md` §24 is the long final checklist.
 
 The old chapters in `Old - Before Re-plan/` are raw material, not canon. Many of them conflict with decisions; the list is under "Existing files that now conflict" in `Decisions.md`.
 
@@ -41,6 +42,8 @@ The rules below come from the author's own instructions ("Never accept my words 
 - **Plain words.** Explain craft terms the first time. Keep chat short and put the detail in files.
 - **The old chapters' characters are out of date.** They were written before the characters were redesigned. Re-voice every character from `Decisions.md`, never from the old draft. For example, Gerolt must sound like Cid. The author: "this is the same for all future chapters we rewrite".
 - **Design important dialogue together.** The author: "I will give my input on how important lines between characters must read, with your input as well. I often tend to put it in my own voice, but you move it from my voice to the characters we agreed." Before drafting, list the chapter's key exchanges and ask for the author's rough version of each. Give it back in the character's agreed voice, show both side by side, and keep what the author meant. Their words are the intent; the voice comes from `Decisions.md`. **Plain beats clever.** Offered a plain line ("Suppose that's goodbye, then") and a joke built on a Chapter 1 detail ("Never did get those shutters to sit right"), the author chose the plain one: "A is better, more human-like. B sounds robotic." A line that's clever about the story, rather than about the person in front of them, sounds written. **Don't chop speech into short parallel sentences.** "He killed one. He cut the other one apart." was "robotic", and so was "Something set them off. Scouts don't come at a farmhouse like that. What happened back there?" ("make it one sentence"). People run their thoughts together when they talk: "He killed one and cut the other one apart." **The same goes for description.** "A bridge crossed the river there. At its near end stood a hut… A rider sat his horse among them. The lantern caught his pale hair…" drew "make the sentences combine so they don't sound robotic". A run of short, same-shaped sentences reads like a list. Join what belongs together, and keep short sentences for real jolts.
+- **What makes a voice** (handoff §2, 28 September). Characters answer one another; they aren't "lore terminals exchanging declarations". Emotion changes the words: "I don't know" with no frustration, shame, disbelief or reason is usually too empty. A verbal tic ("Lad", "Look here") isn't a voice; voice comes from motive, relationship, rhythm, evasion, humour, vocabulary and what the character will admit. Every line is after something: an answer, reassurance, concealment, control, connection, resistance or a decision. Speakers are always clear, and "said" and "asked" are welcome.
+- **Stop when revising would only make it different** (handoff §2–3). Chapters 1–4 "are good and no longer need broad rewrites". Further gains come from causality, continuity, voice or exact prose, "not from making every line louder". Don't run general beautification passes.
 - **Stay in one pair of eyes.** "Always stay in Alaric's eyes when the chapter is about him." Don't cut away to show what he can't see; let him see it from where he is. On Chapter 2, that means Gerolt's last stand is seen from where Alaric is. **The narration follows his attention.** He's staring at Gerolt, so "The man crossed to him in a few strides" became "The man was at his side before Alaric had noticed him move" (the author: "The man was at him before he noticed, something like this"). **Show a beat the way he sees it, step by step, not as a summary line.** On "Wena looked from Gerolt to them. Then she came after them.", the author said: "Scenes like this are like just saying it for the sake of it. Remember it's all in Alaric's perspective: he saw Wena staring at Gerolt, then at them, she paused for a brief moment, then ran after Alaric."
 
 ## The principles
@@ -191,7 +194,8 @@ Then read the whole chapter through, using `references/final-check.md`. Fix obje
 - **Optional fields:**
   - `decision_short` gives the decided list a shorter note.
   - `--check` reports whether the files on disk are current, without writing anything.
-- **Worked example:** `New - Re-plan/Volume 1/Drafts/Chapter 1 - change list.json`. It holds 49 changes over three rounds, and it reproduces the current Chapter 1 exactly.
+- **Worked example:** `New - Re-plan/Volume 1/Drafts/Chapter 1 - change list.json`. It holds 62 changes over eight revisions.
+- **Chained lists.** When a chapter changes outside this process (as with the line pass of 28–29 September), save the chapter as it stood as a new draft, point the old list's `"chapter"` at that draft, and start a new list from it. The old list and its changes file stay true, and `--check` passes on both. **For Chapters 1–3, the live list is now `Drafts/Chapter N - change list (line pass).json`**; later rounds go there. Chapter 4 has no list yet; its unchanged copy is `Drafts/Chapter 4 - A Promise Left Fractured (Draft 1, as received).md`.
 
 ## House style
 

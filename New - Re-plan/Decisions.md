@@ -4,6 +4,8 @@ Started 26 September 2026. This file records what the author has decided during 
 
 Everything written before the re-plan now lives in `Old - Before Re-plan/`. That includes the World Bible, Main Characters and the chapter designs, and none of it has been updated. Where a decision contradicts those files, it is listed under **Existing files that now conflict**.
 
+**The handoff (added 29 September).** On 28 and 29 September the author carried on the re-plan outside this repository. That work is summarised in `Claude Handoff.md`, which came with a line pass of Chapters 1–3 and the new Chapter 4. What the author set or accepted there is copied into this file, marked *(handoff §N)*. The handoff's recommendations stay in the handoff: its own labels (**author-set**, **working consensus**, **unapproved proposal**, **strong recommendation**, **still open**) say which is which, and none of its proposals is a decision until the author says so. Where the handoff changes something recorded here, the older line is marked *Superseded*. One file the handoff relies on, `Volume 1 Structural Map - Proposal.md`, is not in this repository.
+
 ## How we work
 
 - One step at a time, together.
@@ -13,6 +15,14 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - **"The dark"** (27 September). "One thing I notice you do a lot is say 'the dark' a lot. Cut down on that, find other words."
 - **Rewritten chapters use the characters we decided, not the old drafts.** The old chapters were written before the characters were redesigned. For example, Gerolt must sound like Cid. "This is the same for all future chapters we rewrite." *(Agreed 26 September.)*
 - **Important dialogue is designed together** (27 September). The author: "let's design conversations together in the chapter. I will give my input on how important lines between characters must read, with your input as well. I often tend to put it in my own voice, but you move it from my voice to the characters we agreed." So the author gives the line in their own words, and Claude gives it back in the agreed character's voice, with both shown side by side.
+- **Stop when revising would only make it different** (handoff §2). Find what already works, find the exact sentence, transition, motive or continuity fault, make the smallest change that fixes it, re-read the whole scene, and stop. Chapters 1–4 "are good and no longer need broad rewrites": further gains come from causality, continuity, voice or exact prose, "not from making every line louder" (handoff §3). No more general beautification passes on Chapter 1.
+- **Dialogue** (handoff §2):
+  - Characters sound like people answering one another, "not like lore terminals exchanging declarations".
+  - Emotion changes the words. "I don't know" with no frustration, shame, disbelief or reason is usually too empty.
+  - A verbal tic ("Lad", "Look here", "Again. Slowly") isn't a voice. Voice comes from motive, relationship, rhythm, evasion, humour, vocabulary and what the character is willing to admit.
+  - Every line is after something: an answer, reassurance, concealment, control, connection, resistance or a decision.
+  - Short paragraphs and fragments are tools for real changes in perception, decision, danger or feeling, not the default rhythm.
+- **Keep the statuses apart** (handoff §12). Decided, inherited-but-not-contradicted, later-volume concept and open are different things. Settle one mechanism at a time, and record whether the author approves it, rejects it or keeps it open.
 - Principles settled here become the rules of the rewriting skill. The skill is `.claude/skills/chapter-rewrite/` (created 26 September, after Chapter 1). When a principle here changes, update the skill to match.
 
 ## Principles
@@ -36,7 +46,18 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 ## The series
 
 - At least twelve volumes, possibly more: a story people come to love.
+- **A long-form serial web novel** (handoff §2). A volume can run to forty chapters or more when its character movement, mystery and journey justify it; chapter count is never the target. The feel: the readability of a translated web novel with the lived-in depth of *The Hobbit* and *The Lord of the Rings*. Travel changes relationships, places hold history, quiet life gets room to matter, and consequences outlast the event.
 - **Where the whole journey leads:** magic is removed by the end of the series.
+- **The foundation (handoff §10).** The author supplied the quotation "God is dead. God remains dead. And we have killed him." The author's reading: people in this world have taken God's place and made themselves God. They claim the right to tell others who they are and what they must do, based on power assigned at birth. People are born equal and free, and the world would be better if they worked together. *The refinements in the handoff (§10, §16: equal worth rather than equal ability, "difference without domination", cooperation isn't automatically good) were recommended, not confirmed.*
+- **The author's private north star (handoff §13):** "What are you, the reader, willing to sacrifice in service of this novel's meaning?" The in-story versions of the question in §13 are proposals.
+- **The ending: approved direction** (handoff §17.1, 29 September). The author agreed with survival, and stressed that reaching it should take many volumes:
+  - Alaric and Seralune **survive** the final unbinding.
+  - They give up the shared cosmological exceptionalism that makes the world count them as one corrective soul. Alaric loses his extraordinary access to the Veiled powers; Seralune releases or loses the power that let her impose an answer on the world. Their compulsory magical dependence ends.
+  - They go on as two separate, ordinary mortal people who can freely choose one another.
+  - Magic ends through **collective participation**, not a private decision made by the two of them.
+  - A child and family life later are wanted possibilities, not locked.
+  - *Not settled:* the mechanism, the part Spirit and each Ruler play, the rules for a child, chapter titles, the number of volumes, any afterlife coda and the final image.
+- **"A Promise Fulfilled"** (handoff §15.6). The author is drawn to this as the title of a chapter near the very end of the final volume, answering Chapter 4's "A Promise Left Fractured". Which chapter carries it is open.
 - **Order of work:**
   1. Refine the new Chapter 1 until it's ready.
   2. Before writing Chapter 2 onward, discuss a picture of Volume 1, Volume 2 and Volume 3.
@@ -57,7 +78,7 @@ These are rough shapes, not deadlines. The design bible warns against scheduling
 ### Approved direction (Claude's recommendations, 26 September)
 
 - **Hostility comes from the tear, not a murder.** The world, and Redd most of all, hate her as the witch who killed thousands. She publicly accepts the blame; he privately believes it was him and stays silent. Their flaws collide: she decides for people, he refuses help.
-- **Closeness is what's dangerous.** Hostility doesn't make them safe; it only means they aren't reaching for each other. This carries the series ending: in the Soul World they're "finally able to love without endangering anyone". The exact rules are to be set later.
+- **Closeness is what's dangerous.** Hostility doesn't make them safe; it only means they aren't reaching for each other. *Superseded in part (handoff §17):* the series ending no longer rests on the Soul World ("finally able to love without endangering anyone"). They survive, lose what bound them, and choose each other as ordinary people. A Soul World reunion could still come after full mortal lives and natural deaths; whether it's shown is open.
 - **"Time is broken."** The displacement left a thousand-year seam in time. Time remembers, and the tear reopened the seam. The Time bearer feels it as a wrongness, which is why "He's back" slips out.
 - **Gilmot dies in Volume 2, for a new reason.** His threat no longer comes true, so his death becomes the group's moral test under the Volume 2 question: Silas wants any means, Alaric weighs it, and Darcy's choice is central. No one frees her by overruling her.
 - **The border across a sea.** A narrow sea lies between Mydea and Kozmagar, and Mydea's coast is the frontier: forts, harbours and islands. Darcy's strategy held that sea; once she's stolen, beastfolk land on Mydean shores.
@@ -109,6 +130,29 @@ These are rough shapes, not deadlines. The design bible warns against scheduling
   3. *Reversal.* The past answers him with nothing.
   4. *Doubling down.* Instead of turning to the life he has, he chases harder, and alone.
   5. *Choice and consequence.* The tear passes through him while he chases his past. Thousands die, and Seralune is blamed.
+
+### Added from the handoff (28–29 September)
+
+The author's direction only. The handoff's recommendations for each point are in its §14.2, and its proposed structure is in §19.
+
+- **Length.** The author is comfortable with forty or more chapters, governed by completed movements, not a word count (handoff §4). *The 50–54-chapter, nine-movement map in handoff §19 is a proposal, not approved.*
+- **The Great Expanse** can be a substantial middle movement, not a short crossing. It's vast and empty, distorted by corrupted mana: places move, ruined towns and cities break up the land, night is especially dangerous, and people or creatures who try to live there can be warped.
+- **Foramen, Kurdag and Liluth.** The hidden settlement is Foramen, the wolf beastman tied to it is Kurdag, and Liluth is the Natharul scout pursuing them. Kurdag understands what surviving in the Expanse costs; illness or corruption among the people who live or work there may show it.
+  - Alaric may briefly believe he has found somewhere he could belong.
+  - Liluth's pursuit brings violence to Foramen, and residents ask why elves and soldiers are chasing him so far into Mydea. Some want his party gone, because they brought death to people who had nothing to do with it.
+  - Alaric increasingly concludes that wherever he goes, people die: Gerolt, then Foramen, then the tear.
+  - His companions start asking who he is, and what could make him worth following into the most dangerous region in Mydea.
+- **Belonging is the centre.** The author challenged the idea that Alaric's smaller personal preferences should carry the arc. What matters is the travelling group: the *Final Fantasy XV* road trip, where Silas, Redd, Freya and Wena gradually become the place he belongs. His friends can doubt his secrets, or the danger following him, without ceasing to care about him.
+- **The ancient cores** were mass-produced about a thousand years ago, in the war against the princess modern history calls evil. A core gives Alaric no ordinary biography and no easy proof of time travel, and present-day people think arriving from a thousand years ago is impossible. He learns almost nothing straightforward about himself.
+- **His false responsibility.** As the volume goes on he comes to believe that recovering his identity is his responsibility alone. He investigates, withholds and decides by himself, and that leads to the final mistake: he reaches for his past without his companions and helps cause the tear.
+- **At the tear:**
+  - The author has considered killing a recognisable child affected by Alaric and his group. *Not locked.*
+  - Seralune sees people dead around her.
+  - Nereth survives, close to Seralune.
+  - Thaeroval is cut off from the centre of the disaster, not standing safe inside it.
+  - Atera regenerates from catastrophic injury and feels all of it.
+  - Alaric takes the deaths as proof that people suffer whenever he pursues who he was, which pushes him towards isolating himself.
+- **Seralune's route.** Cyrandor's Order tells her that her mother left something for her, or wanted her to find a path. She goes into Mydea rather than straight to Favale. Her search may lead first to **Inrandeel**, the enormous rainforest where, in her remembered age, independent elves lived in peace outside Natharul's direct rule. She expects to find them and finds the community destroyed or removed. Their fate raises new questions about her mother, Natharul, her brother and the forgotten history involving Alaric, and something there points her on to Favale.
 
 ## Volume 2
 
@@ -173,6 +217,13 @@ These are rough shapes, not deadlines. The design bible warns against scheduling
 - **The narration keeps "the boy",** with one age cue restored: Gerolt guesses "twenty winters, maybe".
 - **Gerolt's surname stays out of Chapter 1.** "Warde" comes later, from someone who knew him.
 - **Revisions 1 and 2 applied and approved (26 September).** Every change is listed with its before and after in `Volume 1/Chapter 1 - Changes.md`. Only change 21 was rejected. The earlier draft is kept in `Volume 1/Drafts/`.
+- **Line pass (28–29 September, accepted; handoff §3).** Seven changes, in `Volume 1/Chapter 1 - Changes (line pass).md`:
+  - He reopens his eyes before he sees the broad shape over him.
+  - A comparison he couldn't make ("the way a man checks a door…") is cut.
+  - On the field, the clothes come down to what matters there: no armour, no weapon, no tear. The cloth and the stitching are left to Gerolt in the cabin.
+  - "Gerolt forgot about his back" becomes "Gerolt's fist fell away from his back", and "Gerolt read his face and gave up on explaining" becomes "Gerolt studied him for a moment": things the boy can see.
+  - "Who made them?" (the clothes), and the figure in the vision is "close enough to touch me".
+  - Chapter 1 is now 6,208 words. The handoff's working score is 96/100, and it gets no more general beautification passes.
 
 ## Chapter 2
 
@@ -236,7 +287,14 @@ The plan is built in `Volume 1/Chapter 2 - Design.md`.
   - **Alaric's thoughts (the author's rough versions):**
     - At the shout: "He thought that was it, that was all done, everything he has known, even if just in this moment. He would be alone and be nothing again."
     - On the ride: "Why are they attacking us, what just happened, why did Gerolt kill that man, why, what is happening."
-    - At the last stand: "What do I do, I can't do anything, I want to help, I can't, I'm scared to help, I will die, I don't want to die."
+    - At the last stand: "What do I do, I can't do anything, I want to help, I can't, I'm scared to help, I will die, I don't want to die." *(Since the line pass, one line; see below.)*
+- **Line pass (28–29 September, accepted; handoff §3).** Ten changes, in `Volume 1/Chapter 2 - Changes (line pass).md`:
+  - **The elf at the door:** "Open the door, farmer. Keep us waiting, and yours won't be the only one we knock down tonight." It replaces the author's own example line (below, under Version 1).
+  - The choking is compressed where sentences repeated the same physical failure.
+  - The ride loses its last thought (*What's happening? What is* happening*—*).
+  - **At the last stand** Alaric tries to move and his body fails him, instead of only explaining in his head that he can't act. His thought is now *If I go down there, they'll kill me. I don't want to die. I don't want to—*
+  - The author's round-2 line is trimmed: "Alaric couldn't get up. Gerolt had taken care of him until his dying breath, and now Alaric was going to leave him there and never see him again."
+  - Chapter 2 is now 4,656 words. The handoff's working score is 94/100.
 
 The decisions below were made for Version 1. They were checked against the redesign on 27 September: most still hold, and the ones the redesign replaced are marked *Superseded*.
 
@@ -249,7 +307,7 @@ The decisions below were made for Version 1. They were checked against the redes
 - **Gerolt's voice.** Dry to the end, like Cid: orders instead of feelings, playing down his wound, never saying he cares. His humour drops once, at the name. The old lines are kept or cut as the table in the design file recommends.
 - **Kelmend and Marta.** Gerolt sends him west across the river, to Marta at the inn by Kelmend's south gate. The sword is the proof.
 - **The neighbours.** The elf threatens the other households. Gerolt hears it, looks at the boy, and picks up the sword. Nobody says what that choice costs, and the neighbours' fate is left for a later chapter.
-- **The elves are cocky and full of themselves.** The author's example: "Farmer, answer this damn door before we start knocking down others because of your silence."
+- **The elves are cocky and full of themselves.** The author's example: "Farmer, answer this damn door before we start knocking down others because of your silence." *(The line itself is superseded by the line pass: "Open the door, farmer. Keep us waiting, and yours won't be the only one we knock down tonight.")*
 - **"Empty" as a name: reversed after the first draft.** Gerolt never calls him Empty in Chapter 2. The line is "You're a stubborn little bastard." ("I like it, remove Empty").
 - **Where the name comes from.** It arrives through Chapter 1's vision, and this time he hears the word the running figure's mouth was shaping. The author likes the reaching hand and the mouth. The author doesn't like the gold at the cuff, so there's no gold in Chapter 2, and it has been taken out of Chapter 1 as well (revision 4, changes 50–52).
 - **Two moments at once.** During the name vision the cabin shows two moments together (the door whole and shattered, Gerolt unhurt and bleeding). It's trimmed to two or three images and never explained.
@@ -269,7 +327,7 @@ The decisions below were made for Version 1. They were checked against the redes
 
 The plan is built in `Volume 1/Chapter 3 - Design.md`.
 
-- **Seralune comes in with Chapter 4,** which is all hers: "Yes, we can make Chapter 4 all Seralune." Chapter 3 stays in Alaric's eyes. *(Proposed, to design in Chapter 4: her chapter goes back to midday, when her seal broke as Alaric arrived.)*
+- **Seralune comes in with Chapter 4,** which is all hers: "Yes, we can make Chapter 4 all Seralune." Chapter 3 stays in Alaric's eyes. *(Done: Chapter 4 opens at the moment her mana leaves her and the crystal breaks.)*
 - **The centre of Chapter 3 is Alaric's inner fight.** "He thinks he is the reason Gerolt is now dead. He is not in a good headspace this chapter." His questions start: why are the elves trying to kill him, what was that war on Gerolt's farm, what is happening.
 - **Silas grounds him:** "snap out of it for Gerolt's sake, and keep moving forward for Gerolt's sake and Wena's."
 - **The river.** The bridge is broken and the current is strong. Wena still tries to go back to Gerolt, and Alaric grabs her fur and drags her. Silas says to leave the dog; Alaric doesn't.
@@ -297,7 +355,7 @@ The plan is built in `Volume 1/Chapter 3 - Design.md`.
   - Point-of-view fixes: while his eyes are covered or down, Alaric only hears.
 - **Round 3 (27 September).**
   - Silas in the river: "—stupid little prick, should've listened to me—", then a snarl.
-  - "He didn't care to ask for Alaric's."
+  - "He didn't care to ask for Alaric's." *(Superseded by the line pass: Alaric waits for Silas to ask his name, and Silas starts cleaning his blade instead.)*
   - "Already" is gone from "looking at the fire".
   - **The ending:** he strokes Wena's head, cries, and whispers "I'm sorry" to her. It's meant for Gerolt as well, and nothing on the page points at it.
   - Everything else from the draft's list is approved ("everything else is fine"), including the title "The Weight of the Living".
@@ -308,7 +366,43 @@ The plan is built in `Volume 1/Chapter 3 - Design.md`.
   - Stale notes are resolved here, and in the Volume 1 picture.
   - Lengths: Chapter 1 is 6,284 words, Chapter 2 4,723, Chapter 3 1,990.
 - **Round 6 (27 September).** Two of Alaric's thoughts are joined into single lines. "*If I stop, then he—so don't, idiot. Move.*" uses Silas's own "move". "*They've already killed him—what more do they want? Why are they still chasing me?*" stays a question, so it claims nothing he couldn't know. Chapter 3 is now 1,995 words.
-- **"The man is said too much" (27 September).** In Chapter 3 it was said 22 times before Silas gives his name, and now 8, plus "the stranger" twice. The rest became "he" where only he can be meant, "a fist" or "a hand" where that's all Alaric feels, or were cut. The end of Chapter 2 lost a sentence that said it twice.
+- **"The man is said too much" (27 September).** In Chapter 3 it was said 22 times before Silas gives his name, and now 8, plus "the stranger" twice. The rest became "he" where only he can be meant, "a fist" or "a hand" where that's all Alaric feels, or were cut. The end of Chapter 2 lost a sentence that said it twice. *(The line pass brings it back to 10.)*
+- **The title** is "The Weight of the Living". It was briefly "I'm Sorry" on 28 September and restored the same day, because "I'm Sorry" was too narrowly tied to the closing line (handoff §1).
+- **Line pass (28–29 September, accepted; handoff §3).** Seven changes, in `Volume 1/Chapter 3 - Changes (line pass).md`. Before it, Chapter 3 was the weakest of the four, because Silas withheld both his history and the ordinary reason he was near the farm. His history stays hidden; his arrival now has a cause.
+  - **Silas grounds him:** "They'll be hot on our trail soon enough, boy. Get up and move, or Gerolt died for nothing." It replaces "Stop drowning in self-pity, boy, and move" and "You want to die? Fine…".
+  - **Silas's accusation:** "And you had his sword in your hands, but you stayed where you were and did nothing," he said quietly. It replaces "like a scared little puppy".
+  - **His name:** Alaric waits for Silas to ask his name. Silas doesn't; he starts cleaning his blade. It's observed, never explained as proof that Silas doesn't care.
+  - **Why Silas was there:** Alaric asks how he knew Gerolt, and Silas answers a different question: "I heard something from across the river. Sounded like fighting, and by the time I got close enough to see what was happening, it was already too late." / "That isn't what I asked." / "No, it isn't." The rag moved along the blade. "How did you know him?"
+  - **The river:** "The river turned him round, the bank went past, and then a fallen tree lying out into the river from the far bank, close enough to touch."
+  - Chapter 3 is now 2,026 words. The handoff's working score is 92/100; the opening four together, about 95.
+
+## Chapter 4
+
+Written outside this repository and accepted by the author (handoff §3). It is saved as `Volume 1/Chapter 4 - A Promise Left Fractured.md` (2,626 words), with an unchanged copy in `Volume 1/Drafts/`. It has no change list yet.
+
+- **Title: "A Promise Left Fractured"** (28 September). On first reading it seems to be about Thaer's promise to be back before evening, and the broken crystal round her. Its hidden meaning is the promise ancient Alaric and Seralune made to stay by each other's side, which other people fractured when they separated them, leaving her unable to remember him. That promise's wording and circumstances aren't written yet, and should get a full scene of their own later rather than stay background lore.
+- **All Seralune, and quiet.** Her first day alone in the broken crystal chamber. The threat is confinement, thirst, uncertainty, time and the chance that no one is coming.
+- **It opens on the rupture** the author prefers: her mana leaves her for the first time in her life, takes hold of something far away, and "Everything around her cracked. The sound went through her teeth and into her bones, and someone was screaming, and it was her, and the whole world went white."
+- **It ends when Thaeroval reaches her.** He cuts the door open; she runs into him expecting safety; his arms don't close round her; he stares past her at the crystal; and for the first time she sees fear in her brother's eyes.
+- **Mana and 『Affinity』 are different words on purpose.** Mana is the fuel. An Affinity is the force or element that shapes it. Seralune has limitless mana and no Affinity. "Magic" is her age's word, from before the modern laws made "Affinity" the usual one. So she speaks of mana and magic without contradicting Chapter 1.
+- **Her thoughts** come often because she's alone. Each one should change what she understands, how she feels, or what she does next. The handoff found no viewpoint slips.
+- **What the chapter puts on the page.** Some of it comes from the old canon, and some is new on the page. *Claude's list, to confirm the new ones are meant:*
+  - She has always been able to hear the palace falls (the old Chapter 4 had water falling through the forest below the palace).
+  - Thaer knocks twice and never waits to be let in (old canon; the knock returns in Chapter 5).
+  - **New:** the crystal is hollow, with an opening taller than she is, and when she reaches inside it draws her mana out of her, slow and cold, until she tears free.
+  - **New:** the chamber door has no handle, latch or keyhole on her side.
+  - **New:** her last memory is of fighting with her mother "this morning" (she can't remember a word of it), then Thaer promising to be back before evening.
+  - She wakes barefoot, her hair loose, in the dress from what feels like the day before (handoff §6.2).
+
+## Chapter 5
+
+Not designed yet. The author's direction so far; the handoff's recommendations are in its §14.2, §15.2 and §15.10.
+
+- **It may be split into Part One and Part Two** rather than rushing its revelations (handoff §14.2).
+- **Seralune's state** (handoff §15.2). She remembers being a princess yesterday. She wakes to people who are frightened of her, evade her questions and may be deciding what to do with her. She is confused, alarmed and distrustful: what happened, why will nobody answer, why are they afraid of her, what are they planning? She doesn't meekly accept explanations, or act as if she has already adjusted to the present.
+- **Cyrandor's knock is different from Thaer's.** Seralune is so caught up in what happened, and in what Thaer might say, that she first assumes it's Thaer at the door (handoff §14.2).
+- **Thaeroval regrets the ancient sealing** and hopes their father may also change his mind. He doesn't want to reseal her straight away, and delays while he holds on to that hope (handoff §14.2). *This changes "stays exactly as written"; see Thaeroval.*
+- *Open:* her first active choice, and what each part's dramatic question is. Nereth's first disobedience ("still undecided", handoff §15.10).
 
 ## Alaric
 
@@ -321,6 +415,7 @@ The plan is built in `Volume 1/Chapter 3 - Design.md`.
 - **When he's frightened: Subaru's mouth** (27 September). The author: "like omg what was that, what must I do, I'm a weakling, I can't do anything, omg omg."
 - **His habit** (27 September): "he likes to think a lot and keep emotions to himself instead of asking others for help."
 - *Claude's reading, to confirm:* the two fit together if the mouth runs inside his head and he keeps it shut outside. It spills out loud only when he's cornered, as in the Chapter 1 rant ("that is the whole list, Gerolt"). His panic keeps Subaru's shape (fast, repeating, calling himself useless) in words from his own world, since he isn't from ours.
+- **He isn't the ancient Alaric** (handoff §15.5). He begins blank and can choose who he becomes, even while he searches obsessively for who he was. The ancient promise doesn't bind him, and he owes Seralune no romance because of the past.
 
 ## Seralune
 
@@ -335,7 +430,8 @@ The plan is built in `Volume 1/Chapter 3 - Design.md`.
 - **Volume 1 goal.** She wants to escape a system that is choosing to lock her away because everyone tells her she's dangerous. She knows she isn't: she's a kind person who just wants to help everyone. Her mother opposed her sealing, and she wants answers on why they sealed her, directly from her mother.
 - **Her belief across Volume 1.** At first she thinks, "How could I be dangerous? I never had magic." She says "magic" because she knows the word from a thousand years ago. People around her accuse her. Then her own actions endanger people, and she starts to believe she is the problem.
 - **Volume 1 breaks her into something dangerous.**
-- **Her mana.** She knows she has mana, and a lot of it. Everyone believes it's simply a very large pool: no one has been able to find its end. In truth it has none.
+- **Her mana.** She knows she has mana, and a lot of it. Everyone believes it's simply a very large pool: no one has been able to find its end. In truth it has none. *Now in question (handoff §14.5): a world that is fading because its energy is running out sits badly with a reserve that truly never ends. See Open questions.*
+- **She isn't the ancient Seralune either** (handoff §15.5). She keeps the princess-self she remembers but has no memory of Alaric, and owes him nothing because of a past relationship.
 - **Her last choice in Volume 1.** She accepts responsibility for who she was, even though that isn't her true self and she didn't actually do those things. Her internal war: "I need to atone for all these deaths. But was it me? Why must I? But I should."
 - **Where Volume 1 leaves her:** she and Nereth are held by the Holy bearer. The church keeps her alive as leverage over Natharul.
 
@@ -364,11 +460,20 @@ The plan is built in `Volume 1/Chapter 3 - Design.md`.
 
 ## Thaeroval
 
-- **Everything from the old version survives,** and he stays exactly as written. His entry in `Old - Before Re-plan/World Bible/The World.md` ("Thaeroval — Seralune's Elder Brother / First Blade / Dark Bearer") is the reference.
+- **Everything from the old version survives,** and he stays exactly as written. His entry in `Old - Before Re-plan/World Bible/The World.md` ("Thaeroval — Seralune's Elder Brother / First Blade / Dark Bearer") is the reference. *Changed (handoff §14.2):* he regrets the ancient sealing and hopes their father may also change his mind. He doesn't want to reseal her straight away, and delays while he holds on to that hope.
 - **What he wants in Volume 1:** his sister safe in his "chains". He believes he must choose for her the best way to keep her safe, and that is resealing her.
 - **He spares Alaric.** He's far more interested in reaching his sister than in doing anything to a boy who means nothing compared to her.
 - **When he passes Alaric he feels literally nothing.**
 - **His erosion.** He slowly loses his emotions until he becomes flat, but that happens much later in the series.
+
+## Brand (later-volume concept)
+
+Not in the central cast yet, and not locked (handoff §7, §14.3).
+
+- The same age as Alaric. The strongest living Fire user, whose fire can burn white. He fights with Natsu's exuberant physicality and energy (*Fairy Tail*).
+- **First version (§7):** he sincerely believes he's a good person, because he was raised in a world that treats great power as moral authority.
+- **Newer version, under discussion (§14.3):** he's being considered as the Ruler of Fire. The author wants some of Zenos's obsessive hunt (FFXIV), with more exuberance. He first thinks Alaric insignificant; curiosity becomes fascination, then obsession, as Alaric survives impossible things. He doesn't care much about Kelmend, the hierarchy or public heroism; he wants strength and a worthy opponent. The reader should find him infuriating, frightening and still charismatic: an "evil best friend" who decides Alaric is his rival without asking. He lasts several volumes.
+- Which version holds, and whether he appears in Volume 1 at all, is open.
 
 ## The friends
 
@@ -394,6 +499,7 @@ The plan is built in `Volume 1/Chapter 3 - Design.md`.
 - **Cunning in the moment, reckless in the big choices** (like the gorge).
 - **Gerolt taught him in Avarice.** Gerolt was angry that Silas didn't learn from his teachings.
 - **He knows his master's blade on sight.** In the redesign he comes because he heard the fight, not for the sword. When he sees the sword across Alaric's lap his face changes (Chapter 2). In Chapter 3 he picks it up from the riverbank and gives it back, and doesn't let go of it straight away.
+- **His consequential mistake in Volume 1** (handoff §15.7): he chooses brutality, and leaves an easy trail for pursuit.
 - **He's at Gerolt's last stand** (27 September, Chapter 2). He cuts down the remaining riders, and he and Alaric run. **Where he lives** (27 September): "He lives on the river to stay away from people. He is near Kelmend because he loves Darcy and wants to keep up to date with any news related to her." The author then corrected "Darcy": "I meant Marta, sorry." So he loves Marta, and he lives on the river near Kelmend for news of her. Why he's there: "Silas is at the river, he 'stays' there. He heard the elves and the fight, so he came to see what it was, and sees his former master fighting to the death." Gerolt sees him, gives a small "heh", and never speaks again.
 
 ### Wena
@@ -413,6 +519,7 @@ The plan is built in `Volume 1/Chapter 3 - Design.md`.
 - **Ram on duty, Revy when she slips.**
 - **Seralune's feelings make her corruption flare.**
 - **Her first refusal of Seralune comes later,** not in Volume 1.
+- **Her first disobedience of anyone** is still undecided (handoff §15.10).
 
 ### Redd Vander
 
@@ -430,6 +537,7 @@ The plan is built in `Volume 1/Chapter 3 - Design.md`.
 - **Flaw:** he's often too carefree when seriousness is needed.
 - **Reference:** Natsu (*Fairy Tail*).
 - **How he differs from Silas:** Silas acts carelessly with violence; Redd acts carelessly out of joy.
+- **What he is to the group** (handoff §15.8): emotional support and its connective tissue. He pushes people to become better. The irony is that the person holding the group together is full of hatred towards elves.
 
 ### Freya Vander (new)
 
@@ -442,6 +550,7 @@ The plan is built in `Volume 1/Chapter 3 - Design.md`.
 - **She hates fighting** (27 September).
 - **Elves.** She doesn't hate them.
 - **Her brother.** She admires him greatly, follows him and clings to him, and leans on him too much.
+- **What she wants** (handoff §15.9): for her brother to find peace. Though younger, she's emotionally mature. She leans on Redd while also trying to make him better, giving up her own happiness and feelings. She must learn that Redd is his own person, and become her own. *Still open: what she would want for herself if Redd were safe and Alaric had never come.*
 - **What she must learn:** to be her own individual person.
 - **Alaric.** She finds admiration in Alaric: someone who is nothing, wanting to learn who he was.
 - **Romance (proposed by Claude, approved by the author).**
@@ -452,6 +561,7 @@ The plan is built in `Volume 1/Chapter 3 - Design.md`.
   - **How it ends: Freya chooses.** She sees where his life is going and chooses a life that's hers. She stays his friend, and is among the friends whose free future is the point of the series ending.
   - **Guardrails.** He never treats her as a placeholder. She never leaves the story through tragedy. Readers will split, and that's accepted.
 - **Her arc.** Her dependence traps her: she starts leaning on Alaric the way she leaned on Redd. She climbs out of it by learning to love herself, and him.
+- **The handoff on their love** (§18) discusses it volume by volume, with the risks to avoid. Its scenes and timing are proposals, and the questions it leaves open are in its §18.12.
 - **Reference:** Tifa (FFVII): her warmth, and the way she grounds someone.
 
 ## World
@@ -476,6 +586,41 @@ The plan is built in `Volume 1/Chapter 3 - Design.md`.
 - "Magic" is the ancient word for Affinity. It was the word before the laws came in and the current world adopted the current meanings.
 - **The class system still stands as in the old World Bible** (confirmed for Chapter 1, revision 1): Exalted, Eminent, Common and Faint. Every child is tested at ten, and children who test Faint are taken from their families under what's called protection.
 - **Magic costs its user when cast on themselves.** A Fire user isn't immune to fire: if Gerolt casts fire on himself, he gets burnt. (The existing Chapter 1 candle line already obeys this: "The flame burned him. He did not pull away.")
+- **Mana and Affinity** (handoff §3, from Chapter 4). Mana is the fuel; an Affinity is the force or element that gives it shape.
+
+### The Eight Rulers (author-set, handoff §14.4)
+
+- **Eight singular Ruler domains:** Light, Dark, Spirit, Time, Fire, Water, Wind and Earth.
+- **The working grouping:** the Veiled Four (Light, Dark, Spirit, Time) and the Elemental Four (Fire, Water, Wind, Earth).
+- **At most one living Ruler** holds each domain at a time.
+- **A Ruler is born carrying the mantle.** It isn't achieved through training.
+- **No successor can be born while the current Ruler lives.** Any irreversible death triggers succession: age, disease and accident count, and murder isn't needed.
+- **After a death the mantle passes to a newborn.** It may choose the first suitable child, or stay unheld for years before it settles. The signs in an infant are subtle, and who the child is may only be found out later. The mantle goes to a child, never to the killer.
+- **The Veiled Four are really different in the cosmology** from the Elemental Four. Religion may rank the Veiled Four "above", but that gives them no automatic advantage in a fight.
+- *Known and proposed bearers:* Light, Atera (Mydea); Dark, Thaeroval (Natharul); Spirit, Natharul's formal Hero; Time, a beastfolk bearer in Kozmagar; Fire, Brand is being considered. Water, Wind and Earth aren't designed. Kurdag stays an Exalted Earth user, not automatically the Ruler of Earth. Ordinary Fire, Water, Wind and Earth users go on existing beneath their Rulers.
+- *This supersedes the handoff's earlier idea of "Full Elemental users" (§7).* The handoff's interpretations (§14.4: vacancies, states hunting infant Rulers, the age-ten test as a search for missing Rulers, "Ruler" as a human title) are proposals.
+
+### God and the fading world (author-set, handoff §14.5)
+
+- **God is dead, or may never have existed.** The quotation stays central, but no moral deity needs to exist in the cosmology.
+- **The world itself is becoming unstable and weak, and is slowly fading.**
+- **The world put an extraordinary amount of its remaining energy into an attempt to correct that decline.**
+- **Alaric and Seralune are the result of that attempt,** and a flaw in its ordinary order.
+- *The handoff's working model (§14.5: circulating mana, the Eight mantles and a deep restorative reserve; one corrective soul anchored in two newborns, Alaric receiving the structure and Seralune the power) is unapproved in its details.*
+
+### One soul, two people (author-set, handoff §14.5, §14.7)
+
+- **Alaric and Seralune were born at exactly the same moment.**
+- **They share the same soul, but are not the same person.**
+- **If one of them truly dies,** the other doesn't die straight away, but becomes profoundly destabilised, as though reality no longer knows how to hold them.
+- *Unresolved (handoff §14.1, §14.6):* the older statement that all four Veiled Affinities are dormant inside Alaric. The handoff's proposed replacement (Alaric has root-level channels into the Veiled laws, and Seralune's mana running through him pulls on the one existing mantle, so the living Ruler feels it leave) isn't approved.
+
+### The ancient relationship (author direction, handoff §15.3–15.5)
+
+- **The promise was private,** between Alaric and Seralune, not publicly known.
+- **Their ancient failure was mutual.** Each believed they could save everyone alone and decide what was best for other people, and that helped turn the world against them.
+- **They were married, or about to marry.** They loved each other deeply. When they saw destruction spreading around them, they fled together, and the hunt for them widened into war. *Which one (married, or about to marry) is not chosen.*
+- **The ancient promises don't bind the present people.** Present Alaric and Seralune are meaningfully different people from their ancient selves, and neither owes the other romance because of a past relationship.
 
 ### The Silent Field
 
@@ -565,7 +710,7 @@ The plan is built in `Volume 1/Chapter 3 - Design.md`.
 - **Is it a general rule?** When Alaric uses a Veiled Affinity, does its living bearer always feel it pulled out of them for a moment? If so, it answers an old open question: his Affinities aren't duplicates of the bearers', they're the same thing. It also means Thaeroval would feel Dark, Atera would feel Light, and the Time bearer would feel Time.
 - **Which bearers felt the tear?** The tear in Volume 1 passed Seralune's power through his Affinities. Under this rule, which bearers felt something pulled at that moment? In the old Chapter 30, Atera was destroyed and rebuilt on the stair.
 - **When do readers learn the souls went to the Last Dark?** Alaric can't know it, so the narration can't say it in Volume 3. It could be a later reveal that makes Volume 3 painful to reread.
-- **The Last Dark and the ending.** The ending reunites Alaric and Seralune in the Soul World. Does anything ever come back for the souls he cast out?
+- **The Last Dark and the ending.** Does anything ever come back for the souls he cast out? *(The ending no longer rests on a Soul World reunion; see The series. If the Soul World survives the end of magic, it must be something other than mana: handoff §14.10.)*
 
 ### Gerolt
 
@@ -590,6 +735,25 @@ The plan is built in `Volume 1/Chapter 3 - Design.md`.
 - Does Avarice fight the faith itself, or only the church as an institution? How does it treat sincere believers, such as Idony, Aubin and the pilgrims?
 - What do its members call themselves? Does the split-shield symbol survive?
 - Is there a problem with Re:Zero readers linking "Avarice" to Re:Zero's Greed (its Witch and Archbishop of Greed)?
+
+### From the handoff (29 September)
+
+Each of these is open. The handoff's recommendation, where it has one, is in the section named.
+
+- **Chapter 5.** Seralune's first active choice (§15.2), the dramatic question of each part (§14.2), and Nereth's first disobedience (§15.10).
+- **The Volume 1 structure.** The proposed 50–54 chapters in nine movements (§19). Its full working file, `Volume 1 Structural Map - Proposal.md`, isn't in this repository.
+- **The core's answer.** What Alaric actually gets from it, and in how many stages (§14.2, §19.5 proposes three: the Silent Field, Foramen, Favale).
+- **Foramen.** Does Kurdag hide the cost of living there, or do its people choose the risk knowing it (§14.2)? Does it expel Alaric, or does he leave by choice (§14.2, §19.4)?
+- **Inrandeel.** Who destroyed or removed the independent elves, and what concrete clue sends Seralune on to Favale (§14.2)?
+- **The child at the tear.** Only if the child has a family, a life and a reason to be in Favale first (§14.2, §16.8).
+- **Silas's trail.** Does it lead Liluth, Brand or both to Foramen (§15.7)?
+- **Redd.** What only he can do, and what he wants for himself (§15.8).
+- **Freya.** What she would choose for herself (§15.9). The open questions about her and Alaric (§18.12).
+- **The ancient past.** Married, or about to marry (§15.4)? What exactly did they attempt that went wrong, and who could refuse it (§15.3)? What span of memory did the ritual take from Seralune, if her "yesterday" was years before the final battle (§15.5)?
+- **The cosmology.** What is causing the world's decline (§14.10)? Is Seralune's mana truly endless, or only endless as far as anyone can measure (§14.5)? How does Alaric relate to the four Veiled mantles (§14.6)? What happens to the survivor if one of them dies (§14.7)?
+- **The Rulers.** Who holds Water, Wind and Earth, who the Time and Spirit bearers are, each Ruler's limits, whether they age normally, and what counts as true death for Atera (§14.4).
+- **Brand.** Which version, and when he first appears (§14.3).
+- **The ending's mechanics.** How the unbinding works and what each person gives up (§17).
 
 ### Reference material
 
@@ -658,6 +822,12 @@ None of these have been changed yet. They're listed so nothing is forgotten when
 ### Thaeroval feels nothing
 
 - `Old - Before Re-plan/World Bible/The World.md:1049`: the old epilogue has Thaeroval's sword "won't stop humming". Check it against "he feels literally nothing" when the epilogue is replanned.
+
+### Seralune's opening chapters (added 29 September)
+
+- The old Chapters 4 and 5 (`Old - Before Re-plan/Volume 1 - Rewrites/`) are replaced by the new Chapter 4 and the Chapter 5 still to be designed. The old versions carry a lot that hasn't been decided again: Leorin as head of the court, the wardwright and the lamps, the lock turning from outside, Thaeroval confirming the thousand years, Cyrandor losing an arm, and the escape through the drainage channels.
+- `Old - Before Re-plan/World Bible/The World.md` has Thaeroval hating Alaric and designing or completing the erasure ritual. The handoff now has him regretting the sealing and delaying the reseal. Whether the old history still stands behind the new regret is open.
+- The old route took Seralune by ship from Waluna to Meren, then to Favale. The new direction sends her into Mydea, possibly by way of Inrandeel.
 
 ### Chapter 1 fixes from the first review
 

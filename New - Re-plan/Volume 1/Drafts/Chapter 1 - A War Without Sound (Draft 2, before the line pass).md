@@ -82,11 +82,11 @@ The sun stood directly overhead. He shut his eyes against it and breathed in rag
 
 Something warm slid from his hair down the side of his temple. He touched it with a shaking hand. His fingers came back smeared with mud and something darker. A stiff lock of hair had fallen across his eyes; he pushed it aside with the heel of his palm.
 
-He cracked his eyes open to find a broad shape leaning over him, blocking the worst of the light.
+A broad shape leaned over him, blocking the worst of the light.
 
 "Can you hear me, lad? Where are you hurt?"
 
-The voice was rough, and its owner kept glancing past him at the field even while he waited for an answer.
+The voice was rough, and its owner kept glancing past him at the field even while he waited for an answer, the way a man checks a door he already knows won't stay shut.
 
 The boy tried to speak and managed only a dry rasp. He clutched his head instead and curled around the pain.
 
@@ -96,7 +96,9 @@ Rough hands moved down his frame. Arms. Chest. Stomach. Legs. Pressing, checking
 
 Twice, the hands stopped. Both times, the boy heard the man's breathing change.
 
-No armour. No weapon. Only blood-soaked clothes without a single tear. The man rolled one seam between two fingers, frowned at the tiny, even stitches, and let it go.
+No iron plate. No boiled leather. No crest stamped into a breastplate, no weapon at his hip. Only his clothes, and they were wrong somehow—the cloth smooth where the man's own coat was coarse, and fitted to him without a single seam split. Not one tear. Not one puncture anywhere on it, for all the blood soaked into the fabric.
+
+The stitching seemed to trouble the man most. He rolled one seam between two fingers, then another, frowning at stitches too small and even to easily separate. Whatever he was looking for, he didn't find it.
 
 "Not a mark on you." His voice had gone low, and something almost like a laugh tried to climb out of it and failed halfway. "All this blood, and not a scratch under it. I've buried men who bled less than this and had half of what killed them showing."
 
@@ -278,7 +280,7 @@ His fingers closed around the blanket as he waited for the name to stir somethin
 
 "The name should mean something, shouldn't it?" His breath shortened. "But it doesn't. I've never heard it before."
 
-Gerolt's fist fell away from his back.
+Gerolt forgot about his back.
 
 "Never heard of it. Lad, you're currently lying in it." He leaned forward, the mug forgotten between his hands. "You must remember a road, a town, whose colours you marched under. Something. People don't usually turn up on my land from nowhere in particular."
 
@@ -300,7 +302,7 @@ The boy looked down at himself.
 
 The boy rubbed the dark material between his fingers.
 
-"Who made them?" Gerolt asked.
+"Who made it?" Gerolt asked.
 
 "I don't know. I keep looking for something in them—a mark, a colour, anything that might explain who made them or why I was wearing them. There's nothing."
 
@@ -350,7 +352,7 @@ The boy's hand went still.
 
 The boy looked towards the hearth. Fire meant heat, light and the pain of touching it. None of that told him why it should know him in return.
 
-Gerolt studied him for a moment. Then he set the mug on the floor and held out one hand between them, palm up.
+Gerolt read his face and gave up on explaining. He set the mug on the floor and held out one hand between them, palm up.
 
 A flame opened in it.
 
@@ -556,7 +558,7 @@ Gerolt bent closer. "In the field?"
 
 "Who?"
 
-"I couldn't see their face." The boy caught at Gerolt's sleeve. "They were close enough to touch me, but they kept running and never came any nearer. Their mouth kept moving. They were saying something to me—"
+"I couldn't see their face." The boy caught at Gerolt's sleeve. "They were close enough that they should have reached me, but they kept running and never came any nearer. Their mouth kept moving. They were saying something to me—"
 
 His breath caught again.
 
