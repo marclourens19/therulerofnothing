@@ -10,7 +10,7 @@ They closed so hard that they drove the breath out of her. One arm locked across
 
 "Thaer," she said into his chest. "You're hurting me."
 
-He let go at once, but he didn't step back. His hands stayed on her shoulders, not quite steady, while his eyes went over her: her face, the blood dried down her wrist, her bare feet on the stone. He was still breathing hard.
+He let go at once, but he didn't step back. His hands stayed on her shoulders, not quite steady, while he took her in: her face, the blood dried down her wrist, her bare feet on the stone. He was still breathing hard.
 
 "How long have you been awake?"
 
@@ -164,7 +164,7 @@ She let out a long breath. "Well. This is getting me nowhere." The maid hadn't m
 
 "Nereth, Your Highness."
 
-Seralune couldn't sit still. She walked from the fire to the window and back again, and her legs still shook, and she walked anyway.
+Seralune couldn't keep still. She walked from the fire to the window and back again, and her legs still shook, and she walked anyway.
 
 *Why is he so on edge? He's never been like this, not once.*
 
@@ -226,7 +226,7 @@ For a breath he was her brother again, and she wanted so badly to believe him th
 
 His eyes went to the tray on the table. "You haven't eaten."
 
-She looked from the tray to him. He was still looking at the bread.
+She looked at him. He was still looking at the tray.
 
 "You told me to follow you, and I followed. You left me in here, and I stayed." She was on her feet now. "I sat in that room all day, Thaeroval, and nobody came. Now I want answers, and I want them now."
 
@@ -276,7 +276,7 @@ Before Seralune could move, Nereth was standing between her and the swords. "Her
 
 Nereth didn't move.
 
-The second guard looked past her at Seralune, and then down at her bare feet, and lowered his sword. "Leave it."
+The second guard looked past Nereth at Seralune, and down at her bare feet, and lowered his sword. "Leave it."
 
 "And if she—"
 
@@ -294,7 +294,7 @@ Nereth's eyes had gone to Seralune's hand, where the cut had opened again. "You'
 
 Seralune held it out, and Nereth wet the linen at the basin, then cleaned the cut and bound it. Neither of them said anything. Nereth's hands were quick and careful, and they didn't shake, though the swords had been a step from her.
 
-Seralune looked down at the binding. "Thank you."
+The binding was neat and firm. "Thank you," Seralune said.
 
 Nereth bowed her head, and went back to her corner.
 
@@ -318,7 +318,7 @@ When the window began to grey, the blows stopped.
 
 *They've stopped. It's mended, then.*
 
-Then there were footsteps in the corridor.
+Footsteps came along the corridor.
 
 Two knocks came.
 

@@ -6,7 +6,7 @@ The new chapter is saved unchanged as `Drafts/Chapter 5 - The Shape of Absence (
 
 ## At a glance
 
-- **Length:** 2,190 words before, 3,208 in the rewrite, 3,181 after round 1, and about 3,160 after the author's review (round 2). Both rounds are in `Chapter 5 - Changes (deep revision).md`. That's short of the 4,000 we aimed for; see "Why it isn't 4,000" below.
+- **Length:** 2,190 words before, 3,208 in the rewrite, 3,181 after round 1, about 3,160 after the author's review (round 2), and 3,155 after the tray line and the final pass (round 3). All three rounds are in `Chapter 5 - Changes (deep revision).md`. That's short of the 4,000 we aimed for; see "Why it isn't 4,000" below.
 - **Shape:** the same night, in her eyes, from the chamber to the knock. There are still no scene breaks.
 - **Every agreed line is in,** in the words agreed, with one exception: "calling and calling" isn't repeated in her line to Thaer, because the line before it already says "I called and called".
 - **What she ends the night knowing:**
@@ -155,7 +155,7 @@ Then, after the thoughts you already had: *Weeks. That ship Thaer watched go… 
 
 ## Your call
 
-These are new, Claude's own rather than agreed. Yes or no to each, or a note. **Round 2 (29 September):** calls 1–13 stay for now ("Keep, I'll read and review"), and call 14 is a no. In call 10, whether "He was still looking at the bread" stays is to confirm.
+These are new, Claude's own rather than agreed. Yes or no to each, or a note. **Round 2 (29 September):** calls 1–13 stay for now ("Keep, I'll read and review"), and call 14 is a no. In call 10, it's now "She looked at him. He was still looking at the tray." (the author, round 3).
 
 1. **"She had waited all day to hear him say it."** After "I'm here now, Seralune."
 2. **Thaer's hands** on her shoulders are "not quite steady", and he's "still breathing hard" (Chapter 4 had his breathing "going far too fast").

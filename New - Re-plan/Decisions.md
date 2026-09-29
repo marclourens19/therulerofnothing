@@ -523,6 +523,7 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - **Her plea to Thaer** is now "I don't know anyone here, Thaer. You're all I have, and you won't even look at me. Did I do something wrong?", replacing "Nobody will tell me anything, and you… you of all people." The question comes last, so his "No." answers it.
   - "At last, he looked at her." and "Sometime in the night".
   - **Italics:** every thought was already in italics in the file. The review saw a plain-text copy, which drops them.
+- **The tray, and the final pass (29 September).** The author: "Say he was still looking at the tray, not the bread, then do one final pass of the chapter looking for errors, POV slips etc." Now "She looked at him. He was still looking at the tray." The pass found no point-of-view or continuity faults; it fixed one unclear pronoun (whose bare feet), "couldn't sit still" while she was standing, and three repeats. Changes 6–11 in `Volume 1/Chapter 5 - Changes (deep revision).md`. The chapter is 3,155 words.
 - *Open:* Nereth's first disobedience ("still undecided", handoff §15.10).
 
 ## Chapter 6

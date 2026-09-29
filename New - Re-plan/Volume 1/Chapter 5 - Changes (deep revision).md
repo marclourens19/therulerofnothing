@@ -4,12 +4,13 @@ Started 29 September 2026. Chapter 5 was rewritten from the new design agreed in
 
 - **Round 1** (29 September, change 1): the author's note on the window and the bread: "I don't agree she should eat, and remove 'sill'. [Stop] putting buzz words."
 - **Round 2** (29 September, changes 2–5): the author's review, "Several things still keep it below the level of Chapter 4": Thaer's first look at her, Leorin's first words, her plea to Thaer, and "Sometime". Its first point, italics for her thoughts, needed no change: every thought is already in italics in the file, and a plain-text copy loses them.
+- **Round 3** (29 September, changes 6–11): the tray (the author: "say he was still looking at the tray, not the bread"), then the final pass the author asked for, "looking for errors, POV slips etc." The pass found no point-of-view slips, no continuity errors and no house-style faults. It found one unclear pronoun, one line that didn't fit where she was, and three repeats ("His eyes went…" four times, "Seralune looked…" twice in six lines, and a tenth "Then" that echoed the opening's "Then there were footsteps").
 
 ## At a glance
 
-- **5 changes proposed.** 0 rejected so far, so 5 are in the chapter: 5 rewritten, 0 cut and 0 added.
-- **Length:** 3,201 words before, 3,153 after.
-- **Median paragraph:** 14 words before, 13.5 after. The house target is roughly 14–22.
+- **11 changes proposed.** 0 rejected so far, so 11 are in the chapter: 11 rewritten, 0 cut and 0 added.
+- **Length:** 3,201 words before, 3,148 after.
+- **Median paragraph:** 14 words before, 13 after. The house target is roughly 14–22.
 - **"Nothing":** 1 times before, 1 after.
 
 ## Your call
@@ -25,6 +26,12 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 3, "What have you done?":** The author's line (29 September), with the two fixes.
 - **Change 4, "You're all I have":** The author's line (29 September), with the question moved to the end.
 - **Change 5, "Sometime in the night":** The author's note (29 September).
+- **Change 6, Looking at the tray:** The author's note (29 September).
+- **Change 7, "While he took her in":** A craft fix from the final pass.
+- **Change 8, "Couldn't keep still":** A craft fix from the final pass.
+- **Change 9, Whose bare feet:** A craft fix from the final pass.
+- **Change 10, The binding:** A craft fix from the final pass.
+- **Change 11, The last footsteps:** A craft fix from the final pass.
 
 ## The changes
 
@@ -125,3 +132,105 @@ Each of these needs a yes or no from you. It adds something about a character or
 **Why.** The author's review: "'Some time in the night' → 'Sometime in the night.'" Both forms are correct British English; the author has asked for this one twice.
 
 **Your decision.** The author's note (29 September).
+
+### Thaer comes back
+
+#### 6. Looking at the tray
+
+*Draft line 231 → revised line 229*
+
+**Before**
+
+> She looked from the tray to him. He was still looking at the bread.
+
+**After**
+
+> She looked at him. He was still looking at the tray.
+
+**Why.** The author: "Say he was still looking at the tray, not the bread." The line before already says "His eyes went to the tray on the table", so "She looked from the tray to him" would have made three trays in three lines; it's now "She looked at him.", and the author's sentence is word for word.
+
+**Your decision.** The author's note (29 September).
+
+### The chamber
+
+#### 7. "While he took her in"
+
+*Draft line 13 → revised line 13*
+
+**Before**
+
+> He let go at once, but he didn't step back. His hands stayed on her shoulders, not quite steady, while his eyes went over her: her face, the blood dried down her wrist, her bare feet on the stone. He was still breathing hard.
+
+**After**
+
+> He let go at once, but he didn't step back. His hands stayed on her shoulders, not quite steady, while he took her in: her face, the blood dried down her wrist, her bare feet on the stone. He was still breathing hard.
+
+**Why.** Final pass: "His eyes went…" came four times (here, "back to the crystal", "past her to the broken doorway" and "to the tray on the table"). This is the one that can go without losing anything; the other three are agreed lines.
+
+**Your decision.** A craft fix from the final pass.
+
+### The night
+
+#### 8. "Couldn't keep still"
+
+*Draft line 169 → revised line 167*
+
+**Before**
+
+> Seralune couldn't sit still. She walked from the fire to the window and back again, and her legs still shook, and she walked anyway.
+
+**After**
+
+> Seralune couldn't keep still. She walked from the fire to the window and back again, and her legs still shook, and she walked anyway.
+
+**Why.** Final pass: she's on her feet here (she has just caught hold of the bedpost), so "couldn't sit still" reads as though she'd been sitting.
+
+**Your decision.** A craft fix from the final pass.
+
+#### 9. Whose bare feet
+
+*Draft line 281 → revised line 279*
+
+**Before**
+
+> The second guard looked past her at Seralune, and then down at her bare feet, and lowered his sword. "Leave it."
+
+**After**
+
+> The second guard looked past Nereth at Seralune, and down at her bare feet, and lowered his sword. "Leave it."
+
+**Why.** Final pass: with "past her at Seralune", the second "her" could be Nereth's feet. Naming Nereth leaves only Seralune for "her".
+
+**Your decision.** A craft fix from the final pass.
+
+#### 10. The binding
+
+*Draft line 299 → revised line 297*
+
+**Before**
+
+> Seralune looked down at the binding. "Thank you."
+
+**After**
+
+> The binding was neat and firm. "Thank you," Seralune said.
+
+**Why.** Final pass: "Seralune looked at her." is six lines above. What she sees does the looking, and the tag keeps the speaker clear.
+
+**Your decision.** A craft fix from the final pass.
+
+#### 11. The last footsteps
+
+*Draft line 325 → revised line 321*
+
+**Before**
+
+> Then there were footsteps in the corridor.
+
+**After**
+
+> Footsteps came along the corridor.
+
+**Why.** Final pass: the chapter's tenth paragraph to start with "Then", and word for word the start of the guards' arrival ("Then there were footsteps above them").
+
+**Your decision.** A craft fix from the final pass.

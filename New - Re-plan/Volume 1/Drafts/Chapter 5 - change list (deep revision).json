@@ -3,7 +3,7 @@
  "draft": "Chapter 5 - The Shape of Absence (Draft 4, the deep revision).md",
  "chapter": "../Chapter 5 - The Shape of Absence.md",
  "changes_file": "../Chapter 5 - Changes (deep revision).md",
- "intro_md": "Started 29 September 2026. Chapter 5 was rewritten from the new design agreed in `Chapter 5 - Design.md` (\"The deep revision\"), and the rewrite is compared with the version before it, scene by scene, in `Chapter 5 - What the Deep Revision Changed.md`. Its first draft is saved unchanged as `Drafts/Chapter 5 - The Shape of Absence (Draft 4, the deep revision).md`, and every round from here is a change against it. The version before the deep revision is `Drafts/Chapter 5 - The Shape of Absence (Draft 3, before the deep revision).md`, written by `Drafts/Chapter 5 - change list.json`.\n\n- **Round 1** (29 September, change 1): the author's note on the window and the bread: \"I don't agree she should eat, and remove 'sill'. [Stop] putting buzz words.\"\n- **Round 2** (29 September, changes 2–5): the author's review, \"Several things still keep it below the level of Chapter 4\": Thaer's first look at her, Leorin's first words, her plea to Thaer, and \"Sometime\". Its first point, italics for her thoughts, needed no change: every thought is already in italics in the file, and a plain-text copy loses them.",
+ "intro_md": "Started 29 September 2026. Chapter 5 was rewritten from the new design agreed in `Chapter 5 - Design.md` (\"The deep revision\"), and the rewrite is compared with the version before it, scene by scene, in `Chapter 5 - What the Deep Revision Changed.md`. Its first draft is saved unchanged as `Drafts/Chapter 5 - The Shape of Absence (Draft 4, the deep revision).md`, and every round from here is a change against it. The version before the deep revision is `Drafts/Chapter 5 - The Shape of Absence (Draft 3, before the deep revision).md`, written by `Drafts/Chapter 5 - change list.json`.\n\n- **Round 1** (29 September, change 1): the author's note on the window and the bread: \"I don't agree she should eat, and remove 'sill'. [Stop] putting buzz words.\"\n- **Round 2** (29 September, changes 2–5): the author's review, \"Several things still keep it below the level of Chapter 4\": Thaer's first look at her, Leorin's first words, her plea to Thaer, and \"Sometime\". Its first point, italics for her thoughts, needed no change: every thought is already in italics in the file, and a plain-text copy loses them.\n- **Round 3** (29 September, changes 6–11): the tray (the author: \"say he was still looking at the tray, not the bread\"), then the final pass the author asked for, \"looking for errors, POV slips etc.\" The pass found no point-of-view slips, no continuity errors and no house-style faults. It found one unclear pronoun, one line that didn't fit where she was, and three repeats (\"His eyes went…\" four times, \"Seralune looked…\" twice in six lines, and a tenth \"Then\" that echoed the opening's \"Then there were footsteps\").",
  "glance": [],
  "summary_md": "",
  "sections": {
@@ -77,6 +77,89 @@
    "why": "The author's review: \"'Some time in the night' → 'Sometime in the night.'\" Both forms are correct British English; the author has asked for this one twice.",
    "decision": "accepted",
    "decision_note": "The author's note (29 September)."
+  },
+  {
+   "section": "Thaer",
+   "title": "Looking at the tray",
+   "kind": "changed",
+   "tags": [
+    "round3"
+   ],
+   "before": "She looked from the tray to him. He was still looking at the bread.",
+   "after": "She looked at him. He was still looking at the tray.",
+   "why": "The author: \"Say he was still looking at the tray, not the bread.\" The line before already says \"His eyes went to the tray on the table\", so \"She looked from the tray to him\" would have made three trays in three lines; it's now \"She looked at him.\", and the author's sentence is word for word.",
+   "decision": "accepted",
+   "decision_note": "The author's note (29 September)."
+  },
+  {
+   "section": "The chamber",
+   "title": "\"While he took her in\"",
+   "kind": "changed",
+   "tags": [
+    "round3",
+    "final"
+   ],
+   "before": "He let go at once, but he didn't step back. His hands stayed on her shoulders, not quite steady, while his eyes went over her: her face, the blood dried down her wrist, her bare feet on the stone. He was still breathing hard.",
+   "after": "He let go at once, but he didn't step back. His hands stayed on her shoulders, not quite steady, while he took her in: her face, the blood dried down her wrist, her bare feet on the stone. He was still breathing hard.",
+   "why": "Final pass: \"His eyes went…\" came four times (here, \"back to the crystal\", \"past her to the broken doorway\" and \"to the tray on the table\"). This is the one that can go without losing anything; the other three are agreed lines.",
+   "decision": "accepted",
+   "decision_note": "A craft fix from the final pass."
+  },
+  {
+   "section": "The night",
+   "title": "\"Couldn't keep still\"",
+   "kind": "changed",
+   "tags": [
+    "round3",
+    "final"
+   ],
+   "before": "Seralune couldn't sit still. She walked from the fire to the window and back again, and her legs still shook, and she walked anyway.",
+   "after": "Seralune couldn't keep still. She walked from the fire to the window and back again, and her legs still shook, and she walked anyway.",
+   "why": "Final pass: she's on her feet here (she has just caught hold of the bedpost), so \"couldn't sit still\" reads as though she'd been sitting.",
+   "decision": "accepted",
+   "decision_note": "A craft fix from the final pass."
+  },
+  {
+   "section": "The night",
+   "title": "Whose bare feet",
+   "kind": "changed",
+   "tags": [
+    "round3",
+    "final"
+   ],
+   "before": "The second guard looked past her at Seralune, and then down at her bare feet, and lowered his sword. \"Leave it.\"",
+   "after": "The second guard looked past Nereth at Seralune, and down at her bare feet, and lowered his sword. \"Leave it.\"",
+   "why": "Final pass: with \"past her at Seralune\", the second \"her\" could be Nereth's feet. Naming Nereth leaves only Seralune for \"her\".",
+   "decision": "accepted",
+   "decision_note": "A craft fix from the final pass."
+  },
+  {
+   "section": "The night",
+   "title": "The binding",
+   "kind": "changed",
+   "tags": [
+    "round3",
+    "final"
+   ],
+   "before": "Seralune looked down at the binding. \"Thank you.\"",
+   "after": "The binding was neat and firm. \"Thank you,\" Seralune said.",
+   "why": "Final pass: \"Seralune looked at her.\" is six lines above. What she sees does the looking, and the tag keeps the speaker clear.",
+   "decision": "accepted",
+   "decision_note": "A craft fix from the final pass."
+  },
+  {
+   "section": "The night",
+   "title": "The last footsteps",
+   "kind": "changed",
+   "tags": [
+    "round3",
+    "final"
+   ],
+   "before": "Then there were footsteps in the corridor.",
+   "after": "Footsteps came along the corridor.",
+   "why": "Final pass: the chapter's tenth paragraph to start with \"Then\", and word for word the start of the guards' arrival (\"Then there were footsteps above them\").",
+   "decision": "accepted",
+   "decision_note": "A craft fix from the final pass."
   }
  ]
 }
