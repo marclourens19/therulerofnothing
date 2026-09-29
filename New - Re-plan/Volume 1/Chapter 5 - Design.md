@@ -1,6 +1,6 @@
 # Chapter 5: Design
 
-Started 29 September 2026. **Status:** round 2 and the first dialogue round answered; dialogue round 2 asked.
+Started 29 September 2026. **Status:** the design and the dialogue are agreed, apart from one word ("this room" or "that room", below). **Ready to write once the author says go.**
 
 **How this chapter gets written** (the author, 29 September): the design is agreed first, then we plan dialogue options for the key exchanges, and only then does Claude write, after saying it's ready and getting the go-ahead. Nothing in this chapter is written yet.
 
@@ -57,14 +57,14 @@ From her room to first light.
 | Thaer in the chamber: "Not here." / "No more questions, Seralune. Not here." | Agreed (27 September) |
 | Thaer when the court arrives: "Come with me, Seralune, and stay close. Don't speak to anyone until we're upstairs." | The author's line (27 September) |
 | "I'm standing right here, you know. You can just ask me." | Agreed |
-| Leorin's first words to her, "Your Highness" | **Needed** |
+| Leorin: a bow, "Your Highness.", then to Thaeroval: "What happened here? Why has the door been cut down?" Her "*Leorin?*" when the younger face comes to her. | Agreed (dialogue round 2) |
 | The tree: *How in the world did it grow so big? It was nowhere near that size this morning.* / *How long was I in that room?* | Version 2 (27 September), not objected to |
 | Thaer leaving her room: "Get some rest. There are things I have to see to, and I'll be back as soon as I'm able." | Version 2, from the author's words |
-| Nereth's first exchange, "Where's Elowen?" and her name | **Needed.** The author's rough versions: Nereth, "I've never heard of her"; Seralune, *sigh*, "This isn't getting me anywhere… What's your name, lady?" |
+| Nereth: "Where's my mother?" / "I couldn't say, Your Highness." / "Then fetch Elowen. She'll know." / "I've never heard of her, Your Highness." / *Never heard of Elowen? How? She's by my side every day.* / "Well. This is getting me nowhere." … "You do have a name, I take it?" / "Nereth, Your Highness." | Agreed (dialogue round 2, with the author's thought added) |
 | Her thought while pacing: *Why is he so on edge? He's never been like this, not once.* | Version 2 |
-| Through the door: Leorin's "…sealed…" and Thaer's "…wait until… my father… returned… answers…" | **The pieces are decided; exactly what she catches is needed.** The whole line, for us: "At least wait until my father has returned. He'll have answers." |
-| Her question to Thaer, testing him | **Needed** |
-| Her anger at Thaer, and "You said you'd be back before evening, too" | Version 2, from the author's words |
+| Through the door: "…needs to be… sealed…" / "…at least wait until… my father… returned… answers…" | Agreed. The whole line, for us: "At least wait until my father has returned. He'll have answers." |
+| Testing him: "What's happening, Thaer? Why is everyone acting like this?" / *(no answer)* / "Did I do something wrong? Nobody will tell me anything, and you… you of all people." | Agreed |
+| Her anger: "You told me to follow you, and I followed. You told me to rest, and I rested. I sat in that room all day, Thaeroval, and nobody came. Now I want answers, and I want them now." / "When you've slept—" / "Don't you dare send me to bed like a child!" / "Seralune, get some rest. I'll be back in the morning." / "You said you'd be back before evening, too." She catches his arm as he turns for the door. | Agreed, except "this room" or "that room" (below) |
 | The snap, the cover and the sorry | Version 2, from the author's words |
 | The knock: "Thaer?" | Agreed in round 1 |
 
@@ -204,4 +204,17 @@ It's a sister asking, which is the chance for him to tell her. The trailing "you
 > "You said you'd be back before evening, too."
 - "I sat in that room all day, and nobody came" grounds her anger in Chapter 4, which the reader lived through with her.
 - **"Her Revy":** Revy is Nereth's reference in `Decisions.md` ("Ram on duty, Revy when she slips"). If Seralune also breaks like Revy, the two women start to sound alike. *Recommended:* this is Alisaie at her hottest, loud and sure, with no swearing, and her break is physical, the way Alisaie grabs Alphinaud's collar: she catches his arm as he turns for the door. Revy stays Nereth's, for the escape. Or did you mean Seralune should get some of Revy too?
+
+**Answers (29 September).**
+- **A. Leorin:** "Agreed."
+- **B. Nereth:** "After Nereth says that about Elowen, let Seralune think to herself for a bit: *Never heard of Elowen? How? She is by my side every day.* Something like this. I like 'You do have a name, I take it'."
+- **C. Through the door:** "Agreed."
+- **D. Testing him:** "Yes."
+- **E. The anger:** "'I sat in this room all day', the rest I agree." *Claude's reading of "the rest I agree":* the recommendation stands too, so her break is Alisaie at her hottest, with no swearing, and she catches his arm as he turns for the door. Revy stays Nereth's, for the escape.
+
+**One word to settle: "this room" or "that room"?** By this point she's in her own bedroom, where she's been only since Thaer brought her up after dark. The room she sat in all day was the crystal chamber below.
+- *Recommended:* "that room", meaning the chamber, which is where the day of waiting happened (Chapter 4).
+- If you meant her bedroom: "I've sat in this room for hours", since it hasn't been a whole day there.
+
+**The title.** Chapters 3 and 4 kept working titles until after the draft, so Chapter 5 can too. A working suggestion: **"Your Highness"**. It's what everyone calls her instead of answering her. Yours to change.
 

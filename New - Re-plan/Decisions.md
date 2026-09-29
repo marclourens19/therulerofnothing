@@ -472,6 +472,7 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - **Through the door:** "…needs to be… sealed…", with no "she".
   - **Testing Thaer** (the author's rough lines): "What is happening, Thaer? Why is everyone acting like this? Did I do something wrong? Why is no one telling me anything, you of all people?"
   - **"Thaer?" at the knock:** yes, the short name.
+- **Dialogue round 2 (29 September):** every line for Chapter 5 is agreed; they're in `Volume 1/Chapter 5 - Design.md`. The author added Seralune's thought after Nereth's "I've never heard of her": *Never heard of Elowen? How? She's by my side every day.* Her break with Thaer is Alisaie at her hottest (she catches his arm), and Revy stays Nereth's (Claude's reading of "the rest I agree").
 - *Open:* what each part's dramatic question is, and Nereth's first disobedience ("still undecided", handoff §15.10).
 
 ## Chapter 6
