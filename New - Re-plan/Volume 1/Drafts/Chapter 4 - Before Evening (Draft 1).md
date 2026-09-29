@@ -1,4 +1,4 @@
-# Chapter 4 – A Promise Left Fractured
+# Chapter 4 – Before Evening
 
 Her mana moved.
 
@@ -20,7 +20,7 @@ They were open.
 
 *No. Don't be ridiculous. Surely the dead don't get cold, and I'm freezing.*
 
-*So I'm alive, freezing, and lying on a stone floor somewhere I don't know. Very well. Before I do anything else, I need to find out where I am.*
+*So I'm alive, and lying on a stone floor I don't know, somewhere so black I can't see my own hand. Very well. Before I do anything else, I need to find out where I am.*
 
 She got an elbow under herself and pushed. Her arm shook and the floor seemed to tip, and she had to put her cheek back down on the stone and wait for it to stop.
 
@@ -28,7 +28,7 @@ The second time, she made it to sitting. Her hair had come loose and was everywh
 
 "Hello?"
 
-Her voice went a long way before it came back. The chamber was larger than any room she knew, and no one answered.
+Her voice went out a long way before it came back to her. The room was big, then, bigger than any of hers, and there was nobody in it to answer.
 
 There was no other sound at all. She held her breath to be sure, and heard only her own heart.
 
@@ -68,7 +68,7 @@ She tore her arm free and threw herself backwards. Her legs gave, and she scramb
 
 She sat against it with her cut hand held to her chest. Her mana had crowded up under her ribs and behind her eyes the way it always did when she was frightened, so full she could hardly breathe around it, and as always, it was no help at all.
 
-*What is that thing? What was it doing?*
+*What is that thing? What was it* doing*?*
 
 She didn't want to know. She pulled her knees up and stayed where she was, as far from it as the wall let her be.
 
@@ -214,7 +214,7 @@ It came out of her with all the breath she had.
 
 She dropped her arm and ran to him. Her knees nearly buckled on the last step, and she caught herself against his chest and threw her arms round him and held on.
 
-The plates of his armour were cold against her cheek, and beneath them his breathing was going far too fast.
+The plates of his armour were cold against her cheek. He smelled of horses, and under the armour his breathing was going far too fast.
 
 But he was here. Whatever this place was, she wasn't alone in it any more.
 

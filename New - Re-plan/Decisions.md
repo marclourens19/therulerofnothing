@@ -327,7 +327,7 @@ The decisions below were made for Version 1. They were checked against the redes
 
 The plan is built in `Volume 1/Chapter 3 - Design.md`.
 
-- **Seralune comes in with Chapter 4,** which is all hers: "Yes, we can make Chapter 4 all Seralune." Chapter 3 stays in Alaric's eyes. *(Done: Chapter 4 opens at the moment her mana leaves her and the crystal breaks.)*
+- **Seralune comes in with Chapter 4,** which is all hers: "Yes, we can make Chapter 4 all Seralune." Chapter 3 stays in Alaric's eyes. *(Settled in Chapter 4, round 1: Chapters 4 and 5 are both hers, and Chapter 4 is the whole day in the seal, from the moment it broke.)*
 - **The centre of Chapter 3 is Alaric's inner fight.** "He thinks he is the reason Gerolt is now dead. He is not in a good headspace this chapter." His questions start: why are the elves trying to kill him, what was that war on Gerolt's farm, what is happening.
 - **Silas grounds him:** "snap out of it for Gerolt's sake, and keep moving forward for Gerolt's sake and Wena's."
 - **The river.** The bridge is broken and the current is strong. Wena still tries to go back to Gerolt, and Alaric grabs her fur and drags her. Silas says to leave the dog; Alaric doesn't.
@@ -367,6 +367,10 @@ The plan is built in `Volume 1/Chapter 3 - Design.md`.
   - Lengths: Chapter 1 is 6,284 words, Chapter 2 4,723, Chapter 3 1,990.
 - **Round 6 (27 September).** Two of Alaric's thoughts are joined into single lines. "*If I stop, then he—so don't, idiot. Move.*" uses Silas's own "move". "*They've already killed him—what more do they want? Why are they still chasing me?*" stays a question, so it claims nothing he couldn't know. Chapter 3 is now 1,995 words.
 - **"The man is said too much" (27 September).** In Chapter 3 it was said 22 times before Silas gives his name, and now 8, plus "the stranger" twice. The rest became "he" where only he can be meant, "a fist" or "a hand" where that's all Alaric feels, or were cut. The end of Chapter 2 lost a sentence that said it twice. *(The line pass brings it back to 10.)*
+- **An outside review (27 September).** The author pasted a five-point review of Chapter 3. Nothing in the text changes. Two notes carry forward to later chapters (Claude's reading; the author moved straight on to Chapter 4):
+  - **Pay a small answer on Silas, Gerolt and Marta soon,** most naturally when Marta sees Silas at her door. "Marta." said to the blade is a strong tell, and readers will be waiting.
+  - **Next time Silas is on the page, he shouldn't win cleanly.** He has now shown he's capable three times running. His flaws are decided ("acts instead of thinking", "reckless in the big choices"), and Marta can shake him.
+  - Answered against the review: "Then Gerolt died for nothing" stays, because Gerolt's death is decided and Chapter 2 already says it. "Stop drowning in self-pity" stays, because it's the author's line, meant to be harsh, and Alaric's "*Move*" echoes it. *(Superseded by the line pass: see below.)*
 - **The title** is "The Weight of the Living". It was briefly "I'm Sorry" on 28 September and restored the same day, because "I'm Sorry" was too narrowly tied to the closing line (handoff §1).
 - **Line pass (28–29 September, accepted; handoff §3).** Seven changes, in `Volume 1/Chapter 3 - Changes (line pass).md`. Before it, Chapter 3 was the weakest of the four, because Silas withheld both his history and the ordinary reason he was near the farm. His history stays hidden; his arrival now has a cause.
   - **Silas grounds him:** "They'll be hot on our trail soon enough, boy. Get up and move, or Gerolt died for nothing." It replaces "Stop drowning in self-pity, boy, and move" and "You want to die? Fine…".
@@ -378,29 +382,71 @@ The plan is built in `Volume 1/Chapter 3 - Design.md`.
 
 ## Chapter 4
 
-Written outside this repository and accepted by the author (handoff §3). It is saved as `Volume 1/Chapter 4 - A Promise Left Fractured.md` (2,626 words), with an unchanged copy in `Volume 1/Drafts/`. It has no change list yet.
+The plan is built in `Volume 1/Chapter 4 - Design.md`.
 
-- **Title: "A Promise Left Fractured"** (28 September). On first reading it seems to be about Thaer's promise to be back before evening, and the broken crystal round her. Its hidden meaning is the promise ancient Alaric and Seralune made to stay by each other's side, which other people fractured when they separated them, leaving her unable to remember him. That promise's wording and circumstances aren't written yet, and should get a full scene of their own later rather than stay background lore.
-- **All Seralune, and quiet.** Her first day alone in the broken crystal chamber. The threat is confinement, thirst, uncertainty, time and the chance that no one is coming.
-- **It opens on the rupture** the author prefers: her mana leaves her for the first time in her life, takes hold of something far away, and "Everything around her cracked. The sound went through her teeth and into her bones, and someone was screaming, and it was her, and the whole world went white."
-- **It ends when Thaeroval reaches her.** He cuts the door open; she runs into him expecting safety; his arms don't close round her; he stares past her at the crystal; and for the first time she sees fear in her brother's eyes.
-- **Mana and 『Affinity』 are different words on purpose.** Mana is the fuel. An Affinity is the force or element that shapes it. Seralune has limitless mana and no Affinity. "Magic" is her age's word, from before the modern laws made "Affinity" the usual one. So she speaks of mana and magic without contradicting Chapter 1.
-- **Her thoughts** come often because she's alone. Each one should change what she understands, how she feels, or what she does next. The handoff found no viewpoint slips.
-- **What the chapter puts on the page.** Some of it comes from the old canon, and some is new on the page. *Claude's list, to confirm the new ones are meant:*
-  - She has always been able to hear the palace falls (the old Chapter 4 had water falling through the forest below the palace).
-  - Thaer knocks twice and never waits to be let in (old canon; the knock returns in Chapter 5).
-  - **New:** the crystal is hollow, with an opening taller than she is, and when she reaches inside it draws her mana out of her, slow and cold, until she tears free.
-  - **New:** the chamber door has no handle, latch or keyhole on her side.
-  - **New:** her last memory is of fighting with her mother "this morning" (she can't remember a word of it), then Thaer promising to be back before evening.
-  - She wakes barefoot, her hair loose, in the dress from what feels like the day before (handoff §6.2).
+- **Round 1 (27 September).**
+  - **Two chapters, not one.** "Both Chapters 4 and 5 must be her chapters; 6 can return to Alaric." They cover "her leaving her seal, and all the lore around Natharul leading up to Cyrandor". "These chapters must be better than their predecessors and rely on my image of world building."
+  - **Chapter 4 is the day in the seal.** "She is exploring this dark room, completely black, fighting with her Alisaie inner monologue: thinking if she is dead, how did she end up here, what is happening. She must explore all emotions. It's a full day of nothingness."
+  - **It ends on the old image:** Thaeroval at the door, and Seralune seeing fear in her brother's eyes for the first time ever.
+  - **Not told "sealed" yet.** "Revealing 'sealed' right now is too soon. She should put the pieces together." Thaeroval deflects: "enough of the questions, come, follow me, do this, do that."
+  - **Her voice** (agreed): Shoko with Thaer at first, turning Alisaie as he shuts her out; Alisaie with everyone else from the start. She says sorry. *Superseded in round 2:* the counting in Thaer's voice ("Count. One breath first."), and the sorry "when her mana flares", since it no longer flares.
+  - *Claude's reading, not objected to in round 2:* "Yes" to question 2 also accepts Thaer feeling the seal break and coming from far off, which is why no one comes all day, and the reader learning she's an elf from the point of his ear.
+- **Round 2 (27 September).**
+  - **Chapter 5 ends on the two knocks** at first light, with Cyrandor unseen behind the door. Her escape is Chapter 7, after Alaric's Chapter 6.
+  - **Chapter 4's order is approved,** with two changes. "I don't like the counting, remove it." And when she goes back through her last day, it's her mother and Thaer only: "not Elowen yet".
+  - **The crystal:** yes to Claude's suggestions. It split open around her, and she wakes on the floor among sharp pieces, in a stone room with a door that has no handle on her side. She feels the break: her mana rushing out towards something far away and finding it, then the crack and the white. Afterwards the broken crystal still pulls at her mana.
+  - **What she works out** (agreed): many years have passed, and the crystal was made for her. Nobody says "sealed" or "a thousand years". The number and her mother come from Cyrandor in the escape, the first person who answers her instead of giving orders.
+  - **Cyrandor's first sight of her:** "a mix of both" (the old bow, and keeping him off the page). *Settled in round 3:* he bows and smiles, and there's no special old bow.
+  - **Seralune snaps at Nereth, and her mana doesn't flare** (the author): "Seralune is getting angry at no one telling her anything and snaps at Nereth. The guards charge in thinking something bad is going to happen, but Nereth steps between them, saying she is just tired and needs to rest", because of Cyrandor's order.
+  - **The blows under the floor** all night are the crystal being repaired.
+- **Round 3 (27 September).**
+  - **Chapter 5's order holds** ("Yes, it holds"). See `Volume 1/Chapter 4 - Design.md`.
+  - **"Ask me":** the author's version is "I'm standing right here, you know, just ask me", "something like this".
+  - **Through the door.** "The king took the royal battleship in the sky; a rider can't catch up." Leorin "just says the king must be told at once, take her into custody and prepare the seal". Thaer gets angry: "no one touches my sister until I say so", "something like this".
+  - **Why Thaer gives orders:** "He wants to get her away from prying eyes, and in a place he thinks is safe, so he can do other things."
+  - **The city** is inside the forest, "like Oriflamme" (FFXVI). The sound of the falls is the first thing she knows when she comes up.
+  - **Cyrandor bows and smiles a little.** In her head: she has never seen him before, and he is the first person who has smiled at her, when everyone so far looks worried and scared.
+  - **Her sorry to Nereth,** once the guards have gone: yes.
+  - **Her thinking is Alisaie's.** The author pasted Alisaie's lines from FFXIV (on saving Ga Bu) as the model for her inner voice: she reasons her way forward, is sure of her conclusions, and turns straight to the next practical step.
+  - **The end of her talk with Thaer:** she doesn't say "I trust you". "No, she is angry with him, how Alisaie fights with Alphinaud."
+- **Round 4 and the line notes (27 September).** The lines as they now stand are in `Volume 1/Chapter 4 - Design.md`.
+  - **She overhears "the seal".** This changes round 2's "she doesn't have the word yet". She hears it through the door and asks herself: "Seal? What seal, why are they preparing a seal? Is that the room I was in?" Nobody says it to her face, and nobody tells her why.
+  - **Ships in the sky:** "Yes, if you read Chapter 13 or 14 of the old stories, there is the airship there." The look comes from old Chapter 13: an immense armoured body of overlapping plates, a ribbed underside with blue-green light running through it, and a deep hum.
+  - **Her last memory is "this morning"** (the author): "Mother was in my room this morning, I forgot what we fought about, and Thaer was there promising to be back before evening." The pears are gone.
+  - **Her thought about Thaer** isn't that he's giving her orders, but "why is he acting so stressed? He has never been like this before."
+  - **No explaining in her thoughts.** "That tree hasn't grown a hand's width in my whole life" was "against chapter rules, explaining things like a hand's width, doesn't make any sense". It's now "How in the world did the tree grow so big? Yesterday it was way smaller. How long was I in that room?"
+  - **Her snap must break.** "You couldn't say. Of course you couldn't." "sounds weird": make it one sentence, "Of course, no one can say anything." And "Were you told to stand there…" "doesn't sound angry at all. Seralune must break here, like 'ARRGHH, WHY CAN'T ANYONE JUST SAY WHAT IS GOING ON!?'"
+  - **Her anger at Thaer,** in the author's words: "You told me to follow you and I did, you told me to rest and I did, I waited, and now I want answers, I want them now." / "I'm not a child any more, Thaer, I want to know what is going on." / Thaer: "Seralune, get some rest, I will be back in the morning."
+- **Round 5 (27 September).**
+  - **The airship she sees is the royal warship itself, leaving** (agreed). Ships in her time were "smaller, not this big": "not in her time, 1000 years ago".
+  - **The fight with her mother she can't remember is a hole where Alaric was:** "Yes." It stays unexplained on the page.
+  - **"You said you'd be back before evening, too."** Keep.
+  - **The first draft of Chapter 4 begins:** "begin the chapter".
+- **First draft written (27 September):** "Before Evening" (2,651 words, working title; now saved as `Volume 1/Drafts/Chapter 4 - Before Evening (Draft 1).md`), compared with the old coda in `Volume 1/Chapter 4 - From the Old Chapters.md`. It has eight calls for the author: the scream in the white, the silent falls, how her mana feels when she's frightened, Thaer's knocks and the cut door, "He smelled of horses", the crystal's inside pulling, the length, and the title.
+- **The accepted chapter (28–29 September).** Outside this repository, the draft became `Volume 1/Chapter 4 - A Promise Left Fractured.md` (2,626 words), accepted by the author (handoff §3). Only five things changed, listed in `Volume 1/Chapter 4 - Changes.md`: the title, one of her thoughts, the line where her voice comes back to her, a stress mark, and "He smelled of horses" (cut). So of the draft's eight calls, "He smelled of horses" was cut, the title changed, and the other six stayed as drafted.
+  - **Title: "A Promise Left Fractured"** (28 September). On first reading it seems to be about Thaer's promise to be back before evening, and the broken crystal round her. Its hidden meaning is the promise ancient Alaric and Seralune made to stay by each other's side, which other people fractured when they separated them, leaving her unable to remember him. That promise's wording and circumstances aren't written yet, and should get a full scene of their own later rather than stay background lore.
+  - **All Seralune, and quiet.** Her first day alone in the broken crystal chamber. The threat is confinement, thirst, uncertainty, time and the chance that no one is coming.
+  - **It opens on the rupture** the author prefers: her mana leaves her for the first time in her life, takes hold of something far away, and "Everything around her cracked. The sound went through her teeth and into her bones, and someone was screaming, and it was her, and the whole world went white."
+  - **It ends when Thaeroval reaches her.** He cuts the door open; she runs into him expecting safety; his arms don't close round her; he stares past her at the crystal; and for the first time she sees fear in her brother's eyes.
+  - **Mana and 『Affinity』 are different words on purpose.** Mana is the fuel. An Affinity is the force or element that shapes it. Seralune has limitless mana and no Affinity. "Magic" is her age's word, from before the modern laws made "Affinity" the usual one. So she speaks of mana and magic without contradicting Chapter 1.
+  - **Her thoughts** come often because she's alone. Each one should change what she understands, how she feels, or what she does next. The handoff found no viewpoint slips.
+  - **What the chapter puts on the page is canon** ("Yes", 29 September). Most of it was already agreed in rounds 2–4 above:
+    - She has always been able to hear the palace falls (round 3).
+    - Thaer knocks twice and never waits to be let in (old canon; the knock returns in Chapter 5).
+    - The crystal is hollow, with an opening taller than she is, and when she reaches inside it draws her mana out of her, slow and cold, until she tears free (round 2).
+    - The chamber door has no handle, latch or keyhole on her side (round 2).
+    - Her last memory is of fighting with her mother "this morning" (she can't remember a word of it), then Thaer promising to be back before evening (the author's line, round 4). The fight is a hole where Alaric was (round 5).
+    - She wakes barefoot, her hair loose, in the dress from what feels like the day before (handoff §6.2).
 
 ## Chapter 5
 
-Not designed yet. The author's direction so far; the handoff's recommendations are in its §14.2, §15.2 and §15.10.
+**Its order and its lines were agreed on 27 September,** in `Volume 1/Chapter 4 - Design.md` ("Chapter 5, the order", approved in round 3, and "The lines, version 2"). It runs from the embrace in the chamber to first light, and ends on the knock, with Cyrandor unseen behind the door. Her escape is Chapter 7, after Alaric's Chapter 6.
+
+**The handoff adds** (28–29 September). Where it changes the agreed design, the design is now being worked through in `Volume 1/Chapters 5–10 - Design.md`.
 
 - **It may be split into Part One and Part Two** rather than rushing its revelations (handoff §14.2).
 - **Seralune's state** (handoff §15.2). She remembers being a princess yesterday. She wakes to people who are frightened of her, evade her questions and may be deciding what to do with her. She is confused, alarmed and distrustful: what happened, why will nobody answer, why are they afraid of her, what are they planning? She doesn't meekly accept explanations, or act as if she has already adjusted to the present.
-- **Cyrandor's knock is different from Thaer's.** Seralune is so caught up in what happened, and in what Thaer might say, that she first assumes it's Thaer at the door (handoff §14.2).
+- **Cyrandor's knock is different from Thaer's.** Seralune is so caught up in what happened, and in what Thaer might say, that she first assumes it's Thaer at the door (handoff §14.2). *This changes the agreed ending, where the knocks were "spaced exactly like Thaer's".*
 - **Thaeroval regrets the ancient sealing** and hopes their father may also change his mind. He doesn't want to reseal her straight away, and delays while he holds on to that hope (handoff §14.2). *This changes "stays exactly as written"; see Thaeroval.*
 - *Open:* her first active choice, and what each part's dramatic question is. Nereth's first disobedience ("still undecided", handoff §15.10).
 
@@ -425,12 +471,16 @@ Not designed yet. The author's direction so far; the handoff's recommendations a
 - **The twins are deliberate.** Alaric takes from Alphinaud and Seralune from Alisaie, his twin, to show their connection to one another.
 - **Flaw.** She's very compassionate, which makes her want to help everyone, be friends with everyone and have the best image. Because of this she often takes control of situations, and they end badly. She needs to learn that people must choose for themselves, and that her way isn't always the only way.
 - **Her side of the volume's question.** She is told she was sealed for her own good. She doesn't remember it, or making any decision for herself, so it scares her and she rejects it.
+  - **Not in Chapters 4–5** (27 September): "Revealing 'sealed' right now is too soon. She should put the pieces together."
 - **What she wants (the author's words):** "a world where people don't have to fear those with nothing, or herself." "A world where people don't have to choose what they want, because they have everything they need."
 - **Her wish is deliberately the seed of her antagonist arc.** She wants to choose for others. People don't want that; they want their own freedom of choice.
 - **Volume 1 goal.** She wants to escape a system that is choosing to lock her away because everyone tells her she's dangerous. She knows she isn't: she's a kind person who just wants to help everyone. Her mother opposed her sealing, and she wants answers on why they sealed her, directly from her mother.
 - **Her belief across Volume 1.** At first she thinks, "How could I be dangerous? I never had magic." She says "magic" because she knows the word from a thousand years ago. People around her accuse her. Then her own actions endanger people, and she starts to believe she is the problem.
 - **Volume 1 breaks her into something dangerous.**
+- **Her mana.** She knows she has mana, and a lot of it. Everyone believes it's simply a very large pool: no one has been able to find its end. In truth it has none.
 - **Her mana.** She knows she has mana, and a lot of it. Everyone believes it's simply a very large pool: no one has been able to find its end. In truth it has none. *Now in question (handoff §14.5): a world that is fading because its energy is running out sits badly with a reserve that truly never ends. See Open questions.*
+- **A rule: her mana can't be used** (27 September). "Her mana isn't usable at all, nor should she think it is. It is only usable through Alaric. Her mana just exists within her." So she never tries to shape it, and never expects to.
+- **But it acts on its own** (27 September): "Yes, her mana acts on its own." That's how it went searching for Alaric, and how her feelings make Nereth's corruption flare.
 - **She isn't the ancient Seralune either** (handoff §15.5). She keeps the princess-self she remembers but has no memory of Alaric, and owes him nothing because of a past relationship.
 - **Her last choice in Volume 1.** She accepts responsibility for who she was, even though that isn't her true self and she didn't actually do those things. Her internal war: "I need to atone for all these deaths. But was it me? Why must I? But I should."
 - **Where Volume 1 leaves her:** she and Nereth are held by the Holy bearer. The church keeps her alive as leverage over Natharul.
@@ -462,9 +512,31 @@ Not designed yet. The author's direction so far; the handoff's recommendations a
 
 - **Everything from the old version survives,** and he stays exactly as written. His entry in `Old - Before Re-plan/World Bible/The World.md` ("Thaeroval — Seralune's Elder Brother / First Blade / Dark Bearer") is the reference. *Changed (handoff §14.2):* he regrets the ancient sealing and hopes their father may also change his mind. He doesn't want to reseal her straight away, and delays while he holds on to that hope.
 - **What he wants in Volume 1:** his sister safe in his "chains". He believes he must choose for her the best way to keep her safe, and that is resealing her.
+- **The seal** (27 September): "Thaeroval sealed her in a massive crystalline structure that contained her mana and used it against her to keep her sealed. When Alaric appeared, the mana searched for him and cracked the seal." It's intentional that she wakes because Alaric appeared.
+- **How he answers her** (27 September): he doesn't. "Enough of the questions, come, follow me, do this, do that." Why: "He wants to get her away from prying eyes, and in a place he thinks is safe, so he can do other things."
 - **He spares Alaric.** He's far more interested in reaching his sister than in doing anything to a boy who means nothing compared to her.
 - **When he passes Alaric he feels literally nothing.**
 - **His erosion.** He slowly loses his emotions until he becomes flat, but that happens much later in the series.
+
+## Natharul's palace
+
+Agreed for Chapters 4–5 (27 September). Who each person is gets decided with the author when they're on the page.
+
+- **Leorin** is the author's own character. He's Seralune's cousin, and "he looks extremely old now, like 70 years old".
+- **Who ages, and how much** (27 September). "Thaer isn't old because of his royal elf blood directly. Leorin is just related to royal blood. Her father just looks a little older." So direct royal blood barely ages in a thousand years, and Leorin, who is only related to it, has grown old.
+- **Elowen** was Seralune's attendant before the seal.
+- **Cyrandor** stays, with his name, as the keeper of the queen's Order. The old image of him weeping and dropping his linen changes: "something else better suited".
+  - **To Nereth** (27 September): "He is her mentor, almost a father figure. He taught her everything in the castle, and how to work and do things."
+- **No wardwrights, and no silver chain.** The author: "I don't like the silver chain and there are no wardwrights."
+- **The king is away.** Natharul's scouts told him to come and see a battlefield with dead elves on it, thinking Mydea killed his people. (Chapter 1 already has "pale soldiers with pointed ears" among the dead.)
+- **The palace and the city** are built together from the author's picture: "we can change this together". The picture so far (27 September):
+  - **Natharul is both the continent and the kingdom.**
+  - **The palace** is massive, on a hillside, "like a kingdom in FF16 and the elven kingdom of Rivendell in LOTR".
+  - **The waterfall** beside it is huge, "bigger than a massive building". It's holy: it represents life to the elves, and they believe it supplies life to the lands of Natharul.
+  - **A massive forest** lies below.
+  - **The city** lies inside the forest, "like Oriflamme" (FFXVI).
+  - **The royal battleship** flies. The king took it to Mydea, and no rider can catch it.
+  - **The royal tree** stands at the top of the waterfall, and can be seen from the castle. It's just a tree, with no symbols. It's far bigger than it was a thousand years ago, so the sight of it shocks her, because to her it was a smaller tree yesterday.
 
 ## Brand (later-volume concept)
 
@@ -519,7 +591,9 @@ Not in the central cast yet, and not locked (handoff §7, §14.3).
 - **Ram on duty, Revy when she slips.**
 - **Seralune's feelings make her corruption flare.**
 - **Her first refusal of Seralune comes later,** not in Volume 1.
-- **Her first disobedience of anyone** is still undecided (handoff §15.10).
+- **Always composed on duty** (27 September). Her first slip comes in the escape, not before.
+- **Cyrandor's order** (27 September): "Secretly, before meeting Seralune, Cyrandor told Nereth to watch over Seralune: even if she seems dangerous, she is important. Nereth obeys, but is struggling to understand why her." This replaces the old canon that she has nothing to do with the Order.
+- **Her first disobedience of anyone** is still undecided (handoff §15.10). Her first *slip*, from Ram to Revy, comes in the escape (above).
 
 ### Redd Vander
 
@@ -574,6 +648,7 @@ Not in the central cast yet, and not locked (handoff §7, §14.3).
 - **The distance was random.** He just activated his Time magic; he didn't choose a thousand years. It could have been any length of time.
 - **Deliberate parallel:** both protagonists were saved without their consent by someone who loved them. Thaeroval sealed Seralune; the Time bearer sent Alaric away.
 - **Seralune does not remember Alaric** at the end of Volume 1.
+- **A thousand years, rounded** (27 September). "It isn't exactly 1000 years; it's random, but rounded to 1000 years."
 
 ### Seralune's mother, the queen
 
@@ -630,6 +705,7 @@ Not in the central cast yet, and not locked (handoff §7, §14.3).
 ### Geography
 
 - **Kozmagar is a separate continent,** the beast continent.
+- **Natharul is both a continent and the kingdom on it** (27 September). See "Natharul's palace".
 - **Gerolt's nearest neighbours** live two fields over, in a house with children. They're unnamed, and nothing else about them is decided.
 
 ### Ranks
@@ -688,7 +764,6 @@ Not in the central cast yet, and not locked (handoff §7, §14.3).
 
 ### Time
 
-- **Exactly a thousand years, or roughly?** If the distance was random, an exact thousand looks designed, and readers will hunt for a reason. An uneven figure that people round to "a thousand" would support the randomness. The old canon says exactly one thousand.
 - **Did anyone in the ancient coalition learn what he did,** and what happened to him?
 - **Does Time remember inside Alaric?** He carries Time too, dormant.
 
@@ -819,13 +894,21 @@ None of these have been changed yet. They're listed so nothing is forgotten when
 
 - `Old - Before Re-plan/World Bible/The World.md:1049`: the old epilogue's "He's back" is resolved (Time remembers, not the person), but the old ritual design in `The World.md` ("The Erasure Ritual") says Alaric's own Affinities resisted the spell and the Time component displaced him by accident. Now the displacement is the ancient Time bearer's deliberate act. Does his own resistance still play a part?
 
+### The seal, the wardwrights and Nereth (Chapter 4, round 1)
+
+- `Old - Before Re-plan/World Bible/The World.md`, "The Queen's Order", says Nereth "is **not** secretly a member". Now Cyrandor has told her to watch over Seralune.
+- The old Chapters 3–5 and their designs: the carved circle and its metal strips become the crystal, and the wardwrights and the silver chain are gone.
+- `Old - Before Re-plan/World Bible/The World.md`, "Elven aging": royal bloodlines age "at a vastly slower rate", so a thousand years barely shows. *Settled in Chapter 4, round 2:* that holds for direct royal blood; Leorin, who is only related to it, looks about seventy.
+- The old Chapter 4: the royal tree carved with nine stars where there were four. The tree is now a real tree at the top of the waterfall, with no symbols, grown far bigger.
+- The old Chapters 3–4: Seralune tries to make light, and her mana flares the lamps. Under the new rule her mana can't be used at all, and it never flares.
+
 ### Thaeroval feels nothing
 
 - `Old - Before Re-plan/World Bible/The World.md:1049`: the old epilogue has Thaeroval's sword "won't stop humming". Check it against "he feels literally nothing" when the epilogue is replanned.
 
 ### Seralune's opening chapters (added 29 September)
 
-- The old Chapters 4 and 5 (`Old - Before Re-plan/Volume 1 - Rewrites/`) are replaced by the new Chapter 4 and the Chapter 5 still to be designed. The old versions carry a lot that hasn't been decided again: Leorin as head of the court, the wardwright and the lamps, the lock turning from outside, Thaeroval confirming the thousand years, Cyrandor losing an arm, and the escape through the drainage channels.
+- The old Chapters 4 and 5 (`Old - Before Re-plan/Volume 1 - Rewrites/`) are replaced by the new Chapter 4, the agreed Chapter 5, and the escape in Chapter 7. Chapter 4's design settled most of the old material (Leorin, no wardwrights, nobody saying "sealed" or "a thousand years"). What's left undecided is the old escape: Cyrandor losing an arm, Nereth's rescue, Thaer at the stair and the drainage channels.
 - `Old - Before Re-plan/World Bible/The World.md` has Thaeroval hating Alaric and designing or completing the erasure ritual. The handoff now has him regretting the sealing and delaying the reseal. Whether the old history still stands behind the new regret is open.
 - The old route took Seralune by ship from Waluna to Meren, then to Favale. The new direction sends her into Mydea, possibly by way of Inrandeel.
 

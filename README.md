@@ -13,6 +13,7 @@ The story is being re-planned from the beginning. Current work lives in **New - 
   - The old files each decision now conflicts with.
 - **`Claude Handoff.md`**: the author's work outside this repository on 28–29 September (the philosophy, the Eight Rulers, the shared soul, the approved ending direction, love, and a proposed Volume 1 structure). What the author set there is copied into `Decisions.md`; the rest is discussion and proposals.
 - **`Going Forward.md`**: what Claude understood from the handoff, the faults found in the new lines, and the next steps in order (29 September).
+- **`Volume 1 Structural Map - Proposal.md`**: a structure for the whole of Volume 1, from the discussion outside the repository. **Discussion only, not canon** (the author, 29 September).
 - **`The Ruler of Nothing - Narrative and Web-Novel Design Bible.md`**: the craft reference for the rewrite.
 - **`Volume 1/`**: the re-planned manuscript. Chapters 1–4 are written and accepted.
   - `Chapter 1 - Revision Notes.md`: what to keep and what to change in Chapter 1.
@@ -23,7 +24,9 @@ The story is being re-planned from the beginning. Current work lives in **New - 
   - `Chapter 3 - Design.md`: the plan for Chapter 3, agreed question by question.
   - `Chapter 3 - The Weight of the Living.md`: the chapter, first drafted on 27 September and compared with the old chapters in `Chapter 3 - From the Old Chapters.md`.
   - `Chapter N - Changes (line pass).md`: the line pass of Chapters 1–3 (28–29 September), change by change. Later rounds go on these lists.
-  - `Chapter 4 - A Promise Left Fractured.md`: Seralune's first chapter.
+  - `Chapter 4 - Design.md`: the plan for Chapters 4 and 5, Seralune's first two chapters, agreed question by question (27 September).
+  - `Chapter 4 - A Promise Left Fractured.md`: Seralune's first chapter. Its first draft was titled "Before Evening"; `Chapter 4 - Changes.md` shows how it became the accepted chapter, and `Chapter 4 - From the Old Chapters.md` compares it with the old coda.
+  - `Chapters 5–10 - Design.md`: the structure of Chapters 5–10, agreed question by question (started 29 September).
   - `Drafts/`: earlier versions of the chapters, kept unchanged.
 
 ## The rewriting skill

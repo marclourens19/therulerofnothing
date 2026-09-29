@@ -39,7 +39,7 @@ Volume 1 tests the question; it doesn't answer it.
 
 ## Seralune
 
-- **Starts.** She wakes sealed, told it was for her own good. She doesn't remember deciding anything, so it scares her and she rejects it.
+- **Starts.** She wakes alone in the black, in a broken crystal seal that her mana cracked when Alaric appeared. Nobody tells her what was done to her; she has to put the pieces together (Chapters 4–5). Later she's told it was for her own good. She doesn't remember deciding anything, so it scares her and she rejects it.
 - **Wants, deep down:** a world where no one fears those with nothing, or her. A world where people don't have to choose, because they have everything they need. This is the seed of her antagonist arc.
 - **Wants, in Volume 1:** to escape the system that is locking her away, and to get answers from her mother, who opposed the sealing.
 - **Believes:** "How could I be dangerous? I never had magic." Everyone thinks her mana is simply a very large pool whose end no one has found.

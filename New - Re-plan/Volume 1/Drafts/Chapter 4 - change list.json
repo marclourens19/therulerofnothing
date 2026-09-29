@@ -1,0 +1,64 @@
+{
+ "title": "Chapter 4: Changes",
+ "draft": "Chapter 4 - Before Evening (Draft 1).md",
+ "chapter": "../Chapter 4 - A Promise Left Fractured.md",
+ "changes_file": "../Chapter 4 - Changes.md",
+ "intro_md": "Written on 29 September 2026. Claude's first draft of Chapter 4, \"Before Evening\" (27 September), is saved unchanged as `Drafts/Chapter 4 - Before Evening (Draft 1).md`. On 28–29 September, outside this repository, it became \"A Promise Left Fractured\", and the author accepted it (the handoff, §3). This list records that pass, change by change, so later rounds have a base. The reasons are Claude's reading unless they say otherwise, because the handoff lists no line changes for Chapter 4.\n\n**Later rounds go on this list** (`Drafts/Chapter 4 - change list.json`).",
+ "glance": [],
+ "sections": {
+  "The seal": "Alone in the seal (draft lines 1–199)",
+  "Thaer": "Thaer (draft lines 201–233)"
+ },
+ "changes": [
+  {
+   "section": "The seal",
+   "title": "The title",
+   "kind": "changed",
+   "before": "# Chapter 4 – Before Evening",
+   "after": "# Chapter 4 – A Promise Left Fractured",
+   "why": "The handoff (§1, §3): \"A Promise Left Fractured\" was chosen on 28 September. On first reading it's Thaer's promise to be back before evening and the broken crystal; later it becomes the promise ancient Alaric and Seralune made to stay by each other's side. It answers the draft's call on the title.",
+   "decision": "accepted",
+   "decision_note": "Accepted outside the repository (the handoff, §1)."
+  },
+  {
+   "section": "The seal",
+   "title": "Alive, and freezing",
+   "kind": "changed",
+   "before": "*So I'm alive, and lying on a stone floor I don't know, somewhere so black I can't see my own hand. Very well. Before I do anything else, I need to find out where I am.*",
+   "after": "*So I'm alive, freezing, and lying on a stone floor somewhere I don't know. Very well. Before I do anything else, I need to find out where I am.*",
+   "why": "Claude's reading (the handoff gives no reason): \"somewhere so black I can't see my own hand\" says again what the page has just shown (she had to touch her eyes to know they were open), and \"freezing\" carries her last thought straight into this one.",
+   "decision": "accepted",
+   "decision_note": "Accepted in the pass of 28–29 September."
+  },
+  {
+   "section": "The seal",
+   "title": "Her voice comes back",
+   "kind": "changed",
+   "before": "Her voice went out a long way before it came back to her. The room was big, then, bigger than any of hers, and there was nobody in it to answer.",
+   "after": "Her voice went a long way before it came back. The chamber was larger than any room she knew, and no one answered.",
+   "why": "Claude's reading: plainer. \"The room was big, then, bigger than any of hers\" becomes \"The chamber was larger than any room she knew\", and \"there was nobody in it to answer\" becomes \"no one answered\".",
+   "decision": "accepted",
+   "decision_note": "Accepted in the pass of 28–29 September."
+  },
+  {
+   "section": "The seal",
+   "title": "What was it doing",
+   "kind": "changed",
+   "before": "*What is that thing? What was it* doing*?*",
+   "after": "*What is that thing? What was it doing?*",
+   "why": "Claude's reading: the stress on \"doing\" goes. The same pass took stress marks out of thoughts in Chapter 3 too.",
+   "decision": "accepted",
+   "decision_note": "Accepted in the pass of 28–29 September."
+  },
+  {
+   "section": "Thaer",
+   "title": "He smelled of horses",
+   "kind": "changed",
+   "before": "The plates of his armour were cold against her cheek. He smelled of horses, and under the armour his breathing was going far too fast.",
+   "after": "The plates of his armour were cold against her cheek, and beneath them his breathing was going far too fast.",
+   "why": "One of the draft's eight calls. It was cut: the cold armour and his breathing are enough, and the smell pointed at where he'd come from.",
+   "decision": "accepted",
+   "decision_note": "Cut in the pass of 28–29 September. Of the draft's eight calls, this was cut, the title changed, and the other six stayed as drafted."
+  }
+ ]
+}
