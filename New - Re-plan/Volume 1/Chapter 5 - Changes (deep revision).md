@@ -13,7 +13,7 @@ Started 29 September 2026. Chapter 5 was rewritten from the new design agreed in
 ## At a glance
 
 - **28 changes proposed.** 0 rejected so far, so 28 are in the chapter: 26 rewritten, 2 cut and 0 added.
-- **Length:** 3,201 words before, 3,136 after.
+- **Length:** 3,201 words before, 3,137 after.
 - **Median paragraph:** 14 words before, 14 after. The house target is roughly 14–22.
 - **"Nothing":** 1 times before, 1 after.
 
@@ -92,9 +92,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> At last, he looked at her. He went to sheathe his sword without looking, but the point missed and scraped across the plates at his hip, and he had to look down to find the sheath. She had watched him put that sword away all her life, and he had never once needed to look.
+> At last, her brother looked at her. He went to sheathe his sword without looking, but the point missed and scraped across the plates at his hip, and he had to look down to find the sheath. She had watched him put that sword away all her life, and he had never once needed to look.
 
-**Why.** The author's review: "'At last he saw her' → 'At last, he looked at her.'" It makes "look" four times in three sentences, but the first two now read as cause and effect: he looks at her at last, so he doesn't look at the sword, and misses.
+**Why.** The author's review: "'At last he saw her' → 'At last, he looked at her.'" It makes "look" four times in three sentences, but the first two now read as cause and effect: he looks at her at last, so he doesn't look at the sword, and misses. *Edited (29 September):* "At last, her brother looked at her." (the author's suggestion). The chapter's first "he" had nothing in the chapter to point to, and it picks up Chapter 4's last line ("fear in her brother's eyes").
 
 **Your decision.** The author's line (29 September).
 

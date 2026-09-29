@@ -2,7 +2,7 @@
 
 "What's wrong?" she whispered.
 
-At last, he looked at her. He went to sheathe his sword without looking, but the point missed and scraped across the plates at his hip, and he had to look down to find the sheath. She had watched him put that sword away all her life, and he had never once needed to look.
+At last, her brother looked at her. He went to sheathe his sword without looking, but the point missed and scraped across the plates at his hip, and he had to look down to find the sheath. She had watched him put that sword away all her life, and he had never once needed to look.
 
 Then his arms came round her.
 
