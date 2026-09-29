@@ -18,9 +18,7 @@ He let go at once, but he didn't step back. His hands stayed on her shoulders, a
 
 He was staring at the crystal again.
 
-"Did you touch it?"
-
-"I put my hand inside it." She could still feel it, cold, drawing at her through her fingers, and she pressed the hand into her dress. "It pulled at me, Thaer. What is it? What is this place?"
+"What is that thing, Thaer?" She could still feel it, cold, drawing at her through her fingers, and she pressed her hand into her dress. "What is this place?"
 
 He didn't answer. He took her by the arm, turned her away from the crystal and walked her out through the doorway he had cut, over the two halves of the door lying on the floor.
 
@@ -36,7 +34,7 @@ Then there were footsteps above them, a great many, coming down fast. Thaer let 
 
 Guards came down into the lamplight with their swords drawn. The first of them saw her and stopped so suddenly that the ones behind walked into his back, and after that none of them came any further. They stood on the stairs and stared at her. The nearest one's knuckles had gone white on his hilt, and the one behind him backed up a step without seeming to know he'd done it.
 
-*Are they afraid of me? How could I be dangerous? I never had magic.*
+*What's happening? Why are so many people here?*
 
 Her mana crowded up under her ribs.
 
@@ -46,7 +44,7 @@ He bowed to her, low. "Your Highness."
 
 Then he turned to Thaer. "Thaeroval. What happened here? Why has the door been cut down?"
 
-She looked at him properly. There was something in his face under all those lines, and the longer she looked, the more of it she knew, until she could see him as she remembered him: a young man, never without ink on his fingers.
+She looked at him properly. There was something in his face under all those lines, and the longer she looked, the more of it she knew, until she could see the young man she remembered.
 
 "Leorin?"
 
@@ -66,7 +64,7 @@ The stairs went on and on. Thaer took them fast, with his hand closed round her 
 
 *That was Leorin. It can't have been, though. Leorin isn't old.*
 
-*But it was him, I know it was. So he must be ill, with some sickness nobody's told me about.*
+*But it was him, I know it was. So why does he look so old? What happened?*
 
 Partway up, she heard it. It was so faint at first that she thought it was her own blood in her ears. Then there was no mistaking it.
 

@@ -1,6 +1,6 @@
 # Chapter 5: Design
 
-Started 29 September 2026. **Status:** the design and the dialogue are agreed ("that room", 29 September). **Part 1's first draft is written** (`Chapter 5 - Your Highness (Part 1).md`), with its calls below. Part 2 is written after Part 1 is settled.
+Started 29 September 2026. **Status:** the design and the dialogue are agreed ("that room", 29 September). **Both parts are drafted.** Part 1 has had round 1 (`Chapter 5 - Changes (Part 1).md`), and one question is open on its first line. Part 2's first draft is written (`Chapter 5 - Your Highness (Part 2).md`), with its calls below.
 
 **How this chapter gets written** (the author, 29 September): the design is agreed first, then we plan dialogue options for the key exchanges, and only then does Claude write, after saying it's ready and getting the go-ahead. The go-ahead came on 29 September: "Agreed with the room, write part 1 first."
 
@@ -251,4 +251,47 @@ Each is something on the page that wasn't in the agreed design, or a choice the 
 11. **Length.** At 1,272 words it's shorter than Chapters 3 and 4, and Part 2 has seven beats. Does any beat of Part 1 need more room, or is short right for the first half?
 
 **A deliberate echo, not a call:** her "I called and called, and nobody came" to Thaer in Part 1 comes back in Part 2 as "I sat in that room all day, Thaeroval, and nobody came". The first time it's said to him softly, and the second time it's thrown at him.
+
+**Answers (29 September).**
+1. **"I'm sorry":** "Why does she say she is sorry?" (answered below)
+2. **The sword missing the sheath:** "It's a good image."
+3. **"Did you touch it?":** "I don't like that question, it doesn't make sense in context. He has just seen his sister break out of an unbreakable seal." Cut (change 1).
+4. **The guards:** "*Are they afraid of me? How could I be dangerous? I never had magic.* Should be like: *What's happening, why are so many people here?*" (change 2). Her Volume 1 belief line isn't placed here.
+5. **Leorin's ink:** "I don't like that ink on fingers, remove it." (change 3)
+6. **Leorin's age:** "*So he must be ill…* More like: *why does he look so old, what happened?*" (change 4)
+7–10. **Yes** to *Upstairs, then*, the falls, the ship, and Thaer watching it go.
+11. **Length:** "We can write Part 2, then see how long it comes to."
+
+Changes 1–4 are applied as round 1 in `Drafts/Chapter 5 - change list (Part 1).json`. Part 1 is now 1,241 words.
+
+### Why she says "I'm sorry" (the author's question on call 1)
+
+**Why I wrote it.** Her brother, who has never once been afraid in her whole life, is staring past her in fear, and he hasn't put his arms round her. She has just come out of a place she doesn't understand. So her first instinct is that she's done something, and she apologises before she even knows what for. That's the side of her we took from Shoko, who says sorry for things that aren't her fault. Chapter 4 also has her ready to apologise all day (*Whatever I said to Mother this morning, I'll take it back*).
+
+**The honest problem.** None of that is on the page. A reader sees an apology with no visible cause, and you asked why, so it isn't working as written.
+
+- **A (recommended):** "What's wrong?" she whispered. It's what anyone says to someone they love who looks frightened, and it's her care for him before herself. His eyes come down to her, and the embrace follows. Her "sorry" still comes in Part 2, to Nereth, where its reason is on the page.
+- **B:** keep "I'm sorry", and give it a reason she can think: one line before it, such as *What did I do?* The risk is that it repeats Part 2's "Did I do something wrong?"
+- **C:** she says nothing, and the chapter opens on his eyes coming down to her at last.
+
+## Part 2: the first draft (29 September)
+
+`Chapter 5 - Your Highness (Part 2).md`, 950 words, with a copy saved unchanged as `Drafts/Chapter 5 - Your Highness (Part 2) (Draft 1).md`. It runs from the gallery to the knock, and uses every agreed line as agreed: Nereth and Elowen, your thought, "You do have a name, I take it?", the door, testing Thaer, the anger and the first "Thaeroval", the snap, the cover, the sorry, and "Thaer?".
+
+**Length:** Part 1 is 1,241 words and Part 2 is 950, so the chapter is about 2,190 words in all, a little shorter than Chapter 4 (2,626). Part 2's paragraphs run short (a median of 11.5 words) because most of it is the quick spoken exchanges agreed in the dialogue rounds.
+
+### Your calls on Part 2
+
+1. **A room she doesn't know,** not her own rooms from before, made ready for her: fire, lamps, water, bread and fruit, and the shutters open on the falls.
+2. **She drinks first,** before anything else, because Chapter 4 left her so thirsty her tongue stuck to the roof of her mouth.
+3. **"We're upstairs," she says,** holding him to his "until we're upstairs". He answers with "Get some rest…", which is Part 1's promise broken.
+4. **Nereth was there all along,** standing so still in the corner that Seralune only sees her once Thaer has gone.
+5. **"Seralune stared at her."** It's the pause before your Elowen thought ("let Seralune think to herself for a bit").
+6. **She sits down hard on the bed** after backing away from the door, so she's sitting when she tests Thaer and stands for the anger.
+7. ***People don't sleep inside crystal. That's what I told myself.*** After *Is that what that room was?*, it calls back her Chapter 4 thought (*No. That's absurd. People don't sleep inside crystal.*).
+8. **Thaer knocks twice and walks straight in** when he comes back, before she can answer, "the way it always had". The reader sees his knock shortly before the one at first light, which waits.
+9. **Thaer's "You haven't eaten."** This is the one new line, between your testing lines and her anger. It's an order instead of an answer, and it's what she throws back at him: "You told me to follow you, and I followed. You told me to rest, and I rested."
+10. **Her thoughts in the night:** *Wait until my father returned. So Father's gone somewhere, and Thaer wants to wait for him.* / *And Mother? Mother would never let them do this to me.* The reader will later learn that her mother did oppose the sealing; she can't know it yet.
+11. **The blows,** felt through her feet before she hears them, "from somewhere far below her", and *They're mending it, and it's for me.* That's the agreed piece, in her words.
+12. **The title,** "Your Highness", is still a working title. Keep it, or change it?
 
