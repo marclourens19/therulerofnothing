@@ -248,7 +248,7 @@ His footsteps stopped.
 
 Thaer's voice came through the door, low: "Leave her be." His footsteps went on.
 
-*He didn't tell me.*
+*It isn't up to him. Then who is it up to?*
 
 She didn't sleep. She sat on the bed while the fire burned low, and Nereth stood in her corner with her hands folded.
 

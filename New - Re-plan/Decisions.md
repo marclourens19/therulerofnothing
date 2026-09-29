@@ -531,6 +531,7 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - **She fights the door.** When Thaer leaves and the lock turns, she runs to the door, shakes it and shouts his name: "come back here, don't ignore me".
   - **Thaer slips in the confrontation:** "his love for his sister nearly takes over his duties as a Ruler and protector of Natharul."
   - **Chosen and written** (changes 25–28): Thaer's slip, "If it were up to me, you'd—" / "It isn't up to me."; the door, with his footsteps stopping and "Leave her be."; her line "Thaer! Thaeroval, come back here! Don't you ignore me!"; the recap half of her anger cut; and Leorin's "Forgive me, Seralune." as she passes him.
+  - **Her thought after the door** is now *It isn't up to him. Then who is it up to?* (option 2), replacing *He didn't tell me.*
 - *Open:* Nereth's first disobedience ("still undecided", handoff §15.10).
 
 ## Chapter 6

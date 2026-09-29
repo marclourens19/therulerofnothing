@@ -13,7 +13,7 @@ Started 29 September 2026. Chapter 5 was rewritten from the new design agreed in
 ## At a glance
 
 - **28 changes proposed.** 0 rejected so far, so 28 are in the chapter: 26 rewritten, 2 cut and 0 added.
-- **Length:** 3,201 words before, 3,129 after.
+- **Length:** 3,201 words before, 3,136 after.
 - **Median paragraph:** 14 words before, 14 after. The house target is roughly 14–22.
 - **"Nothing":** 1 times before, 1 after.
 
@@ -572,8 +572,8 @@ Each of these needs a yes or no from you. It adds something about a character or
 >
 > Thaer's voice came through the door, low: "Leave her be." His footsteps went on.
 >
-> *He didn't tell me.*
+> *It isn't up to him. Then who is it up to?*
 
-**Why.** The author: she runs to the door, shakes it and shouts his name, "come back here, don't ignore me" (B1, C1). His footsteps stopping is the slip a second time. "Leave her be" is why the guards stay out until her later shout, and the handle takes the blood Nereth sees afterwards.
+**Why.** The author: she runs to the door, shakes it and shouts his name, "come back here, don't ignore me" (B1, C1). His footsteps stopping is the slip a second time. "Leave her be" is why the guards stay out until her later shout, and the handle takes the blood Nereth sees afterwards. *Edited (29 September):* her thought after the door is now *It isn't up to him. Then who is it up to?* (the author's pick, option 2), replacing *He didn't tell me.*, since the slip means he did tell her one thing.
 
 **Your decision.** The author's pick (29 September).
