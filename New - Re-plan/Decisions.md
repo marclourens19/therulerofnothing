@@ -477,7 +477,10 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 - **Part 1's first draft is written (29 September):** `Volume 1/Chapter 5 - Your Highness (Part 1).md` (1,272 words, working title), with eleven calls for the author in `Volume 1/Chapter 5 - Design.md`. Part 2 is written after Part 1 is settled.
 - **The author on Part 1's calls (29 September):** Thaer's "Did you touch it?" is cut ("it doesn't make sense in context, he has just seen his sister break out of an unbreakable seal"); the guards thought is *What's happening? Why are so many people here?*; no ink on Leorin's fingers; *Why does he look so old? What happened?* instead of an illness theory; yes to the sword missing its sheath, *Upstairs, then*, the falls, the ship and Thaer watching it go. "I'm sorry" as her first words is a question the author asked back. On length: "We can write Part 2, then see how long it comes to."
 - **Part 2's first draft is written (29 September):** `Volume 1/Chapter 5 - Your Highness (Part 2).md` (950 words), with twelve calls in `Volume 1/Chapter 5 - Design.md`.
-- *Open:* what each part's dramatic question is, and Nereth's first disobedience ("still undecided", handoff §15.10).
+- **One chapter, not two parts** (29 September). The author: "Combine both chapters, no need for Part 1 and Part 2, since it's a short chapter in total." *(Supersedes the two parts agreed in round 1.)* It's `Volume 1/Chapter 5.md`, 2,190 words.
+- **The author on Part 2's calls (29 September):** yes to calls 1–10 (the room she doesn't know, the water, "We're upstairs", Nereth there all along, the stare before the Elowen thought, sitting on the bed, *People don't sleep inside crystal. That's what I told myself.*, Thaer's knock-and-walk-in, "You haven't eaten.", and her night thoughts about her father and mother). The noises: "she would think like: what are those noises, it's coming from below the castle where I just was", so it's *What are those noises? They're coming from under the palace, from where I just was.*
+- **Open:** the title (not "Your Highness"; twenty options in `Volume 1/Chapter 5 - Design.md`), and "I'm sorry" as her first words.
+- *Open:* Nereth's first disobedience ("still undecided", handoff §15.10).
 
 ## Chapter 6
 

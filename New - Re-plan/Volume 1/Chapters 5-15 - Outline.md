@@ -57,6 +57,8 @@ Chapters 3 and 5 end at the same first light, and nothing on the page needs to s
 | **10** | Seralune | After the escape | What did her imprisonment cost Natharul, and Nereth? | Open (round 2) | Open | Open |
 | 11–15 | *Rough* | Kelmend, and leaving it | Roughly: the fort, Darcy's refusal and the route she gives him, a Seralune chapter after Chapter 10, and leaving Kelmend. None of it is placed yet. | | | |
 
+**Chapter 5 is one chapter** since 29 September ("no need for Part 1 and Part 2, since it's a short chapter in total"). Its two rows above stay as the two halves of its design.
+
 The fort and Darcy's refusal stay in Volume 1 (round 1); which chapters they take is for later. **Revised after round 1:** Chapter 6 is now a day on the road, so Marta's door moves to Chapter 8, and the rows for Chapters 8–10 are held loosely until round 2.
 
 **Viewpoint balance by Chapter 10:** Alaric 6 chapters, Seralune 4 (counting Chapter 5 once), about 60/40, which is where the proposal puts the whole volume.

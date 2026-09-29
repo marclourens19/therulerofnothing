@@ -4,7 +4,7 @@ Written on 29 September 2026. The first draft of Part 1 is saved unchanged as `D
 
 - **Round 1** (changes 1–4): the author's answers to the draft's calls. Calls 2 and 7–10 were accepted as written, call 11 (length) waits until Part 2 is written, and call 1 ("I'm sorry") is a question the author asked back, answered in `Chapter 5 - Design.md`.
 
-**Later rounds go on this list** (`Drafts/Chapter 5 - change list (Part 1).json`).
+**Since 29 September, Chapter 5 is one chapter.** The author: "Combine both chapters, no need for Part 1 and Part 2, since it's a short chapter in total." This list now writes Part 1 as it stood after round 1, saved as `Drafts/Chapter 5 - Your Highness (Part 1) (after round 1).md`, which is the first half of `Drafts/Chapter 5 (Draft 2, one chapter).md`. Later rounds go on `Drafts/Chapter 5 - change list.json`.
 
 ## At a glance
 

@@ -1,6 +1,6 @@
 # Chapter 5: Design
 
-Started 29 September 2026. **Status:** the design and the dialogue are agreed ("that room", 29 September). **Both parts are drafted.** Part 1 has had round 1 (`Chapter 5 - Changes (Part 1).md`), and one question is open on its first line. Part 2's first draft is written (`Chapter 5 - Your Highness (Part 2).md`), with its calls below.
+Started 29 September 2026. **Status:** the design and the dialogue are agreed ("that room", 29 September). **Chapter 5 is one chapter now** (`Chapter 5.md`, 2,190 words), after the author's "Combine both chapters, no need for Part 1 and Part 2, since it's a short chapter in total." Two things are open: its first line ("I'm sorry", options below) and its title (twenty options below).
 
 **How this chapter gets written** (the author, 29 September): the design is agreed first, then we plan dialogue options for the key exchanges, and only then does Claude write, after saying it's ready and getting the go-ahead. The go-ahead came on 29 September: "Agreed with the room, write part 1 first."
 
@@ -294,4 +294,36 @@ Changes 1–4 are applied as round 1 in `Drafts/Chapter 5 - change list (Part 1)
 10. **Her thoughts in the night:** *Wait until my father returned. So Father's gone somewhere, and Thaer wants to wait for him.* / *And Mother? Mother would never let them do this to me.* The reader will later learn that her mother did oppose the sealing; she can't know it yet.
 11. **The blows,** felt through her feet before she hears them, "from somewhere far below her", and *They're mending it, and it's for me.* That's the agreed piece, in her words.
 12. **The title,** "Your Highness", is still a working title. Keep it, or change it?
+
+**Answers (29 September).**
+- **One chapter:** "Combine both chapters, no need for Part 1 and Part 2, since it's a short chapter in total." The parts are joined with no break, as `Drafts/Chapter 5 (Draft 2, one chapter).md`, and every later change goes on `Drafts/Chapter 5 - change list.json`, recorded in `Chapter 5 - Changes.md`. Joining them created one exact repeat ("at the far end of it"), fixed as change 1.
+- **Calls 1–10:** yes, all ten.
+- **Call 11, the noises:** "No, she would think like: what are those noises, it's coming from below the castle where I just was." Now *What are those noises? They're coming from under the palace, from where I just was.* ("Palace", as everywhere else.) The narration no longer says "from somewhere far below her", since her thought does the locating (change 2).
+- **Call 12, the title:** "No. Give me 20 title options to choose from." (below)
+- **Still open from Part 1:** "I'm sorry" as her first words. The options are A, "What's wrong?" she whispered *(recommended)*; B, keep it, with a thought before it; C, she says nothing (see "Why she says 'I'm sorry'" above).
+
+## The title: twenty options (29 September)
+
+The author: "No, give me 20 title options to choose from." Each works at first glance and means more by the end, which is house rule 12. The first three are the ones I'd pick.
+
+1. **Back in the Morning** *(recommended)*. Thaer's promise when he leaves her. In the morning someone does knock, and it isn't him. It also answers Chapter 4, whose promise was "back before evening".
+2. **A Room Made Ready**. The room upstairs that someone got ready for her, and, under the palace, the other room being made ready again.
+3. **Nobody Came**. What she tells Thaer, twice. At the end someone finally comes, and it isn't who she's been waiting for.
+4. **How Long Was I in That Room?** Her thought on the gallery, and the question under the whole chapter.
+5. **I Couldn't Say**. Nereth's answer to everything. "Couldn't" as in doesn't know, or isn't allowed.
+6. **Orders Instead of Answers**. What Thaer gives her all night.
+7. **Everything but an Answer**. Water, a fire, a bed, a guard at the door: everything except what she asks for.
+8. **The Sound of the Falls**. In Chapter 4 she couldn't hear them. Here they come back, the one thing that hasn't changed.
+9. **The Tree Grew Without Her**. The tree she saw "this morning" is enormous; the world went on while she was in that room.
+10. **Yesterday's Princess**. To her, her life was yesterday. To everyone bowing and staring, she's someone from long ago.
+11. **A Palace Full of Strangers**. Servants she doesn't know, a maid who's never heard of Elowen, and a cousin she almost doesn't recognise.
+12. **A Stranger's Smile**. The old servant on the stairs, the only one who smiles at her, and the stranger behind the door at first light.
+13. **The Brother at the Door**. Thaer at the chamber door, and at her door, and the knock she takes for his.
+14. **Two Knocks**. Thaer's, which never waits, and the ones at first light, which do.
+15. **Not Here**. Thaer's answer in the chamber. She isn't where, or when, she thinks she is.
+16. **Until We're Upstairs**. The promise she takes from his order, and the answers that never come upstairs.
+17. **A Word Through the Door**. "…sealed…"
+18. **Locked From the Outside**. Chapter 4's door had no handle on her side. Now her own room locks from the outside too.
+19. **Under the Palace**. Where she was, where the noises in the night come from, and what's being done down there.
+20. **A Face She Almost Knew**. Leorin, old, with the young man she remembers somewhere under the lines.
 

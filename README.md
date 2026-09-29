@@ -28,7 +28,7 @@ The story is being re-planned from the beginning. Current work lives in **New - 
   - `Chapter 4 - A Promise Left Fractured.md`: Seralune's first chapter. Its first draft was titled "Before Evening"; `Chapter 4 - Changes.md` shows how it became the accepted chapter, and `Chapter 4 - From the Old Chapters.md` compares it with the old coda.
   - `Chapters 5-15 - Outline.md`: a rough outline of Chapters 5–15. The detail is designed one chapter at a time.
   - `Chapter 5 - Design.md`: the design of Chapter 5, in two parts, agreed question by question (started 29 September).
-  - `Chapter 5 - Your Highness (Part 1).md` and `(Part 2).md`: Chapter 5 in two parts (29 September, working title). `Chapter 5 - Changes (Part 1).md` shows the changes to Part 1.
+  - `Chapter 5.md`: Seralune's second chapter (29 September; its title is still to choose). `Chapter 5 - Changes.md` shows its changes, and `Chapter 5 - Changes (Part 1).md` the changes made while it was drafted in two parts.
   - `Drafts/`: earlier versions of the chapters, kept unchanged.
 
 ## The rewriting skill
