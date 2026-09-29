@@ -7,10 +7,11 @@ Started 29 September 2026. Chapter 5 was rewritten from the new design agreed in
 - **Round 3** (29 September, changes 6–11): the tray (the author: "say he was still looking at the tray, not the bread"), then the final pass the author asked for, "looking for errors, POV slips etc." The pass found no point-of-view slips, no continuity errors and no house-style faults. It found one unclear pronoun, one line that didn't fit where she was, and three repeats ("His eyes went…" four times, "Seralune looked…" twice in six lines, and a tenth "Then" that echoed the opening's "Then there were footsteps").
 - **Round 4** (29 September, changes 12–14, and change 11 edited): one last pass, at the author's request ("Do one last pass to make sure"). Again no point-of-view, continuity or house-style faults. Four small repeats: two "then"s in one sentence, "next" in two paragraphs side by side, "in her lap" three times (twice in a row), and "came" in the last two one-line paragraphs, which change 11 had introduced.
 - **Round 5** (29 September, changes 15–23): the author's review, "What needs work": fewer question-list thoughts and more that reason; no repeated thoughts; one moment where she adds the evidence up and stops; Seralune's line about Nereth cut; two point-of-view fixes.
+- **Round 6** (29 September, changes 23–24): the blows and their stopping, in the author's words ("I still don't like these two lines… It sounds like they are doing something to it / The noises… They've stopped").
 
 ## At a glance
 
-- **22 changes proposed.** 0 rejected so far, so 22 are in the chapter: 20 rewritten, 2 cut and 0 added.
+- **24 changes proposed.** 0 rejected so far, so 24 are in the chapter: 22 rewritten, 2 cut and 0 added.
 - **Length:** 3,201 words before, 3,054 after.
 - **Median paragraph:** 14 words before, 13 after. The house target is roughly 14–22.
 - **"Nothing":** 1 times before, 1 after.
@@ -45,6 +46,8 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 20, The ship, unnamed for a beat:** The author's review (29 September).
 - **Change 21, Pacing, without question lists:** The author's review (29 September).
 - **Change 22, No comment on Nereth:** The author's review (29 September).
+- **Change 23, The blows, answered:** The author's line (29 September).
+- **Change 24, When the blows stop:** The author's line (29 September).
 
 ## The changes
 
@@ -453,3 +456,35 @@ Each of these needs a yes or no from you. It adds something about a character or
 **Why.** Review: it explains Nereth straight after she's shown it. Trust the reader.
 
 **Your decision.** The author's review (29 September).
+
+#### 23. The blows, answered
+
+*Draft line 313 → revised line 299*
+
+**Before**
+
+> *They're mending it, and it's for me.*
+
+**After**
+
+> *It sounds like they're doing something to it.*
+
+**Why.** The author: "I still don't like these two lines, make something Alisaie would think… It sounds like they are doing something to it." The sentence before it names the crystal, so "it" is clear. Replaces N2, agreed in the dialogue round.
+
+**Your decision.** The author's line (29 September).
+
+#### 24. When the blows stop
+
+*Draft line 323 → revised line 307*
+
+**Before**
+
+> *They've stopped. It's mended, then.*
+
+**After**
+
+> *The noises… They've stopped.*
+
+**Why.** The author's line ("The noises… They've stopped"). Replaces O, agreed in the dialogue round.
+
+**Your decision.** The author's line (29 September).
