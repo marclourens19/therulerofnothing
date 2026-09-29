@@ -461,6 +461,11 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - **Through the door** (the author's version, replacing the clear speeches in version 2 of the lines): she paces, frustrated that no one tells her anything and worried, because she has never seen her brother act like this. She hears voices outside and goes to listen. It's mumbled, and she can't make it out: "Is that Thaer speaking? And who else?" She catches something like "She needs to be sealed again", and backs away, shocked: "Who? Me? Sealed? No way." *Round 2:* she hears "…sealed…", not "again", so the last step is hers: *Who? Me? Sealed?*, then *Is that what that room was?*
   - **Thaer's line through the door** (the author's rough versions): "At least wait for my father to return, he should have answers." Or "Let me speak to her properly first", because last time he didn't, he just sealed her. *Round 2:* the first, as A: "At least wait until my father has returned. He'll have answers." She catches it in pieces through the door ("… wait until… my father… returned… answers", the author's sketch). The second ("last time he just sealed her") is saved for a scene where she hears it to his face.
   - **When Thaer comes back** (round 2): she keeps what she heard to herself, asks what they're going to do with her, and gives him the chance to tell her the truth. He tells her to rest.
+- **Round 1 of `Volume 1/Chapter 5 - Design.md` (29 September):**
+  - **When she's angry with Thaer, she calls him by his full name,** Thaeroval (the author).
+  - **Part 1 ends on the tree:** "How long was I in that room?" Elowen moves into Part 2: she asks Nereth, and Nereth has never heard of her.
+  - **Nereth at the door:** "just standing in the corner near the door. She doesn't do anything and just stands in silence."
+  - **Nereth's name:** Seralune, frustrated with getting no answers, sighs and asks it (the author's rough line: "This isn't getting me anywhere… What's your name, lady?").
 - *Open:* what each part's dramatic question is, and Nereth's first disobedience ("still undecided", handoff §15.10).
 
 ## Chapter 6
