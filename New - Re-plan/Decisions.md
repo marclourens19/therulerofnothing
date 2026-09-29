@@ -478,9 +478,9 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 - **Part 1's first draft is written (29 September):** Part 1 (1,272 words; its first draft is now `Volume 1/Drafts/Chapter 5 - Your Highness (Part 1) (Draft 1).md`), with eleven calls for the author in `Volume 1/Chapter 5 - Design.md`. Part 2 is written after Part 1 is settled.
 - **The author on Part 1's calls (29 September):** Thaer's "Did you touch it?" is cut ("it doesn't make sense in context, he has just seen his sister break out of an unbreakable seal"); the guards thought is *What's happening? Why are so many people here?*; no ink on Leorin's fingers; *Why does he look so old? What happened?* instead of an illness theory; yes to the sword missing its sheath, *Upstairs, then*, the falls, the ship and Thaer watching it go. "I'm sorry" as her first words is a question the author asked back. On length: "We can write Part 2, then see how long it comes to."
 - **Part 2's first draft is written (29 September):** Part 2 (950 words; its first draft is now `Volume 1/Drafts/Chapter 5 - Your Highness (Part 2) (Draft 1).md`), with twelve calls in `Volume 1/Chapter 5 - Design.md`.
-- **One chapter, not two parts** (29 September). The author: "Combine both chapters, no need for Part 1 and Part 2, since it's a short chapter in total." *(Supersedes the two parts agreed in round 1.)* It's `Volume 1/Chapter 5 - Yesterday's Memories.md`, 2,190 words.
+- **One chapter, not two parts** (29 September). The author: "Combine both chapters, no need for Part 1 and Part 2, since it's a short chapter in total." *(Supersedes the two parts agreed in round 1.)* It was `Volume 1/Chapter 5 - Yesterday's Memories.md`, 2,190 words; now `Volume 1/Chapter 5 - The Shape of Absence.md`.
 - **The author on Part 2's calls (29 September):** yes to calls 1–10 (the room she doesn't know, the water, "We're upstairs", Nereth there all along, the stare before the Elowen thought, sitting on the bed, *People don't sleep inside crystal. That's what I told myself.*, Thaer's knock-and-walk-in, "You haven't eaten.", and her night thoughts about her father and mother). The noises: "she would think like: what are those noises, it's coming from below the castle where I just was", so it's *What are those noises? They're coming from under the palace, from where I just was.*
-- **Title: "Yesterday's Memories"** (29 September). The author: "Make it something like: Yesterday's Memories." What she remembers is "this morning", and by the end it's the next morning. The file is `Volume 1/Chapter 5 - Yesterday's Memories.md`.
+- **Title: "Yesterday's Memories"** (29 September). The author: "Make it something like: Yesterday's Memories." What she remembers is "this morning", and by the end it's the next morning. *Superseded the same day (below).*
 - **Her first words: "What's wrong?" she whispered** (29 September, "make it A"), in place of "I'm sorry". Her sorry comes later, to Nereth.
 - **A deep revision** (29 September). The author: "One thing I've noticed: the chapters we are creating are far too short for my liking. They are going slightly in the right direction, but they're little in content, where I prefer more." They shared a deep revision plan for Chapter 5, saved unchanged as `Volume 1/Chapter 5 - Deep Revision Plan.md`. It's an editorial proposal, not canon; where it conflicts with what's decided here, this file wins until the author says otherwise. Claude's reading of it, and round 1 of questions, are in `Volume 1/Chapter 5 - Design.md` ("The deep revision").
 - **The deep revision, round 1 (29 September).** The new design is in `Volume 1/Chapter 5 - Design.md` ("The deep revision: the new design"). What the author agreed:
@@ -494,6 +494,14 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - **The blows:** her question at the first blow stays; she works out the answer later in the night; when they stop at first light, the silence frightens her.
   - **The author's lines:** "You left me in here, and I stayed." replaces "You told me to rest, and I rested." (she never rested). "You… you of all people" and "I couldn't say" stay.
   - **Chapters 3 and 4 stay as they are** (Claude's reading of the "yes" to question 1).
+- **Title: "The Shape of Absence"** (29 September). The author: "Change the Chapter 5 title to: The Shape of Absence." It replaces "Yesterday's Memories". The file is `Volume 1/Chapter 5 - The Shape of Absence.md`.
+- **The deep revision, round 2 (29 September).**
+  - **What she sees changed:** the corridors themselves. Where a passage should turn, it runs straight, and there are doors where she remembers none. The lamps are still lamps: the blue-green light was offered and not chosen.
+  - **Elowen's memory:** her finger moving under each word, on the nights Seralune was learning to read.
+  - **Leorin's office has no name:** "Don't name it."
+  - **Leorin can argue with Thaer, but can't make him do anything:** "Yes" to Claude's reading. While the king is away, the court and the guards obey Leorin; nobody can make a Ruler do anything.
+  - **Leorin ordered the crystal repaired.** *To confirm:* whether Thaer allowed it or Leorin did it without him (dialogue round, question Z).
+  - The dialogue round is in `Volume 1/Chapter 5 - Design.md` ("The deep revision: dialogue round").
 - *Open:* Nereth's first disobedience ("still undecided", handoff §15.10).
 
 ## Chapter 6
@@ -533,6 +541,7 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 - **But it acts on its own** (27 September): "Yes, her mana acts on its own." That's how it went searching for Alaric, and how her feelings make Nereth's corruption flare.
 - **She isn't the ancient Seralune either** (handoff §15.5). She keeps the princess-self she remembers but has no memory of Alaric, and owes him nothing because of a past relationship.
 - **Her last choice in Volume 1.** She accepts responsibility for who she was, even though that isn't her true self and she didn't actually do those things. Her internal war: "I need to atone for all these deaths. But was it me? Why must I? But I should."
+- **The heir was whoever she married** (the author, 29 September): "It was meant to be whoever Seralune married." A Ruler can't be king, and Thaer is one. Who is the heir now is open.
 - **Where Volume 1 leaves her:** she and Nereth are held by the Holy bearer. The church keeps her alive as leverage over Natharul.
 
 ## Gerolt Warde
@@ -574,7 +583,7 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 Agreed for Chapters 4–5 (27 September). Who each person is gets decided with the author when they're on the page.
 
 - **Leorin** is the author's own character. He's Seralune's cousin, and "he looks extremely old now, like 70 years old".
-  - **He speaks for the king while the king is away** (the author, 29 September): "that of a royal voice when the king is away… Leorin takes the king's voice when the king is away, like the King's Hand in GOT." So the guards obey him. *To confirm (Chapter 5, deep revision round 2):* the office's name, and Claude's reading that he can argue with Thaer but can't make a Ruler do anything.
+  - **He speaks for the king while the king is away** (the author, 29 September): "that of a royal voice when the king is away… Leorin takes the king's voice when the king is away, like the King's Hand in GOT." So the guards obey him. **The office has no name** ("Don't name it"). He can argue with Thaer, but nobody can make a Ruler do anything ("Yes" to Claude's reading, 29 September).
   - Seralune thinks of him as her cousin (29 September).
 - **Who ages, and how much** (27 September). "Thaer isn't old because of his royal elf blood directly. Leorin is just related to royal blood. Her father just looks a little older." So direct royal blood barely ages in a thousand years, and Leorin, who is only related to it, has grown old.
 - **Elowen** was Seralune's attendant before the seal. **She was her handmaiden, and almost a mother to her** (the author, 29 September): "basically her 'mother', in terms of a maid helping her learn to read, write and act like a lady."
@@ -816,7 +825,7 @@ Not in the central cast yet, and not locked (handoff §7, §14.3).
 
 - **Two internal wars at one climax.** His ("Why me, when I'm empty?") and hers ("Why must I? But I should.") need different shapes. She keeps her own sensory language and doesn't borrow his.
 
-- **The heir.** If a Ruler can't be king, who is Natharul's heir now, and who was it in Seralune's time? *(Raised by Claude, 29 September, from the author's note on Thaer. Not needed for Chapter 5.)*
+- **The heir now.** In her time the crown was meant to pass to whoever she married (29 September). Who is the heir now, after a thousand years? And if she and Alaric were to marry, would he have been Natharul's king? *(Raised by Claude, 29 September. Not needed for Chapter 5.)*
 
 ### Time
 

@@ -1,9 +1,9 @@
 {
  "title": "Chapter 5: Changes",
  "draft": "Chapter 5 (Draft 2, one chapter).md",
- "chapter": "../Chapter 5 - Yesterday's Memories.md",
+ "chapter": "../Chapter 5 - The Shape of Absence.md",
  "changes_file": "../Chapter 5 - Changes.md",
- "intro_md": "Written on 29 September 2026. The author: \"Combine both chapters, no need for Part 1 and Part 2, since it's a short chapter in total.\" So Parts 1 and 2 are joined, with no break, as `Drafts/Chapter 5 (Draft 2, one chapter).md`: Part 1 as it stood after its round 1 (`Chapter 5 - Changes (Part 1).md`), then Part 2's first draft. Every change here is measured against that copy.\n\n- **Combining** (change 1): one exact repeat that joining the parts created.\n- **Round 1** (change 2): the author's answers to Part 2's calls. Calls 1–10 were accepted as written; call 11 is change 2.\n- **Round 2** (changes 3–4): the title, and her first words.\n\n**Later rounds go on this list** (`Drafts/Chapter 5 - change list.json`).",
+ "intro_md": "Written on 29 September 2026. The author: \"Combine both chapters, no need for Part 1 and Part 2, since it's a short chapter in total.\" So Parts 1 and 2 are joined, with no break, as `Drafts/Chapter 5 (Draft 2, one chapter).md`: Part 1 as it stood after its round 1 (`Chapter 5 - Changes (Part 1).md`), then Part 2's first draft. Every change here is measured against that copy.\n\n- **Combining** (change 1): one exact repeat that joining the parts created.\n- **Round 1** (change 2): the author's answers to Part 2's calls. Calls 1–10 were accepted as written; call 11 is change 2.\n- **Round 2** (changes 3–4): the title, and her first words.\n- **The deep revision** (29 September): the title changes again, to \"The Shape of Absence\" (change 3, edited in place so the numbering stays).\n\n**Later rounds go on this list** (`Drafts/Chapter 5 - change list.json`).",
  "glance": [],
  "summary_md": "",
  "sections": {
@@ -41,16 +41,16 @@
   },
   {
    "section": "The title",
-   "title": "Yesterday's Memories",
+   "title": "The Shape of Absence",
    "kind": "changed",
    "tags": [
     "round2"
    ],
    "before": "# Chapter 5",
-   "after": "# Chapter 5 – Yesterday's Memories",
-   "why": "The author, choosing the title (29 September): \"Make it something like: Yesterday's Memories, or if you have some better recommendations tell me.\" It works twice. What she remembers is \"this morning\": the fight with her mother, Thaer's promise, the small tree, Elowen at her side. By the end of the chapter it's first light on a new day, so those memories are literally yesterday's, and the reader knows they're older than that.",
+   "after": "# Chapter 5 – The Shape of Absence",
+   "why": "The author, on 29 September: \"Change the Chapter 5 title to: The Shape of Absence.\" It replaces \"Yesterday's Memories\", the title the author chose earlier the same day (\"Make it something like: Yesterday's Memories\"). *Claude's reading:* on first reading it's everyone who should be there and isn't: her mother, Elowen, the father who has gone on the ship, and Thaer, all day. Under the palace, the blows are rebuilding the hollow she woke in. And later the reader may see a third absence, the gap in her memory where Alaric was.",
    "decision": "accepted",
-   "decision_note": "The author's title (29 September)."
+   "decision_note": "The author's title (29 September), replacing \"Yesterday's Memories\"."
   },
   {
    "section": "The chamber",

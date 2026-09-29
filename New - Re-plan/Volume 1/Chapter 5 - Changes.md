@@ -5,6 +5,7 @@ Written on 29 September 2026. The author: "Combine both chapters, no need for Pa
 - **Combining** (change 1): one exact repeat that joining the parts created.
 - **Round 1** (change 2): the author's answers to Part 2's calls. Calls 1–10 were accepted as written; call 11 is change 2.
 - **Round 2** (changes 3–4): the title, and her first words.
+- **The deep revision** (29 September): the title changes again, to "The Shape of Absence" (change 3, edited in place so the numbering stays).
 
 **Later rounds go on this list** (`Drafts/Chapter 5 - change list.json`).
 
@@ -25,7 +26,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 - **Change 1, The gallery door:** An objective repeat, fixed with the combining.
 - **Change 2, The noises below:** The author's line (29 September).
-- **Change 3, Yesterday's Memories:** The author's title (29 September).
+- **Change 3, The Shape of Absence:** The author's title (29 September), replacing "Yesterday's Memories".
 - **Change 4, Her first words:** The author: "For I'm sorry, make it A" (29 September).
 
 ## The changes
@@ -72,7 +73,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 ### The title
 
-#### 3. Yesterday's Memories
+#### 3. The Shape of Absence
 
 *Draft line 1 → revised line 1*
 
@@ -82,11 +83,11 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> # Chapter 5 – Yesterday's Memories
+> # Chapter 5 – The Shape of Absence
 
-**Why.** The author, choosing the title (29 September): "Make it something like: Yesterday's Memories, or if you have some better recommendations tell me." It works twice. What she remembers is "this morning": the fight with her mother, Thaer's promise, the small tree, Elowen at her side. By the end of the chapter it's first light on a new day, so those memories are literally yesterday's, and the reader knows they're older than that.
+**Why.** The author, on 29 September: "Change the Chapter 5 title to: The Shape of Absence." It replaces "Yesterday's Memories", the title the author chose earlier the same day ("Make it something like: Yesterday's Memories"). *Claude's reading:* on first reading it's everyone who should be there and isn't: her mother, Elowen, the father who has gone on the ship, and Thaer, all day. Under the palace, the blows are rebuilding the hollow she woke in. And later the reader may see a third absence, the gap in her memory where Alaric was.
 
-**Your decision.** The author's title (29 September).
+**Your decision.** The author's title (29 September), replacing "Yesterday's Memories".
 
 ### The chamber
 

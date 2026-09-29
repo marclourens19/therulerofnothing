@@ -1,6 +1,6 @@
 # Chapter 5: Design
 
-Started 29 September 2026. **Status:** the design and the dialogue are agreed ("that room", 29 September). **Chapter 5 – Yesterday's Memories** (`Chapter 5 - Yesterday's Memories.md`, 2,190 words) is one chapter, after the author's "Combine both chapters, no need for Part 1 and Part 2, since it's a short chapter in total." Its title and first line were settled on 29 September (below). **Since 29 September it's being revised in depth.** The author finds it too short and too thin in content, and shared a deep revision plan (`Chapter 5 - Deep Revision Plan.md`). Round 1 of questions on it is waiting on the author: see "The deep revision" at the end of this file.
+Started 29 September 2026. **Status:** the design and the dialogue are agreed ("that room", 29 September). **Chapter 5 – The Shape of Absence** (`Chapter 5 - The Shape of Absence.md`, 2,190 words; first titled "Yesterday's Memories") is one chapter, after the author's "Combine both chapters, no need for Part 1 and Part 2, since it's a short chapter in total." Its title and first line were settled on 29 September (below). **Since 29 September it's being revised in depth.** The author finds it too short and too thin in content, and shared a deep revision plan (`Chapter 5 - Deep Revision Plan.md`). Rounds 1 and 2 on it are answered, and the new design is agreed. **The dialogue round is waiting on the author:** see "The deep revision: dialogue round" at the end of this file.
 
 **How this chapter gets written** (the author, 29 September): the design is agreed first, then we plan dialogue options for the key exchanges, and only then does Claude write, after saying it's ready and getting the go-ahead. The go-ahead came on 29 September: "Agreed with the room, write part 1 first."
 
@@ -329,7 +329,7 @@ The author: "No, give me 20 title options to choose from." Each works at first g
 
 **Answers (29 September).**
 - **Her first words:** "For I'm sorry, make it A." So it opens with "What's wrong?" she whispered (change 4 in `Chapter 5 - Changes.md`).
-- **The title:** "Make it something like: Yesterday's Memories, or if you have some better recommendations tell me." It's **Yesterday's Memories** (change 3). What she remembers is "this morning", and by the end it's first light on a new day, so those memories are literally yesterday's; the reader knows they're older than that.
+- **The title:** "Make it something like: Yesterday's Memories, or if you have some better recommendations tell me." It's **Yesterday's Memories** (change 3). *Replaced the same day by "The Shape of Absence" (below).* What she remembers is "this morning", and by the end it's first light on a new day, so those memories are literally yesterday's; the reader knows they're older than that.
   - *Two alternatives Claude offered in the same vein:* **Yesterday's Princess** (everyone bows to her, and she belongs to yesterday) and **Only This Morning** (her own words about the tree, and by the end it's the next morning).
 - **Chapter 4's title:** "Remember to make Chapter 4's title A Promise Left Fractured." It already is, in its file name and heading.
 
@@ -348,7 +348,7 @@ The plan is saved unchanged as `Chapter 5 - Deep Revision Plan.md`. By its own s
 | 2, The Price of a Voice | 4,660 |
 | 3, The Weight of the Living | 2,024 |
 | 4, A Promise Left Fractured | 2,633 |
-| 5, Yesterday's Memories | 2,195 |
+| 5, The Shape of Absence (then "Yesterday's Memories") | 2,195 |
 
 ### Claude's reading of the plan
 
@@ -469,7 +469,7 @@ Built from round 1's answers, the agreed lines, and the parts of the plan the au
 - **Stays:** the stairs; the falls, first as a sound; *So I was in the palace after all. Somewhere very deep in it.*; the servants pressing back and bowing, and the ones who forget; her knees giving; the gallery, the falls white under the moon, the forest and the city's lights; the ship, its blue-green light and its hum, and "She had seen ships fly before, but never one that size."; Thaer watching it go in silence; the royal tree; *How in the world did it grow so big? It was nowhere near that size this morning.*; *How long was I in that room?*
 - **Changes:**
   - The long stair sentence becomes two.
-  - **At the top, the corridors aren't ones she knows** (round 1, 9b). She can hear the falls exactly where they've always been, so this is the palace, but nothing else is where it should be. What she notices is round 2, question 1.
+  - **At the top, the corridors aren't ones she knows** (round 1, 9b; round 2, 1a). She can hear the falls exactly where they've always been, so this is the palace, but where a passage should turn it runs straight, and there are doors where she remembers none. The lamps stay lamps.
   - **Cyrandor is "an old servant",** so he isn't a second "old man" straight after Leorin.
   - "At first she took it for a cloud, it was so big" becomes "It was so big that at first she took it for a cloud."
 - **New:**
@@ -481,7 +481,7 @@ Built from round 1's answers, the agreed lines, and the parts of the plan the au
 - **Stays:** a room she doesn't know, made ready, with the fire, the lamps, the bed, the water, the bread and fruit, and the shutters open on the falls; she drinks first; "We're upstairs," she said.; "Get some rest. There are things I have to see to, and I'll be back as soon as I'm able."; Nereth standing silent in the corner by the door, there all along (round 1, agreed); "Where's my mother?" / "I couldn't say, Your Highness." / "Then fetch Elowen. She'll know." / "I've never heard of her, Your Highness."; the stare; *Never heard of Elowen? How? She's by my side every day.*; "Well. This is getting me nowhere." … "You do have a name, I take it?" / "Nereth, Your Highness."
 - **Changes:** "He brought her the length of the gallery and in through a door, into a room she didn't know" becomes "Thaer led her along the gallery and through a door into a room she didn't know." A basin and clean linen join the room's description, so Nereth has them to hand later.
 - **New:**
-  - **Elowen** (round 1, 9c): one small memory after *She's by my side every day*, so that "never heard of her" hurts. Round 2, question 2.
+  - **Elowen** (round 1, 9c; round 2, 2a): one small memory after *She's by my side every day*: Elowen's finger moving under each word, on the nights she was learning to read.
   - *Optional, new:* one thought that these aren't her rooms. Cut it if it crowds "We're upstairs."
 
 ### 5. The door (about 500 words; now about 250)
@@ -492,7 +492,7 @@ Built from round 1's answers, the agreed lines, and the parts of the plan the au
   - It's about who decides what happens to her, and neither man thinks to ask her.
   - Leorin wants her sealed before her strength comes back. She hears "sealed", never "again".
   - Thaer won't let anyone touch his sister until their father is back ("No one touches my sister", round 3; "At least wait until my father has returned. He'll have answers.", outline round 2).
-  - Leorin says the king will be gone for weeks. *New:* once, in the heat of it, he says he speaks for the king until then.
+  - Leorin says the king will be gone for weeks, and, once, in the heat of it, that he speaks for the king until then. The office is never named (round 2, 3).
   - *For the dialogue round.*
 - **New (agreed):** after the sealed thoughts, the ship: *Weeks. That ship…* and her question whether Father was on it.
 - **New (round 1, question 3):** before his knock, she decides not to tell him what she heard. It's one thought, in her own words, and the first thing she has ever kept from him. *For the dialogue round.*
@@ -569,3 +569,150 @@ These are the exchanges to plan together. The author's rough version comes first
    - Nereth's answer to the sorry;
    - her words when she works out the blows;
    - her fear when they stop.
+
+**Answers (29 September).**
+1. **What she sees changed:** "a". The corridors themselves: where a passage should turn it runs straight, and there are doors where she remembers none. The lamps stay lamps.
+2. **Elowen's memory:** "a". Elowen's finger moving under each word, on the nights she was learning to read.
+3. **Leorin's office:** "Don't name it."
+4. **What Leorin can order:** "Yes." He can argue with Thaer, but nobody can make a Ruler do anything.
+5. **Who ordered the repair:** "Leorin." Whether Thaer allowed it is question Z below.
+6. **The heir** (the question for later): "It was meant to be whoever Seralune married."
+7. **The title:** "Change the Chapter 5 title to: The Shape of Absence." (Change 3 in `Chapter 5 - Changes.md`, edited in place.)
+
+With these answers the new design is agreed, and the dialogue round below is next.
+
+## The deep revision: dialogue round (asked 29 September)
+
+For each exchange there are two versions: the recommended one first, then an alternative. Pick one, change it, or give your own rough version, and Claude will put it back in the character's voice. Lines already agreed are shown only where they're needed for context. The window and the bread have no lines: she does it, and nobody says anything.
+
+**Z. The repair (a question, not a line).** Leorin ordered it. Did Thaer allow it, or did Leorin do it without him?
+- *Recommended:* Thaer allowed it, as long as nobody put her inside. That's the plan's own note ("Thaer may permit the broken crystal to be repaired"), and it keeps his regret from excusing him. She can't know which in Chapter 5, but it matters when she finds out.
+
+**A. Her "nobody came", and Thaer** (the chamber). After "…I called and called, and nobody came.":
+- **A1 (recommended):**
+  > His hands tightened on her shoulders. "I'm here now."
+  >
+  > "I thought you'd forgotten me."
+  >
+  > "Never."
+  >
+  > Then his eyes went back to the crystal.
+- **A2:**
+  > His face changed. "I know. I'm sorry."
+  >
+  > Then his eyes went back to the crystal.
+- A1 is love that admits nothing, which is this Thaer. A2 is guilt: "I know" can mean he knows why nobody came, and she'd wonder what he's sorry for.
+
+**B. Leorin and Thaer, over her head** (the foot of the stairs). After "Leorin?", when he glances at her and turns back to Thaer:
+- **B1 (recommended):**
+  > "You should never have opened that door."
+  >
+  > "Would you rather I'd left her in there?"
+  >
+  > Leorin didn't answer.
+- **B2:**
+  > "She can't go up, Thaeroval. Not before the king knows."
+  >
+  > "She's not staying down here."
+  >
+  > "Then she goes under guard."
+  >
+  > "She goes with me."
+- B1 gives her something real to work with: her own cousin would have left her behind that door, and his silence says so. It's harder on Leorin. B2 is about where she goes, and shows the guards are his. Either way, her "I'm standing right here, you know. You can just ask me." comes next, and "Nobody did."
+
+**C. On the stairs: her cousin, and Thaer.**
+- **C1 (recommended):**
+  > *That was Leorin. It can't have been, though. Leorin isn't old.*
+  >
+  > *But it was him, I know it was. My own cousin, bowing to me like he'd never seen me before. So why does he look so old? What happened?*
+  >
+  > She looked up at Thaer. His face was the one she had seen this morning, not a day older.
+  >
+  > *And Thaer hasn't changed at all.*
+- **C2:** "cousin" goes into the moment she knows him ("…until she could see her cousin as she remembered him, young"), and on the stairs only the Thaer line is added.
+
+**D. "How long?" on the gallery.** After *How long was I in that room?*:
+- **D1 (recommended):** "Thaer… how long?" / He didn't answer. She doesn't finish the question, because he knows exactly what she means.
+- **D2:** "Thaer, how long was I in there?" The whole question, and nothing back.
+
+**E. Elowen.** After *Never heard of Elowen? How? She's by my side every day.*:
+- **E1 (recommended):** *She taught me to read. She sat up with me every night, with her finger under every word, until I could do it on my own.*
+- **E2:** *She taught me my letters, with her finger under every word.*
+
+**F. Through the door.** It starts too low to hear; these are the lines that come through as the voices rise.
+- **F1 (recommended):**
+  > "…needs to be sealed, Thaeroval, and tonight."
+  >
+  > "At least wait until my father has returned. He'll have answers."
+  >
+  > "He'll be gone for weeks. Until he's back, I speak for him."
+  >
+  > "Not about her. No one touches my sister."
+- **F2:**
+  > "…needs to be sealed, Thaeroval, and tonight."
+  >
+  > "At least wait until my father has returned. He'll have answers."
+  >
+  > "Your father will be gone for weeks."
+  >
+  > "Then we wait for weeks. No one touches my sister."
+- Both keep your "…needs to be… sealed…" with no "she", your Thaer line whole, and your round 3 "No one touches my sister". F1 is the fight over who decides, and neither of them thinks to ask her.
+- Then, after *People don't sleep inside crystal. That's what I told myself.*, the ship: *Weeks. That ship Thaer watched go… Was Father on it?*
+
+**G. Her decision, before his knock.**
+- **G1 (recommended):** *I won't tell him what I heard. He can tell me himself.*
+- **G2:** *If I ask him straight out, he'll only tell me to rest. Let him tell me himself.*
+- G1 is shorter and more stubborn. G2 reasons it out.
+
+**H. The one question he answers, and her last chance.** After "Did I do something wrong? Nobody will tell me anything, and you… you of all people.":
+- **H1 (recommended):** "No." It came at once.
+- **H2:** "You didn't do anything wrong."
+- Then, either way: "Then what was that room, Thaer?" / His eyes went to the tray on the table. "You haven't eaten."
+- H1 answers only what she asked. H2 is warmer, but it's a claim about her past, and by the end of Volume 1 she takes responsibility for "who she was", so H2 could turn out to be a lie.
+
+**I. The spill.** After "Don't you dare send me to bed like a child!", he turns for the door and she catches his arm:
+- **I1 (recommended):** "I know Leorin's face, Thaer, and he's an old man." Her voice cracked. "And nobody here has even heard of Elowen. How long was I down there?"
+- **I2:** "Leorin's an old man, Thaer. How long was I down there?"
+- In both, "Thaeroval" drops back to "Thaer" as she pleads. Then his "Seralune, get some rest. I'll be back in the morning."
+
+**J. After the lock.**
+- **J1 (recommended):** *He knew what that room was, and he didn't tell me.*
+- **J2:** *He didn't tell me.*
+- J1 names what "it" is.
+
+**K. Her father, in the night.** This replaces *Wait until my father returned. So Father's gone somewhere, and Thaer wants to wait for him.*, since she now knows more than that.
+- **K1 (recommended):** *So they wait for Father, and then Father decides what happens to me.*
+- **K2 (new, your call):** *Father will listen to me. He has to.*
+- Then, either way, your *And Mother? Mother would never let them do this to me.*
+
+**L. The guards.** After Nereth's "Her Highness is tired. She needs to rest. That's all.":
+- **L1 (recommended):**
+  > "Nereth, get out of the way."
+  >
+  > Nereth didn't move.
+  >
+  > The second guard looked past her at Seralune, and then down at her bare feet, and lowered his sword. "Leave it."
+  >
+  > "And if she—"
+  >
+  > "Then I'll call you," Nereth said.
+- **L2:** "Move." / Nereth didn't. / The second guard lowers his sword first, and they back out.
+- In both, Nereth never tells them no; she only doesn't move. Her first disobedience is still open, so this stays on the right side of it.
+
+**M. Nereth, the sorry, and the hand.** After "I'm sorry," Seralune said to Nereth's back. "I shouldn't have shouted at you. None of this is your doing.":
+- **M1 (recommended):**
+  > Nereth turned round. "It's nothing, Your Highness." Her eyes went to Seralune's hand, which had opened again when she caught Thaer's arm. "You're bleeding. May I?"
+  >
+  > She wet the linen at the basin, and cleaned the cut and bound it, and neither of them said anything.
+- **M2:** "No, Your Highness. You shouldn't have." Then the hand, the same.
+- M1 is Ram on duty. M2 has an edge, and Decisions keep her composed until the escape.
+
+**N. The blows, answered** (later in the night, with the room quiet again):
+- **N1 (recommended):** *They're mending that thing I woke up in, and it's for me.*
+- **N2:** *They're mending it, and it's for me.* (the Part 2 draft's line, which you moved away from the first blow; here she has had hours to put it together)
+- N1 names what "it" is.
+
+**O. When the blows stop at first light.**
+- **O1 (recommended):** *They've stopped. Does that mean it's finished?*
+- **O2:** *They've finished.*
+- O1 keeps it a question, the way she thinks in the moment.
