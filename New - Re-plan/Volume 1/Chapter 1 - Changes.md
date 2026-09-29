@@ -16,6 +16,8 @@ Written on 26 September 2026. This is every change made to `Chapter 1 - A War Wi
 - Nothing was changed that isn't listed here.
 - Changes 6, 19, 20, 25, 27 and 37 were trimmed after your note on over-explaining. Each one shows the trimmed version.
 
+**Since 29 September** this list writes `Drafts/Chapter 1 - A War Without Sound (Draft 2, before the line pass).md`: the chapter as it stood before the line pass of 28–29 September. That pass, and every round after it, is in `Chapter 1 - Changes (line pass).md`. The "revised" line numbers below refer to that saved draft.
+
 ## At a glance
 
 - **62 changes proposed.** 1 rejected so far, so 61 are in the chapter: 55 rewritten, 5 cut and 1 added.

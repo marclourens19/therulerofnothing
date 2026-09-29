@@ -18,6 +18,8 @@ Started 27 September 2026. This is the change list for Chapter 3. The first draf
 
 **Round 7 (27 September): "The man is said too much."** 22 times before Silas gives his name, now 8. It's replaced by "he" where only he can be meant, "a fist" or "a hand" where that's all Alaric feels, "the stranger" twice, or cut (changes 21, 22, 23, 24, 25, 26, 27, plus edits folded into changes 1, 3, 4, 14, 15, 16 and 18).
 
+**Since 29 September** this list writes `Drafts/Chapter 3 - The Weight of the Living (Draft 2, before the line pass).md`: the chapter as it stood before the line pass of 28–29 September. That pass, and every round after it, is in `Chapter 3 - Changes (line pass).md`. The "revised" line numbers below refer to that saved draft.
+
 ## At a glance
 
 - **27 changes proposed.** 0 rejected so far, so 27 are in the chapter: 27 rewritten, 0 cut and 0 added.

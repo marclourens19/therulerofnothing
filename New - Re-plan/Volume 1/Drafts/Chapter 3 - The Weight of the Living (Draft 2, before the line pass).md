@@ -28,13 +28,15 @@ He stood among the trees with the sword hanging from his hand and couldn't make 
 
 The man came back for him. He took Alaric by the front of his shirt and pulled him close, close enough that Alaric could see the pale scar running down his cheek.
 
-"Move, boy, now, or Gerolt died for nothing!"
+"Stop drowning in self-pity, boy, and move."
 
-He let go and went on.
+Alaric stared at him.
+
+"You want to die? Fine. Stay here and let them have you." He let go. "Then Gerolt died for nothing."
 
 He knew Gerolt's name.
 
-Alaric didn't know how, and there was no time to ask. His feet went after the man.
+Alaric didn't know how, and there was no time to ask. He went on, and Alaric's feet went after him.
 
 *If I stop, then he—so don't, idiot. Move.*
 
@@ -68,7 +70,7 @@ He got his arms under Wena's chest and belly and lifted her off her feet. She wa
 
 The cold took his breath. By the second step it was at his waist, and on the third the riverbed went out from under him, and the current had them both.
 
-He went under and came up still holding her. Water filled his mouth and nose. The river turned him round, the bank went past, and then a fallen tree lying out into the river from the far bank, close enough to touch. He couldn't reach for it without letting go of Wena, so he didn't.
+He went under and came up still holding her. Water filled his mouth and nose. The river turned him round, and the bank went past, and then a fallen tree lying out into the river from the far bank, close enough to touch. He couldn't reach for it without letting go of Wena, so he didn't.
 
 Something caught him by the collar and yanked.
 
@@ -124,7 +126,7 @@ It came out too loud for the cave, and he didn't even look up from the fire.
 
 The man looked up at him then.
 
-"And you had his sword in your hands, but you stayed where you were and did nothing," he said quietly.
+"And you just sat there looking on like a scared little puppy." He said it quietly. "You did nothing."
 
 Alaric had no answer to that. He had been telling himself the same thing all night.
 
@@ -134,23 +136,17 @@ His knees went, and he sat down hard on the dirt floor with the sword across the
 
 "Silas."
 
-Alaric waited for Silas to ask his name. Instead, Silas pulled a rag out of the sack and began wiping down his blade.
+He didn't care to ask for Alaric's.
 
-"How did you know Gerolt?"
+Silas pulled a rag out of the sack and began wiping down his blade. "So how did the old man know you?"
 
-Silas kept his eyes on the steel. "I heard something from across the river. Sounded like fighting, and by the time I got close enough to see what was happening, it was already too late."
+"He didn't."
 
-"That isn't what I asked."
-
-"No, it isn't." The rag moved along the blade. "How did you know him?"
-
-"I didn't."
-
-"Scouts don't tear a farmhouse apart unless they're after something, so what happened back there?"
+"Scouts don't come at a farmhouse like that unless something set them off, so what happened back there?"
 
 Alaric opened his mouth and couldn't answer.
 
-*Why me? What did I do? And that battle on Gerolt's farm—thousands dead, and he never heard a sound. What was that? What's happening to me?*
+*Why me? What did I* do*? And that battle on Gerolt's farm—thousands dead, and he never heard a sound. What* was *that? What's happening to me?*
 
 He put his hands over his face and shut his eyes, and Gerolt was still there, sitting on his stool by the fire, cradling his dented mug and telling him to eat first and thank him after. If he took his hands away, he would see Silas, and it would be real.
 

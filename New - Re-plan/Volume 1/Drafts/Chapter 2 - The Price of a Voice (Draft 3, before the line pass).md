@@ -14,7 +14,7 @@ Nobody answered it.
 
 When it came back, the layering was gone. One voice now, a man's, in words the boy understood.
 
-"Open the door, farmer. Keep us waiting, and yours won't be the only one we knock down tonight."
+"Farmer, answer this damn door before we start knocking down others because of your silence."
 
 He didn't raise his voice. Somewhere beyond the wall, a woman laughed.
 
@@ -84,7 +84,7 @@ He grabbed Gerolt's wrist and squeezed. His eyes were very wide. He stared at Ge
 
 Then he tried to breathe.
 
-Air bubbled around the blade. A wet clicking filled his throat while blood frothed over his lips and ran down the steel into his collar. His heels scraped at the boards, and the hand on Gerolt's wrist began to shake.
+Air bubbled out around the blade. A thick, wet clicking filled his throat, and every breath he took brought up more blood, frothing pink at his lips and running down the steel into the collar of his armour. He choked on it. He choked again, and his heels scraped at the boards, and the hand on Gerolt's wrist began to shake.
 
 The boy pressed himself into the floor. He couldn't stop watching the elf's mouth, waiting for a breath that wasn't coming.
 
@@ -92,7 +92,7 @@ Gerolt twisted the blade. Something inside gave with a wet, stringy tear, and th
 
 Outside, the woman screamed. It came out of her in the layered voice, every throat of it at once.
 
-She stood beside the horses with one hand thrust towards the cabin. She wore the same dark armour beneath a grey travelling cloak. Her pale hair had come loose across a face twisted with disbelief.
+She stood beside the horses with one hand thrust towards the cabin. The same dark armour, lighter, under a grey travelling cloak. Her pale hair had come loose across a face twisted with disbelief.
 
 The earth answered her.
 
@@ -128,7 +128,7 @@ She threw up her arm. The blade broke through her metal bracer and stopped in th
 
 He swung a third time, and the earth rose to meet it.
 
-A slab of soil and rock slammed into Gerolt's chest and threw him back through the doorway. He hit the floor hard enough to shake the whole cabin, and the boy heard something crack. The sword skidded away across the boards and stopped an arm's length from the boy's hand.
+A slab of soil and rock slammed into Gerolt's chest and threw him back through the doorway. He hit the floor hard enough to shake the whole cabin, and the boy heard something inside him crack. The sword skidded away across the boards and stopped an arm's length from the boy's hand.
 
 The boy scrambled towards him.
 
@@ -162,7 +162,7 @@ Gerolt looked at him.
 
 "She heard me shout your name." His breath was coming too fast. "She knows you weren't alone. Gerolt, what do I—"
 
-"I know." The words broke into a cough. Gerolt curled around his side until it passed, blood shining between his teeth.
+"I know." It broke into a cough. Gerolt curled around his side until it passed, blood shining between his teeth.
 
 A horn sounded from the direction the woman had fled. Low and long, and closer than it should have been.
 
@@ -259,6 +259,8 @@ The cabin was burning from end to end. The torches had reached it, and they had 
 *Why did he burn it? They can see us now. Everyone can see us, why would he* do *that—*
 
 The knot of torches came apart. They spread out into the wheat, and they were coming this way.
+
+*What's happening? What is* happening*—*
 
 Gerolt's head had dropped forward. The boy's sleeve was wet through where his arm crossed Gerolt's side, and the wet was warm.
 
@@ -406,11 +408,11 @@ Gerolt had seen it too. He put his hand on the tree behind him and pushed himsel
 
 "Sword," he said.
 
-He held it out to Alaric hilt first. Alaric didn't take it. He had watched Gerolt fight with that sword tonight. Taking it meant leaving Gerolt to face them bare-handed. It meant watching him die here. Gerolt pressed the hilt into Alaric's hands anyway and forced his fingers around it.
+He held it out to Alaric hilt first. Alaric didn't take it. He had watched Gerolt fight with that sword tonight. If he took it, Gerolt wasn't coming, and he would be facing them with his bare hands. He would die here. Gerolt pressed it into his hands anyway and closed his fingers around the grip.
 
 "Kelmend. Over the river." His breath snagged, and he waited until he had it back. "Marta, at the inn by the south gate. Show her that. Tell her the old fool sent you."
 
-He finished with a small cough, and blood began to run from the corner of his mouth.
+It ended in a small cough, and blood began to run from the corner of his mouth.
 
 "Take Wena and run, Alaric."
 
@@ -432,9 +434,11 @@ He swept his arm out, and the fire left it. It fell across the first two riders 
 
 The smell reached Alaric a moment later. It was the smell of the field he had woken up in.
 
-He tried to go back down to Gerolt, but his legs just wouldn't move.
+*What do I do?*
 
-*If I go down there, they'll kill me. I don't want to die. I don't want to—*
+He had a sword in one hand. In the other he was holding on to a dog.
+
+*I could—no. No, I can't. I can't do anything. I want to help him, and I can't even make my legs move. I'm scared. If I go down there, they'll kill me. I'll die. I don't want to die. I don't want to—*
 
 An arrow took Gerolt high in the chest.
 
@@ -482,7 +486,7 @@ The man was at his side before Alaric had noticed him move.
 
 "Get up, boy, or we're both dead!"
 
-Alaric couldn't get up. Gerolt had taken care of him until his dying breath, and now Alaric was going to leave him there and never see him again.
+Alaric couldn't get up. He was staring at Gerolt. That old man had taken care of him until his dying breath, and now Alaric was going to leave him there and never see him again.
 
 Wena pulled free of his hand and ran down to Gerolt. She pushed her nose under Gerolt's hand and whined.
 

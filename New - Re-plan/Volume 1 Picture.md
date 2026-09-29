@@ -39,7 +39,7 @@ Volume 1 tests the question; it doesn't answer it.
 
 ## Seralune
 
-- **Starts.** She wakes sealed, told it was for her own good. She doesn't remember deciding anything, so it scares her and she rejects it.
+- **Starts.** She wakes alone in the black, in a broken crystal seal that her mana cracked when Alaric appeared. Nobody tells her what was done to her; she has to put the pieces together (Chapters 4–5). Later she's told it was for her own good. She doesn't remember deciding anything, so it scares her and she rejects it.
 - **Wants, deep down:** a world where no one fears those with nothing, or her. A world where people don't have to choose, because they have everything they need. This is the seed of her antagonist arc.
 - **Wants, in Volume 1:** to escape the system that is locking her away, and to get answers from her mother, who opposed the sealing.
 - **Believes:** "How could I be dangerous? I never had magic." Everyone thinks her mana is simply a very large pool whose end no one has found.
@@ -80,6 +80,18 @@ Volume 1 tests the question; it doesn't answer it.
 - Darcy's rescue, with his friends.
 - Alaric coming to terms with himself, and learning to accept help.
 - Seralune held as the church's leverage over Natharul. Volume 2 becomes her escape, decided together with Nereth.
+
+## Added from the handoff (29 September)
+
+The author's direction from 28–29 September, recorded in full in `Decisions.md` (Volume 1, "Added from the handoff"). The handoff's proposed structure (its §19: about 50–54 chapters in nine movements) is **not approved**.
+
+- **Length:** forty or more chapters is fine, governed by completed movements.
+- **The middle of the road:** the Great Expanse, a vast, shifting land of corrupted mana, and Foramen, the hidden settlement tied to Kurdag. Liluth's pursuit brings violence there.
+- **The heart of it:** the travelling group becoming the place Alaric belongs (the *Final Fantasy XV* road trip). They can doubt him without ceasing to care.
+- **The past answers with almost nothing.** The ancient cores come from the war against the princess history calls evil, and give him no biography.
+- **His mistake grows:** he decides his identity is his responsibility alone, keeps things from his friends, and reaches for his past without them at the tear.
+- **Seralune's road:** into Mydea on her mother's trail, possibly through Inrandeel, where the independent elves she remembers are gone, and something there points her to Favale.
+- **Chapter 4 is written** ("A Promise Left Fractured"), and Chapter 5 may come in two parts.
 
 ## Still open for Volume 1
 

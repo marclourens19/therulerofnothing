@@ -18,6 +18,8 @@ Started 27 September 2026. This is the change list for the redesigned Chapter 2.
 
 **Round 8 (27 September).** A sentence that said "the man" twice (folded into change 18), after the author's note on Chapter 3.
 
+**Since 29 September** this list writes `Drafts/Chapter 2 - The Price of a Voice (Draft 3, before the line pass).md`: the chapter as it stood before the line pass of 28–29 September. That pass, and every round after it, is in `Chapter 2 - Changes (line pass).md`. The "revised" line numbers below refer to that saved draft.
+
 ## At a glance
 
 - **48 changes proposed.** 1 rejected so far, so 47 are in the chapter: 41 rewritten, 5 cut and 1 added.
