@@ -5,11 +5,12 @@ Started 29 September 2026. Chapter 5 was rewritten from the new design agreed in
 - **Round 1** (29 September, change 1): the author's note on the window and the bread: "I don't agree she should eat, and remove 'sill'. [Stop] putting buzz words."
 - **Round 2** (29 September, changes 2–5): the author's review, "Several things still keep it below the level of Chapter 4": Thaer's first look at her, Leorin's first words, her plea to Thaer, and "Sometime". Its first point, italics for her thoughts, needed no change: every thought is already in italics in the file, and a plain-text copy loses them.
 - **Round 3** (29 September, changes 6–11): the tray (the author: "say he was still looking at the tray, not the bread"), then the final pass the author asked for, "looking for errors, POV slips etc." The pass found no point-of-view slips, no continuity errors and no house-style faults. It found one unclear pronoun, one line that didn't fit where she was, and three repeats ("His eyes went…" four times, "Seralune looked…" twice in six lines, and a tenth "Then" that echoed the opening's "Then there were footsteps").
+- **Round 4** (29 September, changes 12–14, and change 11 edited): one last pass, at the author's request ("Do one last pass to make sure"). Again no point-of-view, continuity or house-style faults. Four small repeats: two "then"s in one sentence, "next" in two paragraphs side by side, "in her lap" three times (twice in a row), and "came" in the last two one-line paragraphs, which change 11 had introduced.
 
 ## At a glance
 
-- **11 changes proposed.** 0 rejected so far, so 11 are in the chapter: 11 rewritten, 0 cut and 0 added.
-- **Length:** 3,201 words before, 3,148 after.
+- **14 changes proposed.** 0 rejected so far, so 14 are in the chapter: 14 rewritten, 0 cut and 0 added.
+- **Length:** 3,201 words before, 3,143 after.
 - **Median paragraph:** 14 words before, 13 after. The house target is roughly 14–22.
 - **"Nothing":** 1 times before, 1 after.
 
@@ -32,6 +33,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 9, Whose bare feet:** A craft fix from the final pass.
 - **Change 10, The binding:** A craft fix from the final pass.
 - **Change 11, The last footsteps:** A craft fix from the final pass.
+- **Change 12, Leorin's eyes:** A craft fix from the last pass.
+- **Change 13, "At the corner":** A craft fix from the last pass.
+- **Change 14, "From the bed":** A craft fix from the last pass.
 
 ## The changes
 
@@ -229,8 +233,62 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> Footsteps came along the corridor.
+> There were footsteps in the corridor.
 
-**Why.** Final pass: the chapter's tenth paragraph to start with "Then", and word for word the start of the guards' arrival ("Then there were footsteps above them").
+**Why.** Final pass: the chapter's tenth paragraph to start with "Then", and word for word the start of the guards' arrival ("Then there were footsteps above them"). *Edited in round 4:* it was "Footsteps came along the corridor.", which put "came" in two one-line paragraphs in a row ("Two knocks came."). It's now the plain form the first draft had, without the "Then".
 
 **Your decision.** A craft fix from the final pass.
+
+### Leorin at the foot of the stairs
+
+#### 12. Leorin's eyes
+
+*Draft line 71 → revised line 69*
+
+**Before**
+
+> Nobody did. Leorin's eyes came to her then, and stayed longer than they had yet, and then went to the floor. Thaer took her arm again, and this time she was glad of it.
+
+**After**
+
+> Nobody did. Leorin's eyes came to her then, and stayed longer than they had yet, before they dropped to the floor. Thaer took her arm again, and this time she was glad of it.
+
+**Why.** Last pass: two "then"s in one sentence.
+
+**Your decision.** A craft fix from the last pass.
+
+### The walk up
+
+#### 13. "At the corner"
+
+*Draft line 107 → revised line 105*
+
+**Before**
+
+> She looked back for him at the next corner. He was gone.
+
+**After**
+
+> She looked back for him at the corner. He was gone.
+
+**Why.** Last pass: "at the next corner" and, straight after, "Her knees gave at the next stair."
+
+**Your decision.** A craft fix from the last pass.
+
+### The night
+
+#### 14. "From the bed"
+
+*Draft line 311 → revised line 309*
+
+**Before**
+
+> The blows went on. Seralune sat with her hand in her lap and listened to them, and thought of the crystal standing split open in that room far below her, and of the word that had come through the door.
+
+**After**
+
+> The blows went on. Seralune listened to them from the bed, and thought of the crystal standing split open in that room far below her, and of the word that had come through the door.
+
+**Why.** Last pass: "in her lap" three times (her hands before Thaer comes back, then Nereth's, then hers here), the last two in paragraphs side by side.
+
+**Your decision.** A craft fix from the last pass.

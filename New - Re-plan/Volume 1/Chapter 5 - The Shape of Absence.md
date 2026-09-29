@@ -66,7 +66,7 @@ Leorin didn't answer.
 
 "I'm standing right here, you know. You can just ask me."
 
-Nobody did. Leorin's eyes came to her then, and stayed longer than they had yet, and then went to the floor. Thaer took her arm again, and this time she was glad of it.
+Nobody did. Leorin's eyes came to her then, and stayed longer than they had yet, before they dropped to the floor. Thaer took her arm again, and this time she was glad of it.
 
 "Come with me, Seralune, and stay close. Don't speak to anyone until we're upstairs."
 
@@ -102,7 +102,7 @@ At the end of the row, an old servant bowed like the rest, and as he straightene
 
 *I've never seen him before in my life, and he's the first person who's smiled at me.*
 
-She looked back for him at the next corner. He was gone.
+She looked back for him at the corner. He was gone.
 
 Her knees gave at the next stair. Thaer caught her against his side before she could fall, and kept walking, and she had to go with him.
 
@@ -306,7 +306,7 @@ Nereth bowed her head, and went back to her corner.
 
 Nereth sat on the very edge of the chair by the hearth, with her back straight and her hands folded in her lap.
 
-The blows went on. Seralune sat with her hand in her lap and listened to them, and thought of the crystal standing split open in that room far below her, and of the word that had come through the door.
+The blows went on. Seralune listened to them from the bed, and thought of the crystal standing split open in that room far below her, and of the word that had come through the door.
 
 *They're mending it, and it's for me.*
 
@@ -318,7 +318,7 @@ When the window began to grey, the blows stopped.
 
 *They've stopped. It's mended, then.*
 
-Footsteps came along the corridor.
+There were footsteps in the corridor.
 
 Two knocks came.
 
