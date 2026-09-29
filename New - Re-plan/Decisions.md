@@ -466,6 +466,12 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - **Part 1 ends on the tree:** "How long was I in that room?" Elowen moves into Part 2: she asks Nereth, and Nereth has never heard of her.
   - **Nereth at the door:** "just standing in the corner near the door. She doesn't do anything and just stands in silence."
   - **Nereth's name:** Seralune, frustrated with getting no answers, sighs and asks it (the author's rough line: "This isn't getting me anywhere… What's your name, lady?").
+- **Round 2 and the first dialogue round (29 September):**
+  - **Leorin:** she doesn't recognise him at first; after focusing on him, a younger picture of him comes to her, and she says his name in shock.
+  - **Leorin's first words:** a bow and "Your Highness", then straight to Thaeroval: "What happened here? Why is the door cut down?" The author: "Why would he care what she remembers straight away, instead of asking why she is outside an impossible seal?"
+  - **Through the door:** "…needs to be… sealed…", with no "she".
+  - **Testing Thaer** (the author's rough lines): "What is happening, Thaer? Why is everyone acting like this? Did I do something wrong? Why is no one telling me anything, you of all people?"
+  - **"Thaer?" at the knock:** yes, the short name.
 - *Open:* what each part's dramatic question is, and Nereth's first disobedience ("still undecided", handoff §15.10).
 
 ## Chapter 6

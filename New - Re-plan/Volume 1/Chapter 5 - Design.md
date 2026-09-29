@@ -1,6 +1,6 @@
 # Chapter 5: Design
 
-Started 29 September 2026. **Status:** round 1 answered; round 2 and the dialogue options asked.
+Started 29 September 2026. **Status:** round 2 and the first dialogue round answered; dialogue round 2 asked.
 
 **How this chapter gets written** (the author, 29 September): the design is agreed first, then we plan dialogue options for the key exchanges, and only then does Claude write, after saying it's ready and getting the go-ahead. Nothing in this chapter is written yet.
 
@@ -134,4 +134,74 @@ For the **Needed** lines. Give me your rough version of any of these, or pick an
 - **D2:** "What are you going to do with me?" It's sharper, closer to an accusation, and it may tip him off that she knows something.
 
 **E. Where "Thaeroval" first lands** (Part 2, beat 8). *Recommended:* once, at the moment she turns, in the line she was already going to say: "I've waited, Thaeroval, and now I want answers. I want them now." She has only ever said "Thaer" on the page until then, so the reader hears the change without being told.
+
+**Answers (29 September).**
+1. **Leorin:** "She doesn't recognise him at first, but after focusing on him she sees a younger picture of him in her mind, then calls his name in shock."
+2. **"Thaer?" at the knock:** "Yes."
+- **A. Leorin's first words:** "'Your Highness', with a bow of respect, then straight to Thaeroval: 'What happened here? Why is the door cut down?' Something realistic. Why would he care what she remembers straight away, instead of asking why she is outside an impossible seal?" *(The author is right: the first thing anyone would ask about is the impossible thing in front of them.)*
+- **B. Nereth:** "Study Alisaie's lines in FF14 and align them more with that. But it's the right direction."
+- **C. Through the door:** "Remove 'she needs to be', just say '… needs to be…'."
+- **D. The question she tests him with:** "More like: What is happening, Thaer? Why is everyone acting like this? Did I do something wrong? Why is no one telling me anything, you of all people?"
+- **E. The first "Thaeroval":** "Something along those lines, more in line with Alisaie. This is where her Revy can break out."
+
+## Dialogue round 2 (asked 29 September)
+
+**What Claude could find of Alisaie.** The fan wikis and Wikiquote are blocked in this environment, so this rests on the few lines that search results quote, not on a full study:
+- dry scorn: "Another self-important little brat. Just what we need.";
+- teasing her brother: "Somehow, the boy just isn't very buoyant.";
+- when she's hurt, the sentences go short: "Hurt…? There wasn't even a fight. I was too late. Too slow. And I thought I could protect you…";
+- when she's angry at Alphinaud, she grabs him by the collar.
+
+The pattern: she's dry and sure of herself when she's in control, and short and broken when she isn't. If you want her closer still, paste some of her lines again, as you did for Ga Bu, and I'll match them.
+
+**A. Leorin** (Part 1, beat 2). The order, from your answers:
+> Leorin bowed. "Your Highness." Then, to Thaeroval: "What happened here? Why has the door been cut down?"
+
+Then she looks at him properly, a younger face comes to her, and: "*Leorin?*" He glances at her and goes back to Thaer, and she says: "I'm standing right here, you know. You can just ask me."
+- "You can just ask me" gets better with your version: he asks Thaer what happened, when she's the one who was in there, even if she doesn't know either.
+- Nobody says "seal" to her face, so "the door" is right.
+
+**B. Nereth** (Part 2, beat 5), aligned with Alisaie's dryness:
+> "Where's my mother?"
+>
+> "I couldn't say, Your Highness."
+>
+> "Then fetch Elowen. She'll know."
+>
+> "I've never heard of her, Your Highness."
+>
+> Seralune let out a long breath. "Well. This is getting me nowhere." *(beat)* "You do have a name, I take it?"
+>
+> "Nereth, Your Highness."
+- **B1 (recommended),** as above. "You do have a name, I take it?" is her dry scorn, aimed at the situation, not at Nereth.
+- **B2:** "…What's your name, at least?", plainer and closer to your rough line.
+
+**C. Through the door** (Part 2, beat 7):
+> "…needs to be… sealed…"
+>
+> "…at least wait until… my father… returned… answers…"
+
+With no "she", her *Who? Me?* is the leap she makes herself.
+
+**D. Testing him** (Part 2, beat 8), your lines, with one pause where he doesn't answer:
+> "What's happening, Thaer? Why is everyone acting like this?"
+>
+> *(He doesn't answer.)*
+>
+> "Did I do something wrong? Nobody will tell me anything, and you… you of all people."
+
+It's a sister asking, which is the chance for him to tell her. The trailing "you of all people" is the hurt version of Alisaie: it breaks off instead of finishing.
+
+**E. The anger, and "Thaeroval"** (Part 2, beat 8), hotter:
+> "You told me to follow you, and I followed. You told me to rest, and I rested." *(She's on her feet.)* "I sat in that room all day, Thaeroval, and nobody came. Now I want answers, and I want them now."
+>
+> "When you've slept—"
+>
+> "Don't you dare send me to bed like a child!"
+>
+> "Seralune, get some rest. I'll be back in the morning."
+>
+> "You said you'd be back before evening, too."
+- "I sat in that room all day, and nobody came" grounds her anger in Chapter 4, which the reader lived through with her.
+- **"Her Revy":** Revy is Nereth's reference in `Decisions.md` ("Ram on duty, Revy when she slips"). If Seralune also breaks like Revy, the two women start to sound alike. *Recommended:* this is Alisaie at her hottest, loud and sure, with no swearing, and her break is physical, the way Alisaie grabs Alphinaud's collar: she catches his arm as he turns for the door. Revy stays Nereth's, for the escape. Or did you mean Seralune should get some of Revy too?
 
