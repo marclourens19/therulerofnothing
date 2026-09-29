@@ -222,7 +222,7 @@ It's a sister asking, which is the chance for him to tell her. The trailing "you
 
 ## Part 1: the first draft (29 September)
 
-`Chapter 5 - Your Highness (Part 1).md`, 1,272 words, with a copy saved unchanged as `Drafts/Chapter 5 - Your Highness (Part 1) (Draft 1).md`. "Your Highness" is a working title. It runs from the embrace to the tree, in her eyes only, and uses every agreed line for Part 1 as agreed.
+Part 1, 1,272 words, saved unchanged as `Drafts/Chapter 5 - Your Highness (Part 1) (Draft 1).md`. "Your Highness" is a working title. It runs from the embrace to the tree, in her eyes only, and uses every agreed line for Part 1 as agreed.
 
 ### What it takes from the old Chapter 4, and what's new
 
@@ -276,7 +276,7 @@ Changes 1–4 are applied as round 1 in `Drafts/Chapter 5 - change list (Part 1)
 
 ## Part 2: the first draft (29 September)
 
-`Chapter 5 - Your Highness (Part 2).md`, 950 words, with a copy saved unchanged as `Drafts/Chapter 5 - Your Highness (Part 2) (Draft 1).md`. It runs from the gallery to the knock, and uses every agreed line as agreed: Nereth and Elowen, your thought, "You do have a name, I take it?", the door, testing Thaer, the anger and the first "Thaeroval", the snap, the cover, the sorry, and "Thaer?".
+Part 2, 950 words, saved unchanged as `Drafts/Chapter 5 - Your Highness (Part 2) (Draft 1).md`. It runs from the gallery to the knock, and uses every agreed line as agreed: Nereth and Elowen, your thought, "You do have a name, I take it?", the door, testing Thaer, the anger and the first "Thaeroval", the snap, the cover, the sorry, and "Thaer?".
 
 **Length:** Part 1 is 1,241 words and Part 2 is 950, so the chapter is about 2,190 words in all, a little shorter than Chapter 4 (2,626). Part 2's paragraphs run short (a median of 11.5 words) because most of it is the quick spoken exchanges agreed in the dialogue rounds.
 
