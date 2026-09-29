@@ -155,7 +155,7 @@ Then, after the thoughts you already had: *Weeks. That ship Thaer watched go… 
 
 ## Your call
 
-These are new, Claude's own rather than agreed. Yes or no to each, or a note.
+These are new, Claude's own rather than agreed. Yes or no to each, or a note. **Round 2 (29 September):** calls 1–13 stay for now ("Keep, I'll read and review"), and call 14 is a no. In call 10, whether "He was still looking at the bread" stays is to confirm.
 
 1. **"She had waited all day to hear him say it."** After "I'm here now, Seralune."
 2. **Thaer's hands** on her shoulders are "not quite steady", and he's "still breathing hard" (Chapter 4 had his breathing "going far too fast").
@@ -188,3 +188,5 @@ The design budgeted about 4,300 words. Written the way you want (plain, no decor
 - d. **More of the changed palace** on the walk up, from your picture.
 
 *Recommended:* a and b. The title is the shape of what's missing, and the people she's missing are her brother as he was and her mother.
+
+**Answered (29 September):** "No, fine as is." No memories are added, and the chapter stays at about 3,200 words. The 4,000–5,000 target applies from Chapter 6.
