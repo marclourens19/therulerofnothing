@@ -3,7 +3,7 @@
  "draft": "Chapter 5 - The Shape of Absence (Draft 4, the deep revision).md",
  "chapter": "../Chapter 5 - The Shape of Absence.md",
  "changes_file": "../Chapter 5 - Changes (deep revision).md",
- "intro_md": "Started 29 September 2026. Chapter 5 was rewritten from the new design agreed in `Chapter 5 - Design.md` (\"The deep revision\"), and the rewrite is compared with the version before it, scene by scene, in `Chapter 5 - What the Deep Revision Changed.md`. Its first draft is saved unchanged as `Drafts/Chapter 5 - The Shape of Absence (Draft 4, the deep revision).md`, and every round from here is a change against it. The version before the deep revision is `Drafts/Chapter 5 - The Shape of Absence (Draft 3, before the deep revision).md`, written by `Drafts/Chapter 5 - change list.json`.\n\n- **Round 1** (29 September, change 1): the author's note on the window and the bread: \"I don't agree she should eat, and remove 'sill'. [Stop] putting buzz words.\"\n- **Round 2** (29 September, changes 2–5): the author's review, \"Several things still keep it below the level of Chapter 4\": Thaer's first look at her, Leorin's first words, her plea to Thaer, and \"Sometime\". Its first point, italics for her thoughts, needed no change: every thought is already in italics in the file, and a plain-text copy loses them.\n- **Round 3** (29 September, changes 6–11): the tray (the author: \"say he was still looking at the tray, not the bread\"), then the final pass the author asked for, \"looking for errors, POV slips etc.\" The pass found no point-of-view slips, no continuity errors and no house-style faults. It found one unclear pronoun, one line that didn't fit where she was, and three repeats (\"His eyes went…\" four times, \"Seralune looked…\" twice in six lines, and a tenth \"Then\" that echoed the opening's \"Then there were footsteps\").\n- **Round 4** (29 September, changes 12–14, and change 11 edited): one last pass, at the author's request (\"Do one last pass to make sure\"). Again no point-of-view, continuity or house-style faults. Four small repeats: two \"then\"s in one sentence, \"next\" in two paragraphs side by side, \"in her lap\" three times (twice in a row), and \"came\" in the last two one-line paragraphs, which change 11 had introduced.",
+ "intro_md": "Started 29 September 2026. Chapter 5 was rewritten from the new design agreed in `Chapter 5 - Design.md` (\"The deep revision\"), and the rewrite is compared with the version before it, scene by scene, in `Chapter 5 - What the Deep Revision Changed.md`. Its first draft is saved unchanged as `Drafts/Chapter 5 - The Shape of Absence (Draft 4, the deep revision).md`, and every round from here is a change against it. The version before the deep revision is `Drafts/Chapter 5 - The Shape of Absence (Draft 3, before the deep revision).md`, written by `Drafts/Chapter 5 - change list.json`.\n\n- **Round 1** (29 September, change 1): the author's note on the window and the bread: \"I don't agree she should eat, and remove 'sill'. [Stop] putting buzz words.\"\n- **Round 2** (29 September, changes 2–5): the author's review, \"Several things still keep it below the level of Chapter 4\": Thaer's first look at her, Leorin's first words, her plea to Thaer, and \"Sometime\". Its first point, italics for her thoughts, needed no change: every thought is already in italics in the file, and a plain-text copy loses them.\n- **Round 3** (29 September, changes 6–11): the tray (the author: \"say he was still looking at the tray, not the bread\"), then the final pass the author asked for, \"looking for errors, POV slips etc.\" The pass found no point-of-view slips, no continuity errors and no house-style faults. It found one unclear pronoun, one line that didn't fit where she was, and three repeats (\"His eyes went…\" four times, \"Seralune looked…\" twice in six lines, and a tenth \"Then\" that echoed the opening's \"Then there were footsteps\").\n- **Round 4** (29 September, changes 12–14, and change 11 edited): one last pass, at the author's request (\"Do one last pass to make sure\"). Again no point-of-view, continuity or house-style faults. Four small repeats: two \"then\"s in one sentence, \"next\" in two paragraphs side by side, \"in her lap\" three times (twice in a row), and \"came\" in the last two one-line paragraphs, which change 11 had introduced.\n- **Round 5** (29 September, changes 15–23): the author's review, \"What needs work\": fewer question-list thoughts and more that reason; no repeated thoughts; one moment where she adds the evidence up and stops; Seralune's line about Nereth cut; two point-of-view fixes.",
  "glance": [],
  "summary_md": "",
  "sections": {
@@ -203,6 +203,108 @@
    "why": "Last pass: \"in her lap\" three times (her hands before Thaer comes back, then Nereth's, then hers here), the last two in paragraphs side by side.",
    "decision": "accepted",
    "decision_note": "A craft fix from the last pass."
+  },
+  {
+   "section": "The chamber",
+   "title": "\"Before he stopped too\"",
+   "kind": "changed",
+   "tags": [
+    "round5"
+   ],
+   "before": "She stopped walking. His hand dragged at her arm for a step before he felt it, and then he stopped too.",
+   "why": "Review: she can't know when he felt it.",
+   "decision": "accepted",
+   "decision_note": "The author's review (29 September).",
+   "after": "She stopped walking. His hand dragged at her arm for a step, and then he stopped too."
+  },
+  {
+   "section": "Leorin",
+   "title": "The guards: no question list",
+   "kind": "changed",
+   "tags": [
+    "round5"
+   ],
+   "before": "*What's happening? Why are so many people here?*\n\nHer mana crowded up under her ribs.",
+   "why": "Review: a thought that only asks what the prose has already shown. **This was the author's own line** (Part 1, call 4), so it's flagged.",
+   "decision": "accepted",
+   "decision_note": "The author's review (29 September).",
+   "after": "Her mana crowded up under her ribs."
+  },
+  {
+   "section": "The walk up",
+   "title": "Leorin's age, shorter",
+   "kind": "changed",
+   "tags": [
+    "round5"
+   ],
+   "before": "*That was Leorin. It can't have been, though. Leorin isn't old.*\n\n*But it was him, I know it was. My own cousin, bowing to me like he'd never seen me before. So why does he look so old? What happened?*",
+   "why": "Review: \"*Leorin isn't old.* would do.\" The cousin line stays (the author's round 1 and C1). **Cut from the author's own lines:** *So why does he look so old? What happened?* (Part 1, call 6).",
+   "decision": "accepted",
+   "decision_note": "The author's review (29 September).",
+   "after": "*Leorin isn't old. And my own cousin bowed to me like he'd never seen me before.*"
+  },
+  {
+   "section": "The walk up",
+   "title": "One palace thought, not two",
+   "kind": "cut",
+   "tags": [
+    "round5"
+   ],
+   "before": "*This is the palace. It has to be; I'd know the falls anywhere. So why don't I know where I am?*",
+   "why": "Review: *So I was in the palace after all* already says it, and the narration shows the corridors are wrong.",
+   "decision": "accepted",
+   "decision_note": "The author's review (29 September)."
+  },
+  {
+   "section": "The walk up",
+   "title": "The sum she won't finish",
+   "kind": "changed",
+   "tags": [
+    "round5"
+   ],
+   "before": "*How in the world did it grow so big? It was nowhere near that size this morning.*\n\n*How long was I in that room?*\n\nShe turned to him. \"Thaer, how long was I in there?\"",
+   "why": "Review: the evidence never adds up into one moment where she reasons until it breaks, the way Chapter 4's door did (\"Keeping who in? Me?\"). Leorin is \"white\", not \"grey\", as the page describes him. **Cut from the author's own lines:** *How long was I in that room?*, since she asks Thaer the same thing aloud straight after.",
+   "decision": "accepted",
+   "decision_note": "The author's review (29 September).",
+   "after": "*How in the world did it grow so big? It was nowhere near that size this morning.*\n\n*A tree doesn't grow like that in a year. Leorin didn't go white in one. So it's been…*\n\nShe didn't let herself finish it.\n\nShe turned to him. \"Thaer, how long was I in there?\""
+  },
+  {
+   "section": "The walk up",
+   "title": "The ship, unnamed for a beat",
+   "kind": "changed",
+   "tags": [
+    "round5"
+   ],
+   "before": "It was a ship. She had seen ships fly before, but never one that size.",
+   "why": "Review: \"It was a ship.\" was flat after the build; she fails to name it for a beat first.",
+   "decision": "accepted",
+   "decision_note": "The author's review (29 September).",
+   "after": "She couldn't make sense of it at first. Then the shape of it came together, and she knew it for a ship. She had seen ships fly before, but never one that size."
+  },
+  {
+   "section": "The night",
+   "title": "Pacing, without question lists",
+   "kind": "changed",
+   "tags": [
+    "round5"
+   ],
+   "before": "*Why is he so on edge? He's never been like this, not once.*\n\n*And those guards on the stairs, with their swords out, staring at me. What did they think I was going to do?*\n\n*Only that old servant smiled at me. Why him, when nobody else would even look at me?*\n\nThen there were voices outside.",
+   "why": "Review: all three repeat what the prose showed, and the old servant's smile is already noted on the stairs. **Cut from the author's own lines:** *Why is he so on edge? He's never been like this, not once.* (round 4 of the Chapter 4 design).",
+   "decision": "accepted",
+   "decision_note": "The author's review (29 September).",
+   "after": "Then there were voices outside."
+  },
+  {
+   "section": "The night",
+   "title": "No comment on Nereth",
+   "kind": "cut",
+   "tags": [
+    "round5"
+   ],
+   "before": "Seralune looked at her. *Well. At least someone in this palace says what she thinks.*",
+   "why": "Review: it explains Nereth straight after she's shown it. Trust the reader.",
+   "decision": "accepted",
+   "decision_note": "The author's review (29 September)."
   }
  ]
 }

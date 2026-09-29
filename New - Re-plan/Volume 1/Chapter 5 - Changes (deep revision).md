@@ -6,11 +6,12 @@ Started 29 September 2026. Chapter 5 was rewritten from the new design agreed in
 - **Round 2** (29 September, changes 2–5): the author's review, "Several things still keep it below the level of Chapter 4": Thaer's first look at her, Leorin's first words, her plea to Thaer, and "Sometime". Its first point, italics for her thoughts, needed no change: every thought is already in italics in the file, and a plain-text copy loses them.
 - **Round 3** (29 September, changes 6–11): the tray (the author: "say he was still looking at the tray, not the bread"), then the final pass the author asked for, "looking for errors, POV slips etc." The pass found no point-of-view slips, no continuity errors and no house-style faults. It found one unclear pronoun, one line that didn't fit where she was, and three repeats ("His eyes went…" four times, "Seralune looked…" twice in six lines, and a tenth "Then" that echoed the opening's "Then there were footsteps").
 - **Round 4** (29 September, changes 12–14, and change 11 edited): one last pass, at the author's request ("Do one last pass to make sure"). Again no point-of-view, continuity or house-style faults. Four small repeats: two "then"s in one sentence, "next" in two paragraphs side by side, "in her lap" three times (twice in a row), and "came" in the last two one-line paragraphs, which change 11 had introduced.
+- **Round 5** (29 September, changes 15–23): the author's review, "What needs work": fewer question-list thoughts and more that reason; no repeated thoughts; one moment where she adds the evidence up and stops; Seralune's line about Nereth cut; two point-of-view fixes.
 
 ## At a glance
 
-- **14 changes proposed.** 0 rejected so far, so 14 are in the chapter: 14 rewritten, 0 cut and 0 added.
-- **Length:** 3,201 words before, 3,143 after.
+- **22 changes proposed.** 0 rejected so far, so 22 are in the chapter: 20 rewritten, 2 cut and 0 added.
+- **Length:** 3,201 words before, 3,054 after.
 - **Median paragraph:** 14 words before, 13 after. The house target is roughly 14–22.
 - **"Nothing":** 1 times before, 1 after.
 
@@ -36,6 +37,14 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 12, Leorin's eyes:** A craft fix from the last pass.
 - **Change 13, "At the corner":** A craft fix from the last pass.
 - **Change 14, "From the bed":** A craft fix from the last pass.
+- **Change 15, "Before he stopped too":** The author's review (29 September).
+- **Change 16, The guards: no question list:** The author's review (29 September).
+- **Change 17, Leorin's age, shorter:** The author's review (29 September).
+- **Change 18, One palace thought, not two:** The author's review (29 September).
+- **Change 19, The sum she won't finish:** The author's review (29 September).
+- **Change 20, The ship, unnamed for a beat:** The author's review (29 September).
+- **Change 21, Pacing, without question lists:** The author's review (29 September).
+- **Change 22, No comment on Nereth:** The author's review (29 September).
 
 ## The changes
 
@@ -43,7 +52,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 1. The window, without the bread
 
-*Draft lines 315–319 → revised lines 313–315*
+*Draft lines 315–319 → revised lines 301–303*
 
 **Before**
 
@@ -85,7 +94,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 3. "What have you done?"
 
-*Draft lines 53–55 → revised line 53*
+*Draft lines 53–55 → revised line 51*
 
 **Before**
 
@@ -105,7 +114,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 4. "You're all I have"
 
-*Draft line 221 → revised line 219*
+*Draft line 221 → revised line 209*
 
 **Before**
 
@@ -123,7 +132,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 5. "Sometime in the night"
 
-*Draft line 263 → revised line 261*
+*Draft line 263 → revised line 251*
 
 **Before**
 
@@ -141,7 +150,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 6. Looking at the tray
 
-*Draft line 231 → revised line 229*
+*Draft line 231 → revised line 219*
 
 **Before**
 
@@ -177,7 +186,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 8. "Couldn't keep still"
 
-*Draft line 169 → revised line 167*
+*Draft line 169 → revised line 163*
 
 **Before**
 
@@ -193,7 +202,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 9. Whose bare feet
 
-*Draft line 281 → revised line 279*
+*Draft line 281 → revised line 269*
 
 **Before**
 
@@ -209,7 +218,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 10. The binding
 
-*Draft line 299 → revised line 297*
+*Draft line 299 → revised line 285*
 
 **Before**
 
@@ -225,7 +234,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 11. The last footsteps
 
-*Draft line 325 → revised line 321*
+*Draft line 325 → revised line 309*
 
 **Before**
 
@@ -243,7 +252,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 12. Leorin's eyes
 
-*Draft line 71 → revised line 69*
+*Draft line 71 → revised line 67*
 
 **Before**
 
@@ -261,7 +270,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 13. "At the corner"
 
-*Draft line 107 → revised line 105*
+*Draft line 107 → revised line 99*
 
 **Before**
 
@@ -279,7 +288,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 14. "From the bed"
 
-*Draft line 311 → revised line 309*
+*Draft line 311 → revised line 297*
 
 **Before**
 
@@ -292,3 +301,155 @@ Each of these needs a yes or no from you. It adds something about a character or
 **Why.** Last pass: "in her lap" three times (her hands before Thaer comes back, then Nereth's, then hers here), the last two in paragraphs side by side.
 
 **Your decision.** A craft fix from the last pass.
+
+### The chamber
+
+#### 15. "Before he stopped too"
+
+*Draft line 35 → revised line 35*
+
+**Before**
+
+> She stopped walking. His hand dragged at her arm for a step before he felt it, and then he stopped too.
+
+**After**
+
+> She stopped walking. His hand dragged at her arm for a step, and then he stopped too.
+
+**Why.** Review: she can't know when he felt it.
+
+**Your decision.** The author's review (29 September).
+
+### Leorin at the foot of the stairs
+
+#### 16. The guards: no question list
+
+*Draft lines 45–47 → revised line 45*
+
+**Before**
+
+> *What's happening? Why are so many people here?*
+>
+> Her mana crowded up under her ribs.
+
+**After**
+
+> Her mana crowded up under her ribs.
+
+**Why.** Review: a thought that only asks what the prose has already shown. **This was the author's own line** (Part 1, call 4), so it's flagged.
+
+**Your decision.** The author's review (29 September).
+
+### The walk up
+
+#### 17. Leorin's age, shorter
+
+*Draft lines 81–83 → revised line 77*
+
+**Before**
+
+> *That was Leorin. It can't have been, though. Leorin isn't old.*
+>
+> *But it was him, I know it was. My own cousin, bowing to me like he'd never seen me before. So why does he look so old? What happened?*
+
+**After**
+
+> *Leorin isn't old. And my own cousin bowed to me like he'd never seen me before.*
+
+**Why.** Review: "*Leorin isn't old.* would do." The cousin line stays (the author's round 1 and C1). **Cut from the author's own lines:** *So why does he look so old? What happened?* (Part 1, call 6).
+
+**Your decision.** The author's review (29 September).
+
+#### 18. One palace thought, not two
+
+*Draft line 99 · cut*
+
+**Before**
+
+> *This is the palace. It has to be; I'd know the falls anywhere. So why don't I know where I am?*
+
+**After:** cut.
+
+**Why.** Review: *So I was in the palace after all* already says it, and the narration shows the corridors are wrong.
+
+**Your decision.** The author's review (29 September).
+
+#### 19. The sum she won't finish
+
+*Draft lines 129–133 → revised lines 121–127*
+
+**Before**
+
+> *How in the world did it grow so big? It was nowhere near that size this morning.*
+>
+> *How long was I in that room?*
+>
+> She turned to him. "Thaer, how long was I in there?"
+
+**After**
+
+> *How in the world did it grow so big? It was nowhere near that size this morning.*
+>
+> *A tree doesn't grow like that in a year. Leorin didn't go white in one. So it's been…*
+>
+> She didn't let herself finish it.
+>
+> She turned to him. "Thaer, how long was I in there?"
+
+**Why.** Review: the evidence never adds up into one moment where she reasons until it breaks, the way Chapter 4's door did ("Keeping who in? Me?"). Leorin is "white", not "grey", as the page describes him. **Cut from the author's own lines:** *How long was I in that room?*, since she asks Thaer the same thing aloud straight after.
+
+**Your decision.** The author's review (29 September).
+
+#### 20. The ship, unnamed for a beat
+
+*Draft line 121 → revised line 113*
+
+**Before**
+
+> It was a ship. She had seen ships fly before, but never one that size.
+
+**After**
+
+> She couldn't make sense of it at first. Then the shape of it came together, and she knew it for a ship. She had seen ships fly before, but never one that size.
+
+**Why.** Review: "It was a ship." was flat after the build; she fails to name it for a beat first.
+
+**Your decision.** The author's review (29 September).
+
+### The night
+
+#### 21. Pacing, without question lists
+
+*Draft lines 171–177 → revised line 165*
+
+**Before**
+
+> *Why is he so on edge? He's never been like this, not once.*
+>
+> *And those guards on the stairs, with their swords out, staring at me. What did they think I was going to do?*
+>
+> *Only that old servant smiled at me. Why him, when nobody else would even look at me?*
+>
+> Then there were voices outside.
+
+**After**
+
+> Then there were voices outside.
+
+**Why.** Review: all three repeat what the prose showed, and the old servant's smile is already noted on the stairs. **Cut from the author's own lines:** *Why is he so on edge? He's never been like this, not once.* (round 4 of the Chapter 4 design).
+
+**Your decision.** The author's review (29 September).
+
+#### 22. No comment on Nereth
+
+*Draft line 293 · cut*
+
+**Before**
+
+> Seralune looked at her. *Well. At least someone in this palace says what she thinks.*
+
+**After:** cut.
+
+**Why.** Review: it explains Nereth straight after she's shown it. Trust the reader.
+
+**Your decision.** The author's review (29 September).

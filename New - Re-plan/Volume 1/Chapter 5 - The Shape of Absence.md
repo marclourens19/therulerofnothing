@@ -32,7 +32,7 @@ He didn't answer. He took her by the arm, turned her away from the crystal and w
 
 There was a passage outside, with lamps burning along its walls. Her eyes watered, and she blinked until she could make out the stone, and the stairs at the far end of it, going up out of sight. She didn't know any of it.
 
-She stopped walking. His hand dragged at her arm for a step before he felt it, and then he stopped too.
+She stopped walking. His hand dragged at her arm for a step, and then he stopped too.
 
 "Where are we? What happened to me? Thaer, please—"
 
@@ -41,8 +41,6 @@ She stopped walking. His hand dragged at her arm for a step before he felt it, a
 Then there were footsteps above them, a great many, coming down fast. Thaer let go of her arm and stepped in front of her, with his hand on his sword.
 
 Guards came down into the lamplight with their swords drawn. The first of them saw her and stopped so suddenly that the ones behind walked into his back, and after that none of them came any further. They stood on the stairs and stared at her. The nearest one's knuckles had gone white on his hilt, and the one behind him backed up a step without seeming to know he'd done it.
-
-*What's happening? Why are so many people here?*
 
 Her mana crowded up under her ribs.
 
@@ -76,9 +74,7 @@ Leorin stepped back against the wall to let them pass, and the guards on the sta
 
 The stairs went on and on. Thaer took them fast, with his hand closed round her arm, and he didn't look at her once. Her legs had been shaking since she stood up in that room, and her bare feet were numb on the stone. By the first turning, she was leaning on him with every step. The guards followed at a distance, with their swords still out, and Leorin's voice went on among them, too low to make out.
 
-*That was Leorin. It can't have been, though. Leorin isn't old.*
-
-*But it was him, I know it was. My own cousin, bowing to me like he'd never seen me before. So why does he look so old? What happened?*
+*Leorin isn't old. And my own cousin bowed to me like he'd never seen me before.*
 
 She looked up at Thaer. He was watching the stairs ahead of them, and his face was the one she had seen this morning, not a day older.
 
@@ -93,8 +89,6 @@ The falls.
 The sound grew with every turn of the stairs, until it was under everything again, as it always had been.
 
 At the top, that sound was the only thing she knew. The falls were off to her left, exactly where they should have been, but the corridor ran straight on where it should have turned towards them, and there were doors all along it where she remembered bare wall.
-
-*This is the palace. It has to be; I'd know the falls anywhere. So why don't I know where I am?*
 
 There were servants in the corridor, even at this hour, and they pressed themselves back against the walls as Thaer brought her past. Some of them bowed. Some forgot to, until the person beside them pulled them down. Not one of them would look at her for long, and she didn't know a single face.
 
@@ -116,7 +110,7 @@ Something was moving over the forest.
 
 It was so big that at first she took it for a cloud. Then she saw the light along its underside, lines of it, blue-green, running the whole length of it. It was long and dark and plated all over, and it hummed so low that she felt it in her chest more than she heard it over the falls.
 
-It was a ship. She had seen ships fly before, but never one that size.
+She couldn't make sense of it at first. Then the shape of it came together, and she knew it for a ship. She had seen ships fly before, but never one that size.
 
 Thaer had stopped beside her. He watched it until it was far out over the forest, going away from them, and he didn't say a word.
 
@@ -126,7 +120,9 @@ It was still there, with its branches reaching out over the water on both sides,
 
 *How in the world did it grow so big? It was nowhere near that size this morning.*
 
-*How long was I in that room?*
+*A tree doesn't grow like that in a year. Leorin didn't go white in one. So it's been…*
+
+She didn't let herself finish it.
 
 She turned to him. "Thaer, how long was I in there?"
 
@@ -165,12 +161,6 @@ She let out a long breath. "Well. This is getting me nowhere." The maid hadn't m
 "Nereth, Your Highness."
 
 Seralune couldn't keep still. She walked from the fire to the window and back again, and her legs still shook, and she walked anyway.
-
-*Why is he so on edge? He's never been like this, not once.*
-
-*And those guards on the stairs, with their swords out, staring at me. What did they think I was going to do?*
-
-*Only that old servant smiled at me. Why him, when nobody else would even look at me?*
 
 Then there were voices outside.
 
@@ -287,8 +277,6 @@ The first guard kept his eyes on Seralune all the way to the door. It shut behin
 "I'm sorry," Seralune said to Nereth's back. "I shouldn't have shouted at you. None of this is your doing."
 
 Nereth turned round. "No, Your Highness. You shouldn't have."
-
-Seralune looked at her. *Well. At least someone in this palace says what she thinks.*
 
 Nereth's eyes had gone to Seralune's hand, where the cut had opened again. "You're bleeding. May I?"
 
