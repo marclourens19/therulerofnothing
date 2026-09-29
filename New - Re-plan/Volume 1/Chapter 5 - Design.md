@@ -1,6 +1,6 @@
 # Chapter 5: Design
 
-Started 29 September 2026. **Status:** the design and the dialogue are agreed ("that room", 29 September). **Chapter 5 – The Shape of Absence** (`Chapter 5 - The Shape of Absence.md`, 2,190 words; first titled "Yesterday's Memories") is one chapter, after the author's "Combine both chapters, no need for Part 1 and Part 2, since it's a short chapter in total." Its title and first line were settled on 29 September (below). **Since 29 September it's being revised in depth.** The author finds it too short and too thin in content, and shared a deep revision plan (`Chapter 5 - Deep Revision Plan.md`). Rounds 1 and 2 on it are answered, and the new design is agreed. **The dialogue round is waiting on the author:** see "The deep revision: dialogue round" at the end of this file.
+Started 29 September 2026. **Status:** the design and the dialogue are agreed ("that room", 29 September). **Chapter 5 – The Shape of Absence** (`Chapter 5 - The Shape of Absence.md`, 2,190 words; first titled "Yesterday's Memories") is one chapter, after the author's "Combine both chapters, no need for Part 1 and Part 2, since it's a short chapter in total." Its title and first line were settled on 29 September (below). **Since 29 September it's being revised in depth.** The author finds it too short and too thin in content, and shared a deep revision plan (`Chapter 5 - Deep Revision Plan.md`). Rounds 1 and 2 on it are answered, and the new design is agreed. The dialogue round is answered. **Waiting on the author:** confirming six reworked lines, then the go-ahead to write ("The reworked lines", at the end of this file).
 
 **How this chapter gets written** (the author, 29 September): the design is agreed first, then we plan dialogue options for the key exchanges, and only then does Claude write, after saying it's ready and getting the go-ahead. The go-ahead came on 29 September: "Agreed with the room, write part 1 first."
 
@@ -716,3 +716,44 @@ For each exchange there are two versions: the recommended one first, then an alt
 - **O1 (recommended):** *They've stopped. Does that mean it's finished?*
 - **O2:** *They've finished.*
 - O1 keeps it a question, the way she thinks in the moment.
+
+**Answers (29 September).**
+- **A:** the author's version: "'I'm here now, Seralune.' / 'Where were you? I was calling and calling, and thought you'd never come.' Something like this."
+- **B:** B1. **C:** C1. **D:** D2. **F:** F1. **H:** H1. **J:** J2. **K:** K2. **L:** L1. **M:** M2.
+- **E:** "Make it like something Alisaie would think."
+- **G:** "Make it something Alisaie would think."
+- **I:** "I2, but say what's happened while I was in that room. Something like this."
+- **N:** "I prefer the one we came up with." *Claude's reading, to confirm:* N2, *They're mending it, and it's for me.*, the line from the Part 2 draft.
+- **O:** "Make it match N's thought process."
+- **Z** (did Thaer allow the repair?) wasn't answered. It changes nothing in Chapter 5, so it stays open.
+
+### The reworked lines (29 September, to confirm)
+
+**A.** Her new line already says she called, so "calling and calling" would repeat it. The meaning is kept, and his silence answers "Where were you?":
+> "I don't know." Her voice came out cracked and dry, and she had to swallow before she could go on. "All day, I think. I called and called, and nobody came."
+>
+> His hands tightened on her shoulders. "I'm here now, Seralune."
+>
+> "Where were you? I thought you'd never come."
+>
+> His eyes went back to the crystal.
+
+**E.** The Alisaie way, as in Chapter 4 (*So I'm alive, freezing… Very well. Before I do anything else, I need to find out where I am.*): she's sure of what she knows, reasons from it, and stops short of the answer she doesn't want. Then "Well. This is getting me nowhere." is her turning to the next thing, as now.
+> *Never heard of Elowen? How? She's by my side every day. She sat up with me every night until I could read, with her finger under every word, and this girl has never even heard her name.*
+>
+> *So she's new, or she's lying to me, or…*
+
+**G.** After the voices stop, and before his knock:
+> *Very well. I won't say a word about what I heard. Let's see if my brother tells me himself.*
+
+**I.** Holding his arm:
+> "Leorin's an old man, Thaer. What happened while I was in that room?"
+
+**N.** *They're mending it, and it's for me.* "It" has to be clear (the author's own rule from Chapter 2), so the narration just before it turns her mind to the crystal lying split open down there, and to the word she heard through the door.
+
+**O.** The same thought process as N, a plain conclusion about herself:
+> *They've stopped. It's mended, then.*
+
+Then the footsteps, the two knocks, the door staying shut, and "Thaer?", which is now hope that it's her brother and not whoever mended it.
+
+**Once these are confirmed, the chapter is ready to write,** and Claude waits for the author's go-ahead.

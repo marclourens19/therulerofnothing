@@ -502,6 +502,18 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - **Leorin can argue with Thaer, but can't make him do anything:** "Yes" to Claude's reading. While the king is away, the court and the guards obey Leorin; nobody can make a Ruler do anything.
   - **Leorin ordered the crystal repaired.** *To confirm:* whether Thaer allowed it or Leorin did it without him (dialogue round, question Z).
   - The dialogue round is in `Volume 1/Chapter 5 - Design.md` ("The deep revision: dialogue round").
+- **The deep revision, dialogue round (29 September).** Chosen, as written in `Volume 1/Chapter 5 - Design.md`:
+  - Leorin: "You should never have opened that door." / Thaer: "Would you rather I'd left her in there?" Leorin doesn't answer.
+  - On the stairs: *My own cousin, bowing to me like he'd never seen me before.* Thaer's face is "not a day older": *And Thaer hasn't changed at all.*
+  - On the gallery: "Thaer, how long was I in there?"
+  - Through the door: "…needs to be sealed, Thaeroval, and tonight." / "At least wait until my father has returned. He'll have answers." / "He'll be gone for weeks. Until he's back, I speak for him." / "Not about her. No one touches my sister."
+  - "Did I do something wrong?…" / "No.", at once. Then "Then what was that room, Thaer?" / "You haven't eaten."
+  - After the lock: *He didn't tell me.*
+  - In the night: *Father will listen to me. He has to.* / *And Mother? Mother would never let them do this to me.*
+  - The guards: "Nereth, get out of the way." She doesn't move; the second guard lowers his sword ("Leave it."); "And if she—" / "Then I'll call you." She never tells them no.
+  - Nereth's answer to the sorry: "No, Your Highness. You shouldn't have." Then she sees to the cut hand (the author chose this edge over the more composed option).
+  - The blows, answered: *They're mending it, and it's for me.* (Claude's reading of "the one we came up with", to confirm.)
+  - *To confirm:* Claude's reworks of the author's notes on A (Thaer's "I'm here now, Seralune." / "Where were you? I thought you'd never come."), E and G (in Alisaie's voice), I ("Leorin's an old man, Thaer. What happened while I was in that room?") and O (*They've stopped. It's mended, then.*).
 - *Open:* Nereth's first disobedience ("still undecided", handoff §15.10).
 
 ## Chapter 6
