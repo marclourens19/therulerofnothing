@@ -1,6 +1,6 @@
 # Chapter 4: Design
 
-**Update (29 September).** The draft was revised outside this repository and accepted as `Chapter 4 - A Promise Left Fractured.md`; `Chapter 4 - Changes.md` shows the five changes. Chapter 5's order and lines below are still the agreed base. What the handoff changes in them, and the structure of Chapters 5–10, are worked through in `Chapters 5-10 - Design.md`.
+**Update (29 September).** The draft was revised outside this repository and accepted as `Chapter 4 - A Promise Left Fractured.md`; `Chapter 4 - Changes.md` shows the five changes. Chapter 5's order and lines below are still the agreed base. What the handoff changes in them, and the structure of Chapters 5–10, are worked through in `Chapters 5-15 - Outline.md`.
 
 Started 27 September 2026. **Status:** rounds 1–5 answered. The first draft of Chapter 4 is written: `Chapter 4 - Before Evening.md`, compared with the old coda in `Chapter 4 - From the Old Chapters.md`, with eight calls for the author. Chapter 5's lines are agreed; Chapter 5 is written after Chapter 4 is settled. This is the plan for Chapters 4 and 5, Seralune's first two chapters, agreed one question at a time before any writing, following the `chapter-rewrite` skill.
 

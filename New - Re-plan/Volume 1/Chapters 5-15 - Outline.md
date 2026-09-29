@@ -1,6 +1,6 @@
-# Chapters 5–10: Design
+# Chapters 5–15: Outline
 
-Started 29 September 2026. **Status:** round 1 answered; round 2 asked.
+Started 29 September 2026 as the design of Chapters 5–10. **Status:** rounds 1 and 2 answered. After round 2 this file is a **rough outline** of Chapters 5–15. The author: "I prefer designing chapter by chapter. The 5–15 can be a rough idea of what happens. I prefer going into detail on the current chapter." The current chapter's detail is in `Chapter 5 - Design.md`.
 
 The author: "We can design chapters 5–10, the design of them / structure, not the actual content yet." So this file settles what each chapter is for: whose eyes, where it starts and ends, what the viewpoint character wants, the choice that turns it, what's different by the end, the small answer it pays, and the hook. Scenes and lines come later, one chapter at a time, as they did for Chapters 2–4.
 
@@ -55,6 +55,7 @@ Chapters 3 and 5 end at the same first light, and nothing on the page needs to s
 | **8** | Alaric | Kelmend and Marta's inn (moved from Chapter 6 by round 1) | What is he, to people who can see it? | He accepts shelter that has to be earned | "Empty" stops being Gerolt's word and becomes a danger | Darcy, and the price on the Faint quarter |
 | **9** | Alaric | Kelmend's Faint quarter | Whose lives does the hierarchy spend? | He decides to help, knowing it costs other people | Redd and Freya are in it with him | Open (round 2) |
 | **10** | Seralune | After the escape | What did her imprisonment cost Natharul, and Nereth? | Open (round 2) | Open | Open |
+| 11–15 | *Rough* | Kelmend, and leaving it | Roughly: the fort, Darcy's refusal and the route she gives him, a Seralune chapter after Chapter 10, and leaving Kelmend. None of it is placed yet. | | | |
 
 The fort and Darcy's refusal stay in Volume 1 (round 1); which chapters they take is for later. **Revised after round 1:** Chapter 6 is now a day on the road, so Marta's door moves to Chapter 8, and the rows for Chapters 8–10 are held loosely until round 2.
 
@@ -178,4 +179,11 @@ The heading on the answers said "Chapters 5–15" (round 2, question 1).
    - What turns the day, as you see it?
    - *My suggestion, to change freely:* Alaric acts on his distrust. He tries to go on to Kelmend alone, because Gerolt told him Marta and Silas won't tell him anything. It goes wrong in a small way, Silas has to come after him, and Silas doesn't win cleanly (the review note).
    - *Where it ends:* *Recommended,* at night outside Kelmend, with Marta's door in Chapter 8.
+
+**Answers (29 September).**
+1. **Scope:** "Yes, but another thing: I prefer designing chapter by chapter. The 5–15 can be a rough idea of what happens. I prefer going into detail on the current chapter." So this file stays rough, and Chapter 5's detail moves to `Chapter 5 - Design.md`.
+2. **"Sealed", not "sealed again":** "I agree completely." She catches "…sealed…", and the last step is hers: *Who? Me? Sealed?*, then *Is that what that room was?*
+3. **Thaer's line:** "A, but we can refine it like '… wait until… my father… returned… answers.' Something like this." So through the door she catches Thaer only in pieces, the way she catches Leorin. The whole line, for us: "At least wait until my father has returned. He'll have answers." What she hears is worked out in `Chapter 5 - Design.md`.
+4. **When Thaer comes back:** "I agree with your first bit." She keeps what she heard to herself, asks what they're going to do with her, and gives him the chance to tell her the truth. He tells her to rest.
+5. **Chapter 6:** "Let's discuss it after we have completed Chapter 5 Part 1 and Part 2 story design."
 

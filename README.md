@@ -26,7 +26,8 @@ The story is being re-planned from the beginning. Current work lives in **New - 
   - `Chapter N - Changes (line pass).md`: the line pass of Chapters 1–3 (28–29 September), change by change. Later rounds go on these lists.
   - `Chapter 4 - Design.md`: the plan for Chapters 4 and 5, Seralune's first two chapters, agreed question by question (27 September).
   - `Chapter 4 - A Promise Left Fractured.md`: Seralune's first chapter. Its first draft was titled "Before Evening"; `Chapter 4 - Changes.md` shows how it became the accepted chapter, and `Chapter 4 - From the Old Chapters.md` compares it with the old coda.
-  - `Chapters 5-10 - Design.md`: the structure of Chapters 5–10, agreed question by question (started 29 September).
+  - `Chapters 5-15 - Outline.md`: a rough outline of Chapters 5–15. The detail is designed one chapter at a time.
+  - `Chapter 5 - Design.md`: the design of Chapter 5, in two parts, agreed question by question (started 29 September).
   - `Drafts/`: earlier versions of the chapters, kept unchanged.
 
 ## The rewriting skill

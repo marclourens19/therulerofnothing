@@ -22,6 +22,8 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
   - A verbal tic ("Lad", "Look here", "Again. Slowly") isn't a voice. Voice comes from motive, relationship, rhythm, evasion, humour, vocabulary and what the character is willing to admit.
   - Every line is after something: an answer, reassurance, concealment, control, connection, resistance or a decision.
   - Short paragraphs and fragments are tools for real changes in perception, decision, danger or feeling, not the default rhythm.
+- **Never write a chapter without warning** (29 September). The author: "Before you write any chapter, let me know in advance so I can read the chapter design first, and we can plan some dialogue options before then write the chapter." So the order is: the chapter's design, agreed; then a round of dialogue options for its key exchanges; then Claude says it's ready to write and waits for the go-ahead.
+- **Design one chapter at a time** (29 September). "I prefer designing chapter by chapter. The 5–15 can be a rough idea of what happens. I prefer going into detail on the current chapter." A plan across several chapters stays rough; the detail goes into the current chapter's own design file.
 - **A one-line fix is still prose** (29 September). Claude's fix "He had the sword and wanted to help. He tried to go down to Gerolt, but his knees would not unlock." was "writing sentences in a robotic manner": two short "He…" sentences side by side read like a list, and "his knees would not unlock" reads like a report. A fix gets the same test as a new paragraph: does it run the way his thought would run?
 - **Challenge the author's lines too, and offer a better-built one** (29 September). "I want you to always challenge me and ask questions, which is good." "If you have a better constructed sentence, tell me." So when the author offers a line, check it against the page (where the character is, what they've just done, what they can know) and say what doesn't fit, with a version that keeps what they meant.
 - **Keep the statuses apart** (handoff §12). Decided, inherited-but-not-contradicted, later-volume concept and open are different things. Settle one mechanism at a time, and record whether the author approves it, rejects it or keeps it open.
@@ -447,22 +449,23 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 
 **Its order and its lines were agreed on 27 September,** in `Volume 1/Chapter 4 - Design.md` ("Chapter 5, the order", approved in round 3, and "The lines, version 2"). It runs from the embrace in the chamber to first light, and ends on the knock, with Cyrandor unseen behind the door. Her escape is Chapter 7, after Alaric's Chapter 6.
 
-**The handoff adds** (28–29 September). Where it changes the agreed design, the design is now being worked through in `Volume 1/Chapters 5-10 - Design.md`.
+**The handoff adds** (28–29 September). Where it changes the agreed design, the design is now being worked through in `Volume 1/Chapters 5-15 - Outline.md`.
 
 - **It may be split into Part One and Part Two** rather than rushing its revelations (handoff §14.2).
 - **Seralune's state** (handoff §15.2). She remembers being a princess yesterday. She wakes to people who are frightened of her, evade her questions and may be deciding what to do with her. She is confused, alarmed and distrustful: what happened, why will nobody answer, why are they afraid of her, what are they planning? She doesn't meekly accept explanations, or act as if she has already adjusted to the present.
 - **Cyrandor's knock is different from Thaer's.** Seralune is so caught up in what happened, and in what Thaer might say, that she first assumes it's Thaer at the door (handoff §14.2). *This changes the agreed ending, where the knocks were "spaced exactly like Thaer's".*
 - **Thaeroval regrets the ancient sealing** and hopes their father may also change his mind. He doesn't want to reseal her straight away, and delays while he holds on to that hope (handoff §14.2). *This changes "stays exactly as written"; see Thaeroval.*
-- **Round 1 of `Volume 1/Chapters 5-10 - Design.md` (29 September):**
+- **Round 1 of `Volume 1/Chapters 5-15 - Outline.md` (29 September):**
   - **Two parts:** "Yes, agreed. We can break it down further during chapter questions, but that is an okay direction for now." Part 1 runs from the embrace to "Where's Elowen?"; Part 2 from there to the knock.
   - **The knock:** "Her mind is registering any knock as Thaer in this moment, so regardless of who knocks she would assume it's Thaeroval." Thaer knocks twice and walks straight in (Chapter 4); this knocker knocks and waits, and she says "Thaer?" anyway.
-  - **Through the door** (the author's version, replacing the clear speeches in version 2 of the lines): she paces, frustrated that no one tells her anything and worried, because she has never seen her brother act like this. She hears voices outside and goes to listen. It's mumbled, and she can't make it out: "Is that Thaer speaking? And who else?" She catches something like "She needs to be sealed again", and backs away, shocked: "Who? Me? Sealed? No way." *(Whether she hears "again" is round 2.)*
-  - **Thaer's line through the door** (the author's rough versions): "At least wait for my father to return, he should have answers." Or "Let me speak to her properly first", because last time he didn't, he just sealed her. *(The wording, and whether the second belongs here, are round 2.)*
+  - **Through the door** (the author's version, replacing the clear speeches in version 2 of the lines): she paces, frustrated that no one tells her anything and worried, because she has never seen her brother act like this. She hears voices outside and goes to listen. It's mumbled, and she can't make it out: "Is that Thaer speaking? And who else?" She catches something like "She needs to be sealed again", and backs away, shocked: "Who? Me? Sealed? No way." *Round 2:* she hears "…sealed…", not "again", so the last step is hers: *Who? Me? Sealed?*, then *Is that what that room was?*
+  - **Thaer's line through the door** (the author's rough versions): "At least wait for my father to return, he should have answers." Or "Let me speak to her properly first", because last time he didn't, he just sealed her. *Round 2:* the first, as A: "At least wait until my father has returned. He'll have answers." She catches it in pieces through the door ("… wait until… my father… returned… answers", the author's sketch). The second ("last time he just sealed her") is saved for a scene where she hears it to his face.
+  - **When Thaer comes back** (round 2): she keeps what she heard to herself, asks what they're going to do with her, and gives him the chance to tell her the truth. He tells her to rest.
 - *Open:* what each part's dramatic question is, and Nereth's first disobedience ("still undecided", handoff §15.10).
 
 ## Chapter 6
 
-- **A day on the road first** (29 September). The author: "I recommend having a day on the road first, having Alaric distrust Silas, and Silas not responding to questions." So Marta's door moves to a later Alaric chapter. What turns the day is round 2 of `Volume 1/Chapters 5-10 - Design.md`.
+- **A day on the road first** (29 September). The author: "I recommend having a day on the road first, having Alaric distrust Silas, and Silas not responding to questions." So Marta's door moves to a later Alaric chapter. What turns the day is round 2 of `Volume 1/Chapters 5-15 - Outline.md`.
 
 ## Alaric
 
@@ -830,7 +833,7 @@ Not in the central cast yet, and not locked (handoff §7, §14.3).
 Each of these is open. The handoff's recommendation, where it has one, is in the section named.
 
 - **Chapter 5.** Seralune's first active choice (§15.2), the dramatic question of each part (§14.2), and Nereth's first disobedience (§15.10).
-- **The Volume 1 structure.** The proposed 50–54 chapters in nine movements (§19, and `Volume 1 Structural Map - Proposal.md`): discussion, not canon. **Next (29 September):** "We can design chapters 5–10, the design of them / structure, not the actual content yet." That work is in `Volume 1/Chapters 5-10 - Design.md`.
+- **The Volume 1 structure.** The proposed 50–54 chapters in nine movements (§19, and `Volume 1 Structural Map - Proposal.md`): discussion, not canon. **Next (29 September):** "We can design chapters 5–10, the design of them / structure, not the actual content yet." That work is in `Volume 1/Chapters 5-15 - Outline.md`.
 - **The core's answer.** What Alaric actually gets from it, and in how many stages (§14.2, §19.5 proposes three: the Silent Field, Foramen, Favale).
 - **Foramen.** Does Kurdag hide the cost of living there, or do its people choose the risk knowing it (§14.2)? Does it expel Alaric, or does he leave by choice (§14.2, §19.4)?
 - **Inrandeel.** Who destroyed or removed the independent elves, and what concrete clue sends Seralune on to Favale (§14.2)?
