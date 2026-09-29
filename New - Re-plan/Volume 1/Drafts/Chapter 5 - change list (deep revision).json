@@ -3,7 +3,7 @@
  "draft": "Chapter 5 - The Shape of Absence (Draft 4, the deep revision).md",
  "chapter": "../Chapter 5 - The Shape of Absence.md",
  "changes_file": "../Chapter 5 - Changes (deep revision).md",
- "intro_md": "Started 29 September 2026. Chapter 5 was rewritten from the new design agreed in `Chapter 5 - Design.md` (\"The deep revision\"), and the rewrite is compared with the version before it, scene by scene, in `Chapter 5 - What the Deep Revision Changed.md`. Its first draft is saved unchanged as `Drafts/Chapter 5 - The Shape of Absence (Draft 4, the deep revision).md`, and every round from here is a change against it. The version before the deep revision is `Drafts/Chapter 5 - The Shape of Absence (Draft 3, before the deep revision).md`, written by `Drafts/Chapter 5 - change list.json`.\n\n- **Round 1** (29 September, change 1): the author's note on the window and the bread: \"I don't agree she should eat, and remove 'sill'. [Stop] putting buzz words.\"\n- **Round 2** (29 September, changes 2–5): the author's review, \"Several things still keep it below the level of Chapter 4\": Thaer's first look at her, Leorin's first words, her plea to Thaer, and \"Sometime\". Its first point, italics for her thoughts, needed no change: every thought is already in italics in the file, and a plain-text copy loses them.\n- **Round 3** (29 September, changes 6–11): the tray (the author: \"say he was still looking at the tray, not the bread\"), then the final pass the author asked for, \"looking for errors, POV slips etc.\" The pass found no point-of-view slips, no continuity errors and no house-style faults. It found one unclear pronoun, one line that didn't fit where she was, and three repeats (\"His eyes went…\" four times, \"Seralune looked…\" twice in six lines, and a tenth \"Then\" that echoed the opening's \"Then there were footsteps\").\n- **Round 4** (29 September, changes 12–14, and change 11 edited): one last pass, at the author's request (\"Do one last pass to make sure\"). Again no point-of-view, continuity or house-style faults. Four small repeats: two \"then\"s in one sentence, \"next\" in two paragraphs side by side, \"in her lap\" three times (twice in a row), and \"came\" in the last two one-line paragraphs, which change 11 had introduced.\n- **Round 5** (29 September, changes 15–23): the author's review, \"What needs work\": fewer question-list thoughts and more that reason; no repeated thoughts; one moment where she adds the evidence up and stops; Seralune's line about Nereth cut; two point-of-view fixes.\n- **Round 6** (29 September, changes 23–24): the blows and their stopping, in the author's words (\"I still don't like these two lines… It sounds like they are doing something to it / The noises… They've stopped\").",
+ "intro_md": "Started 29 September 2026. Chapter 5 was rewritten from the new design agreed in `Chapter 5 - Design.md` (\"The deep revision\"), and the rewrite is compared with the version before it, scene by scene, in `Chapter 5 - What the Deep Revision Changed.md`. Its first draft is saved unchanged as `Drafts/Chapter 5 - The Shape of Absence (Draft 4, the deep revision).md`, and every round from here is a change against it. The version before the deep revision is `Drafts/Chapter 5 - The Shape of Absence (Draft 3, before the deep revision).md`, written by `Drafts/Chapter 5 - change list.json`.\n\n- **Round 1** (29 September, change 1): the author's note on the window and the bread: \"I don't agree she should eat, and remove 'sill'. [Stop] putting buzz words.\"\n- **Round 2** (29 September, changes 2–5): the author's review, \"Several things still keep it below the level of Chapter 4\": Thaer's first look at her, Leorin's first words, her plea to Thaer, and \"Sometime\". Its first point, italics for her thoughts, needed no change: every thought is already in italics in the file, and a plain-text copy loses them.\n- **Round 3** (29 September, changes 6–11): the tray (the author: \"say he was still looking at the tray, not the bread\"), then the final pass the author asked for, \"looking for errors, POV slips etc.\" The pass found no point-of-view slips, no continuity errors and no house-style faults. It found one unclear pronoun, one line that didn't fit where she was, and three repeats (\"His eyes went…\" four times, \"Seralune looked…\" twice in six lines, and a tenth \"Then\" that echoed the opening's \"Then there were footsteps\").\n- **Round 4** (29 September, changes 12–14, and change 11 edited): one last pass, at the author's request (\"Do one last pass to make sure\"). Again no point-of-view, continuity or house-style faults. Four small repeats: two \"then\"s in one sentence, \"next\" in two paragraphs side by side, \"in her lap\" three times (twice in a row), and \"came\" in the last two one-line paragraphs, which change 11 had introduced.\n- **Round 5** (29 September, changes 15–23): the author's review, \"What needs work\": fewer question-list thoughts and more that reason; no repeated thoughts; one moment where she adds the evidence up and stops; Seralune's line about Nereth cut; two point-of-view fixes.\n- **Round 6** (29 September, changes 23–24): the blows and their stopping, in the author's words (\"I still don't like these two lines… It sounds like they are doing something to it / The noises… They've stopped\").\n- **Round 7** (29 September, changes 25–28): after Claude's honest review. Leorin's \"Forgive me, Seralune.\", the recap half of her anger cut, Thaer's slip, and her fight with the door (the author's direction, options A1, B1, C1, D1 and D2).",
  "glance": [],
  "summary_md": "",
  "sections": {
@@ -331,6 +331,58 @@
    "why": "The author's line (\"The noises… They've stopped\"). Replaces O, agreed in the dialogue round. *Edited (29 September):* the author picked option 2 of five variants.",
    "decision": "accepted",
    "decision_note": "The author's line (29 September)."
+  },
+  {
+   "section": "Leorin",
+   "title": "\"Forgive me, Seralune\"",
+   "kind": "changed",
+   "tags": [
+    "round7"
+   ],
+   "before": "Leorin stepped back against the wall to let them pass, and the guards on the stairs got out of her way.",
+   "after": "Leorin stepped back against the wall to let them pass. As she went by him, he said, so quietly that she barely heard it, \"Forgive me, Seralune.\" The guards on the stairs got out of her way.",
+   "why": "Review point 4: Leorin was thin. The author (D2): \"he says Forgive me Seralune\". Her name, not \"Your Highness\": the cousin under the office. It doesn't say what for.",
+   "decision": "accepted",
+   "decision_note": "The author's pick (29 September)."
+  },
+  {
+   "section": "Thaer",
+   "title": "The anger, without the recap",
+   "kind": "changed",
+   "tags": [
+    "round7"
+   ],
+   "before": "\"You told me to follow you, and I followed. You left me in here, and I stayed.\" She was on her feet now. \"I sat in that room all day, Thaeroval, and nobody came. Now I want answers, and I want them now.\"",
+   "after": "She was on her feet now. \"I sat in that room all day, Thaeroval, and nobody came. Now I want answers, and I want them now.\"",
+   "why": "Review point 8: the first half retold the chapter. **The author's own line** (round 4 of the Chapter 4 design), cut on the author's word (D1).",
+   "decision": "accepted",
+   "decision_note": "The author's pick (29 September)."
+  },
+  {
+   "section": "Thaer",
+   "title": "Thaer's slip",
+   "kind": "changed",
+   "tags": [
+    "round7"
+   ],
+   "before": "\"Seralune, get some rest. I'll be back in the morning.\"\n\nHe took her hand from his arm, gently, and looked at the cut. Then he let go of her and went to the door.",
+   "after": "He turned round. \"If it were up to me, you'd—\" He stopped. \"It isn't up to me.\"\n\nHis face closed again. \"Seralune, get some rest. I'll be back in the morning.\"\n\nHe took her hand from his arm, gently, and looked at the cut. Then he let go of her and went to the door.",
+   "why": "The author: Thaer slips, \"his love for his sister nearly takes over his duties as a Ruler and protector of Natharul\" (A1). It also gives her a real piece: someone else decides, which her night thought (*Father will listen to me. He has to.*) now follows from.",
+   "decision": "accepted",
+   "decision_note": "The author's pick (29 September)."
+  },
+  {
+   "section": "Thaer",
+   "title": "The door",
+   "kind": "changed",
+   "tags": [
+    "round7"
+   ],
+   "before": "His hand stopped on the door. Then he opened it and went out, and the lock turned.\n\n*He didn't tell me.*",
+   "after": "His hand stopped on the door. Then he opened it and went out, and the lock turned.\n\nShe ran to the door, grabbed the handle and shook it with both hands. The cut split wider, and she didn't care. \"Thaer! Thaeroval, come back here! Don't you ignore me!\"\n\nHis footsteps stopped.\n\nThaer's voice came through the door, low: \"Leave her be.\" His footsteps went on.\n\n*He didn't tell me.*",
+   "why": "The author: she runs to the door, shakes it and shouts his name, \"come back here, don't ignore me\" (B1, C1). His footsteps stopping is the slip a second time. \"Leave her be\" is why the guards stay out until her later shout, and the handle takes the blood Nereth sees afterwards.",
+   "decision": "accepted",
+   "decision_note": "The author's pick (29 September)."
   }
  ]
 }

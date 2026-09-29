@@ -8,12 +8,13 @@ Started 29 September 2026. Chapter 5 was rewritten from the new design agreed in
 - **Round 4** (29 September, changes 12–14, and change 11 edited): one last pass, at the author's request ("Do one last pass to make sure"). Again no point-of-view, continuity or house-style faults. Four small repeats: two "then"s in one sentence, "next" in two paragraphs side by side, "in her lap" three times (twice in a row), and "came" in the last two one-line paragraphs, which change 11 had introduced.
 - **Round 5** (29 September, changes 15–23): the author's review, "What needs work": fewer question-list thoughts and more that reason; no repeated thoughts; one moment where she adds the evidence up and stops; Seralune's line about Nereth cut; two point-of-view fixes.
 - **Round 6** (29 September, changes 23–24): the blows and their stopping, in the author's words ("I still don't like these two lines… It sounds like they are doing something to it / The noises… They've stopped").
+- **Round 7** (29 September, changes 25–28): after Claude's honest review. Leorin's "Forgive me, Seralune.", the recap half of her anger cut, Thaer's slip, and her fight with the door (the author's direction, options A1, B1, C1, D1 and D2).
 
 ## At a glance
 
-- **24 changes proposed.** 0 rejected so far, so 24 are in the chapter: 22 rewritten, 2 cut and 0 added.
-- **Length:** 3,201 words before, 3,061 after.
-- **Median paragraph:** 14 words before, 13 after. The house target is roughly 14–22.
+- **28 changes proposed.** 0 rejected so far, so 28 are in the chapter: 26 rewritten, 2 cut and 0 added.
+- **Length:** 3,201 words before, 3,129 after.
+- **Median paragraph:** 14 words before, 14 after. The house target is roughly 14–22.
 - **"Nothing":** 1 times before, 1 after.
 
 ## Your call
@@ -48,6 +49,10 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 22, No comment on Nereth:** The author's review (29 September).
 - **Change 23, The blows, answered:** The author's line (29 September).
 - **Change 24, When the blows stop:** The author's line (29 September).
+- **Change 25, "Forgive me, Seralune":** The author's pick (29 September).
+- **Change 26, The anger, without the recap:** The author's pick (29 September).
+- **Change 27, Thaer's slip:** The author's pick (29 September).
+- **Change 28, The door:** The author's pick (29 September).
 
 ## The changes
 
@@ -55,7 +60,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 1. The window, without the bread
 
-*Draft lines 315–319 → revised lines 301–303*
+*Draft lines 315–319 → revised lines 309–311*
 
 **Before**
 
@@ -135,7 +140,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 5. "Sometime in the night"
 
-*Draft line 263 → revised line 251*
+*Draft line 263 → revised line 259*
 
 **Before**
 
@@ -205,7 +210,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 9. Whose bare feet
 
-*Draft line 281 → revised line 269*
+*Draft line 281 → revised line 277*
 
 **Before**
 
@@ -221,7 +226,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 10. The binding
 
-*Draft line 299 → revised line 285*
+*Draft line 299 → revised line 293*
 
 **Before**
 
@@ -237,7 +242,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 11. The last footsteps
 
-*Draft line 325 → revised line 309*
+*Draft line 325 → revised line 317*
 
 **Before**
 
@@ -291,7 +296,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 14. "From the bed"
 
-*Draft line 311 → revised line 297*
+*Draft line 311 → revised line 305*
 
 **Before**
 
@@ -459,7 +464,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 23. The blows, answered
 
-*Draft line 313 → revised line 299*
+*Draft line 313 → revised line 307*
 
 **Before**
 
@@ -475,7 +480,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 24. When the blows stop
 
-*Draft line 323 → revised line 307*
+*Draft line 323 → revised line 315*
 
 **Before**
 
@@ -488,3 +493,87 @@ Each of these needs a yes or no from you. It adds something about a character or
 **Why.** The author's line ("The noises… They've stopped"). Replaces O, agreed in the dialogue round. *Edited (29 September):* the author picked option 2 of five variants.
 
 **Your decision.** The author's line (29 September).
+
+### Leorin at the foot of the stairs
+
+#### 25. "Forgive me, Seralune"
+
+*Draft line 77 → revised line 73*
+
+**Before**
+
+> Leorin stepped back against the wall to let them pass, and the guards on the stairs got out of her way.
+
+**After**
+
+> Leorin stepped back against the wall to let them pass. As she went by him, he said, so quietly that she barely heard it, "Forgive me, Seralune." The guards on the stairs got out of her way.
+
+**Why.** Review point 4: Leorin was thin. The author (D2): "he says Forgive me Seralune". Her name, not "Your Highness": the cousin under the office. It doesn't say what for.
+
+**Your decision.** The author's pick (29 September).
+
+### Thaer comes back
+
+#### 26. The anger, without the recap
+
+*Draft line 233 → revised line 221*
+
+**Before**
+
+> "You told me to follow you, and I followed. You left me in here, and I stayed." She was on her feet now. "I sat in that room all day, Thaeroval, and nobody came. Now I want answers, and I want them now."
+
+**After**
+
+> She was on her feet now. "I sat in that room all day, Thaeroval, and nobody came. Now I want answers, and I want them now."
+
+**Why.** Review point 8: the first half retold the chapter. **The author's own line** (round 4 of the Chapter 4 design), cut on the author's word (D1).
+
+**Your decision.** The author's pick (29 September).
+
+#### 27. Thaer's slip
+
+*Draft lines 247–249 → revised lines 235–239*
+
+**Before**
+
+> "Seralune, get some rest. I'll be back in the morning."
+>
+> He took her hand from his arm, gently, and looked at the cut. Then he let go of her and went to the door.
+
+**After**
+
+> He turned round. "If it were up to me, you'd—" He stopped. "It isn't up to me."
+>
+> His face closed again. "Seralune, get some rest. I'll be back in the morning."
+>
+> He took her hand from his arm, gently, and looked at the cut. Then he let go of her and went to the door.
+
+**Why.** The author: Thaer slips, "his love for his sister nearly takes over his duties as a Ruler and protector of Natharul" (A1). It also gives her a real piece: someone else decides, which her night thought (*Father will listen to me. He has to.*) now follows from.
+
+**Your decision.** The author's pick (29 September).
+
+#### 28. The door
+
+*Draft lines 253–255 → revised lines 243–251*
+
+**Before**
+
+> His hand stopped on the door. Then he opened it and went out, and the lock turned.
+>
+> *He didn't tell me.*
+
+**After**
+
+> His hand stopped on the door. Then he opened it and went out, and the lock turned.
+>
+> She ran to the door, grabbed the handle and shook it with both hands. The cut split wider, and she didn't care. "Thaer! Thaeroval, come back here! Don't you ignore me!"
+>
+> His footsteps stopped.
+>
+> Thaer's voice came through the door, low: "Leave her be." His footsteps went on.
+>
+> *He didn't tell me.*
+
+**Why.** The author: she runs to the door, shakes it and shouts his name, "come back here, don't ignore me" (B1, C1). His footsteps stopping is the slip a second time. "Leave her be" is why the guards stay out until her later shout, and the handle takes the blood Nereth sees afterwards.
+
+**Your decision.** The author's pick (29 September).

@@ -70,7 +70,7 @@ Nobody did. Leorin's eyes came to her then, and stayed longer than they had yet,
 
 *Upstairs, then. He'll tell me everything then.*
 
-Leorin stepped back against the wall to let them pass, and the guards on the stairs got out of her way.
+Leorin stepped back against the wall to let them pass. As she went by him, he said, so quietly that she barely heard it, "Forgive me, Seralune." The guards on the stairs got out of her way.
 
 The stairs went on and on. Thaer took them fast, with his hand closed round her arm, and he didn't look at her once. Her legs had been shaking since she stood up in that room, and her bare feet were numb on the stone. By the first turning, she was leaning on him with every step. The guards followed at a distance, with their swords still out, and Leorin's voice went on among them, too low to make out.
 
@@ -218,7 +218,7 @@ His eyes went to the tray on the table. "You haven't eaten."
 
 She looked at him. He was still looking at the tray.
 
-"You told me to follow you, and I followed. You left me in here, and I stayed." She was on her feet now. "I sat in that room all day, Thaeroval, and nobody came. Now I want answers, and I want them now."
+She was on her feet now. "I sat in that room all day, Thaeroval, and nobody came. Now I want answers, and I want them now."
 
 At his full name, his eyes came up to hers at last.
 
@@ -232,13 +232,21 @@ He turned for the door. She caught his arm, and the cut in her palm split open a
 
 He stood with his back to her. His arm had gone stiff where she held it, and her blood was on his sleeve.
 
-"Seralune, get some rest. I'll be back in the morning."
+He turned round. "If it were up to me, you'd—" He stopped. "It isn't up to me."
+
+His face closed again. "Seralune, get some rest. I'll be back in the morning."
 
 He took her hand from his arm, gently, and looked at the cut. Then he let go of her and went to the door.
 
 "You said you'd be back before evening, too."
 
 His hand stopped on the door. Then he opened it and went out, and the lock turned.
+
+She ran to the door, grabbed the handle and shook it with both hands. The cut split wider, and she didn't care. "Thaer! Thaeroval, come back here! Don't you ignore me!"
+
+His footsteps stopped.
+
+Thaer's voice came through the door, low: "Leave her be." His footsteps went on.
 
 *He didn't tell me.*
 
