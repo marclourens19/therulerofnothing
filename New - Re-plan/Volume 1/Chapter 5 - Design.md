@@ -1,8 +1,8 @@
 # Chapter 5: Design
 
-Started 29 September 2026. **Status:** the design and the dialogue are agreed, apart from one word ("this room" or "that room", below). **Ready to write once the author says go.**
+Started 29 September 2026. **Status:** the design and the dialogue are agreed ("that room", 29 September). **Part 1's first draft is written** (`Chapter 5 - Your Highness (Part 1).md`), with its calls below. Part 2 is written after Part 1 is settled.
 
-**How this chapter gets written** (the author, 29 September): the design is agreed first, then we plan dialogue options for the key exchanges, and only then does Claude write, after saying it's ready and getting the go-ahead. Nothing in this chapter is written yet.
+**How this chapter gets written** (the author, 29 September): the design is agreed first, then we plan dialogue options for the key exchanges, and only then does Claude write, after saying it's ready and getting the go-ahead. The go-ahead came on 29 September: "Agreed with the room, write part 1 first."
 
 This file gathers everything agreed for Chapter 5 in one place. The order and most of the lines were agreed on 27 September in `Chapter 4 - Design.md` ("Chapter 5, the order" and "The lines, version 2"). The changes since then come from the handoff and from rounds 1–2 of `Chapters 5-15 - Outline.md`.
 
@@ -217,4 +217,38 @@ It's a sister asking, which is the chance for him to tell her. The trailing "you
 - If you meant her bedroom: "I've sat in this room for hours", since it hasn't been a whole day there.
 
 **The title.** Chapters 3 and 4 kept working titles until after the draft, so Chapter 5 can too. A working suggestion: **"Your Highness"**. It's what everyone calls her instead of answering her. Yours to change.
+
+**Answer (29 September):** "Agreed with the room, write part 1 first." So it's "I sat in that room all day", meaning the chamber.
+
+## Part 1: the first draft (29 September)
+
+`Chapter 5 - Your Highness (Part 1).md`, 1,272 words, with a copy saved unchanged as `Drafts/Chapter 5 - Your Highness (Part 1) (Draft 1).md`. "Your Highness" is a working title. It runs from the embrace to the tree, in her eyes only, and uses every agreed line for Part 1 as agreed.
+
+### What it takes from the old Chapter 4, and what's new
+
+| From the old Chapter 4 (re-voiced) | New |
+|---|---|
+| The embrace that hurts, and "You're hurting me" | The crystal instead of the circle; no wardwrights |
+| Guards stopping so suddenly that the ones behind walk into them | Leorin asking about the door, and the author's late recognition |
+| Leorin with ink on his fingers | Cyrandor's small smile, instead of weeping and dropping linen |
+| Servants pressed to the walls, some forgetting to bow | The falls, the city, the warship and the tree, outside |
+| Her knees giving, and Thaer catching her and walking on | Her reasoning on the stairs (below) |
+
+### Your calls
+
+Each is something on the page that wasn't in the agreed design, or a choice the design left open.
+
+1. **Her first words are "I'm sorry",** whispered, and they're what brings his eyes down to her and his arms round her. It's her apologising without knowing what for, which Part 2's "Did I do something wrong?" picks up.
+2. **His sword misses the sheath.** He goes to put it away without looking, misses, and has to look. "She had watched him put that sword away all her life, and he had never once needed to look." It shows his state without anyone saying it.
+3. **A second question from Thaer:** "Did you touch it?", about the crystal. She says she put her hand inside and it pulled at her, and he doesn't answer.
+4. **Your line for her Volume 1 belief,** placed here for the first time, when the guards stare at her: *Are they afraid of me? How could I be dangerous? I never had magic.* The next line is "Her mana crowded up under her ribs." Is this the right place for it?
+5. **Leorin "never without ink on his fingers".** This is from the old Chapter 4. Is it still true of him?
+6. **Her wrong theory about Leorin,** reasoned on the stairs: *That was Leorin. It can't have been, though. Leorin isn't old.* / *But it was him, I know it was. So he must be ill, with some sickness nobody's told me about.* The tree at the end is what breaks it.
+7. ***Upstairs, then. He'll tell me everything then.*** She takes his "until we're upstairs" as a promise. Part 2 breaks it.
+8. **The falls answer Chapter 4.** There she thought *Then I'm not in the palace. Or I'm somewhere very deep in it.* Here, hearing them: *So I was in the palace after all. Somewhere very deep in it.*
+9. **She knows the warship is a ship.** Round 5 said ships flew in her time, only smaller, so she recognises it and can't believe its size: "She had seen ships fly before, but never one that size." (Beat 4's older wording, "no word for it", came before round 5.)
+10. **Thaer watches the ship go and says nothing.** She can't know it's their father leaving; a reader may put it together with "my father… returned" in Part 2.
+11. **Length.** At 1,272 words it's shorter than Chapters 3 and 4, and Part 2 has seven beats. Does any beat of Part 1 need more room, or is short right for the first half?
+
+**A deliberate echo, not a call:** her "I called and called, and nobody came" to Thaer in Part 1 comes back in Part 2 as "I sat in that room all day, Thaeroval, and nobody came". The first time it's said to him softly, and the second time it's thrown at him.
 
