@@ -2,6 +2,55 @@
 
 Written on 29 September 2026, after reading `Claude Handoff.md`, the four chapters you supplied, and everything in this repository. It sets out what I understand, what I've updated, what's missing, and what I think comes next, in order. Every question is numbered so you can answer briefly.
 
+## Update: your answers (29 September, later)
+
+- **Found and merged:** five rounds of Chapter 4 and 5 design we did together on 27 September, sitting unmerged on the branch `claude/youthful-curie-i1c390`. Chapter 5's order and lines were already agreed there, and most of the "What Chapter 5 will need from you" questions below were already answered (Leorin, the king away, nobody saying "sealed", Nereth under Cyrandor's order). The accepted Chapter 4 is Claude's draft from that design, "Before Evening", with five changes (`Volume 1/Chapter 4 - Changes.md`).
+- **3 and 5 are done:** "I didn't." and "He let go and went on."
+- **6:** recorded as canon. Most of it was already agreed in Chapter 4's design.
+- **7:** saved as `Volume 1 Structural Map - Proposal.md`, marked as discussion, not canon.
+- **8:** started in `Volume 1/Chapters 5-10 - Design.md`.
+- **1, 2 and 4** are below, waiting on your pick. Nothing in the chapters changes until you choose.
+
+### 1. Chapter 2, line 435 (options)
+
+Your version: "He tried to continue moving, ever closer towards Gerolt, but his legs just won't move." Two things in it don't fit the page. He isn't moving: he "went three steps and stopped" at line 419, so there's nothing to continue. And "ever closer" says he's getting nearer, when the point is that he can't. "His legs just wouldn't move" is exactly right, though, so both options keep it.
+
+> **Now:** He had the sword and wanted to help. Alaric tried to stand, but his knees would not unlock.
+>
+> **A (recommended):** He had the sword, and he wanted to help, but when he tried to go back down to Gerolt, his legs just wouldn't move.
+>
+> **B:** He tried to go back down to Gerolt, but his legs just wouldn't move.
+
+A runs as one thought, the way yours does, instead of two short "He…" sentences. "Back down" is where he is: three steps up the slope from Gerolt. B is shorter, but loses "he had the sword", which is what makes him not moving hurt.
+
+### 2. Chapter 3, line 31 (options)
+
+Your version: "Move boy, quickly! Or Gerolt died for nothing!" One thing to weigh first: **is Silas shouting here?** Horns are calling along the water, one of them close; he has Alaric pulled up to his face; and a few paragraphs later he talks under his breath near the bridge. A man being hunted keeps his voice down. Also, "quickly" is softer than Silas; he'd say "now".
+
+> **Now:** "They'll be hot on our trail soon enough, boy. Get up and move, or Gerolt died for nothing."
+>
+> **A (recommended, low and hard):** "Move, boy, or Gerolt died for nothing."
+>
+> **B (your urgency, as one sentence):** "Move, boy, now, or Gerolt died for nothing!"
+
+Either way it has the same shape as his last words in Chapter 2 ("Get up, boy, or we're both dead!"): an order, then the cost. Said once as a shout and once face to face, that reads as how he talks. If you'd rather the two lines sound different, say so.
+
+### 4. Chapter 3, line 149 (before and after)
+
+> "No, it isn't." The rag moved along the blade. "How did you know him?"
+>
+> "I didn't."
+>
+> **27 September (after your "make it one sentence"):** "Scouts don't come at a farmhouse like that unless something set them off, so what happened back there?"
+>
+> **Now (the line pass):** "Scouts don't tear a farmhouse apart unless they're after something. What happened back there?"
+>
+> **Proposed:** "Scouts don't tear a farmhouse apart unless they're after something, so what happened back there?"
+>
+> Alaric opened his mouth and couldn't answer.
+
+The proposed line keeps the line pass's wording and your one-sentence rule. With "I didn't" before it, the "so" now does work: you didn't know him, so why did scouts come? One thing to know: Silas is guessing. Nothing on the page has him see the house, and it was Gerolt who burned it, not the scouts. People guess wrong, so I'd leave it.
+
 ## Where things stand
 
 The opening four chapters are written and accepted. They read as one continuous introduction, and they don't need broad rewrites. From here, changes to them should only fix causality, continuity, voice or an exact line.

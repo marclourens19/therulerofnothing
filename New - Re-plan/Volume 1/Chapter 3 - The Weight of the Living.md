@@ -30,7 +30,7 @@ The man came back for him. He took Alaric by the front of his shirt and pulled h
 
 "They'll be hot on our trail soon enough, boy. Get up and move, or Gerolt died for nothing."
 
-The man let go and went on.
+He let go and went on.
 
 He knew Gerolt's name.
 
@@ -144,7 +144,7 @@ Silas kept his eyes on the steel. "I heard something from across the river. Soun
 
 "No, it isn't." The rag moved along the blade. "How did you know him?"
 
-"He didn't."
+"I didn't."
 
 "Scouts don't tear a farmhouse apart unless they're after something. What happened back there?"
 

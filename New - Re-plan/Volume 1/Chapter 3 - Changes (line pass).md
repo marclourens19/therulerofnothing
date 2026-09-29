@@ -2,17 +2,17 @@
 
 Written on 29 September 2026. This records the line pass made outside this repository on 28–29 September, in the conversation summarised in `New - Re-plan/Claude Handoff.md` (§3). The author accepted every change, and the chapter now matches the text they supplied.
 
-The chapter as it stood before the pass is saved unchanged as `Drafts/Chapter 3 - The Weight of the Living (Draft 2, before the line pass).md`, and every change here is measured against it. The rounds before the pass are in `Chapter 3 - Changes.md`. **Later rounds go on this list** (`Drafts/Chapter 3 - change list (line pass).json`).
+The chapter as it stood before the pass is saved unchanged as `Drafts/Chapter 3 - The Weight of the Living (Draft 2, before the line pass).md`, and every change here is measured against it. The rounds before the pass are in `Chapter 3 - Changes.md`. **Round 2** (29 September) is change 8, plus an edit folded into change 1. **Later rounds go on this list** (`Drafts/Chapter 3 - change list (line pass).json`).
 
 Each reason says where it comes from: the handoff when it gives one, or Claude's reading when it doesn't. Changes tagged as the author's own lines replaced something the author wrote or designed; they are listed below, under "The author's own lines this pass replaced".
 
 ## At a glance
 
-- **7 changes proposed.** 0 rejected so far, so 7 are in the chapter: 7 rewritten, 0 cut and 0 added.
-- **Length:** 1,986 words before, 2,026 after.
+- **8 changes proposed.** 0 rejected so far, so 8 are in the chapter: 8 rewritten, 0 cut and 0 added.
+- **Length:** 1,986 words before, 2,025 after.
 - **Median paragraph:** 17 words before, 16.5 after. The house target is roughly 14–22.
 - **"Nothing":** 3 times before, 3 after.
-- **"The man" before Silas gives his name:** 8 before, 10 after (changes 1 and 2). "The stranger" stays at 2.
+- **"The man" before Silas gives his name:** 8 before the line pass, 10 after it, 9 after round 2 (changes 1 and 2). "The stranger" stays at 2.
 
 ## Your call
 
@@ -22,13 +22,14 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Already decided**
 
-- **Change 1, Silas grounds him:** Accepted in the line pass of 28–29 September. The handoff (§3) quotes this line as accepted.
+- **Change 1, Silas grounds him:** Accepted in the line pass of 28–29 September. The handoff (§3) quotes this line as accepted. Round 2's "He let go": the author, "Agreed".
 - **Change 2, His feet went after the man:** Accepted in the line pass of 28–29 September (the handoff, §3).
 - **Change 3, The river turned him round:** Accepted in the line pass of 28–29 September. The handoff (§3) quotes this line as accepted.
 - **Change 4, Silas's accusation:** Accepted in the line pass of 28–29 September. The handoff (§3) quotes this line as accepted.
 - **Change 5, His name, and why Silas was there:** Accepted in the line pass of 28–29 September. The handoff (§3) quotes this line as accepted.
 - **Change 6, What the scouts were after:** Accepted in the line pass of 28–29 September (the handoff, §3).
 - **Change 7, His questions, without the stress:** Accepted in the line pass of 28–29 September (the handoff, §3).
+- **Change 8, I didn't:** The author: "Agreed" (29 September).
 
 ## The author's own lines this pass replaced
 
@@ -54,11 +55,11 @@ Changes 1, 4. The handoff records them as accepted. They are listed here because
 
 > "They'll be hot on our trail soon enough, boy. Get up and move, or Gerolt died for nothing."
 >
-> The man let go and went on.
+> He let go and went on.
 
-**Why.** The handoff, §3, lists this as accepted dialogue. It keeps the author's intent ("snap out of it … for Gerolt's sake", "Make Gerolt's death mean he died for nothing") and gives Silas a practical reason to move. It replaces the author's own rough line (Chapter 3 design, line 1: "stop drowning in self-pity … If you want to die, fine, stay").
+**Why.** The handoff, §3, lists this as accepted dialogue. It keeps the author's intent ("snap out of it … for Gerolt's sake", "Make Gerolt's death mean he died for nothing") and gives Silas a practical reason to move. It replaces the author's own rough line (Chapter 3 design, line 1: "stop drowning in self-pity … If you want to die, fine, stay"). **Round 2 (29 September):** "The man let go and went on" became "He let go and went on", to bring "the man" back down; he's the only other person there.
 
-**Your decision.** Accepted in the line pass of 28–29 September. The handoff (§3) quotes this line as accepted.
+**Your decision.** Accepted in the line pass of 28–29 September. The handoff (§3) quotes this line as accepted. Round 2's "He let go": the author, "Agreed".
 
 #### 2. His feet went after the man
 
@@ -169,3 +170,19 @@ Changes 1, 4. The handoff records them as accepted. They are listed here because
 **Why.** Claude's reading (the handoff gives no reason for this change): the stress on "do" and "was" goes. The handoff (§2): italics are for thought and "rare emphasis carrying genuine stress", not decoration.
 
 **Your decision.** Accepted in the line pass of 28–29 September (the handoff, §3).
+
+#### 8. I didn't
+
+*Draft line 143 → revised line 147*
+
+**Before**
+
+> "He didn't."
+
+**After**
+
+> "I didn't."
+
+**Why.** Round 2 (29 September). The line pass changed Silas's question from "So how did the old man know you?" to "How did you know him?", and the answer stayed "He didn't.", which answers the old question. "I didn't" is true: Alaric knew Gerolt for less than a day.
+
+**Your decision.** The author: "Agreed" (29 September).

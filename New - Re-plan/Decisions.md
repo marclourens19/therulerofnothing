@@ -4,7 +4,7 @@ Started 26 September 2026. This file records what the author has decided during 
 
 Everything written before the re-plan now lives in `Old - Before Re-plan/`. That includes the World Bible, Main Characters and the chapter designs, and none of it has been updated. Where a decision contradicts those files, it is listed under **Existing files that now conflict**.
 
-**The handoff (added 29 September).** On 28 and 29 September the author carried on the re-plan outside this repository. That work is summarised in `Claude Handoff.md`, which came with a line pass of Chapters 1–3 and the new Chapter 4. What the author set or accepted there is copied into this file, marked *(handoff §N)*. The handoff's recommendations stay in the handoff: its own labels (**author-set**, **working consensus**, **unapproved proposal**, **strong recommendation**, **still open**) say which is which, and none of its proposals is a decision until the author says so. Where the handoff changes something recorded here, the older line is marked *Superseded*. One file the handoff relies on, `Volume 1 Structural Map - Proposal.md`, is not in this repository.
+**The handoff (added 29 September).** On 28 and 29 September the author carried on the re-plan outside this repository. That work is summarised in `Claude Handoff.md`, which came with a line pass of Chapters 1–3 and the new Chapter 4. What the author set or accepted there is copied into this file, marked *(handoff §N)*. The handoff's recommendations stay in the handoff: its own labels (**author-set**, **working consensus**, **unapproved proposal**, **strong recommendation**, **still open**) say which is which, and none of its proposals is a decision until the author says so. Where the handoff changes something recorded here, the older line is marked *Superseded*. The handoff's proposed Volume 1 structure is saved as `Volume 1 Structural Map - Proposal.md`. The author: "The Volume 1 plan was just a discussion to understand an idea, not actual canon yet" (29 September).
 
 ## How we work
 
@@ -22,6 +22,8 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
   - A verbal tic ("Lad", "Look here", "Again. Slowly") isn't a voice. Voice comes from motive, relationship, rhythm, evasion, humour, vocabulary and what the character is willing to admit.
   - Every line is after something: an answer, reassurance, concealment, control, connection, resistance or a decision.
   - Short paragraphs and fragments are tools for real changes in perception, decision, danger or feeling, not the default rhythm.
+- **A one-line fix is still prose** (29 September). Claude's fix "He had the sword and wanted to help. He tried to go down to Gerolt, but his knees would not unlock." was "writing sentences in a robotic manner": two short "He…" sentences side by side read like a list, and "his knees would not unlock" reads like a report. A fix gets the same test as a new paragraph: does it run the way his thought would run?
+- **Challenge the author's lines too, and offer a better-built one** (29 September). "I want you to always challenge me and ask questions, which is good." "If you have a better constructed sentence, tell me." So when the author offers a line, check it against the page (where the character is, what they've just done, what they can know) and say what doesn't fit, with a version that keeps what they meant.
 - **Keep the statuses apart** (handoff §12). Decided, inherited-but-not-contradicted, later-volume concept and open are different things. Settle one mechanism at a time, and record whether the author approves it, rejects it or keeps it open.
 - Principles settled here become the rules of the rewriting skill. The skill is `.claude/skills/chapter-rewrite/` (created 26 September, after Chapter 1). When a principle here changes, update the skill to match.
 
@@ -135,7 +137,7 @@ These are rough shapes, not deadlines. The design bible warns against scheduling
 
 The author's direction only. The handoff's recommendations for each point are in its §14.2, and its proposed structure is in §19.
 
-- **Length.** The author is comfortable with forty or more chapters, governed by completed movements, not a word count (handoff §4). *The 50–54-chapter, nine-movement map in handoff §19 is a proposal, not approved.*
+- **Length.** The author is comfortable with forty or more chapters, governed by completed movements, not a word count (handoff §4). *The 50–54-chapter, nine-movement map in handoff §19 and `Volume 1 Structural Map - Proposal.md` is discussion, not canon (the author, 29 September).*
 - **The Great Expanse** can be a substantial middle movement, not a short crossing. It's vast and empty, distorted by corrupted mana: places move, ruined towns and cities break up the land, night is especially dangerous, and people or creatures who try to live there can be warped.
 - **Foramen, Kurdag and Liluth.** The hidden settlement is Foramen, the wolf beastman tied to it is Kurdag, and Liluth is the Natharul scout pursuing them. Kurdag understands what surviving in the Expanse costs; illness or corruption among the people who live or work there may show it.
   - Alaric may briefly believe he has found somewhere he could belong.
@@ -295,6 +297,7 @@ The plan is built in `Volume 1/Chapter 2 - Design.md`.
   - **At the last stand** Alaric tries to move and his body fails him, instead of only explaining in his head that he can't act. His thought is now *If I go down there, they'll kill me. I don't want to die. I don't want to—*
   - The author's round-2 line is trimmed: "Alaric couldn't get up. Gerolt had taken care of him until his dying breath, and now Alaric was going to leave him there and never see him again."
   - Chapter 2 is now 4,656 words. The handoff's working score is 94/100.
+- **Waiting on the author's pick (29 September):** line 435, where Alaric "tried to stand" while he's already on his feet. Claude's first fix was "robotic"; the author's idea is "He tried to continue moving, ever closer towards Gerolt, but his legs just won't move." Options are in `Going Forward.md`.
 
 The decisions below were made for Version 1. They were checked against the redesign on 27 September: most still hold, and the ones the redesign replaced are marked *Superseded*.
 
@@ -379,6 +382,7 @@ The plan is built in `Volume 1/Chapter 3 - Design.md`.
   - **Why Silas was there:** Alaric asks how he knew Gerolt, and Silas answers a different question: "I heard something from across the river. Sounded like fighting, and by the time I got close enough to see what was happening, it was already too late." / "That isn't what I asked." / "No, it isn't." The rag moved along the blade. "How did you know him?"
   - **The river:** "The river turned him round, the bank went past, and then a fallen tree lying out into the river from the far bank, close enough to touch."
   - Chapter 3 is now 2,026 words. The handoff's working score is 92/100; the opening four together, about 95.
+- **Round 2 on the line pass (29 September).** Agreed: "I didn't." (the answer now fits Silas's new question) and "He let go and went on." ("the man" back to 9). *Waiting on the author's pick* (options in `Going Forward.md`): Silas's "Get up and move" line, since Alaric is already standing (the author's idea: "Move boy, quickly! Or Gerolt died for nothing!"), and the scouts line as one sentence.
 
 ## Chapter 4
 
@@ -442,7 +446,7 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 
 **Its order and its lines were agreed on 27 September,** in `Volume 1/Chapter 4 - Design.md` ("Chapter 5, the order", approved in round 3, and "The lines, version 2"). It runs from the embrace in the chamber to first light, and ends on the knock, with Cyrandor unseen behind the door. Her escape is Chapter 7, after Alaric's Chapter 6.
 
-**The handoff adds** (28–29 September). Where it changes the agreed design, the design is now being worked through in `Volume 1/Chapters 5–10 - Design.md`.
+**The handoff adds** (28–29 September). Where it changes the agreed design, the design is now being worked through in `Volume 1/Chapters 5-10 - Design.md`.
 
 - **It may be split into Part One and Part Two** rather than rushing its revelations (handoff §14.2).
 - **Seralune's state** (handoff §15.2). She remembers being a princess yesterday. She wakes to people who are frightened of her, evade her questions and may be deciding what to do with her. She is confused, alarmed and distrustful: what happened, why will nobody answer, why are they afraid of her, what are they planning? She doesn't meekly accept explanations, or act as if she has already adjusted to the present.
@@ -816,7 +820,7 @@ Not in the central cast yet, and not locked (handoff §7, §14.3).
 Each of these is open. The handoff's recommendation, where it has one, is in the section named.
 
 - **Chapter 5.** Seralune's first active choice (§15.2), the dramatic question of each part (§14.2), and Nereth's first disobedience (§15.10).
-- **The Volume 1 structure.** The proposed 50–54 chapters in nine movements (§19). Its full working file, `Volume 1 Structural Map - Proposal.md`, isn't in this repository.
+- **The Volume 1 structure.** The proposed 50–54 chapters in nine movements (§19, and `Volume 1 Structural Map - Proposal.md`): discussion, not canon. **Next (29 September):** "We can design chapters 5–10, the design of them / structure, not the actual content yet." That work is in `Volume 1/Chapters 5-10 - Design.md`.
 - **The core's answer.** What Alaric actually gets from it, and in how many stages (§14.2, §19.5 proposes three: the Silent Field, Foramen, Favale).
 - **Foramen.** Does Kurdag hide the cost of living there, or do its people choose the risk knowing it (§14.2)? Does it expel Alaric, or does he leave by choice (§14.2, §19.4)?
 - **Inrandeel.** Who destroyed or removed the independent elves, and what concrete clue sends Seralune on to Favale (§14.2)?

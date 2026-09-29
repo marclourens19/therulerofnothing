@@ -3,9 +3,9 @@
  "draft": "Chapter 3 - The Weight of the Living (Draft 2, before the line pass).md",
  "chapter": "../Chapter 3 - The Weight of the Living.md",
  "changes_file": "../Chapter 3 - Changes (line pass).md",
- "intro_md": "Written on 29 September 2026. This records the line pass made outside this repository on 28–29 September, in the conversation summarised in `New - Re-plan/Claude Handoff.md` (§3). The author accepted every change, and the chapter now matches the text they supplied.\n\nThe chapter as it stood before the pass is saved unchanged as `Drafts/Chapter 3 - The Weight of the Living (Draft 2, before the line pass).md`, and every change here is measured against it. The rounds before the pass are in `Chapter 3 - Changes.md`. **Later rounds go on this list** (`Drafts/Chapter 3 - change list (line pass).json`).\n\nEach reason says where it comes from: the handoff when it gives one, or Claude's reading when it doesn't. Changes tagged as the author's own lines replaced something the author wrote or designed; they are listed below, under \"The author's own lines this pass replaced\".",
+ "intro_md": "Written on 29 September 2026. This records the line pass made outside this repository on 28–29 September, in the conversation summarised in `New - Re-plan/Claude Handoff.md` (§3). The author accepted every change, and the chapter now matches the text they supplied.\n\nThe chapter as it stood before the pass is saved unchanged as `Drafts/Chapter 3 - The Weight of the Living (Draft 2, before the line pass).md`, and every change here is measured against it. The rounds before the pass are in `Chapter 3 - Changes.md`. **Round 2** (29 September) is change 8, plus an edit folded into change 1. **Later rounds go on this list** (`Drafts/Chapter 3 - change list (line pass).json`).\n\nEach reason says where it comes from: the handoff when it gives one, or Claude's reading when it doesn't. Changes tagged as the author's own lines replaced something the author wrote or designed; they are listed below, under \"The author's own lines this pass replaced\".",
  "glance": [
-  "**\"The man\" before Silas gives his name:** 8 before, 10 after (changes 1 and 2). \"The stranger\" stays at 2."
+  "**\"The man\" before Silas gives his name:** 8 before the line pass, 10 after it, 9 after round 2 (changes 1 and 2). \"The stranger\" stays at 2."
  ],
  "summary_md": "## The author's own lines this pass replaced\n\nChanges {tag:authorline}. The handoff records them as accepted. They are listed here because the skill asks that every change to the author's own lines be flagged.",
  "sections": {
@@ -23,10 +23,10 @@
     "authorline"
    ],
    "before": "\"Stop drowning in self-pity, boy, and move.\"\n\nAlaric stared at him.\n\n\"You want to die? Fine. Stay here and let them have you.\" He let go. \"Then Gerolt died for nothing.\"",
-   "after": "\"They'll be hot on our trail soon enough, boy. Get up and move, or Gerolt died for nothing.\"\n\nThe man let go and went on.",
-   "why": "The handoff, §3, lists this as accepted dialogue. It keeps the author's intent (\"snap out of it … for Gerolt's sake\", \"Make Gerolt's death mean he died for nothing\") and gives Silas a practical reason to move. It replaces the author's own rough line (Chapter 3 design, line 1: \"stop drowning in self-pity … If you want to die, fine, stay\").",
+   "after": "\"They'll be hot on our trail soon enough, boy. Get up and move, or Gerolt died for nothing.\"\n\nHe let go and went on.",
+   "why": "The handoff, §3, lists this as accepted dialogue. It keeps the author's intent (\"snap out of it … for Gerolt's sake\", \"Make Gerolt's death mean he died for nothing\") and gives Silas a practical reason to move. It replaces the author's own rough line (Chapter 3 design, line 1: \"stop drowning in self-pity … If you want to die, fine, stay\"). **Round 2 (29 September):** \"The man let go and went on\" became \"He let go and went on\", to bring \"the man\" back down; he's the only other person there.",
    "decision": "accepted",
-   "decision_note": "Accepted in the line pass of 28–29 September. The handoff (§3) quotes this line as accepted."
+   "decision_note": "Accepted in the line pass of 28–29 September. The handoff (§3) quotes this line as accepted. Round 2's \"He let go\": the author, \"Agreed\"."
   },
   {
    "section": "The bridge",
@@ -106,6 +106,19 @@
    "why": "Claude's reading (the handoff gives no reason for this change): the stress on \"do\" and \"was\" goes. The handoff (§2): italics are for thought and \"rare emphasis carrying genuine stress\", not decoration.",
    "decision": "accepted",
    "decision_note": "Accepted in the line pass of 28–29 September (the handoff, §3)."
+  },
+  {
+   "section": "The cave",
+   "title": "I didn't",
+   "kind": "changed",
+   "tags": [
+    "round2"
+   ],
+   "before": "\"He didn't.\"",
+   "after": "\"I didn't.\"",
+   "why": "Round 2 (29 September). The line pass changed Silas's question from \"So how did the old man know you?\" to \"How did you know him?\", and the answer stayed \"He didn't.\", which answers the old question. \"I didn't\" is true: Alaric knew Gerolt for less than a day.",
+   "decision": "accepted",
+   "decision_note": "The author: \"Agreed\" (29 September)."
   }
  ]
 }
