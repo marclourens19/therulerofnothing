@@ -527,6 +527,10 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 - **One last pass (29 September),** at the author's request: again no point-of-view, continuity or house-style faults. Four small repeats fixed (changes 12–14, and change 11 edited). The chapter is 3,150 words.
 - **The author's review, "What needs work" (29 September):** fewer thoughts that only list questions the prose has shown; keep the ones that reason. Applied as changes 15–22 in `Volume 1/Chapter 5 - Changes (deep revision).md`: the thoughts at the guards, on Leorin's age, on the palace, while pacing, and after Nereth's "You shouldn't have" are cut or shortened (five of them were the author's own lines, flagged in the changes file); a new beat after the tree where she adds it up and won't finish (*A tree doesn't grow like that in a year. Leorin didn't go white in one. So it's been…* / She didn't let herself finish it.); the ship unnamed for a beat; and "before he felt it" gone. 3,054 words, 22 thoughts.
 - **The blows (29 September):** the author picked from five variants each: *Whatever they're doing down there, they're doing it to that thing.* and, at first light, *They've stopped. Whatever they were doing, it's done.* (changes 23–24).
+- **After Claude's honest review (29 September):** "I like your direction." Two more from the author:
+  - **She fights the door.** When Thaer leaves and the lock turns, she runs to the door, shakes it and shouts his name: "come back here, don't ignore me".
+  - **Thaer slips in the confrontation:** "his love for his sister nearly takes over his duties as a Ruler and protector of Natharul."
+  - The lines are being worked out as options before anything is written.
 - *Open:* Nereth's first disobedience ("still undecided", handoff §15.10).
 
 ## Chapter 6
