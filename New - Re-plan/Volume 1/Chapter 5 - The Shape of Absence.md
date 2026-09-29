@@ -312,11 +312,9 @@ The blows went on. Seralune sat with her hand in her lap and listened to them, a
 
 *They're mending it, and it's for me.*
 
-She got up and went to the window. The shutters still stood open, and the spray blew in cold off the falls. She leaned out as far as she dared. The wall dropped away beneath the sill, smooth and wet, all the way down to where the falls met the forest, so far below her that she couldn't see the bottom.
+She got up and went to the window. The shutters still stood open, and the spray blew in cold off the falls. She leaned out as far as she dared. The wall dropped away beneath her, smooth and wet, all the way down to where the falls met the forest, so far below that she couldn't see the bottom.
 
-She stayed there until her hands were numb on the sill. Then she went back to the table, pulled the tray towards her and ate the bread. It hurt to swallow, and she ate every piece of it.
-
-After that she sat on the bed with her back against the wall, and listened to every blow, and waited for morning, and for Thaer.
+She stayed there until the cold had got into her hands. Then she went back to the bed and sat with her back against the wall, and listened to every blow, and waited for morning, and for Thaer.
 
 When the window began to grey, the blows stopped.
 

@@ -6,7 +6,7 @@ The new chapter is saved unchanged as `Drafts/Chapter 5 - The Shape of Absence (
 
 ## At a glance
 
-- **Length:** 2,190 words before, 3,208 now. That's short of the 4,000 we aimed for; see "Why it isn't 4,000" below.
+- **Length:** 2,190 words before, 3,208 in the rewrite, and 3,181 after round 1 (below). That's short of the 4,000 we aimed for; see "Why it isn't 4,000" below.
 - **Shape:** the same night, in her eyes, from the chamber to the knock. There are still no scene breaks.
 - **Every agreed line is in,** in the words agreed, with one exception: "calling and calling" isn't repeated in her line to Thaer, because the line before it already says "I called and called".
 - **What she ends the night knowing:**
@@ -15,7 +15,7 @@ The new chapter is saved unchanged as `Drafts/Chapter 5 - The Shape of Absence (
   - her cousin speaks for the king and wants her sealed tonight;
   - Thaer won't let anyone touch her, and he won't tell her anything either;
   - her father may be on that ship, and gone for weeks.
-- **What she does about it:** she keeps what she heard from Thaer and gives him one last chance, then goes to the window, looks down at the drop, and eats the bread.
+- **What she does about it:** she keeps what she heard from Thaer and gives him one last chance, then goes to the window and looks down at the drop. *(The rewrite had her eat the bread afterwards; round 1 took it out.)*
 - **"Nothing":** once ("said nothing"). **"Dark":** once (the ship). **Comparisons:** only "like he'd never seen me before" (agreed) and "like a child" (agreed).
 - **Style check:** clean. Median paragraph 14 words, the same as Chapter 1.
 
@@ -147,7 +147,7 @@ Then, after the thoughts you already had: *Weeks. That ship Thaer watched go… 
 - **The sorry, answered** (M2): "No, Your Highness. You shouldn't have." Then Seralune's thought (call 18), and Nereth binds the cut, "quick and careful", and her hands don't shake. "Thank you." (call 19)
 - **"Sit down"** (call 20).
 - **The blows, answered** (N): she thinks of the crystal "standing split open in that room far below her", and of the word through the door: *They're mending it, and it's for me.*
-- **Her act:** the window, the drop, then the bread. "It hurt to swallow, and she ate every piece of it."
+- **Her act:** the window and the drop. *(The rewrite then had her eat the bread; round 1 took it out, and "sill" with it.)*
 
 ### 8. First light
 
@@ -174,7 +174,7 @@ These are new, Claude's own rather than agreed. Yes or no to each, or a note.
 11. ***Well. At least someone in this palace says what she thinks.*** Her thought after "No, Your Highness. You shouldn't have."
 12. **"Thank you."** after the binding, and Nereth bowing her head and going back to her corner.
 13. **"Sit down, Nereth. You've been standing there since I came in."** / "I'm quite all right, Your Highness." / "Sit down." Nereth sits on the very edge of the chair, back straight. It's her kindness, and it's also her deciding for Nereth, which is the flaw she has to learn out of in Volume 2 ("She asks Nereth what she wants").
-14. **"It hurt to swallow, and she ate every piece of it."**
+14. **"It hurt to swallow, and she ate every piece of it."** **Answered: no.** "I don't agree she should eat, and remove 'sill'. [Stop] putting buzz words." Change 1 in `Chapter 5 - Changes (deep revision).md`.
 
 ## Why it isn't 4,000
 

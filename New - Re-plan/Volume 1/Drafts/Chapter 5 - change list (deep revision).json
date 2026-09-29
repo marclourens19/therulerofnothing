@@ -3,9 +3,25 @@
  "draft": "Chapter 5 - The Shape of Absence (Draft 4, the deep revision).md",
  "chapter": "../Chapter 5 - The Shape of Absence.md",
  "changes_file": "../Chapter 5 - Changes (deep revision).md",
- "intro_md": "Started 29 September 2026. Chapter 5 was rewritten from the new design agreed in `Chapter 5 - Design.md` (\"The deep revision\"), and the rewrite is compared with the version before it, scene by scene, in `Chapter 5 - What the Deep Revision Changed.md`. Its first draft is saved unchanged as `Drafts/Chapter 5 - The Shape of Absence (Draft 4, the deep revision).md`, and every round from here is a change against it. The version before the deep revision is `Drafts/Chapter 5 - The Shape of Absence (Draft 3, before the deep revision).md`, written by `Drafts/Chapter 5 - change list.json`.\n\nNo rounds yet: the author's answers on the rewrite's calls go here.",
+ "intro_md": "Started 29 September 2026. Chapter 5 was rewritten from the new design agreed in `Chapter 5 - Design.md` (\"The deep revision\"), and the rewrite is compared with the version before it, scene by scene, in `Chapter 5 - What the Deep Revision Changed.md`. Its first draft is saved unchanged as `Drafts/Chapter 5 - The Shape of Absence (Draft 4, the deep revision).md`, and every round from here is a change against it. The version before the deep revision is `Drafts/Chapter 5 - The Shape of Absence (Draft 3, before the deep revision).md`, written by `Drafts/Chapter 5 - change list.json`.\n\n- **Round 1** (29 September, change 1): the author's note on the window and the bread: \"I don't agree she should eat, and remove 'sill'. [Stop] putting buzz words.\"",
  "glance": [],
  "summary_md": "",
- "sections": {},
- "changes": []
+ "sections": {
+  "The night": "The night"
+ },
+ "changes": [
+  {
+   "section": "The night",
+   "title": "The window, without the bread",
+   "kind": "changed",
+   "tags": [
+    "round1"
+   ],
+   "before": "She got up and went to the window. The shutters still stood open, and the spray blew in cold off the falls. She leaned out as far as she dared. The wall dropped away beneath the sill, smooth and wet, all the way down to where the falls met the forest, so far below her that she couldn't see the bottom.\n\nShe stayed there until her hands were numb on the sill. Then she went back to the table, pulled the tray towards her and ate the bread. It hurt to swallow, and she ate every piece of it.\n\nAfter that she sat on the bed with her back against the wall, and listened to every blow, and waited for morning, and for Thaer.",
+   "after": "She got up and went to the window. The shutters still stood open, and the spray blew in cold off the falls. She leaned out as far as she dared. The wall dropped away beneath her, smooth and wet, all the way down to where the falls met the forest, so far below that she couldn't see the bottom.\n\nShe stayed there until the cold had got into her hands. Then she went back to the bed and sat with her back against the wall, and listened to every blow, and waited for morning, and for Thaer.",
+   "why": "The author: \"I don't agree she should eat, and remove 'sill'. [Stop] putting buzz words.\" So she no longer eats the bread (call 14 is a no, and so is the eating agreed in round 1, question 3). She still goes to the window and looks down at the drop. \"Sill\" goes both times: \"beneath her\" says where the wall drops, and \"until the cold had got into her hands\" is how Chapter 4 says it (\"The cold of it had got into that whole side of her face\"). \"You haven't eaten.\" and Thaer looking at the bread stay, because they're about him avoiding her, not about the food.",
+   "decision": "accepted",
+   "decision_note": "The author's note (29 September)."
+  }
+ ]
 }
