@@ -9,7 +9,7 @@ Written on 29 September 2026, after reading `Claude Handoff.md`, the four chapte
 - **6:** recorded as canon. Most of it was already agreed in Chapter 4's design.
 - **7:** saved as `Volume 1 Structural Map - Proposal.md`, marked as discussion, not canon.
 - **8:** started in `Volume 1/Chapters 5-10 - Design.md`.
-- **1, 2 and 4** are below, waiting on your pick. Nothing in the chapters changes until you choose.
+- **1, 2 and 4 are done** (29 September): you chose B for 1, gave your own line for 2 ("Move, boy, now, or Gerolt died for nothing!"), and took the proposed one-sentence line for 4. The options are kept below for the record.
 
 ### 1. Chapter 2, line 435 (options)
 

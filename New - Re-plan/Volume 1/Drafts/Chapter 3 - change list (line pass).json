@@ -3,7 +3,7 @@
  "draft": "Chapter 3 - The Weight of the Living (Draft 2, before the line pass).md",
  "chapter": "../Chapter 3 - The Weight of the Living.md",
  "changes_file": "../Chapter 3 - Changes (line pass).md",
- "intro_md": "Written on 29 September 2026. This records the line pass made outside this repository on 28–29 September, in the conversation summarised in `New - Re-plan/Claude Handoff.md` (§3). The author accepted every change, and the chapter now matches the text they supplied.\n\nThe chapter as it stood before the pass is saved unchanged as `Drafts/Chapter 3 - The Weight of the Living (Draft 2, before the line pass).md`, and every change here is measured against it. The rounds before the pass are in `Chapter 3 - Changes.md`. **Round 2** (29 September) is change 8, plus an edit folded into change 1. **Later rounds go on this list** (`Drafts/Chapter 3 - change list (line pass).json`).\n\nEach reason says where it comes from: the handoff when it gives one, or Claude's reading when it doesn't. Changes tagged as the author's own lines replaced something the author wrote or designed; they are listed below, under \"The author's own lines this pass replaced\".",
+ "intro_md": "Written on 29 September 2026. This records the line pass made outside this repository on 28–29 September, in the conversation summarised in `New - Re-plan/Claude Handoff.md` (§3). The author accepted every change, and the chapter now matches the text they supplied.\n\nThe chapter as it stood before the pass is saved unchanged as `Drafts/Chapter 3 - The Weight of the Living (Draft 2, before the line pass).md`, and every change here is measured against it. The rounds before the pass are in `Chapter 3 - Changes.md`. **Round 2** (29 September) is change 8, plus edits folded into changes 1 and 6. **Later rounds go on this list** (`Drafts/Chapter 3 - change list (line pass).json`).\n\nEach reason says where it comes from: the handoff when it gives one, or Claude's reading when it doesn't. Changes tagged as the author's own lines replaced something the author wrote or designed; they are listed below, under \"The author's own lines this pass replaced\".",
  "glance": [
   "**\"The man\" before Silas gives his name:** 8 before the line pass, 10 after it, 9 after round 2 (changes 1 and 2). \"The stranger\" stays at 2."
  ],
@@ -23,10 +23,10 @@
     "authorline"
    ],
    "before": "\"Stop drowning in self-pity, boy, and move.\"\n\nAlaric stared at him.\n\n\"You want to die? Fine. Stay here and let them have you.\" He let go. \"Then Gerolt died for nothing.\"",
-   "after": "\"They'll be hot on our trail soon enough, boy. Get up and move, or Gerolt died for nothing.\"\n\nHe let go and went on.",
-   "why": "The handoff, §3, lists this as accepted dialogue. It keeps the author's intent (\"snap out of it … for Gerolt's sake\", \"Make Gerolt's death mean he died for nothing\") and gives Silas a practical reason to move. It replaces the author's own rough line (Chapter 3 design, line 1: \"stop drowning in self-pity … If you want to die, fine, stay\"). **Round 2 (29 September):** \"The man let go and went on\" became \"He let go and went on\", to bring \"the man\" back down; he's the only other person there.",
+   "after": "\"Move, boy, now, or Gerolt died for nothing!\"\n\nHe let go and went on.",
+   "why": "The handoff, §3, lists this as accepted dialogue. It keeps the author's intent (\"snap out of it … for Gerolt's sake\", \"Make Gerolt's death mean he died for nothing\") and gives Silas a practical reason to move. It replaces the author's own rough line (Chapter 3 design, line 1: \"stop drowning in self-pity … If you want to die, fine, stay\"). **Round 2 (29 September):** \"The man let go and went on\" became \"He let go and went on\", to bring \"the man\" back down; he's the only other person there. **Round 2, the line itself (29 September):** Alaric is already standing, so \"Get up\" went. The author's line: \"Move boy, now, or Gerolt died for nothing!\" (the comma after \"Move\" is the house style for calling someone by name, as in Chapter 2's \"Get up, boy, or we're both dead!\").",
    "decision": "accepted",
-   "decision_note": "Accepted in the line pass of 28–29 September. The handoff (§3) quotes this line as accepted. Round 2's \"He let go\": the author, \"Agreed\"."
+   "decision_note": "Accepted in the line pass of 28–29 September. The handoff (§3) quotes this line as accepted. Round 2's \"He let go\": the author, \"Agreed\". Round 2's line is the author's (29 September)."
   },
   {
    "section": "The bridge",
@@ -89,10 +89,10 @@
     "linepass"
    ],
    "before": "\"Scouts don't come at a farmhouse like that unless something set them off, so what happened back there?\"",
-   "after": "\"Scouts don't tear a farmhouse apart unless they're after something. What happened back there?\"",
-   "why": "Claude's reading (the handoff gives no reason for this change): Silas asks what the scouts wanted rather than what set them off.",
+   "after": "\"Scouts don't tear a farmhouse apart unless they're after something, so what happened back there?\"",
+   "why": "Claude's reading (the handoff gives no reason for this change): Silas asks what the scouts wanted rather than what set them off. **Round 2 (29 September):** one sentence again, keeping the line pass's words. On 27 September the author had asked for this line to be one sentence (\"make it one sentence\").",
    "decision": "accepted",
-   "decision_note": "Accepted in the line pass of 28–29 September (the handoff, §3)."
+   "decision_note": "Accepted in the line pass of 28–29 September (the handoff, §3). Round 2: the author, \"Use the proposed\" (29 September)."
   },
   {
    "section": "The cave",

@@ -432,7 +432,7 @@ He swept his arm out, and the fire left it. It fell across the first two riders 
 
 The smell reached Alaric a moment later. It was the smell of the field he had woken up in.
 
-He had the sword and wanted to help. Alaric tried to stand, but his knees would not unlock.
+He tried to go back down to Gerolt, but his legs just wouldn't move.
 
 *If I go down there, they'll kill me. I don't want to die. I don't want to—*
 

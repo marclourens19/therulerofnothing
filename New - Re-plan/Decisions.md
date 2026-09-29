@@ -144,6 +144,7 @@ The author's direction only. The handoff's recommendations for each point are in
   - Liluth's pursuit brings violence to Foramen, and residents ask why elves and soldiers are chasing him so far into Mydea. Some want his party gone, because they brought death to people who had nothing to do with it.
   - Alaric increasingly concludes that wherever he goes, people die: Gerolt, then Foramen, then the tear.
   - His companions start asking who he is, and what could make him worth following into the most dangerous region in Mydea.
+- **Fort Kelmend and Darcy stay in Volume 1** (29 September): "Yes, but we can discuss what chapter it happens later."
 - **Belonging is the centre.** The author challenged the idea that Alaric's smaller personal preferences should carry the arc. What matters is the travelling group: the *Final Fantasy XV* road trip, where Silas, Redd, Freya and Wena gradually become the place he belongs. His friends can doubt his secrets, or the danger following him, without ceasing to care about him.
 - **The ancient cores** were mass-produced about a thousand years ago, in the war against the princess modern history calls evil. A core gives Alaric no ordinary biography and no easy proof of time travel, and present-day people think arriving from a thousand years ago is impossible. He learns almost nothing straightforward about himself.
 - **His false responsibility.** As the volume goes on he comes to believe that recovering his identity is his responsibility alone. He investigates, withholds and decides by himself, and that leads to the final mistake: he reaches for his past without his companions and helps cause the tear.
@@ -297,7 +298,7 @@ The plan is built in `Volume 1/Chapter 2 - Design.md`.
   - **At the last stand** Alaric tries to move and his body fails him, instead of only explaining in his head that he can't act. His thought is now *If I go down there, they'll kill me. I don't want to die. I don't want to—*
   - The author's round-2 line is trimmed: "Alaric couldn't get up. Gerolt had taken care of him until his dying breath, and now Alaric was going to leave him there and never see him again."
   - Chapter 2 is now 4,656 words. The handoff's working score is 94/100.
-- **Waiting on the author's pick (29 September):** line 435, where Alaric "tried to stand" while he's already on his feet. Claude's first fix was "robotic"; the author's idea is "He tried to continue moving, ever closer towards Gerolt, but his legs just won't move." Options are in `Going Forward.md`.
+- **Round 2 on the line pass (29 September).** Line 435, where Alaric "tried to stand" while he was already on his feet, is now "He tried to go back down to Gerolt, but his legs just wouldn't move." (the author chose option B, built from their own "his legs just won't move"). Claude's first fix had been "robotic".
 
 The decisions below were made for Version 1. They were checked against the redesign on 27 September: most still hold, and the ones the redesign replaced are marked *Superseded*.
 
@@ -376,13 +377,13 @@ The plan is built in `Volume 1/Chapter 3 - Design.md`.
   - Answered against the review: "Then Gerolt died for nothing" stays, because Gerolt's death is decided and Chapter 2 already says it. "Stop drowning in self-pity" stays, because it's the author's line, meant to be harsh, and Alaric's "*Move*" echoes it. *(Superseded by the line pass: see below.)*
 - **The title** is "The Weight of the Living". It was briefly "I'm Sorry" on 28 September and restored the same day, because "I'm Sorry" was too narrowly tied to the closing line (handoff §1).
 - **Line pass (28–29 September, accepted; handoff §3).** Seven changes, in `Volume 1/Chapter 3 - Changes (line pass).md`. Before it, Chapter 3 was the weakest of the four, because Silas withheld both his history and the ordinary reason he was near the farm. His history stays hidden; his arrival now has a cause.
-  - **Silas grounds him:** "They'll be hot on our trail soon enough, boy. Get up and move, or Gerolt died for nothing." It replaces "Stop drowning in self-pity, boy, and move" and "You want to die? Fine…".
+  - **Silas grounds him:** "They'll be hot on our trail soon enough, boy. Get up and move, or Gerolt died for nothing." *(Changed in round 2: see below.)* It replaces "Stop drowning in self-pity, boy, and move" and "You want to die? Fine…".
   - **Silas's accusation:** "And you had his sword in your hands, but you stayed where you were and did nothing," he said quietly. It replaces "like a scared little puppy".
   - **His name:** Alaric waits for Silas to ask his name. Silas doesn't; he starts cleaning his blade. It's observed, never explained as proof that Silas doesn't care.
   - **Why Silas was there:** Alaric asks how he knew Gerolt, and Silas answers a different question: "I heard something from across the river. Sounded like fighting, and by the time I got close enough to see what was happening, it was already too late." / "That isn't what I asked." / "No, it isn't." The rag moved along the blade. "How did you know him?"
   - **The river:** "The river turned him round, the bank went past, and then a fallen tree lying out into the river from the far bank, close enough to touch."
   - Chapter 3 is now 2,026 words. The handoff's working score is 92/100; the opening four together, about 95.
-- **Round 2 on the line pass (29 September).** Agreed: "I didn't." (the answer now fits Silas's new question) and "He let go and went on." ("the man" back to 9). *Waiting on the author's pick* (options in `Going Forward.md`): Silas's "Get up and move" line, since Alaric is already standing (the author's idea: "Move boy, quickly! Or Gerolt died for nothing!"), and the scouts line as one sentence.
+- **Round 2 on the line pass (29 September).** Agreed: "I didn't." (the answer now fits Silas's new question) and "He let go and went on." ("the man" back to 9). Then the author's picks: Silas's line is now "Move, boy, now, or Gerolt died for nothing!" (the author's line; Alaric is already standing, so "Get up" went), and the scouts line is one sentence again: "Scouts don't tear a farmhouse apart unless they're after something, so what happened back there?" Chapter 3 is now 2,016 words.
 
 ## Chapter 4
 
@@ -452,7 +453,16 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 - **Seralune's state** (handoff §15.2). She remembers being a princess yesterday. She wakes to people who are frightened of her, evade her questions and may be deciding what to do with her. She is confused, alarmed and distrustful: what happened, why will nobody answer, why are they afraid of her, what are they planning? She doesn't meekly accept explanations, or act as if she has already adjusted to the present.
 - **Cyrandor's knock is different from Thaer's.** Seralune is so caught up in what happened, and in what Thaer might say, that she first assumes it's Thaer at the door (handoff §14.2). *This changes the agreed ending, where the knocks were "spaced exactly like Thaer's".*
 - **Thaeroval regrets the ancient sealing** and hopes their father may also change his mind. He doesn't want to reseal her straight away, and delays while he holds on to that hope (handoff §14.2). *This changes "stays exactly as written"; see Thaeroval.*
-- *Open:* her first active choice, and what each part's dramatic question is. Nereth's first disobedience ("still undecided", handoff §15.10).
+- **Round 1 of `Volume 1/Chapters 5-10 - Design.md` (29 September):**
+  - **Two parts:** "Yes, agreed. We can break it down further during chapter questions, but that is an okay direction for now." Part 1 runs from the embrace to "Where's Elowen?"; Part 2 from there to the knock.
+  - **The knock:** "Her mind is registering any knock as Thaer in this moment, so regardless of who knocks she would assume it's Thaeroval." Thaer knocks twice and walks straight in (Chapter 4); this knocker knocks and waits, and she says "Thaer?" anyway.
+  - **Through the door** (the author's version, replacing the clear speeches in version 2 of the lines): she paces, frustrated that no one tells her anything and worried, because she has never seen her brother act like this. She hears voices outside and goes to listen. It's mumbled, and she can't make it out: "Is that Thaer speaking? And who else?" She catches something like "She needs to be sealed again", and backs away, shocked: "Who? Me? Sealed? No way." *(Whether she hears "again" is round 2.)*
+  - **Thaer's line through the door** (the author's rough versions): "At least wait for my father to return, he should have answers." Or "Let me speak to her properly first", because last time he didn't, he just sealed her. *(The wording, and whether the second belongs here, are round 2.)*
+- *Open:* what each part's dramatic question is, and Nereth's first disobedience ("still undecided", handoff §15.10).
+
+## Chapter 6
+
+- **A day on the road first** (29 September). The author: "I recommend having a day on the road first, having Alaric distrust Silas, and Silas not responding to questions." So Marta's door moves to a later Alaric chapter. What turns the day is round 2 of `Volume 1/Chapters 5-10 - Design.md`.
 
 ## Alaric
 

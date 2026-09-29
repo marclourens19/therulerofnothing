@@ -1,6 +1,6 @@
 # Chapters 5–10: Design
 
-Started 29 September 2026. **Status:** round 1 asked.
+Started 29 September 2026. **Status:** round 1 answered; round 2 asked.
 
 The author: "We can design chapters 5–10, the design of them / structure, not the actual content yet." So this file settles what each chapter is for: whose eyes, where it starts and ends, what the viewpoint character wants, the choice that turns it, what's different by the end, the small answer it pays, and the hook. Scenes and lines come later, one chapter at a time, as they did for Chapters 2–4.
 
@@ -49,14 +49,14 @@ Chapters 3 and 5 end at the same first light, and nothing on the page needs to s
 | Ch | Eyes | Runs | Its question | The choice | What's different by the end | Hook |
 |---|---|---|---|---|---|---|
 | **5, Part 1** | Seralune | The chamber to her room, night | What happened to the world she remembers? | She answers for herself in front of the court ("You can just ask me") | It's been a very long time, and no one she knew is left | Nobody has heard of Elowen |
-| **5, Part 2** | Seralune | Her room to first light | What is her family preparing to do to her? | She listens at the door on purpose, and keeps what she heard to herself | She knows they're remaking the thing she woke in | A knock she takes for Thaer's |
-| **6** | Alaric | Day 2, the cave to Marta's door at night | Can he do the one thing Gerolt asked of him? | He goes to Marta when Silas says it's madness | Silas is shaken; Kelmend is shown to be a trap | Marta opens the door and sees Silas |
+| **5, Part 2** | Seralune | Her room to first light | What is her family preparing to do to her? | She goes to the door to listen (the author's version, round 1) | She's heard "sealed", and they're remaking the thing she woke in | A knock she takes for Thaer's |
+| **6** | Alaric | Day 2 on the road (round 1) | Can he trust the man who won't answer him? | Open (round 2) | Open (round 2) | Open (round 2) |
 | **7** | Seralune | Day 2, from the knock (where it ends is round 2) | Will she follow a stranger who answers her? | She goes, and doesn't order Nereth to come | She has the number, and her mother's side of it | Open (round 2) |
-| **8** | Alaric | Marta's inn | What is he, to people who can see it? | He accepts shelter that has to be earned | "Empty" stops being Gerolt's word and becomes a danger | Darcy, and the price on the Faint quarter |
+| **8** | Alaric | Kelmend and Marta's inn (moved from Chapter 6 by round 1) | What is he, to people who can see it? | He accepts shelter that has to be earned | "Empty" stops being Gerolt's word and becomes a danger | Darcy, and the price on the Faint quarter |
 | **9** | Alaric | Kelmend's Faint quarter | Whose lives does the hierarchy spend? | He decides to help, knowing it costs other people | Redd and Freya are in it with him | Open (round 2) |
 | **10** | Seralune | After the escape | What did her imprisonment cost Natharul, and Nereth? | Open (round 2) | Open | Open |
 
-The fort and Darcy's refusal come after Chapter 10 on this plan (Chapters 11–12), so each gets room.
+The fort and Darcy's refusal stay in Volume 1 (round 1); which chapters they take is for later. **Revised after round 1:** Chapter 6 is now a day on the road, so Marta's door moves to Chapter 8, and the rows for Chapters 8–10 are held loosely until round 2.
 
 **Viewpoint balance by Chapter 10:** Alaric 6 chapters, Seralune 4 (counting Chapter 5 once), about 60/40, which is where the proposal puts the whole volume.
 
@@ -144,3 +144,38 @@ The old characters are out of date: everyone is re-voiced from `Decisions.md`.
 7. **Chapter 10 is Seralune's?**
    - *Recommended:* yes, after the escape. Leaving her from Chapter 7 until 13 would be too long.
    - *Your call, new:* the royal warship in Chapter 6 (above). Yes or no.
+
+**Answers (29 September).**
+1. **Chapter 5 in two parts:** "Yes, agreed. We can break it down further during chapter questions, but that is an okay direction for now."
+2. **The knock:** "Yes. Her mind is registering any knock as Thaer in this moment, so regardless of who knocks she would assume it's Thaeroval." (So the knock and then the wait stay as proposed: an honest difference a reader can catch, which she doesn't.)
+3. **Her first choice,** in the author's words: "She is walking back and forth in the room. She is frustrated that no one is telling her anything, and getting a bit worried, since she has never seen her brother act like this. She then hears voices outside and goes to listen. She hears a mumbled conversation which she can't make out: 'Is that Thaer speaking? And who else?' She hears something like 'She needs to be sealed again', then backs away shocked: 'Who? Me? Sealed? No way.'"
+   - This replaces the clear speeches through the door in version 2 of the lines. Through a door she gets fragments, not sentences, which is truer to where she's standing.
+4. **Thaer's line:** "He should be like, 'At least wait for my father to return, he should have answers.' Or 'Let me speak to her properly first', because last time he didn't, he just sealed her."
+5. **Chapter 6:** "I recommend having a day on the road first, having Alaric distrust Silas, and Silas not responding to questions."
+6. **Fort Kelmend and Darcy in Volume 1:** "Yes, but we can discuss what chapter it happens later."
+7. **Chapter 10 and the warship:** "We can decide later."
+
+The heading on the answers said "Chapters 5–15" (round 2, question 1).
+
+## Round 2 (asked 29 September)
+
+1. **Chapters 5–10, or 5–15?** Your answers were headed "Chapters 5–15".
+   - *Recommended:* design the structure to Chapter 15. With a whole day on the road in Chapter 6, Kelmend (Marta, the verdict of "Empty", Redd and Freya, the fort, Darcy) can't finish by Chapter 10, and its pieces are easier to place if we can see the whole movement.
+   - *Alternative:* stop at 10 as first planned, and do 11–15 next.
+2. **"Sealed again."** The word "again" tells her outright that she was sealed once already. That's more than round 4 agreed, where she heard "the seal" and had to work out for herself what that room was.
+   - *Recommended:* she catches "…sealed…" and not "again", so the last step is still hers: *Who? Me? Sealed?* then *Is that what that room was?* (your round 4 thought).
+   - *Alternative:* keep "again". She knows from this moment that it was done to her before.
+3. **Thaer's line, in his voice.** Through a door, only a voice raised in anger carries whole, and round 3 already has him "a bit angry" here.
+   - **Your version:** "At least wait for my father to return, he should have answers."
+   - **A (recommended):** "At least wait until Father's back. He'll have answers."
+   - **B:** "No one touches my sister, not until Father's back." (It joins your line to the agreed "No one touches my sister".)
+   - *My reading of "he should have answers":* their father has gone to see the field in Mydea, on the same day the seal broke, so Thaer hopes he'll come back knowing why. Nothing on the page needs to say it. Is that what you mean?
+   - **Your second version** ("Let me speak to her properly first, because last time he just sealed her"): *recommended, save it for later.* Through a door it would tell her that her own brother sealed her, which is the biggest truth she has in Volume 1 so far. It deserves a scene where she hears it to his face, perhaps in the escape.
+4. **When Thaer comes back, after she's heard "sealed".**
+   - *Recommended:* she doesn't tell him what she heard. She asks him what they're going to do with her, and gives him the chance to tell her the truth. He tells her to rest. The agreed anger lines stay ("You told me to follow you, and I did…"), and "You said you'd be back before evening, too" lands harder, because now she knows he's keeping something from her.
+   - *Alternative:* she throws it at him: "What seal, Thaer?" He has to deflect to her face.
+5. **Chapter 6: a day on the road, and Silas won't answer.** Right after Seralune's knock, the reader needs Chapter 6 to change something, not only walk. So by nightfall the distrust has to lead somewhere.
+   - What turns the day, as you see it?
+   - *My suggestion, to change freely:* Alaric acts on his distrust. He tries to go on to Kelmend alone, because Gerolt told him Marta and Silas won't tell him anything. It goes wrong in a small way, Silas has to come after him, and Silas doesn't win cleanly (the review note).
+   - *Where it ends:* *Recommended,* at night outside Kelmend, with Marta's door in Chapter 8.
+

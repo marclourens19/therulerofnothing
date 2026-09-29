@@ -28,7 +28,7 @@ He stood among the trees with the sword hanging from his hand and couldn't make 
 
 The man came back for him. He took Alaric by the front of his shirt and pulled him close, close enough that Alaric could see the pale scar running down his cheek.
 
-"They'll be hot on our trail soon enough, boy. Get up and move, or Gerolt died for nothing."
+"Move, boy, now, or Gerolt died for nothing!"
 
 He let go and went on.
 
@@ -146,7 +146,7 @@ Silas kept his eyes on the steel. "I heard something from across the river. Soun
 
 "I didn't."
 
-"Scouts don't tear a farmhouse apart unless they're after something. What happened back there?"
+"Scouts don't tear a farmhouse apart unless they're after something, so what happened back there?"
 
 Alaric opened his mouth and couldn't answer.
 

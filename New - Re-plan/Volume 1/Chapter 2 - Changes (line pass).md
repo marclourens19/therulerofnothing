@@ -2,14 +2,14 @@
 
 Written on 29 September 2026. This records the line pass made outside this repository on 28–29 September, in the conversation summarised in `New - Re-plan/Claude Handoff.md` (§3). The author accepted every change, and the chapter now matches the text they supplied.
 
-The chapter as it stood before the pass is saved unchanged as `Drafts/Chapter 2 - The Price of a Voice (Draft 3, before the line pass).md`, and every change here is measured against it. The rounds before the pass are in `Chapter 2 - Changes.md`. **Later rounds go on this list** (`Drafts/Chapter 2 - change list (line pass).json`).
+The chapter as it stood before the pass is saved unchanged as `Drafts/Chapter 2 - The Price of a Voice (Draft 3, before the line pass).md`, and every change here is measured against it. The rounds before the pass are in `Chapter 2 - Changes.md`. **Round 2** (29 September) is an edit folded into change 9. **Later rounds go on this list** (`Drafts/Chapter 2 - change list (line pass).json`).
 
 Each reason says where it comes from: the handoff when it gives one, or Claude's reading when it doesn't. Changes tagged as the author's own lines replaced something the author wrote or designed; they are listed below, under "The author's own lines this pass replaced".
 
 ## At a glance
 
 - **10 changes proposed.** 0 rejected so far, so 10 are in the chapter: 9 rewritten, 1 cut and 0 added.
-- **Length:** 4,721 words before, 4,656 after.
+- **Length:** 4,721 words before, 4,652 after.
 - **Median paragraph:** 15 words before, 15 after. The house target is roughly 14–22.
 - **"Nothing":** 2 times before, 2 after.
 
@@ -29,7 +29,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 6, The ride's last thought:** Accepted in the line pass of 28–29 September (the handoff, §3).
 - **Change 7, The sword:** Accepted in the line pass of 28–29 September (the handoff, §3).
 - **Change 8, He finished with a cough:** Accepted in the line pass of 28–29 September (the handoff, §3).
-- **Change 9, He can't move:** Accepted in the line pass of 28–29 September (the handoff, §3).
+- **Change 9, He can't move:** Accepted in the line pass of 28–29 September (the handoff, §3). Round 2: the author chose option B (29 September).
 - **Change 10, Alaric couldn't get up:** Accepted in the line pass of 28–29 September (the handoff, §3).
 
 ## The author's own lines this pass replaced
@@ -186,13 +186,13 @@ Changes 1, 6, 9, 10. The handoff records them as accepted. They are listed here 
 
 **After**
 
-> He had the sword and wanted to help. Alaric tried to stand, but his knees would not unlock.
+> He tried to go back down to Gerolt, but his legs just wouldn't move.
 >
 > *If I go down there, they'll kill me. I don't want to die. I don't want to—*
 
-**Why.** The handoff, §3: "Alaric now attempts to move during the final stand and fails physically, rather than only explaining inside his head that he is unable to act." His thought keeps its last turn ("I don't want to die"). The author's rough thought for this moment was "What do I do, I can't do anything, I want to help, I can't, I'm scared to help, I will die, I don't want to die."
+**Why.** The handoff, §3: "Alaric now attempts to move during the final stand and fails physically, rather than only explaining inside his head that he is unable to act." His thought keeps its last turn ("I don't want to die"). The author's rough thought for this moment was "What do I do, I can't do anything, I want to help, I can't, I'm scared to help, I will die, I don't want to die." **Round 2 (29 September):** the line pass had him "try to stand" three paragraphs after he stopped on his feet. Claude's first fix was "robotic"; the author's idea was "He tried to continue moving, ever closer towards Gerolt, but his legs just won't move", and of the two options built from it the author chose B.
 
-**Your decision.** Accepted in the line pass of 28–29 September (the handoff, §3).
+**Your decision.** Accepted in the line pass of 28–29 September (the handoff, §3). Round 2: the author chose option B (29 September).
 
 #### 10. Alaric couldn't get up
 
