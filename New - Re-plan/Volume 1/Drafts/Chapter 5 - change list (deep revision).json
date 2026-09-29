@@ -3,10 +3,13 @@
  "draft": "Chapter 5 - The Shape of Absence (Draft 4, the deep revision).md",
  "chapter": "../Chapter 5 - The Shape of Absence.md",
  "changes_file": "../Chapter 5 - Changes (deep revision).md",
- "intro_md": "Started 29 September 2026. Chapter 5 was rewritten from the new design agreed in `Chapter 5 - Design.md` (\"The deep revision\"), and the rewrite is compared with the version before it, scene by scene, in `Chapter 5 - What the Deep Revision Changed.md`. Its first draft is saved unchanged as `Drafts/Chapter 5 - The Shape of Absence (Draft 4, the deep revision).md`, and every round from here is a change against it. The version before the deep revision is `Drafts/Chapter 5 - The Shape of Absence (Draft 3, before the deep revision).md`, written by `Drafts/Chapter 5 - change list.json`.\n\n- **Round 1** (29 September, change 1): the author's note on the window and the bread: \"I don't agree she should eat, and remove 'sill'. [Stop] putting buzz words.\"",
+ "intro_md": "Started 29 September 2026. Chapter 5 was rewritten from the new design agreed in `Chapter 5 - Design.md` (\"The deep revision\"), and the rewrite is compared with the version before it, scene by scene, in `Chapter 5 - What the Deep Revision Changed.md`. Its first draft is saved unchanged as `Drafts/Chapter 5 - The Shape of Absence (Draft 4, the deep revision).md`, and every round from here is a change against it. The version before the deep revision is `Drafts/Chapter 5 - The Shape of Absence (Draft 3, before the deep revision).md`, written by `Drafts/Chapter 5 - change list.json`.\n\n- **Round 1** (29 September, change 1): the author's note on the window and the bread: \"I don't agree she should eat, and remove 'sill'. [Stop] putting buzz words.\"\n- **Round 2** (29 September, changes 2–5): the author's review, \"Several things still keep it below the level of Chapter 4\": Thaer's first look at her, Leorin's first words, her plea to Thaer, and \"Sometime\". Its first point, italics for her thoughts, needed no change: every thought is already in italics in the file, and a plain-text copy loses them.",
  "glance": [],
  "summary_md": "",
  "sections": {
+  "The chamber": "The chamber",
+  "Leorin": "Leorin at the foot of the stairs",
+  "Thaer": "Thaer comes back",
   "The night": "The night"
  },
  "changes": [
@@ -20,6 +23,58 @@
    "before": "She got up and went to the window. The shutters still stood open, and the spray blew in cold off the falls. She leaned out as far as she dared. The wall dropped away beneath the sill, smooth and wet, all the way down to where the falls met the forest, so far below her that she couldn't see the bottom.\n\nShe stayed there until her hands were numb on the sill. Then she went back to the table, pulled the tray towards her and ate the bread. It hurt to swallow, and she ate every piece of it.\n\nAfter that she sat on the bed with her back against the wall, and listened to every blow, and waited for morning, and for Thaer.",
    "after": "She got up and went to the window. The shutters still stood open, and the spray blew in cold off the falls. She leaned out as far as she dared. The wall dropped away beneath her, smooth and wet, all the way down to where the falls met the forest, so far below that she couldn't see the bottom.\n\nShe stayed there until the cold had got into her hands. Then she went back to the bed and sat with her back against the wall, and listened to every blow, and waited for morning, and for Thaer.",
    "why": "The author: \"I don't agree she should eat, and remove 'sill'. [Stop] putting buzz words.\" So she no longer eats the bread (call 14 is a no, and so is the eating agreed in round 1, question 3). She still goes to the window and looks down at the drop. \"Sill\" goes both times: \"beneath her\" says where the wall drops, and \"until the cold had got into her hands\" is how Chapter 4 says it (\"The cold of it had got into that whole side of her face\"). \"You haven't eaten.\" and Thaer looking at the bread stay, because they're about him avoiding her, not about the food.",
+   "decision": "accepted",
+   "decision_note": "The author's note (29 September)."
+  },
+  {
+   "section": "The chamber",
+   "title": "\"At last, he looked at her\"",
+   "kind": "changed",
+   "tags": [
+    "round2"
+   ],
+   "before": "At last he saw her. He went to sheathe his sword without looking, but the point missed and scraped across the plates at his hip, and he had to look down to find the sheath. She had watched him put that sword away all her life, and he had never once needed to look.",
+   "after": "At last, he looked at her. He went to sheathe his sword without looking, but the point missed and scraped across the plates at his hip, and he had to look down to find the sheath. She had watched him put that sword away all her life, and he had never once needed to look.",
+   "why": "The author's review: \"'At last he saw her' → 'At last, he looked at her.'\" It makes \"look\" four times in three sentences, but the first two now read as cause and effect: he looks at her at last, so he doesn't look at the sword, and misses.",
+   "decision": "accepted",
+   "decision_note": "The author's line (29 September)."
+  },
+  {
+   "section": "Leorin",
+   "title": "\"What have you done?\"",
+   "kind": "changed",
+   "tags": [
+    "round2"
+   ],
+   "before": "Then he turned to Thaer. \"Thaeroval. What happened here? Why has the door been cut down?\"\n\nHe was looking past them at the doorway, and at the door lying in two pieces on the floor. Then his eyes came back to the sword at Thaer's hip, and stayed there.",
+   "after": "Then he turned to Thaer. \"Thaeroval.\" He looked from the ruined door to the sword at Thaer's hip. \"What have you done?\"",
+   "why": "The author's review: \"Leorin's opening still asks about visible evidence… 'Thaeroval.' Leorin looked from the ruined door to the sword at his hip. 'What have you done?'\" It replaces the author's own line from round 2 of the design (\"What happened here? Why is the door cut down?\"). Two fixes to fit the page: the narration says \"He\", not \"Leorin\", because she doesn't know him yet (she recognises him two paragraphs later); and it's \"Thaer's hip\", since \"his hip\" would read as Leorin's own. The look that followed the old question is now inside the new one, so that paragraph goes.",
+   "decision": "accepted",
+   "decision_note": "The author's line (29 September), with the two fixes."
+  },
+  {
+   "section": "Thaer",
+   "title": "\"You're all I have\"",
+   "kind": "changed",
+   "tags": [
+    "round2"
+   ],
+   "before": "\"Did I do something wrong? Nobody will tell me anything, and you… you of all people.\"",
+   "after": "\"I don't know anyone here, Thaer. You're all I have, and you won't even look at me. Did I do something wrong?\"",
+   "why": "The author's review: \"One emotional line remains generic… More personal: 'Did I do something wrong? I don't know anyone here, Thaer. You're all I have, and you won't even look at me.'\" It replaces the author's own \"you… you of all people\". One fix: the question comes last, so that Thaer's \"No.\", which comes \"at once\", answers it. After \"you won't even look at me\", a bare \"No.\" would read as him denying that. \"You won't even look at me\" also fits what the page shows: on the gallery \"He wouldn't even look at her\", and his eyes only come up to hers at his full name.",
+   "decision": "accepted",
+   "decision_note": "The author's line (29 September), with the question moved to the end."
+  },
+  {
+   "section": "The night",
+   "title": "\"Sometime in the night\"",
+   "kind": "changed",
+   "tags": [
+    "round2"
+   ],
+   "before": "Some time in the night, she felt a blow through the soles of her feet before she heard it, dull and heavy, and then another, and another, slow and steady.",
+   "after": "Sometime in the night, she felt a blow through the soles of her feet before she heard it, dull and heavy, and then another, and another, slow and steady.",
+   "why": "The author's review: \"'Some time in the night' → 'Sometime in the night.'\" Both forms are correct British English; the author has asked for this one twice.",
    "decision": "accepted",
    "decision_note": "The author's note (29 September)."
   }

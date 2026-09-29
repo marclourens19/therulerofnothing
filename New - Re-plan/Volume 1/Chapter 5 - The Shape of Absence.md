@@ -2,7 +2,7 @@
 
 "What's wrong?" she whispered.
 
-At last he saw her. He went to sheathe his sword without looking, but the point missed and scraped across the plates at his hip, and he had to look down to find the sheath. She had watched him put that sword away all her life, and he had never once needed to look.
+At last, he looked at her. He went to sheathe his sword without looking, but the point missed and scraped across the plates at his hip, and he had to look down to find the sheath. She had watched him put that sword away all her life, and he had never once needed to look.
 
 Then his arms came round her.
 
@@ -50,9 +50,7 @@ An old man walked down between them. The guards stood aside for him without bein
 
 He bowed to her, low. "Your Highness."
 
-Then he turned to Thaer. "Thaeroval. What happened here? Why has the door been cut down?"
-
-He was looking past them at the doorway, and at the door lying in two pieces on the floor. Then his eyes came back to the sword at Thaer's hip, and stayed there.
+Then he turned to Thaer. "Thaeroval." He looked from the ruined door to the sword at Thaer's hip. "What have you done?"
 
 She looked at the old man properly. There was something in his face under all those lines, and the longer she looked, the more of it she knew, until she could see the young man she remembered.
 
@@ -218,7 +216,7 @@ After a while there were two knocks, and Thaer came in before she could answer, 
 
 He stood just inside the door and said nothing.
 
-"Did I do something wrong? Nobody will tell me anything, and you… you of all people."
+"I don't know anyone here, Thaer. You're all I have, and you won't even look at me. Did I do something wrong?"
 
 "No." It came at once.
 
@@ -260,7 +258,7 @@ She didn't sleep. She sat on the bed while the fire burned low, and Nereth stood
 
 *And Mother? Mother would never let them do this to me.*
 
-Some time in the night, she felt a blow through the soles of her feet before she heard it, dull and heavy, and then another, and another, slow and steady.
+Sometime in the night, she felt a blow through the soles of her feet before she heard it, dull and heavy, and then another, and another, slow and steady.
 
 *What are those noises? They're coming from under the palace, from where I just was.*
 

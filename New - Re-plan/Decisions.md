@@ -518,6 +518,11 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 - **The deep revision is written (29 September):** `Volume 1/Chapter 5 - The Shape of Absence.md`, 3,208 words (2,190 before). `Volume 1/Chapter 5 - What the Deep Revision Changed.md` compares it with the version before, scene by scene, and lists fourteen calls on Claude's own new lines. Everything agreed, written plainly, came to just under 2,900 words; going further needs backstory only the author can give (a memory of Thaer, of her mother, of Leorin young). Later rounds go on `Volume 1/Drafts/Chapter 5 - change list (deep revision).json`.
 - **Round 1 on the rewrite (29 September):** "I don't agree she should eat, and remove 'sill'. [Stop] putting buzz words." She goes to the window and looks down at the drop, then goes back to the bed; she doesn't eat. "Sill" is gone. (Change 1 in `Volume 1/Chapter 5 - Changes (deep revision).md`.) The other thirteen calls and the question of adding a memory are still open.
 - **Round 2 on the rewrite (29 September).** Claude's other thirteen new lines stay for now: "Keep, I'll read and review." No memories are added: the length is "fine as is" (3,181 words). The 4,000–5,000 target applies from Chapter 6. *To confirm:* whether "She looked from the tray to him. He was still looking at the bread." stays (the author's "yes" could mean either).
+- **The author's review (29 September):** "Several things still keep it below the level of Chapter 4." Applied as changes 2–5 in `Volume 1/Chapter 5 - Changes (deep revision).md`:
+  - **Leorin's first words** are now "Thaeroval." He looked from the ruined door to the sword at Thaer's hip. "What have you done?" This replaces the author's own "What happened here? Why has the door been cut down?" (round 2 of the design). The narration says "He", because she doesn't know him yet.
+  - **Her plea to Thaer** is now "I don't know anyone here, Thaer. You're all I have, and you won't even look at me. Did I do something wrong?", replacing "Nobody will tell me anything, and you… you of all people." The question comes last, so his "No." answers it.
+  - "At last, he looked at her." and "Sometime in the night".
+  - **Italics:** every thought was already in italics in the file. The review saw a plain-text copy, which drops them.
 - *Open:* Nereth's first disobedience ("still undecided", handoff §15.10).
 
 ## Chapter 6

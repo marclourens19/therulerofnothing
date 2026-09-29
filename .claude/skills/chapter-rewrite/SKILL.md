@@ -219,6 +219,7 @@ This is the short form. The full rules are in the design bible §2.3 and the old
   - Connected prose for ordinary experience. A one-line paragraph only for a real narrowing of attention.
   - Median paragraph roughly 14–22 words. Chapter 1 sits at 14.
 - **Italics:** only immediate unspoken thought (*Was I here with them?*), precise stress (*nothing*, *him*), and the knocks (*Tock.*), which are the chapter's precedent for sound.
+- **Plain-text copies lose italics.** Twice on 29 September, a review the author passed on said the thoughts or the heading weren't formatted, when the file had them. It had been given a plain-text copy. Before "fixing" italics or headings, check the file, and tell the author the copy dropped them rather than changing anything.
 - **No stress marks inside italic thoughts.** Un-italicising a word inside a thought to stress it (*What did I* do*?*) was taken out every time it came up in the accepted passes: Chapter 3's "do" and "was", Chapter 4's "doing". Stress in speech stays ("Just come *on*!", "*nothing*").
 - **Bold:** only **THOOM**, which is Alaric's heartbeat and nothing else, plus very rare, purposeful sounds.
 - **Typography:** keep 『Affinity』 and 『Magic』. "Magic" is the ancient word, and Alaric thinks it but doesn't say it.

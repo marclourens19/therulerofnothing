@@ -6,7 +6,7 @@ The new chapter is saved unchanged as `Drafts/Chapter 5 - The Shape of Absence (
 
 ## At a glance
 
-- **Length:** 2,190 words before, 3,208 in the rewrite, and 3,181 after round 1 (below). That's short of the 4,000 we aimed for; see "Why it isn't 4,000" below.
+- **Length:** 2,190 words before, 3,208 in the rewrite, 3,181 after round 1, and about 3,160 after the author's review (round 2). Both rounds are in `Chapter 5 - Changes (deep revision).md`. That's short of the 4,000 we aimed for; see "Why it isn't 4,000" below.
 - **Shape:** the same night, in her eyes, from the chamber to the knock. There are still no scene breaks.
 - **Every agreed line is in,** in the words agreed, with one exception: "calling and calling" isn't repeated in her line to Thaer, because the line before it already says "I called and called".
 - **What she ends the night knowing:**
