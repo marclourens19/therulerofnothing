@@ -1,6 +1,6 @@
 # Chapter 6: Design
 
-Started 29 September 2026. **Status:** the design is agreed (the 22-step sequence plus the round 3 answers, below); only the title waits, and the author will choose it later. The dialogue round is waiting on the author. The author's detailed proposal is kept verbatim in `Chapter 6 - Design Proposal.md`. Nothing is written yet. The order stays the same as for every chapter: the design is agreed, then a dialogue round, then Claude says the chapter is ready and waits for the go-ahead.
+Started 29 September 2026. **Status:** the design is agreed (the 22-step sequence plus the round 3 answers, below), and so is the dialogue: the author's pass is kept verbatim in `Chapter 6 - Dialogue.md`. Claude's last notes on it (below) are waiting on the author, then the go-ahead. The author will choose the title later. The author's detailed proposal is kept verbatim in `Chapter 6 - Design Proposal.md`. Nothing is written yet. The order stays the same as for every chapter: the design is agreed, then a dialogue round, then Claude says the chapter is ready and waits for the go-ahead.
 
 **The target** (29 September): 4,000–5,000 words, and longer if the story needs it. Chapter 5 taught that length comes from what happens, so this design plans enough happening from the start: six scenes, each with something that changes.
 
@@ -267,3 +267,44 @@ The key exchanges, in order. Each has Claude's versions in the characters' voice
 - "What is that?" / A long wait, and Silas doesn't take his eyes off it. "Natharul." Then the bell starts on the wall.
 - "Is it coming here?" / "No." Silas watches it turn out over the river, the way they came, and then he looks at Alaric for longer than he looked at the ship, and says nothing about why.
 - The end: 1. "Alaric. Get Wena into the trees." *(recommended; the first "Alaric" since the bandage, used in a hurry)* 2. The proposal's "Alaric. Get Wena into cover."
+
+## The dialogue pass (the author, 30 September)
+
+The author answered the dialogue round with a full pass, D1–D14, in scene, kept word for word in `Chapter 6 - Dialogue.md`. It takes most of the recommended options and builds them into exchanges with interruptions and practical work, and it adds:
+- "I'm not sending you up to those guards on your own", Silas's practical reason for coming;
+- the bread Wena swallows, and Silas's "Oh, for fuck's sake";
+- "Just a moment", and Silas's footsteps not starting again;
+- the ogre repeating "Put me down";
+- Silas's question under the ship: "All those bodies. You said they were on Gerolt's land?"
+
+The author's notes also settle:
+- **The ogre pinned:** it's pinned only briefly, by its own momentum and Silas's leverage against the trunk, and he can't let go while it's reaching for Alaric and Wena.
+- **Small craft** are optional, not ruled out.
+- **The fed ogre resting** is Silas's judgement, never a rule the narration confirms.
+- **D7 drops "before I'd finished saying it"**, because in Chapter 3 Silas reacts after Alaric's full explanation.
+- **The mimicry** stays unsettling, never comic.
+- **Revisit 100/100 against the complete scenes.**
+
+### Claude's notes on the pass
+
+What works best:
+- **D8 and D12.** In D8, Alaric offers the deal himself (wait till dark, Silas checks first, then they go in together), and Silas says "We'll see." In D12, Silas agrees to nearly the same thing. So the concession is Silas saying yes to what the boy already asked for, which is why it costs him something. The draft should keep that visible.
+- **D9's "What if she won't let him in?"** is Alaric worrying, without knowing it, about the one thing Silas is hoping for (answer E).
+- **D12's "You said, 'We'll see.'"** Alaric hands Silas's own words back to him.
+
+To fix:
+1. **D4 gives away D12's news.** "From the south, if the way's clear. I'll have a look when we get closer." already tells Alaric what Silas is checking, so in D12 "There's a way along the south wall. That's what I was checking." tells him nothing new, and his complaint "tell me what you're checking" has already been answered. *Proposed:* make D4 vaguer: "Not by the gate. I'll find us a way in when we're closer." The south wall is then new in D12.
+2. **D9 needs a setup.** "The town's beyond that rise—he pointed it out himself" has no pointing before it. *Proposed:* in D8, before he goes: "Kelmend's past that rise. Stay here a minute. I need a look at what's below us."
+3. **D7 doesn't pick up D6,** and that was the author's condition 1. "You knew his name" is weak evidence too, because in Chapter 3 Alaric said "Gerolt" first ("How did you know Gerolt?"). *Proposed:* open from what he just saw: "You knew him, didn't you? Back there, when she said his name, you didn't hear a word I said." Then "Silas, I asked you last night…" and "when I said Marta—" follow as written.
+4. **D12's "Can we leave it for now?"** is softer than Silas has been all book. *Proposed:* "Leave it at that for now." It's still tired, and "for now" still promises something later.
+5. **D14 starts on sight, but the ship's first sign should be the hum** (Chapter 5: "it hummed so low that she felt it in her chest"). Step 20 had "a low sound". Also, "Silas stepped back towards the trees. / 'Alaric. Get Wena into the trees.'" repeats "trees". *Proposed:* "Silas stepped back off the open ground." And "the spines beneath" might read better as "the spines along it", since the *Agrius* has spines along it and spires hanging beneath. Your call.
+6. **Small ones:**
+   - D1's "Get your things" when all he has is a sword and a dog. "Get up" works, or leave it and let him notice.
+   - D6: they're in cover, so "Do you know them?" is said low.
+
+**100/100, against the complete scenes.** The dialogue now carries every turn the design asked for. What's left is prose Claude will write:
+- the fight (the heated blade seen through Alaric's eyes, and the grip);
+- step 18's change in how they walk;
+- step 19's moment of relief at Kelmend.
+
+The one thing to watch is that Gerolt doesn't drop out of Alaric's head between the smoke (D3) and the neighbours (D6). The deer and the road give him room for one plain thought of him.
