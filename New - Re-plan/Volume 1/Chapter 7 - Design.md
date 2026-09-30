@@ -1,6 +1,6 @@
 # Chapter 7: Design
 
-Started 30 September 2026. **Status:** the chapter is the author's own revision (30 September) with Claude's six notes applied at the author's request (20 changes in `Chapter 7 - Changes.md`; 4,203 words).
+Started 30 September 2026. **Status:** finished (30 September). This is the author's revision with Claude's six notes and three final passes applied: 24 changes in `Chapter 7 - Changes.md`, 4,203 words.
 
 **The target:** 4,000–5,000 words, and longer if the story needs it. Claude will give a range, not a single number, because Chapters 5 and 6 both came in about a quarter under Claude's budgets.
 
@@ -588,3 +588,13 @@ The author: "make 1-6 as a change list". All six are applied, 20 changes in `Cha
 4. His silence confirms the thousand years.
 5. "Until Father comes home".
 6. Three small fixes: "He didn't answer", Nereth's shout at the door, and "the next flight".
+
+**Three final passes (30 September).** The author: "then do a pass for errors, pov slips etc, then do 2 more passes one after each finalising eveything". Each pass was a full read, and each found less.
+
+- **Pass 1:**
+  - "beneath them" is now "Under the shouting";
+  - three "might"s in her speech became one sentence fewer;
+  - "His eyes went up the stair";
+  - "on the rail".
+- **Pass 2:** Cyrandor's hands "folded", like Nereth's in Chapter 5.
+- **Pass 3:** "He didn't." after "Then tell me!", because "He didn't answer" came twice on the stair.

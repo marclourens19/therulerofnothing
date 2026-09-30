@@ -82,7 +82,7 @@ Then the rest of it caught up.
 
 "Then where is she? If she was the only one against it, why am I still here? Why didn't she come for me?"
 
-"I wish I had an answer for you, Your Highness. We were told she went looking for a way to help you. Before she left, she asked a few of the servants to watch over you and send her word." His hands settled over the bundle, the way Nereth's did. "That was how it began."
+"I wish I had an answer for you, Your Highness. We were told she went looking for a way to help you. Before she left, she asked a few of the servants to watch over you and send her word." His hands folded over the bundle, the way Nereth's did. "That was how it began."
 
 That night on the step, she had been lost for an hour. This time it had been a thousand years, and her mother had gone looking somewhere else.
 
@@ -244,7 +244,7 @@ Nereth caught the ring with both hands and pulled. "Cyrandor, open it. Open the 
 
 Boots arrived on the other side. Through the shouting, Seralune heard, "He's put the key down the drain! Round by the south court!" Then another voice: "Tell the prince. They've gone down the south stair."
 
-Cyrandor said something beneath them, too quietly for her to hear.
+Under the shouting, Cyrandor said something too quietly for her to hear.
 
 "Cyrandor! Answer me!" Nereth pulled again. The door stayed shut.
 
@@ -336,7 +336,7 @@ He stopped.
 
 "Then tell me! I've been asking you since you found me."
 
-He didn't answer.
+He didn't.
 
 "I'm going to Mydea. Mother went to Inrandeel, and I need to find out what she was looking for."
 
@@ -352,7 +352,7 @@ He looked down at the rail.
 
 She waited for him to tell her the old man was wrong. When he didn't, she drew a breath that hurt all the way in.
 
-"I know Mother might not be there any more. But the elves might remember her. They might know what she found. I have to ask."
+"Mother might not be there any more. I know that. But the elves might remember her, or know what she found. I have to ask."
 
 "Come with me, Thaer. Please."
 
@@ -364,7 +364,7 @@ He didn't answer.
 
 "Thaer?"
 
-His eyes went towards the stair.
+His eyes went up the stair.
 
 She went down one step, and then the next. He moved before she reached the landing: one step up, into her way, and his hand came up, the right one, with the knuckles still raw where he had struck the wall.
 
@@ -392,7 +392,7 @@ She turned back to her brother.
 
 "I was waiting for Father. I thought he might listen to me."
 
-"Then why couldn't you tell me that?" Her hand tightened around the rail. "I waited for you all night."
+"Then why couldn't you tell me that?" Her hand tightened on the rail. "I waited for you all night."
 
 He looked away.
 

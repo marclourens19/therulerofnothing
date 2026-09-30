@@ -7,7 +7,10 @@
   "sections": {
     "Names": "Note 1: names and titles",
     "Stair": "Notes 2–5: the stair",
-    "Small": "Note 6: smaller things"
+    "Small": "Note 6: smaller things",
+    "Pass 1": "Pass 1: errors, POV slips and the like",
+    "Pass 2": "Pass 2",
+    "Pass 3": "Pass 3, the final pass"
   },
   "changes": [
     {
@@ -212,11 +215,12 @@
       "title": "His silence confirms it",
       "kind": "changed",
       "tags": [
-        "confirm"
+        "confirm",
+        "pass1"
       ],
       "before": "\"I know how long I've been in there. A thousand years, Thaer. He told me.\" She waited for him to look at her. \"I know Mother might not be there any more. But the elves might remember her. They might know what she found. I have to ask.\"",
-      "after": "\"I know how long I've been in there. A thousand years, Thaer. He told me.\"\n\nShe waited for him to tell her the old man was wrong. When he didn't, she drew a breath that hurt all the way in.\n\n\"I know Mother might not be there any more. But the elves might remember her. They might know what she found. I have to ask.\"",
-      "why": "Note 4: nothing showed Thaer confirming the thousand years. The earlier beat is back, and it replaces \"She waited for him to look at her.\" His silence is the answer, and she has to breathe through it before she goes on.",
+      "after": "\"I know how long I've been in there. A thousand years, Thaer. He told me.\"\n\nShe waited for him to tell her the old man was wrong. When he didn't, she drew a breath that hurt all the way in.\n\n\"Mother might not be there any more. I know that. But the elves might remember her, or know what she found. I have to ask.\"",
+      "why": "Note 4: nothing showed Thaer confirming the thousand years. The earlier beat is back, and it replaces \"She waited for him to look at her.\" His silence is the answer, and she has to breathe through it before she goes on. *Pass 1:* Three \"might\"s in a row made the speech sound listed rather than said.",
       "decision": "accepted",
       "decision_short": "your notes 1–6 (30 September).",
       "decision_note": "The author asked for Claude's notes 1–6 on the revision as a change list (30 September)."
@@ -240,11 +244,12 @@
       "title": "Her last words to him",
       "kind": "changed",
       "tags": [
-        "hurt"
+        "hurt",
+        "pass1"
       ],
       "before": "\"Then why couldn't you tell me that?\" Her hand tightened around the rail. \"I waited for you all night, Thaer. I thought you could help me understand what was happening. I… I thought *you*, of all people, would help me.\"",
-      "after": "\"Then why couldn't you tell me that?\" Her hand tightened around the rail. \"I waited for you all night.\"",
-      "why": "Note 2: the ending explained the hurt. The author's comparison praised \"So was I\" because the hurt \"pass[es] through the dialogue rather than having the narration explain it\". \"I waited for you all night\" answers his \"I was waiting for Father\" in the same way, and \"He looked away\" does the rest. The name comes out with note 1.",
+      "after": "\"Then why couldn't you tell me that?\" Her hand tightened on the rail. \"I waited for you all night.\"",
+      "why": "Note 2: the ending explained the hurt. The author's comparison praised \"So was I\" because the hurt \"pass[es] through the dialogue rather than having the narration explain it\". \"I waited for you all night\" answers his \"I was waiting for Father\" in the same way, and \"He looked away\" does the rest. The name comes out with note 1. *Pass 1:* House style uses \"round\", not \"around\", and \"on the rail\" is plainer anyway.",
       "decision": "accepted",
       "decision_short": "your notes 1–6 (30 September).",
       "decision_note": "The author asked for Claude's notes 1–6 on the revision as a change list (30 September)."
@@ -290,10 +295,67 @@
       "decision": "accepted",
       "decision_short": "your notes 1–6 (30 September).",
       "decision_note": "The author asked for Claude's notes 1–6 on the revision as a change list (30 September)."
+    },
+    {
+      "section": "Pass 1",
+      "title": "Under the shouting",
+      "kind": "changed",
+      "tags": [
+        "pass1"
+      ],
+      "before": "Cyrandor said something beneath them, too quietly for her to hear.",
+      "after": "Under the shouting, Cyrandor said something too quietly for her to hear.",
+      "why": "\"Beneath them\" could read as below them in the building. It means under the voices.",
+      "decision": "accepted",
+      "decision_short": "your notes 1–6 (30 September).",
+      "decision_note": "Pass 1 of three after notes 1–6 (the author, 30 September): errors, POV slips and the like."
+    },
+    {
+      "section": "Pass 1",
+      "title": "Up the stair",
+      "kind": "changed",
+      "tags": [
+        "pass1"
+      ],
+      "before": "His eyes went towards the stair.",
+      "after": "His eyes went up the stair.",
+      "why": "They're all on the stair, so \"towards the stair\" pointed nowhere. Up the stair is where Leorin is.",
+      "decision": "accepted",
+      "decision_short": "your notes 1–6 (30 September).",
+      "decision_note": "Pass 1 of three after notes 1–6 (the author, 30 September): errors, POV slips and the like."
+    },
+    {
+      "section": "Pass 2",
+      "title": "Folded, like Nereth's",
+      "kind": "changed",
+      "tags": [
+        "pass2"
+      ],
+      "before": "\"I wish I had an answer for you, Your Highness. We were told she went looking for a way to help you. Before she left, she asked a few of the servants to watch over you and send her word.\" His hands settled over the bundle, the way Nereth's did. \"That was how it began.\"",
+      "after": "\"I wish I had an answer for you, Your Highness. We were told she went looking for a way to help you. Before she left, she asked a few of the servants to watch over you and send her word.\" His hands folded over the bundle, the way Nereth's did. \"That was how it began.\"",
+      "why": "Continuity with Chapter 5, where Nereth's hands are always \"folded\". Nereth's hands don't \"settle\", so the comparison only works with the word Seralune has seen.",
+      "decision": "accepted",
+      "decision_short": "your notes 1–6 (30 September).",
+      "decision_note": "Pass 2 of three (30 September)."
+    },
+    {
+      "section": "Pass 3",
+      "title": "\"He didn't\"",
+      "kind": "changed",
+      "tags": [
+        "pass3"
+      ],
+      "before": "He didn't answer.\n\n\"I'm going to Mydea. Mother went to Inrandeel, and I need to find out what she was looking for.\"",
+      "after": "He didn't.\n\n\"I'm going to Mydea. Mother went to Inrandeel, and I need to find out what she was looking for.\"",
+      "why": "\"He didn't answer\" came three times, twice on the stair within a dozen lines. After \"Then tell me!\", \"He didn't.\" says he didn't tell her, which is sharper. The later \"He didn't answer\", after \"Then come when you can\", stays.",
+      "decision": "accepted",
+      "decision_short": "your notes 1–6 (30 September).",
+      "decision_note": "Pass 3 of three, finalising the chapter (30 September)."
     }
   ],
   "glance": [
-    "**By note:** names and titles, changes {tag:names}; the ending, {tag:hurt}; Thaer's reason, {tag:logic}; the thousand years confirmed, {tag:confirm}; smaller things, {tag:small}."
+    "**By note:** names and titles, changes {tag:names}; the ending, {tag:hurt}; Thaer's reason, {tag:logic}; the thousand years confirmed, {tag:confirm}; smaller things, {tag:small}.",
+    "**The three passes after notes 1–6:** pass 1, changes {tag:pass1}; pass 2, {tag:pass2}; pass 3, {tag:pass3}. Each pass was a full read; the chapter needed less each time."
   ],
   "summary_md": "## Names that stay\n\n- **Thaer says \"Seralune\" three times:** \"Seralune.\", \"Come back upstairs, Seralune\" and \"Seralune—\".\n- **She says \"Thaer\" four times:** \"Something happened to *me*, Thaer\", \"A thousand years, Thaer\", \"Come with me, Thaer. Please.\" and \"Thaer? / Thaer, don't.\"\n- **Cyrandor says \"Your Highness\" six times:** \"I did\", \"Cyrandor\", \"That's how it was told to me\", \"I've served here all my life\", \"I wish I had an answer for you\" and \"Mending it\".\n\nNereth's titles are unchanged."
 }

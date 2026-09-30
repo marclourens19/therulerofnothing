@@ -4,11 +4,12 @@ The author's revision of 30 September is the chapter. It's saved word for word i
 
 ## At a glance
 
-- **20 changes proposed.** 0 rejected so far, so 20 are in the chapter: 20 rewritten, 0 cut and 0 added.
+- **24 changes proposed.** 0 rejected so far, so 24 are in the chapter: 24 rewritten, 0 cut and 0 added.
 - **Length:** 4,226 words before, 4,203 after.
 - **Median paragraph:** 13.5 words before, 13 after. The house target is roughly 14–22.
 - **"Nothing":** 4 times before, 4 after.
 - **By note:** names and titles, changes 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14; the ending, 17; Thaer's reason, 10, 16; the thousand years confirmed, 15; smaller things, 18, 19, 20.
+- **The three passes after notes 1–6:** pass 1, changes 15, 17, 21, 22; pass 2, 23; pass 3, 24. Each pass was a full read; the chapter needed less each time.
 
 ## Your call
 
@@ -38,6 +39,10 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 18, "He didn't answer":** your notes 1–6 (30 September).
 - **Change 19, The next flight:** your notes 1–6 (30 September).
 - **Change 20, Who shouts at the door:** your notes 1–6 (30 September).
+- **Change 21, Under the shouting:** your notes 1–6 (30 September).
+- **Change 22, Up the stair:** your notes 1–6 (30 September).
+- **Change 23, Folded, like Nereth's:** your notes 1–6 (30 September).
+- **Change 24, "He didn't":** your notes 1–6 (30 September).
 
 ## Names that stay
 
@@ -291,9 +296,9 @@ Nereth's titles are unchanged.
 >
 > She waited for him to tell her the old man was wrong. When he didn't, she drew a breath that hurt all the way in.
 >
-> "I know Mother might not be there any more. But the elves might remember her. They might know what she found. I have to ask."
+> "Mother might not be there any more. I know that. But the elves might remember her, or know what she found. I have to ask."
 
-**Why.** Note 4: nothing showed Thaer confirming the thousand years. The earlier beat is back, and it replaces "She waited for him to look at her." His silence is the answer, and she has to breathe through it before she goes on.
+**Why.** Note 4: nothing showed Thaer confirming the thousand years. The earlier beat is back, and it replaces "She waited for him to look at her." His silence is the answer, and she has to breathe through it before she goes on. *Pass 1:* Three "might"s in a row made the speech sound listed rather than said.
 
 **Your decision.** The author asked for Claude's notes 1–6 on the revision as a change list (30 September).
 
@@ -323,9 +328,9 @@ Nereth's titles are unchanged.
 
 **After**
 
-> "Then why couldn't you tell me that?" Her hand tightened around the rail. "I waited for you all night."
+> "Then why couldn't you tell me that?" Her hand tightened on the rail. "I waited for you all night."
 
-**Why.** Note 2: the ending explained the hurt. The author's comparison praised "So was I" because the hurt "pass[es] through the dialogue rather than having the narration explain it". "I waited for you all night" answers his "I was waiting for Father" in the same way, and "He looked away" does the rest. The name comes out with note 1.
+**Why.** Note 2: the ending explained the hurt. The author's comparison praised "So was I" because the hurt "pass[es] through the dialogue rather than having the narration explain it". "I waited for you all night" answers his "I was waiting for Father" in the same way, and "He looked away" does the rest. The name comes out with note 1. *Pass 1:* House style uses "round", not "around", and "on the rail" is plainer anyway.
 
 **Your decision.** The author asked for Claude's notes 1–6 on the revision as a change list (30 September).
 
@@ -380,3 +385,77 @@ Nereth's titles are unchanged.
 **Why.** Note 6: the shout had no speaker. In the same paragraph as her pulling, it's Nereth's.
 
 **Your decision.** The author asked for Claude's notes 1–6 on the revision as a change list (30 September).
+
+### Pass 1: errors, POV slips and the like
+
+#### 21. Under the shouting
+
+*Draft line 247 → revised line 247*
+
+**Before**
+
+> Cyrandor said something beneath them, too quietly for her to hear.
+
+**After**
+
+> Under the shouting, Cyrandor said something too quietly for her to hear.
+
+**Why.** "Beneath them" could read as below them in the building. It means under the voices.
+
+**Your decision.** Pass 1 of three after notes 1–6 (the author, 30 September): errors, POV slips and the like.
+
+#### 22. Up the stair
+
+*Draft line 365 → revised line 367*
+
+**Before**
+
+> His eyes went towards the stair.
+
+**After**
+
+> His eyes went up the stair.
+
+**Why.** They're all on the stair, so "towards the stair" pointed nowhere. Up the stair is where Leorin is.
+
+**Your decision.** Pass 1 of three after notes 1–6 (the author, 30 September): errors, POV slips and the like.
+
+### Pass 2
+
+#### 23. Folded, like Nereth's
+
+*Draft line 85 → revised line 85*
+
+**Before**
+
+> "I wish I had an answer for you, Your Highness. We were told she went looking for a way to help you. Before she left, she asked a few of the servants to watch over you and send her word." His hands settled over the bundle, the way Nereth's did. "That was how it began."
+
+**After**
+
+> "I wish I had an answer for you, Your Highness. We were told she went looking for a way to help you. Before she left, she asked a few of the servants to watch over you and send her word." His hands folded over the bundle, the way Nereth's did. "That was how it began."
+
+**Why.** Continuity with Chapter 5, where Nereth's hands are always "folded". Nereth's hands don't "settle", so the comparison only works with the word Seralune has seen.
+
+**Your decision.** Pass 2 of three (30 September).
+
+### Pass 3, the final pass
+
+#### 24. "He didn't"
+
+*Draft lines 341–343 → revised lines 339–341*
+
+**Before**
+
+> He didn't answer.
+>
+> "I'm going to Mydea. Mother went to Inrandeel, and I need to find out what she was looking for."
+
+**After**
+
+> He didn't.
+>
+> "I'm going to Mydea. Mother went to Inrandeel, and I need to find out what she was looking for."
+
+**Why.** "He didn't answer" came three times, twice on the stair within a dozen lines. After "Then tell me!", "He didn't." says he didn't tell her, which is sharper. The later "He didn't answer", after "Then come when you can", stays.
+
+**Your decision.** Pass 3 of three, finalising the chapter (30 September).
