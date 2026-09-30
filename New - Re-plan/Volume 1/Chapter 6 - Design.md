@@ -1,6 +1,6 @@
 # Chapter 6: Design
 
-Started 29 September 2026. **Status:** round 1 is waiting on the author. Nothing is written yet. The order stays the same as for every chapter: the design is agreed, then a dialogue round, then Claude says the chapter is ready and waits for the go-ahead.
+Started 29 September 2026. **Status:** round 2 is waiting on the author. The author's detailed proposal (30 September) is the working design, kept verbatim in `Chapter 6 - Design Proposal.md`. Nothing is written yet. The order stays the same as for every chapter: the design is agreed, then a dialogue round, then Claude says the chapter is ready and waits for the go-ahead.
 
 **The target** (29 September): 4,000–5,000 words, and longer if the story needs it. Chapter 5 taught that length comes from what happens, so this design plans enough happening from the start: six scenes, each with something that changes.
 
@@ -70,6 +70,66 @@ About 4,300 words in six scenes. Everything here is a proposal, and the numbers 
 
 Not taken up from round 1: burying Gerolt (question 2), Silas pushing to leave Wena (4), and who Alaric walks into (5), which is now the ogre. These come back in round 2.
 
+## The detailed proposal (30 September)
+
+The author then sent a full design proposal, kept word for word in `Chapter 6 - Design Proposal.md`. It keeps the five beats and builds eight scenes on them, about 6,050 words (5,500–6,500 is the working range): Silas wakes him later in the morning; the smoke; the road, an ordinary farm and the questions; Silas's plan to take the sword to Marta first, and Alaric leaves; the ogre; the aftermath, with a practical concession and Alaric's name; Kelmend comes into view; the airship, and a changed plan.
+
+It also brings a new rule for every chapter from now on: **ask "What could make this chapter 100/100?"** and answer it with specific improvements and honest challenges (recorded in `Decisions.md` and the skill).
+
+### Where Claude agrees
+
+- **The sword dispute is the turn.** It's exactly the outline's turn for this chapter ("Alaric insists on Marta. It's the first time he pushes against Silas rather than following him"), and it gives him a reason to leave that a reader can defend. Silas has a fair point too, so the reader's sympathy can move.
+- **Later morning.** Chapter 3 ends with "Get some sleep" at grey light, so dawn would give him no sleep at all. The author's nudge and "Up, boy" still work, a few hours later.
+- **"We" is already said** ("We'll need another way in"). So the morning doesn't hint he's coming; it makes it real, and Alaric still has to wonder why.
+- **Silas checks on him** without comfort, **Wena stays unhurt**, **no Gerolt reprimand**, **no second patrol**, and **Alaric does two small things in the fight** (a clumsy cut at its face, then getting Wena clear). All better than Claude's round 1 ideas.
+- **The name exchange.** Chapter 3 says "Alaric waited for Silas to ask his name". This pays it off in one plain line.
+
+### Where Claude challenges it
+
+1. **Silas's line after the kill.** The proposal's "What in the hell did you think you were doing?" is a placeholder. Use the author's snark ("Would it kill you just to listen for once") as his first words, then the argument. It's about the choice Alaric made just now, not about Gerolt, so it keeps the proposal's rule.
+2. **Silas's private reason for seeing Marta first.** It stays hidden from Alaric, but the author needs to know it, because it decides how Silas plays every line. Marta's father died in Silas's gorge, and Silas still loves her.
+3. **Silas has to pay for this fight.** The review note says "he doesn't win cleanly" and the outline says it's "the first crack in his competence". The proposal takes away the club blow and leaves only "difficulty". That's too little. The cost can be small but it has to show on the page afterwards.
+4. **The airship's look.** The proposal keeps Chapter 5's look and leaves the *Agrius* picture open. Chapter 5 was at night, by moonlight, and says only "long and dark and plated all over" with blue-green light underneath. Alaric sees it at dusk, so he can see what Seralune couldn't: the colour and the spines. Both chapters are then right, and nothing in Chapter 5 has to change.
+5. **Kelmend welcoming the ship** (100/100 idea 4) doesn't fit as written. Natharul's scouts are never seen in Mydea, "to keep people calm", so ordinary people shouldn't cheer a Natharul warship. The better version: **the guards on the wall don't move, and the people do.** The guards knew it was coming. It fits "Them whoreson guards would sell their own mothers to Natharul" and it proves Silas right about the gate, after a chapter where Alaric wanted to walk straight in.
+6. **Scene 7 (Kelmend comes into view, about 450 words) is a transition.** Fold it into the walk after the aftermath and the arrival of the ship, or give it one real beat (the Faint quarter's houses against the wall, seen from above).
+
+### Claude's answer to "What could make this chapter 100/100?"
+
+1. **Silas's shock has a reason nobody says.** In Chapter 3 he didn't believe the boy: "A battle that size on Gerolt's farm would be the talk of Kelmend, and there wasn't a sound last night." Now a Natharul warship crosses the river and heads east, towards Gerolt's farm. Silas looks from the ship to the boy, and for the first time he starts to believe him. The reader knows from Chapter 5 and the canon why it's going (the king is coming to see a field of dead elves); neither of them does. Two chapters meet over their heads.
+2. **"They knew."** The guards on the wall don't react. That's what changes the plan, not only the size of the ship.
+3. **The ordinary farm hurts for a new reason.** The people there see the smoke across the river and talk about Gerolt's place as if he's alive, maybe that someone should go over, but not with riders about. Alaric is the only one who knows, and he can't go and tell them. It's grief with a new subject, as the proposal asks, and it shows the riders are talked about. *Your call, new: neighbours who know Gerolt.*
+4. **One knot does three jobs.** Silas's burned hand splits open in the fight (his cost). He can't tie the bandage one-handed, so Alaric holds the end: "It's Alaric, by the way." / "All right, Alaric. Hold this while I tie it." His cost, Alaric's help and the name land in a single action.
+5. **The ogre's words are copied.** It says words it's picked up the way a crow does, from people. "Can eat… food…" is then scary for what it means, not funny for how it sounds. Silas knows the thing on sight.
+6. **Set it up once, fairly.** On the road Silas says something short about the forest (there's worse out here than elves), and Alaric takes it for one more way of not answering. The reader can see why he ignores it, and the ogre isn't random.
+7. **A real laugh or two.** Canon says his humour is still in him (Subaru's mouth, inside his head), and the proposal has no joke in it yet. His private commentary on Silas's one-word answers, or Wena and the food sack, can bring it back, and he can feel bad about it.
+
+**Honest risks.**
+- This is the second Alaric chapter in a row where Silas saves him. It only works if Alaric's two actions matter and the aftermath changes them both.
+- Four questions in a row can turn into an interview. Keep them to the connected four, and let practical answers come freely so the refusals stand out.
+- 6,000 words is right only if the road scene has events in it (the farm, the warning, the route change). Without those, it will pad.
+
 ## Round 2 (asked 30 September)
 
-The questions and Claude's challenges are in the chat of 30 September and repeated here once answered.
+Letters for answering, with Claude's pick first. These cover the proposal's six open decisions (§12) and what's left from round 1.
+
+- **A. Base design.** 1: the proposal, with the changes above *(recommended)*. 2: the proposal as it stands.
+- **B. Wake.** 1: later morning, the foot nudge and "Up, boy", with Silas's "we" made real *(recommended)*. 2: dawn, and Chapter 3's ending changes.
+- **C. Food.** 1: Alaric eats a little because Silas won't let it go *(recommended)*. 2: he still doesn't eat.
+- **D. Burying Gerolt.** 1: he thinks of it at the smoke, knows Silas will say no, and doesn't ask *(recommended)*. 2: he asks and is refused. 3: leave it out.
+- **E. Silas's hidden reason for seeing Marta first** (the author's secret, not on the page). 1: he wants to be the one who tells her Gerolt is dead *(recommended)*. 2: he doesn't know if she'll open the door to him, and doesn't want the boy turned away with him. 3: both.
+- **F. The safer way in.** 1: along the south wall, through the houses built against it (the Faint quarter), to the inn by the south gate *(recommended; it sets up Chapter 9 without explaining it)*. 2: a different path, your design.
+- **G. Silas's warning about the forest.** 1: yes, once and short, and Alaric takes it for an evasion *(recommended)*. 2: no warning.
+- **H. The farm glimpse.** 1: neighbours talking about the smoke over Gerolt's place *(recommended)*. 2: people at work with no link to Gerolt. 3: cut it. Also: **a small bit of magic there**, yes or no?
+- **I. What an ogre is.** 1: a monster of the wild that people know about, with words it has copied from people *(recommended)*. 2: a people of its own. 3: leave it unexplained. And does Silas name it ("Ogre")?
+- **J. The sword.** 1: carried bare in his hand, as Chapter 3 left it, heavy and awkward, and Silas grumbles about it *(recommended)*. 2: wrapped in sacking and tied, which makes his strike in the fight harder.
+- **K. Silas's cost.** 1: the burned hand splits open and bleeds, and he grips badly for a day or two *(recommended)*. 2: a club blow. 3: none.
+- **L. "Hold this while I tie it."** 1: the bandage on Silas's hand *(recommended)*. 2: a rag sling for the sword, after Alaric refuses to hand it over (the proposal's idea). 3: both, if it doesn't feel like too much.
+- **M. Silas's first words after the kill.** 1: the author's snark, reworded in the dialogue round *(recommended)*. 2: the proposal's plain anger.
+- **N. What Silas gives on Gerolt.** 1: one true line, like "I knew him a long time", and nothing more *(recommended)*. 2: nothing.
+- **O. The ship's look at dusk.** 1: dark red and spined, with the same blue-green light, and Chapter 5 stays as it is *(recommended)*. 2: exactly Chapter 5's look, and the red goes. 3: the full *Agrius*, and Chapter 5 gets a line to match. Also: **the small craft below it**, in or out?
+- **P. The ship's route.** It left Natharul on the night of Chapter 5 and reaches Kelmend at dusk the next day. Is Natharul west of Kelmend (so it crosses the town and then the river, eastwards)? And did it stop somewhere on the way, such as Mydea's capital? The chapter only needs Alaric to see it come from beyond the town and go out over the river, the way they came.
+- **Q. Silas's shock.** 1: Natharul flying a warship openly over Mydea, going towards the farm, and he starts to believe the boy, without saying so *(recommended)*. 2: he says it out loud.
+- **R. Kelmend's response.** 1: the guards on the wall don't move, the people do, and Silas says "They knew" *(recommended)*. 2: alarm bells. 3: people cheer.
+- **S. The ending.** 1: "Alaric. Get Wena into cover.", as proposed *(recommended)*. 2: Silas looking east after it, saying nothing.
+- **T. Length.** 5,500–6,500 words, about 6,000 *(recommended)*.
+- **U. Title.** Open. Some ideas: *The Long Way Round*, *A Name Nobody Asked For*, *What the Forest Keeps*. The old Chapter 6 title, *The Road Owed to the Dead*, fits Chapter 8 better, because that's where the road ends.
