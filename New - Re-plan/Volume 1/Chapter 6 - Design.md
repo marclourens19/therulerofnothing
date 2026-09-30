@@ -1,6 +1,6 @@
 # Chapter 6: Design
 
-Started 29 September 2026. **Status:** the author's 22-step sequence (30 September, below) is the chapter's shape. Round 3 asks what it leaves open; then comes the dialogue round. The author's detailed proposal is kept verbatim in `Chapter 6 - Design Proposal.md`. Nothing is written yet. The order stays the same as for every chapter: the design is agreed, then a dialogue round, then Claude says the chapter is ready and waits for the go-ahead.
+Started 29 September 2026. **Status:** the design is agreed (the 22-step sequence plus the round 3 answers, below); only the title waits, and the author will choose it later. The dialogue round is waiting on the author. The author's detailed proposal is kept verbatim in `Chapter 6 - Design Proposal.md`. Nothing is written yet. The order stays the same as for every chapter: the design is agreed, then a dialogue round, then Claude says the chapter is ready and waits for the go-ahead.
 
 **The target** (29 September): 4,000–5,000 words, and longer if the story needs it. Chapter 5 taught that length comes from what happens, so this design plans enough happening from the start: six scenes, each with something that changes.
 
@@ -185,3 +185,83 @@ The sequence already does the big things: the farm hinge, the chosen cost, the n
 - **P. The route.** Is Natharul west of Kelmend? Did the ship stop anywhere on the way?
 - **R. Kelmend's response.** 1: the guards on the wall don't move, the people do, "They knew" *(recommended)*. 2: alarm bells. 3: people cheer.
 - **U. Title.**
+
+**Answers (30 September).**
+- **E.** "He loves Marta and wants to try get close to her again." It's his private reason, never said on the page. *Claude's note:* so when he agrees in step 16 that Alaric comes in with him, he gives up the time alone with her that he wanted, and Alaric never knows it cost him anything.
+- **G. 2, and the author disagreed with using amnesia.** "An unfamiliar word is plausible; amnesia should not erase the obvious danger." Alaric keeps general understanding (kingdoms, weapons, animals, death), so a torn-up carcass and "something you don't want to meet" still tells him there's a predator. And a non-answer would break Silas's rule: **he answers practical questions and evades personal ones.** So Silas gives a short, useful answer, like the author's "A big bastard that eats whatever it catches. Keep close." Alaric's mistake is **underestimating a danger he recognises**, and the Marta quarrel makes his imperfect plan feel better than staying under Silas's control. "We should allow an intelligent character to make a bad decision." Nobody tells him it copies speech; that surprise stays.
+- **J. 1.** The sword is carried bare in his hand.
+- **H. 1.** No magic at the farm.
+- **O.** "More focused on its immense size rather than the small details." The red was never meant to be dropped: keep the dark red hull, the spines and the blue-green light underneath, revealed **as he puts the shape together**, never as a list that stops the moment. Chapter 5 stands (a dark shape at night; at dusk he can see more). *Claude reads this as no small craft, since they're detail, not size; say if not.*
+- **P.** "It's looking for the farm." The ship is searching, not passing through.
+- **R.** Kelmend's warning bell goes off. (So "They knew" is out: Kelmend didn't expect it either.)
+- **U.** The author will choose the title later.
+
+**The author's conditions on the refinements:**
+1. **Steps 5–7 are one chain.** When the neighbours mention Gerolt, something in Silas changes, and it has to be something Alaric can see: he stops listening, misses a question, or moves them on abruptly. Alaric can suspect it hurt him; the narration never says so as fact. Silas then escapes the personal subject by explaining what will happen at Kelmend, and that starts the harder argument about the sword. **"Boy" until the name exchange** applies to Silas's speech only; the narration calls him Alaric throughout.
+2. **The heated blade (V, agreed with a condition).** In Chapter 3 he used it to make an elf suffer; here Alaric sees the same frightening thing done to protect him, which complicates the man without excusing the earlier cruelty. But **the fight has to show why Silas keeps hold of the hilt this time,** because in Chapter 3 he let go and used his cloak. Letting go has to mean the ogre reaches Alaric or Wena. Alaric sees the steel redden, Silas struggle with the grip, and the hand afterwards; he doesn't conclude *He chose to suffer for me* on the spot. Let that grow.
+3. **Two chances for humour, not two jokes.** Step 2: Wena and the food sack earn a smile or a short laugh, so he's present with another living thing before the smoke brings Gerolt back. Step 4: his private reaction to Silas's manner shows his dry humour (for example, Silas answers a question about the journey by criticising his pace, and Alaric notices how unfair it is). It comes out of the exchange; Silas mustn't turn monosyllabic to supply a joke. **No reflexive guilt after every laugh.** He can enjoy something briefly while grieving.
+
+## Dialogue round (asked 30 September)
+
+The key exchanges, in order. Each has Claude's versions in the characters' voices; the author gives a letter, a rough version of their own, or both. Silas's voice is from Chapter 3 ("boy", "Hate to break it to you", "Them whoreson guards", short and blunt, never a speech). Alaric's comes from his thinking in Chapter 3; he builds a case like early Alphinaud, and his humour stays in his head.
+
+**D1. The wake (step 1).**
+1. "Up, boy. You've had your few hours, and we've a long way to go." *(recommended)* Then his thought: *We. So he meant it last night. He's going all the way to Kelmend for a boy he'd never seen before yesterday, and he still hasn't asked my name.*
+2. "Up, boy. Time we were moving."
+3. The proposal's "Come on, boy. You've had a few hours. Get up before I have to carry you again."
+
+**D2. Wena and the sack (step 2), the first smile.** Wena gets her head into the food sack before Alaric does.
+1. "Your dog's a thief." / "She's hungry." / "So am I, and you don't see me eating out of the sack with my face." Alaric laughs before he knows he's going to. *(recommended)*
+2. Silas pulls the sack back and Wena follows it across the cave, nose first, until he gives up and throws her a crust: "There. Now get out of it." Alaric smiles, the first time since the farm.
+
+**D3. The smoke (step 3), Silas's prompt.** Restrained, no speech about burial.
+1. "Boy." Only that, from further on, waiting. *(recommended)*
+2. "Nothing you can do for him from here. Come on."
+
+**D4. The practical questions (step 4), and the pace.**
+- "How far is Kelmend?" / "Far enough that you'll want to walk faster than that." / *I asked how far, and he told me how slow. So it's far.* *(recommended)*
+- "Why aren't we on the road?" / "Because the road's where they'll look. Riders keep to roads; they're quicker on them, and they'd see a boy and a dog that size coming a mile off." (A proper practical answer, to set against the personal ones later.)
+
+**D5. The warning (step 4).** A deer torn open off the path, the ribs cracked, prints bigger than a man's.
+1. "Ogre." / "A what?" / "A big bastard that eats whatever it catches." He stood. "Keep close." (the author's line, as it is)
+2. As 1, then: "That one's fed, at least. It'll be sleeping this off somewhere." *(recommended, new)* Silas believes it, and he's wrong. It gives Alaric a reason to underestimate a danger he fully understands, from the one man he's decided not to trust on everything else, and it gives Silas the imperfect judgment the author wants from both.
+
+**D6. The neighbours (step 5).** *Your call, new:* two people at a fence or a hayrick, unnamed. They see the smoke across the river.
+1. "Still smoking over at Gerolt's." / "Burning off that back field again, the old fool." / "At night?" / "When else would he find the time?" / "Someone ought to go over." / "Not with riders on the bridge, they oughtn't." *(recommended)* A stranger calls him "the old fool", the words Gerolt used for himself ("Tell her the old fool sent you"), and she says it fondly.
+2. The same without "the old fool", if that feels too neat.
+- **What Silas does** (observable only): Alaric asks him something and gets no answer. Silas is watching the woman. Then, abruptly: "Move."
+
+**D7. The personal questions (step 6), opening from that look.**
+- "You knew him." / "Watch your feet." / "I am watching them. You knew him before last night. You knew where his farm was, and you knew Marta's name before I'd finished saying it." / "Lots of people know Marta. She keeps an inn." / "Lots of people don't stop cleaning their sword when they hear it." *(recommended)*
+- Silas's escape into the plan: "Here's how it goes at Kelmend."
+
+**D8. The arrangement (step 7).**
+- "You wait outside the wall with the dog. I take the sword in to Marta." / "Gerolt told me to show it to her. He told *me*." / "And if they're watching the inn? You walk in there with that sword and a dog the size of a pony, and every guard in Kelmend knows where you went. They'd take her along with you." / "Then we go after dark. But I'm the one who shows her." / "We'll see." *(recommended)* "We'll see" is the evasion that sends him off, and Silas's concern is real, so the reader's sympathy can move both ways.
+- Then step 8: "Stay here, and keep the dog quiet." He goes down the slope.
+
+**D9. Alaric decides (step 9).** A thought that reasons, then a plan.
+- *We'll see. He knows Gerolt, he knows Marta, and he wants the sword and her door to himself. If I sit here, the next thing he'll tell me is where else to wait.* Then: *Kelmend's over that rise, he said so himself. Keep off the road, keep west, find the south gate. And the thing that ate the deer is asleep somewhere with a full belly.* *(recommended)*
+
+**D10. The ogre's words (step 11).** Copied from people, so frightening for what they mean. The author's rough line was "Can eat… food…".
+1. "Food… Can eat… food…" (close to the author's)
+2. "Good… eating…" in a man's cadence, like something overheard at a table *(recommended)*
+3. "Please… please…" in a voice that isn't its own, then "Food." The darkest: it learned "please" from someone it caught.
+
+**D11. Silas's first words after the kill (step 15).** The author's line was "Would it kill you just to listen for once".
+1. "Would it kill you to listen, boy? Just once?" And Alaric, in his head: *Nearly.* *(recommended)* The dry humour lands on the worst moment and doesn't make light of it.
+2. "Would it kill you to do what you're told for once?" "Told" is more controlling, and Alaric can bite back on it.
+
+**D12. The real argument and the deal (step 16).** Built on the proposal's exchange.
+- "I didn't say you'd never see her. I said I was checking first." / "Then say that! Tell me what you're checking. You knew Gerolt, you know her, and I can't get a word out of you about either of them." / Then the one true line about Gerolt:
+  1. "I knew him a long time. That's all you're getting." *(recommended)*
+  2. "I knew him. Long time ago."
+- The deal: "There's a way along the south wall. If it's clear, we both go, and you show her. If there's riders at her door, you wait while I find another way. Can you manage that?" / "If you tell me what you're checking." / A pause. "Fine."
+
+**D13. The name (step 17).** Silas can't tie the bandage one-handed; Alaric holds the end.
+1. "It's Alaric, by the way." / Silas looked at him. / "My name. You never asked." / "All right, Alaric. Hold this while I tie it." (the proposal's; *recommended*, because it's plain and it's a task)
+2. As 1, but Silas says it once to himself first: "Alaric." Then: "Hold that end."
+
+**D14. The ship and the bell (steps 20–22).** It's searching for the farm: it comes in low and slow, turns, and goes on east over the river.
+- "What is that?" / A long wait, and Silas doesn't take his eyes off it. "Natharul." Then the bell starts on the wall.
+- "Is it coming here?" / "No." Silas watches it turn out over the river, the way they came, and then he looks at Alaric for longer than he looked at the ship, and says nothing about why.
+- The end: 1. "Alaric. Get Wena into the trees." *(recommended; the first "Alaric" since the bandage, used in a hurry)* 2. The proposal's "Alaric. Get Wena into cover."

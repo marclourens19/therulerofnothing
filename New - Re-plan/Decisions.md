@@ -555,6 +555,16 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - Alaric helps tie the bandage and gives his name;
   - Kelmend's lights, then the ship; Silas starts to take the battlefield seriously, and they turn back to cover.
   - *Open (round 3):* Silas's hidden reason, how the warning is given, the sword, how Silas kills it, the ship's colour and route, Kelmend's response, and the title.
+- **Round 3 answers (30 September):**
+  - **Silas's private reason** for seeing Marta first: he loves her and wants to try to get close to her again. Never said on the page.
+  - **The warning:** Silas gives a short, useful answer ("A big bastard that eats whatever it catches. Keep close."). **Silas answers practical questions and evades personal ones;** that's his rule, and plot needs don't break it. Alaric's amnesia doesn't take away general understanding (kingdoms, weapons, animals, death); his mistake is underestimating a danger he recognises.
+  - **The sword** is carried bare in his hand. **No magic** at the farm.
+  - **Silas kills the ogre with the heated blade,** as with the elf. The fight must show why he keeps hold of the hilt this time (letting go means it reaches Alaric or Wena). Alaric doesn't conclude on the spot that Silas suffered for him.
+  - **The ship at dusk:** its size first. The dark red hull, spines and blue-green light come as he puts the shape together, not as a list. Chapter 5 stands. **It's searching for the farm.**
+  - **Kelmend's warning bell rings.** Kelmend didn't expect it either.
+  - **Humour:** two chances (Wena and the sack; his dry reaction to Silas's manner), coming out of the exchange. **No reflexive guilt after a laugh:** he can enjoy something briefly while grieving.
+  - Silas calls him "boy" until the name exchange; the narration calls him Alaric throughout.
+  - **Title:** the author will choose later.
 
 - **A day on the road first** (29 September). The author: "I recommend having a day on the road first, having Alaric distrust Silas, and Silas not responding to questions." So Marta's door moves to a later Alaric chapter. What turns the day is round 2 of `Volume 1/Chapters 5-15 - Outline.md`.
 
