@@ -31,6 +31,10 @@ The story is being re-planned from the beginning. Current work lives in **New - 
   - `Chapter 5 - The Shape of Absence.md`: Seralune's second chapter (29 September; first titled "Yesterday's Memories"). `Chapter 5 - Changes.md` shows its changes, and `Chapter 5 - Changes (Part 1).md` the changes made while it was drafted in two parts.
   - `Chapter 5 - What the Deep Revision Changed.md`: the rewritten Chapter 5 (29 September) compared with the version before it, scene by scene, with Claude's calls. Later rounds are in `Chapter 5 - Changes (deep revision).md`.
   - `Chapter 5 - Deep Revision Plan.md`: the author's plan for revising Chapter 5 in depth (29 September), saved unchanged. It's a proposal for discussion; Claude's reading of it and the questions on it are at the end of `Chapter 5 - Design.md`.
+  - `Chapter 6 - Design.md`: the design of Chapter 6, Alaric's day on the road (started 29 September).
+  - `Chapter 6 - Design Proposal.md`: the author's detailed proposal for Chapter 6 (30 September), kept word for word.
+  - `Chapter 6 - Dialogue.md`: the author's dialogue pass for Chapter 6 (30 September), kept word for word.
+  - `Chapter 6 - The Words of the Dead.md`: Chapter 6, finished (30 September). Its changes are in `Chapter 6 - Changes.md`.
   - `Drafts/`: earlier versions of the chapters, kept unchanged.
 
 ## The rewriting skill

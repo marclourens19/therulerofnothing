@@ -28,6 +28,7 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 - **Challenge the author's lines too, and offer a better-built one** (29 September). "I want you to always challenge me and ask questions, which is good." "If you have a better constructed sentence, tell me." So when the author offers a line, check it against the page (where the character is, what they've just done, what they can know) and say what doesn't fit, with a version that keeps what they meant.
 - **More content, not more words** (29 September). The author: "The chapters we are creating are far too short for my liking… little in content, where I prefer more." Chapters 3–5 are 2,000–2,600 words; Chapter 2 is 4,660 and Chapter 1 is 6,200. So a chapter's design should plan enough to happen: people under pressure, their reactions, and a choice the reader can see. The extra never comes from lore or decoration, and principle 5 still holds. **The target** (29 September): "In future make 4k–5k a goal, but chapters can go on for as long as they need to, if it means storytelling and character writing can be done better."
 - **No buzz words** (29 September). "Remove 'sill'. [Stop] putting buzz words." A word that sounds put on, or that many readers wouldn't use, goes, like "bracken", "eaves", "pommel" and "sidled" before it. Say the plain thing ("The wall dropped away beneath her").
+- **Ask "What could make this chapter 100/100?"** (30 September, the author's design requirement). "Ask this question when designing this chapter and all future chapter proposals. Answer it through specific improvements and honest challenges, rather than treating a functional outline as the highest achievable version." It isn't a call for more spectacle, suffering or words; it's this chapter's fullest version, and the answer is tested against the draft.
 - **Keep the statuses apart** (handoff §12). Decided, inherited-but-not-contradicted, later-volume concept and open are different things. Settle one mechanism at a time, and record whether the author approves it, rejects it or keeps it open.
 - Principles settled here become the rules of the rewriting skill. The skill is `.claude/skills/chapter-rewrite/` (created 26 September, after Chapter 1). When a principle here changes, update the skill to match.
 
@@ -535,6 +536,43 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 - *Open:* Nereth's first disobedience ("still undecided", handoff §15.10).
 
 ## Chapter 6
+
+- **Design started (29 September)** in `Volume 1/Chapter 6 - Design.md`: a proposed six-scene shape and round 1 of questions.
+- **The author's shape (30 September):** dawn, Silas waking him ("Up, boy…") and hinting he's coming along; the smoke behind them, and Alaric following far behind; Alaric pestering Silas like *A Realm Reborn*'s Alphinaud; Alaric slipping away to reach Kelmend alone with Wena and running into an **ogre**, which grabs him by the foot ("Can eat… food…") until Silas kills it ("Would it kill you just to listen for once"); then Kelmend's lights, and the Natharul king's warship passing overhead, massive, with both of them shocked. Round 2 is in the design file.
+- **Two new looks (the author's reference pictures, 30 September):**
+  - **Ogres exist.** Huge, pale, pot-bellied, with a tusked underbite, clawed hands and rag bindings, carrying a spiked wooden club. They can speak a little. *Open:* what an ogre is in this world (question in round 2).
+  - **The royal warship looks like FFXIV's *Agrius*:** a huge red hull, spined and organic-looking, with dark spires hanging beneath it and small craft below. *To reconcile:* Chapter 5 describes it as "long and dark and plated all over" with blue-green light along its underside (round 2).
+- **The author's detailed proposal (30 September)** is the working design, kept verbatim in `Volume 1/Chapter 6 - Design Proposal.md`: eight scenes, about 6,000 words, keeping the five beats. The turn is Silas's plan to take Gerolt's sword to Marta first while Alaric waits outside the town; Alaric leaves because of it. Alaric does two small things in the ogre fight, Wena isn't hurt, and afterwards Silas explains the route and agrees that, if it's clear, Alaric shows Marta the sword himself. Alaric gives his name ("It's Alaric, by the way."). *Proposed, not yet approved:* the details in round 2 of the design file (the ship's look and route, the ogre's nature, Silas's cost, Kelmend's response and others).
+- **The sequence (the author, 30 September):** 22 steps in reading order, now the chapter's shape (in the design file). Settled by it:
+  - later morning, and he eats a little;
+  - at the smoke he thinks of burying Gerolt and doesn't ask;
+  - Silas warns him about a specific danger in the forest;
+  - farm people talk about Gerolt's smoke as if he's alive;
+  - Silas plans to take the sword to Marta first, and Alaric leaves while Silas scouts towards the south wall;
+  - the ogre repeats copied human words; Alaric strikes twice, clumsily;
+  - Silas's burned hand is damaged further;
+  - the snarky reprimand, one limited true line about Gerolt, and the deal (together if it's clear);
+  - Alaric helps tie the bandage and gives his name;
+  - Kelmend's lights, then the ship; Silas starts to take the battlefield seriously, and they turn back to cover.
+  - *Open (round 3):* Silas's hidden reason, how the warning is given, the sword, how Silas kills it, the ship's colour and route, Kelmend's response, and the title.
+- **Round 3 answers (30 September):**
+  - **Silas's private reason** for seeing Marta first: he loves her and wants to try to get close to her again. Never said on the page.
+  - **The warning:** Silas gives a short, useful answer ("A big bastard that eats whatever it catches. Keep close."). **Silas answers practical questions and evades personal ones;** that's his rule, and plot needs don't break it. Alaric's amnesia doesn't take away general understanding (kingdoms, weapons, animals, death); his mistake is underestimating a danger he recognises.
+  - **The sword** is carried bare in his hand. **No magic** at the farm.
+  - **Silas kills the ogre with the heated blade,** as with the elf. The fight must show why he keeps hold of the hilt this time (letting go means it reaches Alaric or Wena). Alaric doesn't conclude on the spot that Silas suffered for him.
+  - **The ship at dusk:** its size first. The dark red hull, spines and blue-green light come as he puts the shape together, not as a list. Chapter 5 stands. **It's searching for the farm.**
+  - **Kelmend's warning bell rings.** Kelmend didn't expect it either.
+  - **Humour:** two chances (Wena and the sack; his dry reaction to Silas's manner), coming out of the exchange. **No reflexive guilt after a laugh:** he can enjoy something briefly while grieving.
+  - Silas calls him "boy" until the name exchange; the narration calls him Alaric throughout.
+  - **Title: "The Words of the Dead"** (the author, 30 September, chosen from 25 options). It works twice: the ogre's words, copied from people it caught, and Gerolt's words ("the old fool" in a neighbour's mouth, and the instruction Alaric is following).
+- **Written (30 September)** as `Volume 1/Chapter 6 - The Words of the Dead.md` (first saved as "Untitled"), about 5,100 words. Claude's first draft, waiting on the author's review. The draft's new details are listed for a yes or no in the design file ("The first draft").
+- **The author's review (30 September): "about 90/100".** The shorter length stays ("I wouldn't extend it to 6,500 simply to reach the earlier estimate"). Five notes, applied as round 1 of `Volume 1/Drafts/Chapter 6 - change list.json` (see `Chapter 6 - Changes.md`):
+  1. Alaric's grievance is the missing arrangement, not the danger he'd already been told about.
+  2. Silas was checking how they could get to the south wall.
+  3. Cut the explaining in the fight, and "holding", not "pinned".
+  4. Vary the rhythm in the calmer descriptions (the ogre's look, Kelmend, the ship overhead).
+  5. Introduce the ship once.
+- **A general lesson from it:** a run of "and…and" suits moments that arrive faster than the viewpoint character can take them in, like a capture or a fight. In calm description it flattens the emphasis, so give selected details their own sentences.
 
 - **A day on the road first** (29 September). The author: "I recommend having a day on the road first, having Alaric distrust Silas, and Silas not responding to questions." So Marta's door moves to a later Alaric chapter. What turns the day is round 2 of `Volume 1/Chapters 5-15 - Outline.md`.
 
