@@ -1,6 +1,6 @@
 # Chapter 6: Design
 
-Started 29 September 2026. **Status:** the design and dialogue are agreed (the dialogue pass is in `Chapter 6 - Dialogue.md`, with the author's answers on the notes below). The fight plan and the "mean it" beat wait on the author, then the go-ahead. The author will choose the title later.
+Started 29 September 2026. **Status:** everything is agreed: the design, the dialogue (`Chapter 6 - Dialogue.md` plus the answers on the notes), the fight and the second scouting beat. Waiting on the author's go-ahead to write. The author will choose the title later.
 
 **The target** (29 September): 4,000–5,000 words, and longer if the story needs it. Chapter 5 taught that length comes from what happens, so this design plans enough happening from the start: six scenes, each with something that changes.
 
@@ -340,3 +340,24 @@ The ogre has Alaric by the ankle in one hand and its club in the other.
 - **Once more, after the fight, Silas has to go ahead,** perhaps to check a stream crossing or the edge of the trees before open ground. This time he says what he's checking and how long he'll be. Alaric waits, it's hard, and Silas comes back when he said. It's the deal kept by both of them, a short version of steps 8 and 9 with the opposite result. *Your call, new.*
 - **The walk:** Alaric keeps within speaking distance, and Silas slows to his ankle without a word. Alaric notices.
 - **Kelmend's moment:** Alaric lets himself picture it: the inn, Marta, and putting the sword in her hands. He says something that believes they've made it. Then the hum.
+
+### The author's answers on the fight and the scouting beat (30 September)
+
+The fight plan is agreed ("Alaric's first action changes the danger Silas arrives to face; his second creates the opening Silas uses"), and so is the second scouting beat. For the draft:
+
+1. **The first cut is desperate, not skilful.** It brings him towards its mouth, and he twists and swings because he's about to be eaten. The blade catches its cheek, and it drops the club to clutch at the wound.
+2. **Track the wounded arms.** Silas cuts the arm holding Alaric; Alaric later cuts the other hand as it reaches for Wena. Both hurt and interrupt it, and neither is disabled: it's still reaching during the finish.
+3. **Why Alaric can't get clear.** He tries to pull Wena away, and his injured ankle gives under him. That gives Silas those few seconds to finish it before it reaches them. The tree is the resistance behind it while Silas struggles; keep it brief. Most of the blade is inside the ogre, so Alaric sees **the exposed steel near the hilt turning red** and Silas's face tightening.
+4. **Correction to Claude's reading:** the burned hand is the cost of **Silas choosing to protect them**. Alaric's courage creates the opening and leaves him exposed, but protecting Wena stays a good decision in terrible circumstances. **What deserves the reprimand is slipping away,** and the two are kept separate for his development.
+
+**The second scouting beat:**
+- The crossing must really need checking, so it belongs to the journey.
+- Alaric must be able to follow and choose to wait. His ankle is sore and slows him, but it doesn't stop him; otherwise the moment shows his injury, not his trust.
+- No exact promised time. Silas says something like: "I'm going to have a look upstream, see if there's a better crossing. Give me a minute."
+- The waiting is brief. Alaric wants to follow and stays. Silas comes back with something useful. Neither comments on what's changed.
+
+**The walk and the relief:**
+- Alaric keeps within speaking distance, and Silas eases the pace for his ankle, through ordinary behaviour with no affection.
+- Before the hum, give Alaric (and the reader) a little room to believe that reaching Marta will make things manageable again. His line is small, hopeful, and includes Silas: **"We can still get to her tonight, can't we?"**
+
+**100/100, the last challenge:** clarity. The reader understands how each action changes the fight while staying inside Alaric's fear. The prose makes the consequences felt without explaining the choreography afterwards.
