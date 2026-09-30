@@ -4,8 +4,8 @@ Round 1, 30 September 2026: the author's review of Claude's first draft ("about 
 
 ## At a glance
 
-- **12 changes proposed.** 0 rejected so far, so 12 are in the chapter: 12 rewritten, 0 cut and 0 added.
-- **Length:** 5,092 words before, 5,021 after.
+- **19 changes proposed.** 0 rejected so far, so 19 are in the chapter: 19 rewritten, 0 cut and 0 added.
+- **Length:** 5,092 words before, 5,024 after.
 - **Median paragraph:** 13 words before, 13 after. The house target is roughly 14–22.
 - **"Nothing":** 1 times before, 1 after.
 
@@ -28,6 +28,13 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 9, One introduction for the ship:** The author's review of the first draft, 30 September.
 - **Change 10, Vary the rhythm: overhead:** The author's review of the first draft, 30 September.
 - **Change 12, Unwinding the cloth once:** The author, 30 September: "minor polish, not something that warrants another revision round".
+- **Change 13, The morning's already gone:** The author asked for three passes for errors, inconsistencies and POV slips (30 September).
+- **Change 14, Which tree:** The author asked for three passes for errors, inconsistencies and POV slips (30 September).
+- **Change 15, Where the sack is:** The author asked for three passes for errors, inconsistencies and POV slips (30 September).
+- **Change 16, Which way out of the hollow:** The author asked for three passes for errors, inconsistencies and POV slips (30 September).
+- **Change 17, The way in:** The author asked for three passes for errors, inconsistencies and POV slips (30 September).
+- **Change 18, Which "it" came away:** The author asked for three passes for errors, inconsistencies and POV slips (30 September).
+- **Change 19, Hand, then a hand's width:** The author asked for three passes for errors, inconsistencies and POV slips (30 September).
 
 ## The author's five notes
 
@@ -189,11 +196,11 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> Beyond the town, against what was left of the sunset, there was a shape too big to be anything. He couldn't tell how far off it was. Then it was over the wall, and the torches along the top of it looked tiny beneath it. The hum grew until he could feel it in his teeth.
+> Beyond the town, against what was left of the sunset, there was a shape too big to be anything. He couldn't tell how far off it was. Then it was over the wall, and the torches on top looked tiny beneath it. The hum grew until he could feel it in his teeth.
 >
 > It kept growing. Alaric found the bow, then the dark red plating behind it, and the spines beneath. Blue-green light ran along its underside.
 
-**Why.** The author: the shape was introduced three times ("Something was coming…", "At first it was only a shape…", "The shape overhead kept growing…"). The progression was already there: the hum, a distant shape, the wall tiny beneath it, the plating and the light, then overhead. Now it's introduced once, with separate sentences for the steps.
+**Why.** The author: the shape was introduced three times ("Something was coming…", "At first it was only a shape…", "The shape overhead kept growing…"). The progression was already there: the hum, a distant shape, the wall tiny beneath it, the plating and the light, then overhead. Now it's introduced once, with separate sentences for the steps. *Pass 2:* "the top of it… beneath it" pointed two ways.
 
 **Your decision.** The author's review of the first draft, 30 September.
 
@@ -246,3 +253,117 @@ Each of these needs a yes or no from you. It adds something about a character or
 **Why.** The author's optional trim: this paragraph and the next ("Alaric watched him pull the loosened cloth away from his hand.") both described him unwinding it. Now the first shows the cloth and the second the pulling.
 
 **Your decision.** The author, 30 September: "minor polish, not something that warrants another revision round".
+
+### The three passes
+
+#### 13. The morning's already gone
+
+*Draft line 245 → revised line 245*
+
+**Before**
+
+> The slope was steep, and his legs were heavy from the river and the whole morning behind them, but he climbed it faster than he'd walked all day. Nobody was ahead of him deciding where he went. It felt good, and he let it.
+
+**After**
+
+> The slope was steep, and his legs were heavy from the river and the long walk, but he climbed it faster than he'd walked all day. Nobody was ahead of him deciding where he went. It felt good, and he let it.
+
+**Why.** Pass 1: It's past midday by now (the farm was "near midday"), so "the whole morning behind them" was wrong.
+
+**Your decision.** The author asked for three passes for errors, inconsistencies and POV slips (30 September).
+
+#### 14. Which tree
+
+*Draft line 339 → revised line 339*
+
+**Before**
+
+> Alaric tried to stand. His ankle gave, and he caught himself against the tree.
+
+**After**
+
+> Alaric tried to stand. His ankle gave, and he caught himself against a tree.
+
+**Why.** Pass 1: "the tree" was the one the dead ogre was slumped against.
+
+**Your decision.** The author asked for three passes for errors, inconsistencies and POV slips (30 September).
+
+#### 15. Where the sack is
+
+*Draft line 381 → revised line 381*
+
+**Before**
+
+> Silas poured water from the skin over it without a sound, and took a fresh strip of cloth out of the sack.
+
+**After**
+
+> Without a sound, Silas poured water from the skin over it, then nodded at the sack by Alaric's feet. Alaric found a strip of clean cloth in it and passed it across.
+
+**Why.** Pass 1: Silas took the cloth out of the sack himself, then said "Give me the sack" as though Alaric had it. Now the sack is by Alaric's feet, where Silas dropped it, and Alaric passes the cloth, so the line works.
+
+**Your decision.** The author asked for three passes for errors, inconsistencies and POV slips (30 September).
+
+#### 16. Which way out of the hollow
+
+*Draft line 411 → revised line 411*
+
+**Before**
+
+> They went down out of the hollow and up the far side of it. Every step downhill jarred Alaric's ankle. After the first few he gave up trying to keep up and just walked, and Silas was never far ahead. Silas had slowed down. He didn't say so, and Alaric didn't either.
+
+**After**
+
+> They went back down into the hollow and up its far side. Every step downhill jarred Alaric's ankle. After the first few he gave up trying to keep up and just walked, and Silas was never far ahead. Silas had slowed down. He didn't say so, and Alaric didn't either.
+
+**Why.** Pass 1: The fight was on the near slope, between the hollow and the rise. They go back down into the hollow, not out of it.
+
+**Your decision.** The author asked for three passes for errors, inconsistencies and POV slips (30 September).
+
+#### 17. The way in
+
+*Draft line 457 → revised line 457*
+
+**Before**
+
+> Silas was looking at the wall. "Once it's dark. If the wall's quiet, we go round to the south side, and I have a look at the inn."
+
+**After**
+
+> Silas was looking at the wall. "Once it's dark. If it's quiet, we go down along the south wall, and I have a look at the inn."
+
+**Why.** Pass 1: The south gate is already the nearest end, so "round to the south side" didn't fit. It now matches his "a way along the south wall". *Pass 3:* "the wall's quiet… along the south wall" put the wall in the same line twice.
+
+**Your decision.** The author asked for three passes for errors, inconsistencies and POV slips (30 September).
+
+#### 18. Which "it" came away
+
+*Draft line 295 → revised line 295*
+
+**Before**
+
+> Its head jerked back. Its other hand let go of the club, and the club dropped into the leaves, and it clapped the hand to its face. When it came away, blood was running out of a split in its cheek, just under the eye. It shook him, roaring, and the trees and the sky and the ground swung round and round, and Alaric held on to the sword with both hands.
+
+**After**
+
+> Its head jerked back. Its other hand let go of the club, and the club dropped into the leaves, and it clapped the hand to its face. When the hand came away, blood was running out of a split in its cheek, just under the eye. It shook him, roaring, and the trees and the sky and the ground swung round and round, and Alaric held on to the sword with both hands.
+
+**Why.** Pass 2: "When it came away" could have meant the ogre.
+
+**Your decision.** The author asked for three passes for errors, inconsistencies and POV slips (30 September).
+
+#### 19. Hand, then a hand's width
+
+*Draft line 317 → revised line 317*
+
+**Before**
+
+> Alaric grabbed Wena's collar and pulled her back. His ankle gave way under him, and he fell in the leaves right beneath it, with Wena on top of him, and a hand came down at them: the one he had cut, with the blood running off the back of it. It missed his face by a hand's width and raked the ground beside his head.
+
+**After**
+
+> Alaric grabbed Wena's collar and pulled her back. His ankle gave way under him, and he fell in the leaves right beneath it, with Wena on top of him, and a hand came down at them: the one he had cut, with the blood running off the back of it. It missed his face by a few inches and raked the ground beside his head.
+
+**Why.** Pass 2: "a hand came down… by a hand's width" in the same breath.
+
+**Your decision.** The author asked for three passes for errors, inconsistencies and POV slips (30 September).
