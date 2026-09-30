@@ -618,6 +618,11 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 - **Claude's six notes on the revision (30 September)** were applied at the author's request, as `Volume 1/Chapter 7 - Changes.md`.
 - **Three final passes (30 September)** followed, at the author's request. After them, the author's final Word file restored two lines in the author's own wording. Chapter 7 is finished at 4,218 words and matches that file word for word. The one exception is Thaer's reason for staying, which the author then chose: "While I'm here, he has to get past me before he sends anyone after you."
 
+## Chapter 8
+
+- **Design started (30 September)** in `Volume 1/Chapter 8 - Design.md`: Marta's door, on the night of Day 2, straight on from Chapter 6. It proposes six scenes (under the ship; along the south wall; the door; the kitchen; the patrol; the price) and round 1 of 12 questions, with the "100/100" answer.
+- **"Empty" is Alaric's own word** (Chapter 1: "You're not Faint. You're…" / "Empty?"), not Gerolt's, so the outline's "Gerolt's word comes back" is corrected in the design.
+
 ## Alaric
 
 - About twenty.
