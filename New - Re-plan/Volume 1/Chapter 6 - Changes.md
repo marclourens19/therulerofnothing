@@ -4,8 +4,8 @@ Round 1, 30 September 2026: the author's review of Claude's first draft ("about 
 
 ## At a glance
 
-- **11 changes proposed.** 0 rejected so far, so 11 are in the chapter: 11 rewritten, 0 cut and 0 added.
-- **Length:** 5,092 words before, 5,028 after.
+- **12 changes proposed.** 0 rejected so far, so 12 are in the chapter: 12 rewritten, 0 cut and 0 added.
+- **Length:** 5,092 words before, 5,021 after.
 - **Median paragraph:** 13 words before, 13 after. The house target is roughly 14–22.
 - **"Nothing":** 1 times before, 1 after.
 
@@ -27,6 +27,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 8, One "last of the light" fewer:** The author's review of the first draft, 30 September.
 - **Change 9, One introduction for the ship:** The author's review of the first draft, 30 September.
 - **Change 10, Vary the rhythm: overhead:** The author's review of the first draft, 30 September.
+- **Change 12, Unwinding the cloth once:** The author, 30 September: "minor polish, not something that warrants another revision round".
 
 ## The author's five notes
 
@@ -227,3 +228,21 @@ Each of these needs a yes or no from you. It adds something about a character or
 > Once, a bird clattered up out of the undergrowth beside them, and Wena threw herself against Alaric's legs, and he had the sword up before he knew it. It was only a bird. His heart took a long time to believe it.
 
 **Why.** Claude's check: "the bushes beside the path and" was also where Wena found the deer. An objective repeat, so fixed in this round; the author can reject it.
+
+### After the fight
+
+#### 12. Unwinding the cloth once
+
+*Draft line 349 → revised line 349*
+
+**Before**
+
+> Silas sat down on the slope beside him and started unwinding the cloth from the burned hand. It had gone brown and black where the hilt had been, and it stuck.
+
+**After**
+
+> Silas sat down on the slope beside him. The cloth round his burned hand had gone brown and black where the hilt had been.
+
+**Why.** The author's optional trim: this paragraph and the next ("Alaric watched him pull the loosened cloth away from his hand.") both described him unwinding it. Now the first shows the cloth and the second the pulling.
+
+**Your decision.** The author, 30 September: "minor polish, not something that warrants another revision round".

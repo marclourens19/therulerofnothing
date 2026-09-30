@@ -346,7 +346,7 @@ Alaric sat. Silas pulled the boot off, none too gently, and turned the foot one 
 
 "It's not broken. You'll walk on it."
 
-Silas sat down on the slope beside him and started unwinding the cloth from the burned hand. It had gone brown and black where the hilt had been, and it stuck.
+Silas sat down on the slope beside him. The cloth round his burned hand had gone brown and black where the hilt had been.
 
 Alaric watched him pull the loosened cloth away from his hand.
 

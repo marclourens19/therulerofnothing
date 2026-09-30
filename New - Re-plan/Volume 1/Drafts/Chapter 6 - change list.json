@@ -154,6 +154,19 @@
       "before": "Once, a bird clattered up out of the bushes beside the path, and Wena threw herself against Alaric's legs, and he had the sword up before he knew it. It was only a bird. His heart took a long time to believe it.",
       "after": "Once, a bird clattered up out of the undergrowth beside them, and Wena threw herself against Alaric's legs, and he had the sword up before he knew it. It was only a bird. His heart took a long time to believe it.",
       "why": "Claude's check: \"the bushes beside the path and\" was also where Wena found the deer. An objective repeat, so fixed in this round; the author can reject it."
+    },
+    {
+      "section": "After the fight",
+      "title": "Unwinding the cloth once",
+      "kind": "changed",
+      "tags": [
+        "polish"
+      ],
+      "before": "Silas sat down on the slope beside him and started unwinding the cloth from the burned hand. It had gone brown and black where the hilt had been, and it stuck.",
+      "after": "Silas sat down on the slope beside him. The cloth round his burned hand had gone brown and black where the hilt had been.",
+      "why": "The author's optional trim: this paragraph and the next (\"Alaric watched him pull the loosened cloth away from his hand.\") both described him unwinding it. Now the first shows the cloth and the second the pulling.",
+      "decision": "accepted",
+      "decision_note": "The author, 30 September: \"minor polish, not something that warrants another revision round\"."
     }
   ]
 }
