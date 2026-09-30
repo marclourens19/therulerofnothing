@@ -1,6 +1,6 @@
 # Chapter 7: Design
 
-Started 30 September 2026. **Status:** finished (30 September), 4,218 words. It matches the author's final Word file word for word. The author's revision has Claude's six notes and three final passes, then two lines back in the author's words.
+Started 30 September 2026. **Status:** finished (30 September), 4,218 words. It matches the author's final Word file word for word, except for one line the author then chose: "While I'm here, he has to get past me before he sends anyone after you." The author's revision has Claude's six notes and three final passes, then two lines back in the author's words.
 
 **The target:** 4,000–5,000 words, and longer if the story needs it. Claude will give a range, not a single number, because Chapters 5 and 6 both came in about a quarter under Claude's budgets.
 
@@ -605,3 +605,5 @@ The author: "make 1-6 as a change list". All six are applied, 20 changes in `Cha
 - "I waited for you all night, Thaer. I thought *you*, of all people, would help me understand."
 
 The chapter and the Word file are now identical.
+
+**Thaer's reason, settled (30 September):** the author chose "I have to stay and deal with Leorin. While I'm here, he has to get past me before he sends anyone after you." It replaces "after us", which was weak because Thaer is the most dangerous person in the palace, so being hunted with him there is little threat.

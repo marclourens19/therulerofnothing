@@ -356,7 +356,7 @@ She waited for him to tell her the old man was wrong. When he didn't, she drew a
 
 "Come with me, Thaer. Please."
 
-"I have to stay and deal with Leorin. If I leave with you, he can send whoever he likes after us."
+"I have to stay and deal with Leorin. While I'm here, he has to get past me before he sends anyone after you."
 
 "Then come when you can. You know where I'm going."
 

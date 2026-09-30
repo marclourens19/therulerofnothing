@@ -5,7 +5,7 @@ The author's revision of 30 September is the chapter. It's saved word for word i
 ## At a glance
 
 - **24 changes proposed.** 0 rejected so far, so 24 are in the chapter: 24 rewritten, 0 cut and 0 added.
-- **Length:** 4,226 words before, 4,218 after.
+- **Length:** 4,226 words before, 4,220 after.
 - **Median paragraph:** 13.5 words before, 13 after. The house target is roughly 14–22.
 - **"Nothing":** 4 times before, 4 after.
 - **By note:** names and titles, changes 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14; the ending, 17; Thaer's reason, 10, 16; the thousand years confirmed, 15; smaller things, 18, 19, 20.
@@ -312,9 +312,9 @@ Nereth's titles are unchanged.
 
 **After**
 
-> "I have to stay and deal with Leorin. If I leave with you, he can send whoever he likes after us."
+> "I have to stay and deal with Leorin. While I'm here, he has to get past me before he sends anyone after you."
 
-**Why.** Note 3: if Thaer went with her, anyone Leorin sent would have to get past him, so leaving didn't expose her. His reason is that staying lets him stop the pursuit at its source. *Stair:* The author's own wording, from their Word file of 30 September. "After us" answers the problem with the first version: if Thaer went too, Leorin could hunt them both.
+**Why.** Note 3: if Thaer went with her, anyone Leorin sent would have to get past him, so leaving didn't expose her. His reason is that staying lets him stop the pursuit at its source. *Stair:* The author's own wording, from their Word file of 30 September. "After us" answers the problem with the first version: if Thaer went too, Leorin could hunt them both. *Stair:* The author chose this wording (30 September). "After us" didn't hold, because Thaer is the most dangerous person in the palace, so being hunted with him there is little threat. Staying makes him the thing Leorin has to get past.
 
 **Your decision.** The author asked for Claude's notes 1–6 on the revision as a change list (30 September).
 
