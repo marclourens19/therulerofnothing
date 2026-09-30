@@ -4,12 +4,12 @@ The chapter is now the author's combined draft (30 September): Claude's first dr
 
 ## At a glance
 
-- **22 changes proposed.** 0 rejected so far, so 22 are in the chapter: 22 rewritten, 0 cut and 0 added.
+- **23 changes proposed.** 0 rejected so far, so 23 are in the chapter: 23 rewritten, 0 cut and 0 added.
 - **Length:** 4,302 words before, 4,267 after.
 - **Median paragraph:** 13 words before, 13 after. The house target is roughly 14–22.
 - **"Nothing":** 4 times before, 4 after.
-- **By pass:** pass 1, changes 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15; pass 2, changes 16, 17, 18, 19, 20; pass 3, changes 3, 7, 21, 22. Where a later pass adjusted an earlier change, its reason is added to that change.
-- **Agreed with the author before the passes:** changes 1, 2, 5, 8, 11, 14, 15.
+- **By pass:** pass 1, changes 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16; pass 2, changes 17, 18, 19, 20, 21; pass 3, changes 4, 8, 22, 23. Where a later pass adjusted an earlier change, its reason is added to that change.
+- **Agreed with the author before the passes:** changes 2, 3, 6, 9, 12, 15, 16.
 
 ## Your call
 
@@ -19,28 +19,29 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Already decided**
 
-- **Change 1, Who put her in there: one answer:** part of the passes you asked for (30 September).
-- **Change 2, Inrandeel is in Mydea, and she knows it:** part of the passes you asked for (30 September).
-- **Change 3, "I'd rather":** part of the passes you asked for (30 September).
-- **Change 4, The shoes:** part of the passes you asked for (30 September).
-- **Change 5, "Not to dawdle", restored:** part of the passes you asked for (30 September).
-- **Change 6, The wall with the aprons:** part of the passes you asked for (30 September).
-- **Change 7, Why she could keep walking:** part of the passes you asked for (30 September).
-- **Change 8, How Thaer got below them:** part of the passes you asked for (30 September).
-- **Change 9, What Seralune heard:** part of the passes you asked for (30 September).
-- **Change 10, "Couldn't":** part of the passes you asked for (30 September).
-- **Change 11, "Stay with me":** part of the passes you asked for (30 September).
-- **Change 12, "Come with me" is hers:** part of the passes you asked for (30 September).
-- **Change 13, "So much more":** part of the passes you asked for (30 September).
-- **Change 14, The lamp:** part of the passes you asked for (30 September).
-- **Change 15, Which hand holds the lamp:** part of the passes you asked for (30 September).
-- **Change 16, Grates and people:** part of the passes you asked for (30 September).
-- **Change 17, Where the wash passage is:** part of the passes you asked for (30 September).
-- **Change 18, Who might know:** part of the passes you asked for (30 September).
-- **Change 19, "And he looked away":** part of the passes you asked for (30 September).
-- **Change 20, Nereth's title at the channels:** part of the passes you asked for (30 September).
-- **Change 21, A second glance:** part of the passes you asked for (30 September).
-- **Change 22, The guard knows her:** part of the passes you asked for (30 September).
+- **Change 1, The title:** the author's choice (30 September).
+- **Change 2, Who put her in there: one answer:** part of the passes you asked for (30 September).
+- **Change 3, Inrandeel is in Mydea, and she knows it:** part of the passes you asked for (30 September).
+- **Change 4, "I'd rather":** part of the passes you asked for (30 September).
+- **Change 5, The shoes:** part of the passes you asked for (30 September).
+- **Change 6, "Not to dawdle", restored:** part of the passes you asked for (30 September).
+- **Change 7, The wall with the aprons:** part of the passes you asked for (30 September).
+- **Change 8, Why she could keep walking:** part of the passes you asked for (30 September).
+- **Change 9, How Thaer got below them:** part of the passes you asked for (30 September).
+- **Change 10, What Seralune heard:** part of the passes you asked for (30 September).
+- **Change 11, "Couldn't":** part of the passes you asked for (30 September).
+- **Change 12, "Stay with me":** part of the passes you asked for (30 September).
+- **Change 13, "Come with me" is hers:** part of the passes you asked for (30 September).
+- **Change 14, "So much more":** part of the passes you asked for (30 September).
+- **Change 15, The lamp:** part of the passes you asked for (30 September).
+- **Change 16, Which hand holds the lamp:** part of the passes you asked for (30 September).
+- **Change 17, Grates and people:** part of the passes you asked for (30 September).
+- **Change 18, Where the wash passage is:** part of the passes you asked for (30 September).
+- **Change 19, Who might know:** part of the passes you asked for (30 September).
+- **Change 20, "And he looked away":** part of the passes you asked for (30 September).
+- **Change 21, Nereth's title at the channels:** part of the passes you asked for (30 September).
+- **Change 22, A second glance:** part of the passes you asked for (30 September).
+- **Change 23, The guard knows her:** part of the passes you asked for (30 September).
 
 ## What the passes found
 
@@ -65,9 +66,27 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 ## The changes
 
+### The title
+
+#### 1. The title
+
+*Draft line 1 → revised line 1*
+
+**Before**
+
+> # Chapter 7
+
+**After**
+
+> # Chapter 7 – The Last Keeper
+
+**Why.** The author's choice (30 September): "Make it how it was before: The Last Keeper". It was the title of the old escape chapter (the old Chapter 5). Here it points to Cyrandor, who kept her mother's word and stays behind the door.
+
+**Your decision.** The author, 30 September.
+
 ### Pass 1: the agreed fixes, and a full read
 
-#### 1. Who put her in there: one answer
+#### 2. Who put her in there: one answer
 
 *Draft lines 99–105 → revised lines 99–101*
 
@@ -91,7 +110,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Your decision.** Pass 1 of the three the author asked for (30 September): the fixes agreed on the combined draft, and robotic text, POV slips and errors.
 
-#### 2. Inrandeel is in Mydea, and she knows it
+#### 3. Inrandeel is in Mydea, and she knows it
 
 *Draft lines 125–137 → revised lines 121–129*
 
@@ -127,7 +146,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Your decision.** Pass 1 of the three the author asked for (30 September): the fixes agreed on the combined draft, and robotic text, POV slips and errors.
 
-#### 3. "I'd rather"
+#### 4. "I'd rather"
 
 *Draft line 141 → revised line 133*
 
@@ -143,7 +162,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Your decision.** Pass 1 of the three the author asked for (30 September): the fixes agreed on the combined draft, and robotic text, POV slips and errors.
 
-#### 4. The shoes
+#### 5. The shoes
 
 *Draft line 171 → revised line 163*
 
@@ -159,7 +178,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Your decision.** Pass 1 of the three the author asked for (30 September): the fixes agreed on the combined draft, and robotic text, POV slips and errors.
 
-#### 5. "Not to dawdle", restored
+#### 6. "Not to dawdle", restored
 
 *Draft line 189 → revised line 181*
 
@@ -175,7 +194,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Your decision.** Pass 1 of the three the author asked for (30 September): the fixes agreed on the combined draft, and robotic text, POV slips and errors.
 
-#### 6. The wall with the aprons
+#### 7. The wall with the aprons
 
 *Draft line 203 → revised line 195*
 
@@ -191,7 +210,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Your decision.** Pass 1 of the three the author asked for (30 September): the fixes agreed on the combined draft, and robotic text, POV slips and errors.
 
-#### 7. Why she could keep walking
+#### 8. Why she could keep walking
 
 *Draft line 229 → revised line 221*
 
@@ -207,7 +226,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Your decision.** Pass 1 of the three the author asked for (30 September): the fixes agreed on the combined draft, and robotic text, POV slips and errors.
 
-#### 8. How Thaer got below them
+#### 9. How Thaer got below them
 
 *Draft line 281 → revised line 273*
 
@@ -223,7 +242,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Your decision.** Pass 1 of the three the author asked for (30 September): the fixes agreed on the combined draft, and robotic text, POV slips and errors.
 
-#### 9. What Seralune heard
+#### 10. What Seralune heard
 
 *Draft line 295 → revised line 287*
 
@@ -239,7 +258,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Your decision.** Pass 1 of the three the author asked for (30 September): the fixes agreed on the combined draft, and robotic text, POV slips and errors.
 
-#### 10. "Couldn't"
+#### 11. "Couldn't"
 
 *Draft line 303 → revised line 295*
 
@@ -255,7 +274,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Your decision.** Pass 1 of the three the author asked for (30 September): the fixes agreed on the combined draft, and robotic text, POV slips and errors.
 
-#### 11. "Stay with me"
+#### 12. "Stay with me"
 
 *Draft lines 329–335 → revised lines 321–327*
 
@@ -283,7 +302,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Your decision.** Pass 1 of the three the author asked for (30 September): the fixes agreed on the combined draft, and robotic text, POV slips and errors.
 
-#### 12. "Come with me" is hers
+#### 13. "Come with me" is hers
 
 *Draft lines 367–369 → revised line 359*
 
@@ -301,7 +320,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Your decision.** Pass 1 of the three the author asked for (30 September): the fixes agreed on the combined draft, and robotic text, POV slips and errors.
 
-#### 13. "So much more"
+#### 14. "So much more"
 
 *Draft line 407 → revised line 397*
 
@@ -317,7 +336,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Your decision.** Pass 1 of the three the author asked for (30 September): the fixes agreed on the combined draft, and robotic text, POV slips and errors.
 
-#### 14. The lamp
+#### 15. The lamp
 
 *Draft line 417 → revised line 407*
 
@@ -333,7 +352,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Your decision.** Pass 1 of the three the author asked for (30 September): the fixes agreed on the combined draft, and robotic text, POV slips and errors.
 
-#### 15. Which hand holds the lamp
+#### 16. Which hand holds the lamp
 
 *Draft line 439 → revised line 429*
 
@@ -351,7 +370,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 ### Pass 2
 
-#### 16. Grates and people
+#### 17. Grates and people
 
 *Draft line 215 → revised line 207*
 
@@ -367,7 +386,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Your decision.** Pass 2 of three (30 September): robotic text, POV slips and errors.
 
-#### 17. Where the wash passage is
+#### 18. Where the wash passage is
 
 *Draft line 299 → revised line 291*
 
@@ -383,7 +402,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Your decision.** Pass 2 of three (30 September): robotic text, POV slips and errors.
 
-#### 18. Who might know
+#### 19. Who might know
 
 *Draft line 365 → revised line 357*
 
@@ -399,7 +418,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Your decision.** Pass 2 of three (30 September): robotic text, POV slips and errors.
 
-#### 19. "And he looked away"
+#### 20. "And he looked away"
 
 *Draft line 405 → revised line 395*
 
@@ -415,7 +434,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Your decision.** Pass 2 of three (30 September): robotic text, POV slips and errors.
 
-#### 20. Nereth's title at the channels
+#### 21. Nereth's title at the channels
 
 *Draft line 419 → revised line 409*
 
@@ -433,7 +452,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 ### Pass 3, the final pass
 
-#### 21. A second glance
+#### 22. A second glance
 
 *Draft line 183 → revised line 175*
 
@@ -449,7 +468,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Your decision.** Pass 3 of three, the final pass (30 September): robotic text, POV slips and errors.
 
-#### 22. The guard knows her
+#### 23. The guard knows her
 
 *Draft line 235 → revised line 227*
 

@@ -38,7 +38,7 @@ The story is being re-planned from the beginning. Current work lives in **New - 
   - `Chapter 7 - Design.md`: the design of Chapter 7, Seralune's escape (started 30 September).
   - `Chapter 7 - Design Review.md`: the author's design and lore review of Chapter 7 (30 September), kept word for word.
   - `Chapter 7 - Working Design.md`: the author's consolidated design for Chapter 7 (30 September), now the working design.
-  - `Chapter 7 - Untitled.md`: Chapter 7 (30 September). It's the author's combined draft (Claude's first draft with material from a GPT draft) after three passes, and it's waiting on a title. Its changes are in `Chapter 7 - Changes.md`.
+  - `Chapter 7 - The Last Keeper.md`: Chapter 7 (30 September). It's the author's combined draft (Claude's first draft with material from a GPT draft) after three passes. The author titled it "The Last Keeper". Its changes are in `Chapter 7 - Changes.md`.
   - `Chapter 7 - Draft Comparison.md`: the author's comparison of Claude's and GPT's drafts, and the reasoning for the combined one, kept word for word.
   - `Chapter 7 - Changes (first draft).md`: Claude's pass on the first draft, before the author chose the combined draft. It's kept as a record.
   - `Drafts/`: earlier versions of the chapters, kept unchanged.

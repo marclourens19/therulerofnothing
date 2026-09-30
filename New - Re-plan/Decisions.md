@@ -606,12 +606,13 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - Kept: "I've served here all my life", "Mind her hand. And mind yourself." and "That's a wall, Your Highness."
   - Cut: "I serve in this house", and her mother taking her to Inrandeel.
   - **Design and dialogue settled; waiting for the go-ahead.**
-- **Written (30 September)** as `Volume 1/Chapter 7 - Untitled.md`, about 3,850 words. Claude's first draft, waiting on the author's review; the new details are listed for a yes or no in the design file ("The first draft").
+- **Written (30 September)** as `Volume 1/Chapter 7 - The Last Keeper.md`, about 3,850 words. Claude's first draft, waiting on the author's review; the new details are listed for a yes or no in the design file ("The first draft").
 - **A pass for errors, inconsistencies and POV slips (30 September),** at the author's request: 21 changes, in `Volume 1/Chapter 7 - Changes.md`. Change 7 (Elowen now comes before the thousand years sinks in) waits on the author's yes. Open question: whether Nereth makes a light at the aqueduct arch.
 - **The combined draft is the chapter (30 September).** The author combined Claude's draft with material from a GPT draft (`Volume 1/Chapter 7 - Draft Comparison.md`) and chose it: "Use the combined." After three passes it's 4,267 words (`Volume 1/Chapter 7 - Changes.md`). The author's answers:
   - **Inrandeel is a forest in Mydea.**
   - **Thaer reaches the old south stair ahead of her by his own route.** The guards' report sends him there.
   - Nereth takes a lamp at the bottom of the stair, so the question of her light is settled.
+- **Title: "The Last Keeper"** (the author, 30 September), as the old escape chapter was called.
 
 ## Alaric
 

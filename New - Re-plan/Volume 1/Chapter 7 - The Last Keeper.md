@@ -1,4 +1,4 @@
-# Chapter 7
+# Chapter 7 – The Last Keeper
 
 The door opened, and it wasn't Thaer.
 

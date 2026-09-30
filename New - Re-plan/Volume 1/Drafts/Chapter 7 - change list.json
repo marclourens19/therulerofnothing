@@ -1,15 +1,30 @@
 {
   "title": "Chapter 7: Changes",
   "draft": "Chapter 7 - Untitled (Draft 3, combined).md",
-  "chapter": "../Chapter 7 - Untitled.md",
+  "chapter": "../Chapter 7 - The Last Keeper.md",
   "changes_file": "../Chapter 7 - Changes.md",
   "intro_md": "The chapter is now the author's combined draft (30 September): Claude's first draft with material from a GPT draft. The author chose it (\"Use the combined\"). It's saved unchanged in `Drafts/Chapter 7 - Untitled (Draft 3, combined).md`, and the author's comparison of the drafts is in `Chapter 7 - Draft Comparison.md`. The author then asked for three passes: \"make sure no robotic AI text, speaking or explanations, pov slips or errors.\" Pass 1 also makes the fixes agreed on the combined draft (tagged below). Claude's earlier pass on the first draft is kept as a record in `Chapter 7 - Changes (first draft).md`.",
   "sections": {
+    "Title": "The title",
     "Pass 1": "Pass 1: the agreed fixes, and a full read",
     "Pass 2": "Pass 2",
     "Pass 3": "Pass 3, the final pass"
   },
   "changes": [
+    {
+      "section": "Title",
+      "title": "The title",
+      "kind": "changed",
+      "tags": [
+        "title"
+      ],
+      "before": "# Chapter 7",
+      "after": "# Chapter 7 – The Last Keeper",
+      "why": "The author's choice (30 September): \"Make it how it was before: The Last Keeper\". It was the title of the old escape chapter (the old Chapter 5). Here it points to Cyrandor, who kept her mother's word and stays behind the door.",
+      "decision": "accepted",
+      "decision_note": "The author, 30 September.",
+      "decision_short": "the author's choice (30 September)."
+    },
     {
       "section": "Pass 1",
       "title": "Who put her in there: one answer",

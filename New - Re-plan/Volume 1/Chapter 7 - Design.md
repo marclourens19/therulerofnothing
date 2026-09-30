@@ -1,6 +1,6 @@
 # Chapter 7: Design
 
-Started 30 September 2026. **Status:** the chapter is now the author's combined draft (30 September), after three passes (22 changes, in `Chapter 7 - Changes.md`; 4,267 words). Waiting on the author's title choice; the first draft's new details are still open for a yes or no.
+Started 30 September 2026. **Status:** the chapter is now the author's combined draft (30 September), after three passes (22 changes, in `Chapter 7 - Changes.md`; 4,267 words). Titled "The Last Keeper" by the author on 30 September. The first draft's new details are still open for a yes or no.
 
 **The target:** 4,000–5,000 words, and longer if the story needs it. Claude will give a range, not a single number, because Chapters 5 and 6 both came in about a quarter under Claude's budgets.
 
@@ -490,7 +490,7 @@ The author held off on "yes to all". **Settled:**
 
 ## The first draft (30 September)
 
-The author said "okay write the chapter". The draft is in `Chapter 7 - Untitled.md`, with an unchanged copy in `Drafts/Chapter 7 - Untitled (Draft 1).md` for later change lists. The style check is clean. The heading is "Chapter 7" until the author chooses a title.
+The author said "okay write the chapter". The draft is in `Chapter 7 - The Last Keeper.md`, with an unchanged copy in `Drafts/Chapter 7 - Untitled (Draft 1).md` for later change lists. The style check is clean. The heading is "Chapter 7" until the author chooses a title.
 
 **Length: about 3,850 words**, under the 4,000–5,000 target and well under the design's 5,000-word budget. It's the same pattern as Chapters 5 and 6. Everything agreed is in it, and nothing was padded to reach a number. If the author wants it longer, the places where real content could grow are:
 - the conversation (more room for her reactions to her mother and father);
@@ -563,3 +563,5 @@ The author sent a third draft that combines Claude's chapter with material from 
 3. "Yes Thaer got below on his own route." The second route report is cut, and "He must have come up from below, by some way she didn't know" is back.
 
 The author's note for the passes: "make sure no robotic AI text, speaking or explanations, pov slips or errors." Three passes followed, with 22 changes (see `Chapter 7 - Changes.md`). The light question is settled by the combined draft's lamp, now in Nereth's left hand so that her right is free for Seralune's left.
+
+**The title (30 September):** "Make it how it was before: The Last Keeper", the title of the old escape chapter. The chapter is now `Chapter 7 - The Last Keeper.md`.
