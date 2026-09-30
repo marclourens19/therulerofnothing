@@ -1,0 +1,363 @@
+{
+  "title": "Chapter 7: Changes",
+  "draft": "Chapter 7 - The Last Keeper (Draft 5, the author's revision, in house style).md",
+  "chapter": "../Chapter 7 - The Last Keeper.md",
+  "changes_file": "../Chapter 7 - Changes.md",
+  "intro_md": "The author's revision of 30 September is the chapter. It's saved word for word in `Drafts/Chapter 7 - The Last Keeper (Draft 5, the author's revision).md`, and in house style (straight quotes, \"any more\") in `Drafts/Chapter 7 - The Last Keeper (Draft 5, the author's revision, in house style).md`, which is the base for this list. The author asked for Claude's six notes on it as a change list: \"make 1-6 as a change list\". Earlier rounds are in `Chapter 7 - Changes (combined draft).md` and `Chapter 7 - Changes (first draft).md`.",
+  "sections": {
+    "Names": "Note 1: names and titles",
+    "Stair": "Notes 2–5: the stair",
+    "Small": "Note 6: smaller things",
+    "Pass 1": "Pass 1: errors, POV slips and the like",
+    "Pass 2": "Pass 2",
+    "Pass 3": "Pass 3, the final pass"
+  },
+  "changes": [
+    {
+      "section": "Names",
+      "title": "\"He hasn't come yet\"",
+      "kind": "changed",
+      "tags": [
+        "names"
+      ],
+      "before": "\"He hasn't come yet, Your Highness. I was hoping to speak to you before he did.\"",
+      "after": "\"He hasn't come yet. I was hoping to speak to you before he did.\"",
+      "why": "Note 1: names and titles in every line. On the stair Thaer said \"Seralune\" 8 times and she said \"Thaer\" 11 times, and Cyrandor's \"Your Highness\" had crept back up. They stay where they land hard.",
+      "decision": "accepted",
+      "decision_short": "your notes 1–6 (30 September).",
+      "decision_note": "The author asked for Claude's notes 1–6 on the revision as a change list (30 September)."
+    },
+    {
+      "section": "Names",
+      "title": "\"I can only tell you\"",
+      "kind": "changed",
+      "tags": [
+        "names"
+      ],
+      "before": "\"Your Highness, I can only tell you what was passed down. I don't know what happened between them.\"",
+      "after": "\"I can only tell you what was passed down. I don't know what happened between them.\"",
+      "why": "Note 1: names and titles in every line. On the stair Thaer said \"Seralune\" 8 times and she said \"Thaer\" 11 times, and Cyrandor's \"Your Highness\" had crept back up. They stay where they land hard.",
+      "decision": "accepted",
+      "decision_short": "your notes 1–6 (30 September).",
+      "decision_note": "The author asked for Claude's notes 1–6 on the revision as a change list (30 September)."
+    },
+    {
+      "section": "Names",
+      "title": "\"Inrandeel\"",
+      "kind": "changed",
+      "tags": [
+        "names"
+      ],
+      "before": "\"Inrandeel, Your Highness. But the last word we had of her is centuries old. She'd gone to the elves there, to find a way for you to wake and live outside that thing.\" He hesitated. \"We heard nothing after that.\"",
+      "after": "\"Inrandeel. But the last word we had of her is centuries old. She'd gone to the elves there, to find a way for you to wake and live outside that thing.\" He hesitated. \"We heard nothing after that.\"",
+      "why": "Note 1: names and titles in every line. On the stair Thaer said \"Seralune\" 8 times and she said \"Thaer\" 11 times, and Cyrandor's \"Your Highness\" had crept back up. They stay where they land hard.",
+      "decision": "accepted",
+      "decision_short": "your notes 1–6 (30 September).",
+      "decision_note": "The author asked for Claude's notes 1–6 on the revision as a change list (30 September)."
+    },
+    {
+      "section": "Names",
+      "title": "\"I'm hoping\"",
+      "kind": "changed",
+      "tags": [
+        "names"
+      ],
+      "before": "\"I'm hoping we won't have to find out, Your Highness.\" He tried to smile. \"But your mother asked us to be here when you woke. I couldn't bring you her message and then take you straight back downstairs.\" His eyes went to Nereth, and stayed there a moment longer than they needed to.",
+      "after": "\"I'm hoping we won't have to find out.\" He tried to smile. \"But your mother asked us to be here when you woke. I couldn't bring you her message and then take you straight back downstairs.\" His eyes went to Nereth, and stayed there a moment longer than they needed to.",
+      "why": "Note 1: names and titles in every line. On the stair Thaer said \"Seralune\" 8 times and she said \"Thaer\" 11 times, and Cyrandor's \"Your Highness\" had crept back up. They stay where they land hard.",
+      "decision": "accepted",
+      "decision_short": "your notes 1–6 (30 September).",
+      "decision_note": "The author asked for Claude's notes 1–6 on the revision as a change list (30 September)."
+    },
+    {
+      "section": "Names",
+      "title": "\"They mended it\"",
+      "kind": "changed",
+      "tags": [
+        "names"
+      ],
+      "before": "\"I'm standing.\" She held on to the rail. \"They mended it, Thaer. With your leave.\"",
+      "after": "\"I'm standing.\" She held on to the rail. \"They mended it. With your leave.\"",
+      "why": "Note 1: names and titles in every line. On the stair Thaer said \"Seralune\" 8 times and she said \"Thaer\" 11 times, and Cyrandor's \"Your Highness\" had crept back up. They stay where they land hard.",
+      "decision": "accepted",
+      "decision_short": "your notes 1–6 (30 September).",
+      "decision_note": "The author asked for Claude's notes 1–6 on the revision as a change list (30 September)."
+    },
+    {
+      "section": "Names",
+      "title": "\"I let them mend it\"",
+      "kind": "changed",
+      "tags": [
+        "names"
+      ],
+      "before": "He didn't pretend. That was something. \"I let them mend it, Seralune. I never agreed to put you back in there.\"",
+      "after": "He didn't pretend. That was something. \"I let them mend it. I never agreed to put you back in there.\"",
+      "why": "Note 1: names and titles in every line. On the stair Thaer said \"Seralune\" 8 times and she said \"Thaer\" 11 times, and Cyrandor's \"Your Highness\" had crept back up. They stay where they land hard.",
+      "decision": "accepted",
+      "decision_short": "your notes 1–6 (30 September).",
+      "decision_note": "The author asked for Claude's notes 1–6 on the revision as a change list (30 September)."
+    },
+    {
+      "section": "Names",
+      "title": "\"You knew\"",
+      "kind": "changed",
+      "tags": [
+        "names"
+      ],
+      "before": "\"I sat upstairs listening to them all night. Every time they hit it, I wondered whether they were coming for me. You knew, Thaer, and you left me there.\"",
+      "after": "\"I sat upstairs listening to them all night. Every time they hit it, I wondered whether they were coming for me. You knew, and you left me there.\"",
+      "why": "Note 1: names and titles in every line. On the stair Thaer said \"Seralune\" 8 times and she said \"Thaer\" 11 times, and Cyrandor's \"Your Highness\" had crept back up. They stay where they land hard.",
+      "decision": "accepted",
+      "decision_short": "your notes 1–6 (30 September).",
+      "decision_note": "The author asked for Claude's notes 1–6 on the revision as a change list (30 September)."
+    },
+    {
+      "section": "Names",
+      "title": "\"I heard you\"",
+      "kind": "changed",
+      "tags": [
+        "names"
+      ],
+      "before": "\"I heard you, Thaer. Outside my door last night. 'No one touches my sister.'\"",
+      "after": "\"I heard you. Outside my door last night. 'No one touches my sister.'\"",
+      "why": "Note 1: names and titles in every line. On the stair Thaer said \"Seralune\" 8 times and she said \"Thaer\" 11 times, and Cyrandor's \"Your Highness\" had crept back up. They stay where they land hard.",
+      "decision": "accepted",
+      "decision_short": "your notes 1–6 (30 September).",
+      "decision_note": "The author asked for Claude's notes 1–6 on the revision as a change list (30 September)."
+    },
+    {
+      "section": "Names",
+      "title": "\"Then stay with me\"",
+      "kind": "changed",
+      "tags": [
+        "names"
+      ],
+      "before": "\"Then stay with me, Seralune. I meant it. I won't let him near you.\"",
+      "after": "\"Then stay with me. I meant it. I won't let him near you.\"",
+      "why": "Note 1: names and titles in every line. On the stair Thaer said \"Seralune\" 8 times and she said \"Thaer\" 11 times, and Cyrandor's \"Your Highness\" had crept back up. They stay where they land hard.",
+      "decision": "accepted",
+      "decision_short": "your notes 1–6 (30 September).",
+      "decision_note": "The author asked for Claude's notes 1–6 on the revision as a change list (30 September)."
+    },
+    {
+      "section": "Names",
+      "title": "\"You locked the door\"",
+      "kind": "changed",
+      "tags": [
+        "names",
+        "logic"
+      ],
+      "before": "\"You locked the door last night, Thaer. And you can't stay outside it for weeks, can you?\"",
+      "after": "\"You locked the door last night. And you can't stay outside it until Father comes home, can you?\"",
+      "why": "Note 1: names and titles in every line. On the stair Thaer said \"Seralune\" 8 times and she said \"Thaer\" 11 times, and Cyrandor's \"Your Highness\" had crept back up. They stay where they land hard. Note 5: \"for weeks\" no longer connected to anything, because Father isn't mentioned there. \"Until Father comes home\" says what she means, as Chapter 5 put it (\"At least wait until my father has returned\").",
+      "decision": "accepted",
+      "decision_short": "your notes 1–6 (30 September).",
+      "decision_note": "The author asked for Claude's notes 1–6 on the revision as a change list (30 September)."
+    },
+    {
+      "section": "Names",
+      "title": "\"You don't know what's out there\"",
+      "kind": "changed",
+      "tags": [
+        "names"
+      ],
+      "before": "When he spoke, it was quietly. \"You don't know what's out there, Seralune. You don't know what you—\"",
+      "after": "When he spoke, it was quietly. \"You don't know what's out there. You don't know what you—\"",
+      "why": "Note 1: names and titles in every line. On the stair Thaer said \"Seralune\" 8 times and she said \"Thaer\" 11 times, and Cyrandor's \"Your Highness\" had crept back up. They stay where they land hard.",
+      "decision": "accepted",
+      "decision_short": "your notes 1–6 (30 September).",
+      "decision_note": "The author asked for Claude's notes 1–6 on the revision as a change list (30 September)."
+    },
+    {
+      "section": "Names",
+      "title": "\"Then tell me!\"",
+      "kind": "changed",
+      "tags": [
+        "names"
+      ],
+      "before": "\"Then tell me! Thaer, I've been asking you since you found me.\"",
+      "after": "\"Then tell me! I've been asking you since you found me.\"",
+      "why": "Note 1: names and titles in every line. On the stair Thaer said \"Seralune\" 8 times and she said \"Thaer\" 11 times, and Cyrandor's \"Your Highness\" had crept back up. They stay where they land hard.",
+      "decision": "accepted",
+      "decision_short": "your notes 1–6 (30 September).",
+      "decision_note": "The author asked for Claude's notes 1–6 on the revision as a change list (30 September)."
+    },
+    {
+      "section": "Names",
+      "title": "\"That was a long time ago\"",
+      "kind": "changed",
+      "tags": [
+        "names"
+      ],
+      "before": "\"That was a long time ago, Seralune.\"",
+      "after": "\"That was a long time ago.\"",
+      "why": "Note 1: names and titles in every line. On the stair Thaer said \"Seralune\" 8 times and she said \"Thaer\" 11 times, and Cyrandor's \"Your Highness\" had crept back up. They stay where they land hard.",
+      "decision": "accepted",
+      "decision_short": "your notes 1–6 (30 September).",
+      "decision_note": "The author asked for Claude's notes 1–6 on the revision as a change list (30 September)."
+    },
+    {
+      "section": "Names",
+      "title": "\"I was waiting for Father\"",
+      "kind": "changed",
+      "tags": [
+        "names"
+      ],
+      "before": "\"I was waiting for Father, Seralune. I thought he might listen to me.\"",
+      "after": "\"I was waiting for Father. I thought he might listen to me.\"",
+      "why": "Note 1: names and titles in every line. On the stair Thaer said \"Seralune\" 8 times and she said \"Thaer\" 11 times, and Cyrandor's \"Your Highness\" had crept back up. They stay where they land hard.",
+      "decision": "accepted",
+      "decision_short": "your notes 1–6 (30 September).",
+      "decision_note": "The author asked for Claude's notes 1–6 on the revision as a change list (30 September)."
+    },
+    {
+      "section": "Stair",
+      "title": "His silence confirms it",
+      "kind": "changed",
+      "tags": [
+        "confirm",
+        "pass1"
+      ],
+      "before": "\"I know how long I've been in there. A thousand years, Thaer. He told me.\" She waited for him to look at her. \"I know Mother might not be there any more. But the elves might remember her. They might know what she found. I have to ask.\"",
+      "after": "\"I know how long I've been in there. A thousand years, Thaer. He told me.\"\n\nShe waited for him to tell her the old man was wrong. When he didn't, she drew a breath that hurt all the way in.\n\n\"Mother might not be there any more. I know that. But the elves might remember her, or know what she found. I have to ask.\"",
+      "why": "Note 4: nothing showed Thaer confirming the thousand years. The earlier beat is back, and it replaces \"She waited for him to look at her.\" His silence is the answer, and she has to breathe through it before she goes on. *Pass 1:* Three \"might\"s in a row made the speech sound listed rather than said.",
+      "decision": "accepted",
+      "decision_short": "your notes 1–6 (30 September).",
+      "decision_note": "The author asked for Claude's notes 1–6 on the revision as a change list (30 September)."
+    },
+    {
+      "section": "Stair",
+      "title": "Why Thaer stays",
+      "kind": "changed",
+      "tags": [
+        "logic",
+        "stair"
+      ],
+      "before": "\"I have to stay here and deal with Leorin. If I leave with you, he can send whoever he likes after you.\"",
+      "after": "\"I have to stay and deal with Leorin. While I'm here, he has to get past me before he sends anyone after you.\"",
+      "why": "Note 3: if Thaer went with her, anyone Leorin sent would have to get past him, so leaving didn't expose her. His reason is that staying lets him stop the pursuit at its source. *Stair:* The author's own wording, from their Word file of 30 September. \"After us\" answers the problem with the first version: if Thaer went too, Leorin could hunt them both. *Stair:* The author chose this wording (30 September). \"After us\" didn't hold, because Thaer is the most dangerous person in the palace, so being hunted with him there is little threat. Staying makes him the thing Leorin has to get past.",
+      "decision": "accepted",
+      "decision_short": "your notes 1–6 (30 September).",
+      "decision_note": "The author asked for Claude's notes 1–6 on the revision as a change list (30 September)."
+    },
+    {
+      "section": "Stair",
+      "title": "Her last words to him",
+      "kind": "changed",
+      "tags": [
+        "hurt",
+        "pass1",
+        "stair"
+      ],
+      "before": "\"Then why couldn't you tell me that?\" Her hand tightened around the rail. \"I waited for you all night, Thaer. I thought you could help me understand what was happening. I… I thought *you*, of all people, would help me.\"",
+      "after": "\"Then why couldn't you tell me that?\" Her hand tightened on the rail. \"I waited for you all night, Thaer. I thought *you*, of all people, would help me understand.\"",
+      "why": "Note 2: the ending explained the hurt. The author's comparison praised \"So was I\" because the hurt \"pass[es] through the dialogue rather than having the narration explain it\". \"I waited for you all night\" answers his \"I was waiting for Father\" in the same way, and \"He looked away\" does the rest. The name comes out with note 1. *Pass 1:* House style uses \"round\", not \"around\", and \"on the rail\" is plainer anyway. *Stair:* The author's own wording, from their Word file of 30 September. It keeps one line of the hurt, \"*you*, of all people\", as Claude's note offered, and ends on \"understand\".",
+      "decision": "accepted",
+      "decision_short": "your notes 1–6 (30 September).",
+      "decision_note": "The author asked for Claude's notes 1–6 on the revision as a change list (30 September)."
+    },
+    {
+      "section": "Small",
+      "title": "\"He didn't answer\"",
+      "kind": "changed",
+      "tags": [
+        "small"
+      ],
+      "before": "Nobody answered. Leorin with his white hair, asking her to forgive him. The royal tree, grown so tall she had to tip her head back to see the top of it. Doors all down a corridor where there had been bare wall. On the gallery last night she had got as far as *So it's been…* and stopped herself.",
+      "after": "He didn't answer. Leorin with his white hair, asking her to forgive him. The royal tree, grown so tall she had to tip her head back to see the top of it. Doors all down a corridor where there had been bare wall. On the gallery last night she had got as far as *So it's been…* and stopped herself.",
+      "why": "Note 6: she asks him a direct question (\"How can you tell me that was a thousand years ago?\"), so the silence is his.",
+      "decision": "accepted",
+      "decision_short": "your notes 1–6 (30 September).",
+      "decision_note": "The author asked for Claude's notes 1–6 on the revision as a change list (30 September)."
+    },
+    {
+      "section": "Small",
+      "title": "The next flight",
+      "kind": "changed",
+      "tags": [
+        "small"
+      ],
+      "before": "Nereth touched her elbow and turned her towards the passage. \"We use another one now. It's round this way.\"",
+      "after": "Nereth touched her elbow and turned her towards the next flight. \"We use another one now. It's round this way.\"",
+      "why": "Note 6: they're on a stair landing, and \"We use another one now\" means another stair.",
+      "decision": "accepted",
+      "decision_short": "your notes 1–6 (30 September).",
+      "decision_note": "The author asked for Claude's notes 1–6 on the revision as a change list (30 September)."
+    },
+    {
+      "section": "Small",
+      "title": "Who shouts at the door",
+      "kind": "changed",
+      "tags": [
+        "small"
+      ],
+      "before": "\"Cyrandor! Answer me!\"\n\nNereth pulled again. The door stayed shut.",
+      "after": "\"Cyrandor! Answer me!\" Nereth pulled again. The door stayed shut.",
+      "why": "Note 6: the shout had no speaker. In the same paragraph as her pulling, it's Nereth's.",
+      "decision": "accepted",
+      "decision_short": "your notes 1–6 (30 September).",
+      "decision_note": "The author asked for Claude's notes 1–6 on the revision as a change list (30 September)."
+    },
+    {
+      "section": "Pass 1",
+      "title": "Under the shouting",
+      "kind": "changed",
+      "tags": [
+        "pass1"
+      ],
+      "before": "Cyrandor said something beneath them, too quietly for her to hear.",
+      "after": "Under the shouting, Cyrandor said something too quietly for her to hear.",
+      "why": "\"Beneath them\" could read as below them in the building. It means under the voices.",
+      "decision": "accepted",
+      "decision_short": "your notes 1–6 (30 September).",
+      "decision_note": "Pass 1 of three after notes 1–6 (the author, 30 September): errors, POV slips and the like."
+    },
+    {
+      "section": "Pass 1",
+      "title": "Up the stair",
+      "kind": "changed",
+      "tags": [
+        "pass1"
+      ],
+      "before": "His eyes went towards the stair.",
+      "after": "His eyes went up the stair.",
+      "why": "They're all on the stair, so \"towards the stair\" pointed nowhere. Up the stair is where Leorin is.",
+      "decision": "accepted",
+      "decision_short": "your notes 1–6 (30 September).",
+      "decision_note": "Pass 1 of three after notes 1–6 (the author, 30 September): errors, POV slips and the like."
+    },
+    {
+      "section": "Pass 2",
+      "title": "Folded, like Nereth's",
+      "kind": "changed",
+      "tags": [
+        "pass2"
+      ],
+      "before": "\"I wish I had an answer for you, Your Highness. We were told she went looking for a way to help you. Before she left, she asked a few of the servants to watch over you and send her word.\" His hands settled over the bundle, the way Nereth's did. \"That was how it began.\"",
+      "after": "\"I wish I had an answer for you, Your Highness. We were told she went looking for a way to help you. Before she left, she asked a few of the servants to watch over you and send her word.\" His hands folded over the bundle, the way Nereth's did. \"That was how it began.\"",
+      "why": "Continuity with Chapter 5, where Nereth's hands are always \"folded\". Nereth's hands don't \"settle\", so the comparison only works with the word Seralune has seen.",
+      "decision": "accepted",
+      "decision_short": "your notes 1–6 (30 September).",
+      "decision_note": "Pass 2 of three (30 September)."
+    },
+    {
+      "section": "Pass 3",
+      "title": "\"He didn't\"",
+      "kind": "changed",
+      "tags": [
+        "pass3"
+      ],
+      "before": "He didn't answer.\n\n\"I'm going to Mydea. Mother went to Inrandeel, and I need to find out what she was looking for.\"",
+      "after": "He didn't.\n\n\"I'm going to Mydea. Mother went to Inrandeel, and I need to find out what she was looking for.\"",
+      "why": "\"He didn't answer\" came three times, twice on the stair within a dozen lines. After \"Then tell me!\", \"He didn't.\" says he didn't tell her, which is sharper. The later \"He didn't answer\", after \"Then come when you can\", stays.",
+      "decision": "accepted",
+      "decision_short": "your notes 1–6 (30 September).",
+      "decision_note": "Pass 3 of three, finalising the chapter (30 September)."
+    }
+  ],
+  "glance": [
+    "**By note:** names and titles, changes {tag:names}; the ending, {tag:hurt}; Thaer's reason, {tag:logic}; the thousand years confirmed, {tag:confirm}; smaller things, {tag:small}.",
+    "**The three passes after notes 1–6:** pass 1, changes {tag:pass1}; pass 2, {tag:pass2}; pass 3, {tag:pass3}. Each pass was a full read; the chapter needed less each time."
+  ],
+  "summary_md": "## Names that stay\n\n- **Thaer says \"Seralune\" three times:** \"Seralune.\", \"Come back upstairs, Seralune\" and \"Seralune—\".\n- **She says \"Thaer\" four times:** \"Something happened to *me*, Thaer\", \"A thousand years, Thaer\", \"Come with me, Thaer. Please.\" and \"Thaer? / Thaer, don't.\"\n- **Cyrandor says \"Your Highness\" six times:** \"I did\", \"Cyrandor\", \"That's how it was told to me\", \"I've served here all my life\", \"I wish I had an answer for you\" and \"Mending it\".\n\nNereth's titles are unchanged."
+}

@@ -576,6 +576,48 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 
 - **A day on the road first** (29 September). The author: "I recommend having a day on the road first, having Alaric distrust Silas, and Silas not responding to questions." So Marta's door moves to a later Alaric chapter. What turns the day is round 2 of `Volume 1/Chapters 5-15 - Outline.md`.
 
+## Chapter 7
+
+- **Design started (30 September)** in `Volume 1/Chapter 7 - Design.md`: a proposed five-scene shape (the door; what Cyrandor tells her; the choice; out through the palace; the stair) and round 1 of 13 questions, with the "100/100" answer.
+- **The author's design and lore review (30 September),** kept verbatim in `Volume 1/Chapter 7 - Design Review.md`. It gives an 18-beat sequence (about 5,000 words) as the working shape, and three causal problems to solve before drafting: who is resealing her this morning; a usable lead for her mother; and why Thaer, whose Dark can cut anything, fails to bring her back. Round 2 is in the design file.
+- **Round 2 answers (30 September),** in the updated review (§18) and the design file:
+  - **Leorin** insists on the sealing because he sees protecting the kingdom as his duty.
+  - **The guards at her door** are asleep from a sleeping poison in their drinks.
+  - **The queen's last word** came from **Inrandeel**, centuries ago, and nothing since.
+  - **Thaer** was already on his way to her room. The alarm is guards shouting that she's gone and the door guards are asleep.
+  - **Cyrandor** stays to stop the guards; his fate is unknown. He's Nereth's mentor, with no childhood story on the page. He has never heard of Elowen, and doesn't know who carried out the ancient sealing.
+  - **Nereth** weighs seeing the world against leaving him.
+  - **No ring.** **The proof is a line her mother told her as a child,** passed down by word through the Order for centuries. It reaches her similar, not the same (the author: "centuries of different people can lose its meaning"). The line itself is still to choose.
+  - **The chapter ends at an ominous aqueduct entrance** in an abandoned part of the palace, not the forest. The dread comes from what Seralune notices.
+  - *Open:* Thaer's decision at the stair, and round 3 in the design file.
+- **The author's working design (30 September)** consolidates Chapter 7 into 18 beats and is now the design: `Volume 1/Chapter 7 - Working Design.md`. Still open: five round 3 choices, the mother's line, what the last report says, and the close call.
+- **Dialogue round answers (30 September):**
+  - **Cyrandor's key goes down a drain** before the guards can take it, so they have to go the long way round.
+  - **Thaer's order is kept:** "The princess is with me. Go back and hold the upper halls."
+  - **Letting her go is Thaer's choice** within limits he sets himself: he won't force her back, won't go with her, and won't overturn the arrangement that governs her life.
+  - **The Chapter 5 payoff:** "You told me it wasn't up to you."
+  - **The mother's line:** "Don't cry. The falls never stop, and I'll never stop looking for you." It is passed down as "The falls do not stop, and neither will we."
+  - **Line changes to E3, E6/E9, E7, E12 and E13** are in the design file.
+  - **Seralune's cut is on her right palm** (Chapter 4).
+- **The last dialogue choices (30 September):**
+  - Thaer: "I was waiting for Father." His last words: "Go. Before Leorin comes down himself."
+  - Nereth gives her reason ("I've wanted to see what's past the falls since I was small.") after looking at Cyrandor.
+  - The chapter opens on the smile: "You were in the corridor last night. You smiled at me."
+  - Kept: "I've served here all my life", "Mind her hand. And mind yourself." and "That's a wall, Your Highness."
+  - Cut: "I serve in this house", and her mother taking her to Inrandeel.
+  - **Design and dialogue settled; waiting for the go-ahead.**
+- **Written (30 September)** as `Volume 1/Chapter 7 - The Last Keeper.md`, about 3,850 words. Claude's first draft, waiting on the author's review; the new details are listed for a yes or no in the design file ("The first draft").
+- **A pass for errors, inconsistencies and POV slips (30 September),** at the author's request: 21 changes, in `Volume 1/Chapter 7 - Changes.md`. Change 7 (Elowen now comes before the thousand years sinks in) waits on the author's yes. Open question: whether Nereth makes a light at the aqueduct arch.
+- **The combined draft is the chapter (30 September).** The author combined Claude's draft with material from a GPT draft (`Volume 1/Chapter 7 - Draft Comparison.md`) and chose it: "Use the combined." After three passes it's 4,267 words (`Volume 1/Chapter 7 - Changes.md`). The author's answers:
+  - **Inrandeel is a forest in Mydea.**
+  - **Thaer reaches the old south stair ahead of her by his own route.** The guards' report sends him there.
+  - Nereth takes a lamp at the bottom of the stair, so the question of her light is settled.
+- **Title: "The Last Keeper"** (the author, 30 September), as the old escape chapter was called.
+- **The author's review (30 September):** fewer "and" chains in quiet passages; Thaer only "a little out of breath"; the "dawdle" line cut. Done.
+- **The author's revision (30 September)** is now the chapter. Claude changed only the house style (quotes, "any more"). The previous version and its changes are kept in `Drafts/` and `Chapter 7 - Changes (combined draft).md`.
+- **Claude's six notes on the revision (30 September)** were applied at the author's request, as `Volume 1/Chapter 7 - Changes.md`.
+- **Three final passes (30 September)** followed, at the author's request. After them, the author's final Word file restored two lines in the author's own wording. Chapter 7 is finished at 4,218 words and matches that file word for word. The one exception is Thaer's reason for staying, which the author then chose: "While I'm here, he has to get past me before he sends anyone after you."
+
 ## Alaric
 
 - About twenty.
