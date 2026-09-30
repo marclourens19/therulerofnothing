@@ -60,3 +60,16 @@ About 4,300 words in six scenes. Everything here is a proposal, and the numbers 
 8. **The ship.** This was the outline's call, left for later: the royal warship passes overhead at dusk, going east towards Gerolt's farm.
    - *Recommended:* yes, as the last image. The reader knows from Chapter 5 whose ship it is and why it's going there; Alaric doesn't. It's cause and effect, not a near-miss: the king going to see the field Alaric woke on.
    - *Alternative:* the chapter ends on Kelmend's wall and "Tomorrow", and the ship waits for later.
+
+**Answers (30 September).** The author gave their own shape instead of answering question by question, plus two reference pictures: "Ask enough questions, challenge my answers, let's get this chapter to the target length and beyond."
+1. **Dawn.** Silas wakes Alaric by nudging his foot: "Up, boy, time to get moving" (the author's rough line, "don't use my exact words but similar"). Silas is hinting that he's coming with Alaric, and Alaric has to wonder why.
+2. **Leaving the cave.** Now Alaric can see clearly: the forest ahead, and behind, smoke rising beyond the trees. He stands there a while thinking of Gerolt, sees Silas walking on, pulls himself together, and follows at a long distance behind him.
+3. **The road.** Agreed. Alaric is like *A Realm Reborn*'s Alphinaud here, pestering Silas with questions about last night and who Marta is.
+4. **The turn.** Alaric gets annoyed with Silas's evasions and wonders if he can be trusted, so he slips away to reach Kelmend on his own with Wena. Pushing through the forest towards Kelmend, he naively comes upon an **ogre** (the author's picture: huge, pale, pot-bellied, with a tusked underbite, clawed hands, rag bindings and a spiked wooden club). Wena barks, it runs after them, catches Alaric by the foot and hauls him up to its face: "Can eat… food…" (the author's rough line). Silas, alerted by the barking, fights it and kills it, then says something snarky, like "Would it kill you just to listen for once."
+5. **Kelmend and the ship.** Alaric follows Silas until they see Kelmend's lights. Then the Natharul king's royal airship passes overhead. It's massive: the author's picture is FFXIV's *Agrius*, a huge red hull, spined and organic-looking, with dark spires hanging beneath it and small craft below. Alaric's reaction is "what is that?", and Silas is very shocked too.
+
+Not taken up from round 1: burying Gerolt (question 2), Silas pushing to leave Wena (4), and who Alaric walks into (5), which is now the ogre. These come back in round 2.
+
+## Round 2 (asked 30 September)
+
+The questions and Claude's challenges are in the chat of 30 September and repeated here once answered.

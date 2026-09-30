@@ -537,6 +537,10 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 ## Chapter 6
 
 - **Design started (29 September)** in `Volume 1/Chapter 6 - Design.md`: a proposed six-scene shape and round 1 of questions.
+- **The author's shape (30 September):** dawn, Silas waking him ("Up, boy…") and hinting he's coming along; the smoke behind them, and Alaric following far behind; Alaric pestering Silas like *A Realm Reborn*'s Alphinaud; Alaric slipping away to reach Kelmend alone with Wena and running into an **ogre**, which grabs him by the foot ("Can eat… food…") until Silas kills it ("Would it kill you just to listen for once"); then Kelmend's lights, and the Natharul king's warship passing overhead, massive, with both of them shocked. Round 2 is in the design file.
+- **Two new looks (the author's reference pictures, 30 September):**
+  - **Ogres exist.** Huge, pale, pot-bellied, with a tusked underbite, clawed hands and rag bindings, carrying a spiked wooden club. They can speak a little. *Open:* what an ogre is in this world (question in round 2).
+  - **The royal warship looks like FFXIV's *Agrius*:** a huge red hull, spined and organic-looking, with dark spires hanging beneath it and small craft below. *To reconcile:* Chapter 5 describes it as "long and dark and plated all over" with blue-green light along its underside (round 2).
 
 - **A day on the road first** (29 September). The author: "I recommend having a day on the road first, having Alaric distrust Silas, and Silas not responding to questions." So Marta's door moves to a later Alaric chapter. What turns the day is round 2 of `Volume 1/Chapters 5-15 - Outline.md`.
 
