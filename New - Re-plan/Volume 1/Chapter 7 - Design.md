@@ -298,3 +298,24 @@ The author updated `Chapter 7 - Working Design.md`. It folds in the report and c
 1. "Don't cry. The falls never stop, and neither will I." becomes "The falls do not stop, and neither will we." *Claude's pick.* Her "I" has become the servants' "we": the promise was carried by other people, which is exactly what happened. It also comes back at the end. She's told the falls never stop, and at the aqueduct entrance she stops being able to hear them, as she couldn't in the chamber in Chapter 4.
 2. "Hear that? As long as you can hear the falls, I'll come and find you." becomes "While the falls are heard, she will be found."
 3. "If you ever get lost, follow the falls home. I'll be waiting." becomes "Follow the falls, and she will be waiting." Who "she" is has been lost.
+
+### The items under discussion, tested (Claude, 30 September)
+
+The author asked Claude to look at the seven items the working design lists as under discussion. The pasted design matched the saved copy. Each item is tested below, with any weakness and its fix.
+
+1. **Thaer lets her pass and stays to face Leorin.**
+   - *Weakness:* it could make him too soft for a man who wants her "safe in his chains".
+   - *Fix:* he isn't agreeing to her going, only to "not like this, not to Leorin's crystal, not today". Nothing he says gives up the idea of bringing her back himself. Staying to face Leorin is also how he keeps the court off her trail for now, so it serves both of his wants.
+2. **The repair "in case".**
+   - *Weakness:* if Seralune never learns it, it does nothing on the page.
+   - *Fix:* Cyrandor's source gives it away. The order came in Leorin's name, "the mending done with the Prince's leave". So at the stair she has something to set against him besides "No one touches my sister": *you let them mend it*. It makes the confrontation harder for both of them.
+3. **Cyrandor stays at the close call.** It holds up, and nothing else changes. His parting and Thaer's scene don't land on top of each other.
+4. **Access and the knocks.**
+   - *Weakness:* why would he knock if he has the key?
+   - *Fix:* it's who he is, an old servant who knocks before entering a princess's room even while he's rescuing her. It's also why she hears Thaer. The knock tells us who he is before he speaks.
+5. **The aqueduct entrance.** It holds up. Chapter 4 already set up the lost sound of the falls (*I can't hear the falls.*).
+6. **The mother's line.** Claude still picks "Don't cry. The falls never stop, and neither will I." becoming "The falls do not stop, and neither will we." Her "I" became their "we", and the falls going silent at the end answers it.
+7. **The report and the close call.** Both hold up. Chapter 5 supports the recognition: guards followed her up the stairs "at a distance", and two came into her room in the night.
+   - **A stronger option (the author's call):** make the guard who knows Nereth the second guard from Chapter 5, the one who lowered his sword and said "Leave it". He's the one who saw Nereth stand between Seralune and the swords.
+     - This only works if the night watch was relieved before dawn, so the drugged guards are the morning's pair.
+     - Then the one man who showed them mercy last night is the one who has to take Nereth's arm this morning. His hesitation can be part of the time they gain.
