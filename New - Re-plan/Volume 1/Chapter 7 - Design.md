@@ -1,6 +1,6 @@
 # Chapter 7: Design
 
-Started 30 September 2026. **Status:** round 2 is waiting on the author. The author answered round 1 with a full design and lore review, kept verbatim in `Chapter 7 - Design Review.md`; its 18-beat sequence is the working shape. Nothing is written yet. The order stays the same: the design is agreed, then a dialogue round, then Claude says the chapter is ready and waits for the go-ahead.
+Started 30 September 2026. **Status:** round 3 is waiting on the author. The author answered round 2 in an updated review (`Chapter 7 - Design Review.md`, §18), and the answers are recorded below. The 18-beat sequence is the working shape, with the changes listed under "Round 2 answers".
 
 **The target:** 4,000–5,000 words, and longer if the story needs it. Claude will give a range, not a single number, because Chapters 5 and 6 both came in about a quarter under Claude's budgets.
 
@@ -190,3 +190,53 @@ The review's four structural decisions first, then the rest. Claude's pick is ma
 The review's eight points stand (§15). Two more from Claude:
 1. **She spends her secret.** "No one touches my sister" pays off her Chapter 5 choice to stay quiet, and it's what lets her walk past him. The thing she kept becomes the thing that frees her.
 2. **"A thousand years" lands through a person, not the number.** Elowen's name means nothing to Cyrandor. That is the moment it becomes real.
+
+## Round 2 answers (the author, 30 September)
+
+From the updated review, §18.
+
+- **A. Leorin** insists on sealing her because he sees protecting the kingdom as his duty. *Still open:* did Thaer allow the repair "in case"?
+- **B. The guards at her door** have a sleeping poison in their drinks. *Still open:* who gave it to them, where the key came from, and how Cyrandor knows about this morning.
+- **C. The lead:** the last word or order from the queen came from **Inrandeel**, centuries ago, and nothing since. *Still open:* its exact form, date and contents. There's no promise she's still there.
+- **D. Thaer at the stair:** undecided.
+- **E. Thaer was already on his way to her room.** The alarm is guards shouting that she's gone and the door guards are asleep. *Still open:* how he knows to go to the south stair.
+- **F. Cyrandor stays to stop the guards;** his fate is unknown.
+- **G. Nereth's slip** when Cyrandor doesn't follow is tentatively agreed. The exact trigger and line aren't fixed yet.
+- **H. Cyrandor is Nereth's mentor.** No childhood teaching or biography on the page.
+- **I. Nereth** weighs seeing the world against leaving him, and staying is a real option.
+- **J. No ring** ("What ring?"). It came from the old escape draft and isn't current lore, so the proof is still to choose.
+- **K. Cyrandor has never heard of Elowen.** That doesn't mean she's dead. What matters is that nobody shares that knowledge any more.
+- **L. New ending, replacing the forest:** the chapter ends at an ominous entrance to the aqueducts, in an abandoned part of the palace. The dread comes from what Seralune notices (sounds, smell, neglect), not from any new ability.
+- **M. Cyrandor doesn't know who carried out the sealing.**
+
+### Claude's notes
+
+1. **Move Cyrandor's separation before the stair** (the review's suggestion). If Thaer knowingly lets her pass, Cyrandor stopping guards afterwards would be a cost that didn't need paying. So he stays at the close call: guards have seen them, Nereth is caught, Seralune goes back for her, and Cyrandor holds a door behind them. That's F, and Nereth's slip (G) comes when she realises he isn't coming. Thaer is then the last thing between them and the aqueducts, and the chapter's two partings don't land on top of each other.
+2. **D, the threshold.** The review is right that "No one touches my sister" alone doesn't decide anything; it could even justify him taking her. So:
+   - She says what she heard and asks why her door was locked.
+   - She asks him to come with her, and he looks at what dragging her back would mean.
+   - He decides not to.
+   - His reason for not coming should be his own. *Proposed:* someone has to stand in front of Leorin and the court, or they'll all follow her. So his staying is protection too, and it explains why no pursuit follows straight away. He still believes she's dangerous, and says nothing to take that back.
+3. **Proof without the ring.** *Proposed:* the queen's last word from Inrandeel was a letter in her own hand, and part of it was written for Seralune to read when she woke. Seralune knows the hand. The same object is then the proof, the lead and the chapter's hope.
+4. **B, all three at once.** *Proposed:*
+   - Cyrandor serves the night guards their drink, as part of his normal duties.
+   - The order to have the princess dressed and brought down at the first bell came to the household through him. That's how he knows.
+   - The key is from the sleeping guard's belt.
+   - The two knocks are his: an old servant knocking on a door he already has the key to. The narration mustn't say they sound like Thaer's; she hears Thaer because she's waiting for him.
+5. **Elowen.** In Chapter 5 Nereth hadn't heard the name, and Seralune thought *this girl* was new. When the old man hasn't heard it either, she makes the connection herself: it isn't that the maid is new. Elowen has been gone so long that nobody remembers her.
+6. **The aqueduct entrance.** Nereth knows the laundry channels up to a point and says she can't promise past it. Why this route: the old south wing's lower levels were abandoned when the palace changed, so nobody watches them. The dread comes from what she notices, and the author picks what (see round 3).
+
+## Round 3 (asked 30 September)
+
+1. **Thaer's decision (D).** Proposed: he lets her pass, and stays to face Leorin and the court, so nobody follows her straight away. Or should he refuse and be stopped some other way?
+2. **Did Thaer allow the repair "in case"?** Proposed: yes. He agreed to the mending but not to using it.
+3. **Cyrandor stays at the close call, before the stair** (note 1). Yes or no?
+4. **The proof:** a letter in the queen's own hand, partly written for Seralune (note 3)? If yes, how long ago? About three hundred years, or your number.
+5. **The guards and the knocks** (note 4). Yes or no?
+6. **The dread at the aqueduct entrance.** What does she notice? Possibly:
+   - cold air moving up out of it;
+   - the smell of standing water;
+   - the falls going quiet behind the stone;
+   - old marks on the walls.
+
+   Pick one or two, or give your own.

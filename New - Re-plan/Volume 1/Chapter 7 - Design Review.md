@@ -1,10 +1,12 @@
-*The author's design and lore review of the Chapter 7 proposal, pasted on 30 September 2026 and kept here verbatim. Claude's response and round 2 are in `Chapter 7 - Design.md`.*
+*The author's design and lore review of the Chapter 7 proposal, kept here verbatim. First pasted on 30 September 2026; replaced the same day by the updated version below, which adds the author's round 2 answers (§18) and a continuity correction in §13. Claude's responses are in `Chapter 7 - Design.md`.*
 
 # Chapter 7 — Detailed Design and Lore Review
 
 Prepared 30 September 2026. Planning document for discussion, based on the current Chapter 7 proposal, Chapters 4–6, the author’s recorded decisions and the Volume 1 re-plan.
 
 **Status:** Recommendations in this document are not new canon. Nothing in the chapters, Decisions or the Claude Handoff has been changed. The numbered options in the proposal remain choices to settle, even where their proposer recommended an answer.
+
+**Round 2 update:** The author’s subsequent answers are recorded in Section 18. They supersede conflicting recommendations above, especially the forest ending: the chosen endpoint is now the entrance to the abandoned aqueducts. The latest Chapter 5 on PR #12 also supersedes the earlier local copy wherever their wording differs. The original review remains a record of the earlier proposal, with specific continuity corrections noted.
 
 ## 1. My honest assessment
 
@@ -88,7 +90,7 @@ The useful opening is recognition followed by uncertainty: the one man who smile
 
 She has not slept properly. Her palm is cut and bandaged, her legs were weak on the stairs, and she has been barefoot. She has drunk water, but Chapter 5 establishes no meaningful meal. Shoes and food help her function; they should not instantly restore her.
 
-She has also already inferred that the crystal is being repaired. Cyrandor should confirm the inference and tell her what follows. Making her discover the repair all over again would repeat the previous chapter’s work.
+In the latest Chapter 5 on PR #12, she associates the blows with the crystal but does not identify the work as repair. When they stop, she knows only that the work is done. Cyrandor must establish what was being done, whether it is complete and what follows. The earlier local copy let her infer repair and completion more confidently; that wording has been superseded.
 
 ## 4. Established lore, proposals and unresolved decisions
 
@@ -102,7 +104,7 @@ She has also already inferred that the crystal is being repaired. Cyrandor shoul
 | Seralune’s mana | Vast beyond others’ measurement; not consciously usable by her; can act independently | Whether it needs any manifestation here; my recommendation is no new escape ability |
 | Thaer | Ruler of Dark/First Blade; loves Seralune and believes he must choose for her | Current sealing position, confrontation and reason the escape succeeds |
 | Dark | Can sever matter, magic and deeper connections; cover and distance are unreliable protection | The actual limit relevant to this route, without inventing an effortless counter |
-| Crystal | Overnight repairs established; completion is the proposal’s starting premise and Seralune’s inference; no wardwrights or silver resealing chain in the current re-plan | Who maintained it, who ordered its use and how Cyrandor credibly confirms completion |
+| Crystal | Overnight repairs established in the design; completion is the proposal’s starting premise, while Seralune currently knows only that the blows stopped; no wardwrights or silver resealing chain in the current re-plan | Who maintained it, who ordered its use and how Cyrandor credibly confirms completion |
 | Mother’s route | Mydea first; later evidence can lead towards Favale | A usable first lead; Inrandeel remains a possible component, not the whole settled journey |
 | Natharul | Palace, falls and forest city; royal tree is a tree | The service route, lower exit and onward travel |
 | Cost | The proposed escape incurs a meaningful cost | Arrest/risk, injury or death; whose decision causes it |
@@ -438,11 +440,13 @@ He should want her to accept his plan, not explain himself to the reader. A poss
 >
 > “You've had all night.”
 >
-> He looked at the binding on her hand. “I told you I wouldn't let him touch you.”
+> He looked at the binding on her hand. “I won't let Leorin touch you.”
 >
 > “Then why is my door locked?”
 
 This uses a concrete contradiction established in Chapter 5. It still needs surrounding prose, longer turns and the affection specific to their relationship. Do not turn the whole confrontation into rapid, polished question-and-answer combat.
+
+**Continuity correction after the author’s Round 2 response:** Thaer did not tell Seralune “No one touches my sister.” He said it to Leorin outside her room; she overheard and kept that knowledge to herself. The original example wrongly turned that into a promise spoken to her. The example above is now a proposed present statement, not a claim about what he told her earlier. Her revealing what she overheard is a separate, promising stair beat; it does not by itself decide whether Thaer lets her pass.
 
 Across all four voices, emotion should affect what they say and what they attempt to avoid. A facial expression added to every otherwise neutral line will not solve robotic dialogue. Their different relationships to the same fact should produce different speech.
 
@@ -524,3 +528,37 @@ The latest Chapter 7 proposal is the subject of this review. Current manuscript 
 - [Claude Handoff](<C:/Users/joshu/Documents/Codex/2026-09-25/files-pasted-by-the-user-the/outputs/The Ruler of Nothing - Delivery - 2026-09-29/The Ruler of Nothing - Claude Handoff.md>): current character summaries and Dark mechanics; §§14–15 for Volume 1 discussions; §16 for philosophical synthesis; §19 for the proposed volume map.
 - [Narrative and Web-Novel Design Bible](<C:/Users/joshu/Documents/Codex/2026-09-25/files-pasted-by-the-user-the/work/The Ruler of Nothing - Narrative and Web-Novel Design Bible.md>): agreed presentation and narrative principles, interpreted through the subsequent voice work.
 - [Historical World Bible](<C:/Users/joshu/Documents/Codex/2026-09-25/files-pasted-by-the-user-the/archives/working/therulerofnothing-claude-youthful-curie-i1c390/Old - Before Re-plan/World Bible/The World.md>) and [The Last Keeper — old escape draft](<C:/Users/joshu/Documents/Codex/2026-09-25/files-pasted-by-the-user-the/archives/working/therulerofnothing-claude-youthful-curie-i1c390/Old - Before Re-plan/Volume 1 - Rewrites/Chapter 5 - The Last Keeper (Rewrite).md>): consulted for historical mechanisms and differences. Their contacts, route, barrier and injury are not automatically current canon.
+
+## 18. Author’s Round 2 answers and remaining decisions
+
+Recorded from the author’s reply after the original review. Also checked against the Chapter 7 design and current Chapter 5 at PR #12, commit `d3893f9eec988348fc51cc6bf7dc6089f01cc775`. This records the discussion locally; it does not update the PR, manuscript or canon files.
+
+| Letter | Author’s answer | Status and implication |
+|---|---|---|
+| A | Leorin insists on sealing her because he regards protecting the kingdom as his duty | Motive established. Thaer permitting repair “in case” remains a proposed detail rather than a separately confirmed answer. |
+| B | Door guards have sleeping poison in their drinks | Chosen guard condition. Who administered it, key access and Cyrandor’s source for the morning plan still need a coherent explanation. |
+| C | Last communication/order came from Inrandeel centuries ago; nothing since | Chosen origin and broad age. Exact form, date and contents remain open. No present assurance that the queen is there. |
+| D | Undecided | The quoted promise is useful emotional pressure; Thaer’s conscious response remains to be chosen. |
+| E | Thaer is already approaching her room; guards shout that she is missing and the posted guards are asleep | Chosen alarm cause and approach. His inference about the south stair still needs local geography or a report. |
+| F | Cyrandor stays to stop the guards; fate unknown | Chosen cost direction. The useful action and its position relative to Thaer’s confrontation remain open. |
+| G | Tentative agreement | Do not lock the slip’s exact trigger or dialogue yet. |
+| H | Cyrandor is Nereth’s mentor; no need to explain childhood teaching | Preserve the relationship without inserting a reading lesson or biography. |
+| I | Nereth weighs seeing the world against leaving him | Accepted conflict. Staying remains a real option. |
+| J | “What ring?” | No ring approved. It was a proposed carryover from the old escape draft, not established current lore. |
+| K | Cyrandor has never heard of Elowen | Accepted. His ignorance does not establish her death; its significance is the loss of shared knowledge. |
+| L | Ominous aqueduct entrance in an abandoned part of the palace; dread grounded in what Seralune notices | New chosen endpoint, replacing the forest. The author clarified that this is sensory dread, not a new death-detection ability. |
+| M | Cyrandor does not know who performed the ancient sealing | Accepted knowledge limit. Define what the inherited account contains; its age alone does not determine what survives. |
+
+### Recommended refinements, still unapproved
+
+**Thaer’s threshold:** Seralune reveals the argument she overheard, challenges returning to another locked room and asks him to accompany her. His words expose the contradiction in protecting her through confinement, but do not bind him to release her. “No one touches my sister” could also justify his taking control. He needs to recognise what forcing her back would mean and decide not to do it in this encounter. His refusal to accompany her should likewise be a choice or a specific obligation, not an unexplained inability.
+
+**Cyrandor’s separation:** Consider placing it before the stair confrontation, delaying a different guard approach. If Thaer has knowingly allowed Seralune past him, explain why his ability to order guards to stop does not remove Cyrandor’s risk. Otherwise the cost becomes avoidable. Moving the separation earlier is a proposed adjustment to the 18-beat sequence, not an approved change.
+
+**Elowen:** Chapter 5 already established Nereth’s ignorance of her. Cyrandor’s answer should change Seralune’s interpretation: this is not merely a new maid failing to know an old servant. Let Seralune make that connection rather than repeat the earlier exchange unchanged.
+
+**Proof without the ring:** If the queen’s surviving communication is written, Seralune might recognise its handwriting or another appropriate detail. This could authenticate the same object that supplies the lead. If it was transmitted orally, Nereth’s trust in her mentor and independently verifiable answers can justify provisional trust. Neither alternative has been selected.
+
+**Aqueduct ending:** The bounded achievement is escaping the room and getting beyond this confrontation, not reaching the forest or safety. Establish why they must use this neglected route, how far Nereth actually knows it and why she cannot promise the rest is clear. Preserve active pursuit for the next Seralune chapter. The author has chosen dread grounded in what Seralune notices: sounds, smell, visible neglect or another selected physical clue should produce the impression. This does not introduce a magical ability to detect death.
+
+Current sources: [Chapter 7 PR](https://github.com/marclourens19/therulerofnothing/pull/12); [local reference copy of the current Chapter 5](<C:/Users/joshu/Documents/Codex/2026-09-25/files-pasted-by-the-user-the/work/chapter5-pr12-current.md>).
