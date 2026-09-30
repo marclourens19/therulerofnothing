@@ -565,6 +565,7 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - **Humour:** two chances (Wena and the sack; his dry reaction to Silas's manner), coming out of the exchange. **No reflexive guilt after a laugh:** he can enjoy something briefly while grieving.
   - Silas calls him "boy" until the name exchange; the narration calls him Alaric throughout.
   - **Title:** the author will choose later.
+- **Written (30 September)** as `Volume 1/Chapter 6 - Untitled.md`, about 5,100 words. Claude's first draft, waiting on the author's review. The draft's new details are listed for a yes or no in the design file ("The first draft").
 
 - **A day on the road first** (29 September). The author: "I recommend having a day on the road first, having Alaric distrust Silas, and Silas not responding to questions." So Marta's door moves to a later Alaric chapter. What turns the day is round 2 of `Volume 1/Chapters 5-15 - Outline.md`.
 

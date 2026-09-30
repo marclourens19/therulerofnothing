@@ -1,6 +1,6 @@
 # Chapter 6: Design
 
-Started 29 September 2026. **Status:** everything is agreed: the design, the dialogue (`Chapter 6 - Dialogue.md` plus the answers on the notes), the fight and the second scouting beat. Waiting on the author's go-ahead to write. The author will choose the title later.
+Started 29 September 2026. **Status:** written on 30 September as `Chapter 6 - Untitled.md` (about 5,100 words; the first draft is saved in `Drafts/`). The author reviews it next, and will choose the title later.
 
 **The target** (29 September): 4,000–5,000 words, and longer if the story needs it. Chapter 5 taught that length comes from what happens, so this design plans enough happening from the start: six scenes, each with something that changes.
 
@@ -361,3 +361,47 @@ The fight plan is agreed ("Alaric's first action changes the danger Silas arrive
 - Before the hum, give Alaric (and the reader) a little room to believe that reaching Marta will make things manageable again. His line is small, hopeful, and includes Silas: **"We can still get to her tonight, can't we?"**
 
 **100/100, the last challenge:** clarity. The reader understands how each action changes the fight while staying inside Alaric's fear. The prose makes the consequences felt without explaining the choreography afterwards.
+
+## The first draft (30 September)
+
+The author said "okay write the chapter". It's in `Chapter 6 - Untitled.md`, with an unchanged copy in `Drafts/Chapter 6 - Untitled (Draft 1).md` for later change lists. The style check is clean. The heading is "Chapter 6" until the author chooses a title.
+
+**Length: about 5,100 words, not the 6,500 Claude estimated.** Everything agreed, written at the density the author likes, came to that. It's the same lesson as Chapter 5: per-scene budgets run about a quarter high. The proposal's own rule applies: "If the draft naturally finishes at 5,200 words, keep it there." If the author wants it longer, the places where real content could grow, rather than padding, are:
+- a further practical exchange on the morning road;
+- more of the two of them "still irritated" on the afternoon walk;
+- a longer arrival at Kelmend before the hum.
+
+**The agreed lines** are used as agreed, with the fixes from the notes:
+- D4 is vaguer.
+- D7 opens on the neighbours, without "You knew his name".
+- "Kelmend's past that rise" comes with a gesture.
+- "Leave it at that for now."
+- "On your feet, then."
+- The whisper at the fence.
+- The hum comes first, and "Silas stepped back off the open ground".
+
+**One adapted line:** "Silas watched it turn out over the river" became "Silas watched it all the way towards the river". By dusk they're a day's walk from the river, so the ship can only be seen heading that way.
+
+**New in the draft (Your call, each marked for the author's yes or no):**
+1. Silas grumbles about the bare sword: "Keep the point down. If you fall on that, I'm not carrying you."
+2. At the smoke, Gerolt's instruction comes back as the thought that turns him away: *Kelmend. Over the river. Marta, at the inn by the south gate.*
+3. Riders heard on the road ("Riders?" / "On the road… That's why we're not on it."), which shows Silas answering practical questions.
+4. The deer: ribs broken outwards, and a footprint "longer than Silas's boot and nearly twice as wide".
+5. The farm couple bicker before the smoke line ("Up a bit." / "It is up." / "Up a bit more, then."), so the ordinary scene has a life of its own (the proposal's 100/100 point 3).
+6. Step 6's "why are you helping" as Alaric's case: "Last night you said I wasn't bringing any more elves to your door. This morning you rolled up your bed to walk me to Kelmend." Silas says nothing.
+7. Step 9's "he considers waiting": "He could sit down here and wait for him. It would be easy. He'd been doing what he was told all day."
+8. The ogre is lying at the bottom of a hollow past the rise. Alaric takes it for a pale fallen tree, until it sits up.
+9. After the kill, Silas pulls his blade free with the corner of his cloak, as in Chapter 3.
+10. Silas checks the ankle: "It's not broken. You'll walk on it."
+11. "How did you find me?" / "Your dog. Half the forest heard her."
+12. On the walk, a bird startles Wena, and Alaric has the sword up before he knows it.
+13. The crossing needs checking because the obvious ford has a cart track and fresh hoofprints.
+14. **Kelmend's look:**
+    - a wall with roofs inside;
+    - lower roofs pressed against the outside of the wall (the Faint quarter, shown and not explained);
+    - a road with a cart and people going in;
+    - torches being lit along the top of the wall.
+
+    They see the town from the south-east, so the south gate is the nearest end ("South gate," Silas said).
+15. Silas's answer to the relief line: "Once it's dark. If the wall's quiet, we go round to the south side, and I have a look at the inn." He's saying what he's checking, as he agreed to.
+16. **The ship's route:** it comes out of the sunset beyond the town and carries on east over the trees towards the river. This assumes Natharul lies west of Kelmend, which is still open (question P).
