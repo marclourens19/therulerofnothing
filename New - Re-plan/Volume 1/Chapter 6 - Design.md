@@ -1,6 +1,6 @@
 # Chapter 6: Design
 
-Started 29 September 2026. **Status:** the design is agreed (the 22-step sequence plus the round 3 answers, below), and so is the dialogue: the author's pass is kept verbatim in `Chapter 6 - Dialogue.md`. Claude's last notes on it (below) are waiting on the author, then the go-ahead. The author will choose the title later. The author's detailed proposal is kept verbatim in `Chapter 6 - Design Proposal.md`. Nothing is written yet. The order stays the same as for every chapter: the design is agreed, then a dialogue round, then Claude says the chapter is ready and waits for the go-ahead.
+Started 29 September 2026. **Status:** the design and dialogue are agreed (the dialogue pass is in `Chapter 6 - Dialogue.md`, with the author's answers on the notes below). The fight plan and the "mean it" beat wait on the author, then the go-ahead. The author will choose the title later.
 
 **The target** (29 September): 4,000–5,000 words, and longer if the story needs it. Chapter 5 taught that length comes from what happens, so this design plans enough happening from the start: six scenes, each with something that changes.
 
@@ -308,3 +308,35 @@ To fix:
 - step 19's moment of relief at Kelmend.
 
 The one thing to watch is that Gerolt doesn't drop out of Alaric's head between the smoke (D3) and the neighbours (D6). The deer and the road give him room for one plain thought of him.
+
+### The author's answers on the notes (30 September)
+
+- **The grip** works "if Silas is struggling to hold the ogre against the trunk for those few seconds". That's the clear cause of the burned hand, and it makes the bandaging matter.
+- **"Size first"** meant the order of the ship's reveal. Smaller craft stay optional.
+- **100/100, the author's answer:** the strongest opportunity is the change between D8 and D12. Silas starts by deciding everything himself and agrees to explain the plan; Alaric starts by slipping away and agrees to stay. **Their behaviour through the rest of the chapter has to show they mean it.**
+- **Fix 1 (D4), taken:** use the vaguer "Not by the gate. I'll find us a way in when we're closer." But D12's real change is the agreement (Silas explains himself, Alaric stays, and Alaric shows the sword himself). The south wall supports that exchange; it doesn't carry its weight.
+- **Fix 2 (D9), taken:** "Kelmend's past that rise", with a real gesture. Gerolt told him the inn is by the south gate, so Alaric can head for it, but he doesn't know how to reach it safely. His plan sounds convincing to him, and the reader can see what he's overlooking.
+- **Fix 3 (D7), taken,** with a correction. In Chapter 3 Silas shouts "Move, boy, now, or Gerolt died for nothing!" before Alaric names him, and Alaric notices ("He knew Gerolt's name."). Alaric had also shouted the name during the attack, so knowing it proves little. His reaction to the neighbours is the better evidence. *(Claude's "Alaric said 'Gerolt' first" was wrong.)*
+- **Fix 4 (D12):** "Leave it at that for now." The admission, "I knew him for years", carries the vulnerability, and then he closes the subject firmly.
+- **Fix 5 (D14):** the hum first, and "Silas stepped back off the open ground" (the prose before it must show they've come out into the open). **The spines stay where the ship's design puts them;** smoother wording mustn't change the ship.
+- **Fix 6:** "Do you know them?" is whispered. "Get your things" wasn't an error; use **"On your feet, then."**
+- **Gerolt between D3 and D6:** one plain association is enough, such as Wena staying close, the sword getting uncomfortable in his hand, or the smoke still in sight. The deer doesn't symbolise Gerolt unless Alaric makes a specific, believable connection.
+- **The fight, the author's challenge:** this is Silas's second rescue, so **Alaric's two actions have to change what Silas can do,** not just show that he tried.
+- **Afterwards:** Alaric stops hanging back, and Silas adjusts his pace without a speech. When Kelmend appears, **give Alaric a moment to believe they've made it,** so the ship has something to interrupt.
+
+### The fight, planned so Alaric's actions change it (Claude, for approval)
+
+The ogre has Alaric by the ankle in one hand and its club in the other.
+
+1. **Alaric's first action makes it drop the club.** Hanging at its face, he cuts at what he can reach and opens its cheek under the eye. It throws its free hand up to its face and the club goes into the undergrowth. So when Silas arrives it has nothing in its hand but the boy. Without the cut, Silas walks into a club.
+2. **Silas's first move** is at the arm holding Alaric. It lets go, and Alaric drops, winded.
+3. **The ogre turns on Silas,** and with no club it grabs. Silas gives ground on bad footing and can't get in past its reach; one grab catches his cloak or his shoulder.
+4. **Alaric's second action makes the opening.** It reaches down for Wena, who is barking at its heels. Alaric gets between them and cuts into the reaching hand. It turns on him, and turning shows Silas its side.
+5. **The kill.** Silas drives in under its ribs, and its own weight carries it back against a trunk. It's pinned only for a few seconds, and he's struggling to hold it there. Its other arm is still reaching for Alaric and Wena, who are right below it because Alaric just stepped in. If Silas lets go to wrap his hand, it comes off the tree onto them. So he holds on and heats the steel. Alaric sees the red climb the blade and Silas's face as he holds it, until the thing stops.
+6. **So each of them makes the other's part possible.** The cut on the hand is why Alaric is within its reach, and that is why Silas can't let go. The burned hand is partly the price of Alaric's courage, and neither of them says so.
+
+### How they show they mean it (Claude, for approval)
+
+- **Once more, after the fight, Silas has to go ahead,** perhaps to check a stream crossing or the edge of the trees before open ground. This time he says what he's checking and how long he'll be. Alaric waits, it's hard, and Silas comes back when he said. It's the deal kept by both of them, a short version of steps 8 and 9 with the opposite result. *Your call, new.*
+- **The walk:** Alaric keeps within speaking distance, and Silas slows to his ankle without a word. Alaric notices.
+- **Kelmend's moment:** Alaric lets himself picture it: the inn, Marta, and putting the sword in her hands. He says something that believes they've made it. Then the hum.
