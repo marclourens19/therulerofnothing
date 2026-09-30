@@ -587,7 +587,7 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - **Thaer** was already on his way to her room. The alarm is guards shouting that she's gone and the door guards are asleep.
   - **Cyrandor** stays to stop the guards; his fate is unknown. He's Nereth's mentor, with no childhood story on the page. He has never heard of Elowen, and doesn't know who carried out the ancient sealing.
   - **Nereth** weighs seeing the world against leaving him.
-  - **No ring.**
+  - **No ring.** **The proof is a line her mother told her as a child,** passed down by word through the Order for centuries. It reaches her similar, not the same (the author: "centuries of different people can lose its meaning"). The line itself is still to choose.
   - **The chapter ends at an ominous aqueduct entrance** in an abandoned part of the palace, not the forest. The dread comes from what Seralune notices.
   - *Open:* Thaer's decision at the stair, and round 3 in the design file.
 

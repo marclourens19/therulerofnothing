@@ -240,3 +240,18 @@ From the updated review, §18.
    - old marks on the walls.
 
    Pick one or two, or give your own.
+
+### Round 3, question 4: the author's answer (30 September)
+
+**Not a letter.** "Seralune trusts Cyrandor because he says a line her mother told her when she was younger, and it has been passed down. It isn't the same line but similar, since centuries of different people can lose its meaning."
+
+*Claude's notes:*
+- **This is better than the letter,** and it fits canon: the queen's duty "was passed down by word through the Order".
+- **The worn line is proof twice.** It could only have come from her mother, and it has been worn by so many mouths that it's wrong in places. So it proves the thousand years as well as the connection.
+- **Seralune should reason it out** (Alisaie). She recognises it, catches what's changed, and works out what that means: *Only Mother said that. And he has it wrong, the way you get a thing wrong when it's passed through a hundred people.* It could be the moment the number stops being a number, alongside Elowen, or instead of her. That's the author's call.
+- **The Inrandeel lead can be word of mouth too:** the last report the Order received, passed down with the line.
+
+**Still to choose: the line itself.** The author's call. Some pairs, each showing the original and the worn version:
+1. "As long as the falls run, I'll find you." becomes "While the falls run, she will be found." *Claude's pick.* A mother's promise has worn into the Order's motto, so the lost meaning is the whole point: "I'll find you" became "she will be found". It ties her to the falls she saw in Chapter 5, and to the mother who believed she'd wake.
+2. "Whatever they call you, you're mine first." becomes "Whatever she is called, she is her mother's first."
+3. "Stand straight, speak true, and never let them see you're frightened." becomes "Stand tall, speak truly, and show no fear."
