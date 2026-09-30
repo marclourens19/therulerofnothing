@@ -1,6 +1,6 @@
 # Chapter 7: Design
 
-Started 30 September 2026. **Status:** round 1 is waiting on the author. Nothing is written yet. The order stays the same: the design is agreed, then a dialogue round, then Claude says the chapter is ready and waits for the go-ahead.
+Started 30 September 2026. **Status:** round 2 is waiting on the author. The author answered round 1 with a full design and lore review, kept verbatim in `Chapter 7 - Design Review.md`; its 18-beat sequence is the working shape. Nothing is written yet. The order stays the same: the design is agreed, then a dialogue round, then Claude says the chapter is ready and waits for the go-ahead.
 
 **The target:** 4,000–5,000 words, and longer if the story needs it. Claude will give a range, not a single number, because Chapters 5 and 6 both came in about a quarter under Claude's budgets.
 
@@ -139,3 +139,54 @@ Five scenes, about 4,500–5,500 words. The numbers point to the questions below
 - **Escapes turn into chase montages.** Two or three real obstacles, each solved by a person (Nereth's knowledge, Seralune's stubbornness, Cyrandor's cost), are better than many corridors.
 - **The cost can read as punishment.** Whatever Cyrandor loses, he chooses it.
 - **Copying the old version.** The arm, the barrier and Thaer at the passage end are strong, but they belong to a Thaer who was written differently. Keep only what the new Thaer would do.
+
+## The author's review (30 September)
+
+The author answered round 1 with a detailed design and lore review, kept word for word in `Chapter 7 - Design Review.md`. It keeps the five-part shape and expands it to 18 beats, about 5,000 words (review §9). It also names **three causal problems to solve before drafting**:
+1. Who has ordered the resealing this morning, and what has Thaer actually authorised?
+2. What makes the mother's trail usable? "Mydea, long ago" isn't a lead.
+3. Why does Thaer fail to bring her back, when Dark can cut matter, magic and connections, and "distance and cover do not necessarily protect a selected target"?
+
+### Where Claude agrees
+
+- **All three problems are real,** and more dialogue or a bigger sacrifice wouldn't solve them.
+- **Claude's scene 1 was wrong.** Chapter 5 already has the old servant who bows and smiles in the corridor ("*I've never seen him before in my life, and he's the first person who's smiled at me.*"). So the door opens on recognition, not a stranger. The same mistake as Chapter 6: the chapter wasn't searched before claiming.
+- **Not every answer should break a hope.** Her mother's refusal gives her something to hold. Going back for Nereth is compassion, and it's right.
+- **Keep the three questions about the sealing separate:** who agreed a thousand years ago, who allowed the repair, and who means to use it now.
+- **Hand her the ring and let her recognise it.** Cyrandor doesn't recite the childhood story.
+- **Thaer, version A:** he can stop her, and chooses not to finish it. It needs a real threshold, because he already took her by the arm in Chapter 5.
+
+### Where Claude challenges it
+
+- **The sample Thaer line has a continuity problem.** "I told you I wouldn't let him touch you." Thaer never told her. He said "No one touches my sister" to Leorin through the door, and she overheard. She then decided to keep it to herself: *Very well. I won't say a word about what I heard.*
+- **That gives version A its threshold.** At the stair, Seralune spends the secret: "I heard you last night. 'No one touches my sister.'" To take her back now, he has to be the one who puts his hands on her and walks her to the crystal. He wouldn't let Leorin do it, and he can't make himself do it either. It's his own words, not a new motive, and it pays off her Chapter 5 decision. *Proposed.*
+- **The guards.** The review's option b (a legitimate duty) solves more than one problem at once (see round 2, B).
+
+## Round 2 (asked 30 September)
+
+The review's four structural decisions first, then the rest. Claude's pick is marked; the author chooses.
+
+- **A. Who is resealing her this morning?** *Recommended:* Leorin, before Thaer comes back. Thaer said "I'll be back in the morning". He allowed the repair "in case" but never agreed to use it, and Leorin moves at first light because Thaer isn't there. It keeps Chapter 5's disagreement, and it gives the chapter a race.
+- **B. What Cyrandor knows, how he gets in, and why not last night.** *Recommended:* one order does all three. At first light, as the repair finished, the household was told to dress the princess and bring her down to the lower chamber at the first bell, and the task came to Cyrandor.
+  - So he knows because he was told.
+  - The guards unlock for him because he's expected. The two knocks are his, and the lock turning is the guard.
+  - He couldn't come last night because the order didn't exist yet.
+  - **How they leave:** 1. the guards wait outside to escort her, so they go out through a servants' door in the panelling that Nereth knows *(recommended)*; or 2. he drugged the guards' drink.
+  - **The alarm:** they don't arrive at the lower chamber by the bell.
+- **C. The lead.** *Recommended:* the queen's last message came back to the Order from **Inrandeel**, the forest of the independent elves that Seralune remembers. It came a few centuries ago, and then there was nothing. It's a real place she can go, and her memory of the elves there is her own reason to trust it (it may be wrong). *The author picks how long ago, and whether it's a message, a record or a person.*
+- **D. Why Thaer lets her go.** *Recommended:* version A with the threshold above: "No one touches my sister." He asks her to come back upstairs. She asks him to come with her instead. Neither can. He doesn't follow, and doesn't order it in front of her.
+- **E. Where Thaer is, and how he finds them.** *Recommended:* he was on his way to her room, as he promised. When the alarm goes, he goes where he knows the old ways lead: the one stair down from the old south wing, which is still the palace he grew up in. He knows the palace, and he knows her.
+- **F. The cost.** *Recommended:* Cyrandor stays behind to stop the guards coming down after them, not to stop Thaer. His fate stays unknown. It follows from Thaer's choice, and it's Cyrandor's own.
+- **G. Nereth's slip.** *Recommended:* it comes when she realises Cyrandor isn't following. It's one break, then back to getting them out. The line comes in the dialogue round.
+- **H. Cyrandor and Nereth.** Canon says mentor, "almost a father", and that he taught her how to work in the castle. *Recommended:* he has been her mentor since she came into service as a child. Did he teach her to read, as in the old version? *Your call.*
+- **I. Nereth's reason.** *Recommended:* the world past the falls, which she has wanted to see since she was a girl (canon), weighed against leaving him. She may say it plainly or not at all. Seralune accepts that staying is a real option.
+- **J. The ring.** *Recommended:* one mark only, a nick in the stone's edge from the fountain when she was seven. She recognises it herself.
+- **K. Elowen.** *Recommended:* yes, one question. Cyrandor has never heard the name. It's the moment "a thousand years" stops being a number.
+- **L. The ending.** *Recommended:* in the forest below the falls, with the bells above them, and a next step that's practical, not symbolic (the city's edge, before the roads are closed). Mydea is where they're going, not where they are.
+- **M. What Seralune learns about the family.** *Recommended:* her father agreed, and she defends him before she accepts it (the review's line). About Thaer, Cyrandor says what he knows, that he doesn't know who carried it out. If she asks and he doesn't know, that's honest, not a dodge.
+
+## What could make it 100/100, after the review
+
+The review's eight points stand (§15). Two more from Claude:
+1. **She spends her secret.** "No one touches my sister" pays off her Chapter 5 choice to stay quiet, and it's what lets her walk past him. The thing she kept becomes the thing that frees her.
+2. **"A thousand years" lands through a person, not the number.** Elowen's name means nothing to Cyrandor. That is the moment it becomes real.

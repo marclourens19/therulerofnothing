@@ -579,6 +579,7 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 ## Chapter 7
 
 - **Design started (30 September)** in `Volume 1/Chapter 7 - Design.md`: a proposed five-scene shape (the door; what Cyrandor tells her; the choice; out through the palace; the stair) and round 1 of 13 questions, with the "100/100" answer.
+- **The author's design and lore review (30 September),** kept verbatim in `Volume 1/Chapter 7 - Design Review.md`. It gives an 18-beat sequence (about 5,000 words) as the working shape, and three causal problems to solve before drafting: who is resealing her this morning; a usable lead for her mother; and why Thaer, whose Dark can cut anything, fails to bring her back. Round 2 is in the design file.
 
 ## Alaric
 
