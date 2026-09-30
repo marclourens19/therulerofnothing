@@ -37,6 +37,7 @@ The story is being re-planned from the beginning. Current work lives in **New - 
   - `Chapter 6 - The Words of the Dead.md`: Chapter 6, finished (30 September). Its changes are in `Chapter 6 - Changes.md`.
   - `Chapter 7 - Design.md`: the design of Chapter 7, Seralune's escape (started 30 September).
   - `Chapter 7 - Design Review.md`: the author's design and lore review of Chapter 7 (30 September), kept word for word.
+  - `Chapter 7 - Working Design.md`: the author's consolidated design for Chapter 7 (30 September), now the working design.
   - `Drafts/`: earlier versions of the chapters, kept unchanged.
 
 ## The rewriting skill

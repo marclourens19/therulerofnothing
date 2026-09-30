@@ -590,6 +590,7 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - **No ring.** **The proof is a line her mother told her as a child,** passed down by word through the Order for centuries. It reaches her similar, not the same (the author: "centuries of different people can lose its meaning"). The line itself is still to choose.
   - **The chapter ends at an ominous aqueduct entrance** in an abandoned part of the palace, not the forest. The dread comes from what Seralune notices.
   - *Open:* Thaer's decision at the stair, and round 3 in the design file.
+- **The author's working design (30 September)** consolidates Chapter 7 into 18 beats and is now the design: `Volume 1/Chapter 7 - Working Design.md`. Still open: five round 3 choices, the mother's line, what the last report says, and the close call.
 
 ## Alaric
 

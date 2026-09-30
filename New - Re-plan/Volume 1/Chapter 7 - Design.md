@@ -1,6 +1,6 @@
 # Chapter 7: Design
 
-Started 30 September 2026. **Status:** round 3 is waiting on the author. The author answered round 2 in an updated review (`Chapter 7 - Design Review.md`, §18), and the answers are recorded below. The 18-beat sequence is the working shape, with the changes listed under "Round 2 answers".
+Started 30 September 2026. **Status:** the author consolidated everything into `Chapter 7 - Working Design.md` (30 September), which is now the design. Still open: five round 3 choices, the mother's line, what the last report says, and the close call. Then comes the dialogue round.
 
 **The target:** 4,000–5,000 words, and longer if the story needs it. Claude will give a range, not a single number, because Chapters 5 and 6 both came in about a quarter under Claude's budgets.
 
@@ -255,3 +255,30 @@ From the updated review, §18.
 1. "As long as the falls run, I'll find you." becomes "While the falls run, she will be found." *Claude's pick.* A mother's promise has worn into the Order's motto, so the lost meaning is the whole point: "I'll find you" became "she will be found". It ties her to the falls she saw in Chapter 5, and to the mother who believed she'd wake.
 2. "Whatever they call you, you're mine first." becomes "Whatever she is called, she is her mother's first."
 3. "Stand straight, speak true, and never let them see you're frightened." becomes "Stand tall, speak truly, and show no fear."
+
+## The author's working design (30 September)
+
+The author consolidated the design into `Chapter 7 - Working Design.md`, kept word for word. It has the 18 beats in reading order, what's established, the recommendations still waiting, and the limits on lore and mystery. It's now the design; the sections above are the record of how it got there.
+
+### Claude's check against the chapters
+
+- **Beat 1:** Chapter 5 has him bow and smile in the corridor, so the recognition works.
+- **Beat 4:** Chapter 5 has Nereth failing to recognise Elowen's name, so the old man not knowing her either follows on from that.
+- **Beat 18's echo is already in Chapter 4:** "*I can't hear the falls.* She had never been anywhere in the palace where she couldn't hear the falls." Losing the falls at the aqueduct entrance is the same silence she woke to, so the dread comes from something she has already lived through. **This is the strongest detail in the design.**
+- **Beat 6:** the working design lists the blows as the crystal being repaired. Chapter 5 never names them, so Cyrandor saying it is the first time it's confirmed. That's correct.
+- **Nothing contradicts the chapters.**
+
+### Claude's recommendations for the two design gaps
+
+**What the last report says (beat 7).** It needs to be enough to act on.
+- *Proposed:* the queen went to the elves of Inrandeel, who lived outside Natharul's rule, to find a way to wake her daughter safely. Canon says she believed Seralune's mana could be controlled.
+- That gives the lead a purpose Seralune can follow: whatever her mother went looking for might still be there, even if her mother isn't.
+- *Your call:* the purpose, and how the report came back (a messenger's word, passed down with the line).
+
+**The close call (beat 12).** One sequence that also explains how Thaer knows the route (beat 11). *Proposed:*
+1. In a servants' passage, a guard who stood at her door last night knows Nereth's face: "You're the princess's maid."
+2. Nereth tries the lie (sent for linen), while Seralune, in grey, keeps walking with the other servants.
+3. The guard takes Nereth's arm, and Seralune turns back: "Let her go." That gives her away.
+4. Cyrandor gets between them and the guards, sends the women on ("The south stair. Go."), and shuts or bars a door with himself on the guards' side.
+5. Nereth realises he isn't coming, and slips.
+6. The guards now know which way she went, and that report is what sends Thaer to the south stair. Her compassion costs them the head start, and it was still right.
