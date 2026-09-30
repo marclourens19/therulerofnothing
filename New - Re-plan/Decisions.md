@@ -615,6 +615,7 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 - **Title: "The Last Keeper"** (the author, 30 September), as the old escape chapter was called.
 - **The author's review (30 September):** fewer "and" chains in quiet passages; Thaer only "a little out of breath"; the "dawdle" line cut. Done.
 - **The author's revision (30 September)** is now the chapter. Claude changed only the house style (quotes, "any more"). The previous version and its changes are kept in `Drafts/` and `Chapter 7 - Changes (combined draft).md`.
+- **Claude's six notes on the revision (30 September)** were applied at the author's request, as `Volume 1/Chapter 7 - Changes.md`.
 
 ## Alaric
 

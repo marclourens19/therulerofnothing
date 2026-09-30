@@ -14,7 +14,7 @@ He bowed, and when he straightened, he was smiling again, only a little, the way
 
 "Where's Thaer? He said he'd come back this morning."
 
-"He hasn't come yet. I was hoping to speak to you before he did."
+"He hasn't come yet, Your Highness. I was hoping to speak to you before he did."
 
 Behind her, a chair scraped. Seralune looked round, expecting Nereth to be as startled as she was. Nereth was on her feet by the hearth with her eyes on the old man, and there was no surprise in them at all.
 
@@ -58,7 +58,7 @@ He didn't look away. "Near enough a thousand years."
 
 She laughed. It came out wrong, and she bit it off. "No, that can't be right. I saw my mother yesterday. I fought with her yesterday morning." She searched his face. "How can you tell me that was a thousand years ago?"
 
-He didn't answer. Leorin with his white hair, asking her to forgive him. The royal tree, grown so tall she had to tip her head back to see the top of it. Doors all down a corridor where there had been bare wall. On the gallery last night she had got as far as *So it's been…* and stopped herself.
+Nobody answered. Leorin with his white hair, asking her to forgive him. The royal tree, grown so tall she had to tip her head back to see the top of it. Doors all down a corridor where there had been bare wall. On the gallery last night she had got as far as *So it's been…* and stopped herself.
 
 "Elowen," she said. "My maid. She's been in this house since before I was born. You must know her."
 
@@ -94,7 +94,7 @@ Cyrandor said nothing.
 
 "She couldn't stop him. That's why she left."
 
-"I can only tell you what was passed down. I don't know what happened between them."
+"Your Highness, I can only tell you what was passed down. I don't know what happened between them."
 
 "Who put me in there?"
 
@@ -118,7 +118,7 @@ The fire had gone out in the night. Seralune looked at the grey ash in the heart
 
 "You said she went looking for a way. Do you know where she went? Even one place—somewhere I could start."
 
-"Inrandeel. But the last word we had of her is centuries old. She'd gone to the elves there, to find a way for you to wake and live outside that thing." He hesitated. "We heard nothing after that."
+"Inrandeel, Your Highness. But the last word we had of her is centuries old. She'd gone to the elves there, to find a way for you to wake and live outside that thing." He hesitated. "We heard nothing after that."
 
 "Is she alive?"
 
@@ -130,7 +130,7 @@ It was a long time ago. It was a forest in Mydea, and a woman who might not be i
 
 "Why are you helping me? Leorin sent you to bring me down. If you let me go, what will they do to you?"
 
-"I'm hoping we won't have to find out." He tried to smile. "But your mother asked us to be here when you woke. I couldn't bring you her message and then take you straight back downstairs." His eyes went to Nereth, and stayed there a moment longer than they needed to.
+"I'm hoping we won't have to find out, Your Highness." He tried to smile. "But your mother asked us to be here when you woke. I couldn't bring you her message and then take you straight back downstairs." His eyes went to Nereth, and stayed there a moment longer than they needed to.
 
 She stood up.
 
@@ -190,7 +190,7 @@ Aprons hung from hooks on the whitewashed wall.
 
 "There was a stair here. I know there was."
 
-Nereth touched her elbow and turned her towards the next flight. "We use another one now. It's round this way."
+Nereth touched her elbow and turned her towards the passage. "We use another one now. It's round this way."
 
 They had gone down two more flights when the shouting started.
 
@@ -246,7 +246,9 @@ Boots arrived on the other side. Through the shouting, Seralune heard, "He's put
 
 Cyrandor said something beneath them, too quietly for her to hear.
 
-"Cyrandor! Answer me!" Nereth pulled again. The door stayed shut.
+"Cyrandor! Answer me!"
+
+Nereth pulled again. The door stayed shut.
 
 "Can we get round?" Seralune asked. "Is there another way to him?"
 
@@ -298,11 +300,11 @@ Someone answered from above. Thaer came back to her, and she couldn't tell wheth
 
 His eyes went over her, the servant's grey, the shawl, the shoes, her hand. He looked as if he hadn't slept either. "You're exhausted. You can hardly stand."
 
-"I'm standing." She held on to the rail. "They mended it. With your leave."
+"I'm standing." She held on to the rail. "They mended it, Thaer. With your leave."
 
-He didn't pretend. That was something. "I let them mend it. I never agreed to put you back in there."
+He didn't pretend. That was something. "I let them mend it, Seralune. I never agreed to put you back in there."
 
-"I sat upstairs listening to them all night. Every time they hit it, I wondered whether they were coming for me. You knew, and you left me there."
+"I sat upstairs listening to them all night. Every time they hit it, I wondered whether they were coming for me. You knew, Thaer, and you left me there."
 
 "I wanted it ready in case something happened."
 
@@ -310,11 +312,11 @@ He didn't pretend. That was something. "I let them mend it. I never agreed to pu
 
 He looked up at her. "I told Leorin—"
 
-"I heard you. Outside my door last night. 'No one touches my sister.'"
+"I heard you, Thaer. Outside my door last night. 'No one touches my sister.'"
 
 He went very still.
 
-"Then stay with me. I meant it. I won't let him near you."
+"Then stay with me, Seralune. I meant it. I won't let him near you."
 
 He was close enough that she could have caught his sleeve.
 
@@ -322,7 +324,7 @@ He was close enough that she could have caught his sleeve.
 
 "You wouldn't be locked away. You'd be with me."
 
-"You locked the door last night. And you can't stay outside it until Father comes home, can you?"
+"You locked the door last night, Thaer. And you can't stay outside it for weeks, can you?"
 
 "Seralune—"
 
@@ -330,11 +332,11 @@ He was close enough that she could have caught his sleeve.
 
 For a long moment he didn't say anything. Below him, the stair went on down into the cold. Somewhere above them, far off, the shouting went on.
 
-When he spoke, it was quietly. "You don't know what's out there. You don't know what you—"
+When he spoke, it was quietly. "You don't know what's out there, Seralune. You don't know what you—"
 
 He stopped.
 
-"Then tell me! I've been asking you since you found me."
+"Then tell me! Thaer, I've been asking you since you found me."
 
 He didn't answer.
 
@@ -344,19 +346,15 @@ His eyes came back to hers. "Who told you that?"
 
 "Cyrandor."
 
-"That was a long time ago."
+"That was a long time ago, Seralune."
 
 He looked down at the rail.
 
-"I know how long I've been in there. A thousand years, Thaer. He told me."
-
-She waited for him to tell her the old man was wrong. When he didn't, she drew a breath that hurt all the way in.
-
-"I know Mother might not be there any more. But the elves might remember her. They might know what she found. I have to ask."
+"I know how long I've been in there. A thousand years, Thaer. He told me." She waited for him to look at her. "I know Mother might not be there any more. But the elves might remember her. They might know what she found. I have to ask."
 
 "Come with me, Thaer. Please."
 
-"I have to stay and deal with Leorin. While I'm here, he can't send anyone after you."
+"I have to stay here and deal with Leorin. If I leave with you, he can send whoever he likes after you."
 
 "Then come when you can. You know where I'm going."
 
@@ -390,9 +388,9 @@ She turned back to her brother.
 
 "You told me it wasn't up to you," Seralune said.
 
-"I was waiting for Father. I thought he might listen to me."
+"I was waiting for Father, Seralune. I thought he might listen to me."
 
-"Then why couldn't you tell me that?" Her hand tightened around the rail. "I waited for you all night."
+"Then why couldn't you tell me that?" Her hand tightened around the rail. "I waited for you all night, Thaer. I thought you could help me understand what was happening. I… I thought *you*, of all people, would help me."
 
 He looked away.
 

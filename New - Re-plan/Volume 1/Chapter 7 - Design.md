@@ -1,6 +1,6 @@
 # Chapter 7: Design
 
-Started 30 September 2026. **Status:** the chapter is the author's own revision (30 September), saved word for word in `Drafts/`. Only the house style was changed: straight quotes, and "anymore" became "any more". Claude's review of it is waiting on the author's answers.
+Started 30 September 2026. **Status:** the chapter is the author's own revision (30 September) with Claude's six notes applied at the author's request (20 changes in `Chapter 7 - Changes.md`; 4,203 words).
 
 **The target:** 4,000–5,000 words, and longer if the story needs it. Claude will give a range, not a single number, because Chapters 5 and 6 both came in about a quarter under Claude's budgets.
 
@@ -579,3 +579,12 @@ Three things kept it from a higher score. All three are fixed in `Chapter 7 - Ch
 The author sent a revised chapter ("updted chapte 7"). It's now the chapter. The text as sent is in `Drafts/Chapter 7 - The Last Keeper (Draft 5, the author's revision).md`. The version before it, after the three passes and the review, is in `Drafts/Chapter 7 - The Last Keeper (Draft 4, after the passes and review).md`, and its changes are in `Chapter 7 - Changes (combined draft).md`.
 
 Claude changed only the house style: straight quotes, and "anymore" became "any more". Nothing else was changed. Claude's notes on the revision went to the author for a yes or no.
+
+The author: "make 1-6 as a change list". All six are applied, 20 changes in `Chapter 7 - Changes.md`:
+
+1. Fewer names and titles in the dialogue.
+2. The ending shows the hurt instead of explaining it ("I waited for you all night.").
+3. Thaer's reason for staying: "While I'm here, he can't send anyone after you."
+4. His silence confirms the thousand years.
+5. "Until Father comes home".
+6. Three small fixes: "He didn't answer", Nereth's shout at the door, and "the next flight".
