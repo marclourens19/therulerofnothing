@@ -591,6 +591,14 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - **The chapter ends at an ominous aqueduct entrance** in an abandoned part of the palace, not the forest. The dread comes from what Seralune notices.
   - *Open:* Thaer's decision at the stair, and round 3 in the design file.
 - **The author's working design (30 September)** consolidates Chapter 7 into 18 beats and is now the design: `Volume 1/Chapter 7 - Working Design.md`. Still open: five round 3 choices, the mother's line, what the last report says, and the close call.
+- **Dialogue round answers (30 September):**
+  - **Cyrandor's key goes down a drain** before the guards can take it, so they have to go the long way round.
+  - **Thaer's order is kept:** "The princess is with me. Go back and hold the upper halls."
+  - **Letting her go is Thaer's choice** within limits he sets himself: he won't force her back, won't go with her, and won't overturn the arrangement that governs her life.
+  - **The Chapter 5 payoff:** "You told me it wasn't up to you."
+  - **The mother's line:** "Don't cry. The falls never stop, and I'll never stop looking for you." It is passed down as "The falls do not stop, and neither will we."
+  - **Line changes to E3, E6/E9, E7, E12 and E13** are in the design file.
+  - **Seralune's cut is on her right palm** (Chapter 4).
 
 ## Alaric
 

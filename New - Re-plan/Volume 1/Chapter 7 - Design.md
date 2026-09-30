@@ -1,6 +1,6 @@
 # Chapter 7: Design
 
-Started 30 September 2026. **Status:** the dialogue round is waiting on the author. The design is `Chapter 7 - Working Design.md`, and the round 3 recommendations are the working answers. Then comes the go-ahead.
+Started 30 September 2026. **Status:** the dialogue round is answered apart from five small items ("Still open (dialogue)", at the end). Then Claude says the chapter is ready and waits for the go-ahead.
 
 **The target:** 4,000–5,000 words, and longer if the story needs it. Claude will give a range, not a single number, because Chapters 5 and 6 both came in about a quarter under Claude's budgets.
 
@@ -431,3 +431,44 @@ For each key exchange there are Claude's versions in the characters' voices, and
   - her mother taking her to the edge of Inrandeel;
   - "Mind her hand. And mind yourself.";
   - "That's a wall".
+
+### The author's answers on the dialogue round (30 September)
+
+The author held off on "yes to all". **Settled:**
+- **Cyrandor's key goes down a drain.** He locks the door and drops the key through a drain in the service passage before they can take it from him, so the guards have a practical reason to go the long way round. Someone stays with him, and his fate stays unknown. Claude's "keeps the key" didn't work, because they'd simply take it off him.
+- **Thaer's order to the guards is kept:** "The princess is with me. Go back and hold the upper halls." Leorin can't compel Thaer, but he can command everyone else in the king's name, and both are true. "Within the hour" is only a planning estimate. Thaer stops this pursuit, then stays to face the man who can start another.
+- **Letting her go is Thaer's choice, not his only option.** He could keep her beside him, threaten anyone who came near her, or openly defy the palace. He won't do any of those. Letting her pass is the protection he chooses to give today, within limits he sets himself: he won't force her back, won't go with her, and won't overturn the arrangement that governs her life. "Then lock me somewhere else, and it's the same room." stays, as her understanding of being confined, but it doesn't settle the practical argument by itself.
+- **The Chapter 5 payoff:** she watches him send the guards away and says, "You told me it wasn't up to you." His answer, or his failure to give one, shows how much of his earlier helplessness was obedience, fear or avoidance.
+- **The mother's line:** "Don't cry. The falls never stop, and I'll never stop looking for you." ("looking", not "finding"). The inherited version stays "The falls do not stop, and neither will we." The memory is kept brief: she was lost and frightened, and her mother found her. Now she has woken alone, and nobody can tell her where her mother is. The recognition should come before she fully understands the difference between then and now.
+
+**The author's line changes:**
+- **E3:** "Your mother left a message for you. We've passed it on, one to the next." Then the inherited words. After her correction: "That's how it was told to me, Your Highness." It leaves room for him to be unsettled.
+- **E6/E9 must agree:** "I don't know what stopped her, Your Highness. Only that she went looking for a way." He knows the reported purpose of her search, but not why she couldn't free her daughter then.
+- **E7:** "That's why she left" stays Seralune's own interpretation, and Cyrandor's silence mustn't confirm it.
+- **E12:** "I was sent for linen, sir." She's empty-handed, so she shouldn't name a delivery. **Nereth's slip:** "Cyrandor, open it. Open the door!" The break is her struggle to leave him, and the effort it takes to start guiding Seralune again.
+- **E13:**
+  - "Does it matter which?" becomes "I was upstairs listening to them. You knew what they were doing, and you left me there."
+  - The arm line becomes "Thaer, don't. I'm not going back upstairs."
+  - Kept: "Come with me." / "Then come later." / his silence.
+- **E14:** a continuity error. It's Seralune's hand that's cut: her **right** palm, from Chapter 4 ("it had opened her right palm"). So she reaches for Nereth with her left hand.
+
+### Claude's notes
+
+- **The knock is already different in Chapter 5.** Thaer "came in before she could answer, the way he always had" (Chapter 5); this morning "Two knocks came. / The door stayed shut." Cyrandor waits for an answer, and Thaer never did. The honest difference is already on the page, and she misses it because she's waiting for Thaer. It's worth one line in her thoughts later, once she knows.
+- **E7:** so his silence doesn't confirm her reading, Cyrandor answers it: "I don't know, Your Highness." It's the same honest limit he shows everywhere else.
+
+### Still open (dialogue)
+
+1. **Thaer's answer to "You told me it wasn't up to you."**
+   1. "I know what I told you." He admits it and explains nothing, and the reader sees the avoidance. *(recommended)*
+   2. Silence. He watches the guards go.
+   3. "It wasn't." A lie she can see through, because she has just watched him give the order.
+2. **Nereth's reason (E10):** she says it plainly ("I've wanted to see what's past the falls since I was small."), or she gives no reason and just looks at Cyrandor.
+3. **Thaer's last words to her:** "You haven't eaten." *(recommended)*, "Go. Before Leorin comes down himself.", or nothing.
+4. **E1:** "You're not Thaer." *(recommended)*, or she speaks first about the smile.
+5. **New inventions, not yet answered:**
+   - "I serve in this house";
+   - "I've served here all my life";
+   - "Mind her hand. And mind yourself.";
+   - "That's a wall";
+   - her mother taking her to the edge of Inrandeel.
