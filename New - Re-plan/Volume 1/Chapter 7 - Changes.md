@@ -1,435 +1,466 @@
 # Chapter 7: Changes
 
-A pass for errors, inconsistencies and POV slips, 30 September 2026, at the author's request ("Do a pass of chapter 7 looking for errors, inconsistencies, pov slips"). The first draft is saved unchanged in `Drafts/Chapter 7 - Untitled (Draft 1).md`. Each change was checked against Chapter 5 and the Chapter 7 design.
+The chapter is now the author's combined draft (30 September): Claude's first draft with material from a GPT draft. The author chose it ("Use the combined"). It's saved unchanged in `Drafts/Chapter 7 - Untitled (Draft 3, combined).md`, and the author's comparison of the drafts is in `Chapter 7 - Draft Comparison.md`. The author then asked for three passes: "make sure no robotic AI text, speaking or explanations, pov slips or errors." Pass 1 also makes the fixes agreed on the combined draft (tagged below). Claude's earlier pass on the first draft is kept as a record in `Chapter 7 - Changes (first draft).md`.
 
 ## At a glance
 
-- **21 changes proposed.** 0 rejected so far, so 21 are in the chapter: 21 rewritten, 0 cut and 0 added.
-- **Length:** 3,839 words before, 3,829 after.
-- **Median paragraph:** 13.5 words before, 13 after. The house target is roughly 14–22.
-- **"Nothing":** 3 times before, 3 after.
-- **Waiting on you:** change 7, the order of the Elowen beat. Every other change fixes something wrong.
+- **22 changes proposed.** 0 rejected so far, so 22 are in the chapter: 22 rewritten, 0 cut and 0 added.
+- **Length:** 4,302 words before, 4,267 after.
+- **Median paragraph:** 13 words before, 13 after. The house target is roughly 14–22.
+- **"Nothing":** 4 times before, 4 after.
+- **By pass:** pass 1, changes 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15; pass 2, changes 16, 17, 18, 19, 20; pass 3, changes 3, 7, 21, 22. Where a later pass adjusted an earlier change, its reason is added to that change.
+- **Agreed with the author before the passes:** changes 1, 2, 5, 8, 11, 14, 15.
 
 ## Your call
 
 Each of these needs a yes or no from you. It adds something about a character or the world that you haven't decided, or it's a change you didn't ask for.
 
-- **Change 7, Elowen, before the thousand years sinks in.** It moves lines inside an agreed beat. Yes, or keep the draft's order?
+- Nothing is waiting on you. Every change that needed your answer has one.
 
 **Already decided**
 
-- **Change 1, Nereth behind her:** part of the pass you asked for (30 September).
-- **Change 2, The guards are out on the gallery:** part of the pass you asked for (30 September).
-- **Change 3, The guard who lowered his sword:** part of the pass you asked for (30 September).
-- **Change 4, The message, spoken aloud:** part of the pass you asked for (30 September).
-- **Change 5, A stray comma:** part of the pass you asked for (30 September).
-- **Change 6, "I couldn't count them":** part of the pass you asked for (30 September).
-- **Change 8, Cyrandor's hands on the bundle:** part of the pass you asked for (30 September).
-- **Change 9, "Because she asked us to":** part of the pass you asked for (30 September).
-- **Change 10, A grey dress, not one like his:** part of the pass you asked for (30 September).
-- **Change 11, "By the back stairs":** part of the pass you asked for (30 September).
-- **Change 12, Who knelt:** part of the pass you asked for (30 September).
-- **Change 13, Along the gallery:** part of the pass you asked for (30 September).
-- **Change 14, The laundry woman:** part of the pass you asked for (30 September).
-- **Change 15, Who stands with her mouth open:** part of the pass you asked for (30 September).
-- **Change 16, A look back, not a turn:** part of the pass you asked for (30 September).
-- **Change 17, Whose feet:** part of the pass you asked for (30 September).
-- **Change 18, Losing the voices:** part of the pass you asked for (30 September).
-- **Change 19, No lamps:** part of the pass you asked for (30 September).
-- **Change 20, Which arch:** part of the pass you asked for (30 September).
-- **Change 21, Why he's out of breath:** part of the pass you asked for (30 September).
+- **Change 1, Who put her in there: one answer:** part of the passes you asked for (30 September).
+- **Change 2, Inrandeel is in Mydea, and she knows it:** part of the passes you asked for (30 September).
+- **Change 3, "I'd rather":** part of the passes you asked for (30 September).
+- **Change 4, The shoes:** part of the passes you asked for (30 September).
+- **Change 5, "Not to dawdle", restored:** part of the passes you asked for (30 September).
+- **Change 6, The wall with the aprons:** part of the passes you asked for (30 September).
+- **Change 7, Why she could keep walking:** part of the passes you asked for (30 September).
+- **Change 8, How Thaer got below them:** part of the passes you asked for (30 September).
+- **Change 9, What Seralune heard:** part of the passes you asked for (30 September).
+- **Change 10, "Couldn't":** part of the passes you asked for (30 September).
+- **Change 11, "Stay with me":** part of the passes you asked for (30 September).
+- **Change 12, "Come with me" is hers:** part of the passes you asked for (30 September).
+- **Change 13, "So much more":** part of the passes you asked for (30 September).
+- **Change 14, The lamp:** part of the passes you asked for (30 September).
+- **Change 15, Which hand holds the lamp:** part of the passes you asked for (30 September).
+- **Change 16, Grates and people:** part of the passes you asked for (30 September).
+- **Change 17, Where the wash passage is:** part of the passes you asked for (30 September).
+- **Change 18, Who might know:** part of the passes you asked for (30 September).
+- **Change 19, "And he looked away":** part of the passes you asked for (30 September).
+- **Change 20, Nereth's title at the channels:** part of the passes you asked for (30 September).
+- **Change 21, A second glance:** part of the passes you asked for (30 September).
+- **Change 22, The guard knows her:** part of the passes you asked for (30 September).
 
-## What the pass found
+## What the passes found
 
-- **Point of view (changes 1, 14):** two places where the narration knew something Seralune couldn't: Nereth getting up behind her, and what the laundry woman was thinking.
-- **Continuity (changes 2, 7, 8, 13, 15, 16):**
-  - Her door opens onto the gallery in Chapter 5, not a passage.
-  - Cyrandor is still holding the bundle.
-  - The woman with the bread was several flights up.
-  - Seralune couldn't know the guard's voice from two words.
-  - In the draft she had already accepted the thousand years when she asked whether he knew Elowen.
-- **Cyrandor's "Your Highness" (changes 4, 6, 9, 11):** it comes out of the four lines where the draft added it. The eight lines settled in the dialogue round keep it.
-- **Clarity (changes 3, 5, 10, 12, 17, 18, 19, 20, 21):** unclear pronouns and references, a stray comma, and three sentences whose logic slipped.
-- **House style (change 4):** italics on words spoken aloud.
+- **Pass 1** made the agreed fixes:
+  - the lamp moves to Nereth's left hand;
+  - Thaer came up from below by his own route, and the second report is cut;
+  - "him" now means Leorin;
+  - Cyrandor answers "Who put me in there?" once;
+  - "Nobody had ever told Seralune not to dawdle" is back;
+  - Inrandeel is in Mydea, and Seralune knows it.
+
+  It also took out explaining lines ("Then you know why you should stay with me", "take Seralune past the people crowding the passage"), one POV slip (she never saw the guards with Cyrandor) and some small errors.
+- **Pass 2:** a doubled sentence opening, where the wash passage is, who "they" were, and one "Your Highness" too many from Nereth.
+- **Pass 3:** Cyrandor's "somebody had to be" now leads into "It happened to be me", and there are fewer "looked"s and "nobody"s where they bunched up.
 
 ## Checked and left alone
 
-- **"The order came at first light":** in Chapter 5 the blows stop "when the window began to grey", and the knocks come soon after. It's tight, but it works if the order was ready for when the mending was done.
-- **Thaer's knuckles "raw where he had struck the wall":** in Chapter 5 she hears something strike the wall and then sees his scraped knuckles, so she can put the two together.
-- **The screen she changes behind:** Chapter 5 doesn't list one in the room, but nothing there rules one out.
-- **Nereth's hands "on top of the folded shawl":** the author's own image from the design review ("Nereth's hands remained on the folded clothes").
-- **"I know. I used to." and *This was ours before it was anyone's.*:** new details already waiting for the author (item 15 in the design's list), so the pass leaves them for that review. The same goes for "Lord Leorin" (item 8).
-- **Chapter 5 once calls the space outside her door "the corridor"** ("There were footsteps in the corridor."). Chapter 5 is finished, so the pass doesn't touch it. A gallery is a kind of corridor, and it reads fine.
-- **"She went looking for a way" appears twice:** Seralune is quoting Cyrandor back to him on purpose.
+- "I know. I used to." and *This was ours before it was anyone's.*, and "Lord Leorin": still on the author's list of new details from the first draft.
+- "Let me sort this out": the settled line from the dialogue round.
+- The repeated "look up" at the shouting ("looking up", "Don't look up", "She didn't look up") and the looks back at the end: meant.
+- "She went looking for a way" twice: Seralune quoting Cyrandor back to him.
 
 ## The changes
 
-### The door
+### Pass 1: the agreed fixes, and a full read
 
-#### 1. Nereth behind her
+#### 1. Who put her in there: one answer
 
-*Draft line 19 → revised line 19*
-
-**Before**
-
-> Behind her, Nereth had got up from the chair by the hearth. Seralune looked round, expecting her to be as startled as she was, and she wasn't. Nereth's eyes had gone straight to the old man, and stayed there, and there was no surprise in them at all.
-
-**After**
-
-> Behind her, a chair scraped. Seralune looked round, expecting Nereth to be as startled as she was. Nereth was on her feet by the hearth with her eyes on the old man, and there was no surprise in them at all.
-
-**Why.** Point of view. Seralune is facing the door, so she can't see Nereth get up behind her, and she only looks round afterwards, so she can't have seen Nereth's eyes go "straight to" him. Now she hears the chair, looks round, and sees what there is to see. "And she wasn't" is cut because the next sentence shows it.
-
-**Your decision.** The author asked for a pass for errors, inconsistencies and POV slips (30 September).
-
-#### 2. The guards are out on the gallery
-
-*Draft line 23 → revised line 23*
+*Draft lines 99–105 → revised lines 99–101*
 
 **Before**
 
-> Past him, in the passage, the two guards were sitting against the wall on either side of the door with their chins on their chests. One of them still had a cup in his lap, tipped over, and a dark stain had spread across his knee.
-
-**After**
-
-> Past him, out on the gallery, the two guards were sitting against the wall on either side of the door with their chins on their chests. One of them still had a cup in his lap, tipped over, and a dark stain had spread across his knee.
-
-**Why.** Continuity with Chapter 5, where Thaer "led her along the gallery and through a door into a room she didn't know". Her door opens onto the gallery, not a passage. Change 13 follows from this.
-
-**Your decision.** The author asked for a pass for errors, inconsistencies and POV slips (30 September).
-
-#### 3. The guard who lowered his sword
-
-*Draft line 29 → revised line 29*
-
-**Before**
-
-> She went out to the nearer one anyway, and crouched, and held her hand in front of his mouth until she felt his breath on it, slow and even. She didn't know his face. Neither of them was the guard who had lowered his sword to her in the night.
-
-**After**
-
-> She went out to the nearer one anyway, and crouched, and held her hand in front of his mouth until she felt his breath on it, slow and even. She didn't know his face. Neither of them was the guard who had lowered his sword in the night.
-
-**Why.** "Lowered his sword to her" can read as pointing it at her, the opposite of what he did in Chapter 5 (he "looked past Nereth at Seralune, and down at her bare feet, and lowered his sword").
-
-**Your decision.** The author asked for a pass for errors, inconsistencies and POV slips (30 September).
-
-### What Cyrandor tells her
-
-#### 4. The message, spoken aloud
-
-*Draft line 37 → revised line 37*
-
-**Before**
-
-> "Your mother left a message for you, Your Highness, for when you woke. We've passed it on, one to the next." He said the rest slowly and carefully. "*The falls do not stop, and neither will we.*"
-
-**After**
-
-> "Your mother left a message for you, for when you woke. We've passed it on, one to the next." He said the rest slowly and carefully. "The falls do not stop, and neither will we."
-
-**Why.** House style: italics are for thought, stress and knocks, and these words are spoken aloud inside quotation marks, so the italics go. "Your Highness" comes out to match the author's line for this moment ("Your mother left a message for you. We've passed it on, one to the next."); see change 6 for the rest of Cyrandor's titles.
-
-**Your decision.** The author asked for a pass for errors, inconsistencies and POV slips (30 September).
-
-#### 5. A stray comma
-
-*Draft line 51 → revised line 51*
-
-**Before**
-
-> *Told to him. By someone, who had it from someone else. Mother said that to me on a step one night, and it's come back to me through strangers.*
-
-**After**
-
-> *Told to him. By someone who had it from someone else. Mother said that to me on a step one night, and it's come back to me through strangers.*
-
-**Why.** The comma cut "someone" off from the words that say who.
-
-**Your decision.** The author asked for a pass for errors, inconsistencies and POV slips (30 September).
-
-#### 6. "I couldn't count them"
-
-*Draft line 55 → revised line 55*
-
-**Before**
-
-> "I couldn't count them, Your Highness."
-
-**After**
-
-> "I couldn't count them."
-
-**Why.** Cyrandor's title. The author's design review: "He can sound respectful without every sentence containing 'Your Highness'." The draft gave it to him in twelve lines. The eight lines settled in the dialogue round keep it ("I did", "Cyrandor", "That's how it was told to me", "I've served here all my life", "I don't know what stopped her", "I don't know", "Mending it", "That's a wall"). "Mending it, Your Highness" keeps it where it softens the worst news he brings. It comes out of the four lines where the draft added it and it does no work: here, and changes 4, 9 and 11.
-
-**Your decision.** The author asked for a pass for errors, inconsistencies and POV slips (30 September).
-
-#### 7. Elowen, before the thousand years sinks in
-
-*Draft lines 63–75 → revised lines 63–75*
-
-**Before**
-
-> Nobody answered, and she didn't need them to. Leorin with his white hair, asking her to forgive him. The royal tree, grown so tall she had to tip her head back to see the top of it. Doors all down a corridor where there had been bare wall. On the gallery last night she had got as far as *So it's been…* and stopped herself.
+> "Who put me in there?"
 >
-> *A thousand years.*
+> "That part didn't reach me."
 >
-> She sat down on the edge of the bed, because her legs had decided she would.
+> "You don't even know who did it?"
 >
-> "Elowen," she said. "My maid. She's been in this house since before I was born. You must know her."
->
-> "I've served here all my life, Your Highness. I've never heard the name."
->
-> *Nereth had never heard of her, and I told myself it was because Nereth was new. He isn't new.*
->
-> She looked at her hands in her lap, at the neat binding Nereth had put on the cut. Elowen had sat up with her every night until she could read. Somebody in this house ought to have known her name. There was nobody now.
+> "No, Your Highness." He met her eyes. "I wasn't there. I can tell you what was handed down to me, but I won't pretend I saw it."
 
 **After**
 
-> Nobody answered. Leorin with his white hair, asking her to forgive him. The royal tree, grown so tall she had to tip her head back to see the top of it. Doors all down a corridor where there had been bare wall. On the gallery last night she had got as far as *So it's been…* and stopped herself.
+> "Who put me in there?"
 >
-> "Elowen," she said. "My maid. She's been in this house since before I was born. You must know her."
->
-> "I've served here all my life, Your Highness. I've never heard the name."
->
-> *Nereth had never heard of her, and I told myself it was because Nereth was new. He isn't new.*
->
-> *A thousand years.*
->
-> She sat down on the edge of the bed, because her legs had decided she would.
->
-> She looked at her hands in her lap, at the neat binding Nereth had put on the cut. Elowen had sat up with her every night until she could read. Somebody in this house ought to have known her name. There was nobody now.
+> "That never came down to us."
 
-**Why.** In the draft she takes in the thousand years and sits down, and only then asks Cyrandor whether he knows Elowen, which by then she knows he can't. Now the evidence comes and she stops herself again, as she did on the gallery. Elowen is the last thing she reaches for, and his answer is what she can't get round: *He isn't new.* Then the thousand years lands, and she sits. This keeps the Working Design's order (the number, her challenge, then Elowen) and gives Elowen the job the design gives her: "Elowen, the changed palace and the rest of his account must still establish the loss of time." Nothing is reworded. "And she didn't need them to" is cut, and three paragraphs move.
+**Why.** Agreed with the author on the combined draft. "That part didn't reach me", "No, Your Highness" and "I wasn't there" gave the same answer three times, and "I wasn't there… I won't pretend I saw it" states the obvious after a thousand years. One answer, in the words he uses elsewhere ("As far as it came down to us").
 
-**Your call.** It moves lines inside an agreed beat. Yes, or keep the draft's order?
+**Your decision.** Pass 1 of the three the author asked for (30 September): the fixes agreed on the combined draft, and robotic text, POV slips and errors.
 
-#### 8. Cyrandor's hands on the bundle
+#### 2. Inrandeel is in Mydea, and she knows it
 
-*Draft line 87 → revised line 87*
+*Draft lines 125–137 → revised lines 121–129*
 
 **Before**
 
-> "I don't know what stopped her, Your Highness. Only that she went looking for a way. And that before she went, she asked a few of the servants to watch over you and send her word." His hands had folded themselves in front of him, the way Nereth's did. "That was the beginning of us."
+> "The last word we ever had of her came from Inrandeel, centuries ago. She'd gone to the elves there, to find a way for you to wake, and live, outside of that thing." He hesitated. "After that, there was nothing."
+>
+> "In Mydea?"
+>
+> "Yes, Your Highness."
+>
+> "Is she alive?"
+>
+> "I don't know." His voice was quieter now. "I'm sorry."
+>
+> *Inrandeel. The forest where the elves answer to no one.* If there was anywhere Mother could have gone where nobody would bring her back, it was there.
+>
+> It was a long time ago. It was a forest, and a woman who might not be in it. It was more than anyone else had given her since she woke.
 
 **After**
 
-> "I don't know what stopped her, Your Highness. Only that she went looking for a way. And that before she went, she asked a few of the servants to watch over you and send her word." His hands had folded themselves over the bundle, the way Nereth's did. "That was the beginning of us."
+> "The last word we ever had of her came from Inrandeel, centuries ago. She'd gone to the elves there, to find a way for you to wake, and live, outside of that thing." He hesitated. "After that, there was nothing."
+>
+> "Is she alive?"
+>
+> "I don't know." His voice was quieter now. "I'm sorry."
+>
+> *Inrandeel. The forest where the elves answer to no one.* If there was anywhere Mother could have gone where nobody would bring her back, it was there.
+>
+> It was a long time ago. It was a forest in Mydea, and a woman who might not be in it. It was more than anyone else had given her since she woke.
 
-**Why.** He's still holding the bundle. His hands "tightened on the bundle" a few lines earlier, and he doesn't hold it out until she asks how to get out.
+**Why.** The author: "Inrandeel is a forest in Mydea." Seralune remembers the forest, so she wouldn't need to ask where it is, and in the combined draft her thought recognising the name came after she'd asked. "In Mydea?" / "Yes, Your Highness." is cut, and Mydea goes into her own thinking ("a forest in Mydea"), so "I'm going to Mydea" on the stair still rests on something.
 
-**Your decision.** The author asked for a pass for errors, inconsistencies and POV slips (30 September).
+**Your decision.** Pass 1 of the three the author asked for (30 September): the fixes agreed on the combined draft, and robotic text, POV slips and errors.
 
-#### 9. "Because she asked us to"
+#### 3. "I'd rather"
 
-*Draft line 131 → revised line 131*
+*Draft line 141 → revised line 133*
 
 **Before**
 
-> "Because she asked us to, Your Highness. Somebody had to be here when you woke." His eyes went to Nereth, and stayed there a moment longer than they needed to. "It happened to be me."
+> "I'd prefer they didn't." He tried to smile. "But somebody had to be here when you woke. Your mother asked us to be." His eyes went to Nereth, and stayed there a moment longer than they needed to. "It happened to be me."
 
 **After**
 
-> "Because she asked us to. Somebody had to be here when you woke." His eyes went to Nereth, and stayed there a moment longer than they needed to. "It happened to be me."
+> "I'd rather they didn't." He tried to smile. "But your mother asked us to be here when you woke, and somebody had to be." His eyes went to Nereth, and stayed there a moment longer than they needed to. "It happened to be me."
 
-**Why.** Cyrandor's title: see change 6.
+**Why.** "I'd prefer they didn't" is stiffer than the old servant speaks anywhere else. *Pass 3:* "Your mother asked us to be" dangled. Turned round, "somebody had to be" leads straight into "It happened to be me."
 
-**Your decision.** The author asked for a pass for errors, inconsistencies and POV slips (30 September).
+**Your decision.** Pass 1 of the three the author asked for (30 September): the fixes agreed on the combined draft, and robotic text, POV slips and errors.
 
-#### 10. A grey dress, not one like his
+#### 4. The shoes
 
-*Draft line 137 → revised line 137*
+*Draft line 171 → revised line 163*
 
 **Before**
 
-> Cyrandor let out a breath. She thought he had been holding it for some time. He held out the bundle, and she saw it was clothes: a plain grey dress like his, a shawl, and a pair of soft shoes.
+> Seralune sat. Nereth supported her heel as she eased the first shoe on, then the other. The soles were soft, and for the first time since she woke, the stone was not cold against her feet.
 
 **After**
 
-> Cyrandor let out a breath. She thought he had been holding it for some time. He held out the bundle, and she saw it was clothes: a plain grey dress, a shawl, and a pair of soft shoes.
+> Seralune sat. Nereth held her heel and eased the first shoe on, then the other. The soles were soft, and for the first time since she woke, her feet weren't cold.
 
-**Why.** "A dress like his" says he wears one. The grey already ties it to the "servant's grey" he wears at the door.
+**Why.** "As she eased" could be either woman. And she's sitting with her feet in shoes, so the stone isn't against her feet any more: what's new is that her feet are warm.
 
-**Your decision.** The author asked for a pass for errors, inconsistencies and POV slips (30 September).
+**Your decision.** Pass 1 of the three the author asked for (30 September): the fixes agreed on the combined draft, and robotic text, POV slips and errors.
 
-#### 11. "By the back stairs"
+#### 5. "Not to dawdle", restored
 
-*Draft line 139 → revised line 139*
+*Draft line 189 → revised line 181*
 
 **Before**
 
-> "The same way we do, Your Highness. By the back stairs, with your head down."
+> Seralune looked back. The woman was already busy with someone else. She had not even looked properly at Seralune's face.
 
 **After**
 
-> "The same way we do. By the back stairs, with your head down."
+> Seralune looked back. The woman was already busy with someone else, and she hadn't even looked properly at her face. Nobody had ever told Seralune not to dawdle.
 
-**Why.** Cyrandor's title: see change 6.
+**Why.** Agreed with the author. The comparison praises this moment ("someone gives her work rather than making way for her"), and the dawdle line is where Seralune feels it. The combined draft's line stays beside it.
 
-**Your decision.** The author asked for a pass for errors, inconsistencies and POV slips (30 September).
+**Your decision.** Pass 1 of the three the author asked for (30 September): the fixes agreed on the combined draft, and robotic text, POV slips and errors.
 
-#### 12. Who knelt
+#### 6. The wall with the aprons
 
-*Draft line 157 → revised line 157*
+*Draft line 203 → revised line 195*
 
 **Before**
 
-> Then she knelt and put the shoes down in front of Seralune's feet.
+> It was plastered and whitewashed and hung with a row of hooks with aprons on them, and not a mark on it to say there had ever been a stair. She stood and looked at it until Nereth touched her elbow.
 
 **After**
 
-> Then Nereth knelt and put the shoes down in front of Seralune's feet.
+> It was plastered and whitewashed and hung with aprons on a row of hooks, and not a mark on it to say there had ever been a stair. She stood and looked at it until Nereth touched her elbow.
 
-**Why.** The sentence before it is "It was Cyrandor who looked away first.", so "she" could be either woman.
+**Why.** "With a row of hooks with aprons" tripped over its own "with".
 
-**Your decision.** The author asked for a pass for errors, inconsistencies and POV slips (30 September).
+**Your decision.** Pass 1 of the three the author asked for (30 September): the fixes agreed on the combined draft, and robotic text, POV slips and errors.
 
-### The servants' stairs
+#### 7. Why she could keep walking
 
-#### 13. Along the gallery
-
-*Draft line 165 → revised line 165*
+*Draft line 229 → revised line 221*
 
 **Before**
 
-> They went away from the gallery, not towards it. At the end of the passage there was a door Seralune would have taken for part of the wall, and behind it a stair so narrow that her shoulders brushed both sides. Cyrandor went first, with the key in his fist, and Nereth came last.
+> She could keep walking. The guard had only looked at Nereth, and Cyrandor was coming back for her. A few more steps would take Seralune past the people crowding the passage.
 
 **After**
 
-> They went along the gallery, away from the way Thaer had brought her last night. At the far end there was a door Seralune would have taken for part of the wall, and behind it a stair so narrow that her shoulders brushed both sides. Cyrandor went first, with the key in his fist, and Nereth came last.
+> She could keep walking. The guard hadn't so much as glanced at her, and Cyrandor was already going back for Nereth. A few more steps, and the crowd would close behind her.
 
-**Why.** Follows change 2: her door opens onto the gallery, so they can't go away from it. They take it the other way from the corridor Thaer brought her along, which keeps them off the main routes, as the design asks ("servants' routes rather than the formal corridors").
+**Why.** "Coming back for her" could mean either woman, and "take Seralune past the people crowding the passage" explained a place she was already standing in. The new lines give her the same reasons in what she can see. *Pass 3:* "Looked" three times in a few lines with the guard's own "looked up" and "looked at her face".
 
-**Your decision.** The author asked for a pass for errors, inconsistencies and POV slips (30 September).
+**Your decision.** Pass 1 of the three the author asked for (30 September): the fixes agreed on the combined draft, and robotic text, POV slips and errors.
 
-#### 14. The laundry woman
+#### 8. How Thaer got below them
 
-*Draft line 175 → revised line 175*
+*Draft line 281 → revised line 273*
 
 **Before**
 
-> Seralune looked back. The woman had already forgotten her. Nobody had ever told her not to dawdle.
+> He was between them and the way on. He wasn't holding his sword. He didn't need to. He was a little out of breath. Somewhere above them, a man called that the prince had gone down to the south stair. He was looking at her as if he had been afraid she would not be there.
 
 **After**
 
-> Seralune looked back. The woman was already busy with someone else. Nobody had ever told her not to dawdle.
+> He was between them and the way on, and he wasn't holding his sword. He didn't need to. He must have come up from below, by some way she didn't know, because he was a little out of breath. He was looking at her as if he had been afraid she wouldn't be there.
 
-**Why.** Point of view. Seralune can't see into the woman's head to know she has forgotten her. She can see her busy with someone else, which says the same thing.
+**Why.** Agreed with the author: "Thaer got below on his own route." The report at the door ("Tell the prince. They've gone down the south stair.") already says why he's here. The second report repeated it and left "He was looking at her" reading as the man who called. His being below them is what shows he came another way.
 
-**Your decision.** The author asked for a pass for errors, inconsistencies and POV slips (30 September).
+**Your decision.** Pass 1 of the three the author asked for (30 September): the fixes agreed on the combined draft, and robotic text, POV slips and errors.
 
-#### 15. Who stands with her mouth open
+#### 9. What Seralune heard
 
-*Draft line 195 → revised line 195*
+*Draft line 295 → revised line 287*
 
 **Before**
 
-> All round them, people stopped. The woman with the bread stood with her mouth open, looking up. A man came out of the laundry with his sleeves rolled up and his arms red to the elbow and asked what in the Last Dark was going on, and nobody told him.
+> "Cyrandor. He stayed behind. The guards were with him when we left." She glanced at Nereth, who was staring at the landing below. "Please don't let Leorin hurt him."
 
 **After**
 
-> All round them, people stopped. A girl with a tray of cups stood with her mouth open, looking up. A man came out of the laundry with his sleeves rolled up and his arms red to the elbow and asked what in the Last Dark was going on, and nobody told him.
+> "Cyrandor. He stayed behind, and locked the door on us. The guards came just after." She glanced at Nereth, who had her eyes on the steps. "Please don't let Leorin hurt him."
 
-**Why.** The woman with the bread was on the first landing they passed, and they have gone down several flights since, so she can't be here. Someone else stands in for her.
+**Why.** Point of view. She never saw the guards with him; she heard their boots arrive through the door. And Nereth "staring at the landing below" was staring at Thaer, which isn't what the line wants: she's keeping her eyes down.
 
-**Your decision.** The author asked for a pass for errors, inconsistencies and POV slips (30 September).
+**Your decision.** Pass 1 of the three the author asked for (30 September): the fixes agreed on the combined draft, and robotic text, POV slips and errors.
 
-### The laundry passage
+#### 10. "Couldn't"
 
-#### 16. A look back, not a turn
-
-*Draft line 205 → revised line 205*
+*Draft line 303 → revised line 295*
 
 **Before**
 
-> She knew the voice before she turned. He was a guard, off watch by the look of him, with his helmet under his arm and his hair flattened from wearing it. He had Nereth by the arm.
+> Someone answered from above. Thaer came back to her, and she could not tell whether the order would be enough. But he had given it.
 
 **After**
 
-> She looked back over her shoulder. He was a guard, off watch by the look of him, with his helmet under his arm and his hair flattened from wearing it. He had Nereth by the arm.
+> Someone answered from above. Thaer came back to her, and she couldn't tell whether the order would be enough. But he had given it.
 
-**Why.** She has heard this guard say two words, once, over the noise of the falls, so knowing his voice is a stretch, and the next paragraph has her know him by sight anyway. A look over her shoulder also keeps "She turned round." a few lines later as the moment she decides to go back.
+**Why.** The narration uses "couldn't" everywhere else.
 
-**Your decision.** The author asked for a pass for errors, inconsistencies and POV slips (30 September).
+**Your decision.** Pass 1 of the three the author asked for (30 September): the fixes agreed on the combined draft, and robotic text, POV slips and errors.
 
-#### 17. Whose feet
+#### 11. "Stay with me"
 
-*Draft line 221 → revised line 221*
+*Draft lines 329–335 → revised lines 321–327*
 
 **Before**
 
-> The guard looked up. He looked at her face, under the shawl, and she watched him know it. He didn't shout. At first he didn't do anything at all. His hand on Nereth's arm stayed where it was, but it didn't tighten, and his eyes went down to her feet, in their borrowed shoes, and came back to her face.
+> "Then you know why you should stay with me," he said.
+>
+> "Then lock me somewhere else, Thaer, and it's the same room."
+>
+> "I said stay with me. Not with him."
+>
+> For a moment she wanted to. He was right there, close enough to catch his sleeve. She could make him stay this time, and make him tell her everything. But he had promised to come in the morning, and Leorin had sent someone first.
 
 **After**
+
+> "Then stay with me," he said. "I won't let him near you."
+>
+> "Then lock me somewhere else, Thaer, and it's the same room."
+>
+> "I didn't say lock you in. I said stay with me."
+>
+> She wanted to. He was close enough that she could have caught his sleeve. She could go back up with him, and this time make him tell her everything. But he had promised to come in the morning, and Leorin had sent someone first.
+
+**Why.** "Then you know why you should stay with me" is Thaer explaining the moment instead of asking for something. Now he asks, and it echoes what she heard through the door ("No one touches my sister" / "I won't let him near you"). That makes "him" Leorin, which the author agreed it should be; "Not with him" had read as Cyrandor. "I didn't say lock you in" answers her "same room" directly. In her thought, "For a moment" is a phrase the style check flags, and "She could make him stay this time" didn't say what she meant: going back up with him.
+
+**Your decision.** Pass 1 of the three the author asked for (30 September): the fixes agreed on the combined draft, and robotic text, POV slips and errors.
+
+#### 12. "Come with me" is hers
+
+*Draft lines 367–369 → revised line 359*
+
+**Before**
+
+> "Come with me."
+>
+> It came out smaller than she meant it to.
+
+**After**
+
+> "Come with me." It came out smaller than she meant it to.
+
+**Why.** It follows a paragraph of her own speech, so on its own line it read as Thaer's until the next line. Joined, it's hers from the start.
+
+**Your decision.** Pass 1 of the three the author asked for (30 September): the fixes agreed on the combined draft, and robotic text, POV slips and errors.
+
+#### 13. "So much more"
+
+*Draft line 407 → revised line 397*
+
+**Before**
+
+> She had so much she could have said to that. She found she didn't want to say any of it. She only wanted him to come with her, and he wasn't going to.
+
+**After**
+
+> She had so much more she could have said. She found she didn't want to say any of it. She only wanted him to come with her, and he wasn't going to.
+
+**Why.** She has already answered him ("So was I."), so "to that" no longer points anywhere.
+
+**Your decision.** Pass 1 of the three the author asked for (30 September): the fixes agreed on the combined draft, and robotic text, POV slips and errors.
+
+#### 14. The lamp
+
+*Draft line 417 → revised line 407*
+
+**Before**
+
+> At the bottom of the stair a passage ran on, and where it ended another began, lower and narrower, going down. A lamp still burned in a bracket beside the last door. Nereth took it down and sheltered the flame with her hand.
+
+**After**
+
+> At the bottom of the stair a passage ran on, and where it ended another began, lower and narrower, going down. A lamp was still burning in a bracket beside the opening. Nereth took it down and sheltered the flame with her hand.
+
+**Why.** Agreed with the author: no door had been mentioned, so "the last door" pointed at nothing. It hangs by the opening to the lower passage. That it's still burning, in a place nobody uses, quietly fits Thaer having come up that way.
+
+**Your decision.** Pass 1 of the three the author asked for (30 September): the fixes agreed on the combined draft, and robotic text, POV slips and errors.
+
+#### 15. Which hand holds the lamp
+
+*Draft line 439 → revised line 429*
+
+**Before**
+
+> Nereth was beside her, holding the lamp in her right hand. She didn't say anything, and she didn't go first.
+
+**After**
+
+> Nereth was beside her, holding the lamp in her left hand. She didn't say anything, and she didn't go first.
+
+**Why.** Agreed with the author. Side by side, Seralune can only take Nereth's free hand with her left if it's Nereth's right, so the lamp goes in Nereth's left hand. Seralune's right palm is the cut one.
+
+**Your decision.** Pass 1 of the three the author asked for (30 September): the fixes agreed on the combined draft, and robotic text, POV slips and errors.
+
+### Pass 2
+
+#### 16. Grates and people
+
+*Draft line 215 → revised line 207*
+
+**Before**
+
+> They came out at the bottom into a long, low passage with a channel down the middle of the floor, and water running in it, carrying suds away. There were grates set in the channel every few paces, and the water went gurgling down through them. There were a great many people in the passage, and all of them had heard the shouting, and all of them were talking at once. Seralune went through them with her head down and the shawl held close at her throat.
+
+**After**
+
+> They came out at the bottom into a long, low passage with a channel down the middle of the floor, and water running in it, carrying suds away. Grates were set in the channel every few paces, and the water went gurgling down through them. The passage was full of people, and all of them had heard the shouting, and all of them were talking at once. Seralune went through them with her head down and the shawl held close at her throat.
+
+**Why.** Two sentences in a row began "There were".
+
+**Your decision.** Pass 2 of three (30 September): robotic text, POV slips and errors.
+
+#### 17. Where the wash passage is
+
+*Draft line 299 → revised line 291*
+
+**Before**
+
+> Nereth answered. "The wash passage, Your Highness. Above the south stair."
+
+**After**
+
+> Nereth answered. "The wash passage, Your Highness. By the iron door."
+
+**Why.** The wash passage isn't above the south stair: it's level with the top of it, through the iron door and along the dusty passage. "By the iron door" is something Thaer's men can find.
+
+**Your decision.** Pass 2 of three (30 September): robotic text, POV slips and errors.
+
+#### 18. Who might know
+
+*Draft line 365 → revised line 357*
+
+**Before**
+
+> "Even if she's gone, they might know what she found," she said. "I need to ask."
+
+**After**
+
+> "Even if she's gone, the elves there might know what she found," she said. "I need to ask."
+
+**Why.** Thaer hasn't heard Cyrandor mention the elves, so "they" pointed at nobody he knew of.
+
+**Your decision.** Pass 2 of three (30 September): robotic text, POV slips and errors.
+
+#### 19. "And he looked away"
+
+*Draft line 405 → revised line 395*
+
+**Before**
+
+> She said it quietly, but he looked away.
+
+**After**
+
+> She said it quietly, and he looked away.
+
+**Why.** "But" set his looking away against her speaking quietly, which isn't the point; it follows from what she said.
+
+**Your decision.** Pass 2 of three (30 September): robotic text, POV slips and errors.
+
+#### 20. Nereth's title at the channels
+
+*Draft line 419 → revised line 409*
+
+**Before**
+
+> "They'll be watching the gates by now, Your Highness," she said. "This comes out under the wall."
+
+**After**
+
+> "They'll be watching the gates by now," she said. "This comes out under the wall."
+
+**Why.** Nereth said "Your Highness" three times in her last ten lines. Her settled line ("I know it as far as the first turning, Your Highness") and "Not yet, Your Highness" keep it.
+
+**Your decision.** Pass 2 of three (30 September): robotic text, POV slips and errors.
+
+### Pass 3, the final pass
+
+#### 21. A second glance
+
+*Draft line 183 → revised line 175*
+
+**Before**
+
+> The palace was waking up. Nobody here was bowing. A boy went past them with two buckets of water, slopping, and a woman with an armful of bread shouted at him for it. Somewhere close there was a laundry, because the air was warm and wet and smelled of soap, and she could hear someone beating cloth against stone. Nobody looked twice at three servants going down the stairs. Seralune kept her head down, the way she'd been told, and found that it was easy. She had never had to do it before.
+
+**After**
+
+> The palace was waking up. Nobody here was bowing. A boy went past them with two buckets of water, slopping, and a woman with an armful of bread shouted at him for it. Somewhere close there was a laundry, because the air was warm and wet and smelled of soap, and she could hear someone beating cloth against stone. Three servants going down the stairs weren't worth a second glance. Seralune kept her head down, the way she'd been told, and found that it was easy. She had never had to do it before.
+
+**Why.** "Nobody" twice in one paragraph, and "looked" four times in five lines here ("looked twice", "took one look", "looked back", "looked properly").
+
+**Your decision.** Pass 3 of three, the final pass (30 September): robotic text, POV slips and errors.
+
+#### 22. The guard knows her
+
+*Draft line 235 → revised line 227*
+
+**Before**
 
 > The guard looked up. He looked at her face, under the shawl, and she watched him know it. He didn't shout. At first he didn't do anything at all. His hand on Nereth's arm stayed where it was, but it didn't tighten, and his eyes went down to Seralune's feet, in their borrowed shoes, and came back to her face.
 
-**Why.** Straight after "Nereth's arm", "her feet" could be Nereth's. They're Seralune's: he last saw them bare.
-
-**Your decision.** The author asked for a pass for errors, inconsistencies and POV slips (30 September).
-
-#### 18. Losing the voices
-
-*Draft line 243 → revised line 243*
-
-**Before**
-
-> Then she couldn't make out any of it.
-
 **After**
 
-> Then the voices went further off, and she lost them.
+> The guard looked up, at her face under the shawl, and she watched him know it. He didn't shout. At first he didn't do anything at all. His hand on Nereth's arm stayed where it was, but it didn't tighten, and his eyes went down to Seralune's feet, in their borrowed shoes, and came back to her face.
 
-**Why.** She already couldn't make out most of it ("too many to make out", "something she couldn't catch"). What changes is that the voices go away, which fits "Round by the south court! Go, go!"
+**Why.** Same reason: one look, not two, and the moment he knows her comes sooner.
 
-**Your decision.** The author asked for a pass for errors, inconsistencies and POV slips (30 September).
-
-### The old south stair
-
-#### 19. No lamps
-
-*Draft line 251 → revised line 251*
-
-**Before**
-
-> The passage beyond the door was cold, and nobody had swept it in a long time. There were no people here, and no lamps but the grey light that came down through slits high in the walls. The dust on the floor took their footprints, and Seralune thought of the guards coming round by the south court, and how easy it would be for them to follow.
-
-**After**
-
-> The passage beyond the door was cold, and nobody had swept it in a long time. There were no people here and no lamps, only the grey light that came down through slits high in the walls. The dust on the floor took their footprints, and Seralune thought of the guards coming round by the south court, and how easy it would be for them to follow.
-
-**Why.** "No lamps but the grey light" made the daylight a lamp.
-
-**Your decision.** The author asked for a pass for errors, inconsistencies and POV slips (30 September).
-
-#### 20. Which arch
-
-*Draft line 257 → revised line 257*
-
-**Before**
-
-> There was a window at the end, a real window, tall and narrow, with a stone seat under it where she had sat to be out of the way. There were the steps going down beside it, worn in the middle. The carving over the arch had been knocked about and was furred with dust, but it was the carving she remembered. After a whole night and a morning of doors in the wrong places and faces she had never seen, here was something that was hers, and nobody had been here for years.
-
-**After**
-
-> There was a window at the end, a real window, tall and narrow, with a stone seat under it where she had sat to be out of the way. There were the steps going down beside it, worn in the middle. The carving over the arch at the top of the steps had been knocked about and was furred with dust, but it was the carving she remembered. After a whole night and a morning of doors in the wrong places and faces she had never seen, here was something that was hers, and nobody had been here for years.
-
-**Why.** No arch had been mentioned, so "the arch" had nothing to point to.
-
-**Your decision.** The author asked for a pass for errors, inconsistencies and POV slips (30 September).
-
-#### 21. Why he's out of breath
-
-*Draft line 267 → revised line 267*
-
-**Before**
-
-> He was between them and the way on. He wasn't holding his sword. He didn't need to. He must have come up from below, by some way she didn't know, because he was a little out of breath, and he was looking at her as if he had been afraid she would not be there.
-
-**After**
-
-> He was between them and the way on. He wasn't holding his sword. He didn't need to. He must have come up from below, by some way she didn't know, because he was a little out of breath. And he was looking at her as if he had been afraid she would not be there.
-
-**Why.** The "because" ran on into the look, as if the look were more proof that he had come up from below. The look is its own sentence now.
-
-**Your decision.** The author asked for a pass for errors, inconsistencies and POV slips (30 September).
+**Your decision.** Pass 3 of three, the final pass (30 September): robotic text, POV slips and errors.

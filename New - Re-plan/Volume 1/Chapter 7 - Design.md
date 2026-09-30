@@ -1,6 +1,6 @@
 # Chapter 7: Design
 
-Started 30 September 2026. **Status:** written on 30 September as `Chapter 7 - Untitled.md` (about 3,850 words; the first draft is saved in `Drafts/`). A pass for errors, inconsistencies and POV slips followed the same day (21 changes, in `Chapter 7 - Changes.md`; now 3,829 words). Waiting on the author's review, one Your-call from the pass and a question about light in the aqueduct; the title is to come.
+Started 30 September 2026. **Status:** the chapter is now the author's combined draft (30 September), after three passes (22 changes, in `Chapter 7 - Changes.md`; 4,267 words). Waiting on the author's title choice; the first draft's new details are still open for a yes or no.
 
 **The target:** 4,000–5,000 words, and longer if the story needs it. Claude will give a range, not a single number, because Chapters 5 and 6 both came in about a quarter under Claude's budgets.
 
@@ -553,3 +553,13 @@ The author asked for "a pass of chapter 7 looking for errors, inconsistencies, p
 - Chapter 5's one "footsteps in the corridor".
 
 The reasons are in `Chapter 7 - Changes.md`. Your-call item 15 ("I know. I used to." and *This was ours before it was anyone's.*) and item 8 ("Lord Leorin") are left for the author's review of the new details.
+
+## The combined draft (30 September)
+
+The author sent a third draft that combines Claude's chapter with material from a GPT draft, along with a comparison of the two (`Chapter 7 - Draft Comparison.md`, kept word for word). Claude agreed that it's the better chapter, with fixes, and the author answered:
+
+1. "Use the combined." It's saved unchanged in `Drafts/Chapter 7 - Untitled (Draft 3, combined).md`, and Claude's first draft and its pass stay as records (`Drafts/Chapter 7 - Untitled (Draft 2, after the first pass).md`, `Chapter 7 - Changes (first draft).md`). The first pass's open question on change 7 (the Elowen order) is settled by this: the combined draft keeps the new order.
+2. "Yes Inrandeel is a foreset in Mydea."
+3. "Yes Thaer got below on his own route." The second route report is cut, and "He must have come up from below, by some way she didn't know" is back.
+
+The author's note for the passes: "make sure no robotic AI text, speaking or explanations, pov slips or errors." Three passes followed, with 22 changes (see `Chapter 7 - Changes.md`). The light question is settled by the combined draft's lamp, now in Nereth's left hand so that her right is free for Seralune's left.

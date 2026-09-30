@@ -28,6 +28,8 @@ Past him, out on the gallery, the two guards were sitting against the wall on ei
 
 She went out to the nearer one anyway, and crouched, and held her hand in front of his mouth until she felt his breath on it, slow and even. She didn't know his face. Neither of them was the guard who had lowered his sword in the night.
 
+*He poisoned two guards to open my door, and he knocked first.*
+
 She stood up again, too fast, and had to put her hand on the wall. Then she went back inside, and he followed her in and pushed the door to behind him, and came no closer than that.
 
 "Why should I believe a word you say?"
@@ -96,9 +98,9 @@ Cyrandor said nothing.
 
 "I don't know, Your Highness."
 
-"Who put me in there?"
+"And Thaer?"
 
-"That never came down to us."
+"I don't know that either. What came down to us was about the queen."
 
 *It isn't up to me,* Thaer had said. She had spent the night asking herself who it was up to.
 
@@ -120,17 +122,13 @@ The fire had gone out in the night. Seralune looked at the grey ash in the heart
 
 "The last word we ever had of her came from Inrandeel, centuries ago. She'd gone to the elves there, to find a way for you to wake, and live, outside of that thing." He hesitated. "After that, there was nothing."
 
-"Is she alive?"
-
-"I don't know." His voice was quieter now. "I'm sorry."
-
 *Inrandeel. The forest where the elves answer to no one.* If there was anywhere Mother could have gone where nobody would bring her back, it was there.
 
-It was a long time ago. It was a forest in Mydea, and a woman who might not be in it. It was more than anyone else had given her since she woke.
+It was a long time ago. It was a forest, and a woman who might not be in it. It was more than anyone else had given her since she woke.
 
 "Why are you doing this?" she asked. "When they find out it was you—"
 
-"I'd rather they didn't." He tried to smile. "But your mother asked us to be here when you woke, and somebody had to be." His eyes went to Nereth, and stayed there a moment longer than they needed to. "It happened to be me."
+"Because she asked us to. Somebody had to be here when you woke." His eyes went to Nereth, and stayed there a moment longer than they needed to. "It happened to be me."
 
 She stood up.
 
@@ -158,10 +156,6 @@ It was Cyrandor who looked away first.
 
 Then Nereth knelt and put the shoes down in front of Seralune's feet.
 
-"These should fit. Sit down while I put them on."
-
-Seralune sat. Nereth held her heel and eased the first shoe on, then the other. The soles were soft, and for the first time since she woke, her feet weren't cold.
-
 Seralune changed behind the screen with her hands shaking, and Nereth fastened what she couldn't. The dress was rough, and loose at the waist, and it smelled of someone else's soap. Nereth put the shawl over her hair and tucked the ends in, and looked at her, and tucked them in again.
 
 At the door, Cyrandor put his hand on Nereth's arm.
@@ -172,13 +166,13 @@ They went along the gallery, away from the way Thaer had brought her last night.
 
 The roar of the falls dropped as they went down, until it was only under everything again, the way it always had been. Then there was a landing, and other stairs, and other people.
 
-The palace was waking up. Nobody here was bowing. A boy went past them with two buckets of water, slopping, and a woman with an armful of bread shouted at him for it. Somewhere close there was a laundry, because the air was warm and wet and smelled of soap, and she could hear someone beating cloth against stone. Three servants going down the stairs weren't worth a second glance. Seralune kept her head down, the way she'd been told, and found that it was easy. She had never had to do it before.
+The palace was waking up. Nobody here was bowing. A boy went past them with two buckets of water, slopping, and a woman with an armful of bread shouted at him for it. Somewhere close there was a laundry, because the air was warm and wet and smelled of soap, and she could hear someone beating cloth against stone. Nobody looked twice at three servants going down the stairs. Seralune kept her head down, the way she'd been told, and found that it was easy. She had never had to do it before.
 
 On the next landing, a woman with a basket on her hip took one look at her and pushed it into her arms. "Laundry, and don't dawdle. You're new."
 
 "She's with me," Nereth said. She took the basket back, and handed it to the next girl who passed, without breaking her step.
 
-Seralune looked back. The woman was already busy with someone else, and she hadn't even looked properly at her face. Nobody had ever told Seralune not to dawdle.
+Seralune looked back. The woman was already busy with someone else. Nobody had ever told her not to dawdle.
 
 Somewhere above them, a bell began to ring. It rang once, and stopped.
 
@@ -192,19 +186,19 @@ At the next landing she knew where they were. Or she thought she did.
 
 It was.
 
-It was plastered and whitewashed and hung with aprons on a row of hooks, and not a mark on it to say there had ever been a stair. She stood and looked at it until Nereth touched her elbow.
+It was plastered and whitewashed and hung with a row of hooks with aprons on them, and not a mark on it to say there had ever been a stair. She stood and looked at it until Nereth touched her elbow.
 
 They had gone down two more flights when the shouting started.
 
-It came from above them, very faint, then nearer as people hurried down the stairwell. She couldn't make out all of it. She heard "gone", and "asleep", and then, quite clearly, "the princess".
+It came from above them, very faint, and then less faint, running down the stairwell ahead of the feet that carried it. She couldn't make out all of it. She heard "gone", and "asleep", and then, quite clearly, "the princess".
 
-All round them, people stopped. A girl with a tray of cups stood with her mouth open, looking up. A man came out of the laundry with his sleeves rolled up and his arms red to the elbow and demanded to know what was going on, and nobody told him.
+All round them, people stopped. A girl with a tray of cups stood with her mouth open, looking up. A man came out of the laundry with his sleeves rolled up and his arms red to the elbow and asked what in the Last Dark was going on, and nobody told him.
 
 "Keep walking," Cyrandor said under his breath. "Don't look up."
 
 She didn't look up.
 
-They came out at the bottom into a long, low passage with a channel down the middle of the floor, and water running in it, carrying suds away. Grates were set in the channel every few paces, and the water went gurgling down through them. The passage was full of people, and all of them had heard the shouting, and all of them were talking at once. Seralune went through them with her head down and the shawl held close at her throat.
+They came out at the bottom into a long, low passage with a channel down the middle of the floor, and water running in it, carrying suds away. There were grates set in the channel every few paces, and the water went gurgling down through them. There were a great many people in the passage, and all of them had heard the shouting, and all of them were talking at once. Seralune went through them with her head down and the shawl held close at her throat.
 
 "You. You're the princess's maid."
 
@@ -218,13 +212,13 @@ It was the guard who had looked at her bare feet in the night, and lowered his s
 
 Nereth went on looking at him, with her free hand at her side, and didn't say a word. Cyrandor had turned back. Seralune stood a few paces on, and the people in the passage went round her.
 
-She could keep walking. The guard hadn't so much as glanced at her, and Cyrandor was already going back for Nereth. A few more steps, and the crowd would close behind her.
+She could keep walking. She knew she could. Nereth had chosen to come, and Nereth would not have wanted her to turn round.
 
 She turned round.
 
 "Let her go."
 
-The guard looked up, at her face under the shawl, and she watched him know it. He didn't shout. At first he didn't do anything at all. His hand on Nereth's arm stayed where it was, but it didn't tighten, and his eyes went down to Seralune's feet, in their borrowed shoes, and came back to her face.
+The guard looked up. He looked at her face, under the shawl, and she watched him know it. He didn't shout. At first he didn't do anything at all. His hand on Nereth's arm stayed where it was, but it didn't tighten, and his eyes went down to Seralune's feet, in their borrowed shoes, and came back to her face.
 
 "…Your Highness."
 
@@ -244,7 +238,7 @@ The key turned on the other side. Then something small struck the stone, and ran
 
 "Cyrandor." Nereth had both hands on the ring of the door. She pulled at it, and it didn't move. "Cyrandor, open it. Open the door!"
 
-On the other side, the boots arrived. Voices came through the wood all at once, too many to make out, and then one of them, louder than the rest: "He's put the key down the drain! Round by the south court!" Another voice cut across it. "Tell the prince. They've gone down the south stair." Under them, very calm, she heard Cyrandor say something she couldn't catch.
+On the other side, the boots arrived. Voices came through the wood all at once, too many to make out, and then one of them, louder than the rest: "Round by the south court! Go, go!" Under it, very calm, she heard Cyrandor say something she couldn't catch.
 
 Then the voices went further off, and she lost them.
 
@@ -270,7 +264,7 @@ They went down. The steps turned once, and again, and at the second turning she 
 
 Thaer was standing alone on the landing below.
 
-He was between them and the way on, and he wasn't holding his sword. He didn't need to. He must have come up from below, by some way she didn't know, because he was a little out of breath. He was looking at her as if he had been afraid she wouldn't be there.
+He was between them and the way on. He wasn't holding his sword. He didn't need to. He must have come up from below, by some way she didn't know, because he was a little out of breath. And he was looking at her as if he had been afraid she would not be there.
 
 *Of course he knew. This was ours before it was anyone's.*
 
@@ -282,18 +276,6 @@ She stayed where she was, three steps above him, and Nereth stopped behind her.
 
 "You've had all night."
 
-He looked up the stair past them. "Who let you out?"
-
-"Cyrandor. He stayed behind, and locked the door on us. The guards came just after." She glanced at Nereth, who had her eyes on the steps. "Please don't let Leorin hurt him."
-
-"Where?"
-
-Nereth answered. "The wash passage, Your Highness. By the iron door."
-
-Thaer went to the rail and called up the stair. "Find out who's in the wash passage. I want to speak to Cyrandor."
-
-Someone answered from above. Thaer came back to her, and she couldn't tell whether the order would be enough. But he had given it.
-
 His eyes went over her, the servant's grey, the shawl, the shoes, her hand. He looked as if he hadn't slept either. "You're exhausted. You can hardly stand."
 
 "I'm standing." She held on to the rail. "They mended it, Thaer. With your leave."
@@ -302,15 +284,7 @@ He didn't pretend. That was something. "I let them mend it. I never let them use
 
 "I was upstairs listening to them." She could hear her own voice climbing and couldn't stop it. "All night. You knew what they were doing, and you left me there."
 
-"I wanted it ready if we needed it."
-
-"If you needed to put me back."
-
-"If something happened."
-
-"Something happened to *me*, Thaer. I woke up on a floor with no light and no water, and I couldn't stand. I called for you until I couldn't speak. You came, and I followed you, and then you locked another door."
-
-He looked up at her. "I told Leorin—"
+"I told Leorin—"
 
 "I heard you." It stopped him. "Last night, outside my door. 'No one touches my sister.'"
 
@@ -318,19 +292,7 @@ He went very still.
 
 She had kept it all night. She had kept it through the blows under the floor and the guards with their swords out, and she had waited for him to come and say it to her himself, and he hadn't.
 
-"Then stay with me," he said. "I won't let him near you."
-
-"Then lock me somewhere else, Thaer, and it's the same room."
-
-"I didn't say lock you in. I said stay with me."
-
-She wanted to. He was close enough that she could have caught his sleeve. She could go back up with him, and this time make him tell her everything. But he had promised to come in the morning, and Leorin had sent someone first.
-
-"Are you going to stay outside my door until Father comes back? Every night? Every time Leorin sends someone?"
-
-"Seralune—"
-
-"Because I won't sit there waiting to see which of you comes first."
+"Then lock me somewhere else, Thaer," she said, "and it's the same room."
 
 For a long moment he didn't say anything. Below him, the stair went on down into the cold. Somewhere above them, far off, the shouting went on.
 
@@ -342,21 +304,9 @@ He stopped.
 
 He didn't.
 
-"I'm going to Mydea. Mother went to Inrandeel. I'm going to find out what she was looking for."
+"Come with me," she said.
 
-His eyes came back to hers. "Who told you that?"
-
-"Cyrandor."
-
-"That was a long time ago."
-
-"I know." Her voice shook, and she hated that it did. "A thousand years, Thaer. I know that too."
-
-He looked down at the rail. She waited for him to tell her the old man was wrong. When he didn't, she drew a breath that hurt all the way in.
-
-"Even if she's gone, the elves there might know what she found," she said. "I need to ask."
-
-"Come with me." It came out smaller than she meant it to.
+It came out smaller than she meant it to.
 
 "If I go with you, there's no one to stand in front of Leorin."
 
@@ -374,7 +324,7 @@ He could have taken it. She knew exactly how easily. He had walked her up all th
 
 His hand closed on nothing, and came down.
 
-Boots came down the stair behind them, fast. Nereth turned and pressed back against the wall. Four guards came round the turning above with their swords out. The one in front stopped at the sight of Thaer and raised his free hand to hold the others back.
+Boots came down the stair behind them, fast. Nereth turned, and pressed back against the wall. Four guards came round the turning above with their swords out, and saw who was on the landing, and pulled up so hard that the last of them nearly went down the steps.
 
 "The princess is with me," Thaer said, past her, without raising his voice. "Go back and hold the upper halls."
 
@@ -390,11 +340,11 @@ She turned back to her brother.
 
 "I was waiting for Father."
 
-"So was I."
+He said it as if it answered her. Then his eyes dropped away from hers, and she saw that he had heard it too.
 
-She said it quietly, and he looked away.
+*Waiting. All night. While they mended it under my feet.*
 
-She had so much more she could have said. She found she didn't want to say any of it. She only wanted him to come with her, and he wasn't going to.
+She had so much she could have said to that. She found she didn't want to say any of it. She only wanted him to come with her, and he wasn't going to.
 
 Thaer stepped aside, back against the wall of the landing, to leave her room.
 
@@ -404,13 +354,13 @@ She went past him. She was so close that her sleeve brushed his, and he didn't r
 
 He was standing where she had left him, looking up the stair the guards had gone, with his back to her.
 
-At the bottom of the stair a passage ran on, and where it ended another began, lower and narrower, going down. A lamp was still burning in a bracket beside the opening. Nereth took it down and sheltered the flame with her hand.
+At the bottom of the stair a passage ran on, and where it ended another began, lower and narrower, going down.
 
-"They'll be watching the gates by now," she said. "This comes out under the wall."
+"Every other way out has guards on it by now, Your Highness," Nereth said. "Nobody will think of this one."
 
-"Have you been through it?"
+"Do you know where it goes?"
 
-"They sent a few of us down once, to clear the channels when they backed up. I know it as far as the first turning, Your Highness. After that, I don't."
+"Under the palace, and out under the wall. They sent a few of us down once, to clear the channels when they backed up. I know it as far as the first turning, Your Highness. After that, I don't."
 
 Nereth looked back, the way they had come, the way she had looked back at every turning since the door. Nobody was there.
 
@@ -424,8 +374,8 @@ She listened.
 
 *I can't hear the falls.*
 
-Her feet had stopped on the last step without asking her. The lamp showed wet stone beyond the arch, and a narrow ledge beside the channel. Further in, she could see nothing at all.
+Her feet had stopped on the last step without asking her. Beyond the arch she couldn't see anything at all.
 
-Nereth was beside her, holding the lamp in her left hand. She didn't say anything, and she didn't go first.
+Nereth was beside her. She didn't say anything, and she didn't go first.
 
 Seralune reached out with her left hand, and found Nereth's, and held on. Then she went in.
