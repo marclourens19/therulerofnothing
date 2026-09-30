@@ -543,6 +543,18 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - **Ogres exist.** Huge, pale, pot-bellied, with a tusked underbite, clawed hands and rag bindings, carrying a spiked wooden club. They can speak a little. *Open:* what an ogre is in this world (question in round 2).
   - **The royal warship looks like FFXIV's *Agrius*:** a huge red hull, spined and organic-looking, with dark spires hanging beneath it and small craft below. *To reconcile:* Chapter 5 describes it as "long and dark and plated all over" with blue-green light along its underside (round 2).
 - **The author's detailed proposal (30 September)** is the working design, kept verbatim in `Volume 1/Chapter 6 - Design Proposal.md`: eight scenes, about 6,000 words, keeping the five beats. The turn is Silas's plan to take Gerolt's sword to Marta first while Alaric waits outside the town; Alaric leaves because of it. Alaric does two small things in the ogre fight, Wena isn't hurt, and afterwards Silas explains the route and agrees that, if it's clear, Alaric shows Marta the sword himself. Alaric gives his name ("It's Alaric, by the way."). *Proposed, not yet approved:* the details in round 2 of the design file (the ship's look and route, the ogre's nature, Silas's cost, Kelmend's response and others).
+- **The sequence (the author, 30 September):** 22 steps in reading order, now the chapter's shape (in the design file). Settled by it:
+  - later morning, and he eats a little;
+  - at the smoke he thinks of burying Gerolt and doesn't ask;
+  - Silas warns him about a specific danger in the forest;
+  - farm people talk about Gerolt's smoke as if he's alive;
+  - Silas plans to take the sword to Marta first, and Alaric leaves while Silas scouts towards the south wall;
+  - the ogre repeats copied human words; Alaric strikes twice, clumsily;
+  - Silas's burned hand is damaged further;
+  - the snarky reprimand, one limited true line about Gerolt, and the deal (together if it's clear);
+  - Alaric helps tie the bandage and gives his name;
+  - Kelmend's lights, then the ship; Silas starts to take the battlefield seriously, and they turn back to cover.
+  - *Open (round 3):* Silas's hidden reason, how the warning is given, the sword, how Silas kills it, the ship's colour and route, Kelmend's response, and the title.
 
 - **A day on the road first** (29 September). The author: "I recommend having a day on the road first, having Alaric distrust Silas, and Silas not responding to questions." So Marta's door moves to a later Alaric chapter. What turns the day is round 2 of `Volume 1/Chapters 5-15 - Outline.md`.
 

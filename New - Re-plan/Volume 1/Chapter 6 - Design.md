@@ -1,6 +1,6 @@
 # Chapter 6: Design
 
-Started 29 September 2026. **Status:** round 2 is waiting on the author. The author's detailed proposal (30 September) is the working design, kept verbatim in `Chapter 6 - Design Proposal.md`. Nothing is written yet. The order stays the same as for every chapter: the design is agreed, then a dialogue round, then Claude says the chapter is ready and waits for the go-ahead.
+Started 29 September 2026. **Status:** the author's 22-step sequence (30 September, below) is the chapter's shape. Round 3 asks what it leaves open; then comes the dialogue round. The author's detailed proposal is kept verbatim in `Chapter 6 - Design Proposal.md`. Nothing is written yet. The order stays the same as for every chapter: the design is agreed, then a dialogue round, then Claude says the chapter is ready and waits for the go-ahead.
 
 **The target** (29 September): 4,000–5,000 words, and longer if the story needs it. Chapter 5 taught that length comes from what happens, so this design plans enough happening from the start: six scenes, each with something that changes.
 
@@ -133,3 +133,55 @@ Letters for answering, with Claude's pick first. These cover the proposal's six 
 - **S. The ending.** 1: "Alaric. Get Wena into cover.", as proposed *(recommended)*. 2: Silas looking east after it, saying nothing.
 - **T. Length.** 5,500–6,500 words, about 6,000 *(recommended)*.
 - **U. Title.** Open. Some ideas: *The Long Way Round*, *A Name Nobody Asked For*, *What the Forest Keeps*. The old Chapter 6 title, *The Road Owed to the Dead*, fits Chapter 8 better, because that's where the road ends.
+
+## The sequence (the author, 30 September)
+
+The author answered round 2 with the chapter as the reader meets it, in 22 steps: "It begins with reluctant companionship, breaks into a disagreement, and ends with Alaric and Silas beginning to cooperate just as the danger grows." Kept as sent, with Claude's rough word counts (about 6,500 in all).
+
+| Steps | What happens | Words |
+|---|---|---:|
+| 1–2 | **The cave.** Later morning; Silas nudges his foot and says they need to move. Alaric wakes sore beside Wena and remembers. Silas is already packing, and Alaric realises he really means to come, and wonders why. Silas makes him eat a little (an irritated exchange, Wena nosing at the sack). Alaric notices Silas's bandaged hand, and takes the sword; how he carries it is set here. | 600 |
+| 3 | **The smoke.** Daylight shows the forest ahead and smoke beyond the river, towards the farm. Alaric stops, thinks of Gerolt's body left there and of burying him, and doesn't ask. Wena lingers. Silas checks on them and waits, impatient. Alaric turns away and follows several paces behind. | 450 |
+| 4 | **Practical questions.** Kelmend, the route, why not the road; Silas answers these more readily. Something they come across gives Silas a reason to warn him about a specific danger in the forest. Alaric hears it but underestimates what travelling alone would mean. | 600 |
+| 5 | **Ordinary people.** From cover, a small farm or yard, people busy with their own task. Gerolt's smoke comes up in passing, and they talk as if he might still be alive. Alaric and Silas both know otherwise; Alaric watches Silas's face, and neither goes down to tell them. | 450 |
+| 6 | **The personal questions.** Why are you helping, how did you know Gerolt, why did Marta's name do that to you. Silas turns evasive; Alaric presses, because the answers are connected: this man knows the one who saved him and the one he's been told to find. It gets strained. | 550 |
+| 7 | **The arrangement.** Silas means to take the sword to Marta first while Alaric waits outside. Alaric objects: Gerolt told him to show her and give the message. Silas: a hunted boy at the inn could endanger everyone. Alaric sees the point but won't hand over the whole decision. | 400 |
+| 8 | **Silas scouts.** He tells Alaric to stay in cover while he checks the way towards the south wall. Nothing is settled, and Alaric is being told to wait again. | 150 |
+| 9 | **Alaric leaves.** He weighs waiting, then goes to reach Marta himself, off the road, with Wena and the sword. For a while, deciding for himself feels like progress. | 350 |
+| 10–14 | **The ogre.** Wena reacts to something he hasn't seen and barks; it comes into view and turns towards them; he calls her and runs. Tired, on bad ground, he's caught by the ankle and lifted, and its copied human words come close to his face. He swings at what he can reach near its face; clumsy, but it delays the bite. Silas, led back by the barking and noise, attacks to make it let go. Alaric falls, winded; it turns on Silas. Alaric gets Wena clear and, if it reaches for her, strikes again. Silas finishes it, and his burned hand is damaged further. | 1,100 |
+| 15–16 | **The aftermath.** Alaric checks Wena; Silas makes sure he can stand. Then the snarky reprimand, and Alaric apologises or gets defensive. Then the real argument: why the sword and meeting Marta matter to him; the route and the danger Silas wanted to check; one limited, true acknowledgement of knowing Gerolt. The deal: if the way is clear, they go together and Alaric shows Marta the sword himself; if there's a specific danger, they stop and look at it. | 700 |
+| 17 | **The hand.** Silas struggles with the bandage; Alaric holds the cloth or helps tie it, and gives his name, pointing out Silas never asked. Silas starts using it, without ceremony. | 300 |
+| 18–19 | **Walking differently, and Kelmend.** Alaric walks within speaking distance; Silas offers what's ahead without being asked; they're still irritated. At dusk, Kelmend's lights: walls, houses, movement. For a moment, reaching Marta feels possible. | 400 |
+| 20–22 | **The ship.** A low sound or change overhead; Alaric slowly makes out the enormous shape, its plating and blue-green light. Wonder first, then Silas names Natharul. Silas watches its course towards the river and the way they came; the battlefield story is harder to dismiss now, and Alaric sees his attention change without knowing what he's concluded. Kelmend's response (undecided). They stop going towards the wall; Silas heads for cover, and this time Alaric understands why. | 650 |
+
+**What the sequence settles from round 2:** A (the proposal, with changes), B (later morning), C (he eats a little), D (thinks of burying Gerolt, doesn't ask), F (towards the south wall), G (a warning, now about a specific danger), H (the neighbours talk about Gerolt's smoke), I (the ogre copies human words), K (the hand), L (the bandage), M (the snark), N (one limited, true line about Gerolt), Q (Silas reassesses, unspoken), S (they head for cover). The chapter now runs to about 6,500 words, which answers T.
+
+### Claude's notes on the sequence
+
+- **Step 5 is the hinge.** Watching Silas hear Gerolt spoken of as alive is what starts step 6: Alaric has just seen that it costs Silas something. So step 6 should open from that look, not from nowhere.
+- **Step 7 grows out of step 6.** Silas stops a personal question by saying what's going to happen at Kelmend instead. His evasion turns into the plan, which is worse for Alaric than silence.
+- **The warning (step 4) is the biggest risk.** If Silas points at ogre tracks and Alaric walks off alone an hour later, he looks stupid, and the proposal's own test fails. The fix comes from what Alaric is: he has no memory. Silas says "Ogre" over a torn-up carcass, and the word means nothing to him. When he asks what one is, Silas gives him "Something you don't want to meet" and walks on. It's one more non-answer, so the warning is fair, Alaric's mistake is understandable, and it's Silas's habit of explaining nothing that sends him in. Nobody tells him they talk, so that's the shock.
+- **Silas's cost has a cause in Chapter 3.** He burned his hand heating his blade inside the elf. If he does the same thing to finish the ogre, knowing what it costs, Alaric sees the steel go red and Silas grip it anyway. The damage to his hand is then something Silas chooses, done for him, and it's why he can't tie the bandage.
+- **Step 20 has plating and blue-green light, but no red.** Was that meant (Chapter 5's look only), or is the *Agrius* colour still wanted at dusk?
+- **A laugh.** There's still no set place for Alaric's humour. The best places are steps 2 (Wena and the sack) and 4 (his thoughts on Silas's answers).
+
+### The 100/100 check, after the sequence
+
+The sequence already does the big things: the farm hinge, the chosen cost, the name in a shared task, and Silas's belief changing without a word. What would still lift it:
+1. **The warning as a non-answer** (above). The chapter's theme becomes its cause: what Silas won't explain is what puts the boy in the ogre's hand.
+2. **The steel going red.** Alaric has seen that trick once, killing an elf, and hated it. Seeing it used for him, with the hand it costs, changes what it means without anyone saying so.
+3. **Kelmend's response has to be decided**, because step 22 depends on it. "They knew" (the guards don't move) gives the most. It explains why they turn back, and it proves Silas right about the gate on the same day he conceded Alaric could come in.
+4. **Keep Silas calling him "boy" until step 17,** so the first "Alaric" is heard.
+
+## Round 3 (asked 30 September)
+
+- **E. Silas's secret reason for seeing Marta first** (not on the page). 1: he wants to be the one who tells her Gerolt is dead *(recommended)*. 2: he doesn't know if she'll let him in. 3: both.
+- **G2. The warning.** 1: a torn carcass and big prints; "Ogre", which means nothing to Alaric, and Silas won't explain *(recommended)*. 2: Silas explains properly, and Alaric goes anyway, sure he can avoid it.
+- **I2. Does Silas name it during the fight or after?** 1: he's named it already, at the warning *(follows from G2 1)*. 2: not at all.
+- **J. The sword.** 1: carried bare in his hand, as Chapter 3 left it, heavy and awkward, and Silas grumbles *(recommended)*. 2: wrapped in sacking and tied.
+- **V. How Silas kills it.** 1: he heats his blade in it, as with the elf, which is what tears his hand open *(recommended)*. 2: steel only, and the hand splits from gripping.
+- **H2. Magic at the farm.** 1: none; keep it about the people *(recommended)*. 2: a small, ordinary use of magic.
+- **O. The ship's look at dusk.** 1: dark red and spined with the blue-green light *(recommended)*. 2: Chapter 5's look only, as step 20 has it. And the small craft below it, in or out?
+- **P. The route.** Is Natharul west of Kelmend? Did the ship stop anywhere on the way?
+- **R. Kelmend's response.** 1: the guards on the wall don't move, the people do, "They knew" *(recommended)*. 2: alarm bells. 3: people cheer.
+- **U. Title.**
