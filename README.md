@@ -33,6 +33,7 @@ The story is being re-planned from the beginning. Current work lives in **New - 
   - `Chapter 5 - Deep Revision Plan.md`: the author's plan for revising Chapter 5 in depth (29 September), saved unchanged. It's a proposal for discussion; Claude's reading of it and the questions on it are at the end of `Chapter 5 - Design.md`.
   - `Chapter 6 - Design.md`: the design of Chapter 6, Alaric's day on the road (started 29 September).
   - `Chapter 6 - Design Proposal.md`: the author's detailed proposal for Chapter 6 (30 September), kept word for word.
+  - `Chapter 6 - Dialogue.md`: the author's dialogue pass for Chapter 6 (30 September), kept word for word.
   - `Drafts/`: earlier versions of the chapters, kept unchanged.
 
 ## The rewriting skill
