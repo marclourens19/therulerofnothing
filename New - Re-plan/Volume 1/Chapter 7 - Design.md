@@ -319,3 +319,29 @@ The author asked Claude to look at the seven items the working design lists as u
    - **A stronger option (the author's call):** make the guard who knows Nereth the second guard from Chapter 5, the one who lowered his sword and said "Leave it". He's the one who saw Nereth stand between Seralune and the swords.
      - This only works if the night watch was relieved before dawn, so the drugged guards are the morning's pair.
      - Then the one man who showed them mercy last night is the one who has to take Nereth's arm this morning. His hesitation can be part of the time they gain.
+
+### The working design, updated again (30 September)
+
+The author folded Claude's test of the seven items into `Chapter 7 - Working Design.md`, and named what's still open for staging:
+- the delay at Cyrandor's door;
+- what Thaer's intervention can actually enforce, and for how long;
+- why Thaer doesn't simply keep her somewhere else in the palace;
+- a small remembered moment that makes "neither will I" clear.
+
+### Claude's proposals for those
+
+1. **Cyrandor's door.**
+   - He locks the connecting door with the household key he carries, and keeps the key.
+   - The guards have to go the long way round, and one runs to report which way she went.
+   - It buys minutes, not safety.
+2. **What Thaer can enforce.**
+   - Canon: "nobody can make a Ruler do anything". Leorin can argue with him, but not command him.
+   - So when the guards come down behind the women, Thaer sends them back ("The princess is with me. Go back and hold the upper halls."), and they obey a prince and a Ruler in front of them.
+   - That holds until Leorin hears and sends others in the king's name, which is a matter of an hour or so. Then Thaer has to face him, and that's the cost. Thaer acts against the authority he gave way to in Chapter 5 ("It isn't up to me"), and pays for it, but he doesn't gain command of the court.
+3. **Why he doesn't keep her somewhere else in the palace.** This comes from Chapter 5:
+   - Leorin speaks for the king while he's away, and that authority reaches every door in the palace. Thaer can't stand at her door every hour.
+   - He promised to be back in the morning, and this morning proved it wasn't enough. The order to take her down came while he was away.
+   - So inside the palace, Leorin can always reach her; outside it, he can't. Letting her go is the only protection Thaer can actually give her today. He doesn't have to say so, but she can: "Then lock me somewhere else, and it's the same room."
+4. **Making "neither will I" clear.** *Proposed:* make the mother's original say it outright: "Don't cry. The falls never stop, and I'll never stop looking for you." The Order's version, "The falls do not stop, and neither will we", then has both the worn wording and the changed meaning.
+   - **The remembered moment:** she was small, lost in the palace one night and crying, and her mother found her. Keep it small and within her own childhood, with nothing about Alaric.
+   - *The author's call:* the moment, and whether the original says "looking for you" or "finding you".
