@@ -1,6 +1,6 @@
 # Chapter 6: Design
 
-Started 29 September 2026. **Status:** written on 30 September as `Chapter 6 - Untitled.md` (about 5,100 words; the first draft is saved in `Drafts/`). The author reviews it next, and will choose the title later.
+Started 29 September 2026. **Status:** written on 30 September as `Chapter 6 - Untitled.md`. The author rated it "about 90/100", and round 1 of the change list applies their five notes (about 5,030 words). The title is still to come.
 
 **The target** (29 September): 4,000–5,000 words, and longer if the story needs it. Chapter 5 taught that length comes from what happens, so this design plans enough happening from the start: six scenes, each with something that changes.
 

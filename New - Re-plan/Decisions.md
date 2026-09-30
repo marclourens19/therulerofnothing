@@ -566,6 +566,13 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - Silas calls him "boy" until the name exchange; the narration calls him Alaric throughout.
   - **Title:** the author will choose later.
 - **Written (30 September)** as `Volume 1/Chapter 6 - Untitled.md`, about 5,100 words. Claude's first draft, waiting on the author's review. The draft's new details are listed for a yes or no in the design file ("The first draft").
+- **The author's review (30 September): "about 90/100".** The shorter length stays ("I wouldn't extend it to 6,500 simply to reach the earlier estimate"). Five notes, applied as round 1 of `Volume 1/Drafts/Chapter 6 - change list.json` (see `Chapter 6 - Changes.md`):
+  1. Alaric's grievance is the missing arrangement, not the danger he'd already been told about.
+  2. Silas was checking how they could get to the south wall.
+  3. Cut the explaining in the fight, and "holding", not "pinned".
+  4. Vary the rhythm in the calmer descriptions (the ogre's look, Kelmend, the ship overhead).
+  5. Introduce the ship once.
+- **A general lesson from it:** a run of "and…and" suits moments that arrive faster than the viewpoint character can take them in, like a capture or a fight. In calm description it flattens the emphasis, so give selected details their own sentences.
 
 - **A day on the road first** (29 September). The author: "I recommend having a day on the road first, having Alaric distrust Silas, and Silas not responding to questions." So Marta's door moves to a later Alaric chapter. What turns the day is round 2 of `Volume 1/Chapters 5-15 - Outline.md`.
 

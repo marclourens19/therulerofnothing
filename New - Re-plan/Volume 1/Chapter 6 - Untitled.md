@@ -254,7 +254,7 @@ She stood with her head low and her legs braced, staring at the bottom of the ho
 
 Then Wena began to bark, and the fallen tree sat up.
 
-It was bigger sitting than Silas was standing. Its skin was a dirty white all over, and its gut hung over a band of rags tied round its middle, and two tusks came up out of its lower jaw on either side of its mouth. There was a club across its knees, a whole branch with the bark still on, studded with spikes. It turned its head towards the barking, slowly, until it was facing straight up the slope at him.
+It was bigger sitting than Silas was standing. Its skin was a dirty white all over. Its gut hung over a band of rags tied round its middle, and two tusks came up out of its lower jaw, one on either side of its mouth. Across its knees lay a club, a whole branch with the bark still on, studded with spikes. Slowly, it turned its head towards the barking, until it was facing straight up the slope at him.
 
 *That's it. That's the—it was lying up, it was lying up right here, and I walked straight—*
 
@@ -288,7 +288,7 @@ The words were clear. It sounded pleased, as though someone had put a bowl in fr
 
 Then its mouth opened.
 
-It brought him in towards its mouth. He saw the tusks and the wet teeth between them, and he twisted round and swung the sword at its face, at anything, because otherwise he was going into that mouth. The blade hit something. It dragged, and caught, and tore free.
+It brought him in towards its mouth. He saw the tusks and the wet teeth between them, and he twisted round and swung the sword at its face, at anything. The blade hit something. It dragged, and caught, and tore free.
 
 The ogre screamed.
 
@@ -300,7 +300,7 @@ Something black swung in at the edge of what he could see, and the hand round hi
 
 He fell. He hit the ground on his back, and the breath was knocked out of him and wouldn't come back. He lay with his mouth open and his chest locked, looking up through the branches, and couldn't do anything at all.
 
-When he could turn his head, he saw Silas on the slope above him, and the ogre between them with its back to Alaric now. Blood was running down the arm Silas had cut, and down its face from the cheek Alaric had cut, and dripping off both. It had no club. It was grabbing at Silas with its open hands, and Silas gave ground up the slope with his blade held out in front of him. He couldn't get in. Every time he tried, a hand came at him, and he had to go back again, and the leaves slid under him. One hand caught his cloak and dragged him half off his feet before he tore free.
+When he could turn his head, he saw Silas on the slope above him, and the ogre between them with its back to Alaric now. It was grabbing at Silas with its open hands, and Silas gave ground up the slope with his blade held out in front of him. Every time he tried to get in, a hand came at him, and he had to go back again, and the leaves slid under him. One hand caught his cloak and dragged him half off his feet before he tore free.
 
 Wena was at its heels, barking and snapping and darting back.
 
@@ -316,7 +316,7 @@ It wasn't dead. It screamed and reached down with both arms, past Silas, for Ala
 
 Alaric grabbed Wena's collar and pulled her back. His ankle gave way under him, and he fell in the leaves right beneath it, with Wena on top of him, and a hand came down at them: the one he had cut, with the blood running off the back of it. It missed his face by a hand's width and raked the ground beside his head.
 
-Silas was still there, against it. His feet were sliding. He had it pinned to the tree, and it was pulling at the blade and at him, and he didn't let go.
+Silas was still there, against it. His feet were sliding. He was holding it against the tree, and it was pulling at the blade and at him, and he didn't let go.
 
 *If he lets go—*
 
@@ -360,7 +360,7 @@ Alaric nodded. After a while, he said, "I wasn't trying to make things harder. I
 
 "And I was trying to get you there without bringing those bastards down on her inn."
 
-"Then tell me that. You wouldn't tell me anything about her, and then you said you were taking the sword and I had to wait outside."
+"Then why couldn't you tell me what you were doing? You said you were taking the sword and I had to wait outside."
 
 "I wasn't going to leave you sitting there all night."
 
@@ -368,7 +368,7 @@ Alaric nodded. After a while, he said, "I wasn't trying to make things harder. I
 
 Silas let the cloth rest across his knee.
 
-"There's a way along the south wall. That's what I was checking. When we get there, I'll have a look at the inn. If it's clear, we both go in, and you show her the sword yourself. If there are riders, we wait. All right?"
+"There's a way along the south wall. I was checking how we could get there. When we do, I'll have a look at the inn. If it's clear, we both go in, and you show her the sword yourself. If there are riders, we wait. All right?"
 
 "If you tell me what you're checking. Don't just tell me to sit somewhere and disappear."
 
@@ -410,7 +410,7 @@ Alaric put his hand on Wena's head.
 
 They went down out of the hollow and up the far side of it. Every step downhill jarred Alaric's ankle. After the first few he gave up trying to keep up and just walked, and Silas was never far ahead. Silas had slowed down. He didn't say so, and Alaric didn't either.
 
-Once, a bird clattered up out of the bushes beside the path, and Wena threw herself against Alaric's legs, and he had the sword up before he knew it. It was only a bird. His heart took a long time to believe it.
+Once, a bird clattered up out of the undergrowth beside them, and Wena threw herself against Alaric's legs, and he had the sword up before he knew it. It was only a bird. His heart took a long time to believe it.
 
 Alaric walked close enough to talk, and now and then Silas talked without being asked.
 
@@ -442,7 +442,7 @@ Across the stream, the trees went on a little longer and then began to thin, and
 
 Alaric came up beside him and out onto the grass at the top of a long slope, and saw Kelmend.
 
-It lay at the bottom of the slope, across fields gone grey in the dusk. There was a wall round it, and roofs inside the wall, and smoke going up from a great many chimneys. Outside the wall, all along the near side of it, there were more roofs, lower and closer together, pressed right up against the stones. A road ran across the fields to a gate, and there were still people on it, a cart and a few more on foot, all going in. Lights were coming on in the windows, and on top of the wall somebody was walking along lighting torches, one after another.
+It lay at the bottom of the slope, across fields gone grey in the dusk. A wall ran round it, with roofs crowded inside and smoke going up from a great many chimneys. Outside the wall, all along the near side of it, there were more roofs. They were lower and closer together, and pressed right up against the stones. A road ran across the fields to a gate, and there were still people on it: a cart, and a few more on foot, all going in. Lights were coming on in the windows. On top of the wall, somebody was walking along lighting torches, one after another.
 
 "South gate," Silas said, and pointed to the end of the wall nearest them, where the road went in.
 
@@ -450,7 +450,7 @@ Somewhere by that gate there was an inn, and Marta was in it.
 
 Alaric didn't know what she looked like. He pictured it anyway: a door, and a room with a fire in it, and a woman he didn't know looking at Gerolt's sword and knowing it. *The old fool sent me.* He couldn't see any further than that. He didn't need to. After that, there would be somebody who knew what to do.
 
-He let himself sit down on the grass. Wena lay down beside him with her head on her paws. A dog was barking somewhere down in the town, and Wena's ears lifted at it and then dropped again. The wind came up the slope smelling of chimney smoke and of somebody's supper, and Alaric was hungry again. Behind the town, the last of the sun was going.
+He let himself sit down on the grass. Wena lay down beside him with her head on her paws. A dog was barking somewhere down in the town, and Wena's ears lifted at it and then dropped again. The wind came up the slope smelling of chimney smoke and of somebody's supper, and Alaric was hungry again. Behind the town, the sun was going down.
 
 "We can still get to her tonight, can't we?"
 
@@ -464,11 +464,9 @@ Wena's head came up off her paws.
 
 Alaric turned to the trees, then to Silas, and then up, where Silas was looking.
 
-Something was coming out of the last of the light beyond the town.
+Beyond the town, against what was left of the sunset, there was a shape too big to be anything. He couldn't tell how far off it was. Then it was over the wall, and the torches along the top of it looked tiny beneath it. The hum grew until he could feel it in his teeth.
 
-At first it was only a shape against the last of the light, too big to be anything, and he couldn't tell how far off it was. Then it was over the wall, and the torches along the top of it were tiny underneath, and still it came on, and the hum grew until he could feel it in his teeth.
-
-The shape overhead kept growing. Alaric found the bow, then the dark red plating behind it, and the spines beneath. Blue-green light ran along its underside.
+It kept growing. Alaric found the bow, then the dark red plating behind it, and the spines beneath. Blue-green light ran along its underside.
 
 He was on his feet without having decided to stand. It was the biggest thing he had ever seen move, and it moved so slowly that it seemed to hang there. He forgot his ankle. He forgot to be afraid of it.
 
@@ -484,7 +482,7 @@ A bell began ringing in Kelmend. Alaric looked towards the town, then back up at
 
 "No. It's going past us."
 
-It went over them. The hum filled everything, and the blue-green light slid across the grass and across Wena, flat against Alaric's legs, and across Silas's upturned face, and then it was past. Down on the wall, the torches had stopped going on and started moving.
+It went over them. The hum filled everything. Blue-green light slid across the grass, and across Wena, flat against Alaric's legs, and across Silas's upturned face. Then it was past. Down on the wall, the torches had stopped going on and started moving.
 
 The ship carried on east, low and slow, turning first one way and then the other, out over the trees they had come through all day. Silas watched it all the way towards the river. Then he looked at Alaric, and at the sword hanging from his hand.
 
