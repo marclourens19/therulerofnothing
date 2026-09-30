@@ -616,7 +616,7 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 - **The author's review (30 September):** fewer "and" chains in quiet passages; Thaer only "a little out of breath"; the "dawdle" line cut. Done.
 - **The author's revision (30 September)** is now the chapter. Claude changed only the house style (quotes, "any more"). The previous version and its changes are kept in `Drafts/` and `Chapter 7 - Changes (combined draft).md`.
 - **Claude's six notes on the revision (30 September)** were applied at the author's request, as `Volume 1/Chapter 7 - Changes.md`.
-- **Three final passes (30 September)** followed, at the author's request. Chapter 7 is finished at 4,203 words.
+- **Three final passes (30 September)** followed, at the author's request. After them, the author's final Word file restored two lines in the author's own wording. Chapter 7 is finished at 4,218 words and matches that file word for word.
 
 ## Alaric
 

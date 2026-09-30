@@ -230,11 +230,12 @@
       "title": "Why Thaer stays",
       "kind": "changed",
       "tags": [
-        "logic"
+        "logic",
+        "stair"
       ],
       "before": "\"I have to stay here and deal with Leorin. If I leave with you, he can send whoever he likes after you.\"",
-      "after": "\"I have to stay and deal with Leorin. While I'm here, he can't send anyone after you.\"",
-      "why": "Note 3: if Thaer went with her, anyone Leorin sent would have to get past him, so leaving didn't expose her. His reason is that staying lets him stop the pursuit at its source.",
+      "after": "\"I have to stay and deal with Leorin. If I leave with you, he can send whoever he likes after us.\"",
+      "why": "Note 3: if Thaer went with her, anyone Leorin sent would have to get past him, so leaving didn't expose her. His reason is that staying lets him stop the pursuit at its source. *Stair:* The author's own wording, from their Word file of 30 September. \"After us\" answers the problem with the first version: if Thaer went too, Leorin could hunt them both.",
       "decision": "accepted",
       "decision_short": "your notes 1–6 (30 September).",
       "decision_note": "The author asked for Claude's notes 1–6 on the revision as a change list (30 September)."
@@ -245,11 +246,12 @@
       "kind": "changed",
       "tags": [
         "hurt",
-        "pass1"
+        "pass1",
+        "stair"
       ],
       "before": "\"Then why couldn't you tell me that?\" Her hand tightened around the rail. \"I waited for you all night, Thaer. I thought you could help me understand what was happening. I… I thought *you*, of all people, would help me.\"",
-      "after": "\"Then why couldn't you tell me that?\" Her hand tightened on the rail. \"I waited for you all night.\"",
-      "why": "Note 2: the ending explained the hurt. The author's comparison praised \"So was I\" because the hurt \"pass[es] through the dialogue rather than having the narration explain it\". \"I waited for you all night\" answers his \"I was waiting for Father\" in the same way, and \"He looked away\" does the rest. The name comes out with note 1. *Pass 1:* House style uses \"round\", not \"around\", and \"on the rail\" is plainer anyway.",
+      "after": "\"Then why couldn't you tell me that?\" Her hand tightened on the rail. \"I waited for you all night, Thaer. I thought *you*, of all people, would help me understand.\"",
+      "why": "Note 2: the ending explained the hurt. The author's comparison praised \"So was I\" because the hurt \"pass[es] through the dialogue rather than having the narration explain it\". \"I waited for you all night\" answers his \"I was waiting for Father\" in the same way, and \"He looked away\" does the rest. The name comes out with note 1. *Pass 1:* House style uses \"round\", not \"around\", and \"on the rail\" is plainer anyway. *Stair:* The author's own wording, from their Word file of 30 September. It keeps one line of the hurt, \"*you*, of all people\", as Claude's note offered, and ends on \"understand\".",
       "decision": "accepted",
       "decision_short": "your notes 1–6 (30 September).",
       "decision_note": "The author asked for Claude's notes 1–6 on the revision as a change list (30 September)."

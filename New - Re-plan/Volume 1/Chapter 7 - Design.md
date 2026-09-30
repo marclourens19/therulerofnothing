@@ -1,6 +1,6 @@
 # Chapter 7: Design
 
-Started 30 September 2026. **Status:** finished (30 September). This is the author's revision with Claude's six notes and three final passes applied: 24 changes in `Chapter 7 - Changes.md`, 4,203 words.
+Started 30 September 2026. **Status:** finished (30 September), 4,218 words. It matches the author's final Word file word for word. The author's revision has Claude's six notes and three final passes, then two lines back in the author's words.
 
 **The target:** 4,000–5,000 words, and longer if the story needs it. Claude will give a range, not a single number, because Chapters 5 and 6 both came in about a quarter under Claude's budgets.
 
@@ -598,3 +598,10 @@ The author: "make 1-6 as a change list". All six are applied, 20 changes in `Cha
   - "on the rail".
 - **Pass 2:** Cyrandor's hands "folded", like Nereth's in Chapter 5.
 - **Pass 3:** "He didn't." after "Then tell me!", because "He didn't answer" came twice on the stair.
+
+**The author's Word file (30 September).** The author asked for a word-for-word check. It matched the chapter except for two lines, and those are now the author's wording:
+
+- "If I leave with you, he can send whoever he likes after us."
+- "I waited for you all night, Thaer. I thought *you*, of all people, would help me understand."
+
+The chapter and the Word file are now identical.
