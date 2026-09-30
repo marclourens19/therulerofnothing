@@ -261,6 +261,8 @@ The key exchanges, in order. Each has Claude's versions in the characters' voice
 1. "It's Alaric, by the way." / Silas looked at him. / "My name. You never asked." / "All right, Alaric. Hold this while I tie it." (the proposal's; *recommended*, because it's plain and it's a task)
 2. As 1, but Silas says it once to himself first: "Alaric." Then: "Hold that end."
 
+**The grip (step 14, the author's condition).** Claude's proposal: Silas drives the blade up under its ribs as it goes for Wena, and the weight of it pins the ogre back against a trunk. Its other arm is still reaching for Alaric and the dog on the ground. If Silas lets go to wrap his hand, the ogre comes off the tree and onto them, so he holds on and heats the steel until it stops. The choice stays his. The alternative, the ogre clamping its own hand over his, takes the choice away, so Claude doesn't recommend it.
+
 **D14. The ship and the bell (steps 20–22).** It's searching for the farm: it comes in low and slow, turns, and goes on east over the river.
 - "What is that?" / A long wait, and Silas doesn't take his eyes off it. "Natharul." Then the bell starts on the wall.
 - "Is it coming here?" / "No." Silas watches it turn out over the river, the way they came, and then he looks at Alaric for longer than he looked at the ship, and says nothing about why.
