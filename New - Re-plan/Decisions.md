@@ -580,6 +580,16 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 
 - **Design started (30 September)** in `Volume 1/Chapter 7 - Design.md`: a proposed five-scene shape (the door; what Cyrandor tells her; the choice; out through the palace; the stair) and round 1 of 13 questions, with the "100/100" answer.
 - **The author's design and lore review (30 September),** kept verbatim in `Volume 1/Chapter 7 - Design Review.md`. It gives an 18-beat sequence (about 5,000 words) as the working shape, and three causal problems to solve before drafting: who is resealing her this morning; a usable lead for her mother; and why Thaer, whose Dark can cut anything, fails to bring her back. Round 2 is in the design file.
+- **Round 2 answers (30 September),** in the updated review (§18) and the design file:
+  - **Leorin** insists on the sealing because he sees protecting the kingdom as his duty.
+  - **The guards at her door** are asleep from a sleeping poison in their drinks.
+  - **The queen's last word** came from **Inrandeel**, centuries ago, and nothing since.
+  - **Thaer** was already on his way to her room. The alarm is guards shouting that she's gone and the door guards are asleep.
+  - **Cyrandor** stays to stop the guards; his fate is unknown. He's Nereth's mentor, with no childhood story on the page. He has never heard of Elowen, and doesn't know who carried out the ancient sealing.
+  - **Nereth** weighs seeing the world against leaving him.
+  - **No ring.**
+  - **The chapter ends at an ominous aqueduct entrance** in an abandoned part of the palace, not the forest. The dread comes from what Seralune notices.
+  - *Open:* Thaer's decision at the stair, and round 3 in the design file.
 
 ## Alaric
 
