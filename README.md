@@ -38,6 +38,7 @@ The story is being re-planned from the beginning. Current work lives in **New - 
   - `Chapter 7 - Design.md`: the design of Chapter 7, Seralune's escape (started 30 September).
   - `Chapter 7 - Design Review.md`: the author's design and lore review of Chapter 7 (30 September), kept word for word.
   - `Chapter 7 - Working Design.md`: the author's consolidated design for Chapter 7 (30 September), now the working design.
+  - `Chapter 7 - Untitled.md`: Chapter 7, Claude's first draft (30 September), waiting on the author's review and a title.
   - `Drafts/`: earlier versions of the chapters, kept unchanged.
 
 ## The rewriting skill

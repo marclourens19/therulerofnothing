@@ -606,6 +606,7 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - Kept: "I've served here all my life", "Mind her hand. And mind yourself." and "That's a wall, Your Highness."
   - Cut: "I serve in this house", and her mother taking her to Inrandeel.
   - **Design and dialogue settled; waiting for the go-ahead.**
+- **Written (30 September)** as `Volume 1/Chapter 7 - Untitled.md`, about 3,850 words. Claude's first draft, waiting on the author's review; the new details are listed for a yes or no in the design file ("The first draft").
 
 ## Alaric
 

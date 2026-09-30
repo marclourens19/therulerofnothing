@@ -1,6 +1,6 @@
 # Chapter 7: Design
 
-Started 30 September 2026. **Status:** the design and dialogue are settled (30 September). The chapter is ready to write and waits for the author's go-ahead.
+Started 30 September 2026. **Status:** written on 30 September as `Chapter 7 - Untitled.md` (about 3,850 words; the first draft is saved in `Drafts/`). Waiting on the author's review; the title is to come.
 
 **The target:** 4,000–5,000 words, and longer if the story needs it. Claude will give a range, not a single number, because Chapters 5 and 6 both came in about a quarter under Claude's budgets.
 
@@ -487,3 +487,38 @@ The author held off on "yes to all". **Settled:**
    - Her mother taking her to the edge of Inrandeel: **left out for now.**
 
 **The design and dialogue are settled.** The tests for the prose: Thaer's restraint feels hard for him, Nereth's leaving feels voluntary, and Cyrandor's absence goes on weighing on them after the door closes.
+
+## The first draft (30 September)
+
+The author said "okay write the chapter". The draft is in `Chapter 7 - Untitled.md`, with an unchanged copy in `Drafts/Chapter 7 - Untitled (Draft 1).md` for later change lists. The style check is clean. The heading is "Chapter 7" until the author chooses a title.
+
+**Length: about 3,850 words**, under the 4,000–5,000 target and well under the design's 5,000-word budget. It's the same pattern as Chapters 5 and 6. Everything agreed is in it, and nothing was padded to reach a number. If the author wants it longer, the places where real content could grow are:
+- the conversation (more room for her reactions to her mother and father);
+- the walk through the working palace;
+- the moment after Thaer, on the way down.
+
+**The agreed lines are used as settled.** A few are adapted to the page:
+- "What were they doing under the floor all night?" is followed by her realising she'd known they were doing *something* to it, but not what. Chapter 5 never names the repair.
+- Her correction of the inherited line quotes only the part that changed ("She said, 'I'll never stop looking for you.' She said *I*. Not *we*."), so the whole line isn't said twice in a row.
+
+**New in the draft (Your call):**
+1. Cyrandor: "Not here yet. That's why I am." (kept from E1's first version).
+2. Nereth isn't surprised to see him, and Seralune notices (*She knows him.*).
+3. A tipped cup in a sleeping guard's lap. Seralune notes that neither door guard is the one who said "Leave it", which plants the change of watch.
+4. The lost-child memory: small, lost at night in passages she didn't know, crying on a step. Her mother finds her with a lamp, out of breath, her hair coming down. Later: "That night on the step, she had been lost for an hour. This time it had been a thousand years, and her mother had gone looking somewhere else."
+5. "How many people has it been passed through?" / "I couldn't count them, Your Highness."
+6. "And Thaer?" / "I don't know that either. What came down to us was about the queen."
+7. "Why are you doing this?" / "Because she asked us to, Your Highness. Somebody had to be here when you woke." His eyes rest on Nereth. "It happened to be me."
+8. "Lord Leorin", as Cyrandor calls him.
+9. After Nereth's answer: "It was Cyrandor who looked away first."
+10. The palace waking up, with nobody bowing. A laundry woman pushes a basket at her ("Laundry, and don't dawdle. You're new."); Nereth covers; *Nobody had ever told her not to dawdle.*
+11. The first bell rings once. The shouting comes after it, when she hasn't come down.
+12. A laundry man asks "what in the Last Dark was going on".
+13. The laundry passage has a channel with grates in it. The key goes down one, and she hears it hit the water.
+14. The guard: "Then you'll come and tell the sergeant where she's gone." His eyes go to her feet in borrowed shoes (he last saw them bare).
+15. **The old south stair is the one part of the palace she still knows:** a tall window with a stone seat where she used to sit, and the carving over the arch. "I know. I used to." It's also how Thaer knew where to find her: *This was ours before it was anyone's.*
+16. Thaer's fear, and his holding back: "You don't know what's out there. You don't know what you—" / "Then tell me." / He didn't.
+17. "You're exhausted. You can hardly stand." / "I'm standing."
+18. "I told Leorin—" / "I heard you."
+19. Nereth, on the way down: "Not yet, Your Highness. Please." when Seralune starts to speak of Cyrandor.
+20. Nereth was once sent down to clear the channels, which is why she knows the way "as far as the first turning".
