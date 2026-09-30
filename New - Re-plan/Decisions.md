@@ -576,6 +576,10 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 
 - **A day on the road first** (29 September). The author: "I recommend having a day on the road first, having Alaric distrust Silas, and Silas not responding to questions." So Marta's door moves to a later Alaric chapter. What turns the day is round 2 of `Volume 1/Chapters 5-15 - Outline.md`.
 
+## Chapter 7
+
+- **Design started (30 September)** in `Volume 1/Chapter 7 - Design.md`: a proposed five-scene shape (the door; what Cyrandor tells her; the choice; out through the palace; the stair) and round 1 of 13 questions, with the "100/100" answer.
+
 ## Alaric
 
 - About twenty.

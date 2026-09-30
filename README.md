@@ -35,6 +35,7 @@ The story is being re-planned from the beginning. Current work lives in **New - 
   - `Chapter 6 - Design Proposal.md`: the author's detailed proposal for Chapter 6 (30 September), kept word for word.
   - `Chapter 6 - Dialogue.md`: the author's dialogue pass for Chapter 6 (30 September), kept word for word.
   - `Chapter 6 - The Words of the Dead.md`: Chapter 6, finished (30 September). Its changes are in `Chapter 6 - Changes.md`.
+  - `Chapter 7 - Design.md`: the design of Chapter 7, Seralune's escape (started 30 September).
   - `Drafts/`: earlier versions of the chapters, kept unchanged.
 
 ## The rewriting skill
