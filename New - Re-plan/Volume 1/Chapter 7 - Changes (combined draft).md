@@ -1,6 +1,6 @@
-# Chapter 7: Changes
+# Chapter 7: Changes to the combined draft
 
-The chapter is now the author's combined draft (30 September): Claude's first draft with material from a GPT draft. The author chose it ("Use the combined"). It's saved unchanged in `Drafts/Chapter 7 - Untitled (Draft 3, combined).md`, and the author's comparison of the drafts is in `Chapter 7 - Draft Comparison.md`. The author then asked for three passes: "make sure no robotic AI text, speaking or explanations, pov slips or errors." Pass 1 also makes the fixes agreed on the combined draft (tagged below). Claude's earlier pass on the first draft is kept as a record in `Chapter 7 - Changes (first draft).md`.
+The chapter is now the author's combined draft (30 September): Claude's first draft with material from a GPT draft. The author chose it ("Use the combined"). It's saved unchanged in `Drafts/Chapter 7 - Untitled (Draft 3, combined).md`, and the author's comparison of the drafts is in `Chapter 7 - Draft Comparison.md`. The author then asked for three passes: "make sure no robotic AI text, speaking or explanations, pov slips or errors." Pass 1 also makes the fixes agreed on the combined draft (tagged below). Claude's earlier pass on the first draft is kept as a record in `Chapter 7 - Changes (first draft).md`. After these changes the author revised the chapter again (30 September); that revision is now the chapter, and this list is kept as a record. The chapter it produced is saved in `Drafts/Chapter 7 - The Last Keeper (Draft 4, after the passes and review).md`.
 
 ## At a glance
 

@@ -1,6 +1,6 @@
 # Chapter 7: Design
 
-Started 30 September 2026. **Status:** the chapter is now the author's combined draft (30 September), after three passes (22 changes, in `Chapter 7 - Changes.md`; 4,267 words). Titled "The Last Keeper" by the author on 30 September. The first draft's new details are still open for a yes or no.
+Started 30 September 2026. **Status:** the chapter is the author's own revision (30 September), saved word for word in `Drafts/`. Only the house style was changed: straight quotes, and "anymore" became "any more". Claude's review of it is waiting on the author's answers.
 
 **The target:** 4,000–5,000 words, and longer if the story needs it. Claude will give a range, not a single number, because Chapters 5 and 6 both came in about a quarter under Claude's budgets.
 
@@ -574,3 +574,8 @@ Three things kept it from a higher score. All three are fixed in `Chapter 7 - Ch
 2. **Thaer's breathlessness doesn't prove his route.** Now it's only "He was a little out of breath". His place on the landing below them is enough.
 3. **"Nobody had ever told Seralune not to dawdle" is an absolute** (her mother or Elowen could have). It's cut. The woman who never looked properly at her face carries the moment.
 
+## The author's revision (30 September)
+
+The author sent a revised chapter ("updted chapte 7"). It's now the chapter. The text as sent is in `Drafts/Chapter 7 - The Last Keeper (Draft 5, the author's revision).md`. The version before it, after the three passes and the review, is in `Drafts/Chapter 7 - The Last Keeper (Draft 4, after the passes and review).md`, and its changes are in `Chapter 7 - Changes (combined draft).md`.
+
+Claude changed only the house style: straight quotes, and "anymore" became "any more". Nothing else was changed. Claude's notes on the revision went to the author for a yes or no.
