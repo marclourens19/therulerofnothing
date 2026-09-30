@@ -1,6 +1,6 @@
 # Chapter 6: Design
 
-Started 29 September 2026. **Status:** written on 30 September as `Chapter 6 - Untitled.md`. The author rated it "about 90/100", and round 1 of the change list applies their five notes (about 5,030 words). The title is still to come.
+Started 29 September 2026. **Status:** finished on 30 September as `Chapter 6 - The Words of the Dead.md` (5,024 words). The author rated the first draft "about 90/100"; round 1 applied their five notes, then came three passes for errors, and the author chose the title.
 
 **The target** (29 September): 4,000–5,000 words, and longer if the story needs it. Chapter 5 taught that length comes from what happens, so this design plans enough happening from the start: six scenes, each with something that changes.
 
@@ -194,7 +194,7 @@ The sequence already does the big things: the farm hinge, the chosen cost, the n
 - **O.** "More focused on its immense size rather than the small details." The red was never meant to be dropped: keep the dark red hull, the spines and the blue-green light underneath, revealed **as he puts the shape together**, never as a list that stops the moment. Chapter 5 stands (a dark shape at night; at dusk he can see more). *Claude reads this as no small craft, since they're detail, not size; say if not.*
 - **P.** "It's looking for the farm." The ship is searching, not passing through.
 - **R.** Kelmend's warning bell goes off. (So "They knew" is out: Kelmend didn't expect it either.)
-- **U.** The author will choose the title later.
+- **U.** The author will choose the title later. *Chosen 30 September: "The Words of the Dead".*
 
 **The author's conditions on the refinements:**
 1. **Steps 5–7 are one chain.** When the neighbours mention Gerolt, something in Silas changes, and it has to be something Alaric can see: he stops listening, misses a question, or moves them on abruptly. Alaric can suspect it hurt him; the narration never says so as fact. Silas then escapes the personal subject by explaining what will happen at Kelmend, and that starts the harder argument about the sword. **"Boy" until the name exchange** applies to Silas's speech only; the narration calls him Alaric throughout.
@@ -364,7 +364,7 @@ The fight plan is agreed ("Alaric's first action changes the danger Silas arrive
 
 ## The first draft (30 September)
 
-The author said "okay write the chapter". It's in `Chapter 6 - Untitled.md`, with an unchanged copy in `Drafts/Chapter 6 - Untitled (Draft 1).md` for later change lists. The style check is clean. The heading is "Chapter 6" until the author chooses a title.
+The author said "okay write the chapter". It's in `Chapter 6 - Untitled.md` (now `Chapter 6 - The Words of the Dead.md`), with an unchanged copy in `Drafts/` (now `Chapter 6 - The Words of the Dead (Draft 1).md`) for later change lists. The style check is clean. The heading is "Chapter 6" until the author chooses a title.
 
 **Length: about 5,100 words, not the 6,500 Claude estimated.** Everything agreed, written at the density the author likes, came to that. It's the same lesson as Chapter 5: per-scene budgets run about a quarter high. The proposal's own rule applies: "If the draft naturally finishes at 5,200 words, keep it there." If the author wants it longer, the places where real content could grow, rather than padding, are:
 - a further practical exchange on the morning road;

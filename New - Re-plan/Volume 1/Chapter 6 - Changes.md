@@ -1,10 +1,10 @@
 # Chapter 6: Changes
 
-Round 1, 30 September 2026: the author's review of Claude's first draft ("about 90/100"). The first draft is saved unchanged in `Drafts/Chapter 6 - Untitled (Draft 1).md`. The author kept the shorter length: "I wouldn't extend it to 6,500 simply to reach the earlier estimate."
+Round 1, 30 September 2026: the author's review of Claude's first draft ("about 90/100"). The first draft is saved unchanged in `Drafts/Chapter 6 - The Words of the Dead (Draft 1).md`. The author kept the shorter length: "I wouldn't extend it to 6,500 simply to reach the earlier estimate."
 
 ## At a glance
 
-- **19 changes proposed.** 0 rejected so far, so 19 are in the chapter: 19 rewritten, 0 cut and 0 added.
+- **20 changes proposed.** 0 rejected so far, so 20 are in the chapter: 20 rewritten, 0 cut and 0 added.
 - **Length:** 5,092 words before, 5,024 after.
 - **Median paragraph:** 13 words before, 13 after. The house target is roughly 14–22.
 - **"Nothing":** 1 times before, 1 after.
@@ -17,38 +17,57 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Already decided**
 
-- **Change 1, Alaric's grievance, not a repeat:** The author's review of the first draft, 30 September.
-- **Change 2, What Silas was checking:** The author's review of the first draft, 30 September.
-- **Change 3, Cut the explained swing:** The author's review of the first draft, 30 September.
-- **Change 4, Let the failed attempts carry it:** The author's review of the first draft, 30 September.
-- **Change 5, Holding, not pinned:** The author's review of the first draft, 30 September.
-- **Change 6, Vary the rhythm: the ogre:** The author's review of the first draft, 30 September.
-- **Change 7, Vary the rhythm: Kelmend:** The author's review of the first draft, 30 September.
-- **Change 8, One "last of the light" fewer:** The author's review of the first draft, 30 September.
-- **Change 9, One introduction for the ship:** The author's review of the first draft, 30 September.
-- **Change 10, Vary the rhythm: overhead:** The author's review of the first draft, 30 September.
-- **Change 12, Unwinding the cloth once:** The author, 30 September: "minor polish, not something that warrants another revision round".
-- **Change 13, The morning's already gone:** The author asked for three passes for errors, inconsistencies and POV slips (30 September).
-- **Change 14, Which tree:** The author asked for three passes for errors, inconsistencies and POV slips (30 September).
-- **Change 15, Where the sack is:** The author asked for three passes for errors, inconsistencies and POV slips (30 September).
-- **Change 16, Which way out of the hollow:** The author asked for three passes for errors, inconsistencies and POV slips (30 September).
-- **Change 17, The way in:** The author asked for three passes for errors, inconsistencies and POV slips (30 September).
-- **Change 18, Which "it" came away:** The author asked for three passes for errors, inconsistencies and POV slips (30 September).
-- **Change 19, Hand, then a hand's width:** The author asked for three passes for errors, inconsistencies and POV slips (30 September).
+- **Change 1, The title:** The author, 30 September.
+- **Change 2, Alaric's grievance, not a repeat:** The author's review of the first draft, 30 September.
+- **Change 3, What Silas was checking:** The author's review of the first draft, 30 September.
+- **Change 4, Cut the explained swing:** The author's review of the first draft, 30 September.
+- **Change 5, Let the failed attempts carry it:** The author's review of the first draft, 30 September.
+- **Change 6, Holding, not pinned:** The author's review of the first draft, 30 September.
+- **Change 7, Vary the rhythm: the ogre:** The author's review of the first draft, 30 September.
+- **Change 8, Vary the rhythm: Kelmend:** The author's review of the first draft, 30 September.
+- **Change 9, One "last of the light" fewer:** The author's review of the first draft, 30 September.
+- **Change 10, One introduction for the ship:** The author's review of the first draft, 30 September.
+- **Change 11, Vary the rhythm: overhead:** The author's review of the first draft, 30 September.
+- **Change 13, Unwinding the cloth once:** The author, 30 September: "minor polish, not something that warrants another revision round".
+- **Change 14, The morning's already gone:** The author asked for three passes for errors, inconsistencies and POV slips (30 September).
+- **Change 15, Which tree:** The author asked for three passes for errors, inconsistencies and POV slips (30 September).
+- **Change 16, Where the sack is:** The author asked for three passes for errors, inconsistencies and POV slips (30 September).
+- **Change 17, Which way out of the hollow:** The author asked for three passes for errors, inconsistencies and POV slips (30 September).
+- **Change 18, The way in:** The author asked for three passes for errors, inconsistencies and POV slips (30 September).
+- **Change 19, Which "it" came away:** The author asked for three passes for errors, inconsistencies and POV slips (30 September).
+- **Change 20, Hand, then a hand's width:** The author asked for three passes for errors, inconsistencies and POV slips (30 September).
 
 ## The author's five notes
 
-1. **The repeated explanation in the argument:** change 1, 2.
+1. **The repeated explanation in the argument:** change 2, 3.
 2. **What Silas was checking:** in the same group.
-3. **Explanations in the fight:** changes 3, 4, 5.
-4. **Sentence rhythm in the calmer descriptions:** changes 6, 7, 9, 10.
-5. **The ship's reveal:** changes 8, 9, 10.
+3. **Explanations in the fight:** changes 4, 5, 6.
+4. **Sentence rhythm in the calmer descriptions:** changes 7, 8, 10, 11.
+5. **The ship's reveal:** changes 9, 10, 11.
 
 ## The changes
 
+### The title
+
+#### 1. The title
+
+*Draft line 1 → revised line 1*
+
+**Before**
+
+> # Chapter 6
+
+**After**
+
+> # Chapter 6 – The Words of the Dead
+
+**Why.** The author chose the title from 25 options on 30 September. It follows Chapters 1–5 in shape and works twice: the ogre's copied words, learned from people it caught, and Gerolt's words ("the old fool" in a neighbour's mouth, and the instruction Alaric is following).
+
+**Your decision.** The author, 30 September.
+
 ### After the fight
 
-#### 1. Alaric's grievance, not a repeat
+#### 2. Alaric's grievance, not a repeat
 
 *Draft line 363 → revised line 363*
 
@@ -64,7 +83,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Your decision.** The author's review of the first draft, 30 September.
 
-#### 2. What Silas was checking
+#### 3. What Silas was checking
 
 *Draft line 371 → revised line 371*
 
@@ -82,7 +101,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 ### The ogre
 
-#### 3. Cut the explained swing
+#### 4. Cut the explained swing
 
 *Draft line 291 → revised line 291*
 
@@ -98,7 +117,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Your decision.** The author's review of the first draft, 30 September.
 
-#### 4. Let the failed attempts carry it
+#### 5. Let the failed attempts carry it
 
 *Draft line 303 → revised line 303*
 
@@ -114,7 +133,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Your decision.** The author's review of the first draft, 30 September.
 
-#### 5. Holding, not pinned
+#### 6. Holding, not pinned
 
 *Draft line 319 → revised line 319*
 
@@ -130,7 +149,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Your decision.** The author's review of the first draft, 30 September.
 
-#### 6. Vary the rhythm: the ogre
+#### 7. Vary the rhythm: the ogre
 
 *Draft line 257 → revised line 257*
 
@@ -148,7 +167,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 ### The walk and Kelmend
 
-#### 7. Vary the rhythm: Kelmend
+#### 8. Vary the rhythm: Kelmend
 
 *Draft line 445 → revised line 445*
 
@@ -164,7 +183,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Your decision.** The author's review of the first draft, 30 September.
 
-#### 8. One "last of the light" fewer
+#### 9. One "last of the light" fewer
 
 *Draft line 453 → revised line 453*
 
@@ -182,7 +201,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 ### The ship
 
-#### 9. One introduction for the ship
+#### 10. One introduction for the ship
 
 *Draft lines 467–471 → revised lines 467–469*
 
@@ -204,7 +223,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Your decision.** The author's review of the first draft, 30 September.
 
-#### 10. Vary the rhythm: overhead
+#### 11. Vary the rhythm: overhead
 
 *Draft line 487 → revised line 485*
 
@@ -222,7 +241,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 ### The walk and Kelmend
 
-#### 11. A repeated phrase
+#### 12. A repeated phrase
 
 *Draft line 413 → revised line 413*
 
@@ -238,7 +257,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 ### After the fight
 
-#### 12. Unwinding the cloth once
+#### 13. Unwinding the cloth once
 
 *Draft line 349 → revised line 349*
 
@@ -256,7 +275,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 ### The three passes
 
-#### 13. The morning's already gone
+#### 14. The morning's already gone
 
 *Draft line 245 → revised line 245*
 
@@ -272,7 +291,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Your decision.** The author asked for three passes for errors, inconsistencies and POV slips (30 September).
 
-#### 14. Which tree
+#### 15. Which tree
 
 *Draft line 339 → revised line 339*
 
@@ -288,7 +307,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Your decision.** The author asked for three passes for errors, inconsistencies and POV slips (30 September).
 
-#### 15. Where the sack is
+#### 16. Where the sack is
 
 *Draft line 381 → revised line 381*
 
@@ -304,7 +323,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Your decision.** The author asked for three passes for errors, inconsistencies and POV slips (30 September).
 
-#### 16. Which way out of the hollow
+#### 17. Which way out of the hollow
 
 *Draft line 411 → revised line 411*
 
@@ -320,7 +339,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Your decision.** The author asked for three passes for errors, inconsistencies and POV slips (30 September).
 
-#### 17. The way in
+#### 18. The way in
 
 *Draft line 457 → revised line 457*
 
@@ -336,7 +355,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Your decision.** The author asked for three passes for errors, inconsistencies and POV slips (30 September).
 
-#### 18. Which "it" came away
+#### 19. Which "it" came away
 
 *Draft line 295 → revised line 295*
 
@@ -352,7 +371,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Your decision.** The author asked for three passes for errors, inconsistencies and POV slips (30 September).
 
-#### 19. Hand, then a hand's width
+#### 20. Hand, then a hand's width
 
 *Draft line 317 → revised line 317*
 

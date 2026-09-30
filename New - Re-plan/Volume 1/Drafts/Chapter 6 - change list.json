@@ -1,11 +1,12 @@
 {
   "title": "Chapter 6: Changes",
-  "draft": "Chapter 6 - Untitled (Draft 1).md",
-  "chapter": "../Chapter 6 - Untitled.md",
+  "draft": "Chapter 6 - The Words of the Dead (Draft 1).md",
+  "chapter": "../Chapter 6 - The Words of the Dead.md",
   "changes_file": "../Chapter 6 - Changes.md",
-  "intro_md": "Round 1, 30 September 2026: the author's review of Claude's first draft (\"about 90/100\"). The first draft is saved unchanged in `Drafts/Chapter 6 - Untitled (Draft 1).md`. The author kept the shorter length: \"I wouldn't extend it to 6,500 simply to reach the earlier estimate.\"",
+  "intro_md": "Round 1, 30 September 2026: the author's review of Claude's first draft (\"about 90/100\"). The first draft is saved unchanged in `Drafts/Chapter 6 - The Words of the Dead (Draft 1).md`. The author kept the shorter length: \"I wouldn't extend it to 6,500 simply to reach the earlier estimate.\"",
   "summary_md": "## The author's five notes\n\n1. **The repeated explanation in the argument:** change {tag:argument}.\n2. **What Silas was checking:** in the same group.\n3. **Explanations in the fight:** changes {tag:fight}.\n4. **Sentence rhythm in the calmer descriptions:** changes {tag:rhythm}.\n5. **The ship's reveal:** changes {tag:ship}.",
   "sections": {
+    "Title": "The title",
     "The ogre": "The ogre",
     "After the fight": "After the fight",
     "Kelmend": "The walk and Kelmend",
@@ -13,6 +14,19 @@
     "Passes": "The three passes"
   },
   "changes": [
+    {
+      "section": "Title",
+      "title": "The title",
+      "kind": "changed",
+      "tags": [
+        "title"
+      ],
+      "before": "# Chapter 6",
+      "after": "# Chapter 6 – The Words of the Dead",
+      "why": "The author chose the title from 25 options on 30 September. It follows Chapters 1–5 in shape and works twice: the ogre's copied words, learned from people it caught, and Gerolt's words (\"the old fool\" in a neighbour's mouth, and the instruction Alaric is following).",
+      "decision": "accepted",
+      "decision_note": "The author, 30 September."
+    },
     {
       "section": "After the fight",
       "title": "Alaric's grievance, not a repeat",

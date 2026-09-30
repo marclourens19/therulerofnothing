@@ -564,8 +564,8 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - **Kelmend's warning bell rings.** Kelmend didn't expect it either.
   - **Humour:** two chances (Wena and the sack; his dry reaction to Silas's manner), coming out of the exchange. **No reflexive guilt after a laugh:** he can enjoy something briefly while grieving.
   - Silas calls him "boy" until the name exchange; the narration calls him Alaric throughout.
-  - **Title:** the author will choose later.
-- **Written (30 September)** as `Volume 1/Chapter 6 - Untitled.md`, about 5,100 words. Claude's first draft, waiting on the author's review. The draft's new details are listed for a yes or no in the design file ("The first draft").
+  - **Title: "The Words of the Dead"** (the author, 30 September, chosen from 25 options). It works twice: the ogre's words, copied from people it caught, and Gerolt's words ("the old fool" in a neighbour's mouth, and the instruction Alaric is following).
+- **Written (30 September)** as `Volume 1/Chapter 6 - The Words of the Dead.md` (first saved as "Untitled"), about 5,100 words. Claude's first draft, waiting on the author's review. The draft's new details are listed for a yes or no in the design file ("The first draft").
 - **The author's review (30 September): "about 90/100".** The shorter length stays ("I wouldn't extend it to 6,500 simply to reach the earlier estimate"). Five notes, applied as round 1 of `Volume 1/Drafts/Chapter 6 - change list.json` (see `Chapter 6 - Changes.md`):
   1. Alaric's grievance is the missing arrangement, not the danger he'd already been told about.
   2. Silas was checking how they could get to the south wall.

@@ -1,4 +1,4 @@
-# Chapter 6
+# Chapter 6 – The Words of the Dead
 
 Silas nudged his boot with the toe of his own.
 
