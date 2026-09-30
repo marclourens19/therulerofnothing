@@ -1,6 +1,6 @@
 # Chapter 7: Design
 
-Started 30 September 2026. **Status:** the dialogue round is answered apart from five small items ("Still open (dialogue)", at the end). Then Claude says the chapter is ready and waits for the go-ahead.
+Started 30 September 2026. **Status:** the design and dialogue are settled (30 September). The chapter is ready to write and waits for the author's go-ahead.
 
 **The target:** 4,000–5,000 words, and longer if the story needs it. Claude will give a range, not a single number, because Chapters 5 and 6 both came in about a quarter under Claude's budgets.
 
@@ -472,3 +472,18 @@ The author held off on "yes to all". **Settled:**
    - "Mind her hand. And mind yourself.";
    - "That's a wall";
    - her mother taking her to the edge of Inrandeel.
+
+### The last five dialogue choices (the author, 30 September)
+
+1. **Thaer's answer:** "You told me it wasn't up to you." / "I was waiting for Father." He admits a decision: he waited for someone else to settle it while she stayed locked in and Leorin prepared the crystal. It fits Chapter 5 ("At least wait until my father has returned. He'll have answers."). *Correction to Claude:* giving these guards an order doesn't prove he controlled every earlier decision. She can challenge the contradiction, but the narration doesn't call it a lie.
+2. **Nereth's reason:** she says it, and still looks at Cyrandor first. She hesitates, looks at him, then answers: "I've wanted to see what's past the falls since I was small." The words are what she wants; the look is what it costs her. Then back to the shoes.
+3. **Thaer's last words:** "Go. Before Leorin comes down himself." "You haven't eaten" would repeat his Chapter 5 dodge unless something changed around it. "Go" sends her ahead without him, straight after she asked him to come.
+4. **E1 opens on the smile:** "You were in the corridor last night. You smiled at me." Her disappointment that it isn't Thaer shows in her reaction when the door opens. There's no added thought explaining the knocks; her expectation and then the recognition carry it.
+5. **The new details:**
+   - "I serve in this house": **cut.** "Cyrandor, Your Highness" is enough.
+   - "I've served here all my life": **kept,** in the Elowen exchange.
+   - "Mind her hand. And mind yourself.": **kept,** said quietly to Nereth.
+   - "That's a wall, Your Highness.": **kept.**
+   - Her mother taking her to the edge of Inrandeel: **left out for now.**
+
+**The design and dialogue are settled.** The tests for the prose: Thaer's restraint feels hard for him, Nereth's leaving feels voluntary, and Cyrandor's absence goes on weighing on them after the door closes.

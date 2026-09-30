@@ -599,6 +599,13 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - **The mother's line:** "Don't cry. The falls never stop, and I'll never stop looking for you." It is passed down as "The falls do not stop, and neither will we."
   - **Line changes to E3, E6/E9, E7, E12 and E13** are in the design file.
   - **Seralune's cut is on her right palm** (Chapter 4).
+- **The last dialogue choices (30 September):**
+  - Thaer: "I was waiting for Father." His last words: "Go. Before Leorin comes down himself."
+  - Nereth gives her reason ("I've wanted to see what's past the falls since I was small.") after looking at Cyrandor.
+  - The chapter opens on the smile: "You were in the corridor last night. You smiled at me."
+  - Kept: "I've served here all my life", "Mind her hand. And mind yourself." and "That's a wall, Your Highness."
+  - Cut: "I serve in this house", and her mother taking her to Inrandeel.
+  - **Design and dialogue settled; waiting for the go-ahead.**
 
 ## Alaric
 
