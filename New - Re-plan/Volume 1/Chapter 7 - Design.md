@@ -1,6 +1,6 @@
 # Chapter 7: Design
 
-Started 30 September 2026. **Status:** the author consolidated everything into `Chapter 7 - Working Design.md` (30 September), which is now the design. Still open: five round 3 choices, the mother's line, what the last report says, and the close call. Then comes the dialogue round.
+Started 30 September 2026. **Status:** the dialogue round is waiting on the author. The design is `Chapter 7 - Working Design.md`, and the round 3 recommendations are the working answers. Then comes the go-ahead.
 
 **The target:** 4,000–5,000 words, and longer if the story needs it. Claude will give a range, not a single number, because Chapters 5 and 6 both came in about a quarter under Claude's budgets.
 
@@ -345,3 +345,89 @@ The author folded Claude's test of the seven items into `Chapter 7 - Working Des
 4. **Making "neither will I" clear.** *Proposed:* make the mother's original say it outright: "Don't cry. The falls never stop, and I'll never stop looking for you." The Order's version, "The falls do not stop, and neither will we", then has both the worn wording and the changed meaning.
    - **The remembered moment:** she was small, lost in the palace one night and crying, and her mother found her. Keep it small and within her own childhood, with nothing about Alaric.
    - *The author's call:* the moment, and whether the original says "looking for you" or "finding you".
+
+## Dialogue round (asked 30 September)
+
+The author said "give the dialogue", so the round 3 recommendations are used here as the working answers. Any of them can still be changed.
+
+For each key exchange there are Claude's versions in the characters' voices, and the author can pick one, change it, or give a rough version. The voices come from Chapter 5:
+- **Seralune:** direct and reasoning, and she breaks when she breaks ("Don't you dare send me to bed like a child!").
+- **Thaer:** short, withholding orders, with care underneath ("You haven't eaten.", "It isn't up to me.").
+- **Nereth:** dry and exact, with the title as armour ("I couldn't say, Your Highness.", "I'm quite all right, Your Highness.").
+- **Cyrandor:** new. Respectful, anxious, careful to separate what he knows from what was handed down.
+
+**E1. The door (beats 1–2).** The lock turns, and it's the old servant from the corridor.
+1. "You're not Thaer." / "No, Your Highness." He bowed, and when he straightened he was smiling again, only a little. "Forgive me. It's Cyrandor. I serve in this house." / "Where is my brother?" / "Not here yet. That's why I am." *(recommended)*
+2. As 1, but she speaks first: "You were in the corridor last night. You smiled at me." / "I did, Your Highness." / "Nobody else did."
+
+**E2. The guards (beat 2).** The two guards are slumped outside the door.
+- "What have you done to them?" / "They're asleep. They'll wake with sore heads, and no worse." She crouched by the nearer one anyway, and held her hand in front of his mouth until she felt his breath on it. *(recommended)*
+- Her thought after: *He poisoned two guards to open my door, and he knocked first.*
+
+**E3. Why she should listen (beat 3).** The inherited line and her correction. *Uses the proposed pair; the author can change it.*
+- "Why should I believe a word you say?" / "Because I was given something to say to you, if you ever woke. It's been passed from one of us to the next for a very long time, so forgive me if it's worn." He said it carefully, the way you say a thing you've learned by heart: "The falls do not stop, and neither will we."
+- The memory: she's small, lost in the palace at night, and her mother finds her. Then: "That isn't how it goes." Her voice wasn't steady. "'The falls never stop, and I'll never stop looking for you.' She said *I*. Not *we*." / Cyrandor was quiet a moment. "Then we've been saying it wrong for a very long time." *(recommended)*
+
+**E4. How long (beat 4).**
+1. "How long is a very long time?" / "Near enough a thousand years, Your Highness." / "That's not possible." She laughed, and it came out wrong. "I saw her yesterday. I fought with her yesterday morning." *(recommended)*
+2. As 1, then her reasoning in thought: *Leorin, white-haired. The tree. The whole palace, wrong. So it's… He means it.*
+
+**E5. Elowen (beat 4).**
+- "Elowen. My maid. You must know her; she's been in this house since before I was born." / "I've served here all my life, Your Highness. I've never heard the name." *(recommended)*
+- Her thought: *Nereth didn't know her because Nereth is new. That's what I told myself. He isn't new.*
+
+**E6. Her mother (beat 5).**
+- "Did my mother agree to it?" / "No. As far as it came down to us, she was the only one who didn't." / "Then where is she? Why would she leave me in there?" / "I don't know why, Your Highness. I know she went, and that before she went she asked a few of the servants to watch over you and send her word. That was the beginning of us." *(recommended)*
+
+**E7. Her father (beat 6).** Built on the review's line.
+- "Father agreed to this?" She looked at the door, though there was no one there to answer for him. "No. He wouldn't have. My mother would have stopped him." / Cyrandor said nothing. / "…She couldn't stop him. That's why she left." *(recommended: she works it out herself, and he doesn't have to say it)*
+
+**E8. Last night and this morning (beat 6).**
+- "What were they doing under the floor all night?" / "Mending it, Your Highness. What you woke in." / "…And this morning?" / "The order came at first light, in Lord Leorin's name. I'm to have you dressed and brought down at the first bell." He paused. "It said the mending was done with the prince's leave." *(recommended)*
+
+**E9. Inrandeel (beat 7).**
+- "The last word we ever had of her came from Inrandeel, centuries ago. She'd gone to the elves there to find a way for you to wake, and live, outside of that thing. After that there was nothing." / *Inrandeel. The forest where the elves answer to no one. Mother took me to the edge of it once.* *(recommended. "Took me to the edge of it once" is new, so it's your call.)*
+
+**E10. Her choice, then Nereth's (beats 8–9).**
+- "Nereth, get the shoes. You're coming with me." / Nereth's hands stayed on the folded clothes. "Is that an order, Your Highness?" / Seralune stopped. "No. I'd like you to come. But you don't have to."
+- **Nereth's answer:**
+  1. She looks at Cyrandor, then: "I've wanted to see what's past the falls since I was small." She knelt and put the shoes in front of Seralune's feet. *(recommended)*
+  2. No reason given. She looks at Cyrandor for a long moment, then kneels with the shoes. The reason is left to be seen.
+- **Cyrandor, to Nereth:** "Mind her hand. And mind yourself." That's all he gives it.
+
+**E11. The palace has changed (beat 10).**
+- "This way. The linen stair comes out by the—" / "That's a wall, Your Highness." / It was. *(recommended)*
+
+**E12. The close call (beat 12).**
+- The guard: "You. You're the princess's maid." / Nereth, without stopping: "Linen for the east rooms, sir." / His hand on her arm. / Seralune turns back: "Let her go." / He looks at her face and lowers his hand an inch, no more. "…Your Highness."
+- Cyrandor: "The south stair. Go." / "You're coming—" (Nereth) / The door shuts between them, and the key turns on his side.
+- **Nereth's slip** (the author has a tentative agreement on this, not a final one):
+  1. "Cyrandor! Open this door, you stubborn old—" She stops, and when she turns back her face is her own again, almost. "This way, Your Highness." *(recommended)*
+  2. A single word, his name, then she's moving.
+
+**E13. The stair (beats 13–16).** The heart of the chapter; each exchange is a proposal.
+- "Come back upstairs, Seralune. Let me sort this out." / "You've had all night."
+- "They mended it. With your leave." / "I let them mend it. I never let them use it." / "Does it matter which?"
+- "I heard you last night. 'No one touches my sister.'" He went still. "Then lock me somewhere else, Thaer, and it's the same room."
+- "Come with me." / "If I go with you, there's no one to stand in front of Leorin." / "Then come later." / He doesn't answer.
+- He reaches for her arm. She doesn't step back: "If you take my arm, you'll have to walk me down there yourself." His hand stops. Then it drops.
+- The guards arrive: "The princess is with me. Go back and hold the upper halls."
+- **His last words to her:**
+  1. "You haven't eaten." *(recommended: it's his line from Chapter 5, care in the shape of an order, and it's all he can give)*
+  2. "Go. Before Leorin comes down himself."
+  3. Nothing. He stands aside.
+
+**E14. The aqueduct entrance (beats 17–18).**
+- "I know it as far as the first turning, Your Highness. After that, I don't." / *I can't hear the falls.* / Seralune took Nereth's hand, the one that wasn't bandaged, and went in.
+- **The last line:**
+  1. The action above, and nothing said. *(recommended)*
+  2. "Then we'll find out together."
+
+**Notes:**
+- Every *recommended* line is a proposal; nothing is written yet.
+- New inventions to accept or refuse:
+  - "I serve in this house";
+  - "served here all my life";
+  - her mother taking her to the edge of Inrandeel;
+  - "Mind her hand. And mind yourself.";
+  - "That's a wall".
