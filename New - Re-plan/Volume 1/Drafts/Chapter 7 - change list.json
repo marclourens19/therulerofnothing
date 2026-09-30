@@ -1,0 +1,314 @@
+{
+  "title": "Chapter 7: Changes",
+  "draft": "Chapter 7 - Untitled (Draft 1).md",
+  "chapter": "../Chapter 7 - Untitled.md",
+  "changes_file": "../Chapter 7 - Changes.md",
+  "intro_md": "A pass for errors, inconsistencies and POV slips, 30 September 2026, at the author's request (\"Do a pass of chapter 7 looking for errors, inconsistencies, pov slips\"). The first draft is saved unchanged in `Drafts/Chapter 7 - Untitled (Draft 1).md`. Each change was checked against Chapter 5 and the Chapter 7 design.",
+  "glance": [
+    "**Waiting on you:** change {tag:order}, the order of the Elowen beat. Every other change fixes something wrong."
+  ],
+  "summary_md": "## What the pass found\n\n- **Point of view (changes {tag:pov}):** two places where the narration knew something Seralune couldn't: Nereth getting up behind her, and what the laundry woman was thinking.\n- **Continuity (changes {tag:continuity}):**\n  - Her door opens onto the gallery in Chapter 5, not a passage.\n  - Cyrandor is still holding the bundle.\n  - The woman with the bread was several flights up.\n  - Seralune couldn't know the guard's voice from two words.\n  - In the draft she had already accepted the thousand years when she asked whether he knew Elowen.\n- **Cyrandor's \"Your Highness\" (changes {tag:title}):** it comes out of the four lines where the draft added it. The eight lines settled in the dialogue round keep it.\n- **Clarity (changes {tag:clarity}):** unclear pronouns and references, a stray comma, and three sentences whose logic slipped.\n- **House style (change {tag:style}):** italics on words spoken aloud.\n\n## Checked and left alone\n\n- **\"The order came at first light\":** in Chapter 5 the blows stop \"when the window began to grey\", and the knocks come soon after. It's tight, but it works if the order was ready for when the mending was done.\n- **Thaer's knuckles \"raw where he had struck the wall\":** in Chapter 5 she hears something strike the wall and then sees his scraped knuckles, so she can put the two together.\n- **The screen she changes behind:** Chapter 5 doesn't list one in the room, but nothing there rules one out.\n- **Nereth's hands \"on top of the folded shawl\":** the author's own image from the design review (\"Nereth's hands remained on the folded clothes\").\n- **\"I know. I used to.\" and *This was ours before it was anyone's.*:** new details already waiting for the author (item 15 in the design's list), so the pass leaves them for that review. The same goes for \"Lord Leorin\" (item 8).\n- **Chapter 5 once calls the space outside her door \"the corridor\"** (\"There were footsteps in the corridor.\"). Chapter 5 is finished, so the pass doesn't touch it. A gallery is a kind of corridor, and it reads fine.\n- **\"She went looking for a way\" appears twice:** Seralune is quoting Cyrandor back to him on purpose.",
+  "sections": {
+    "Door": "The door",
+    "Talk": "What Cyrandor tells her",
+    "Stairs": "The servants' stairs",
+    "Laundry": "The laundry passage",
+    "South stair": "The old south stair"
+  },
+  "changes": [
+    {
+      "section": "Door",
+      "title": "Nereth behind her",
+      "kind": "changed",
+      "tags": [
+        "pov"
+      ],
+      "before": "Behind her, Nereth had got up from the chair by the hearth. Seralune looked round, expecting her to be as startled as she was, and she wasn't. Nereth's eyes had gone straight to the old man, and stayed there, and there was no surprise in them at all.",
+      "after": "Behind her, a chair scraped. Seralune looked round, expecting Nereth to be as startled as she was. Nereth was on her feet by the hearth with her eyes on the old man, and there was no surprise in them at all.",
+      "why": "Point of view. Seralune is facing the door, so she can't see Nereth get up behind her, and she only looks round afterwards, so she can't have seen Nereth's eyes go \"straight to\" him. Now she hears the chair, looks round, and sees what there is to see. \"And she wasn't\" is cut because the next sentence shows it.",
+      "decision": "accepted",
+      "decision_note": "The author asked for a pass for errors, inconsistencies and POV slips (30 September).",
+      "decision_short": "part of the pass you asked for (30 September)."
+    },
+    {
+      "section": "Door",
+      "title": "The guards are out on the gallery",
+      "kind": "changed",
+      "tags": [
+        "continuity"
+      ],
+      "before": "Past him, in the passage, the two guards were sitting against the wall on either side of the door with their chins on their chests. One of them still had a cup in his lap, tipped over, and a dark stain had spread across his knee.",
+      "after": "Past him, out on the gallery, the two guards were sitting against the wall on either side of the door with their chins on their chests. One of them still had a cup in his lap, tipped over, and a dark stain had spread across his knee.",
+      "why": "Continuity with Chapter 5, where Thaer \"led her along the gallery and through a door into a room she didn't know\". Her door opens onto the gallery, not a passage. Change 13 follows from this.",
+      "decision": "accepted",
+      "decision_note": "The author asked for a pass for errors, inconsistencies and POV slips (30 September).",
+      "decision_short": "part of the pass you asked for (30 September)."
+    },
+    {
+      "section": "Door",
+      "title": "The guard who lowered his sword",
+      "kind": "changed",
+      "tags": [
+        "clarity"
+      ],
+      "before": "She went out to the nearer one anyway, and crouched, and held her hand in front of his mouth until she felt his breath on it, slow and even. She didn't know his face. Neither of them was the guard who had lowered his sword to her in the night.",
+      "after": "She went out to the nearer one anyway, and crouched, and held her hand in front of his mouth until she felt his breath on it, slow and even. She didn't know his face. Neither of them was the guard who had lowered his sword in the night.",
+      "why": "\"Lowered his sword to her\" can read as pointing it at her, the opposite of what he did in Chapter 5 (he \"looked past Nereth at Seralune, and down at her bare feet, and lowered his sword\").",
+      "decision": "accepted",
+      "decision_note": "The author asked for a pass for errors, inconsistencies and POV slips (30 September).",
+      "decision_short": "part of the pass you asked for (30 September)."
+    },
+    {
+      "section": "Talk",
+      "title": "The message, spoken aloud",
+      "kind": "changed",
+      "tags": [
+        "style",
+        "title"
+      ],
+      "before": "\"Your mother left a message for you, Your Highness, for when you woke. We've passed it on, one to the next.\" He said the rest slowly and carefully. \"*The falls do not stop, and neither will we.*\"",
+      "after": "\"Your mother left a message for you, for when you woke. We've passed it on, one to the next.\" He said the rest slowly and carefully. \"The falls do not stop, and neither will we.\"",
+      "why": "House style: italics are for thought, stress and knocks, and these words are spoken aloud inside quotation marks, so the italics go. \"Your Highness\" comes out to match the author's line for this moment (\"Your mother left a message for you. We've passed it on, one to the next.\"); see change 6 for the rest of Cyrandor's titles.",
+      "decision": "accepted",
+      "decision_note": "The author asked for a pass for errors, inconsistencies and POV slips (30 September).",
+      "decision_short": "part of the pass you asked for (30 September)."
+    },
+    {
+      "section": "Talk",
+      "title": "A stray comma",
+      "kind": "changed",
+      "tags": [
+        "clarity"
+      ],
+      "before": "*Told to him. By someone, who had it from someone else. Mother said that to me on a step one night, and it's come back to me through strangers.*",
+      "after": "*Told to him. By someone who had it from someone else. Mother said that to me on a step one night, and it's come back to me through strangers.*",
+      "why": "The comma cut \"someone\" off from the words that say who.",
+      "decision": "accepted",
+      "decision_note": "The author asked for a pass for errors, inconsistencies and POV slips (30 September).",
+      "decision_short": "part of the pass you asked for (30 September)."
+    },
+    {
+      "section": "Talk",
+      "title": "\"I couldn't count them\"",
+      "kind": "changed",
+      "tags": [
+        "title"
+      ],
+      "before": "\"I couldn't count them, Your Highness.\"",
+      "after": "\"I couldn't count them.\"",
+      "why": "Cyrandor's title. The author's design review: \"He can sound respectful without every sentence containing 'Your Highness'.\" The draft gave it to him in twelve lines. The eight lines settled in the dialogue round keep it (\"I did\", \"Cyrandor\", \"That's how it was told to me\", \"I've served here all my life\", \"I don't know what stopped her\", \"I don't know\", \"Mending it\", \"That's a wall\"). \"Mending it, Your Highness\" keeps it where it softens the worst news he brings. It comes out of the four lines where the draft added it and it does no work: here, and changes 4, 9 and 11.",
+      "decision": "accepted",
+      "decision_note": "The author asked for a pass for errors, inconsistencies and POV slips (30 September).",
+      "decision_short": "part of the pass you asked for (30 September)."
+    },
+    {
+      "section": "Talk",
+      "title": "Elowen, before the thousand years sinks in",
+      "kind": "changed",
+      "tags": [
+        "order",
+        "continuity"
+      ],
+      "before": "Nobody answered, and she didn't need them to. Leorin with his white hair, asking her to forgive him. The royal tree, grown so tall she had to tip her head back to see the top of it. Doors all down a corridor where there had been bare wall. On the gallery last night she had got as far as *So it's been…* and stopped herself.\n\n*A thousand years.*\n\nShe sat down on the edge of the bed, because her legs had decided she would.\n\n\"Elowen,\" she said. \"My maid. She's been in this house since before I was born. You must know her.\"\n\n\"I've served here all my life, Your Highness. I've never heard the name.\"\n\n*Nereth had never heard of her, and I told myself it was because Nereth was new. He isn't new.*\n\nShe looked at her hands in her lap, at the neat binding Nereth had put on the cut. Elowen had sat up with her every night until she could read. Somebody in this house ought to have known her name. There was nobody now.",
+      "after": "Nobody answered. Leorin with his white hair, asking her to forgive him. The royal tree, grown so tall she had to tip her head back to see the top of it. Doors all down a corridor where there had been bare wall. On the gallery last night she had got as far as *So it's been…* and stopped herself.\n\n\"Elowen,\" she said. \"My maid. She's been in this house since before I was born. You must know her.\"\n\n\"I've served here all my life, Your Highness. I've never heard the name.\"\n\n*Nereth had never heard of her, and I told myself it was because Nereth was new. He isn't new.*\n\n*A thousand years.*\n\nShe sat down on the edge of the bed, because her legs had decided she would.\n\nShe looked at her hands in her lap, at the neat binding Nereth had put on the cut. Elowen had sat up with her every night until she could read. Somebody in this house ought to have known her name. There was nobody now.",
+      "why": "In the draft she takes in the thousand years and sits down, and only then asks Cyrandor whether he knows Elowen, which by then she knows he can't. Now the evidence comes and she stops herself again, as she did on the gallery. Elowen is the last thing she reaches for, and his answer is what she can't get round: *He isn't new.* Then the thousand years lands, and she sits. This keeps the Working Design's order (the number, her challenge, then Elowen) and gives Elowen the job the design gives her: \"Elowen, the changed palace and the rest of his account must still establish the loss of time.\" Nothing is reworded. \"And she didn't need them to\" is cut, and three paragraphs move.",
+      "call": "It moves lines inside an agreed beat. Yes, or keep the draft's order?"
+    },
+    {
+      "section": "Talk",
+      "title": "Cyrandor's hands on the bundle",
+      "kind": "changed",
+      "tags": [
+        "continuity"
+      ],
+      "before": "\"I don't know what stopped her, Your Highness. Only that she went looking for a way. And that before she went, she asked a few of the servants to watch over you and send her word.\" His hands had folded themselves in front of him, the way Nereth's did. \"That was the beginning of us.\"",
+      "after": "\"I don't know what stopped her, Your Highness. Only that she went looking for a way. And that before she went, she asked a few of the servants to watch over you and send her word.\" His hands had folded themselves over the bundle, the way Nereth's did. \"That was the beginning of us.\"",
+      "why": "He's still holding the bundle. His hands \"tightened on the bundle\" a few lines earlier, and he doesn't hold it out until she asks how to get out.",
+      "decision": "accepted",
+      "decision_note": "The author asked for a pass for errors, inconsistencies and POV slips (30 September).",
+      "decision_short": "part of the pass you asked for (30 September)."
+    },
+    {
+      "section": "Talk",
+      "title": "\"Because she asked us to\"",
+      "kind": "changed",
+      "tags": [
+        "title"
+      ],
+      "before": "\"Because she asked us to, Your Highness. Somebody had to be here when you woke.\" His eyes went to Nereth, and stayed there a moment longer than they needed to. \"It happened to be me.\"",
+      "after": "\"Because she asked us to. Somebody had to be here when you woke.\" His eyes went to Nereth, and stayed there a moment longer than they needed to. \"It happened to be me.\"",
+      "why": "Cyrandor's title: see change 6.",
+      "decision": "accepted",
+      "decision_note": "The author asked for a pass for errors, inconsistencies and POV slips (30 September).",
+      "decision_short": "part of the pass you asked for (30 September)."
+    },
+    {
+      "section": "Talk",
+      "title": "A grey dress, not one like his",
+      "kind": "changed",
+      "tags": [
+        "clarity"
+      ],
+      "before": "Cyrandor let out a breath. She thought he had been holding it for some time. He held out the bundle, and she saw it was clothes: a plain grey dress like his, a shawl, and a pair of soft shoes.",
+      "after": "Cyrandor let out a breath. She thought he had been holding it for some time. He held out the bundle, and she saw it was clothes: a plain grey dress, a shawl, and a pair of soft shoes.",
+      "why": "\"A dress like his\" says he wears one. The grey already ties it to the \"servant's grey\" he wears at the door.",
+      "decision": "accepted",
+      "decision_note": "The author asked for a pass for errors, inconsistencies and POV slips (30 September).",
+      "decision_short": "part of the pass you asked for (30 September)."
+    },
+    {
+      "section": "Talk",
+      "title": "\"By the back stairs\"",
+      "kind": "changed",
+      "tags": [
+        "title"
+      ],
+      "before": "\"The same way we do, Your Highness. By the back stairs, with your head down.\"",
+      "after": "\"The same way we do. By the back stairs, with your head down.\"",
+      "why": "Cyrandor's title: see change 6.",
+      "decision": "accepted",
+      "decision_note": "The author asked for a pass for errors, inconsistencies and POV slips (30 September).",
+      "decision_short": "part of the pass you asked for (30 September)."
+    },
+    {
+      "section": "Talk",
+      "title": "Who knelt",
+      "kind": "changed",
+      "tags": [
+        "clarity"
+      ],
+      "before": "Then she knelt and put the shoes down in front of Seralune's feet.",
+      "after": "Then Nereth knelt and put the shoes down in front of Seralune's feet.",
+      "why": "The sentence before it is \"It was Cyrandor who looked away first.\", so \"she\" could be either woman.",
+      "decision": "accepted",
+      "decision_note": "The author asked for a pass for errors, inconsistencies and POV slips (30 September).",
+      "decision_short": "part of the pass you asked for (30 September)."
+    },
+    {
+      "section": "Stairs",
+      "title": "Along the gallery",
+      "kind": "changed",
+      "tags": [
+        "continuity"
+      ],
+      "before": "They went away from the gallery, not towards it. At the end of the passage there was a door Seralune would have taken for part of the wall, and behind it a stair so narrow that her shoulders brushed both sides. Cyrandor went first, with the key in his fist, and Nereth came last.",
+      "after": "They went along the gallery, away from the way Thaer had brought her last night. At the far end there was a door Seralune would have taken for part of the wall, and behind it a stair so narrow that her shoulders brushed both sides. Cyrandor went first, with the key in his fist, and Nereth came last.",
+      "why": "Follows change 2: her door opens onto the gallery, so they can't go away from it. They take it the other way from the corridor Thaer brought her along, which keeps them off the main routes, as the design asks (\"servants' routes rather than the formal corridors\").",
+      "decision": "accepted",
+      "decision_note": "The author asked for a pass for errors, inconsistencies and POV slips (30 September).",
+      "decision_short": "part of the pass you asked for (30 September)."
+    },
+    {
+      "section": "Stairs",
+      "title": "The laundry woman",
+      "kind": "changed",
+      "tags": [
+        "pov"
+      ],
+      "before": "Seralune looked back. The woman had already forgotten her. Nobody had ever told her not to dawdle.",
+      "after": "Seralune looked back. The woman was already busy with someone else. Nobody had ever told her not to dawdle.",
+      "why": "Point of view. Seralune can't see into the woman's head to know she has forgotten her. She can see her busy with someone else, which says the same thing.",
+      "decision": "accepted",
+      "decision_note": "The author asked for a pass for errors, inconsistencies and POV slips (30 September).",
+      "decision_short": "part of the pass you asked for (30 September)."
+    },
+    {
+      "section": "Stairs",
+      "title": "Who stands with her mouth open",
+      "kind": "changed",
+      "tags": [
+        "continuity"
+      ],
+      "before": "All round them, people stopped. The woman with the bread stood with her mouth open, looking up. A man came out of the laundry with his sleeves rolled up and his arms red to the elbow and asked what in the Last Dark was going on, and nobody told him.",
+      "after": "All round them, people stopped. A girl with a tray of cups stood with her mouth open, looking up. A man came out of the laundry with his sleeves rolled up and his arms red to the elbow and asked what in the Last Dark was going on, and nobody told him.",
+      "why": "The woman with the bread was on the first landing they passed, and they have gone down several flights since, so she can't be here. Someone else stands in for her.",
+      "decision": "accepted",
+      "decision_note": "The author asked for a pass for errors, inconsistencies and POV slips (30 September).",
+      "decision_short": "part of the pass you asked for (30 September)."
+    },
+    {
+      "section": "Laundry",
+      "title": "A look back, not a turn",
+      "kind": "changed",
+      "tags": [
+        "continuity"
+      ],
+      "before": "She knew the voice before she turned. He was a guard, off watch by the look of him, with his helmet under his arm and his hair flattened from wearing it. He had Nereth by the arm.",
+      "after": "She looked back over her shoulder. He was a guard, off watch by the look of him, with his helmet under his arm and his hair flattened from wearing it. He had Nereth by the arm.",
+      "why": "She has heard this guard say two words, once, over the noise of the falls, so knowing his voice is a stretch, and the next paragraph has her know him by sight anyway. A look over her shoulder also keeps \"She turned round.\" a few lines later as the moment she decides to go back.",
+      "decision": "accepted",
+      "decision_note": "The author asked for a pass for errors, inconsistencies and POV slips (30 September).",
+      "decision_short": "part of the pass you asked for (30 September)."
+    },
+    {
+      "section": "Laundry",
+      "title": "Whose feet",
+      "kind": "changed",
+      "tags": [
+        "clarity"
+      ],
+      "before": "The guard looked up. He looked at her face, under the shawl, and she watched him know it. He didn't shout. At first he didn't do anything at all. His hand on Nereth's arm stayed where it was, but it didn't tighten, and his eyes went down to her feet, in their borrowed shoes, and came back to her face.",
+      "after": "The guard looked up. He looked at her face, under the shawl, and she watched him know it. He didn't shout. At first he didn't do anything at all. His hand on Nereth's arm stayed where it was, but it didn't tighten, and his eyes went down to Seralune's feet, in their borrowed shoes, and came back to her face.",
+      "why": "Straight after \"Nereth's arm\", \"her feet\" could be Nereth's. They're Seralune's: he last saw them bare.",
+      "decision": "accepted",
+      "decision_note": "The author asked for a pass for errors, inconsistencies and POV slips (30 September).",
+      "decision_short": "part of the pass you asked for (30 September)."
+    },
+    {
+      "section": "Laundry",
+      "title": "Losing the voices",
+      "kind": "changed",
+      "tags": [
+        "clarity"
+      ],
+      "before": "Then she couldn't make out any of it.",
+      "after": "Then the voices went further off, and she lost them.",
+      "why": "She already couldn't make out most of it (\"too many to make out\", \"something she couldn't catch\"). What changes is that the voices go away, which fits \"Round by the south court! Go, go!\"",
+      "decision": "accepted",
+      "decision_note": "The author asked for a pass for errors, inconsistencies and POV slips (30 September).",
+      "decision_short": "part of the pass you asked for (30 September)."
+    },
+    {
+      "section": "South stair",
+      "title": "No lamps",
+      "kind": "changed",
+      "tags": [
+        "clarity"
+      ],
+      "before": "The passage beyond the door was cold, and nobody had swept it in a long time. There were no people here, and no lamps but the grey light that came down through slits high in the walls. The dust on the floor took their footprints, and Seralune thought of the guards coming round by the south court, and how easy it would be for them to follow.",
+      "after": "The passage beyond the door was cold, and nobody had swept it in a long time. There were no people here and no lamps, only the grey light that came down through slits high in the walls. The dust on the floor took their footprints, and Seralune thought of the guards coming round by the south court, and how easy it would be for them to follow.",
+      "why": "\"No lamps but the grey light\" made the daylight a lamp.",
+      "decision": "accepted",
+      "decision_note": "The author asked for a pass for errors, inconsistencies and POV slips (30 September).",
+      "decision_short": "part of the pass you asked for (30 September)."
+    },
+    {
+      "section": "South stair",
+      "title": "Which arch",
+      "kind": "changed",
+      "tags": [
+        "clarity"
+      ],
+      "before": "There was a window at the end, a real window, tall and narrow, with a stone seat under it where she had sat to be out of the way. There were the steps going down beside it, worn in the middle. The carving over the arch had been knocked about and was furred with dust, but it was the carving she remembered. After a whole night and a morning of doors in the wrong places and faces she had never seen, here was something that was hers, and nobody had been here for years.",
+      "after": "There was a window at the end, a real window, tall and narrow, with a stone seat under it where she had sat to be out of the way. There were the steps going down beside it, worn in the middle. The carving over the arch at the top of the steps had been knocked about and was furred with dust, but it was the carving she remembered. After a whole night and a morning of doors in the wrong places and faces she had never seen, here was something that was hers, and nobody had been here for years.",
+      "why": "No arch had been mentioned, so \"the arch\" had nothing to point to.",
+      "decision": "accepted",
+      "decision_note": "The author asked for a pass for errors, inconsistencies and POV slips (30 September).",
+      "decision_short": "part of the pass you asked for (30 September)."
+    },
+    {
+      "section": "South stair",
+      "title": "Why he's out of breath",
+      "kind": "changed",
+      "tags": [
+        "clarity"
+      ],
+      "before": "He was between them and the way on. He wasn't holding his sword. He didn't need to. He must have come up from below, by some way she didn't know, because he was a little out of breath, and he was looking at her as if he had been afraid she would not be there.",
+      "after": "He was between them and the way on. He wasn't holding his sword. He didn't need to. He must have come up from below, by some way she didn't know, because he was a little out of breath. And he was looking at her as if he had been afraid she would not be there.",
+      "why": "The \"because\" ran on into the look, as if the look were more proof that he had come up from below. The look is its own sentence now.",
+      "decision": "accepted",
+      "decision_note": "The author asked for a pass for errors, inconsistencies and POV slips (30 September).",
+      "decision_short": "part of the pass you asked for (30 September)."
+    }
+  ]
+}

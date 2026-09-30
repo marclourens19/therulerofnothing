@@ -607,6 +607,7 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - Cut: "I serve in this house", and her mother taking her to Inrandeel.
   - **Design and dialogue settled; waiting for the go-ahead.**
 - **Written (30 September)** as `Volume 1/Chapter 7 - Untitled.md`, about 3,850 words. Claude's first draft, waiting on the author's review; the new details are listed for a yes or no in the design file ("The first draft").
+- **A pass for errors, inconsistencies and POV slips (30 September),** at the author's request: 21 changes, in `Volume 1/Chapter 7 - Changes.md`. Change 7 (Elowen now comes before the thousand years sinks in) waits on the author's yes. Open question: whether Nereth makes a light at the aqueduct arch.
 
 ## Alaric
 

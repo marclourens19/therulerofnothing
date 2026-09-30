@@ -1,6 +1,6 @@
 # Chapter 7: Design
 
-Started 30 September 2026. **Status:** written on 30 September as `Chapter 7 - Untitled.md` (about 3,850 words; the first draft is saved in `Drafts/`). Waiting on the author's review; the title is to come.
+Started 30 September 2026. **Status:** written on 30 September as `Chapter 7 - Untitled.md` (about 3,850 words; the first draft is saved in `Drafts/`). A pass for errors, inconsistencies and POV slips followed the same day (21 changes, in `Chapter 7 - Changes.md`; now 3,829 words). Waiting on the author's review, one Your-call from the pass and a question about light in the aqueduct; the title is to come.
 
 **The target:** 4,000–5,000 words, and longer if the story needs it. Claude will give a range, not a single number, because Chapters 5 and 6 both came in about a quarter under Claude's budgets.
 
@@ -522,3 +522,34 @@ The author said "okay write the chapter". The draft is in `Chapter 7 - Untitled.
 18. "I told Leorin—" / "I heard you."
 19. Nereth, on the way down: "Not yet, Your Highness. Please." when Seralune starts to speak of Cyrandor.
 20. Nereth was once sent down to clear the channels, which is why she knows the way "as far as the first turning".
+
+## The pass for errors, inconsistencies and POV slips (30 September)
+
+The author asked for "a pass of chapter 7 looking for errors, inconsistencies, pov slips". Claude checked the draft against Chapter 5 and this design and made 21 changes. They're listed with their before and after in `Chapter 7 - Changes.md` (change list: `Drafts/Chapter 7 - change list.json`). The chapter is now 3,829 words.
+
+- **Point of view (2):** Nereth getting up behind Seralune's back, and the laundry woman who "had already forgotten her".
+- **Continuity (6):**
+  - Her door opens onto the gallery (Chapter 5), so the guards sit out on the gallery, and the three go along it, not away from it.
+  - Cyrandor's hands fold over the bundle he's still holding.
+  - The woman with the bread was several flights up, so a girl with a tray of cups stands in for her.
+  - Seralune looks back at the guard, instead of knowing his voice from two words.
+  - The Elowen beat (below).
+- **Cyrandor's "Your Highness" (4):** it comes out of the four lines where the draft added it, following the design review ("without every sentence containing 'Your Highness'"). The eight lines settled in the dialogue round keep it.
+- **Clarity (9) and house style (1):**
+  - unclear pronouns;
+  - a stray comma;
+  - sentences whose logic slipped ("no lamps but the grey light");
+  - italics on words spoken aloud.
+
+**Your call: change 7, the Elowen beat.** In the draft she took in the thousand years and sat down, and only then asked whether Cyrandor knew Elowen, which by then she'd know he couldn't. Now the evidence comes and she stops herself, as she did on the gallery. Elowen is the last thing she reaches for, and his answer is what breaks it. The design's order stays (the number, her challenge, then Elowen), and no line is reworded.
+
+**A question for the author: light in the aqueduct.** Nobody has a lamp, and the chapter ends with them walking in where Seralune "couldn't see anything at all". Nereth has Fire (the design review's table). Does she make a small flame at the arch in this chapter, or does the next chapter open in the dark and leave that choice to her? The ending stays as it is until the author answers.
+
+**Checked and left alone:**
+- "The order came at first light".
+- Thaer's knuckles "raw where he had struck the wall".
+- The screen she changes behind.
+- Nereth's hands on the folded shawl (the author's own image).
+- Chapter 5's one "footsteps in the corridor".
+
+The reasons are in `Chapter 7 - Changes.md`. Your-call item 15 ("I know. I used to." and *This was ours before it was anyone's.*) and item 8 ("Lord Leorin") are left for the author's review of the new details.
