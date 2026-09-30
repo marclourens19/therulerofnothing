@@ -1,4 +1,4 @@
-*The author's consolidated working design for Chapter 7 (30 September 2026), kept here verbatim. It supersedes the earlier shapes in `Chapter 7 - Design.md` and `Chapter 7 - Design Review.md`. Claude's check and recommendations are in `Chapter 7 - Design.md`.*
+*The author's consolidated working design for Chapter 7, kept here verbatim. First saved on 30 September 2026, then replaced the same day by this updated version, which folds in Claude's recommendations for the report and the close call as proposals under discussion. It supersedes the earlier shapes in `Chapter 7 - Design.md` and `Chapter 7 - Design Review.md`.*
 
 # Chapter 7 — Working Design
 
@@ -50,6 +50,8 @@ For Volume 1, this is an early gain in agency and companionship. It does not com
 | Cyrandor’s separation | It occurs at the close call, before the stair confrontation, against a different guard approach. |
 | Access and knocks | Normal drink duty provides access; the household collection instruction provides knowledge; he takes the key from a sleeping guard and knocks before opening. |
 | Aqueduct details | The falls gradually become inaudible behind stone, followed by the smell of standing water. |
+| Maternal phrase | The falls-based idea, with conversational original wording and a changed instruction inherited by the Order; no exact pair chosen. |
+| Report and close call | The queen sought knowledge allowing Seralune to live safely outside the seal; a recognising guard detains Nereth, Seralune exposes herself by returning, and Cyrandor remains while a report sends Thaer to the stair. These are new recommendations under discussion. |
 
 Nereth’s precise slip remains tentative. The mother’s original line and Cyrandor’s inherited wording also remain to be chosen.
 
@@ -103,7 +105,7 @@ Cyrandor admits he does not know who carried out the ancient sealing. His knowle
 
 The last report places the queen in Inrandeel centuries ago. Seralune remembers the independent elves there and has her own reason to investigate.
 
-It is a place to start, not a promise of reunion. The surviving report needs enough specificity to be useful; its exact contents remain open.
+It is a place to start, not a promise of reunion. **New recommended report content:** the queen went to the independent elves outside Natharul's rule seeking knowledge that would let Seralune wake and live safely beyond the crystal. Because Seralune is now awake, the continuing purpose is understanding what her mother sought about her mana and whether any knowledge remains. The report records the search, not success or the existence of a guaranteed cure. This purpose is not yet approved.
 
 The search begins in Mydea. Any later trail towards Favale must be discovered on the journey.
 
@@ -141,11 +143,11 @@ Thaer, already approaching her room, receives enough information to infer the ro
 
 ### 12. Nereth is caught; Cyrandor stays
 
-A specific challenge separates or exposes Nereth. She attempts a solution before Seralune intervenes.
+A specific challenge separates or exposes Nereth. She attempts a solution before Seralune intervenes. **New proposed sequence:** a guard from an earlier night watch recognises the princess's maid. He is not one of the guards currently drugged outside the room. Nereth tries to maintain the disguise while Seralune continues with the servants. When he takes Nereth's arm, Seralune turns back and demands her release. Her face becomes visible to someone who saw her the previous night, confirming her identity.
 
 Seralune returns for her. This honours their shared departure; rescuing a detained companion is not automatically her controlling flaw.
 
-**Recommended staging:** Cyrandor delays the guards on another approach while the women continue. His action buys real time through familiar access, deception or an ordinary mechanism.
+**Recommended staging:** Cyrandor directs them towards the south stair and closes a connector behind them, remaining on the guards' side. The closure alone does not stop pursuit: establish how a lock, familiar access or a credible deception buys time. One guard can leave to report the direction to Thaer while the others remain occupied with Cyrandor. His instruction can sacrifice secrecy under pressure, or the guards can infer the direction from the route they saw. The precise mechanism and timing remain to be settled; he does not suddenly defeat a patrol in combat.
 
 Nereth’s first lapse in composure can occur when she understands he is deliberately remaining. The exact trigger and words remain open. His survival is not decided by the narration.
 
@@ -240,6 +242,6 @@ The reader should want Seralune to get away while still wanting Thaer to answer 
 
 The mother’s altered words should carry affection and distance. Elowen should make lost time personal. The ending should leave the women with a real gain and an unresolved danger.
 
-The remaining design decisions are the five unanswered Round 3 choices, the maternal phrase, the last report’s usable contents and the precise mechanics of the close call. Once those are settled, the dialogue round can refine the voices.
+The remaining design decisions are the seven Round 3 items in the recommendation table, including the maternal phrase and the proposed report/close-call details. Once those are settled, the dialogue round can refine the voices. The latest proposals have been incorporated here for review, without treating them as approved canon.
 
 Source: [Chapter 7 PR](https://github.com/marclourens19/therulerofnothing/pull/12), checked at revision e24a39cde9d0e23aaeaa17c49bda958304b09f30, together with the subsequent discussion.

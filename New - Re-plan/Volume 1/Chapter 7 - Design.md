@@ -282,3 +282,19 @@ The author consolidated the design into `Chapter 7 - Working Design.md`, kept wo
 4. Cyrandor gets between them and the guards, sends the women on ("The south stair. Go."), and shuts or bars a door with himself on the guards' side.
 5. Nereth realises he isn't coming, and slips.
 6. The guards now know which way she went, and that report is what sends Thaer to the south stair. Her compassion costs them the head start, and it was still right.
+
+### The updated working design (30 September)
+
+The author updated `Chapter 7 - Working Design.md`. It folds in the report and close-call recommendations as proposals, and adds two fixes:
+- **The guard who knows Nereth is from an earlier watch,** not the drugged guards at the door. *Claude's recommendation had it as "a guard who stood at her door last night"; those guards are asleep. The author's version is right.*
+- **Cyrandor shutting a door doesn't stop pursuit by itself.** The chapter has to show how it buys time; he doesn't beat a patrol in a fight.
+- **The mother's line:** the falls idea, with original wording that sounds like a mother talking. No pair chosen yet.
+
+### Claude's proposals for the two new gaps
+
+**How Cyrandor buys time.** *Proposed:* he locks the door behind the women with the household key he carries, and keeps the key. The guards have to go the long way round, and one runs to report which way she went. That report is what reaches Thaer, who knows a shorter way. So it's time, not a victory.
+
+**The mother's line, sounding like a mother.** Each pair is her original, then the Order's inherited version.
+1. "Don't cry. The falls never stop, and neither will I." becomes "The falls do not stop, and neither will we." *Claude's pick.* Her "I" has become the servants' "we": the promise was carried by other people, which is exactly what happened. It also comes back at the end. She's told the falls never stop, and at the aqueduct entrance she stops being able to hear them, as she couldn't in the chamber in Chapter 4.
+2. "Hear that? As long as you can hear the falls, I'll come and find you." becomes "While the falls are heard, she will be found."
+3. "If you ever get lost, follow the falls home. I'll be waiting." becomes "Follow the falls, and she will be waiting." Who "she" is has been lost.
