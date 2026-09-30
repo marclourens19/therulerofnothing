@@ -39,6 +39,8 @@ The story is being re-planned from the beginning. Current work lives in **New - 
   - `Chapter 7 - Design Review.md`: the author's design and lore review of Chapter 7 (30 September), kept word for word.
   - `Chapter 7 - Working Design.md`: the author's consolidated design for Chapter 7 (30 September), now the working design.
   - `Chapter 7 - Untitled.md`: Chapter 7, Claude's first draft (30 September), after a pass for errors, inconsistencies and POV slips. Its changes are in `Chapter 7 - Changes.md`. It's waiting on the author's review and a title.
+  - `Chapter 7 - Combined Draft.md`: a third draft from the author (30 September) that combines Claude's chapter with material from a GPT draft. It's kept word for word and is for comparison, not yet the chapter.
+  - `Chapter 7 - Draft Comparison.md`: the author's comparison of the two drafts and the reasoning for the combined one, kept word for word.
   - `Drafts/`: earlier versions of the chapters, kept unchanged.
 
 ## The rewriting skill
