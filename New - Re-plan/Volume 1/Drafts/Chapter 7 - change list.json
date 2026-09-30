@@ -8,7 +8,8 @@
     "Title": "The title",
     "Pass 1": "Pass 1: the agreed fixes, and a full read",
     "Pass 2": "Pass 2",
-    "Pass 3": "Pass 3, the final pass"
+    "Pass 3": "Pass 3, the final pass",
+    "Review": "The author's review (30 September)"
   },
   "changes": [
     {
@@ -90,11 +91,12 @@
       "kind": "changed",
       "tags": [
         "pass1",
-        "agreed"
+        "agreed",
+        "review"
       ],
       "before": "Seralune looked back. The woman was already busy with someone else. She had not even looked properly at Seralune's face.",
-      "after": "Seralune looked back. The woman was already busy with someone else, and she hadn't even looked properly at her face. Nobody had ever told Seralune not to dawdle.",
-      "why": "Agreed with the author. The comparison praises this moment (\"someone gives her work rather than making way for her\"), and the dawdle line is where Seralune feels it. The combined draft's line stays beside it.",
+      "after": "Seralune looked back. The woman was already busy with someone else, and she hadn't even looked properly at her face.",
+      "why": "Agreed with the author. The comparison praises this moment (\"someone gives her work rather than making way for her\"), and the dawdle line is where Seralune feels it. The combined draft's line stays beside it. *Review:* The author: \"an unnecessary absolute. Her mother or Elowen plausibly could have. The preceding detail… already conveys the unfamiliar treatment more precisely.\"",
       "decision": "accepted",
       "decision_short": "part of the passes you asked for (30 September).",
       "decision_note": "Pass 1 of the three the author asked for (30 September): the fixes agreed on the combined draft, and robotic text, POV slips and errors."
@@ -104,11 +106,12 @@
       "title": "The wall with the aprons",
       "kind": "changed",
       "tags": [
-        "pass1"
+        "pass1",
+        "review"
       ],
       "before": "It was plastered and whitewashed and hung with a row of hooks with aprons on them, and not a mark on it to say there had ever been a stair. She stood and looked at it until Nereth touched her elbow.",
-      "after": "It was plastered and whitewashed and hung with aprons on a row of hooks, and not a mark on it to say there had ever been a stair. She stood and looked at it until Nereth touched her elbow.",
-      "why": "\"With a row of hooks with aprons\" tripped over its own \"with\".",
+      "after": "Aprons hung from hooks on the whitewashed wall. There was no sign a stair had ever been there. She stood and looked at it until Nereth touched her elbow.",
+      "why": "\"With a row of hooks with aprons\" tripped over its own \"with\". *Review:* The author's wording, from the review's example of the \"and\" rhythm.",
       "decision": "accepted",
       "decision_short": "part of the passes you asked for (30 September).",
       "decision_note": "Pass 1 of the three the author asked for (30 September): the fixes agreed on the combined draft, and robotic text, POV slips and errors."
@@ -134,11 +137,12 @@
       "kind": "changed",
       "tags": [
         "pass1",
-        "agreed"
+        "agreed",
+        "review"
       ],
       "before": "He was between them and the way on. He wasn't holding his sword. He didn't need to. He was a little out of breath. Somewhere above them, a man called that the prince had gone down to the south stair. He was looking at her as if he had been afraid she would not be there.",
-      "after": "He was between them and the way on, and he wasn't holding his sword. He didn't need to. He must have come up from below, by some way she didn't know, because he was a little out of breath. He was looking at her as if he had been afraid she wouldn't be there.",
-      "why": "Agreed with the author: \"Thaer got below on his own route.\" The report at the door (\"Tell the prince. They've gone down the south stair.\") already says why he's here. The second report repeated it and left \"He was looking at her\" reading as the man who called. His being below them is what shows he came another way.",
+      "after": "He was between them and the way on, and he wasn't holding his sword. He didn't need to. He was a little out of breath, and he was looking at her as if he had been afraid she wouldn't be there.",
+      "why": "Agreed with the author: \"Thaer got below on his own route.\" The report at the door (\"Tell the prince. They've gone down the south stair.\") already says why he's here. The second report repeated it and left \"He was looking at her\" reading as the man who called. His being below them is what shows he came another way. *Review:* The author: \"Thaer's breathlessness doesn't establish his route… Simply keeping 'He was a little out of breath' resolves the weak reasoning.\" His being on the landing below them shows he came another way.",
       "decision": "accepted",
       "decision_short": "part of the passes you asked for (30 September).",
       "decision_note": "Pass 1 of the three the author asked for (30 September): the fixes agreed on the combined draft, and robotic text, POV slips and errors."
@@ -249,11 +253,12 @@
       "title": "Grates and people",
       "kind": "changed",
       "tags": [
-        "pass2"
+        "pass2",
+        "review"
       ],
       "before": "They came out at the bottom into a long, low passage with a channel down the middle of the floor, and water running in it, carrying suds away. There were grates set in the channel every few paces, and the water went gurgling down through them. There were a great many people in the passage, and all of them had heard the shouting, and all of them were talking at once. Seralune went through them with her head down and the shawl held close at her throat.",
-      "after": "They came out at the bottom into a long, low passage with a channel down the middle of the floor, and water running in it, carrying suds away. Grates were set in the channel every few paces, and the water went gurgling down through them. The passage was full of people, and all of them had heard the shouting, and all of them were talking at once. Seralune went through them with her head down and the shawl held close at her throat.",
-      "why": "Two sentences in a row began \"There were\".",
+      "after": "They came out at the bottom into a long, low passage with a channel down the middle of the floor, and water running in it, carrying suds away. Grates were set in the channel every few paces, and the water went gurgling down through them. The passage was full of people. All of them had heard the shouting, and all of them were talking at once. Seralune went through them with her head down and the shawl held close at her throat.",
+      "why": "Two sentences in a row began \"There were\". *Review:* The author's review: \"The repeated 'and' construction becomes too noticeable… clothing, corridors and routine movement often receive the same accumulating rhythm. A selective pass would give the quieter passages more variation.\"",
       "decision": "accepted",
       "decision_short": "part of the passes you asked for (30 September).",
       "decision_note": "Pass 2 of three (30 September): robotic text, POV slips and errors."
@@ -319,11 +324,12 @@
       "title": "A second glance",
       "kind": "changed",
       "tags": [
-        "pass3"
+        "pass3",
+        "review"
       ],
       "before": "The palace was waking up. Nobody here was bowing. A boy went past them with two buckets of water, slopping, and a woman with an armful of bread shouted at him for it. Somewhere close there was a laundry, because the air was warm and wet and smelled of soap, and she could hear someone beating cloth against stone. Nobody looked twice at three servants going down the stairs. Seralune kept her head down, the way she'd been told, and found that it was easy. She had never had to do it before.",
-      "after": "The palace was waking up. Nobody here was bowing. A boy went past them with two buckets of water, slopping, and a woman with an armful of bread shouted at him for it. Somewhere close there was a laundry, because the air was warm and wet and smelled of soap, and she could hear someone beating cloth against stone. Three servants going down the stairs weren't worth a second glance. Seralune kept her head down, the way she'd been told, and found that it was easy. She had never had to do it before.",
-      "why": "\"Nobody\" twice in one paragraph, and \"looked\" four times in five lines here (\"looked twice\", \"took one look\", \"looked back\", \"looked properly\").",
+      "after": "The palace was waking up. Nobody here was bowing. A boy went past them with two buckets of water, slopping, and a woman with an armful of bread shouted at him for it. There was a laundry somewhere close. The air was warm and damp with soap, and she could hear someone beating cloth against stone. Three servants going down the stairs weren't worth a second glance. Seralune kept her head down, the way she'd been told, and found that it was easy. She had never had to do it before.",
+      "why": "\"Nobody\" twice in one paragraph, and \"looked\" four times in five lines here (\"looked twice\", \"took one look\", \"looked back\", \"looked properly\"). *Review:* The author's review: \"The repeated 'and' construction becomes too noticeable… clothing, corridors and routine movement often receive the same accumulating rhythm. A selective pass would give the quieter passages more variation.\"",
       "decision": "accepted",
       "decision_short": "part of the passes you asked for (30 September).",
       "decision_note": "Pass 3 of three, the final pass (30 September): robotic text, POV slips and errors."
@@ -333,19 +339,118 @@
       "title": "The guard knows her",
       "kind": "changed",
       "tags": [
-        "pass3"
+        "pass3",
+        "review"
       ],
       "before": "The guard looked up. He looked at her face, under the shawl, and she watched him know it. He didn't shout. At first he didn't do anything at all. His hand on Nereth's arm stayed where it was, but it didn't tighten, and his eyes went down to Seralune's feet, in their borrowed shoes, and came back to her face.",
-      "after": "The guard looked up, at her face under the shawl, and she watched him know it. He didn't shout. At first he didn't do anything at all. His hand on Nereth's arm stayed where it was, but it didn't tighten, and his eyes went down to Seralune's feet, in their borrowed shoes, and came back to her face.",
-      "why": "Same reason: one look, not two, and the moment he knows her comes sooner.",
+      "after": "The guard looked up, at her face under the shawl, and she watched him know it. He didn't shout. At first he didn't do anything at all. His hand on Nereth's arm stayed where it was, but it didn't tighten. His eyes went down to Seralune's feet, in their borrowed shoes, and came back to her face.",
+      "why": "Same reason: one look, not two, and the moment he knows her comes sooner. *Review:* The author's review: \"The repeated 'and' construction becomes too noticeable… clothing, corridors and routine movement often receive the same accumulating rhythm. A selective pass would give the quieter passages more variation.\"",
       "decision": "accepted",
       "decision_short": "part of the passes you asked for (30 September).",
       "decision_note": "Pass 3 of three, the final pass (30 September): robotic text, POV slips and errors."
+    },
+    {
+      "section": "Review",
+      "title": "The sleeping guard",
+      "kind": "changed",
+      "tags": [
+        "review"
+      ],
+      "before": "She went out to the nearer one anyway, and crouched, and held her hand in front of his mouth until she felt his breath on it, slow and even. She didn't know his face. Neither of them was the guard who had lowered his sword in the night.",
+      "after": "She went out to the nearer one anyway and crouched beside him. She held her hand in front of his mouth until she felt his breath on it, slow and even. She didn't know his face. Neither of them was the guard who had lowered his sword in the night.",
+      "why": "The author's review: \"The repeated 'and' construction becomes too noticeable… clothing, corridors and routine movement often receive the same accumulating rhythm. A selective pass would give the quieter passages more variation.\"",
+      "decision": "accepted",
+      "decision_short": "part of the passes you asked for (30 September).",
+      "decision_note": "The author's review of the finished chapter (30 September)."
+    },
+    {
+      "section": "Review",
+      "title": "Back inside",
+      "kind": "changed",
+      "tags": [
+        "review"
+      ],
+      "before": "She stood up again, too fast, and had to put her hand on the wall. Then she went back inside, and he followed her in and pushed the door to behind him, and came no closer than that.",
+      "after": "She stood up again, too fast, and had to put her hand on the wall. Then she went back inside. He followed her in, pushed the door to behind him, and came no closer than that.",
+      "why": "The author's review: \"The repeated 'and' construction becomes too noticeable… clothing, corridors and routine movement often receive the same accumulating rhythm. A selective pass would give the quieter passages more variation.\"",
+      "decision": "accepted",
+      "decision_short": "part of the passes you asked for (30 September).",
+      "decision_note": "The author's review of the finished chapter (30 September)."
+    },
+    {
+      "section": "Review",
+      "title": "The dress and the shawl",
+      "kind": "changed",
+      "tags": [
+        "review"
+      ],
+      "before": "Seralune changed behind the screen with her hands shaking, and Nereth fastened what she couldn't. The dress was rough, and loose at the waist, and it smelled of someone else's soap. Nereth put the shawl over her hair and tucked the ends in, and looked at her, and tucked them in again.",
+      "after": "Seralune changed behind the screen with her hands shaking, and Nereth fastened what she couldn't. The dress was rough and loose at the waist, and it smelled of someone else's soap. Nereth put the shawl over her hair and tucked the ends in. Then she stood back to look, and tucked them in again.",
+      "why": "The author's review: \"The repeated 'and' construction becomes too noticeable… clothing, corridors and routine movement often receive the same accumulating rhythm. A selective pass would give the quieter passages more variation.\"",
+      "decision": "accepted",
+      "decision_short": "part of the passes you asked for (30 September).",
+      "decision_note": "The author's review of the finished chapter (30 September)."
+    },
+    {
+      "section": "Review",
+      "title": "The laundry man",
+      "kind": "changed",
+      "tags": [
+        "review"
+      ],
+      "before": "All round them, people stopped. A girl with a tray of cups stood with her mouth open, looking up. A man came out of the laundry with his sleeves rolled up and his arms red to the elbow and demanded to know what was going on, and nobody told him.",
+      "after": "All round them, people stopped. A girl with a tray of cups stood with her mouth open, looking up. A man came out of the laundry with his sleeves rolled up and his arms red to the elbow. He demanded to know what was going on. Nobody told him.",
+      "why": "The author's review: \"The repeated 'and' construction becomes too noticeable… clothing, corridors and routine movement often receive the same accumulating rhythm. A selective pass would give the quieter passages more variation.\"",
+      "decision": "accepted",
+      "decision_short": "part of the passes you asked for (30 September).",
+      "decision_note": "The author's review of the finished chapter (30 September)."
+    },
+    {
+      "section": "Review",
+      "title": "The dust",
+      "kind": "changed",
+      "tags": [
+        "review"
+      ],
+      "before": "The passage beyond the door was cold, and nobody had swept it in a long time. There were no people here and no lamps, only the grey light that came down through slits high in the walls. The dust on the floor took their footprints, and Seralune thought of the guards coming round by the south court, and how easy it would be for them to follow.",
+      "after": "The passage beyond the door was cold, and nobody had swept it in a long time. There were no people here and no lamps, only the grey light that came down through slits high in the walls. The dust on the floor took their footprints. Seralune thought of the guards coming round by the south court, and how easy it would be for them to follow.",
+      "why": "The author's review: \"The repeated 'and' construction becomes too noticeable… clothing, corridors and routine movement often receive the same accumulating rhythm. A selective pass would give the quieter passages more variation.\"",
+      "decision": "accepted",
+      "decision_short": "part of the passes you asked for (30 September).",
+      "decision_note": "The author's review of the finished chapter (30 September)."
+    },
+    {
+      "section": "Review",
+      "title": "Something that was hers",
+      "kind": "changed",
+      "tags": [
+        "review"
+      ],
+      "before": "There was a window at the end, a real window, tall and narrow, with a stone seat under it where she had sat to be out of the way. There were the steps going down beside it, worn in the middle. The carving over the arch at the top of the steps had been knocked about and was furred with dust, but it was the carving she remembered. After a whole night and a morning of doors in the wrong places and faces she had never seen, here was something that was hers, and nobody had been here for years.",
+      "after": "There was a window at the end, a real window, tall and narrow, with a stone seat under it where she had sat to be out of the way. There were the steps going down beside it, worn in the middle. The carving over the arch at the top of the steps had been knocked about and was furred with dust, but it was the carving she remembered. After a whole night and a morning of doors in the wrong places and faces she had never seen, here was something that was hers. Nobody had been here for years.",
+      "why": "The author's review: \"The repeated 'and' construction becomes too noticeable… clothing, corridors and routine movement often receive the same accumulating rhythm. A selective pass would give the quieter passages more variation.\"",
+      "decision": "accepted",
+      "decision_short": "part of the passes you asked for (30 September).",
+      "decision_note": "The author's review of the finished chapter (30 September)."
+    },
+    {
+      "section": "Review",
+      "title": "The guards go",
+      "kind": "changed",
+      "tags": [
+        "review"
+      ],
+      "before": "They went. She listened to them going back up, and the sound of their boots got smaller, and was gone.",
+      "after": "They went. She listened to their boots going back up the stair until she couldn't hear them any more.",
+      "why": "The author's review: \"The repeated 'and' construction becomes too noticeable… clothing, corridors and routine movement often receive the same accumulating rhythm. A selective pass would give the quieter passages more variation.\"",
+      "decision": "accepted",
+      "decision_short": "part of the passes you asked for (30 September).",
+      "decision_note": "The author's review of the finished chapter (30 September)."
     }
   ],
   "glance": [
     "**By pass:** pass 1, changes {tag:pass1}; pass 2, changes {tag:pass2}; pass 3, changes {tag:pass3}. Where a later pass adjusted an earlier change, its reason is added to that change.",
     "**Agreed with the author before the passes:** changes {tag:agreed}."
   ],
-  "summary_md": "## What the passes found\n\n- **Pass 1** made the agreed fixes:\n  - the lamp moves to Nereth's left hand;\n  - Thaer came up from below by his own route, and the second report is cut;\n  - \"him\" now means Leorin;\n  - Cyrandor answers \"Who put me in there?\" once;\n  - \"Nobody had ever told Seralune not to dawdle\" is back;\n  - Inrandeel is in Mydea, and Seralune knows it.\n\n  It also took out explaining lines (\"Then you know why you should stay with me\", \"take Seralune past the people crowding the passage\"), one POV slip (she never saw the guards with Cyrandor) and some small errors.\n- **Pass 2:** a doubled sentence opening, where the wash passage is, who \"they\" were, and one \"Your Highness\" too many from Nereth.\n- **Pass 3:** Cyrandor's \"somebody had to be\" now leads into \"It happened to be me\", and there are fewer \"looked\"s and \"nobody\"s where they bunched up.\n\n## Checked and left alone\n\n- \"I know. I used to.\" and *This was ours before it was anyone's.*, and \"Lord Leorin\": still on the author's list of new details from the first draft.\n- \"Let me sort this out\": the settled line from the dialogue round.\n- The repeated \"look up\" at the shouting (\"looking up\", \"Don't look up\", \"She didn't look up\") and the looks back at the end: meant.\n- \"She went looking for a way\" twice: Seralune quoting Cyrandor back to him."
+  "summary_md": "## What the passes found\n\n- **Pass 1** made the agreed fixes:\n  - the lamp moves to Nereth's left hand;\n  - Thaer came up from below by his own route, and the second report is cut;\n  - \"him\" now means Leorin;\n  - Cyrandor answers \"Who put me in there?\" once;\n  - \"Nobody had ever told Seralune not to dawdle\" is back;\n  - Inrandeel is in Mydea, and Seralune knows it.\n\n  It also took out explaining lines (\"Then you know why you should stay with me\", \"take Seralune past the people crowding the passage\"), one POV slip (she never saw the guards with Cyrandor) and some small errors.\n- **Pass 2:** a doubled sentence opening, where the wash passage is, who \"they\" were, and one \"Your Highness\" too many from Nereth.\n- **Pass 3:** Cyrandor's \"somebody had to be\" now leads into \"It happened to be me\", and there are fewer \"looked\"s and \"nobody\"s where they bunched up.\n- **The author's review (30 September):** three notes. Fewer \"and\" chains in the quieter passages (the ones in her fear and grief stay). Thaer is just \"a little out of breath\", with no reasoning about his route. The \"dawdle\" line comes out.\n\n## Checked and left alone\n\n- \"I know. I used to.\" and *This was ours before it was anyone's.*, and \"Lord Leorin\": still on the author's list of new details from the first draft.\n- \"Let me sort this out\": the settled line from the dialogue round.\n- The repeated \"look up\" at the shouting (\"looking up\", \"Don't look up\", \"She didn't look up\") and the looks back at the end: meant.\n- \"She went looking for a way\" twice: Seralune quoting Cyrandor back to him."
 }

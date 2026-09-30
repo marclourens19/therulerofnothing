@@ -565,3 +565,12 @@ The author sent a third draft that combines Claude's chapter with material from 
 The author's note for the passes: "make sure no robotic AI text, speaking or explanations, pov slips or errors." Three passes followed, with 22 changes (see `Chapter 7 - Changes.md`). The light question is settled by the combined draft's lamp, now in Nereth's left hand so that her right is free for Seralune's left.
 
 **The title (30 September):** "Make it how it was before: The Last Keeper", the title of the old escape chapter. The chapter is now `Chapter 7 - The Last Keeper.md`.
+
+## The author's review (30 September)
+
+Three things kept it from a higher score. All three are fixed in `Chapter 7 - Changes.md` ("The author's review").
+
+1. **Too many "and" chains.** "Clothing, corridors and routine movement often receive the same accumulating rhythm." The quieter passages now vary it, starting with the author's own line for the wall: "Aprons hung from hooks on the whitewashed wall. There was no sign a stair had ever been there." The chains stay where she's overwhelmed (the memory on the step, her thought before the first bell, what she says to Thaer, what she kept all night) and in fast action (the door, the key).
+2. **Thaer's breathlessness doesn't prove his route.** Now it's only "He was a little out of breath". His place on the landing below them is enough.
+3. **"Nobody had ever told Seralune not to dawdle" is an absolute** (her mother or Elowen could have). It's cut. The woman who never looked properly at her face carries the moment.
+

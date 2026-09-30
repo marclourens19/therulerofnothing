@@ -26,9 +26,9 @@ Past him, out on the gallery, the two guards were sitting against the wall on ei
 
 "They're asleep. They'll wake with sore heads, and no worse."
 
-She went out to the nearer one anyway, and crouched, and held her hand in front of his mouth until she felt his breath on it, slow and even. She didn't know his face. Neither of them was the guard who had lowered his sword in the night.
+She went out to the nearer one anyway and crouched beside him. She held her hand in front of his mouth until she felt his breath on it, slow and even. She didn't know his face. Neither of them was the guard who had lowered his sword in the night.
 
-She stood up again, too fast, and had to put her hand on the wall. Then she went back inside, and he followed her in and pushed the door to behind him, and came no closer than that.
+She stood up again, too fast, and had to put her hand on the wall. Then she went back inside. He followed her in, pushed the door to behind him, and came no closer than that.
 
 "Why should I believe a word you say?"
 
@@ -162,7 +162,7 @@ Then Nereth knelt and put the shoes down in front of Seralune's feet.
 
 Seralune sat. Nereth held her heel and eased the first shoe on, then the other. The soles were soft, and for the first time since she woke, her feet weren't cold.
 
-Seralune changed behind the screen with her hands shaking, and Nereth fastened what she couldn't. The dress was rough, and loose at the waist, and it smelled of someone else's soap. Nereth put the shawl over her hair and tucked the ends in, and looked at her, and tucked them in again.
+Seralune changed behind the screen with her hands shaking, and Nereth fastened what she couldn't. The dress was rough and loose at the waist, and it smelled of someone else's soap. Nereth put the shawl over her hair and tucked the ends in. Then she stood back to look, and tucked them in again.
 
 At the door, Cyrandor put his hand on Nereth's arm.
 
@@ -172,13 +172,13 @@ They went along the gallery, away from the way Thaer had brought her last night.
 
 The roar of the falls dropped as they went down, until it was only under everything again, the way it always had been. Then there was a landing, and other stairs, and other people.
 
-The palace was waking up. Nobody here was bowing. A boy went past them with two buckets of water, slopping, and a woman with an armful of bread shouted at him for it. Somewhere close there was a laundry, because the air was warm and wet and smelled of soap, and she could hear someone beating cloth against stone. Three servants going down the stairs weren't worth a second glance. Seralune kept her head down, the way she'd been told, and found that it was easy. She had never had to do it before.
+The palace was waking up. Nobody here was bowing. A boy went past them with two buckets of water, slopping, and a woman with an armful of bread shouted at him for it. There was a laundry somewhere close. The air was warm and damp with soap, and she could hear someone beating cloth against stone. Three servants going down the stairs weren't worth a second glance. Seralune kept her head down, the way she'd been told, and found that it was easy. She had never had to do it before.
 
 On the next landing, a woman with a basket on her hip took one look at her and pushed it into her arms. "Laundry, and don't dawdle. You're new."
 
 "She's with me," Nereth said. She took the basket back, and handed it to the next girl who passed, without breaking her step.
 
-Seralune looked back. The woman was already busy with someone else, and she hadn't even looked properly at her face. Nobody had ever told Seralune not to dawdle.
+Seralune looked back. The woman was already busy with someone else, and she hadn't even looked properly at her face.
 
 Somewhere above them, a bell began to ring. It rang once, and stopped.
 
@@ -192,19 +192,19 @@ At the next landing she knew where they were. Or she thought she did.
 
 It was.
 
-It was plastered and whitewashed and hung with aprons on a row of hooks, and not a mark on it to say there had ever been a stair. She stood and looked at it until Nereth touched her elbow.
+Aprons hung from hooks on the whitewashed wall. There was no sign a stair had ever been there. She stood and looked at it until Nereth touched her elbow.
 
 They had gone down two more flights when the shouting started.
 
 It came from above them, very faint, then nearer as people hurried down the stairwell. She couldn't make out all of it. She heard "gone", and "asleep", and then, quite clearly, "the princess".
 
-All round them, people stopped. A girl with a tray of cups stood with her mouth open, looking up. A man came out of the laundry with his sleeves rolled up and his arms red to the elbow and demanded to know what was going on, and nobody told him.
+All round them, people stopped. A girl with a tray of cups stood with her mouth open, looking up. A man came out of the laundry with his sleeves rolled up and his arms red to the elbow. He demanded to know what was going on. Nobody told him.
 
 "Keep walking," Cyrandor said under his breath. "Don't look up."
 
 She didn't look up.
 
-They came out at the bottom into a long, low passage with a channel down the middle of the floor, and water running in it, carrying suds away. Grates were set in the channel every few paces, and the water went gurgling down through them. The passage was full of people, and all of them had heard the shouting, and all of them were talking at once. Seralune went through them with her head down and the shawl held close at her throat.
+They came out at the bottom into a long, low passage with a channel down the middle of the floor, and water running in it, carrying suds away. Grates were set in the channel every few paces, and the water went gurgling down through them. The passage was full of people. All of them had heard the shouting, and all of them were talking at once. Seralune went through them with her head down and the shawl held close at her throat.
 
 "You. You're the princess's maid."
 
@@ -224,7 +224,7 @@ She turned round.
 
 "Let her go."
 
-The guard looked up, at her face under the shawl, and she watched him know it. He didn't shout. At first he didn't do anything at all. His hand on Nereth's arm stayed where it was, but it didn't tighten, and his eyes went down to Seralune's feet, in their borrowed shoes, and came back to her face.
+The guard looked up, at her face under the shawl, and she watched him know it. He didn't shout. At first he didn't do anything at all. His hand on Nereth's arm stayed where it was, but it didn't tighten. His eyes went down to Seralune's feet, in their borrowed shoes, and came back to her face.
 
 "…Your Highness."
 
@@ -254,13 +254,13 @@ Nereth stood with her hands on the ring. Her shoulders went up once, hard, and c
 
 Her voice caught on it, and she didn't try it a second time. She just went.
 
-The passage beyond the door was cold, and nobody had swept it in a long time. There were no people here and no lamps, only the grey light that came down through slits high in the walls. The dust on the floor took their footprints, and Seralune thought of the guards coming round by the south court, and how easy it would be for them to follow.
+The passage beyond the door was cold, and nobody had swept it in a long time. There were no people here and no lamps, only the grey light that came down through slits high in the walls. The dust on the floor took their footprints. Seralune thought of the guards coming round by the south court, and how easy it would be for them to follow.
 
 Then the passage turned, and she stopped.
 
 She knew this.
 
-There was a window at the end, a real window, tall and narrow, with a stone seat under it where she had sat to be out of the way. There were the steps going down beside it, worn in the middle. The carving over the arch at the top of the steps had been knocked about and was furred with dust, but it was the carving she remembered. After a whole night and a morning of doors in the wrong places and faces she had never seen, here was something that was hers, and nobody had been here for years.
+There was a window at the end, a real window, tall and narrow, with a stone seat under it where she had sat to be out of the way. There were the steps going down beside it, worn in the middle. The carving over the arch at the top of the steps had been knocked about and was furred with dust, but it was the carving she remembered. After a whole night and a morning of doors in the wrong places and faces she had never seen, here was something that was hers. Nobody had been here for years.
 
 "The old south stair," Nereth said. "Nobody comes down this way any more."
 
@@ -270,7 +270,7 @@ They went down. The steps turned once, and again, and at the second turning she 
 
 Thaer was standing alone on the landing below.
 
-He was between them and the way on, and he wasn't holding his sword. He didn't need to. He must have come up from below, by some way she didn't know, because he was a little out of breath. He was looking at her as if he had been afraid she wouldn't be there.
+He was between them and the way on, and he wasn't holding his sword. He didn't need to. He was a little out of breath, and he was looking at her as if he had been afraid she wouldn't be there.
 
 *Of course he knew. This was ours before it was anyone's.*
 
@@ -382,7 +382,7 @@ The guard in front opened his mouth.
 
 "Go."
 
-They went. She listened to them going back up, and the sound of their boots got smaller, and was gone.
+They went. She listened to their boots going back up the stair until she couldn't hear them any more.
 
 She turned back to her brother.
 

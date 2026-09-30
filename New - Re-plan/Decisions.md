@@ -613,6 +613,7 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - **Thaer reaches the old south stair ahead of her by his own route.** The guards' report sends him there.
   - Nereth takes a lamp at the bottom of the stair, so the question of her light is settled.
 - **Title: "The Last Keeper"** (the author, 30 September), as the old escape chapter was called.
+- **The author's review (30 September):** fewer "and" chains in quiet passages; Thaer only "a little out of breath"; the "dawdle" line cut. Done.
 
 ## Alaric
 
