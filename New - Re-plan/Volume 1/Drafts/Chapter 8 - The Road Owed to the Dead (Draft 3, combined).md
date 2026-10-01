@@ -1,4 +1,4 @@
-# Chapter 8 – The Road Owed to the Dead
+**Chapter 8 – The Road Owed to the Dead**
 
 Alaric took Wena by the collar and pulled her back off the open grass. She came with her head still turned towards the sound, and he had to draw her the last few steps under the branches before she would lie down. He sat beside her with his back against a trunk and Gerolt's sword across his knees.
 
@@ -196,7 +196,7 @@ The first man spat.
 
 "What, Marta's?"
 
-"The farmer's niece. Just inside the south gate. They want her questioned after she closes."
+"The farmer's niece. Just inside the South Gate. They want her questioned after she closes."
 
 Alaric looked at Silas. The man was watching the guards through the space between two barrels.
 
@@ -338,7 +338,7 @@ Alaric turned back towards the platform. A man near the front was counting coins
 
 "But she doesn't want to go. Look at her. Why are they letting him do that?"
 
-"Because she's Faint. Only Faint can be sold, and those guards know it as well as he does."
+"Because she's 『Faint』. Only 『Faint』 can be sold, and those guards know it as well as he does."
 
 "Gerolt said they took children away. I thought…" He couldn't finish. "And the scars? Did that man do that to her?"
 
@@ -420,7 +420,7 @@ The woman emptied the tub into the gutter and went back inside. Wena stood at th
 
 Alaric shut his eyes. He saw the chain tighten before the woman had got both feet off the boards.
 
-*Only Faint can be sold.* Gerolt hadn't known what they would do with someone who had none. Alaric pulled the cloak closer round himself. He didn't want to imagine what else they could do.
+*Only 『Faint』 can be sold.* Gerolt hadn't known what they would do with someone who had none. Alaric pulled the cloak closer round himself. He didn't want to imagine what else they could do.
 
 Across the lane, the back door shut. Someone at the front called a last goodnight, and the group on the step finally moved away. Silas watched them until they were past the storehouse.
 

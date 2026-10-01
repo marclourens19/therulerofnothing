@@ -1,0 +1,60 @@
+{
+  "title": "Chapter 8: Changes (the combined version)",
+  "draft": "Chapter 8 - The Road Owed to the Dead (Draft 3, combined).md",
+  "chapter": "../Chapter 8 - The Road Owed to the Dead.md",
+  "changes_file": "../Chapter 8 - Changes (combined).md",
+  "intro_md": "1 October 2026. The author's combined version of Chapter 8 (`Drafts/Chapter 8 - The Road Owed to the Dead (Draft 3, combined).md`, from their Word file, with straight quotes) is now the chapter. Only the house style is changed here. Claude's notes on it are in `Chapter 8 - Design.md` (\"The combined version\"), waiting on the author. The version after Claude's three passes is saved as Draft 2, and its changes stay in `Chapter 8 - Changes.md`.",
+  "sections": {
+    "House style": "House style"
+  },
+  "changes": [
+    {
+      "section": "House style",
+      "title": "The heading",
+      "kind": "changed",
+      "tags": [],
+      "before": "**Chapter 8 – The Road Owed to the Dead**",
+      "after": "# Chapter 8 – The Road Owed to the Dead",
+      "why": "The chapters' heading format.",
+      "decision": "accepted",
+      "decision_note": "House style only; the author's text is otherwise unchanged.",
+      "decision_short": "house style."
+    },
+    {
+      "section": "House style",
+      "title": "Faint (1)",
+      "kind": "changed",
+      "tags": [],
+      "before": "\"Because she's 『Faint』. Only 『Faint』 can be sold, and those guards know it as well as he does.\"",
+      "after": "\"Because she's Faint. Only Faint can be sold, and those guards know it as well as he does.\"",
+      "why": "Chapter 1 writes \"Faint\" without the corner brackets, which the house style keeps for 『Affinity』 and 『Magic』.",
+      "decision": "accepted",
+      "decision_note": "House style only; the author's text is otherwise unchanged.",
+      "decision_short": "house style."
+    },
+    {
+      "section": "House style",
+      "title": "Faint (2)",
+      "kind": "changed",
+      "tags": [],
+      "before": "*Only 『Faint』 can be sold.* Gerolt hadn't known what they would do with someone who had none. Alaric pulled the cloak closer round himself. He didn't want to imagine what else they could do.",
+      "after": "*Only Faint can be sold.* Gerolt hadn't known what they would do with someone who had none. Alaric pulled the cloak closer round himself. He didn't want to imagine what else they could do.",
+      "why": "As above.",
+      "decision": "accepted",
+      "decision_note": "House style only; the author's text is otherwise unchanged.",
+      "decision_short": "house style."
+    },
+    {
+      "section": "House style",
+      "title": "The south gate",
+      "kind": "changed",
+      "tags": [],
+      "before": "\"The farmer's niece. Just inside the South Gate. They want her questioned after she closes.\"",
+      "after": "\"The farmer's niece. Just inside the south gate. They want her questioned after she closes.\"",
+      "why": "Lower case, as in Chapters 2 and 6 (pass 3 of 1 October).",
+      "decision": "accepted",
+      "decision_note": "House style only; the author's text is otherwise unchanged.",
+      "decision_short": "house style."
+    }
+  ]
+}

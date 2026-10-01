@@ -338,3 +338,23 @@ Written on the author's go-ahead as `Chapter 8 - Untitled.md`, 4,490 words; a co
 ## Three passes (1 October)
 
 At the author's request, three passes one after another, recorded in `Chapter 8 - Changes.md` (thirteen changes with the title). Pass 1, errors, logic, POV slips and robotic text: a thought that slipped between tenses, a chopped pair of sentences, "let them out" twice, how Alaric reaches the front of the crowd, why Wena keeps looking back, and "He didn't let them stop". Pass 2, rhythm and repeats: "point" twice, a quiet "and…and" sentence, and the shavings. Pass 3, consistency and house style: "south gate" in lower case, as in Chapters 2 and 6. The chapter is 4,493 words.
+
+## The combined version (1 October)
+
+The author sent `Chapter 8 - The Road Owed to the Dead - Combined.docx`, 5,340 words. It's now the chapter, with only house-style changes: the heading, "Faint" without brackets, and "south gate" in lower case. They're listed in `Chapter 8 - Changes (combined).md`. The version after Claude's three passes is kept as Draft 2.
+
+**What the combined version adds, and why it's better:**
+- **A real lead for Wena:** a strip of cloth tied to her collar. The design asked for this.
+- **The wait at the wall door.** The loading yard on the other side is busy, so they have to wait. The yard's ordinary noise (a man losing count of sacks, four people telling someone four ways to free a wheel) makes the town exist beyond the chase.
+- **The woman with the trays** ("Cheers, lad"): the first stranger in Kelmend to treat Alaric as nobody in particular.
+- **The patrol comes before the auction,** so the auction stays untouched by the chase.
+- **After the sale:** the woman lifting her foot out of a gap in the boards; Alaric's hand on his cloak's fastening; *I'm going to walk away.*; "Which way?" It's the strongest new beat in the chapter. It shows without a word that he thinks of giving her the cloak, and doesn't.
+
+**Claude's notes, waiting on the author (not applied):**
+
+1. **"The man was watching the guards"** (the handover). By this point the narration calls Silas "Silas", and you've asked for less "the man". *Recommended:* "Silas was watching the guards through the space between two barrels."
+2. **"Silas stopped beneath the eaves"** (the market). "Eaves" is one of the words you said you didn't know. *Recommended:* "Silas stopped in the shadow of a doorway".
+3. **"The voices round the table grew quieter"** (the wait). The family's table is several houses back from the end of the row, so it isn't clear which table. *Recommended:* "The voices in the houses grew quieter."
+4. **Which cart he hides behind** (the patrol). The market has the half-unloaded cart, a second cart being backed in beside it, and then "the loaded cart". *Recommended:* call it "the half-unloaded cart" each time, so the reader knows where Alaric is.
+5. **Two paragraphs in a row start with "Alaric"** while the sword is unwrapped, and the second has him resting the sword, then tying the knot. *Recommended:* join them: "Alaric rested the sword across his knees while Silas rolled the bed again, keeping his burned hand clear, and tied the cord round it for him."
+6. **"Cheers, lad"** (small). It's the only very modern British phrase in the chapters so far. "Thanks, lad" carries the same warmth. Your call.

@@ -673,7 +673,8 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - **The dialogue is approved (1 October).** Round 3 is the final dialogue for all eight exchanges: Silas's harsher voice, with Claude's three fixes applied (no "hell"; "He doesn't give a shit who watches, because nobody here's going to stop him"; "Beastfolk, Gerolt called them", which is also in Round 2). Chapter 8 was ready to write.
   - **Written (1 October)** on the author's go-ahead, 4,490 words, with the approved dialogue word for word. Its new details are listed for a yes or no in the design file ("The first draft").
   - **Title: "The Road Owed to the Dead"** (the author, 1 October: "Keep it as the road owed to the dead"). The chapter is `Volume 1/Chapter 8 - The Road Owed to the Dead.md`.
-  - **Three passes, one after another (1 October),** at the author's request: errors, logic, POV slips and robotic text; then rhythm and repeats; then consistency and house style. Thirteen changes with the title, listed in `Volume 1/Chapter 8 - Changes.md`. The chapter is 4,493 words. Chapter 10 (Seralune) and Chapter 11 (the Faint quarter, Redd and Freya) remain working recommendations.
+  - **Three passes, one after another (1 October),** at the author's request: errors, logic, POV slips and robotic text; then rhythm and repeats; then consistency and house style. Thirteen changes with the title, listed in `Volume 1/Chapter 8 - Changes.md`. The chapter is 4,493 words.
+  - **The author's combined version (1 October)** is now the chapter, 5,331 words, with only house-style changes (`Volume 1/Chapter 8 - Changes (combined).md`). The version after the three passes is kept in `Drafts/` as Draft 2. Claude's six notes on the combined version wait on the author, in `Volume 1/Chapter 8 - Design.md`. Chapter 10 (Seralune) and Chapter 11 (the Faint quarter, Redd and Freya) remain working recommendations.
 
 ## Alaric
 
