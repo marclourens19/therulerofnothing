@@ -13,7 +13,9 @@
     "Final pass": "Final pass: everything, once more",
     "Review notes": "The review notes: compression and small fixes",
     "100/100": "Claude's 100/100 review: the guards, Marta, the auctioned woman and \"looked\"",
-    "Error pass": "Error pass (1 October)"
+    "Error pass": "Error pass (1 October)",
+    "Final pass 1": "Final pass 1 of 3: errors, POV slips and logic.",
+    "Final pass 2": "Final pass 2 of 3: vocabulary, rhythm and repeats."
   },
   "changes": [
     {
@@ -178,8 +180,8 @@
       "kind": "changed",
       "tags": [],
       "before": "At the end of the row, Silas turned into a gap between a house and a lean-to. Beyond it, the passage ended at the wall. Bundles of kindling stood along one side; a broken handcart had been pushed against the other. Set into the stone behind it was a narrow timber door.",
-      "after": "At the end of the row, Silas turned into a gap between a house and a lean-to. Beyond the lean-to, the gap narrowed into a passage that ended at the wall. Bundles of kindling stood along one side; a broken handcart had been pushed against the other. In the wall at the end was a narrow timber door.",
-      "why": "\"The passage\" hadn't been introduced, and \"behind it\" could mean behind the handcart.",
+      "after": "At the end of the row, Silas turned into a gap between two houses. Further in, it narrowed into a passage that ended at the wall. Bundles of kindling stood along one side; a broken handcart had been pushed against the other. In the wall at the end was a narrow timber door.",
+      "why": "\"The passage\" hadn't been introduced, and \"behind it\" could mean behind the handcart. Final pass 2: \"Lean-to\" twice, and it's a word the chapters haven't used; two houses is all the reader needs.",
       "decision": "accepted",
       "decision_note": "Pass 1 of three (1 October): errors, POV slips and logic.",
       "decision_short": "the author's request (1 October)."
@@ -514,8 +516,8 @@
       "kind": "changed",
       "tags": [],
       "before": "Alaric looked down at Wena. His hand was still gripping the loose skin at her neck; he let it go and stroked her instead.",
-      "after": "His hand was still gripping the loose skin at Wena's neck. He let it go and stroked her instead.",
-      "why": "\"Looked\" was the chapter's most repeated verb (26). Where the look did nothing, it goes.",
+      "after": "Alaric's hand was still gripping the loose skin at Wena's neck. He let it go and stroked her instead.",
+      "why": "\"Looked\" was the chapter's most repeated verb (26). Where the look did nothing, it goes. Final pass 1: When the look went, \"His hand\" came straight after Silas's line, so it could have been Silas's hand.",
       "decision": "accepted",
       "decision_note": "Claude's 100/100 review (1 October), agreed by the author (\"the rest apply\").",
       "decision_short": "the author's agreement (1 October)."
@@ -550,8 +552,8 @@
       "kind": "changed",
       "tags": [],
       "before": "Alaric looked at the door. He could hear footsteps and wheels, and somebody telling somebody else they had brought the wrong cart.",
-      "after": "Beyond the door he could hear footsteps and wheels, and somebody telling somebody else they had brought the wrong cart.",
-      "why": "Fewer looks.",
+      "after": "Beyond the door Alaric could hear footsteps and wheels, and somebody telling somebody else they had brought the wrong cart.",
+      "why": "Fewer looks. Final pass 1: \"He\" came after Silas's line, so it could have been Silas listening.",
       "decision": "accepted",
       "decision_note": "Claude's 100/100 review (1 October), agreed by the author (\"the rest apply\").",
       "decision_short": "the author's agreement (1 October)."
@@ -626,6 +628,18 @@
       "why": "A few lines earlier Silas walks beside him, so \"behind him\" put Alaric in the wrong place.",
       "decision": "accepted",
       "decision_note": "Error pass (1 October), at the author's request (\"do a pass looking for errors\").",
+      "decision_short": "the author's request (1 October)."
+    },
+    {
+      "section": "Final pass 2",
+      "title": "The inn's board",
+      "kind": "changed",
+      "tags": [],
+      "before": "The inn stood on the corner nearest the gate. There was light in every window, upstairs and down. The front door kept opening, and every time it did, the noise came out with it: voices, laughing, somebody singing badly and somebody else telling him to stop. The smell of roasting meat came out too, and new bread, and Alaric was hungry all over again. People sat on the bench outside with their cups. A board hung over the door on a chain, too high in the shadow to read.",
+      "after": "The inn stood on the corner nearest the gate. There was light in every window, upstairs and down. The front door kept opening, and every time it did, the noise came out with it: voices, laughing, somebody singing badly and somebody else telling him to stop. The smell of roasting meat came out too, and new bread, and Alaric was hungry all over again. People sat on the bench outside with their cups. A board hung over the door, too high in the shadow to read.",
+      "why": "\"On a chain\" came a page after the auction's chain, an echo the scene doesn't mean.",
+      "decision": "accepted",
+      "decision_note": "Final pass 2 of 3 (1 October): vocabulary, rhythm and repeats. At the author's request (\"Do 3 more final passes\").",
       "decision_short": "the author's request (1 October)."
     }
   ]

@@ -418,3 +418,11 @@ At the author's request. Four fixes, in the "Error pass" section of `Chapter 8 -
 - The guards left "across the yard", though they came in by the cart entrance and the loader followed them out of it.
 - "Asking about the cloth" could have meant Wena's lead; it's now the woman's cloth.
 - "The ground-floor windows went out. Only one stayed lit" contradicted itself; now "all but one at the back beside the door".
+
+## Three final passes (1 October)
+
+At the author's request ("Do 3 more final passes in order of chapter 8 to check"). Four changes, in `Chapter 8 - Changes (combined).md`; the chapter is 5,268 words.
+
+- **Pass 1, errors, POV slips and logic (2):** "Alaric's hand", not "His hand", straight after Silas speaks (the looks pass had left it pointing at Silas); "Alaric could hear", not "he", after Silas's line in the wait.
+- **Pass 2, vocabulary, rhythm and repeats (2):** "a gap between two houses" instead of "a house and a lean-to… Beyond the lean-to"; the inn's board no longer hangs "on a chain", a page after the auction's chain.
+- **Pass 3, consistency and house style (none needed):** checked against Chapter 6 (the cloak, the sack, the bedroll, the water skin, the burned palm, the ankle), the guards' voices, 『Faint』, spelling, quotes, dashes and swearing. The approved dialogue's "Alaric looked down at the sword" twice, "for a moment" once and "in the dark" once stay.

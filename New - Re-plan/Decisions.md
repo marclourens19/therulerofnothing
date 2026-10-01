@@ -681,6 +681,7 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - **『Faint』 with corner brackets everywhere it's used** (the author, 1 October: "apply 『Faint』 to all chapter where it is used"). Applied in Chapter 1 (Gerolt, three times) and Chapter 8 (twice in Silas's line and once in Alaric's thought); Chapters 2–7 don't use the word. It's now house style, like 『Affinity』.
   - **Claude's 100/100 review (1 October):** the author agreed points 2–4: the guards lose the inn's address, Marta doesn't repeat the ban, the auctioned woman closes her hand round the chain, and twelve "looked"s go (the guard's stays). Point 1, Marta's "Where's—", is still open. The chapter is 5,275 words.
   - **Error pass (1 October),** at the author's request: four fixes (where Alaric walks at the lane; the guards leave by the cart entrance; the woman's cloth, not the lead; the last lit window). The chapter is 5,276 words.
+  - **Three final passes (1 October),** at the author's request: two POV fixes (whose hand; who hears the yard), two wording fixes (no "lean-to"; no chain on the inn's board), and nothing needed for consistency and house style. The chapter is 5,268 words.
 
 ## Chapter 9
 

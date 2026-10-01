@@ -4,8 +4,8 @@
 
 ## At a glance
 
-- **51 changes proposed.** 2 rejected so far, so 49 are in the chapter: 49 rewritten, 0 cut and 0 added.
-- **Length:** 5,340 words before, 5,276 after.
+- **52 changes proposed.** 2 rejected so far, so 50 are in the chapter: 50 rewritten, 0 cut and 0 added.
+- **Length:** 5,340 words before, 5,268 after.
 - **Median paragraph:** 16 words before, 16.5 after. The house target is roughly 14–22.
 - **"Nothing":** 1 times before, 1 after.
 
@@ -68,6 +68,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 49, Looks (10):** the author's agreement (1 October).
 - **Change 50, Looks (11):** the author's agreement (1 October).
 - **Change 51, Where Alaric is at the lane:** the author's request (1 October).
+- **Change 52, The inn's board:** the author's request (1 October).
 
 ## The changes
 
@@ -295,9 +296,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> At the end of the row, Silas turned into a gap between a house and a lean-to. Beyond the lean-to, the gap narrowed into a passage that ended at the wall. Bundles of kindling stood along one side; a broken handcart had been pushed against the other. In the wall at the end was a narrow timber door.
+> At the end of the row, Silas turned into a gap between two houses. Further in, it narrowed into a passage that ended at the wall. Bundles of kindling stood along one side; a broken handcart had been pushed against the other. In the wall at the end was a narrow timber door.
 
-**Why.** "The passage" hadn't been introduced, and "behind it" could mean behind the handcart.
+**Why.** "The passage" hadn't been introduced, and "behind it" could mean behind the handcart. Final pass 2: "Lean-to" twice, and it's a word the chapters haven't used; two houses is all the reader needs.
 
 **Your decision.** Pass 1 of three (1 October): errors, POV slips and logic.
 
@@ -767,9 +768,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> His hand was still gripping the loose skin at Wena's neck. He let it go and stroked her instead.
+> Alaric's hand was still gripping the loose skin at Wena's neck. He let it go and stroked her instead.
 
-**Why.** "Looked" was the chapter's most repeated verb (26). Where the look did nothing, it goes.
+**Why.** "Looked" was the chapter's most repeated verb (26). Where the look did nothing, it goes. Final pass 1: When the look went, "His hand" came straight after Silas's line, so it could have been Silas's hand.
 
 **Your decision.** Claude's 100/100 review (1 October), agreed by the author ("the rest apply").
 
@@ -815,9 +816,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> Beyond the door he could hear footsteps and wheels, and somebody telling somebody else they had brought the wrong cart.
+> Beyond the door Alaric could hear footsteps and wheels, and somebody telling somebody else they had brought the wrong cart.
 
-**Why.** Fewer looks.
+**Why.** Fewer looks. Final pass 1: "He" came after Silas's line, so it could have been Silas listening.
 
 **Your decision.** Claude's 100/100 review (1 October), agreed by the author ("the rest apply").
 
@@ -918,3 +919,21 @@ Each of these needs a yes or no from you. It adds something about a character or
 **Why.** A few lines earlier Silas walks beside him, so "behind him" put Alaric in the wrong place.
 
 **Your decision.** Error pass (1 October), at the author's request ("do a pass looking for errors").
+
+### Final pass 2 of 3: vocabulary, rhythm and repeats.
+
+#### 52. The inn's board
+
+*Draft line 371 → revised line 365*
+
+**Before**
+
+> The inn stood on the corner nearest the gate. There was light in every window, upstairs and down. The front door kept opening, and every time it did, the noise came out with it: voices, laughing, somebody singing badly and somebody else telling him to stop. The smell of roasting meat came out too, and new bread, and Alaric was hungry all over again. People sat on the bench outside with their cups. A board hung over the door on a chain, too high in the shadow to read.
+
+**After**
+
+> The inn stood on the corner nearest the gate. There was light in every window, upstairs and down. The front door kept opening, and every time it did, the noise came out with it: voices, laughing, somebody singing badly and somebody else telling him to stop. The smell of roasting meat came out too, and new bread, and Alaric was hungry all over again. People sat on the bench outside with their cups. A board hung over the door, too high in the shadow to read.
+
+**Why.** "On a chain" came a page after the auction's chain, an echo the scene doesn't mean.
+
+**Your decision.** Final pass 2 of 3 (1 October): vocabulary, rhythm and repeats. At the author's request ("Do 3 more final passes").
