@@ -313,3 +313,24 @@ Keep almost all of it. It's sharper and more like Silas: he admits he was wrong 
 ### Round 3 approved (1 October)
 
 The updated Round 3 has all three fixes, and Claude checked it again: no "hell", the combined auction line, and "beastfolk" (also synchronised into Round 2). It's approved as the chapter's dialogue. **Chapter 8 is ready to write, waiting on the author's go-ahead.** The only drafting note left is the narration after "Get onto the grass, then", so "grass" isn't said twice.
+
+## The first draft (1 October)
+
+Written on the author's go-ahead as `Chapter 8 - Untitled.md`, 4,490 words; a copy is saved as `Drafts/Chapter 8 - Untitled (Draft 1).md`. It follows the approved working design, round 3 and the approved dialogue. The dialogue is used word for word, except for straight quotes and "Faint" written plain, as Chapter 1 writes it, instead of 『Faint』. The narration after "Get onto the grass, then" no longer says "grass" twice. Claude did two passes after drafting, for robotic sentences, POV slips, repeats and continuity.
+
+**New details, for your yes or no (Your call):**
+
+1. **The small craft:** a single blue-green light leaves the ship far to the east, comes back low over the wood (Wena flattens herself against Alaric) and across the fields, and sinks behind the roofs by the gate. Silas: "Don't know. Whatever it is, it's come down by the gate."
+2. **Silas lends Alaric his cloak** ("Because nobody in Kelmend dresses like you"). It's far too long for him: "I'll trip over it." / "Hitch it up, then."
+3. **The houses along the wall:** two crowded rows with a lane between them. There's a lantern on a pole and two men at the lane's mouth. Silas: "They don't usually put anyone on that lane", and Alaric notices the *Usually*.
+4. **Life behind the houses:** a woman scraping a pot into a bucket; a man feeding a small child from his own bowl, blowing on each spoonful; two voices arguing about whose turn it was to fetch water; a dog on a chain. Silas: "Good dog." / "She can smell their supper." / "So can I. Keep walking."
+5. **The old way through the wall:** a chest-high door behind a woodpile, with an iron grate that sits on pins. The bar's staple has "rusted through. Has been for years." They lift the grate together. A short passage leads to boards nailed across, and the lowest board swings on a single nail. It comes out in a cooper's workshop (barrels, hoops, shavings).
+6. **The guards** are at a brazier where the workshop's yard opens onto a lane. One is loud and rough, the other older and tired, so Alaric can know their voices in Chapter 9. They leave through the yard, so Silas and Alaric take a side door into a passage.
+7. **The market at night:** lamps on poles, stalls still trading (nails, cloth, meat over hot coals), a half-unloaded cart, gold changing hands. Rumours: "three of them" came down by the gatehouse; "it's the dead ones out past the river"; "they'll be putting soldiers in our houses next". The auction is on a wooden platform built out from the front of a building.
+8. **The close call:** Wena pulls after Alaric and whines. He works out that she'll keep pulling as long as she can see him, and steps behind the half-unloaded cart. The guard asks, "That yours?" Silas: "She's after the meat." The guard: "Keep her on a rope, then."
+9. **The inn:** on the corner nearest the gate, the biggest building in the street, with a board over the door too high in the shadow to read. Behind it are a back lane, a yard with barrels, and a lamp over the back door. They wait in an open cart shed across the lane.
+10. **A woman in an apron** comes out with a bucket. Alaric half rises, and Silas says "Not her", which shows he knows Marta by sight.
+11. **Alaric's thought after the auction:** *Only Faint can be sold… What about someone with none? I asked him that. He said he didn't know what they'd do with me.* / *Well. Now I know what they do with the Faint.* It calls back Chapter 1 and sets up "Empty" for Chapter 9.
+12. **Wena knows the back door:** her nose at the gap under it, and her tail moving.
+
+**Title:** still to choose. *The Road Owed to the Dead* remains a candidate.
