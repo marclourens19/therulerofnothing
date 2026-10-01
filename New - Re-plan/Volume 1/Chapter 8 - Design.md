@@ -333,4 +333,8 @@ Written on the author's go-ahead as `Chapter 8 - Untitled.md`, 4,490 words; a co
 11. **Alaric's thought after the auction:** *Only Faint can be sold… What about someone with none? I asked him that. He said he didn't know what they'd do with me.* / *Well. Now I know what they do with the Faint.* It calls back Chapter 1 and sets up "Empty" for Chapter 9.
 12. **Wena knows the back door:** her nose at the gap under it, and her tail moving.
 
-**Title:** still to choose. *The Road Owed to the Dead* remains a candidate.
+**Title:** *The Road Owed to the Dead* (the author, 1 October).
+
+## Three passes (1 October)
+
+At the author's request, three passes one after another, recorded in `Chapter 8 - Changes.md` (thirteen changes with the title). Pass 1, errors, logic, POV slips and robotic text: a thought that slipped between tenses, a chopped pair of sentences, "let them out" twice, how Alaric reaches the front of the crowd, why Wena keeps looking back, and "He didn't let them stop". Pass 2, rhythm and repeats: "point" twice, a quiet "and…and" sentence, and the shavings. Pass 3, consistency and house style: "south gate" in lower case, as in Chapters 2 and 6. The chapter is 4,493 words.

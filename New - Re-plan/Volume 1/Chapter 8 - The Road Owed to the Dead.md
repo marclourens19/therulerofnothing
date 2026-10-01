@@ -1,10 +1,10 @@
-# Chapter 8
+# Chapter 8 – The Road Owed to the Dead
 
 Alaric took Wena by the collar and pulled her back off the open grass. She came with her head still turned towards the sound, and he had to drag her the last few steps in under the branches before she would lie down. He sat beside her with his back against a trunk and Gerolt's sword across his knees.
 
 He could feel the hum in the ground for a long time after the ship had gone. It grew fainter and fainter, until he couldn't tell whether it was still there or whether his chest was only remembering it. Down in Kelmend the bell was still ringing, and the torches on the wall were still moving.
 
-Silas stayed out at the edge of the wood, where he could see the town and the sky together. He watched the ship until its light was almost lost beyond the trees. Then he crouched beside Alaric.
+Silas stayed out at the edge of the wood, where he could see both the town and the sky. He watched the ship until its light was almost lost beyond the trees. Then he crouched beside Alaric.
 
 "What really happened on Gerolt's farm? Why were those elves chasing you? What did you two do?"
 
@@ -32,7 +32,7 @@ It was a single blue-green spark, far out over the trees where the ship had gone
 
 Silas had seen it too. He watched the place where it had gone down, and up on the wall the torches began to drift towards that end, one after another.
 
-*It was leaving. That's what I thought, anyway. It goes off east, everyone in Kelmend stops looking at the sky, and we walk in while they're still talking about it.* He watched the torches crowd together above the gate. *Except it left something behind.*
+*I thought it was leaving. It would go off east, everyone in Kelmend would stop looking at the sky, and we'd walk in while they were all still talking about it.* He watched the torches crowd together above the gate. *Except it left something behind.*
 
 "What was that?" he whispered.
 
@@ -60,7 +60,7 @@ Alaric reached for it. "I'll have to unwrap it before I knock."
 
 "Yes. And tuck the point in properly. I'm not dragging you through Kelmend with the bloody thing in your leg."
 
-Alaric laid the sword in the grass, picked the cord loose and unrolled the bed. It was one thick blanket, worn shiny along the edges, and it smelled of the cave. He put the sword down on it with the point towards him, folded the end over the point twice, and rolled the rest round the blade until the grip was buried too. Then he tied the cord round both ends. The bundle was longer than his arm, and it was heavier than the sword had ever felt on its own.
+Alaric laid the sword in the grass, picked the cord loose and unrolled the bed. It was one thick blanket, worn shiny along the edges, and it smelled of the cave. He put the sword down on it with the point towards him, folded the end of the blanket over it twice, and rolled the rest round the blade until the grip was buried too. Then he tied the cord round both ends. The bundle was longer than his arm, and it was heavier than the sword had ever felt on its own.
 
 When he had pulled the last knot tight, Silas was unfastening his cloak.
 
@@ -92,7 +92,7 @@ The houses along the wall were closer than they had looked from the slope. They 
 
 Where the lane went in among the houses, a lantern hung from a pole. Two men stood under it, and one of them had a spear.
 
-Silas stopped. Alaric stopped behind him and pulled the hood up.
+Silas stopped, and behind him Alaric pulled the hood up.
 
 "They don't usually put anyone on that lane," Silas said quietly. "We go round the back. Stay close, and keep her quiet."
 
@@ -102,7 +102,7 @@ They went along the backs of the outer row, where every house had a patch of gro
 
 Wena's nose went up. Alaric's stomach growled so loudly that he was sure the woman would come back out to see what it was.
 
-Through a gap in the next shutter he could see four people at a table, and a man feeding a small child from his own bowl, blowing on every spoonful first. The child kept turning its head away. The man kept waiting. Further along, two voices were arguing about whose turn it had been to fetch the water, and neither of them seemed to mind much.
+Through a gap in the next shutter he could see four people at a table, and a man feeding a small child from his own bowl, blowing on every spoonful first. The child kept turning its head away, and the man kept waiting. Further along, two voices were arguing about whose turn it had been to fetch the water, and neither of them seemed to mind much.
 
 Alaric slowed without meaning to. He wanted to knock at one of those back doors and ask if he could sit by the fire for a while, and have somebody say yes.
 
@@ -112,7 +112,7 @@ Wena's hackles rose under his hand. He closed his fingers gently over her muzzle
 
 "No. Not now, girl. Please."
 
-She stood stiff against him, and the other dog growled again, and then lost interest and lay back down. Wena let out a long breath through her nose.
+She stood stiff against him. The other dog growled once more, then lost interest and lay back down. Wena let out a long breath through her nose.
 
 Silas had stopped to wait for them. "Good dog."
 
@@ -134,7 +134,7 @@ Behind it was a passage through the thickness of the wall, short and low and sme
 
 Wena went through without being asked. Alaric went after her with the bundle, and Silas came last and dragged the grate back across the opening behind them, swearing under his breath the whole time.
 
-They came through into the back of a workshop. Shavings crunched under Alaric's boots, and there were barrels everywhere, finished and half finished, and hoops hanging on the walls. A window at the front looked out on a yard, and the lantern light came from there.
+They came through into the back of a workshop. Shavings rustled under Alaric's boots, and there were barrels everywhere, finished and half finished, and hoops hanging on the walls. A window at the front looked out on a yard, and the lantern light came from there.
 
 Silas's hand came back and caught Alaric's arm.
 
@@ -156,7 +156,7 @@ The first man spat.
 
 "What, Marta's?"
 
-"The farmer's niece. Just inside the South Gate. They want her questioned after she closes."
+"The farmer's niece. Just inside the south gate. They want her questioned after she closes."
 
 "What the fuck's she done?"
 
@@ -186,7 +186,7 @@ Then the rest of it caught up with him.
 
 "Not through the yard," Silas said. "That's the way they've gone."
 
-There was a side door at the other end of the workshop, away from the yard. It let them out into a passage between two buildings, so narrow that the bundle scraped the walls on both sides, and the passage let them out into light and noise.
+There was a side door at the other end of the workshop, away from the yard. It opened into a passage between two buildings, so narrow that the bundle scraped the walls on both sides, and at the end of the passage there was light and noise.
 
 Silas stopped at the mouth of it and held out his good hand.
 
@@ -220,9 +220,9 @@ At the far end of the street, where it met the gate, there were more torches tha
 
 "—they'll be putting soldiers in our houses next, you watch—"
 
-He kept his head down. The cobbles were worse than the ruts, and the bundle kept knocking against his leg, and every time Wena looked back for him, he wanted to look away so that she would stop.
+He kept his head down. The cobbles were worse than the ruts, and the bundle kept knocking against his leg, and every time Wena looked back for him, he wanted to drop out of sight so that she would stop.
 
-Ahead, the crowd thickened round a wooden platform built out from the front of a building. A man was calling numbers. Silas took Wena along the edge of it. Alaric had to wait while two men carried a barrel across in front of him, and by the time they had passed, he was at the front of the crowd.
+Ahead, the crowd thickened round a wooden platform built out from the front of a building. A man was calling numbers. Silas took Wena along the edge of it. Alaric had to wait while two men carried a barrel across in front of him, and while he waited, the crowd shifted round him until he was at the front of it.
 
 The young woman on the platform was naked.
 
@@ -284,7 +284,7 @@ The guard looked at Silas's face. He looked at the dog again, and then at the cr
 
 The guard moved on, and the other went with him. Alaric stayed behind the cart until their lantern was well past the platform, then came out and followed Silas without catching up.
 
-His legs were shaking. He didn't let them stop.
+His legs were shaking, but he kept them moving.
 
 The inn stood on the corner nearest the gate, and it was easily the biggest building in the street. There was light in every window, upstairs and down. The front door kept opening, and every time it did, the noise came out with it: voices, laughing, somebody singing badly and somebody else telling him to stop. The smell of roasting meat came out too, and new bread, and Alaric was hungry all over again. People sat on the bench outside with their cups. A board hung over the door on a chain, too high in the shadow to read.
 

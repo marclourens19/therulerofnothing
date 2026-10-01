@@ -1,0 +1,171 @@
+{
+  "title": "Chapter 8: Changes",
+  "draft": "Chapter 8 - Untitled (Draft 1).md",
+  "chapter": "../Chapter 8 - The Road Owed to the Dead.md",
+  "changes_file": "../Chapter 8 - Changes.md",
+  "intro_md": "1 October 2026. The first draft (`Drafts/Chapter 8 - Untitled (Draft 1).md`), then the author's title and the three passes the author asked for, one after another: errors, POV slips and robotic text first, then rhythm and repeats, then a final pass for consistency with the earlier chapters and house style.",
+  "sections": {
+    "Title": "Title",
+    "Pass 1": "Pass 1",
+    "Pass 2": "Pass 2",
+    "Pass 3": "Pass 3"
+  },
+  "changes": [
+    {
+      "section": "Title",
+      "title": "The title",
+      "kind": "changed",
+      "tags": [],
+      "before": "# Chapter 8",
+      "after": "# Chapter 8 – The Road Owed to the Dead",
+      "why": "The author chose the title.",
+      "decision": "accepted",
+      "decision_note": "The author's title (1 October): \"Keep it as the road owed to the dead\".",
+      "decision_short": "the author's request (1 October)."
+    },
+    {
+      "section": "Pass 1",
+      "title": "Where Silas stands",
+      "kind": "changed",
+      "tags": [],
+      "before": "Silas stayed out at the edge of the wood, where he could see the town and the sky together. He watched the ship until its light was almost lost beyond the trees. Then he crouched beside Alaric.",
+      "after": "Silas stayed out at the edge of the wood, where he could see both the town and the sky. He watched the ship until its light was almost lost beyond the trees. Then he crouched beside Alaric.",
+      "why": "Plainer.",
+      "decision": "accepted",
+      "decision_note": "Pass 1 of the three the author asked for (1 October): errors, logic, POV slips and robotic text.",
+      "decision_short": "the author's request (1 October)."
+    },
+    {
+      "section": "Pass 1",
+      "title": "What he'd hoped",
+      "kind": "changed",
+      "tags": [],
+      "before": "*It was leaving. That's what I thought, anyway. It goes off east, everyone in Kelmend stops looking at the sky, and we walk in while they're still talking about it.* He watched the torches crowd together above the gate. *Except it left something behind.*",
+      "after": "*I thought it was leaving. It would go off east, everyone in Kelmend would stop looking at the sky, and we'd walk in while they were all still talking about it.* He watched the torches crowd together above the gate. *Except it left something behind.*",
+      "why": "The thought slipped between past and present tense mid-way. Now it's one tense, and it reads as the hope he'd had.",
+      "decision": "accepted",
+      "decision_note": "Pass 1 of the three the author asked for (1 October): errors, logic, POV slips and robotic text.",
+      "decision_short": "the author's request (1 October)."
+    },
+    {
+      "section": "Pass 1",
+      "title": "The lantern on the lane",
+      "kind": "changed",
+      "tags": [],
+      "before": "Silas stopped. Alaric stopped behind him and pulled the hood up.",
+      "after": "Silas stopped, and behind him Alaric pulled the hood up.",
+      "why": "Two \"stopped\"s side by side read like a list.",
+      "decision": "accepted",
+      "decision_note": "Pass 1 of the three the author asked for (1 October): errors, logic, POV slips and robotic text.",
+      "decision_short": "the author's request (1 October)."
+    },
+    {
+      "section": "Pass 1",
+      "title": "The man and the child",
+      "kind": "changed",
+      "tags": [],
+      "before": "Through a gap in the next shutter he could see four people at a table, and a man feeding a small child from his own bowl, blowing on every spoonful first. The child kept turning its head away. The man kept waiting. Further along, two voices were arguing about whose turn it had been to fetch the water, and neither of them seemed to mind much.",
+      "after": "Through a gap in the next shutter he could see four people at a table, and a man feeding a small child from his own bowl, blowing on every spoonful first. The child kept turning its head away, and the man kept waiting. Further along, two voices were arguing about whose turn it had been to fetch the water, and neither of them seemed to mind much.",
+      "why": "Two short sentences of the same shape read as chopped. One sentence, the way he sees it.",
+      "decision": "accepted",
+      "decision_note": "Pass 1 of the three the author asked for (1 October): errors, logic, POV slips and robotic text.",
+      "decision_short": "the author's request (1 October)."
+    },
+    {
+      "section": "Pass 1",
+      "title": "The passage out",
+      "kind": "changed",
+      "tags": [],
+      "before": "There was a side door at the other end of the workshop, away from the yard. It let them out into a passage between two buildings, so narrow that the bundle scraped the walls on both sides, and the passage let them out into light and noise.",
+      "after": "There was a side door at the other end of the workshop, away from the yard. It opened into a passage between two buildings, so narrow that the bundle scraped the walls on both sides, and at the end of the passage there was light and noise.",
+      "why": "\"Let them out\" was said twice in one sentence.",
+      "decision": "accepted",
+      "decision_note": "Pass 1 of the three the author asked for (1 October): errors, logic, POV slips and robotic text.",
+      "decision_short": "the author's request (1 October)."
+    },
+    {
+      "section": "Pass 1",
+      "title": "Wena looking back",
+      "kind": "changed",
+      "tags": [],
+      "before": "He kept his head down. The cobbles were worse than the ruts, and the bundle kept knocking against his leg, and every time Wena looked back for him, he wanted to look away so that she would stop.",
+      "after": "He kept his head down. The cobbles were worse than the ruts, and the bundle kept knocking against his leg, and every time Wena looked back for him, he wanted to drop out of sight so that she would stop.",
+      "why": "Logic: his looking away wouldn't stop her looking for him; being out of sight would. It also sets up what he does at the cart.",
+      "decision": "accepted",
+      "decision_note": "Pass 1 of the three the author asked for (1 October): errors, logic, POV slips and robotic text.",
+      "decision_short": "the author's request (1 October)."
+    },
+    {
+      "section": "Pass 1",
+      "title": "How he reaches the front",
+      "kind": "changed",
+      "tags": [],
+      "before": "Ahead, the crowd thickened round a wooden platform built out from the front of a building. A man was calling numbers. Silas took Wena along the edge of it. Alaric had to wait while two men carried a barrel across in front of him, and by the time they had passed, he was at the front of the crowd.",
+      "after": "Ahead, the crowd thickened round a wooden platform built out from the front of a building. A man was calling numbers. Silas took Wena along the edge of it. Alaric had to wait while two men carried a barrel across in front of him, and while he waited, the crowd shifted round him until he was at the front of it.",
+      "why": "Logic: waiting alone didn't move him to the front. The crowd moving round him does.",
+      "decision": "accepted",
+      "decision_note": "Pass 1 of the three the author asked for (1 October): errors, logic, POV slips and robotic text.",
+      "decision_short": "the author's request (1 October)."
+    },
+    {
+      "section": "Pass 1",
+      "title": "His legs",
+      "kind": "changed",
+      "tags": [],
+      "before": "His legs were shaking. He didn't let them stop.",
+      "after": "His legs were shaking, but he kept them moving.",
+      "why": "\"Didn't let them stop\" could mean the shaking. Now it can only mean walking.",
+      "decision": "accepted",
+      "decision_note": "Pass 1 of the three the author asked for (1 October): errors, logic, POV slips and robotic text.",
+      "decision_short": "the author's request (1 October)."
+    },
+    {
+      "section": "Pass 2",
+      "title": "Wrapping the sword",
+      "kind": "changed",
+      "tags": [],
+      "before": "Alaric laid the sword in the grass, picked the cord loose and unrolled the bed. It was one thick blanket, worn shiny along the edges, and it smelled of the cave. He put the sword down on it with the point towards him, folded the end over the point twice, and rolled the rest round the blade until the grip was buried too. Then he tied the cord round both ends. The bundle was longer than his arm, and it was heavier than the sword had ever felt on its own.",
+      "after": "Alaric laid the sword in the grass, picked the cord loose and unrolled the bed. It was one thick blanket, worn shiny along the edges, and it smelled of the cave. He put the sword down on it with the point towards him, folded the end of the blanket over it twice, and rolled the rest round the blade until the grip was buried too. Then he tied the cord round both ends. The bundle was longer than his arm, and it was heavier than the sword had ever felt on its own.",
+      "why": "\"Point\" twice in a row.",
+      "decision": "accepted",
+      "decision_note": "Pass 2 of three (1 October): rhythm, repeats and robotic text.",
+      "decision_short": "the author's request (1 October)."
+    },
+    {
+      "section": "Pass 2",
+      "title": "The other dog",
+      "kind": "changed",
+      "tags": [],
+      "before": "She stood stiff against him, and the other dog growled again, and then lost interest and lay back down. Wena let out a long breath through her nose.",
+      "after": "She stood stiff against him. The other dog growled once more, then lost interest and lay back down. Wena let out a long breath through her nose.",
+      "why": "Fewer \"and\"s in a quiet moment, so the dog settling gets its own sentence.",
+      "decision": "accepted",
+      "decision_note": "Pass 2 of three (1 October): rhythm, repeats and robotic text.",
+      "decision_short": "the author's request (1 October)."
+    },
+    {
+      "section": "Pass 2",
+      "title": "The shavings",
+      "kind": "changed",
+      "tags": [],
+      "before": "They came through into the back of a workshop. Shavings crunched under Alaric's boots, and there were barrels everywhere, finished and half finished, and hoops hanging on the walls. A window at the front looked out on a yard, and the lantern light came from there.",
+      "after": "They came through into the back of a workshop. Shavings rustled under Alaric's boots, and there were barrels everywhere, finished and half finished, and hoops hanging on the walls. A window at the front looked out on a yard, and the lantern light came from there.",
+      "why": "Wood shavings rustle; they don't crunch.",
+      "decision": "accepted",
+      "decision_note": "Pass 2 of three (1 October): rhythm, repeats and robotic text.",
+      "decision_short": "the author's request (1 October)."
+    },
+    {
+      "section": "Pass 3",
+      "title": "The south gate",
+      "kind": "changed",
+      "tags": [],
+      "before": "\"The farmer's niece. Just inside the South Gate. They want her questioned after she closes.\"",
+      "after": "\"The farmer's niece. Just inside the south gate. They want her questioned after she closes.\"",
+      "why": "Chapters 2 and 6 write \"the south gate\" in lower case, and so does the rest of this chapter.",
+      "decision": "accepted",
+      "decision_note": "Pass 3 of three, the final pass (1 October): consistency with the earlier chapters and house style.",
+      "decision_short": "the author's request (1 October)."
+    }
+  ]
+}
