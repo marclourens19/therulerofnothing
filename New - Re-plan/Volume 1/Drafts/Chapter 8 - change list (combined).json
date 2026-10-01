@@ -9,7 +9,8 @@
     "Notes": "Claude's notes on the combined version, agreed (1 October)",
     "Pass 1": "Pass 1: errors, POV slips and logic",
     "Pass 2": "Pass 2: vocabulary, rhythm and repeats",
-    "Pass 3": "Pass 3, final: consistency and house style"
+    "Pass 3": "Pass 3: consistency and house style",
+    "Final pass": "Final pass: everything, once more"
   },
   "changes": [
     {
@@ -90,8 +91,8 @@
       "kind": "changed",
       "tags": [],
       "before": "The voices round the table grew quieter. Later came the sound of dishes being washed, then a window shutting. One by one, the lights along the backs of the houses went out. Silas went to look through the door again and returned without beckoning him over.",
-      "after": "The voices in the houses grew quieter. Later came the sound of dishes being washed, then a window shutting. One by one, the lights along the backs of the houses went out. Silas went to look through the door again and returned without beckoning him over.",
-      "why": "The family's table was several houses back, so \"the table\" was unclear.",
+      "after": "The voices in the houses grew quieter. Later came the sound of dishes being washed, then a window shutting. One by one, the lights along the row went out. Silas went to look through the door again and returned without beckoning him over.",
+      "why": "The family's table was several houses back, so \"the table\" was unclear. Final pass: \"The houses\" was twice in a row (\"The voices in the houses grew quieter\").",
       "decision": "accepted",
       "decision_note": "Note 3: agreed (1 October).",
       "decision_short": "Note 3: agreed (1 October)."
@@ -334,6 +335,54 @@
       "why": "The author asked for fewer \"dark\"s. The chapter has \"the windows… went out\" elsewhere, and Chapter 6 does too.",
       "decision": "accepted",
       "decision_note": "Pass 3 of three, the final pass (1 October): consistency with the earlier chapters and house style.",
+      "decision_short": "the author's request (1 October)."
+    },
+    {
+      "section": "Final pass",
+      "title": "The fading hum",
+      "kind": "changed",
+      "tags": [],
+      "before": "He could feel the hum in the ground for a long time after the ship had passed. It grew fainter and fainter, until he couldn't tell whether it was still there or whether his chest was only remembering it. Down in Kelmend the bell was still ringing, and the torches on the wall were moving towards the gate. The carts on the road had stopped.",
+      "after": "He could feel the hum in the ground for a long time after the ship had passed. It faded little by little, until he couldn't tell whether it was still there or whether his chest was only remembering it. Down in Kelmend the bell was still ringing, and the torches on the wall were moving towards the gate. The carts on the road had stopped.",
+      "why": "\"Fainter\" sits badly in a chapter where \"Faint\" means people who can be sold, especially in its first paragraph.",
+      "decision": "accepted",
+      "decision_note": "Final pass (1 October): everything, once more.",
+      "decision_short": "the author's request (1 October)."
+    },
+    {
+      "section": "Final pass",
+      "title": "Round the light",
+      "kind": "changed",
+      "tags": [],
+      "before": "It was a single blue-green spark, far out over the trees where the ship had gone, and at first Alaric thought the ship was turning. It wasn't. The ship's light went on shrinking towards the river, and this one grew. A narrow hull took shape around it. It came back over the wood, low enough that Wena flattened herself against him, and on across the fields with a thin, high hum of its own. It passed over the end of the wall by the gate. Then it sank behind the roofs and didn't come up again.",
+      "after": "It was a single blue-green spark, far out over the trees where the ship had gone, and at first Alaric thought the ship was turning. It wasn't. The ship's light went on shrinking towards the river, and this one grew. A narrow hull took shape round it. It came back over the wood, low enough that Wena flattened herself against him, and on across the fields with a thin, high hum of its own. It passed over the end of the wall by the gate. Then it sank behind the roofs and didn't come up again.",
+      "why": "House style: \"round\", not \"around\".",
+      "decision": "accepted",
+      "decision_note": "Final pass (1 October): everything, once more.",
+      "decision_short": "the author's request (1 October)."
+    },
+    {
+      "section": "Final pass",
+      "title": "Who stands at the corner",
+      "kind": "changed",
+      "tags": [],
+      "before": "Alaric watched him walk to the corner. He stood there a while, looking both ways, then came back.",
+      "after": "Alaric watched him walk to the corner. Silas stood there a while, looking both ways, then came back.",
+      "why": "\"He\" came straight after \"Alaric\", so it could have been Alaric standing at the corner.",
+      "decision": "accepted",
+      "decision_note": "Final pass (1 October): everything, once more.",
+      "decision_short": "the author's request (1 October)."
+    },
+    {
+      "section": "Final pass",
+      "title": "The scraping again",
+      "kind": "changed",
+      "tags": [],
+      "before": "Silas kept looking at the door. Alaric waited for him to turn round and answer. Inside, something scraped across the floor; Silas glanced at the handle instead.",
+      "after": "Silas kept looking at the door. Alaric waited for him to turn round and answer. Inside, the scraping started again; Silas glanced at the handle instead.",
+      "why": "\"Something scraped across the floor inside\" was already said when the windows went out. Now it's the same sound coming back, and \"the scraping stopped\" when Alaric knocks finishes it.",
+      "decision": "accepted",
+      "decision_note": "Final pass (1 October): everything, once more.",
       "decision_short": "the author's request (1 October)."
     }
   ]

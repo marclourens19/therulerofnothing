@@ -2,7 +2,7 @@
 
 Alaric took Wena by the collar and pulled her back off the open grass. She came with her head still turned towards the sound, and he had to draw her the last few steps under the branches before she would lie down. He sat beside her with his back against a trunk and Gerolt's sword across his knees.
 
-He could feel the hum in the ground for a long time after the ship had passed. It grew fainter and fainter, until he couldn't tell whether it was still there or whether his chest was only remembering it. Down in Kelmend the bell was still ringing, and the torches on the wall were moving towards the gate. The carts on the road had stopped.
+He could feel the hum in the ground for a long time after the ship had passed. It faded little by little, until he couldn't tell whether it was still there or whether his chest was only remembering it. Down in Kelmend the bell was still ringing, and the torches on the wall were moving towards the gate. The carts on the road had stopped.
 
 Silas stayed at the edge of the wood, where he could see both the town and the sky. He watched the ship until its light was almost lost beyond the trees. Then he crouched beside Alaric.
 
@@ -32,7 +32,7 @@ The bell stopped. In the quiet it left behind, a dog was barking somewhere in th
 
 Then a light came back.
 
-It was a single blue-green spark, far out over the trees where the ship had gone, and at first Alaric thought the ship was turning. It wasn't. The ship's light went on shrinking towards the river, and this one grew. A narrow hull took shape around it. It came back over the wood, low enough that Wena flattened herself against him, and on across the fields with a thin, high hum of its own. It passed over the end of the wall by the gate. Then it sank behind the roofs and didn't come up again.
+It was a single blue-green spark, far out over the trees where the ship had gone, and at first Alaric thought the ship was turning. It wasn't. The ship's light went on shrinking towards the river, and this one grew. A narrow hull took shape round it. It came back over the wood, low enough that Wena flattened herself against him, and on across the fields with a thin, high hum of its own. It passed over the end of the wall by the gate. Then it sank behind the roofs and didn't come up again.
 
 Silas had seen it too. He watched the place where it had gone down, and up on the wall the torches began to crowd together.
 
@@ -148,7 +148,7 @@ Alaric drank from the water skin and eased his boot off. His ankle had swollen a
 
 The yard stayed busy. Whenever he thought the last load had gone, another came. He heard a man count sacks, lose his place and start again. He heard a wheel stick somewhere, and four people tell its owner four different ways to free it. Once somebody laughed so hard that Alaric smiled before he remembered where he was.
 
-The voices in the houses grew quieter. Later came the sound of dishes being washed, then a window shutting. One by one, the lights along the backs of the houses went out. Silas went to look through the door again and returned without beckoning him over.
+The voices in the houses grew quieter. Later came the sound of dishes being washed, then a window shutting. One by one, the lights along the row went out. Silas went to look through the door again and returned without beckoning him over.
 
 Wena slept on. Alaric was cold now, despite the cloak, and he had stopped trying to work out which set of footsteps might be the last. He could hear people going home in the lane beyond the houses. They called to one another, said goodnight and went through doors that shut behind them. Nobody came down the gap where he and Silas waited.
 
@@ -378,7 +378,7 @@ Alaric lowered himself onto a stone at the base of the wall, with the bundle acr
 
 "I'm checking the lane past the back door. You'll see me."
 
-Alaric watched him walk to the corner. He stood there a while, looking both ways, then came back.
+Alaric watched him walk to the corner. Silas stood there a while, looking both ways, then came back.
 
 "Nobody. Not yet."
 
@@ -456,7 +456,7 @@ Alaric turned towards him. "What do you mean, she won't open for you?"
 
 "And you're telling me *now*? After bringing me all the way here?"
 
-Silas kept looking at the door. Alaric waited for him to turn round and answer. Inside, something scraped across the floor; Silas glanced at the handle instead.
+Silas kept looking at the door. Alaric waited for him to turn round and answer. Inside, the scraping started again; Silas glanced at the handle instead.
 
 "I put it off. You've got Gerolt's message. I reckoned she'd listen to him, even if she couldn't stand the sight of me."
 

@@ -361,10 +361,24 @@ The author sent `Chapter 8 - The Road Owed to the Dead - Combined.docx`, 5,340 w
 
 ## Three passes on the combined version (1 October)
 
-At the author's request ("Go a mass checking all errors pov slips, vocab slips, etc then do another pass, and one final pass after that"), three passes one after another. The 16 changes are in `Chapter 8 - Changes (combined).md`, after the house style and the six notes. The chapter is 5,347 words.
+At the author's request ("Go a mass checking all errors pov slips, vocab slips, etc then do another pass, and one final pass after that"), three passes one after another. The 16 changes are in `Chapter 8 - Changes (combined).md`, after the house style and the six notes. The chapter was 5,347 words after them.
 
 - **Pass 1, errors, POV slips and logic (11):** where his hands and Wena's lead are on the way down; who keeps the lead short; the door at the end of the passage, set up before they reach it; the handcart; who whispers "That door?"; who pours and who wets the cloth; Silas's forearm across Alaric's arm while the guards talk; which stall; who finds whom; "the woman from the platform", so she isn't confused with the woman with the tub (the line echoes the auction without repeating it word for word); and at the tray woman's door, Silas drew Alaric away *before* he stood there, so the order is now the right way round.
 - **Pass 2, vocabulary, rhythm and repeats (3):** "covered walkway"; the guard's search of the crowd in plain words; where they wait (a narrow space between a closed storehouse and its yard wall). One "for a moment" goes.
 - **Pass 3, consistency and house style (2):** "inwards"; "the back door" instead of "the private entrance", as everywhere else; "The ground-floor windows went out."
 
 Left as they are: "Alaric looked down at the sword" twice (both in the approved dialogue round), "full dark" and "in the dark" (one each), and "Silas watched the inn for a moment" (approved dialogue narration).
+
+The author's answers (1 October): keep "Th-that girl…" (it's Alaric's view of her); the untagged dialogue runs are fine as they are.
+
+## Final pass on the combined version (1 October)
+
+At the author's request ("do one final pass of everything"), a read of the whole chapter. Five changes, in `Chapter 8 - Changes (combined).md`. The chapter is 5,343 words.
+
+- "It grew fainter and fainter" becomes "It faded little by little", so "fainter" doesn't sit in the first paragraph of a chapter where "Faint" means people who can be sold.
+- "round it", not "around it" (house style).
+- "the lights along the row went out", so "the houses" isn't said twice in a row.
+- "Silas stood there a while", because "He" after "Alaric watched him" could have been Alaric.
+- At the back door, "Inside, the scraping started again", instead of saying a second time that something scraped across the floor.
+
+Checked and left as they are: "Gerolt said they took children away" matches Chapter 1 ("The ones who come up Faint get taken off their mothers"), and "Gerolt hadn't known what they would do with someone who had none" matches "I don't know what they'd do with you". "You gonna" is from the approved dialogue.

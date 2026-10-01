@@ -4,8 +4,8 @@
 
 ## At a glance
 
-- **27 changes proposed.** 0 rejected so far, so 27 are in the chapter: 27 rewritten, 0 cut and 0 added.
-- **Length:** 5,340 words before, 5,347 after.
+- **31 changes proposed.** 0 rejected so far, so 31 are in the chapter: 31 rewritten, 0 cut and 0 added.
+- **Length:** 5,340 words before, 5,343 after.
 - **Median paragraph:** 16 words before, 16 after. The house target is roughly 14–22.
 - **"Nothing":** 1 times before, 1 after.
 
@@ -44,6 +44,10 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 25, Where they wait:** the author's request (1 October).
 - **Change 26, Inwards:** the author's request (1 October).
 - **Change 27, The windows go out:** the author's request (1 October).
+- **Change 28, The fading hum:** the author's request (1 October).
+- **Change 29, Round the light:** the author's request (1 October).
+- **Change 30, Who stands at the corner:** the author's request (1 October).
+- **Change 31, The scraping again:** the author's request (1 October).
 
 ## The changes
 
@@ -157,9 +161,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> The voices in the houses grew quieter. Later came the sound of dishes being washed, then a window shutting. One by one, the lights along the backs of the houses went out. Silas went to look through the door again and returned without beckoning him over.
+> The voices in the houses grew quieter. Later came the sound of dishes being washed, then a window shutting. One by one, the lights along the row went out. Silas went to look through the door again and returned without beckoning him over.
 
-**Why.** The family's table was several houses back, so "the table" was unclear.
+**Why.** The family's table was several houses back, so "the table" was unclear. Final pass: "The houses" was twice in a row ("The voices in the houses grew quieter").
 
 **Your decision.** Note 3: agreed (1 October).
 
@@ -461,7 +465,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Your decision.** Pass 2 of three (1 October): vocabulary, rhythm and repeats.
 
-### Pass 3, final: consistency and house style
+### Pass 3: consistency and house style
 
 #### 26. Inwards
 
@@ -494,3 +498,69 @@ Each of these needs a yes or no from you. It adds something about a character or
 **Why.** The author asked for fewer "dark"s. The chapter has "the windows… went out" elsewhere, and Chapter 6 does too.
 
 **Your decision.** Pass 3 of three, the final pass (1 October): consistency with the earlier chapters and house style.
+
+### Final pass: everything, once more
+
+#### 28. The fading hum
+
+*Draft line 5 → revised line 5*
+
+**Before**
+
+> He could feel the hum in the ground for a long time after the ship had passed. It grew fainter and fainter, until he couldn't tell whether it was still there or whether his chest was only remembering it. Down in Kelmend the bell was still ringing, and the torches on the wall were moving towards the gate. The carts on the road had stopped.
+
+**After**
+
+> He could feel the hum in the ground for a long time after the ship had passed. It faded little by little, until he couldn't tell whether it was still there or whether his chest was only remembering it. Down in Kelmend the bell was still ringing, and the torches on the wall were moving towards the gate. The carts on the road had stopped.
+
+**Why.** "Fainter" sits badly in a chapter where "Faint" means people who can be sold, especially in its first paragraph.
+
+**Your decision.** Final pass (1 October): everything, once more.
+
+#### 29. Round the light
+
+*Draft line 35 → revised line 35*
+
+**Before**
+
+> It was a single blue-green spark, far out over the trees where the ship had gone, and at first Alaric thought the ship was turning. It wasn't. The ship's light went on shrinking towards the river, and this one grew. A narrow hull took shape around it. It came back over the wood, low enough that Wena flattened herself against him, and on across the fields with a thin, high hum of its own. It passed over the end of the wall by the gate. Then it sank behind the roofs and didn't come up again.
+
+**After**
+
+> It was a single blue-green spark, far out over the trees where the ship had gone, and at first Alaric thought the ship was turning. It wasn't. The ship's light went on shrinking towards the river, and this one grew. A narrow hull took shape round it. It came back over the wood, low enough that Wena flattened herself against him, and on across the fields with a thin, high hum of its own. It passed over the end of the wall by the gate. Then it sank behind the roofs and didn't come up again.
+
+**Why.** House style: "round", not "around".
+
+**Your decision.** Final pass (1 October): everything, once more.
+
+#### 30. Who stands at the corner
+
+*Draft line 383 → revised line 381*
+
+**Before**
+
+> Alaric watched him walk to the corner. He stood there a while, looking both ways, then came back.
+
+**After**
+
+> Alaric watched him walk to the corner. Silas stood there a while, looking both ways, then came back.
+
+**Why.** "He" came straight after "Alaric", so it could have been Alaric standing at the corner.
+
+**Your decision.** Final pass (1 October): everything, once more.
+
+#### 31. The scraping again
+
+*Draft line 461 → revised line 459*
+
+**Before**
+
+> Silas kept looking at the door. Alaric waited for him to turn round and answer. Inside, something scraped across the floor; Silas glanced at the handle instead.
+
+**After**
+
+> Silas kept looking at the door. Alaric waited for him to turn round and answer. Inside, the scraping started again; Silas glanced at the handle instead.
+
+**Why.** "Something scraped across the floor inside" was already said when the windows went out. Now it's the same sound coming back, and "the scraping stopped" when Alaric knocks finishes it.
+
+**Your decision.** Final pass (1 October): everything, once more.
