@@ -280,3 +280,12 @@ Once items 1–3 are settled, these are the key exchanges. Your rough version of
 7. Silas at the door: "Go on, Alaric. Knock." (beat 15).
 8. Marta's first reaction to Silas (beat 16), the chapter's last line.
 
+
+### The working design's reply to round 3 (1 October)
+
+The updated working design (§15) and handoff (§24.6) record round 3 as proposals awaiting your decision. They correct two of Claude's points, and Claude agrees with both:
+
+- **Alaric never took the sword from Silas.** He had it the whole time, refused Silas's plan, and after the ogre Silas promised "you show her the sword yourself". So if you choose the personal motive, Alaric's thought stays a question he can't answer: *Was that why he'd wanted to take the sword himself?* It doesn't settle Silas's motive, and it says nothing about love.
+- **Wena's pull is expected, not a surprise.** They plan for it, it becomes the main close call in the market, and the workshop scare shrinks to a blocked exit and a change of route. That way the chapter doesn't have two full patrol scares that end the same way.
+
+Nothing else in the two files conflicts with the repo. Still to settle: items 1–3 of round 3, then the dialogue round.

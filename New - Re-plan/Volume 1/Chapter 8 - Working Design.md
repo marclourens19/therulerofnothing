@@ -4,7 +4,7 @@
 
 **Prepared:** 1 October 2026.
 
-**Status:** Updated after the author's A–F staging answers and subsequent two clarifications on 1 October 2026. Marta's inn is just inside the South Gate and closes late at night. Its bustling trading district includes auctions restricted to 『Faint』 people. A smaller craft descends, fast physical couriers are accepted in principle, the boy is wanted alive, Marta has explicitly forbidden Silas to return, and Wena knows her through Gerolt's frequent visits. The officials' interview timetable still needs to fit the closing arrival. Other staging recommendations remain marked for review.
+**Status:** Updated after the author's A–F staging answers and subsequent two clarifications on 1 October 2026. Marta's inn is just inside the South Gate and closes late at night. Its bustling trading district includes auctions restricted to 『Faint』 people. A smaller craft descends, fast physical couriers are accepted in principle, the boy is wanted alive, Marta has explicitly forbidden Silas to return, and Wena knows her through Gerolt's frequent visits. Section 15 records the author's subsequently supplied Claude review and the response to it. That review's interview timetable, personal sword motive and separation from Wena are proposals awaiting decision; they are not newly approved canon.
 
 **Resumed later on 1 October:** the author accepted the Alaric-double incorporation plan and asked to return to this design. The first full encounter follows genuine help from Marta, currently in Chapter 9. No full apparition is inserted into Chapter 8. Section 14 records the latest author answers and separates them from the remaining recommendations.
 
@@ -490,6 +490,59 @@ Keep the guard handover connected to the main close call: it occupies their exit
 
 At the door, the known dog and the ban on Silas pull Marta in different directions. Her anger cannot vanish merely because Wena recognises her. Her first response should start a difficult human conversation, with Gerolt's death still unknown to her.
 
+## 15. Claude's subsequent review — proposals and response
+
+**Status:** the author supplied Claude's thoughts for discussion. Recording them does not implement the three proposals or approve Claude's drafting instructions.
+
+### 15.1 Interview after closing and the gate round
+
+Claude proposes: investigators arrive in the small craft at dusk; an evening forest report reaches them; a Kelmend guard who knew Gerolt identifies Marta as his niece; the officer orders an interview after closing to avoid conducting it before a full common room; the two guards overheard by Alaric finish their gate round before going to the inn. Alaric can recognise their voices during the later visit in Chapter 9.
+
+**Assessment:** this supplies a credible task and a bounded interval. The report and family connection are acted on when they reach the officer. The privacy of the interview is a purposeful choice. The gate round must concern actual approach checks or search work with little remaining time, rather than an unrelated, hours-long chore inserted to delay the patrol. Map both routes: Alaric's nearby private approach must take less time than the guards' remaining work and movement.
+
+Recognising the voices is a useful continuation if Alaric hears them distinctly in Chapter 8; marketplace noise and concealment still matter. He can recognise one phrase or a familiar voice without knowing everything said outside. The old version's scarred elf does not become a current character merely because an earlier draft used this timing.
+
+This is the preferred timing recommendation after the review, but has not been approved by the author. It supersedes neither the settled late-night closing nor Alaric bringing Marta her first death news.
+
+### 15.2 The sword as a personal hope for Silas
+
+Claude proposes that Silas wanted to carry Gerolt's sword to Marta alone because it offered a way back to the door of the woman who had banned him. At the door Alaric could think, “That's why he wanted to take the sword himself.”
+
+**Manuscript check:** Chapter 6 has Silas propose, “You wait outside the wall with the dog. I'll take the sword to Marta and find out whether it's safe.” Alaric retains the sword and challenges the plan. He does not physically take it from Silas. After the ogre, Silas promises, “If it's clear, we both go in, and you show her the sword yourself.” The concession is already made in Chapter 6; Chapter 8 would enact it under personal pressure.
+
+**Assessment:** a concealed hope of seeing Marta could deepen Silas, but it adds a motive. His protection of Marta remains genuine; his desire for an audience must not retroactively become the sole explanation of his conduct. His stated safety concern has real evidence behind it.
+
+Alaric cannot know the new motive as fact. Recommended thought if the author chooses it: *Was that why he'd wanted to take the sword himself?* This allows recognition without settling the answer. Avoid extending the thought into knowledge that Silas loves her.
+
+Let the actual behaviour carry the consequence: Silas allows Alaric to present Gerolt's message, remains available to help, and accepts that Marta might admit the boy while refusing him. Asking Alaric to knock still gives Silas a possible audience; that action alone does not prove he has relinquished every personal wish.
+
+The personal motive is an author decision still needed. No Chapter 6 line has been changed to establish it.
+
+### 15.3 Briefly separate the boy and dog
+
+Claude proposes that Silas takes Wena while Alaric walks a few paces apart through the market. This breaks up the described pair, asks Alaric to entrust the dog to him and leaves Alaric momentarily without an explanation when he first sees the auction. Wena then pulls towards Alaric in front of a patrol.
+
+**Assessment:** use a short, agreed separation with Silas visible. Alaric does not wander off or disappear into another district. The tactic reduces the immediate visual match; it is not guaranteed protection. Guards can still notice a boy or a conspicuous dog separately and make an inference from their movement.
+
+Acknowledge Wena's likely pull when arranging it. Do not make an animal's predictable attachment a surprising failure of an otherwise perfect plan. Silas's injured palm, usable hand, sword, sack and roll must be accounted for before he takes the lead.
+
+If chosen, make Wena's pull the main close encounter in the market. Shorten the earlier workshop encounter into a blocked exit, overheard handover and successful adjustment. Alaric still helps there, but the chapter should not contain two full patrol scares with the same result. Witnessing the auction a few paces from Silas allows a private first reaction and a later conversation; it does not require abandoning the dog or disobeying their agreement.
+
+This tactic and the revised placement of the main close call are proposals only. Section 8 remains the existing sequence until the author chooses the revision.
+
+### 15.4 Physical details and length
+
+- **Smaller craft:** Chapter 6 ends with the destroyer already east of the town. A craft can peel away, turn back towards Kelmend and descend while the destroyer continues east. Make the turn or return direction observable; the landing cannot happen beneath a vessel that the prose still places over the gate.
+- **Sword and bedroll:** Chapter 6 establishes a rolled bed tied with cord. Unrolling it can provide material to conceal Gerolt's sword, leaving Silas's cloak available for Alaric's clothes. Secure the point and bind the bundle; soft cloth alone is not a sheath. Verify its dimensions and who carries it, then unwrap the sword before Alaric presents it. Do not use the same cord simultaneously for the bundle and a dog lead without showing how.
+- **Cloak and hands:** show the transfer of the cloak. Carrying the sword bundle and supplies cannot consume the usable hand Silas needs for Wena. Neither injured hand is assigned a side by the current manuscript.
+- **Length:** Claude estimates 4,500–5,500 words; the earlier illustrative budget totals 5,850. Neither estimate is a requirement. Expand the responsive conversations and Alaric's encounter with the auction, and compress uneventful waiting and repeated evasion. Do not promise a final count before drafting.
+
+### 15.5 Ending discussion and next exchanges
+
+Claude responds positively to the ordinary-life ending image in handoff Section 22.3: Alaric wakes without the shared connection and finds Seralune outside, occupied with events that happened without him. The image serves separate personhood because he must approach, ask and listen. The exact scene and cosmology remain discussion material; this response is not an author approval or a reason to introduce cosmic explanation into Chapter 8.
+
+After the material choices, the dialogue pass should cover: Silas's new field question; route and closing explanation; Alaric's pace; the guards' handover; auction question and answer; Marta's family connection; the private door; and Marta's angry first response. Claude's request for rough lines is a proposed workflow, not a new instruction from the author to begin drafting now.
+
 ## Sources used
 
 - Current revised Chapters 1–6 in `work/accepted-chapter-revisions/`.
@@ -499,6 +552,7 @@ At the door, the known dog and the ban on Silas pull Marta in different directio
 - The author's round 2 answers on 1 October: Marta learns the death from Alaric; guards intend to question her tonight; the door opens on recognition; reports travel by riders and ships; Mydea's king permits the regional destroyer's assigned territory under pressure from Natharul.
 - The author's later A–F answers on 1 October: inside-South-Gate inn and bustling trade; auctions of people with weak Affinities; gold commerce, patrols and ship rumours; a closing-time approach proposed by Silas; smaller craft descent; fast physical couriers in principle; capture alive; Marta's explicit ban on Silas; Wena's familiarity through Gerolt's frequent visits.
 - The author's subsequent clarifications on 1 October: Marta closes late at night, and only 『Faint』 people can be auctioned.
+- The subsequently supplied Claude review: after-closing interview and gate round, possible personal sword motive, brief boy-and-dog separation, craft return direction, bedroll concealment and the ordinary-life ending image. These additions are recorded as discussion proposals.
 - The later accepted Alaric-double incorporation plan: no full appearance in Chapters 1–8; first encounter follows Marta's genuine help. See Section 23 of `outputs/The Ruler of Nothing - Claude Handoff - 2026-10-01.md`.
 - The older wall-access concept was consulted as a possible resource. The older crystal-message device is excluded from this Volume 1 reporting design.
 

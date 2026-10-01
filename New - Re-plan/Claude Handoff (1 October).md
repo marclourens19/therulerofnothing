@@ -3053,3 +3053,19 @@ The maintenance access, waiting place and first angry line need concrete staging
 ### 24.5 Recording boundary
 
 The A–F decisions and subsequent late-night-closing/Faint-only clarifications have been incorporated into the working design and this dated handoff. No Chapters 1–7 were changed in recording them. Chapter 8 is still a design. The cosmology combination and illustrative ending remain discussion material; the accepted double-incorporation plan remains as recorded in Section 23.
+
+### 24.6 Subsequently supplied Claude review — not yet approved
+
+The author supplied Claude's next thoughts. Record the following as proposals awaiting an author decision:
+
+1. **Interview timetable:** dusk investigators receive the evening forest report; a local guard who knew Gerolt identifies Marta's family connection; the officer orders a private interview after the inn closes; the two guards Alaric overhears finish their real gate round, then go to the inn. The same voices can recur in Chapter 9. The assistant favours this timing recommendation, provided the remaining round is short and both routes are mapped. The old draft's scarred elf is not thereby added to the current manuscript.
+2. **Personal sword motive:** Silas may also have hoped that carrying Gerolt's sword would get Marta to open her door despite her ban. This is new character motivation, not established by the safety argument in Chapter 6. Alaric has the sword throughout that dispute; he does not physically take it from Silas. Silas already concedes Alaric's right to present it after the ogre, so Chapter 8 enacts that promise. If the author chooses the personal hope, keep Alaric's inference uncertain: *Was that why he'd wanted to take the sword himself?* His thought cannot certify love or the sole motive. Silas's more meaningful action is accepting that Marta may receive Alaric while refusing him.
+3. **Separate the identifying pair:** Silas briefly takes Wena while Alaric walks a few paces away through the market, still within sight. Wena pulls back towards him near a patrol. If chosen, this should become the main close encounter; shorten the prior workshop scare to an obstruction and successful route change. The tactic reduces a visual match but does not prevent guards from noticing either traveller separately. Alaric can first witness the auction without an immediate explanation, then ask Silas once they can speak safely.
+
+Practical recommendations: the smaller craft turns back towards Kelmend from the destroyer already travelling east; use the established bedroll to conceal the sword while the cloak covers Alaric's clothes; secure the point, show the cloak transfer, and account for the dog lead, supplies and Silas's usable hand. A cloth roll is not an invented sheath. No existing chapter is changed by recording these recommendations.
+
+Claude's 4,500–5,500-word estimate and the current illustrative 5,850-word budget are estimates, not requirements. Length follows the market encounter, responsive dialogue and changing pressure, with compression of uneventful waiting.
+
+Claude also endorses the ordinary-life ending image in Section 22.3. That reaction does not approve its exact scene or cosmology. The image matters because Seralune has an independent life and Alaric must ask rather than know through their former bond.
+
+See Section 15 of the working design for the full assessment. The three proposals are not silently inserted into the approved Chapter 8 sequence, and Claude's request for a dialogue round is not treated as an instruction from the author to draft now.
