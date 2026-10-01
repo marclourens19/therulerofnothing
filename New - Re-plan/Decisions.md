@@ -664,7 +664,11 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - **Wena knows Marta,** because Gerolt visited her often (answer F).
   - **Only Faint people can be auctioned** (clarification). That's who is eligible, not a rule that every Faint person is owned.
   - **No full appearance of Alaric's double** in Chapter 8 (see Alaric).
-  - Still to settle: round 3 at the end of `Volume 1/Chapter 8 - Design.md` (the questioning's timing, the staging, and the dialogue round). Chapter 10 (Seralune) and Chapter 11 (the Faint quarter, Redd and Freya) remain working recommendations.
+  - **Round 3, agreed (1 October, "1. yes 2. yes 3. yes"):**
+    1. **The questioning's timing.** The investigators arrive with the small craft at dusk. In the evening the forest report reaches them, and a Kelmend guard who knew Gerolt names his niece. The officer orders her questioned tonight, after closing, so it isn't done in front of a full common room. The two guards Alaric overhears finish a short round of the gate first, then go to the inn. Alaric hears their voices clearly enough to know them again in Chapter 9.
+    2. **The sword as Silas's hope.** Silas may also have hoped that bringing Gerolt's sword would make Marta open her door to him. Alaric only wonders about it, and the page never settles it: *Was that why he'd wanted to take the sword himself?* It says nothing about love. What Silas does at the door matters more: he accepts that she may let the boy in and still refuse him.
+    3. **Splitting up the pair.** In the market, Silas walks Wena and Alaric stays a few steps away, still in sight. They expect Wena to pull back to him, and when she does, in front of a patrol, it's the chapter's main close call. The workshop scare becomes a blocked exit and a change of route. Alaric first sees the auction on his own and asks Silas about it once they can talk.
+  - Still to settle: the dialogue round (the eight key exchanges at the end of `Volume 1/Chapter 8 - Design.md`). Chapter 10 (Seralune) and Chapter 11 (the Faint quarter, Redd and Freya) remain working recommendations.
 
 ## Alaric
 

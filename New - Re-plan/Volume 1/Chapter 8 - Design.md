@@ -289,3 +289,7 @@ The updated working design (§15) and handoff (§24.6) record round 3 as proposa
 - **Wena's pull is expected, not a surprise.** They plan for it, it becomes the main close call in the market, and the workshop scare shrinks to a blocked exit and a change of route. That way the chapter doesn't have two full patrol scares that end the same way.
 
 Nothing else in the two files conflicts with the repo. Still to settle: items 1–3 of round 3, then the dialogue round.
+
+### Round 3 answered (1 October)
+
+"1. yes 2. yes 3. yes." All three are agreed and recorded in Decisions, with the two corrections above. The design is settled. Next is the dialogue round.
