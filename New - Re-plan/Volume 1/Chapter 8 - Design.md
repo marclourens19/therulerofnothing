@@ -350,7 +350,7 @@ The author sent `Chapter 8 - The Road Owed to the Dead - Combined.docx`, 5,340 w
 - **The patrol comes before the auction,** so the auction stays untouched by the chase.
 - **After the sale:** the woman lifting her foot out of a gap in the boards; Alaric's hand on his cloak's fastening; *I'm going to walk away.*; "Which way?" It's the strongest new beat in the chapter. It shows without a word that he thinks of giving her the cloak, and doesn't.
 
-**Claude's notes, waiting on the author (not applied):**
+**Claude's notes: all six agreed and applied (1 October; "1. Use Silas 2. Use in the shadow 3. Agreed 4. Okay 5. Agreed 6. agreed"),** in `Chapter 8 - Changes (combined).md`:
 
 1. **"The man was watching the guards"** (the handover). By this point the narration calls Silas "Silas", and you've asked for less "the man". *Recommended:* "Silas was watching the guards through the space between two barrels."
 2. **"Silas stopped beneath the eaves"** (the market). "Eaves" is one of the words you said you didn't know. *Recommended:* "Silas stopped in the shadow of a doorway".

@@ -4,8 +4,8 @@
 
 ## At a glance
 
-- **4 changes proposed.** 0 rejected so far, so 4 are in the chapter: 4 rewritten, 0 cut and 0 added.
-- **Length:** 5,340 words before, 5,331 after.
+- **11 changes proposed.** 0 rejected so far, so 11 are in the chapter: 11 rewritten, 0 cut and 0 added.
+- **Length:** 5,340 words before, 5,332 after.
 - **Median paragraph:** 16 words before, 16 after. The house target is roughly 14–22.
 - **"Nothing":** 1 times before, 1 after.
 
@@ -21,6 +21,13 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 2, Faint (1):** house style.
 - **Change 3, Faint (2):** house style.
 - **Change 4, The south gate:** house style.
+- **Change 5, Silas, not "the man":** Note 1: "Use Silas" (1 October).
+- **Change 6, In the shadow of a doorway:** Note 2: "Use in the shadow" (1 October).
+- **Change 7, Which voices:** Note 3: agreed (1 October).
+- **Change 8, The other cart:** Note 4: agreed (1 October).
+- **Change 9, The half-unloaded cart:** Note 4: agreed (1 October).
+- **Change 10, Tying the bed:** Note 5: agreed (1 October).
+- **Change 11, Thanks, lad:** Note 6: agreed (1 October).
 
 ## The changes
 
@@ -89,3 +96,117 @@ Each of these needs a yes or no from you. It adds something about a character or
 **Why.** Lower case, as in Chapters 2 and 6 (pass 3 of 1 October).
 
 **Your decision.** House style only; the author's text is otherwise unchanged.
+
+### Claude's notes on the combined version, agreed (1 October)
+
+#### 5. Silas, not "the man"
+
+*Draft line 201 → revised line 201*
+
+**Before**
+
+> Alaric looked at Silas. The man was watching the guards through the space between two barrels.
+
+**After**
+
+> Alaric looked across. Silas was watching the guards through the space between two barrels.
+
+**Why.** The narration had already named Silas, and the author asked for less "the man".
+
+**Your decision.** Note 1: "Use Silas" (1 October).
+
+#### 6. In the shadow of a doorway
+
+*Draft line 257 → revised line 257*
+
+**Before**
+
+> Silas stopped beneath the eaves and held out his good hand.
+
+**After**
+
+> Silas stopped in the shadow of a doorway and held out his good hand.
+
+**Why.** "Eaves" is one of the words the author didn't know.
+
+**Your decision.** Note 2: "Use in the shadow" (1 October).
+
+#### 7. Which voices
+
+*Draft line 151 → revised line 151*
+
+**Before**
+
+> The voices round the table grew quieter. Later came the sound of dishes being washed, then a window shutting. One by one, the lights along the backs of the houses went out. Silas went to look through the door again and returned without beckoning him over.
+
+**After**
+
+> The voices in the houses grew quieter. Later came the sound of dishes being washed, then a window shutting. One by one, the lights along the backs of the houses went out. Silas went to look through the door again and returned without beckoning him over.
+
+**Why.** The family's table was several houses back, so "the table" was unclear.
+
+**Your decision.** Note 3: agreed (1 October).
+
+#### 8. The other cart
+
+*Draft line 285 → revised line 285*
+
+**Before**
+
+> Silas moved with her along the side of the loaded cart. For a moment its sacks hid them from the patrol. Then Wena tried to get round its rear wheel and whined, high enough that Alaric heard her over the voices in the street.
+
+**After**
+
+> Silas moved with her along the side of the other cart. For a moment its sacks hid them from the patrol. Then Wena tried to get round its rear wheel and whined, high enough that Alaric heard her over the voices in the street.
+
+**Why.** Three carts were in play. Silas walks beside the one being backed in, and Alaric hides behind the half-unloaded one.
+
+**Your decision.** Note 4: agreed (1 October).
+
+#### 9. The half-unloaded cart
+
+*Draft line 291 → revised line 291*
+
+**Before**
+
+> Alaric stepped behind the cart. He kept close to its load, with the hood pulled forward and the bundle against his chest. Wena's whine went on a moment longer, then stopped.
+
+**After**
+
+> Alaric stepped behind the half-unloaded cart. He kept close to its load, with the hood pulled forward and the bundle against his chest. Wena's whine went on a moment longer, then stopped.
+
+**Why.** As above: it's clear which cart he hides behind.
+
+**Your decision.** Note 4: agreed (1 October).
+
+#### 10. Tying the bed
+
+*Draft line 437 → revised line 437*
+
+**Before**
+
+> Alaric rested the sword across his knees while Silas rolled the bed again, keeping his burned hand clear of the knot. Alaric tied the cord round it. Silas tucked it beneath his arm and took Wena's lead with his good hand.
+
+**After**
+
+> He rested the sword across his knees while Silas rolled the bed again, keeping his burned hand clear, and tied the cord round it for him. Silas tucked it beneath his arm and took Wena's lead with his good hand.
+
+**Why.** Two paragraphs in a row began with "Alaric", and the knot was split across two sentences.
+
+**Your decision.** Note 5: agreed (1 October).
+
+#### 11. Thanks, lad
+
+*Draft line 237 → revised line 237*
+
+**Before**
+
+> "Cheers, lad."
+
+**After**
+
+> "Thanks, lad."
+
+**Why.** "Cheers" was the only very modern British phrase in the chapters.
+
+**Your decision.** Note 6: agreed (1 October).

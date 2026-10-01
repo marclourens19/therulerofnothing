@@ -5,7 +5,8 @@
   "changes_file": "../Chapter 8 - Changes (combined).md",
   "intro_md": "1 October 2026. The author's combined version of Chapter 8 (`Drafts/Chapter 8 - The Road Owed to the Dead (Draft 3, combined).md`, from their Word file, with straight quotes) is now the chapter. Only the house style is changed here. Claude's notes on it are in `Chapter 8 - Design.md` (\"The combined version\"), waiting on the author. The version after Claude's three passes is saved as Draft 2, and its changes stay in `Chapter 8 - Changes.md`.",
   "sections": {
-    "House style": "House style"
+    "House style": "House style",
+    "Notes": "Claude's notes on the combined version, agreed (1 October)"
   },
   "changes": [
     {
@@ -55,6 +56,90 @@
       "decision": "accepted",
       "decision_note": "House style only; the author's text is otherwise unchanged.",
       "decision_short": "house style."
+    },
+    {
+      "section": "Notes",
+      "title": "Silas, not \"the man\"",
+      "kind": "changed",
+      "tags": [],
+      "before": "Alaric looked at Silas. The man was watching the guards through the space between two barrels.",
+      "after": "Alaric looked across. Silas was watching the guards through the space between two barrels.",
+      "why": "The narration had already named Silas, and the author asked for less \"the man\".",
+      "decision": "accepted",
+      "decision_note": "Note 1: \"Use Silas\" (1 October).",
+      "decision_short": "Note 1: \"Use Silas\" (1 October)."
+    },
+    {
+      "section": "Notes",
+      "title": "In the shadow of a doorway",
+      "kind": "changed",
+      "tags": [],
+      "before": "Silas stopped beneath the eaves and held out his good hand.",
+      "after": "Silas stopped in the shadow of a doorway and held out his good hand.",
+      "why": "\"Eaves\" is one of the words the author didn't know.",
+      "decision": "accepted",
+      "decision_note": "Note 2: \"Use in the shadow\" (1 October).",
+      "decision_short": "Note 2: \"Use in the shadow\" (1 October)."
+    },
+    {
+      "section": "Notes",
+      "title": "Which voices",
+      "kind": "changed",
+      "tags": [],
+      "before": "The voices round the table grew quieter. Later came the sound of dishes being washed, then a window shutting. One by one, the lights along the backs of the houses went out. Silas went to look through the door again and returned without beckoning him over.",
+      "after": "The voices in the houses grew quieter. Later came the sound of dishes being washed, then a window shutting. One by one, the lights along the backs of the houses went out. Silas went to look through the door again and returned without beckoning him over.",
+      "why": "The family's table was several houses back, so \"the table\" was unclear.",
+      "decision": "accepted",
+      "decision_note": "Note 3: agreed (1 October).",
+      "decision_short": "Note 3: agreed (1 October)."
+    },
+    {
+      "section": "Notes",
+      "title": "The other cart",
+      "kind": "changed",
+      "tags": [],
+      "before": "Silas moved with her along the side of the loaded cart. For a moment its sacks hid them from the patrol. Then Wena tried to get round its rear wheel and whined, high enough that Alaric heard her over the voices in the street.",
+      "after": "Silas moved with her along the side of the other cart. For a moment its sacks hid them from the patrol. Then Wena tried to get round its rear wheel and whined, high enough that Alaric heard her over the voices in the street.",
+      "why": "Three carts were in play. Silas walks beside the one being backed in, and Alaric hides behind the half-unloaded one.",
+      "decision": "accepted",
+      "decision_note": "Note 4: agreed (1 October).",
+      "decision_short": "Note 4: agreed (1 October)."
+    },
+    {
+      "section": "Notes",
+      "title": "The half-unloaded cart",
+      "kind": "changed",
+      "tags": [],
+      "before": "Alaric stepped behind the cart. He kept close to its load, with the hood pulled forward and the bundle against his chest. Wena's whine went on a moment longer, then stopped.",
+      "after": "Alaric stepped behind the half-unloaded cart. He kept close to its load, with the hood pulled forward and the bundle against his chest. Wena's whine went on a moment longer, then stopped.",
+      "why": "As above: it's clear which cart he hides behind.",
+      "decision": "accepted",
+      "decision_note": "Note 4: agreed (1 October).",
+      "decision_short": "Note 4: agreed (1 October)."
+    },
+    {
+      "section": "Notes",
+      "title": "Tying the bed",
+      "kind": "changed",
+      "tags": [],
+      "before": "Alaric rested the sword across his knees while Silas rolled the bed again, keeping his burned hand clear of the knot. Alaric tied the cord round it. Silas tucked it beneath his arm and took Wena's lead with his good hand.",
+      "after": "He rested the sword across his knees while Silas rolled the bed again, keeping his burned hand clear, and tied the cord round it for him. Silas tucked it beneath his arm and took Wena's lead with his good hand.",
+      "why": "Two paragraphs in a row began with \"Alaric\", and the knot was split across two sentences.",
+      "decision": "accepted",
+      "decision_note": "Note 5: agreed (1 October).",
+      "decision_short": "Note 5: agreed (1 October)."
+    },
+    {
+      "section": "Notes",
+      "title": "Thanks, lad",
+      "kind": "changed",
+      "tags": [],
+      "before": "\"Cheers, lad.\"",
+      "after": "\"Thanks, lad.\"",
+      "why": "\"Cheers\" was the only very modern British phrase in the chapters.",
+      "decision": "accepted",
+      "decision_note": "Note 6: agreed (1 October).",
+      "decision_short": "Note 6: agreed (1 October)."
     }
   ]
 }

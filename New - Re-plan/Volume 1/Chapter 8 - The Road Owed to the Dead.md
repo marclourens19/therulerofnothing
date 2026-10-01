@@ -148,7 +148,7 @@ Alaric drank from the water skin and eased his boot off. His ankle had swollen a
 
 The yard stayed busy. Whenever he thought the last load had gone, another came. He heard a man count sacks, lose his place and start again. He heard a wheel stick somewhere, and four people tell its owner four different ways to free it. Once somebody laughed so hard that Alaric smiled before he remembered where he was.
 
-The voices round the table grew quieter. Later came the sound of dishes being washed, then a window shutting. One by one, the lights along the backs of the houses went out. Silas went to look through the door again and returned without beckoning him over.
+The voices in the houses grew quieter. Later came the sound of dishes being washed, then a window shutting. One by one, the lights along the backs of the houses went out. Silas went to look through the door again and returned without beckoning him over.
 
 Wena slept on. Alaric was cold now, despite the cloak, and he had stopped trying to work out which set of footsteps might be the last. He could hear people going home in the lane beyond the houses. They called to one another, said goodnight and went through doors that shut behind them. Nobody came down the gap where he and Silas waited.
 
@@ -198,7 +198,7 @@ The first man spat.
 
 "The farmer's niece. Just inside the south gate. They want her questioned after she closes."
 
-Alaric looked at Silas. The man was watching the guards through the space between two barrels.
+Alaric looked across. Silas was watching the guards through the space between two barrels.
 
 "What the fuck's she done?"
 
@@ -234,7 +234,7 @@ It opened into a covered strip along the side of the building. A woman carrying 
 
 Alaric kept it open while she turned sideways to get the trays through. She smelled of hot bread. Her sleeve brushed his hand.
 
-"Cheers, lad."
+"Thanks, lad."
 
 Then she was in the shed, putting the trays down and calling to someone further inside. Silas brought Alaric out before she could turn back.
 
@@ -254,7 +254,7 @@ At the far end of the street was the gate. There were more torches there than an
 
 "—they'll be putting soldiers in our houses next, you watch—"
 
-Silas stopped beneath the eaves and held out his good hand.
+Silas stopped in the shadow of a doorway and held out his good hand.
 
 "Give her here."
 
@@ -282,13 +282,13 @@ He nearly said her name.
 
 Instead, he stopped beside the stall. The man with the baskets had put one down and was asking about the cloth. Alaric turned towards it too, leaving the man between himself and Wena. If he kept walking, she would keep pulling.
 
-Silas moved with her along the side of the loaded cart. For a moment its sacks hid them from the patrol. Then Wena tried to get round its rear wheel and whined, high enough that Alaric heard her over the voices in the street.
+Silas moved with her along the side of the other cart. For a moment its sacks hid them from the patrol. Then Wena tried to get round its rear wheel and whined, high enough that Alaric heard her over the voices in the street.
 
 The lantern turned.
 
 *She can still see me.*
 
-Alaric stepped behind the cart. He kept close to its load, with the hood pulled forward and the bundle against his chest. Wena's whine went on a moment longer, then stopped.
+Alaric stepped behind the half-unloaded cart. He kept close to its load, with the hood pulled forward and the bundle against his chest. Wena's whine went on a moment longer, then stopped.
 
 Through a gap between two sacks, he saw the guard look at the dog and then at Silas.
 
@@ -434,7 +434,7 @@ The ground-floor windows went dark. Only one stayed lit, at the back beside the 
 
 Alaric's fingers were clumsy with the knot, and he had to pick it apart with his nails before he could unroll the blanket. When he lifted the sword free, the steel caught the light from the window. He turned it away and lowered the point.
 
-Alaric rested the sword across his knees while Silas rolled the bed again, keeping his burned hand clear of the knot. Alaric tied the cord round it. Silas tucked it beneath his arm and took Wena's lead with his good hand.
+He rested the sword across his knees while Silas rolled the bed again, keeping his burned hand clear, and tied the cord round it for him. Silas tucked it beneath his arm and took Wena's lead with his good hand.
 
 The front door closed. A bar dropped behind it.
 
