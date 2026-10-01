@@ -679,6 +679,7 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - **Keep "Th-that girl…"; the untagged dialogue runs stay (the author, 1 October).** A final pass of everything followed at the author's request: five changes ("faded little by little" rather than "fainter"; "round"; "the lights along the row"; "Silas stood there"; "the scraping started again"). The chapter is 5,343 words.
   - **The review notes (1 October),** agreed by the author: eleven changes (the opening no longer replays Chapter 3; Silas looks away at "Tell her Gerolt sent us?"; the forearm only at the tub; "They meant Marta?" cut; the middle compressed; who ties the cord). Not taken: the sword thought has its setup in Chapter 6, and "Faint" stays without 『』 as in Chapters 1–7 (overruled the same day, below). The chapter is 5,286 words.
   - **『Faint』 with corner brackets everywhere it's used** (the author, 1 October: "apply 『Faint』 to all chapter where it is used"). Applied in Chapter 1 (Gerolt, three times) and Chapter 8 (twice in Silas's line and once in Alaric's thought); Chapters 2–7 don't use the word. It's now house style, like 『Affinity』.
+  - **Claude's 100/100 review (1 October):** the author agreed points 2–4: the guards lose the inn's address, Marta doesn't repeat the ban, the auctioned woman closes her hand round the chain, and twelve "looked"s go (the guard's stays). Point 1, Marta's "Where's—", is still open. The chapter is 5,275 words.
 
 ## Chapter 9
 

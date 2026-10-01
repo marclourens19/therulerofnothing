@@ -11,7 +11,8 @@
     "Pass 2": "Pass 2: vocabulary, rhythm and repeats",
     "Pass 3": "Pass 3: consistency and house style",
     "Final pass": "Final pass: everything, once more",
-    "Review notes": "The review notes: compression and small fixes"
+    "Review notes": "The review notes: compression and small fixes",
+    "100/100": "Claude's 100/100 review: the guards, Marta, the auctioned woman and \"looked\""
   },
   "changes": [
     {
@@ -56,8 +57,8 @@
       "kind": "changed",
       "tags": [],
       "before": "\"The farmer's niece. Just inside the South Gate. They want her questioned after she closes.\"",
-      "after": "\"The farmer's niece. Just inside the south gate. They want her questioned after she closes.\"",
-      "why": "Lower case, as in Chapters 2 and 6 (pass 3 of 1 October).",
+      "after": "\"The farmer's niece. They want her questioned after she closes.\"",
+      "why": "Lower case, as in Chapters 2 and 6 (pass 3 of 1 October). 100/100 review: Both guards know where Marta's inn is; the address was for the reader.",
       "decision": "accepted",
       "decision_note": "House style only; the author's text is otherwise unchanged.",
       "decision_short": "house style."
@@ -68,8 +69,8 @@
       "kind": "changed",
       "tags": [],
       "before": "Alaric looked at Silas. The man was watching the guards through the space between two barrels.",
-      "after": "Alaric looked across. Silas was watching the guards through the space between two barrels.",
-      "why": "The narration had already named Silas, and the author asked for less \"the man\".",
+      "after": "Silas was watching the guards through the space between two barrels.",
+      "why": "The narration had already named Silas, and the author asked for less \"the man\". 100/100 review: Fewer looks.",
       "decision": "accepted",
       "decision_note": "Note 1: \"Use Silas\" (1 October).",
       "decision_short": "Note 1: \"Use Silas\" (1 October)."
@@ -320,8 +321,8 @@
       "kind": "changed",
       "tags": [],
       "before": "At last, the noise in the yard moved away from the wall. The wheels and voices were coming from one place now, further in. Silas went to look, then eased the loose end of the split board aside and reached through with his good hand. A wooden bar scraped out of its bracket. He lowered it inside and pushed the door inward a finger's width.\n\nHe listened before beckoning Alaric over.",
-      "after": "At last, the noise in the yard moved away from the wall. The wheels and voices were coming from one place now, further in. Silas went to look, then eased the loose end of the split board aside and reached through with his good hand. A wooden bar scraped out of its bracket. He lowered it inside, pushed the door inwards a finger's width and listened before beckoning Alaric over.",
-      "why": "British house style, as everywhere else in the chapters. Review notes: \"He listened before beckoning Alaric over.\" joins the paragraph before it, one step fewer in the crossing.",
+      "after": "At last, the noise in the yard moved away from the wall. The wheels and voices were coming from one place now, further in. Silas went to the door again, eased the loose end of the split board aside and reached through with his good hand. A wooden bar scraped out of its bracket. He lowered it inside, pushed the door inwards a finger's width and listened before beckoning Alaric over.",
+      "why": "British house style, as everywhere else in the chapters. Review notes: \"He listened before beckoning Alaric over.\" joins the paragraph before it, one step fewer in the crossing. 100/100 review: Fewer looks.",
       "decision": "accepted",
       "decision_note": "Pass 3 of three, the final pass (1 October): consistency with the earlier chapters and house style.",
       "decision_short": "the author's request (1 October)."
@@ -476,10 +477,142 @@
       "kind": "changed",
       "tags": [],
       "before": "\"The guards said his niece.\" Alaric looked towards the inn. \"They meant Marta?\"\n\n\"Yes. His brother's daughter.\"",
-      "after": "\"The guards said his niece.\" Alaric looked towards the inn.\n\n\"His brother's daughter.\"",
-      "why": "*His niece.* has already landed, so he doesn't need to ask. Silas's answer adds what's new.",
+      "after": "\"The guards said his niece,\" Alaric said.\n\n\"His brother's daughter.\"",
+      "why": "*His niece.* has already landed, so he doesn't need to ask. Silas's answer adds what's new. 100/100 review: The next line has him looking down at the sword.",
       "decision": "accepted",
       "decision_note": "The review notes (1 October): agreed by the author (\"yes apply all\").",
+      "decision_short": "the author's agreement (1 October)."
+    },
+    {
+      "section": "100/100",
+      "title": "Marta doesn't repeat the ban",
+      "kind": "changed",
+      "tags": [],
+      "before": "\"Get the fuck out of Kelmend, Silas. Right now.\" She straightened, her hand falling away from Wena. \"I told you I never wanted to see your face again. Did you think I didn't mean it?\"",
+      "after": "\"Get the fuck out of Kelmend, Silas. Right now.\" She straightened, her hand falling away from Wena. \"Did you think I didn't mean it?\"",
+      "why": "Silas told Alaric about the ban a minute earlier. Without the repeat, her question points straight back at it.",
+      "decision": "accepted",
+      "decision_note": "Claude's 100/100 review (1 October), agreed by the author (\"the rest apply\").",
+      "decision_short": "the author's agreement (1 October)."
+    },
+    {
+      "section": "100/100",
+      "title": "Her hand on the chain",
+      "kind": "changed",
+      "tags": [],
+      "before": "The auctioneer lowered the chain into the man's open hand. The buyer counted the coins into the auctioneer's palm, and the woman had to get down from the platform while they talked. She sat on its edge to do it. The chain tightened before she had both feet on the ground.",
+      "after": "The auctioneer lowered the chain into the man's open hand. The buyer counted the coins into the auctioneer's palm, and the woman had to get down from the platform while they talked. She sat on its edge to do it. The chain tightened before she had both feet on the ground. She reached up and closed her hand round it, just under her chin. When he pulled again, it pulled her hand.",
+      "why": "One deliberate act of her own, aimed at the buyer, not at Alaric. The loose chain as she follows now reads as her choice too.",
+      "decision": "accepted",
+      "decision_note": "Claude's 100/100 review (1 October), agreed by the author (\"the rest apply\").",
+      "decision_short": "the author's agreement (1 October)."
+    },
+    {
+      "section": "100/100",
+      "title": "Looks (1)",
+      "kind": "changed",
+      "tags": [],
+      "before": "Alaric looked down at Wena. His hand was still gripping the loose skin at her neck; he let it go and stroked her instead.",
+      "after": "His hand was still gripping the loose skin at Wena's neck. He let it go and stroked her instead.",
+      "why": "\"Looked\" was the chapter's most repeated verb (26). Where the look did nothing, it goes.",
+      "decision": "accepted",
+      "decision_note": "Claude's 100/100 review (1 October), agreed by the author (\"the rest apply\").",
+      "decision_short": "the author's agreement (1 October)."
+    },
+    {
+      "section": "100/100",
+      "title": "Looks (2)",
+      "kind": "changed",
+      "tags": [],
+      "before": "Alaric looked towards the gate. \"Couldn't we just knock at the back? Tell her Gerolt sent us?\"",
+      "after": "\"Couldn't we just knock at the back?\" Alaric asked. \"Tell her Gerolt sent us?\"",
+      "why": "Leaves Silas's \"looked away\" on its own.",
+      "decision": "accepted",
+      "decision_note": "Claude's 100/100 review (1 October), agreed by the author (\"the rest apply\").",
+      "decision_short": "the author's agreement (1 October)."
+    },
+    {
+      "section": "100/100",
+      "title": "Looks (3)",
+      "kind": "changed",
+      "tags": [],
+      "before": "The houses along the wall were closer than they had looked from the slope. They were low and crowded, roof against roof, with the first row built right up against the stones and the next row facing it across a narrow lane. Smoke came out of holes in the roofs as often as out of chimneys. Lamplight showed at the edges of shutters that didn't fit.",
+      "after": "The houses along the wall were closer than they had seemed from the slope. They were low and crowded, roof against roof, with the first row built right up against the stones and the next row facing it across a narrow lane. Smoke came out of holes in the roofs as often as out of chimneys. Lamplight showed at the edges of shutters that didn't fit.",
+      "why": "Fewer looks.",
+      "decision": "accepted",
+      "decision_note": "Claude's 100/100 review (1 October), agreed by the author (\"the rest apply\").",
+      "decision_short": "the author's agreement (1 October)."
+    },
+    {
+      "section": "100/100",
+      "title": "Looks (4)",
+      "kind": "changed",
+      "tags": [],
+      "before": "Alaric looked at the door. He could hear footsteps and wheels, and somebody telling somebody else they had brought the wrong cart.",
+      "after": "Beyond the door he could hear footsteps and wheels, and somebody telling somebody else they had brought the wrong cart.",
+      "why": "Fewer looks.",
+      "decision": "accepted",
+      "decision_note": "Claude's 100/100 review (1 October), agreed by the author (\"the rest apply\").",
+      "decision_short": "the author's agreement (1 October)."
+    },
+    {
+      "section": "100/100",
+      "title": "Looks (7)",
+      "kind": "changed",
+      "tags": [],
+      "before": "*A boy and a big dog. That's all they've got.* Alaric looked down at Wena. *And it's enough.*",
+      "after": "*A boy and a big dog. That's all they've got.* Wena had her head on her paws beside his boot. *And it's enough.*",
+      "why": "An image in place of a look.",
+      "decision": "accepted",
+      "decision_note": "Claude's 100/100 review (1 October), agreed by the author (\"the rest apply\").",
+      "decision_short": "the author's agreement (1 October)."
+    },
+    {
+      "section": "100/100",
+      "title": "Looks (8)",
+      "kind": "changed",
+      "tags": [],
+      "before": "Alaric looked at the strip of cloth in his hand.",
+      "after": "Alaric's hand closed on the strip of cloth.",
+      "why": "It shows he doesn't want to let go.",
+      "decision": "accepted",
+      "decision_note": "Claude's 100/100 review (1 October), agreed by the author (\"the rest apply\").",
+      "decision_short": "the author's agreement (1 October)."
+    },
+    {
+      "section": "100/100",
+      "title": "Looks (9)",
+      "kind": "changed",
+      "tags": [],
+      "before": "Ahead, a driver was backing another cart into the gap beside the half-unloaded one. People had to step round its shafts. Alaric waited behind the baskets, then looked back to make sure Silas could still see him.",
+      "after": "Ahead, a driver was backing another cart into the gap beside the half-unloaded one. People had to step round its shafts. Alaric waited behind the baskets, then glanced back to make sure Silas could still see him.",
+      "why": "Fewer looks.",
+      "decision": "accepted",
+      "decision_note": "Claude's 100/100 review (1 October), agreed by the author (\"the rest apply\").",
+      "decision_short": "the author's agreement (1 October)."
+    },
+    {
+      "section": "100/100",
+      "title": "Looks (10)",
+      "kind": "changed",
+      "tags": [],
+      "before": "Two guards were coming up from the gate with a lantern. Silas looked towards them and shortened Wena's lead again. She saw Alaric turn and tried to come to him.",
+      "after": "Two guards were coming up from the gate with a lantern. Silas shortened Wena's lead again. She saw Alaric turn and tried to come to him.",
+      "why": "Fewer looks. \"Silas saw them\" would have sat next to \"She saw Alaric turn\", so the look simply goes.",
+      "decision": "accepted",
+      "decision_note": "Claude's 100/100 review (1 October), agreed by the author (\"the rest apply\").",
+      "decision_short": "the author's agreement (1 October)."
+    },
+    {
+      "section": "100/100",
+      "title": "Looks (11)",
+      "kind": "changed",
+      "tags": [],
+      "before": "Silas looked down the street. \"Past the next corner.\"",
+      "after": "Silas nodded down the street. \"Past the next corner.\"",
+      "why": "Fewer looks.",
+      "decision": "accepted",
+      "decision_note": "Claude's 100/100 review (1 October), agreed by the author (\"the rest apply\").",
       "decision_short": "the author's agreement (1 October)."
     }
   ]

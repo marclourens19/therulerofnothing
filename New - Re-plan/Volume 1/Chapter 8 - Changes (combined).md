@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **39 changes proposed.** 2 rejected so far, so 37 are in the chapter: 37 rewritten, 0 cut and 0 added.
-- **Length:** 5,340 words before, 5,286 after.
-- **Median paragraph:** 16 words before, 17 after. The house target is roughly 14–22.
+- **50 changes proposed.** 2 rejected so far, so 48 are in the chapter: 48 rewritten, 0 cut and 0 added.
+- **Length:** 5,340 words before, 5,275 after.
+- **Median paragraph:** 16 words before, 16.5 after. The house target is roughly 14–22.
 - **"Nothing":** 1 times before, 1 after.
 
 ## Your call
@@ -56,6 +56,17 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 37, The sack (2):** the author's agreement (1 October).
 - **Change 38, The far door:** the author's agreement (1 October).
 - **Change 39, His brother's daughter:** the author's agreement (1 October).
+- **Change 40, Marta doesn't repeat the ban:** the author's agreement (1 October).
+- **Change 41, Her hand on the chain:** the author's agreement (1 October).
+- **Change 42, Looks (1):** the author's agreement (1 October).
+- **Change 43, Looks (2):** the author's agreement (1 October).
+- **Change 44, Looks (3):** the author's agreement (1 October).
+- **Change 45, Looks (4):** the author's agreement (1 October).
+- **Change 46, Looks (7):** the author's agreement (1 October).
+- **Change 47, Looks (8):** the author's agreement (1 October).
+- **Change 48, Looks (9):** the author's agreement (1 October).
+- **Change 49, Looks (10):** the author's agreement (1 October).
+- **Change 50, Looks (11):** the author's agreement (1 October).
 
 ## The changes
 
@@ -119,9 +130,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> "The farmer's niece. Just inside the south gate. They want her questioned after she closes."
+> "The farmer's niece. They want her questioned after she closes."
 
-**Why.** Lower case, as in Chapters 2 and 6 (pass 3 of 1 October).
+**Why.** Lower case, as in Chapters 2 and 6 (pass 3 of 1 October). 100/100 review: Both guards know where Marta's inn is; the address was for the reader.
 
 **Your decision.** House style only; the author's text is otherwise unchanged.
 
@@ -137,9 +148,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> Alaric looked across. Silas was watching the guards through the space between two barrels.
+> Silas was watching the guards through the space between two barrels.
 
-**Why.** The narration had already named Silas, and the author asked for less "the man".
+**Why.** The narration had already named Silas, and the author asked for less "the man". 100/100 review: Fewer looks.
 
 **Your decision.** Note 1: "Use Silas" (1 October).
 
@@ -487,9 +498,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> At last, the noise in the yard moved away from the wall. The wheels and voices were coming from one place now, further in. Silas went to look, then eased the loose end of the split board aside and reached through with his good hand. A wooden bar scraped out of its bracket. He lowered it inside, pushed the door inwards a finger's width and listened before beckoning Alaric over.
+> At last, the noise in the yard moved away from the wall. The wheels and voices were coming from one place now, further in. Silas went to the door again, eased the loose end of the split board aside and reached through with his good hand. A wooden bar scraped out of its bracket. He lowered it inside, pushed the door inwards a finger's width and listened before beckoning Alaric over.
 
-**Why.** British house style, as everywhere else in the chapters. Review notes: "He listened before beckoning Alaric over." joins the paragraph before it, one step fewer in the crossing.
+**Why.** British house style, as everywhere else in the chapters. Review notes: "He listened before beckoning Alaric over." joins the paragraph before it, one step fewer in the crossing. 100/100 review: Fewer looks.
 
 **Your decision.** Pass 3 of three, the final pass (1 October): consistency with the earlier chapters and house style.
 
@@ -703,10 +714,188 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> "The guards said his niece." Alaric looked towards the inn.
+> "The guards said his niece," Alaric said.
 >
 > "His brother's daughter."
 
-**Why.** *His niece.* has already landed, so he doesn't need to ask. Silas's answer adds what's new.
+**Why.** *His niece.* has already landed, so he doesn't need to ask. Silas's answer adds what's new. 100/100 review: The next line has him looking down at the sword.
 
 **Your decision.** The review notes (1 October): agreed by the author ("yes apply all").
+
+### Claude's 100/100 review: the guards, Marta, the auctioned woman and "looked"
+
+#### 40. Marta doesn't repeat the ban
+
+*Draft line 487 → revised line 481*
+
+**Before**
+
+> "Get the fuck out of Kelmend, Silas. Right now." She straightened, her hand falling away from Wena. "I told you I never wanted to see your face again. Did you think I didn't mean it?"
+
+**After**
+
+> "Get the fuck out of Kelmend, Silas. Right now." She straightened, her hand falling away from Wena. "Did you think I didn't mean it?"
+
+**Why.** Silas told Alaric about the ban a minute earlier. Without the repeat, her question points straight back at it.
+
+**Your decision.** Claude's 100/100 review (1 October), agreed by the author ("the rest apply").
+
+#### 41. Her hand on the chain
+
+*Draft line 351 → revised line 345*
+
+**Before**
+
+> The auctioneer lowered the chain into the man's open hand. The buyer counted the coins into the auctioneer's palm, and the woman had to get down from the platform while they talked. She sat on its edge to do it. The chain tightened before she had both feet on the ground.
+
+**After**
+
+> The auctioneer lowered the chain into the man's open hand. The buyer counted the coins into the auctioneer's palm, and the woman had to get down from the platform while they talked. She sat on its edge to do it. The chain tightened before she had both feet on the ground. She reached up and closed her hand round it, just under her chin. When he pulled again, it pulled her hand.
+
+**Why.** One deliberate act of her own, aimed at the buyer, not at Alaric. The loose chain as she follows now reads as her choice too.
+
+**Your decision.** Claude's 100/100 review (1 October), agreed by the author ("the rest apply").
+
+#### 42. Looks (1)
+
+*Draft line 29 → revised line 29*
+
+**Before**
+
+> Alaric looked down at Wena. His hand was still gripping the loose skin at her neck; he let it go and stroked her instead.
+
+**After**
+
+> His hand was still gripping the loose skin at Wena's neck. He let it go and stroked her instead.
+
+**Why.** "Looked" was the chapter's most repeated verb (26). Where the look did nothing, it goes.
+
+**Your decision.** Claude's 100/100 review (1 October), agreed by the author ("the rest apply").
+
+#### 43. Looks (2)
+
+*Draft line 55 → revised line 55*
+
+**Before**
+
+> Alaric looked towards the gate. "Couldn't we just knock at the back? Tell her Gerolt sent us?"
+
+**After**
+
+> "Couldn't we just knock at the back?" Alaric asked. "Tell her Gerolt sent us?"
+
+**Why.** Leaves Silas's "looked away" on its own.
+
+**Your decision.** Claude's 100/100 review (1 October), agreed by the author ("the rest apply").
+
+#### 44. Looks (3)
+
+*Draft line 99 → revised line 99*
+
+**Before**
+
+> The houses along the wall were closer than they had looked from the slope. They were low and crowded, roof against roof, with the first row built right up against the stones and the next row facing it across a narrow lane. Smoke came out of holes in the roofs as often as out of chimneys. Lamplight showed at the edges of shutters that didn't fit.
+
+**After**
+
+> The houses along the wall were closer than they had seemed from the slope. They were low and crowded, roof against roof, with the first row built right up against the stones and the next row facing it across a narrow lane. Smoke came out of holes in the roofs as often as out of chimneys. Lamplight showed at the edges of shutters that didn't fit.
+
+**Why.** Fewer looks.
+
+**Your decision.** Claude's 100/100 review (1 October), agreed by the author ("the rest apply").
+
+#### 45. Looks (4)
+
+*Draft line 141 → revised line 141*
+
+**Before**
+
+> Alaric looked at the door. He could hear footsteps and wheels, and somebody telling somebody else they had brought the wrong cart.
+
+**After**
+
+> Beyond the door he could hear footsteps and wheels, and somebody telling somebody else they had brought the wrong cart.
+
+**Why.** Fewer looks.
+
+**Your decision.** Claude's 100/100 review (1 October), agreed by the author ("the rest apply").
+
+#### 46. Looks (7)
+
+*Draft line 219 → revised line 215*
+
+**Before**
+
+> *A boy and a big dog. That's all they've got.* Alaric looked down at Wena. *And it's enough.*
+
+**After**
+
+> *A boy and a big dog. That's all they've got.* Wena had her head on her paws beside his boot. *And it's enough.*
+
+**Why.** An image in place of a look.
+
+**Your decision.** Claude's 100/100 review (1 October), agreed by the author ("the rest apply").
+
+#### 47. Looks (8)
+
+*Draft line 261 → revised line 255*
+
+**Before**
+
+> Alaric looked at the strip of cloth in his hand.
+
+**After**
+
+> Alaric's hand closed on the strip of cloth.
+
+**Why.** It shows he doesn't want to let go.
+
+**Your decision.** Claude's 100/100 review (1 October), agreed by the author ("the rest apply").
+
+#### 48. Looks (9)
+
+*Draft line 277 → revised line 271*
+
+**Before**
+
+> Ahead, a driver was backing another cart into the gap beside the half-unloaded one. People had to step round its shafts. Alaric waited behind the baskets, then looked back to make sure Silas could still see him.
+
+**After**
+
+> Ahead, a driver was backing another cart into the gap beside the half-unloaded one. People had to step round its shafts. Alaric waited behind the baskets, then glanced back to make sure Silas could still see him.
+
+**Why.** Fewer looks.
+
+**Your decision.** Claude's 100/100 review (1 October), agreed by the author ("the rest apply").
+
+#### 49. Looks (10)
+
+*Draft line 279 → revised line 273*
+
+**Before**
+
+> Two guards were coming up from the gate with a lantern. Silas looked towards them and shortened Wena's lead again. She saw Alaric turn and tried to come to him.
+
+**After**
+
+> Two guards were coming up from the gate with a lantern. Silas shortened Wena's lead again. She saw Alaric turn and tried to come to him.
+
+**Why.** Fewer looks. "Silas saw them" would have sat next to "She saw Alaric turn", so the look simply goes.
+
+**Your decision.** Claude's 100/100 review (1 October), agreed by the author ("the rest apply").
+
+#### 50. Looks (11)
+
+*Draft line 363 → revised line 357*
+
+**Before**
+
+> Silas looked down the street. "Past the next corner."
+
+**After**
+
+> Silas nodded down the street. "Past the next corner."
+
+**Why.** Fewer looks.
+
+**Your decision.** Claude's 100/100 review (1 October), agreed by the author ("the rest apply").

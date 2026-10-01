@@ -399,3 +399,13 @@ The author brought an outside review and agreed Claude's answers to it ("yes app
 - 『Faint』 at first stayed plain "Faint", as in Chapter 1. **Overruled by the author (1 October):** "apply 『Faint』 to all chapter where it is used". Chapter 1 and Chapter 8 now write 『Faint』.
 
 **Still to answer:** the auctioned woman's own deliberate act, and whether Silas's explanation at the door should be shorter.
+
+## Claude's 100/100 review (1 October)
+
+The author asked what would make Chapter 8 a 100/100. Four points; the author agreed 2–4 ("the guard: keep it looked / the rest apply"). They're in the "100/100" section of `Chapter 8 - Changes (combined).md`. The chapter is 5,275 words.
+
+- **2. Lines for the reader:** the guards no longer give the inn's address ("Just inside the south gate"), and Marta no longer repeats the ban Silas has just confessed ("I told you I never wanted to see your face again"); "Did you think I didn't mean it?" now points back at it.
+- **3. The auctioned woman** has one act of her own: "She reached up and closed her hand round it, just under her chin. When he pulled again, it pulled her hand."
+- **4. "Looked":** 12 of the 13 proposed changes (the guard studying Silas's face keeps "looked", the author's choice). "Looked" goes from 26 to 13. "Silas saw them" became "Silas shortened Wena's lead again", to avoid "saw" twice in a row.
+
+**Still open:** point 1, Marta's "Where's—" at Wena before she sees Silas (Your call).
