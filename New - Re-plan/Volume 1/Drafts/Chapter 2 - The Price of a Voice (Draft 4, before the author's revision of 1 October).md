@@ -150,7 +150,7 @@ The boy bunched up the torn shirt and pressed it against his side. Gerolt sucked
 
 Gerolt's hand settled over his instead of pushing it away.
 
-"It was the field, wasn't it?" The cloth was already soaking through under his fingers.
+"They came because of the field." The cloth was already soaking through under his fingers.
 
 "Doesn't matter now." Gerolt swallowed, and every line in his face tightened with it. "She got away."
 
@@ -384,7 +384,7 @@ Gerolt put out his hand.
 
 "Help me up, Alaric."
 
-It was harder than before. Alaric's head was still ringing, and Gerolt's weight kept trying to fold him over. But Gerolt was pushing too, harder than he had at the cabin or where the horse fell. Between them, they came up off the roots and stayed up.
+It was harder than before. Alaric's head was still ringing, and his arms were shaking before he'd even started, and Gerolt's weight kept trying to fold him over. But Gerolt was pushing too, harder than he had at the cabin or where the horse fell, and between the two of them he came up off the roots and stayed up.
 
 Further down, Alaric heard water. It was only a murmur at first, somewhere below them, and then it was louder, running over stones.
 
@@ -406,9 +406,7 @@ Gerolt had seen it too. He put his hand on the tree behind him and pushed himsel
 
 "Sword," he said.
 
-He held it out to Alaric hilt first. Alaric didn't take it. "You'll need it."
-
-He had watched Gerolt fight with that sword tonight. Taking it meant leaving Gerolt to face them bare-handed. It meant watching him die here. Gerolt pressed the hilt into Alaric's hands anyway and forced his fingers around it.
+He held it out to Alaric hilt first. Alaric didn't take it. He had watched Gerolt fight with that sword tonight. Taking it meant leaving Gerolt to face them bare-handed. It meant watching him die here. Gerolt pressed the hilt into Alaric's hands anyway and forced his fingers around it.
 
 "Kelmend. Over the river." His breath snagged, and he waited until he had it back. "Marta, at the inn by the south gate. Show her that. Tell her the old fool sent you."
 
@@ -430,11 +428,11 @@ It caught fire.
 
 The whole hand, then the arm to the elbow, burning white at the heart and orange at the edges. Gerolt stood inside it and did not pull away.
 
-He swept his arm out, and the fire left it. It fell across the first two riders and their horses in a sheet, and all four of them were burning at once. The horses screamed. One rider came out of his saddle already alight and ran, throwing firelight across the trunks as he passed them, until he fell and lay still. The other never got out of his saddle at all. His horse carried him burning into the trees.
+He swept his arm out, and the fire left it. It fell across the first two riders and their horses in a sheet, and all four of them were burning at once. The horses screamed. One rider came out of his saddle already alight and ran, and the fire lit the trunks one after another as he passed them, until he fell and lay still. The other never got out of his saddle at all. His horse carried him burning into the trees.
 
 The smell reached Alaric a moment later. It was the smell of the field he had woken up in.
 
-He tried to go back down to Gerolt with the sword, but his legs just wouldn't move.
+He tried to go back down to Gerolt, but his legs just wouldn't move.
 
 *If I go down there, they'll kill me. I don't want to die. I don't want to—*
 
@@ -460,11 +458,7 @@ His knees went. He was down in the leaves with the sword across his lap and Wena
 
 "Don't you dare leave me with *nothing* again!"
 
-The rider was halfway up the slope when a blade came around from behind and took him across the back of the neck. He went off the side of his horse without a sound.
-
-The man who had swung it didn't stop. He ran past the falling body and was on the next rider before the elf could turn. He cut the horse's legs out from under it, then the rider as he fell.
-
-The last elf had an arrow on the string. It missed the man's head, and his blade came down before the elf could draw another.
+The rider was halfway up the slope when a blade came around from behind and took him across the back of the neck, and he went off the side of his horse without a sound. The man who had swung it didn't stop. He ran on past the falling body and was on the next rider before the elf could turn, and he cut the horse's legs out from under it, then the rider as he fell. The last one had an arrow on the string. It missed his head, and his blade came down before the elf could draw another.
 
 Then there was only the burning, and the horses, and the river.
 

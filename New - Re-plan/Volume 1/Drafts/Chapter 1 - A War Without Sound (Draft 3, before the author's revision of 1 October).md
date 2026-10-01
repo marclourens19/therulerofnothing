@@ -80,7 +80,7 @@ The movement drove a spike through the centre of his skull, and his own pulse ha
 
 The sun stood directly overhead. He shut his eyes against it and breathed in ragged pulls. Beneath the pain, one fact surfaced and stayed there: he was alive.
 
-Something warm slid from his hair down the side of his temple. He touched it with a shaking hand. His fingers came back wet and gritty. A stiff lock of hair had fallen across his eyes; he pushed it aside with the heel of his palm.
+Something warm slid from his hair down the side of his temple. He touched it with a shaking hand. His fingers came back smeared with mud and something darker. A stiff lock of hair had fallen across his eyes; he pushed it aside with the heel of his palm.
 
 He cracked his eyes open to find a broad shape leaning over him, blocking the worst of the light.
 
@@ -260,11 +260,11 @@ The boy stopped halfway and waited for the room to settle.
 
 "…Where?"
 
-"What was that, lad?"
+"Didn't catch that. Try using more than one syllable. You've got a whole mouth back there."
 
 "Where am I?"
 
-"My farm. In Mydea." His eyes moved towards the shuttered window before returning to the boy. "Gerolt, by the way."
+"My farm. In Mydea." His eyes moved towards the shuttered window before returning to the boy. "Gerolt, by the way. Seeing as it's my roof you've woken up under, seemed only polite to introduce myself before you started asking it questions."
 
 "…Mydea?"
 
@@ -388,7 +388,7 @@ Then Gerolt planted both boots and leaned towards him again.
 
 "Give it another moment. Sometimes it's shy the first—"
 
-"You said it already belongs to me." The words came faster now, and once they started he found he couldn't slow them back down. "Then why can't I feel it? I can feel your fire, and the wind coming through your shutters, and a headache that's at least probably my own. I'm trying, Gerolt. There's nothing else."
+"You said it already belongs to me." The words came faster now, and once they started he found he couldn't slow them back down. "You said I'd feel it. I don't feel fire. I don't feel water. I don't feel earth or wind or some fifth thing you haven't mentioned because you're hoping I won't need it. I feel a fire that isn't mine, and wind that isn't mine, and a headache that's at least probably my own, and that is the whole list, Gerolt. That is every single thing I have."
 
 Gerolt said nothing.
 
@@ -408,7 +408,7 @@ When Gerolt spoke again, it was quieter, and not quite to the boy. "They test ev
 
 Gerolt's gaze had gone to the door, and it stayed there.
 
-"I don't know what they'd do with you," he said at last. "I keep hoping if I say the right thing, something in you will just—answer. Like calling a dog that's wandered off. Maybe it didn't hear you the first time."
+"I keep hoping if I say the right thing, something in you will just—answer," he said at last. "Like calling a dog that's wandered off. Maybe it didn't hear you the first time."
 
 "And if it doesn't come the second time either?"
 
@@ -426,11 +426,11 @@ Gerolt rose and crossed to the window instead of pressing further, opening the s
 
 The boy saw the horned warrior again, his shoulder against the human soldier's and both weapons aimed the same way. "But they were."
 
-"Aye. By the thousands." Gerolt did not turn around.
+"Aye. By the thousands." Gerolt did not turn around. "That's what won't sit right in me."
 
 He kept one eye to the opening in the shutter.
 
-"I know what I saw, lad, and I still can't make it fit."
+"So either I've been wrong about how the world works for sixty years, or something out there made it true just long enough to kill every one of them."
 
 "And the pale ones?" the boy asked. "With the pointed ears?"
 
@@ -566,7 +566,7 @@ Gerolt gave him a moment before asking, "Was it someone from that battle?"
 
 The boy's fingers went still around Gerolt's sleeve.
 
-"How could I know?" His voice came out level and far too quiet. "I woke surrounded by bodies. Every one of them was there to fight. Why would that one be any different?" The answer was out before he could hold it back. "That person came to stop me, Gerolt."
+"How could I know?" His voice came out level and far too quiet. "I woke surrounded by bodies. Every one of them was there to fight. Why would that one be any different?" The answer was out before he could hold it back. "I was what they came to stop."
 
 Gerolt drew breath to answer, then shut his mouth.
 

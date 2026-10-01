@@ -1,0 +1,84 @@
+{
+  "title": "Chapter 2: Changes (the author's revision)",
+  "draft": "Chapter 2 - The Price of a Voice (Draft 4, before the author's revision of 1 October).md",
+  "chapter": "../Chapter 2 - The Price of a Voice.md",
+  "changes_file": "../Chapter 2 - Changes (author's revision).md",
+  "intro_md": "1 October 2026. Your revision of Chapters 1–7, from the Word file *The Ruler of Nothing – Chapters 1-7*, put in house style (straight quotes, `---` for section breaks). The chapter as it stood before is saved as `Drafts/Chapter 2 - The Price of a Voice (Draft 4, before the author's revision of 1 October).md`. Every change here is yours. The notes are Claude's reading of each one, and the questions are in `Chapters 1-7 - Review of the Author's Revision.md`.",
+  "sections": {
+    "Your revision": "Your revision (1 October)"
+  },
+  "changes": [
+    {
+      "section": "Your revision",
+      "title": "\"It was the field, wasn't it?\"",
+      "kind": "changed",
+      "tags": [],
+      "before": "\"They came because of the field.\" The cloth was already soaking through under his fingers.",
+      "after": "\"It was the field, wasn't it?\" The cloth was already soaking through under his fingers.",
+      "why": "As a question, it gives Gerolt's \"Doesn't matter now\" something to dodge.",
+      "decision": "accepted",
+      "decision_note": "Your edit, from the Word file of 1 October.",
+      "decision_short": "your Word file."
+    },
+    {
+      "section": "Your revision",
+      "title": "Getting Gerolt up",
+      "kind": "changed",
+      "tags": [],
+      "before": "It was harder than before. Alaric's head was still ringing, and his arms were shaking before he'd even started, and Gerolt's weight kept trying to fold him over. But Gerolt was pushing too, harder than he had at the cabin or where the horse fell, and between the two of them he came up off the roots and stayed up.",
+      "after": "It was harder than before. Alaric's head was still ringing, and Gerolt's weight kept trying to fold him over. But Gerolt was pushing too, harder than he had at the cabin or where the horse fell. Between them, they came up off the roots and stayed up.",
+      "why": "The \"and\" chain is gone, and \"Between them\" makes it one effort.",
+      "decision": "accepted",
+      "decision_note": "Your edit, from the Word file of 1 October.",
+      "decision_short": "your Word file."
+    },
+    {
+      "section": "Your revision",
+      "title": "\"You'll need it.\"",
+      "kind": "changed",
+      "tags": [],
+      "before": "He held it out to Alaric hilt first. Alaric didn't take it. He had watched Gerolt fight with that sword tonight. Taking it meant leaving Gerolt to face them bare-handed. It meant watching him die here. Gerolt pressed the hilt into Alaric's hands anyway and forced his fingers around it.",
+      "after": "He held it out to Alaric hilt first. Alaric didn't take it. \"You'll need it.\"\n\nHe had watched Gerolt fight with that sword tonight. Taking it meant leaving Gerolt to face them bare-handed. It meant watching him die here. Gerolt pressed the hilt into Alaric's hands anyway and forced his fingers around it.",
+      "why": "Alaric refuses the sword out loud before Gerolt forces it on him. It's a good addition: he argues once, and loses.",
+      "decision": "accepted",
+      "decision_note": "Your edit, from the Word file of 1 October.",
+      "decision_short": "your Word file."
+    },
+    {
+      "section": "Your revision",
+      "title": "The burning rider",
+      "kind": "changed",
+      "tags": [],
+      "before": "He swept his arm out, and the fire left it. It fell across the first two riders and their horses in a sheet, and all four of them were burning at once. The horses screamed. One rider came out of his saddle already alight and ran, and the fire lit the trunks one after another as he passed them, until he fell and lay still. The other never got out of his saddle at all. His horse carried him burning into the trees.",
+      "after": "He swept his arm out, and the fire left it. It fell across the first two riders and their horses in a sheet, and all four of them were burning at once. The horses screamed. One rider came out of his saddle already alight and ran, throwing firelight across the trunks as he passed them, until he fell and lay still. The other never got out of his saddle at all. His horse carried him burning into the trees.",
+      "why": "\"Throwing firelight across the trunks\" is cleaner than \"the fire lit the trunks one after another\".",
+      "decision": "accepted",
+      "decision_note": "Your edit, from the Word file of 1 October.",
+      "decision_short": "your Word file."
+    },
+    {
+      "section": "Your revision",
+      "title": "He can't move",
+      "kind": "changed",
+      "tags": [],
+      "before": "He tried to go back down to Gerolt, but his legs just wouldn't move.",
+      "after": "He tried to go back down to Gerolt with the sword, but his legs just wouldn't move.",
+      "why": "This is close to the line you called robotic on 29 September (\"He had the sword and wanted to help. He tried to go down to Gerolt, but his knees would not unlock.\"). See the review, question 3. *Round 2 (1 October):* the author agreed Claude's recommendation (review question 3).",
+      "decision": "accepted",
+      "decision_note": "Your edit, from the Word file of 1 October, then Claude's recommendation on review question 3, which you agreed.",
+      "decision_short": "your Word file, then review question 3."
+    },
+    {
+      "section": "Your revision",
+      "title": "Silas arrives, in three paragraphs",
+      "kind": "changed",
+      "tags": [],
+      "before": "The rider was halfway up the slope when a blade came around from behind and took him across the back of the neck, and he went off the side of his horse without a sound. The man who had swung it didn't stop. He ran on past the falling body and was on the next rider before the elf could turn, and he cut the horse's legs out from under it, then the rider as he fell. The last one had an arrow on the string. It missed his head, and his blade came down before the elf could draw another.",
+      "after": "The rider was halfway up the slope when a blade came around from behind and took him across the back of the neck. He went off the side of his horse without a sound.\n\nThe man who had swung it didn't stop. He ran past the falling body and was on the next rider before the elf could turn. He cut the horse's legs out from under it, then the rider as he fell.\n\nThe last elf had an arrow on the string. It missed the man's head, and his blade came down before the elf could draw another.",
+      "why": "Splits the long kill into three beats. \"The last elf\" and \"the man's head\" also make clear who is who.",
+      "decision": "accepted",
+      "decision_note": "Your edit, from the Word file of 1 October.",
+      "decision_short": "your Word file."
+    }
+  ]
+}
