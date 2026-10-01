@@ -6,7 +6,10 @@
   "intro_md": "1 October 2026. The author's combined version of Chapter 8 (`Drafts/Chapter 8 - The Road Owed to the Dead (Draft 3, combined).md`, from their Word file, with straight quotes) is now the chapter. Only the house style is changed here. Claude's notes on it are in `Chapter 8 - Design.md` (\"The combined version\"), waiting on the author. The version after Claude's three passes is saved as Draft 2, and its changes stay in `Chapter 8 - Changes.md`.",
   "sections": {
     "House style": "House style",
-    "Notes": "Claude's notes on the combined version, agreed (1 October)"
+    "Notes": "Claude's notes on the combined version, agreed (1 October)",
+    "Pass 1": "Pass 1: errors, POV slips and logic",
+    "Pass 2": "Pass 2: vocabulary, rhythm and repeats",
+    "Pass 3": "Pass 3, final: consistency and house style"
   },
   "changes": [
     {
@@ -99,8 +102,8 @@
       "kind": "changed",
       "tags": [],
       "before": "Silas moved with her along the side of the loaded cart. For a moment its sacks hid them from the patrol. Then Wena tried to get round its rear wheel and whined, high enough that Alaric heard her over the voices in the street.",
-      "after": "Silas moved with her along the side of the other cart. For a moment its sacks hid them from the patrol. Then Wena tried to get round its rear wheel and whined, high enough that Alaric heard her over the voices in the street.",
-      "why": "Three carts were in play. Silas walks beside the one being backed in, and Alaric hides behind the half-unloaded one.",
+      "after": "Silas moved with her along the side of the other cart. Its sacks hid them from the patrol. Then Wena tried to get round its rear wheel and whined, high enough that Alaric heard her over the voices in the street.",
+      "why": "Three carts were in play. Silas walks beside the one being backed in, and Alaric hides behind the half-unloaded one. *Pass 2:* Cuts one of three \"for a moment\"s in the chapter.",
       "decision": "accepted",
       "decision_note": "Note 4: agreed (1 October).",
       "decision_short": "Note 4: agreed (1 October)."
@@ -140,6 +143,198 @@
       "decision": "accepted",
       "decision_note": "Note 6: agreed (1 October).",
       "decision_short": "Note 6: agreed (1 October)."
+    },
+    {
+      "section": "Pass 1",
+      "title": "Hands on the way down",
+      "kind": "changed",
+      "tags": [],
+      "before": "There was no moon yet. They went down the slope with only the lights of the town to walk towards, Silas first, then Alaric with the bundle under one arm and Wena close against his legs. At the bottom, a cart track ran along the edge of the fields towards the wall. The carts had cut it into ruts and the ruts had dried hard, and after the first dozen steps every one of them seemed to be exactly where Alaric put his foot.",
+      "after": "There was no moon yet. They went down the slope with only the lights of the town to walk towards, Silas first, then Alaric with the bundle under one arm and Wena's lead in his other hand. At the bottom, a cart track ran along the edge of the fields towards the wall. The carts had cut it into ruts and the ruts had dried hard, and after the first dozen steps every one of them seemed to be exactly where Alaric put his foot.",
+      "why": "Silas had just given him the lead; the sentence didn't say where it was.",
+      "decision": "accepted",
+      "decision_note": "Pass 1 of three (1 October): errors, POV slips and logic.",
+      "decision_short": "the author's request (1 October)."
+    },
+    {
+      "section": "Pass 1",
+      "title": "Who keeps the lead short",
+      "kind": "changed",
+      "tags": [],
+      "before": "Wena's nose went up towards the window. He kept the lead short and followed Silas past it.",
+      "after": "Wena's nose went up towards the window. Alaric kept the lead short and followed Silas past it.",
+      "why": "\"He\" came straight after a sentence about Wena.",
+      "decision": "accepted",
+      "decision_note": "Pass 1 of three (1 October): errors, POV slips and logic.",
+      "decision_short": "the author's request (1 October)."
+    },
+    {
+      "section": "Pass 1",
+      "title": "The door in the wall",
+      "kind": "changed",
+      "tags": [],
+      "before": "At the end of the row, Silas turned into a gap between a house and a lean-to. Beyond it, the passage ended at the wall. Bundles of kindling stood along one side; a broken handcart had been pushed against the other. Set into the stone behind it was a narrow timber door.",
+      "after": "At the end of the row, Silas turned into a gap between a house and a lean-to. Beyond the lean-to, the gap narrowed into a passage that ended at the wall. Bundles of kindling stood along one side; a broken handcart had been pushed against the other. In the wall at the end was a narrow timber door.",
+      "why": "\"The passage\" hadn't been introduced, and \"behind it\" could mean behind the handcart.",
+      "decision": "accepted",
+      "decision_note": "Pass 1 of three (1 October): errors, POV slips and logic.",
+      "decision_short": "the author's request (1 October)."
+    },
+    {
+      "section": "Pass 1",
+      "title": "The handcart",
+      "kind": "changed",
+      "tags": [],
+      "before": "Silas pointed Alaric towards the broken cart. They crouched behind it, and Wena settled under the axle against Alaric's calf.",
+      "after": "Silas pointed Alaric towards the broken handcart. They crouched behind it, and Wena settled under the axle against Alaric's calf.",
+      "why": "The same handcart as the paragraph before, not one of the yard's carts.",
+      "decision": "accepted",
+      "decision_note": "Pass 1 of three (1 October): errors, POV slips and logic.",
+      "decision_short": "the author's request (1 October)."
+    },
+    {
+      "section": "Pass 1",
+      "title": "Who whispers",
+      "kind": "changed",
+      "tags": [],
+      "before": "\"That door?\" he whispered.",
+      "after": "\"That door?\" Alaric whispered.",
+      "why": "After a sentence ending on \"Alaric's calf\", \"he\" could have been Silas.",
+      "decision": "accepted",
+      "decision_note": "Pass 1 of three (1 October): errors, POV slips and logic.",
+      "decision_short": "the author's request (1 October)."
+    },
+    {
+      "section": "Pass 1",
+      "title": "Wetting the binding",
+      "kind": "changed",
+      "tags": [],
+      "before": "Silas loosened the binding on his palm. Alaric held the water skin while he wet it a little at a time. When they had finished, Silas put the skin back in the sack and rested his hand on his knee.",
+      "after": "Silas loosened the binding on his palm. Alaric held the water skin and poured, a little at a time, while Silas wet the cloth. When they had finished, Silas put the skin back in the sack and rested his hand on his knee.",
+      "why": "\"He\" could have been either of them.",
+      "decision": "accepted",
+      "decision_note": "Pass 1 of three (1 October): errors, POV slips and logic.",
+      "decision_short": "the author's request (1 October)."
+    },
+    {
+      "section": "Pass 1",
+      "title": "Silas's arm",
+      "kind": "changed",
+      "tags": [],
+      "before": "Their boots scraped away across the yard. Silas kept his forearm against Alaric's arm until the voices had gone.",
+      "after": "Their boots scraped away across the yard. Silas had his forearm across Alaric's arm, and he kept it there until the voices had gone.",
+      "why": "\"Kept\" implied the arm had been put there earlier, and it hadn't.",
+      "decision": "accepted",
+      "decision_note": "Pass 1 of three (1 October): errors, POV slips and logic.",
+      "decision_short": "the author's request (1 October)."
+    },
+    {
+      "section": "Pass 1",
+      "title": "Which stall",
+      "kind": "changed",
+      "tags": [],
+      "before": "Instead, he stopped beside the stall. The man with the baskets had put one down and was asking about the cloth. Alaric turned towards it too, leaving the man between himself and Wena. If he kept walking, she would keep pulling.",
+      "after": "Instead, he stopped beside the nearest stall. The man with the baskets had put one down and was asking about the cloth. Alaric turned towards it too, leaving the man between himself and Wena. If he kept walking, she would keep pulling.",
+      "why": "\"The stall\" hadn't been picked out yet.",
+      "decision": "accepted",
+      "decision_note": "Pass 1 of three (1 October): errors, POV slips and logic.",
+      "decision_short": "the author's request (1 October)."
+    },
+    {
+      "section": "Pass 1",
+      "title": "Who finds Silas",
+      "kind": "changed",
+      "tags": [],
+      "before": "He found Silas a few paces away, holding Wena close.",
+      "after": "Alaric found Silas a few paces away, holding Wena close.",
+      "why": "After a sentence about the woman, \"He\" was unclear. This is also the approved dialogue's wording.",
+      "decision": "accepted",
+      "decision_note": "Pass 1 of three (1 October): errors, POV slips and logic.",
+      "decision_short": "the author's request (1 October)."
+    },
+    {
+      "section": "Pass 1",
+      "title": "Which woman",
+      "kind": "changed",
+      "tags": [],
+      "before": "Alaric shut his eyes. He saw the chain tighten before the woman had got both feet off the boards.",
+      "after": "Alaric shut his eyes. He saw the chain again, pulling tight before the woman from the platform had both feet down.",
+      "why": "\"The woman\" came straight after the woman with the tub, so she's now \"the woman from the platform\". The line echoes the auction (\"before she had both feet on the ground\") without repeating it word for word.",
+      "decision": "accepted",
+      "decision_note": "Pass 1 of three (1 October): errors, POV slips and logic.",
+      "decision_short": "the author's request (1 October)."
+    },
+    {
+      "section": "Pass 1",
+      "title": "Who stood by the door",
+      "kind": "changed",
+      "tags": [],
+      "before": "Then she was in the shed, putting the trays down and calling to someone further inside. Silas brought Alaric out before she could turn back.\n\nFor a moment he stood beside the door with his hand still raised. She hadn't asked him anything else.\n\n\"This way,\" Silas said.",
+      "after": "Then she was in the shed, putting the trays down and calling to someone further inside. Alaric stood by the door with his hand still raised. She hadn't asked him anything else.\n\nSilas drew him away before she could turn back. \"This way.\"",
+      "why": "Silas brought Alaric away from the door, and then \"he\" stood beside it, so the order was backwards and \"he\" could have meant Silas. Alaric now stands there first and Silas draws him away. It also drops one of the chapter's \"for a moment\"s. \"This way\" joins Silas's paragraph, so his name isn't said twice in a row.",
+      "decision": "accepted",
+      "decision_note": "Pass 1 of three (1 October): errors, POV slips and logic.",
+      "decision_short": "the author's request (1 October)."
+    },
+    {
+      "section": "Pass 2",
+      "title": "The walkway",
+      "kind": "changed",
+      "tags": [],
+      "before": "It opened into a covered strip along the side of the building. A woman carrying a stack of wooden trays was coming towards them. Silas stepped back, and Alaric moved out of her way.",
+      "after": "It opened into a covered walkway along the side of the building. A woman carrying a stack of wooden trays was coming towards them. Silas stepped back, and Alaric moved out of her way.",
+      "why": "\"Covered strip\" is an odd phrase for something plain.",
+      "decision": "accepted",
+      "decision_note": "Pass 2 of three (1 October): vocabulary, rhythm and repeats.",
+      "decision_short": "the author's request (1 October)."
+    },
+    {
+      "section": "Pass 2",
+      "title": "The guard's search",
+      "kind": "changed",
+      "tags": [],
+      "before": "The guard looked into the crowd, slowly, one face after another. His eyes went across the sacks. Alaric stayed still, with his boot braced against the wheel so that his ankle wouldn't give.",
+      "after": "The guard turned to the crowd and went over it slowly, one face after another. His eyes passed across the sacks. Alaric stayed still, with his boot braced against the wheel so that his ankle wouldn't give.",
+      "why": "Three \"looked\"s in three paragraphs.",
+      "decision": "accepted",
+      "decision_note": "Pass 2 of three (1 October): vocabulary, rhythm and repeats.",
+      "decision_short": "the author's request (1 October)."
+    },
+    {
+      "section": "Pass 2",
+      "title": "Where they wait",
+      "kind": "changed",
+      "tags": [],
+      "before": "Silas didn't slow down. He took them past the front and round the corner, into a lane that ran along the side of the inn to its back door. Across from it was a recess between a closed storehouse and its boundary wall. From there, they could see the private entrance beyond a stack of empty barrels and the light from a window beside it. Through the mouth of the lane, Alaric could see customers leaving the front step.",
+      "after": "Silas didn't slow down. He took them past the front and round the corner, into a lane that ran along the side of the inn to its back door. Across from it was a narrow space between a closed storehouse and its yard wall. From there, they could see the back door beyond a stack of empty barrels and the light from a window beside it. Through the mouth of the lane, Alaric could see customers leaving the front step.",
+      "why": "Plainer words than \"recess\" and \"boundary wall\". *Pass 3:* Alaric calls it the back door everywhere else, and so do the chapters.",
+      "decision": "accepted",
+      "decision_note": "Pass 2 of three (1 October): vocabulary, rhythm and repeats.",
+      "decision_short": "the author's request (1 October)."
+    },
+    {
+      "section": "Pass 3",
+      "title": "Inwards",
+      "kind": "changed",
+      "tags": [],
+      "before": "At last, the noise in the yard moved away from the wall. The wheels and voices were coming from one place now, further in. Silas went to look, then eased the loose end of the split board aside and reached through with his good hand. A wooden bar scraped out of its bracket. He lowered it inside and pushed the door inward a finger's width.",
+      "after": "At last, the noise in the yard moved away from the wall. The wheels and voices were coming from one place now, further in. Silas went to look, then eased the loose end of the split board aside and reached through with his good hand. A wooden bar scraped out of its bracket. He lowered it inside and pushed the door inwards a finger's width.",
+      "why": "British house style, as everywhere else in the chapters.",
+      "decision": "accepted",
+      "decision_note": "Pass 3 of three, the final pass (1 October): consistency with the earlier chapters and house style.",
+      "decision_short": "the author's request (1 October)."
+    },
+    {
+      "section": "Pass 3",
+      "title": "The windows go out",
+      "kind": "changed",
+      "tags": [],
+      "before": "The ground-floor windows went dark. Only one stayed lit, at the back beside the door. Something scraped across the floor inside, chairs maybe, and a woman's voice said something short to somebody.",
+      "after": "The ground-floor windows went out. Only one stayed lit, at the back beside the door. Something scraped across the floor inside, chairs maybe, and a woman's voice said something short to somebody.",
+      "why": "The author asked for fewer \"dark\"s. The chapter has \"the windows… went out\" elsewhere, and Chapter 6 does too.",
+      "decision": "accepted",
+      "decision_note": "Pass 3 of three, the final pass (1 October): consistency with the earlier chapters and house style.",
+      "decision_short": "the author's request (1 October)."
     }
   ]
 }

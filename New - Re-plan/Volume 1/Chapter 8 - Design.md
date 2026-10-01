@@ -358,3 +358,13 @@ The author sent `Chapter 8 - The Road Owed to the Dead - Combined.docx`, 5,340 w
 4. **Which cart he hides behind** (the patrol). The market has the half-unloaded cart, a second cart being backed in beside it, and then "the loaded cart". *Recommended:* call it "the half-unloaded cart" each time, so the reader knows where Alaric is.
 5. **Two paragraphs in a row start with "Alaric"** while the sword is unwrapped, and the second has him resting the sword, then tying the knot. *Recommended:* join them: "Alaric rested the sword across his knees while Silas rolled the bed again, keeping his burned hand clear, and tied the cord round it for him."
 6. **"Cheers, lad"** (small). It's the only very modern British phrase in the chapters so far. "Thanks, lad" carries the same warmth. Your call.
+
+## Three passes on the combined version (1 October)
+
+At the author's request ("Go a mass checking all errors pov slips, vocab slips, etc then do another pass, and one final pass after that"), three passes one after another. The 16 changes are in `Chapter 8 - Changes (combined).md`, after the house style and the six notes. The chapter is 5,347 words.
+
+- **Pass 1, errors, POV slips and logic (11):** where his hands and Wena's lead are on the way down; who keeps the lead short; the door at the end of the passage, set up before they reach it; the handcart; who whispers "That door?"; who pours and who wets the cloth; Silas's forearm across Alaric's arm while the guards talk; which stall; who finds whom; "the woman from the platform", so she isn't confused with the woman with the tub (the line echoes the auction without repeating it word for word); and at the tray woman's door, Silas drew Alaric away *before* he stood there, so the order is now the right way round.
+- **Pass 2, vocabulary, rhythm and repeats (3):** "covered walkway"; the guard's search of the crowd in plain words; where they wait (a narrow space between a closed storehouse and its yard wall). One "for a moment" goes.
+- **Pass 3, consistency and house style (2):** "inwards"; "the back door" instead of "the private entrance", as everywhere else; "The ground-floor windows went out."
+
+Left as they are: "Alaric looked down at the sword" twice (both in the approved dialogue round), "full dark" and "in the dark" (one each), and "Silas watched the inn for a moment" (approved dialogue narration).

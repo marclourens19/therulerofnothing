@@ -675,6 +675,7 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - **Title: "The Road Owed to the Dead"** (the author, 1 October: "Keep it as the road owed to the dead"). The chapter is `Volume 1/Chapter 8 - The Road Owed to the Dead.md`.
   - **Three passes, one after another (1 October),** at the author's request: errors, logic, POV slips and robotic text; then rhythm and repeats; then consistency and house style. Thirteen changes with the title, listed in `Volume 1/Chapter 8 - Changes.md`. The chapter is 4,493 words.
   - **The author's combined version (1 October)** is now the chapter, 5,331 words, with only house-style changes (`Volume 1/Chapter 8 - Changes (combined).md`). The version after the three passes is kept in `Drafts/` as Draft 2. Claude's six notes on it were agreed and applied (1 October): "Silas", not "the man"; "in the shadow of a doorway", not "eaves"; "The voices in the houses"; clear about which cart; the bed-tying paragraphs joined; and "Thanks, lad". Chapter 10 (Seralune) and Chapter 11 (the Faint quarter, Redd and Freya) remain working recommendations.
+  - **Three passes on the combined version (1 October),** at the author's request: Pass 1 (errors, POV slips and logic, 11 changes), Pass 2 (vocabulary, rhythm and repeats, 3), Pass 3 (consistency and house style, 2), in `Volume 1/Chapter 8 - Changes (combined).md`. The chapter is 5,347 words.
 
 ## Alaric
 
