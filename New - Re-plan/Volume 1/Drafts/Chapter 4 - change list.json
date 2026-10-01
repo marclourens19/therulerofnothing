@@ -1,7 +1,7 @@
 {
  "title": "Chapter 4: Changes",
  "draft": "Chapter 4 - Before Evening (Draft 1).md",
- "chapter": "../Chapter 4 - A Promise Left Fractured.md",
+ "chapter": "Chapter 4 - A Promise Left Fractured (Draft 2, before the author's revision of 1 October).md",
  "changes_file": "../Chapter 4 - Changes.md",
  "intro_md": "Written on 29 September 2026. Claude's first draft of Chapter 4, \"Before Evening\" (27 September), is saved unchanged as `Drafts/Chapter 4 - Before Evening (Draft 1).md`. On 28–29 September, outside this repository, it became \"A Promise Left Fractured\", and the author accepted it (the handoff, §3). This list records that pass, change by change, so later rounds have a base. The reasons are Claude's reading unless they say otherwise, because the handoff lists no line changes for Chapter 4.\n\n**Later rounds go on this list** (`Drafts/Chapter 4 - change list.json`).",
  "glance": [],

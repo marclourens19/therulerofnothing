@@ -136,7 +136,7 @@ She went straight to the water. The first swallow hurt her throat, and she drank
 
 When she looked round, Thaer hadn't come any further than the doorway. "We're upstairs," she said.
 
-"I need to speak to Leorin. Try to rest, Seralune. I'll be back as soon as I can."
+"Get some rest. There are things I have to see to, and I'll be back as soon as I'm able."
 
 He went out, and the door shut behind him. She started after him, and had to catch hold of the bedpost instead.
 
@@ -160,7 +160,7 @@ She let out a long breath. "Well. This is getting me nowhere." The maid hadn't m
 
 "Nereth, Your Highness."
 
-Seralune couldn't keep still. She walked from the fire to the window and back again, listening for Thaer's footsteps.
+Seralune couldn't keep still. She walked from the fire to the window and back again, and her legs still shook, and she walked anyway.
 
 Then there were voices outside.
 
@@ -214,7 +214,7 @@ For a breath he was her brother again, and she wanted so badly to believe him th
 
 "Then what was that room, Thaer?"
 
-His eyes went to the tray on the table. "Please, Seralune. Eat something."
+His eyes went to the tray on the table. "You haven't eaten."
 
 She looked at him. He was still looking at the tray.
 
@@ -228,7 +228,7 @@ At his full name, his eyes came up to hers at last.
 
 He turned for the door. She caught his arm, and the cut in her palm split open again under her grip, and she held on anyway.
 
-"Thaer, look at me. Leorin's an old man. You look exactly as you did this morning. What happened while I was in there?"
+"Leorin's an old man, Thaer. What happened while I was in that room?"
 
 He stood with his back to her. His arm had gone stiff where she held it, and her blood was on his sleeve.
 

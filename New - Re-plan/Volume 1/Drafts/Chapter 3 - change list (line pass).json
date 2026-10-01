@@ -1,7 +1,7 @@
 {
  "title": "Chapter 3: Changes from the line pass",
  "draft": "Chapter 3 - The Weight of the Living (Draft 2, before the line pass).md",
- "chapter": "../Chapter 3 - The Weight of the Living.md",
+ "chapter": "Chapter 3 - The Weight of the Living (Draft 3, before the author's revision of 1 October).md",
  "changes_file": "../Chapter 3 - Changes (line pass).md",
  "intro_md": "Written on 29 September 2026. This records the line pass made outside this repository on 28–29 September, in the conversation summarised in `New - Re-plan/Claude Handoff.md` (§3). The author accepted every change, and the chapter now matches the text they supplied.\n\nThe chapter as it stood before the pass is saved unchanged as `Drafts/Chapter 3 - The Weight of the Living (Draft 2, before the line pass).md`, and every change here is measured against it. The rounds before the pass are in `Chapter 3 - Changes.md`. **Round 2** (29 September) is change 8, plus edits folded into changes 1 and 6. **Later rounds go on this list** (`Drafts/Chapter 3 - change list (line pass).json`).\n\nEach reason says where it comes from: the handoff when it gives one, or Claude's reading when it doesn't. Changes tagged as the author's own lines replaced something the author wrote or designed; they are listed below, under \"The author's own lines this pass replaced\".",
  "glance": [

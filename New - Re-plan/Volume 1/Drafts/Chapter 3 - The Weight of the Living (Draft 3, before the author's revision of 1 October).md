@@ -28,9 +28,9 @@ He stood among the trees with the sword hanging from his hand and couldn't make 
 
 The man came back for him. He took Alaric by the front of his shirt and pulled him close, close enough that Alaric could see the pale scar running down his cheek.
 
-"They'll be hot on our trail soon enough, boy. Keep moving, or Gerolt died for nothing."
+"Move, boy, now, or Gerolt died for nothing!"
 
-The man let go and went on.
+He let go and went on.
 
 He knew Gerolt's name.
 
@@ -62,13 +62,13 @@ Alaric caught her. He got two fistfuls of the fur at her neck and pulled. She dr
 
 "Leave the dog." He was in the water to his knees. "We'll never get across hauling a mutt that wants to go back to a dead man."
 
-Alaric dropped the sword. The man came splashing back out of the water and snatched it up with a curse.
+Alaric dropped the sword.
 
 He got his arms under Wena's chest and belly and lifted her off her feet. She was heavier than she looked. She kicked, and he held on, and he walked into the river with her.
 
 The cold took his breath. By the second step it was at his waist, and on the third the riverbed went out from under him, and the current had them both.
 
-He went under and came up still holding her. Water filled his mouth and nose. The river turned him round, the bank went past, and then he saw a fallen tree lying out into the river from the far bank, close enough to touch. He couldn't reach for it without letting go of Wena, so he didn't.
+He went under and came up still holding her. Water filled his mouth and nose. The river turned him round, the bank went past, and then a fallen tree lying out into the river from the far bank, close enough to touch. He couldn't reach for it without letting go of Wena, so he didn't.
 
 Something caught him by the collar and yanked.
 
@@ -78,7 +78,7 @@ A voice was swearing right beside his ear, over the roar of the water. It swore 
 
 The rest came out as a snarl, and the river took it.
 
-The man had one arm hooked over the fallen tree and the other hand in Alaric's collar. He worked them in along the trunk, still swearing, until Alaric's knees hit stones and all three of them were crawling out onto the far bank, coughing up the river.
+He had one arm hooked over the fallen tree and the other hand in Alaric's collar. He dragged them in along the trunk, hand over hand, still swearing, until Alaric's knees hit stones and all three of them were crawling out onto the far bank, coughing up the river.
 
 Wena scrambled out of his arms and shook herself. Then she stood with her legs braced, staring back across the water at the glow above the trees.
 
@@ -90,11 +90,11 @@ Alaric heard it a heartbeat after she did: a horse on this side of the river, co
 
 The man got up. He didn't run. He drew his heavy blade and put himself between them and the sound, and waited.
 
-The rider broke out of the trees at a gallop, low over the horse's neck, straight at him. The man stepped aside at the last moment and swung low, and the horse's forelegs went out from under it. It went down screaming. The rider went over its head and hit the ground hard, and lay on his back with his mouth opening and closing, trying to find his breath.
+The rider broke out of the trees at a gallop, low over the horse's neck, straight at him. He stepped aside at the last moment and swung low, and the horse's forelegs went out from under it. It went down screaming. The rider went over its head and hit the ground hard, and lay on his back with his mouth opening and closing, trying to find his breath.
 
 The man walked to him.
 
-He didn't hurry. The elf got an elbow under himself and saw him coming, and his free hand came up, open, fingers spread. The man stood on the elf's wrist, put the blade into his chest through the armour, and leaned on it.
+He didn't hurry. The elf got an elbow under himself and saw him coming, and his free hand came up, open, fingers spread. He stood on the elf's wrist, put the blade into his chest through the armour, and leaned on it.
 
 The elf screamed.
 
@@ -118,7 +118,7 @@ Alaric stood by the entrance with the sword in his hand and the river running ou
 
 "You killed three of them before they could turn round."
 
-It came out too loud for the cave, and the man didn't even look up from the fire.
+It came out too loud for the cave, and he didn't even look up from the fire.
 
 "You could have fought. You could have *saved* him!"
 
@@ -144,9 +144,9 @@ Silas kept his eyes on the steel. "I heard something from across the river. Soun
 
 "No, it isn't." The rag moved along the blade. "How did you know him?"
 
-"He didn't know me. He found me in his field and took me to his house."
+"I didn't."
 
-"Scouts don't tear a farmhouse apart unless they're after something. What happened back there?"
+"Scouts don't tear a farmhouse apart unless they're after something, so what happened back there?"
 
 Alaric opened his mouth and couldn't answer.
 

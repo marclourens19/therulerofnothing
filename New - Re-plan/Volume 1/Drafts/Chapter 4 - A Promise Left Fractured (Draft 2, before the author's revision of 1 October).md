@@ -20,11 +20,11 @@ They were open.
 
 *No. Don't be ridiculous. Surely the dead don't get cold, and I'm freezing.*
 
-*Very well. If I'm alive, I can get up. Then I'll find out where I am.*
+*So I'm alive, freezing, and lying on a stone floor somewhere I don't know. Very well. Before I do anything else, I need to find out where I am.*
 
 She got an elbow under herself and pushed. Her arm shook and the floor seemed to tip, and she had to put her cheek back down on the stone and wait for it to stop.
 
-The second time, she made it to sitting. Her hair had come loose and was everywhere, across her face and down her back and caught under her hand. When she moved her knee, something small and hard skittered away across the stone, ringing as it went. She held still and listened until it stopped.
+The second time, she made it to sitting. Her hair had come loose and was everywhere, across her face and down her back and caught under her hand, and when she moved her knee, something small and hard skittered away across the stone, ringing as it went. She held still and listened until it stopped.
 
 "Hello?"
 
@@ -46,9 +46,9 @@ The floor was gritty under her palms. The small hard pieces were everywhere, som
 
 It rose straight up in front of her, smooth and cold, far colder than the stone. She put both hands flat on it and followed it up as she got to her knees, and then to her feet, leaning on it, and it kept going past the highest she could reach. When she tapped it with a fingernail, it rang, thin and high, somewhere far over her head.
 
-*Glass? I've never felt glass this cold.*
+*Glass? No. It's too big, and too cold, and glass doesn't ring like that.*
 
-*Crystal, perhaps. A great deal of it.*
+*Crystal, then. A great deal of crystal.*
 
 She walked with her palms on it. It curved away from her and went on curving, and her bare feet went through more of the little pieces, and she had walked a long way before the smooth surface came to an edge.
 
@@ -74,7 +74,7 @@ She didn't want to know. She pulled her knees up and stayed where she was, as fa
 
 *Think. Think properly.*
 
-*Mother was in my room this morning. Thaer promised he'd be back before evening. I remember him leaving. Why can't I remember anything after that?*
+*Mother was in my room this morning and we fought, though I can't even remember what about, and Thaer was there too, promising he'd be back before evening. And then… what? I must have done something after he left. I must have gone somewhere. So why can't I remember going anywhere at all?*
 
 She went back to the beginning and tried again.
 
@@ -98,7 +98,7 @@ The wall was stone, so smooth she couldn't find a single join in it, and it was 
 
 It ran straight up from the floor, higher than she could reach, and a few steps further on there was another running beside it: the two edges of a door. She felt all over the stone between them. There was no handle, no latch and no keyhole. On her side, there was nothing at all.
 
-"Hello?" She put her mouth to the seam. "Can you hear me? I can't find a handle. Please, can you open it?"
+"Hello?" She put her mouth to the seam. "Is anyone there? I need someone to open this door."
 
 Nobody answered.
 
@@ -128,9 +128,11 @@ She tried to work her fingernails into the seams instead. They were too fine eve
 
 She stood with her hand flat against the door.
 
-*No handle on this side. Whoever shut that door didn't mean for me to open it.*
+*A door with no handle on the inside. Nobody builds a door like that for getting out of a room. It's for keeping someone in.*
 
-*But why would anyone want to keep me in here?*
+*Keeping who in?*
+
+*Me?*
 
 Her breath caught. She took another, and that one caught too, higher up, and then she couldn't get one all the way in at all. Her mana pressed up under her skin everywhere at once, and there was no air anywhere, however hard she pulled at it, and she slid down the door until she was sitting with her back against it.
 

@@ -42,6 +42,7 @@ The story is being re-planned from the beginning. Current work lives in **New - 
   - `Chapter 7 - Draft Comparison.md`: the author's comparison of Claude's and GPT's drafts, and the reasoning for the combined one, kept word for word.
   - `Chapter 7 - Changes (first draft).md`: Claude's pass on the first draft, before the author chose the combined draft. It's kept as a record.
   - `Chapter 8 - Design.md`: the design of Chapter 8, Marta's door (started 30 September).
+  - `Chapters 1-7 - Review of the Author's Revision.md`: Claude's review of the author's revised Chapters 1–7 (1 October), with nine questions. The revision itself is listed change by change in `Chapter N - Changes (author's revision).md` for Chapters 1–6; Chapter 7 had no new changes.
   - `Drafts/`: earlier versions of the chapters, kept unchanged.
 
 ## The rewriting skill
