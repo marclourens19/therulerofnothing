@@ -1,6 +1,6 @@
 # Chapter 8 — Dialogue Round 3: Silas's Voice
 
-The author approved Round 2's exchanges and requested a small refinement of Silas alone: harsher speech, with Guts as the existing influence and Askeladd's judgement of people as an added influence. This pass changes only Silas's spoken lines. The narration and every other speaker remain exactly as in the approved baseline. These new lines await review; no full chapter is drafted here. Round 2 is preserved for comparison.
+The author approved Round 2's exchanges and requested a small refinement of Silas alone: harsher speech, with Guts as the existing influence and Askeladd's judgement of people as an added influence. The subsequent Round 3 review retains the harsher voice with three corrections: remove the hell oath at the door, restore the auction line's implication for everyone present, and use the beastfolk term Gerolt taught Alaric. The naming correction is synchronised into Round 2 as well. All eight exchanges are included here; this is still dialogue for the chapter design rather than a full chapter draft.
 
 ## 1. What happened on Gerolt's farm
 
@@ -12,7 +12,7 @@ Silas watched the ship until its light was almost lost beyond the trees. Then he
 
 “And before he found you?”
 
-“I woke up under a dead man! There were bodies all round me, and when I got out from under him there were more, everywhere I looked. Hundreds. Maybe thousands. I couldn't count them.” His voice was rising. Wena lifted her head, and he put a hand on her neck. “Men, elves… things with horns and claws. Beasts, I suppose, but they were wearing armour. There were silver machines among them, too. One was lying on its side. I don't remember anything before waking up there. I've told you that.”
+“I woke up under a dead man! There were bodies all round me, and when I got out from under him there were more, everywhere I looked. Hundreds. Maybe thousands. I couldn't count them.” His voice was rising. Wena lifted her head, and he put a hand on her neck. “Men, elves… things with horns and claws. Beastfolk, Gerolt called them, but these were wearing armour. There were silver machines among them, too. One was lying on its side. I don't remember anything before waking up there. I've told you that.”
 
 Silas glanced towards the town. “Keep your voice down.”
 
@@ -122,7 +122,7 @@ Alaric turned back towards the platform. A man near the front was counting coins
 
 Silas looked at the man holding the chain, then at the woman.
 
-“I can't tell you who made those scars.” He moved closer so they could speak without raising their voices. “But look at the way the bastard's using that chain. He doesn't give a shit who watches.”
+“I can't tell you who made those scars.” He moved closer so they could speak without raising their voices. “But look how he's using that chain. He doesn't give a shit who watches, because nobody here's going to stop him.”
 
 Wena pressed against Alaric's knee. He put his hand on her head, still watching as the man counting the coins came forward.
 
@@ -176,7 +176,7 @@ Alaric looked down at the sword.
 
 “So what are you going to do? Wait out here?”
 
-“Where the hell do you think I'm going? I'm staying with you.” Silas shifted closer, where the person opening the door would see him. “Go on, Alaric. Knock.”
+“Where do you think I'm going? I'm staying with you.” Silas shifted closer, where the person opening the door would see him. “Go on, Alaric. Knock.”
 
 ## 8. Marta opens the door
 

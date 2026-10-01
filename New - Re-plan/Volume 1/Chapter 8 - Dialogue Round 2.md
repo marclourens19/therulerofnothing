@@ -12,7 +12,7 @@ Silas watched the ship until its light was almost lost beyond the trees. Then he
 
 “And before he found you?”
 
-“I woke up under a dead man! There were bodies all round me, and when I got out from under him there were more, everywhere I looked. Hundreds. Maybe thousands. I couldn't count them.” His voice was rising. Wena lifted her head, and he put a hand on her neck. “Men, elves… things with horns and claws. Beasts, I suppose, but they were wearing armour. There were silver machines among them, too. One was lying on its side. I don't remember anything before waking up there. I've told you that.”
+“I woke up under a dead man! There were bodies all round me, and when I got out from under him there were more, everywhere I looked. Hundreds. Maybe thousands. I couldn't count them.” His voice was rising. Wena lifted her head, and he put a hand on her neck. “Men, elves… things with horns and claws. Beastfolk, Gerolt called them, but these were wearing armour. There were silver machines among them, too. One was lying on its side. I don't remember anything before waking up there. I've told you that.”
 
 Silas glanced towards the town. “Keep your voice down.”
 

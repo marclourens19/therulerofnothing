@@ -309,3 +309,7 @@ Keep almost all of it. It's sharper and more like Silas: he admits he was wrong 
 ### One small point in the approved baseline
 
 - **Exchange 1: "Beasts, I suppose, but they were wearing armour."** In Chapter 1 Gerolt said "beastfolk" ("I never saw men fight beside beastfolk"), so Alaric has the word. *Recommended (small):* "Beastfolk, Gerolt called them, but these were wearing armour", or "Beastfolk, in armour." It also brings Gerolt into the account at the moment Silas starts to believe it.
+
+### Round 3 approved (1 October)
+
+The updated Round 3 has all three fixes, and Claude checked it again: no "hell", the combined auction line, and "beastfolk" (also synchronised into Round 2). It's approved as the chapter's dialogue. **Chapter 8 is ready to write, waiting on the author's go-ahead.** The only drafting note left is the narration after "Get onto the grass, then", so "grass" isn't said twice.
