@@ -5,7 +5,7 @@
 ## At a glance
 
 - **8 changes proposed.** 0 rejected so far, so 8 are in the chapter: 8 rewritten, 0 cut and 0 added.
-- **Length:** 2,016 words before, 2,057 after.
+- **Length:** 2,016 words before, 2,056 after.
 - **Median paragraph:** 16 words before, 16.5 after. The house target is roughly 14–22.
 - **"Nothing":** 3 times before, 3 after.
 
@@ -17,7 +17,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Already decided**
 
-- **Change 1, Silas's first words:** your Word file.
+- **Change 1, Silas's first words:** your Word file, then review question 9.
 - **Change 2, Silas picks up the sword:** your Word file.
 - **Change 3, The fallen tree:** your Word file.
 - **Change 4, Hauled out:** your Word file.
@@ -44,11 +44,11 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 > "They'll be hot on our trail soon enough, boy. Keep moving, or Gerolt died for nothing."
 >
-> The man let go and went on.
+> He let go and went on.
 
-**Why.** Back to the handoff's line of 28–29 September, with "Keep moving" because Alaric is already standing. "He knew Gerolt's name" still follows. "The man let go" brings back a label that round 2 took out. See the review, question 9.
+**Why.** Back to the handoff's line of 28–29 September, with "Keep moving" because Alaric is already standing. "He knew Gerolt's name" still follows. "The man let go" brings back a label that round 2 took out. See the review, question 9. *Round 2 (1 October):* the author agreed Claude's recommendation (review question 9).
 
-**Your decision.** Your edit, from the Word file of 1 October.
+**Your decision.** Your edit, from the Word file of 1 October, then Claude's recommendation on review question 9, which you agreed.
 
 #### 2. Silas picks up the sword
 

@@ -4,6 +4,8 @@
 
 **Chapter 7 is the exception.** The Word file has Thaer's older line, "If I leave with you, he can send whoever he likes after us." Yesterday you replaced it with "While I'm here, he has to get past me before he sends anyone after you." Nothing else in Chapter 7 differs from the repo, so the file looks like it was put together from the copy made before that change. I've kept your newer line (question 8).
 
+**Answered (1 October):** the author agreed all nine recommendations ("DO all your recommendations, I agree with them"). They're applied in the chapters and recorded on the change lists: changes edited for questions 1–4, 6, 7 and 9, a new change in Chapter 6 for question 5, and no change for question 8.
+
 ## The verdict
 
 It's a good revision. Of the 49 changes, 41 make the chapters plainer, clearer about who's doing what, or more honest to the viewpoint, and they don't need anything from me. Two of them fix real problems:

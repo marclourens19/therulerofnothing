@@ -388,7 +388,7 @@ Then Gerolt planted both boots and leaned towards him again.
 
 "Give it another moment. Sometimes it's shy the first—"
 
-"You said it already belongs to me." The words came faster now, and once they started he found he couldn't slow them back down. "Then why can't I feel it? I can feel your fire, and the wind coming through your shutters, and my head hurts so much I can barely think. I'm trying, Gerolt. There's nothing else."
+"You said it already belongs to me." The words came faster now, and once they started he found he couldn't slow them back down. "Then why can't I feel it? I can feel your fire, and the wind coming through your shutters, and a headache that's at least probably my own. I'm trying, Gerolt. There's nothing else."
 
 Gerolt said nothing.
 
@@ -430,7 +430,7 @@ The boy saw the horned warrior again, his shoulder against the human soldier's a
 
 He kept one eye to the opening in the shutter.
 
-"A human and a beastman, shoulder to shoulder." Gerolt was quiet for a moment. "I've never seen that, lad. I know what I saw, and I still can't make it fit."
+"I know what I saw, lad, and I still can't make it fit."
 
 "And the pale ones?" the boy asked. "With the pointed ears?"
 

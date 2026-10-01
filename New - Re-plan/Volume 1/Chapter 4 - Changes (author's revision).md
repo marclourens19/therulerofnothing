@@ -5,7 +5,7 @@
 ## At a glance
 
 - **6 changes proposed.** 0 rejected so far, so 6 are in the chapter: 6 rewritten, 0 cut and 0 added.
-- **Length:** 2,626 words before, 2,578 after.
+- **Length:** 2,626 words before, 2,585 after.
 - **Median paragraph:** 17 words before, 16 after. The house target is roughly 14–22.
 - **"Nothing":** 2 times before, 2 after.
 
@@ -20,7 +20,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 1, Her first plan:** your Word file.
 - **Change 2, Sitting up:** your Word file.
 - **Change 3, Glass, then crystal:** your Word file.
-- **Change 4, What she remembers:** your Word file.
+- **Change 4, What she remembers:** your Word file, then review question 4.
 - **Change 5, At the seam:** your Word file.
 - **Change 6, The door:** your Word file.
 
@@ -90,11 +90,11 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> *Mother was in my room this morning. Thaer promised he'd be back before evening. I remember him leaving. Why can't I remember anything after that?*
+> *Mother was in my room this morning, and Thaer promised he'd be back before evening. I remember him leaving. I must have gone somewhere after that, so why can't I remember it?*
 
-**Why.** Four short sentences in a row, ending on a bare question. The old thought reasoned ("I must have gone somewhere"). See the review, question 4.
+**Why.** Four short sentences in a row, ending on a bare question. The old thought reasoned ("I must have gone somewhere"). See the review, question 4. *Round 2 (1 October):* the author agreed Claude's recommendation (review question 4).
 
-**Your decision.** Your edit, from the Word file of 1 October.
+**Your decision.** Your edit, from the Word file of 1 October, then Claude's recommendation on review question 4, which you agreed.
 
 #### 5. At the seam
 

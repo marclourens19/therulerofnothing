@@ -4,8 +4,8 @@
 
 ## At a glance
 
-- **17 changes proposed.** 0 rejected so far, so 17 are in the chapter: 14 rewritten, 2 cut and 1 added.
-- **Length:** 5,024 words before, 4,857 after.
+- **18 changes proposed.** 0 rejected so far, so 18 are in the chapter: 15 rewritten, 2 cut and 1 added.
+- **Length:** 5,024 words before, 4,868 after.
 - **Median paragraph:** 13 words before, 13 after. The house target is roughly 14–22.
 - **"Nothing":** 1 times before, 1 after.
 
@@ -29,11 +29,12 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 10, "The creature" (6):** your Word file.
 - **Change 11, "I'm sorry":** your Word file.
 - **Change 12, "The creature" (7):** your Word file.
-- **Change 13, Silas names it:** your Word file.
-- **Change 14, Marta's door:** your Word file.
+- **Change 13, Silas names it:** your Word file, then review question 6.
+- **Change 14, Marta's door:** your Word file, then review question 7.
 - **Change 15, Silas slows down:** your Word file.
 - **Change 16, Silas says what he's checking:** your Word file.
 - **Change 17, The ship:** your Word file.
+- **Change 18, He remembers the broken trees:** review question 5.
 
 ## The changes
 
@@ -275,11 +276,11 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 > "What was that thing?" Alaric looked past him at the body against the tree.
 >
-> "An ogre." Silas glanced back at it. "What the hell's one doing this far from the mountains?"
+> "An ogre." Silas glanced back at it. "What in the Last Dark is one doing this far from the mountains?"
 
-**Why.** Pays off the broken trees. New world fact: ogres belong in the mountains. "Hell" is the only one in seven chapters; the world's oath is the Last Dark. See the review, question 6.
+**Why.** Pays off the broken trees. New world fact: ogres belong in the mountains. "Hell" is the only one in seven chapters; the world's oath is the Last Dark. See the review, question 6. *Round 2 (1 October):* the author agreed Claude's recommendation (review question 6).
 
-**Your decision.** Your edit, from the Word file of 1 October.
+**Your decision.** Your edit, from the Word file of 1 October, then Claude's recommendation on review question 6, which you agreed.
 
 #### 14. Marta's door
 
@@ -291,11 +292,11 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> "I wasn't about to lead those bastards to Marta's door."
+> "And I'm not about to lead those bastards to Marta's door."
 
-**Why.** Silas names her where Alaric only said "her". With Alaric's line before it and Silas's after, it's three "I wasn't" lines in a row. See the review, question 7.
+**Why.** Silas names her where Alaric only said "her". With Alaric's line before it and Silas's after, it's three "I wasn't" lines in a row. See the review, question 7. *Round 2 (1 October):* the author agreed Claude's recommendation (review question 7).
 
-**Your decision.** Your edit, from the Word file of 1 October.
+**Your decision.** Your edit, from the Word file of 1 October, then Claude's recommendation on review question 7, which you agreed.
 
 #### 15. Silas slows down
 
@@ -344,3 +345,21 @@ Each of these needs a yes or no from you. It adds something about a character or
 **Why.** Shorter.
 
 **Your decision.** Your edit, from the Word file of 1 October.
+
+### Round 2: Claude's recommendations, agreed (1 October)
+
+#### 18. He remembers the broken trees
+
+*Draft line 233 → revised line 225*
+
+**Before**
+
+> *I can keep off the road. The town's beyond that rise—he pointed it out himself. I'll find the south gate, and then the inn.*
+
+**After**
+
+> *I can keep off the road. The town's beyond that rise—he pointed it out himself. Whatever broke those trees was hours back. I'll find the south gate, and then the inn.*
+
+**Why.** With the deer gone, he never weighed the danger when he chose to go. Now he does, and plays it down: the trees were before midday. It's wrong, and the fallen tree that sits up pays it off. Your rule from Chapter 6: he understands the danger and underestimates it.
+
+**Your decision.** Claude's recommendation on review question 5 (a new line), which you agreed on 1 October.

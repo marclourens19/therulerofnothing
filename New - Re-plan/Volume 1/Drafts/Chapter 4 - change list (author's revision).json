@@ -50,11 +50,11 @@
       "kind": "changed",
       "tags": [],
       "before": "*Mother was in my room this morning and we fought, though I can't even remember what about, and Thaer was there too, promising he'd be back before evening. And then… what? I must have done something after he left. I must have gone somewhere. So why can't I remember going anywhere at all?*",
-      "after": "*Mother was in my room this morning. Thaer promised he'd be back before evening. I remember him leaving. Why can't I remember anything after that?*",
-      "why": "Four short sentences in a row, ending on a bare question. The old thought reasoned (\"I must have gone somewhere\"). See the review, question 4.",
+      "after": "*Mother was in my room this morning, and Thaer promised he'd be back before evening. I remember him leaving. I must have gone somewhere after that, so why can't I remember it?*",
+      "why": "Four short sentences in a row, ending on a bare question. The old thought reasoned (\"I must have gone somewhere\"). See the review, question 4. *Round 2 (1 October):* the author agreed Claude's recommendation (review question 4).",
       "decision": "accepted",
-      "decision_note": "Your edit, from the Word file of 1 October.",
-      "decision_short": "your Word file."
+      "decision_note": "Your edit, from the Word file of 1 October, then Claude's recommendation on review question 4, which you agreed.",
+      "decision_short": "your Word file, then review question 4."
     },
     {
       "section": "Your revision",

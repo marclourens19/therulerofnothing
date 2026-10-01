@@ -5,7 +5,7 @@
 ## At a glance
 
 - **6 changes proposed.** 0 rejected so far, so 6 are in the chapter: 6 rewritten, 0 cut and 0 added.
-- **Length:** 4,652 words before, 4,644 after.
+- **Length:** 4,652 words before, 4,639 after.
 - **Median paragraph:** 15 words before, 15 after. The house target is roughly 14–22.
 - **"Nothing":** 2 times before, 2 after.
 
@@ -21,7 +21,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 2, Getting Gerolt up:** your Word file.
 - **Change 3, "You'll need it.":** your Word file.
 - **Change 4, The burning rider:** your Word file.
-- **Change 5, He can't move:** your Word file.
+- **Change 5, He can't move:** your Word file, then review question 3.
 - **Change 6, Silas arrives, in three paragraphs:** your Word file.
 
 ## The changes
@@ -104,11 +104,11 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> He had the sword and wanted to help. Alaric tried to take a step towards Gerolt, but his knees would not unlock.
+> He tried to go back down to Gerolt with the sword, but his legs just wouldn't move.
 
-**Why.** This is close to the line you called robotic on 29 September ("He had the sword and wanted to help. He tried to go down to Gerolt, but his knees would not unlock."). See the review, question 3.
+**Why.** This is close to the line you called robotic on 29 September ("He had the sword and wanted to help. He tried to go down to Gerolt, but his knees would not unlock."). See the review, question 3. *Round 2 (1 October):* the author agreed Claude's recommendation (review question 3).
 
-**Your decision.** Your edit, from the Word file of 1 October.
+**Your decision.** Your edit, from the Word file of 1 October, then Claude's recommendation on review question 3, which you agreed.
 
 #### 6. Silas arrives, in three paragraphs
 

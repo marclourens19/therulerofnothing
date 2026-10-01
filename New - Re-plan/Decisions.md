@@ -233,7 +233,7 @@ The author's direction only. The handoff's recommendations for each point are in
   - "Who made them?" (the clothes), and the figure in the vision is "close enough to touch me".
   - Chapter 1 is now 6,208 words. The handoff's working score is 96/100, and it gets no more general beautification passes.
 
-- **The author's revision (1 October),** from their Word file of Chapters 1–7, is now the chapter: eight changes, in `Volume 1/Chapter 1 - Changes (author's revision).md`. Gerolt loses two jokes, and now answers "What about someone with none?" with "I don't know what they'd do with you". The boy's outburst becomes "Then why can't I feel it?…", and he tells Gerolt "That person came to stop me, Gerolt." Chapter 1 is now 6,141 words. *Open:* review questions 1–2, in `Volume 1/Chapters 1-7 - Review of the Author's Revision.md`.
+- **The author's revision (1 October),** from their Word file of Chapters 1–7, is now the chapter: eight changes, in `Volume 1/Chapter 1 - Changes (author's revision).md`. Gerolt loses two jokes, and now answers "What about someone with none?" with "I don't know what they'd do with you". The boy's outburst becomes "Then why can't I feel it?…", and he tells Gerolt "That person came to stop me, Gerolt." Chapter 1 is now 6,141 words. Then review questions 1–2 (1 October, agreed): the headache line is back in his outburst ("…and a headache that's at least probably my own."), and Gerolt's repeat is cut to "I know what I saw, lad, and I still can't make it fit." Chapter 1 is 6,122 words. The review is in `Volume 1/Chapters 1-7 - Review of the Author's Revision.md`.
 
 ## Chapter 2
 
@@ -334,7 +334,7 @@ The decisions below were made for Version 1. They were checked against the redes
   - *Superseded:* "I run hot" is cut from the redesign ("I don't like 'I run hot'"). (Version 1: the hot hand, which Gerolt covers with a dry line, "Careful, lad. I run hot.") (The author's note: the old narration "doesn't sound like Cid speaking, sounds like a computer monologue.")
   - Kept: the second scout's laugh before we see her.
 
-- **The author's revision (1 October)** is now the chapter: six changes, in `Volume 1/Chapter 2 - Changes (author's revision).md`. Among them are "It was the field, wasn't it?" and Alaric refusing the sword out loud ("You'll need it."). At the fire the line is now "He had the sword and wanted to help. Alaric tried to take a step towards Gerolt, but his knees would not unlock." Chapter 2 is 4,644 words. *Open:* review question 3.
+- **The author's revision (1 October)** is now the chapter: six changes, in `Volume 1/Chapter 2 - Changes (author's revision).md`. Among them are "It was the field, wasn't it?" and Alaric refusing the sword out loud ("You'll need it."). At the fire, after review question 3 (agreed): "He tried to go back down to Gerolt with the sword, but his legs just wouldn't move." Chapter 2 is 4,639 words.
 
 ## Chapter 3
 
@@ -395,10 +395,10 @@ The plan is built in `Volume 1/Chapter 3 - Design.md`.
 - **Round 2 on the line pass (29 September).** Agreed: "I didn't." (the answer now fits Silas's new question) and "He let go and went on." ("the man" back to 9). Then the author's picks: Silas's line is now "Move, boy, now, or Gerolt died for nothing!" (the author's line; Alaric is already standing, so "Get up" went), and the scouts line is one sentence again: "Scouts don't tear a farmhouse apart unless they're after something, so what happened back there?" Chapter 3 is now 2,016 words.
 
 - **The author's revision (1 October)** is now the chapter: eight changes, in `Volume 1/Chapter 3 - Changes (author's revision).md`. It replaces three lines agreed in round 2:
-  - Silas's line is "They'll be hot on our trail soon enough, boy. Keep moving, or Gerolt died for nothing.", followed by "The man let go and went on."
+  - Silas's line is "They'll be hot on our trail soon enough, boy. Keep moving, or Gerolt died for nothing.", followed by "He let go and went on." (review question 9, agreed)
   - Alaric's answer is "He didn't know me. He found me in his field and took me to his house."
   - The scouts line is two sentences again.
-  - Silas now picks up the sword Alaric drops at the river. Chapter 3 is 2,057 words. *Open:* review question 9.
+  - Silas now picks up the sword Alaric drops at the river. Chapter 3 is 2,056 words.
 
 ## Chapter 4
 
@@ -458,7 +458,7 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
     - Her last memory is of fighting with her mother "this morning" (she can't remember a word of it), then Thaer promising to be back before evening (the author's line, round 4). The fight is a hole where Alaric was (round 5).
     - She wakes barefoot, her hair loose, in the dress from what feels like the day before (handoff §6.2).
 
-- **The author's revision (1 October)** is now the chapter: six changes, in `Volume 1/Chapter 4 - Changes (author's revision).md`, all to her thoughts and her call at the door. Her first plan is *Very well. If I'm alive, I can get up. Then I'll find out where I am.*, and the door thought is *No handle on this side. Whoever shut that door didn't mean for me to open it.* / *But why would anyone want to keep me in here?* The fight with her mother stays, in the paragraph after. Chapter 4 is 2,578 words. *Open:* review question 4.
+- **The author's revision (1 October)** is now the chapter: six changes, in `Volume 1/Chapter 4 - Changes (author's revision).md`, all to her thoughts and her call at the door. Her first plan is *Very well. If I'm alive, I can get up. Then I'll find out where I am.*, and the door thought is *No handle on this side. Whoever shut that door didn't mean for me to open it.* / *But why would anyone want to keep me in here?* The fight with her mother stays, in the paragraph after. After review question 4 (agreed), her memory reasons: *Mother was in my room this morning, and Thaer promised he'd be back before evening. I remember him leaving. I must have gone somewhere after that, so why can't I remember it?* Chapter 4 is 2,585 words.
 
 ## Chapter 5
 
@@ -554,7 +554,7 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 - **Design started (29 September)** in `Volume 1/Chapter 6 - Design.md`: a proposed six-scene shape and round 1 of questions.
 - **The author's shape (30 September):** dawn, Silas waking him ("Up, boy…") and hinting he's coming along; the smoke behind them, and Alaric following far behind; Alaric pestering Silas like *A Realm Reborn*'s Alphinaud; Alaric slipping away to reach Kelmend alone with Wena and running into an **ogre**, which grabs him by the foot ("Can eat… food…") until Silas kills it ("Would it kill you just to listen for once"); then Kelmend's lights, and the Natharul king's warship passing overhead, massive, with both of them shocked. Round 2 is in the design file.
 - **Two new looks (the author's reference pictures, 30 September):**
-  - **Ogres exist.** Huge, pale, pot-bellied, with a tusked underbite, clawed hands and rag bindings, carrying a spiked wooden club. They can speak a little. **They belong in the mountains** (the author's revision, 1 October: "What the hell's one doing this far from the mountains?"). *Open:* what else an ogre is in this world (question in round 2).
+  - **Ogres exist.** Huge, pale, pot-bellied, with a tusked underbite, clawed hands and rag bindings, carrying a spiked wooden club. They can speak a little. **They belong in the mountains** (the author's revision, 1 October: "What in the Last Dark is one doing this far from the mountains?"). *Open:* what else an ogre is in this world (question in round 2).
   - **The royal warship looks like FFXIV's *Agrius*:** a huge red hull, spined and organic-looking, with dark spires hanging beneath it and small craft below. *To reconcile:* Chapter 5 describes it as "long and dark and plated all over" with blue-green light along its underside (round 2).
 - **The author's detailed proposal (30 September)** is the working design, kept verbatim in `Volume 1/Chapter 6 - Design Proposal.md`: eight scenes, about 6,000 words, keeping the five beats. The turn is Silas's plan to take Gerolt's sword to Marta first while Alaric waits outside the town; Alaric leaves because of it. Alaric does two small things in the ogre fight, Wena isn't hurt, and afterwards Silas explains the route and agrees that, if it's clear, Alaric shows Marta the sword himself. Alaric gives his name ("It's Alaric, by the way."). *Proposed, not yet approved:* the details in round 2 of the design file (the ship's look and route, the ogre's nature, Silas's cost, Kelmend's response and others).
 - **The sequence (the author, 30 September):** 22 steps in reading order, now the chapter's shape (in the design file). Settled by it:
@@ -592,9 +592,10 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 
 - **The author's revision (1 October)** is now the chapter: seventeen changes, in `Volume 1/Chapter 6 - Changes (author's revision).md`.
   - The deer, and Silas naming the ogre from it, are gone. In their place are broken trees across the path and an honest "Can't tell. Stay where I can see you."
-  - The fight calls it "the creature". Silas names it only afterwards: "An ogre. What the hell's one doing this far from the mountains?"
+  - The fight calls it "the creature". Silas names it only afterwards: "An ogre. What in the Last Dark is one doing this far from the mountains?" ("hell" changed in review question 6).
   - At the stream, Silas tells Alaric what he's checking ("I don't like those tracks.").
-  - Chapter 6 is 4,857 words. *Open:* review questions 5–7.
+  - Review questions 5 and 7 (agreed): when Alaric decides to go, he thinks *Whatever broke those trees was hours back.*, and Silas says "And I'm not about to lead those bastards to Marta's door."
+  - Chapter 6 is 4,868 words.
 
 ## Chapter 7
 
@@ -638,7 +639,7 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 - **Claude's six notes on the revision (30 September)** were applied at the author's request, as `Volume 1/Chapter 7 - Changes.md`.
 - **Three final passes (30 September)** followed, at the author's request. After them, the author's final Word file restored two lines in the author's own wording. Chapter 7 is finished at 4,218 words and matches that file word for word. The one exception is Thaer's reason for staying, which the author then chose: "While I'm here, he has to get past me before he sends anyone after you."
 
-- **The author's Word file of Chapters 1–7 (1 October)** has Thaer's older "after us" line. Claude kept the newer one ("While I'm here…"), the author's choice of 30 September. Review question 8.
+- **The author's Word file of Chapters 1–7 (1 October)** has Thaer's older "after us" line. Claude kept the newer one ("While I'm here…"), the author's choice of 30 September, and the author agreed (review question 8).
 
 ## Chapter 8
 
@@ -930,10 +931,6 @@ Not in the central cast yet, and not locked (handoff §7, §14.3).
 - **What they fight:** the whole church, and the Affinity laws.
 
 ## Open questions
-
-### The author's revision of Chapters 1–7 (1 October)
-
-- Nine review questions, with Claude's recommendations, in `Volume 1/Chapters 1-7 - Review of the Author's Revision.md`.
 
 ### Volume 1 picture
 

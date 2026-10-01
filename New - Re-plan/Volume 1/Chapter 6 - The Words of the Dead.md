@@ -222,7 +222,7 @@ He could sit down here and wait for him. It would be easy. He'd been doing what 
 
 He shifted the sword in his hand. Gerolt had pressed that hilt into his fingers and told him where to go.
 
-*I can keep off the road. The town's beyond that rise—he pointed it out himself. I'll find the south gate, and then the inn.*
+*I can keep off the road. The town's beyond that rise—he pointed it out himself. Whatever broke those trees was hours back. I'll find the south gate, and then the inn.*
 
 Wena was looking in the direction Silas had gone. Alaric touched her shoulder.
 
@@ -336,7 +336,7 @@ Alaric sat. Silas pulled the boot off, none too gently, and turned the foot one 
 
 "What was that thing?" Alaric looked past him at the body against the tree.
 
-"An ogre." Silas glanced back at it. "What the hell's one doing this far from the mountains?"
+"An ogre." Silas glanced back at it. "What in the Last Dark is one doing this far from the mountains?"
 
 Silas sat down on the slope beside him. The cloth round his burned hand had gone brown and black where the hilt had been.
 
@@ -350,7 +350,7 @@ Silas stopped pulling.
 
 Alaric nodded. After a while, he said, "I wasn't trying to make things harder. I was trying to get to her."
 
-"I wasn't about to lead those bastards to Marta's door."
+"And I'm not about to lead those bastards to Marta's door."
 
 "Then why couldn't you tell me what you were doing? You said you were taking the sword and I had to wait outside."
 

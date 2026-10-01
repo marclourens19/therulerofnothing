@@ -5,7 +5,7 @@
 ## At a glance
 
 - **8 changes proposed.** 0 rejected so far, so 8 are in the chapter: 8 rewritten, 0 cut and 0 added.
-- **Length:** 6,208 words before, 6,141 after.
+- **Length:** 6,208 words before, 6,122 after.
 - **Median paragraph:** 13 words before, 13 after. The house target is roughly 14–22.
 - **"Nothing":** 19 times before, 20 after.
 
@@ -20,10 +20,10 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 1, His fingers come back wet and gritty:** your Word file.
 - **Change 2, Gerolt's first question:** your Word file.
 - **Change 3, Gerolt's name, without the joke:** your Word file.
-- **Change 4, "Then why can't I feel it?":** your Word file.
+- **Change 4, "Then why can't I feel it?":** your Word file, then review question 1.
 - **Change 5, Gerolt answers "What about someone with none?":** your Word file.
 - **Change 6, "By the thousands":** your Word file.
-- **Change 7, Gerolt can't make it fit:** your Word file.
+- **Change 7, Gerolt can't make it fit:** your Word file, then review question 2.
 - **Change 8, "That person came to stop me":** your Word file.
 
 ## The changes
@@ -88,11 +88,11 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> "You said it already belongs to me." The words came faster now, and once they started he found he couldn't slow them back down. "Then why can't I feel it? I can feel your fire, and the wind coming through your shutters, and my head hurts so much I can barely think. I'm trying, Gerolt. There's nothing else."
+> "You said it already belongs to me." The words came faster now, and once they started he found he couldn't slow them back down. "Then why can't I feel it? I can feel your fire, and the wind coming through your shutters, and a headache that's at least probably my own. I'm trying, Gerolt. There's nothing else."
 
-**Why.** He pleads now instead of listing. It's simpler, but it takes out "a headache that's at least probably my own", the line the principles use to show his humour survives, and it was his only joke in the chapter. See the review, question 1.
+**Why.** He pleads now instead of listing. It's simpler, but it takes out "a headache that's at least probably my own", the line the principles use to show his humour survives, and it was his only joke in the chapter. See the review, question 1. *Round 2 (1 October):* the author agreed Claude's recommendation (review question 1).
 
-**Your decision.** Your edit, from the Word file of 1 October.
+**Your decision.** Your edit, from the Word file of 1 October, then Claude's recommendation on review question 1, which you agreed.
 
 #### 5. Gerolt answers "What about someone with none?"
 
@@ -136,11 +136,11 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> "A human and a beastman, shoulder to shoulder." Gerolt was quiet for a moment. "I've never seen that, lad. I know what I saw, and I still can't make it fit."
+> "I know what I saw, lad, and I still can't make it fit."
 
-**Why.** "I've never seen that" repeats what he said three lines up ("I never saw men fight beside beastfolk"), and "shoulder to shoulder" repeats what the boy has just seen. See the review, question 2.
+**Why.** "I've never seen that" repeats what he said three lines up ("I never saw men fight beside beastfolk"), and "shoulder to shoulder" repeats what the boy has just seen. See the review, question 2. *Round 2 (1 October):* the author agreed Claude's recommendation (review question 2).
 
-**Your decision.** Your edit, from the Word file of 1 October.
+**Your decision.** Your edit, from the Word file of 1 October, then Claude's recommendation on review question 2, which you agreed.
 
 #### 8. "That person came to stop me"
 

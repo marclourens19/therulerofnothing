@@ -30,7 +30,7 @@ The man came back for him. He took Alaric by the front of his shirt and pulled h
 
 "They'll be hot on our trail soon enough, boy. Keep moving, or Gerolt died for nothing."
 
-The man let go and went on.
+He let go and went on.
 
 He knew Gerolt's name.
 

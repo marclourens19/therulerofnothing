@@ -74,7 +74,7 @@ She didn't want to know. She pulled her knees up and stayed where she was, as fa
 
 *Think. Think properly.*
 
-*Mother was in my room this morning. Thaer promised he'd be back before evening. I remember him leaving. Why can't I remember anything after that?*
+*Mother was in my room this morning, and Thaer promised he'd be back before evening. I remember him leaving. I must have gone somewhere after that, so why can't I remember it?*
 
 She went back to the beginning and tried again.
 

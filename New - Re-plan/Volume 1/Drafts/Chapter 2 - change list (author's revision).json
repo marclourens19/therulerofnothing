@@ -62,11 +62,11 @@
       "kind": "changed",
       "tags": [],
       "before": "He tried to go back down to Gerolt, but his legs just wouldn't move.",
-      "after": "He had the sword and wanted to help. Alaric tried to take a step towards Gerolt, but his knees would not unlock.",
-      "why": "This is close to the line you called robotic on 29 September (\"He had the sword and wanted to help. He tried to go down to Gerolt, but his knees would not unlock.\"). See the review, question 3.",
+      "after": "He tried to go back down to Gerolt with the sword, but his legs just wouldn't move.",
+      "why": "This is close to the line you called robotic on 29 September (\"He had the sword and wanted to help. He tried to go down to Gerolt, but his knees would not unlock.\"). See the review, question 3. *Round 2 (1 October):* the author agreed Claude's recommendation (review question 3).",
       "decision": "accepted",
-      "decision_note": "Your edit, from the Word file of 1 October.",
-      "decision_short": "your Word file."
+      "decision_note": "Your edit, from the Word file of 1 October, then Claude's recommendation on review question 3, which you agreed.",
+      "decision_short": "your Word file, then review question 3."
     },
     {
       "section": "Your revision",
