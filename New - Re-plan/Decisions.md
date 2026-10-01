@@ -678,6 +678,10 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - **Three passes on the combined version (1 October),** at the author's request: Pass 1 (errors, POV slips and logic, 11 changes), Pass 2 (vocabulary, rhythm and repeats, 3), Pass 3 (consistency and house style, 2), in `Volume 1/Chapter 8 - Changes (combined).md`. The chapter is 5,347 words.
   - **Keep "Th-that girl…"; the untagged dialogue runs stay (the author, 1 October).** A final pass of everything followed at the author's request: five changes ("faded little by little" rather than "fainter"; "round"; "the lights along the row"; "Silas stood there"; "the scraping started again"). The chapter is 5,343 words.
 
+## Chapter 9
+
+- **Design started (1 October)** in `Volume 1/Chapter 9 - Design.md`: Marta's chapter, straight on from the slammed door, late on the night of Day 2. It proposes six scenes (the shut door; the guards; the kitchen; Empty; the price and the room; the double), and round 1 has 12 questions, with the "100/100" answer. Nothing in it is decided yet.
+
 ## Alaric
 
 - About twenty.
