@@ -382,3 +382,20 @@ At the author's request ("do one final pass of everything"), a read of the whole
 - At the back door, "Inside, the scraping started again", instead of saying a second time that something scraped across the floor.
 
 Checked and left as they are: "Gerolt said they took children away" matches Chapter 1 ("The ones who come up Faint get taken off their mothers"), and "Gerolt hadn't known what they would do with someone who had none" matches "I don't know what they'd do with you". "You gonna" is from the approved dialogue.
+
+## The review notes (1 October)
+
+The author brought an outside review and agreed Claude's answers to it ("yes apply all"). Eleven changes, in the "Review notes" section of `Chapter 8 - Changes (combined).md`. The chapter is 5,286 words.
+
+- **The opening:** Alaric no longer replays Chapter 3's "under a dead man… thousands". He keeps what's new: the beastfolk in armour, the silver machines, and "He hadn't heard a battle either". Silas's "I heard 'thousands'" now calls back to Chapter 3.
+- **Silas looks away** when Alaric asks "Tell her Gerolt sent us?", so his silence about Marta's rule has a visible reason before the door.
+- **The forearm** is kept only at the tub. In the passage, Silas puts a hand up; during the guards, his hand is on Alaric's sleeve.
+- **"They meant Marta?" goes.** *His niece.* has already landed, and Silas's "His brother's daughter." adds what's new.
+- **Less choreography in the middle:** the second look through the wall door goes, "He listened before beckoning" joins the paragraph before it, the sack goes back to Silas in one sentence, and Silas listens at the far door instead of looking through another crack.
+- **Who ties the cord:** "…keeping his burned hand clear. Alaric tied the cord round it for him."
+
+**Not taken:**
+- "Was that why he'd wanted to take it himself?" already has its setup in Chapter 6 ("I'll take the sword to Marta and find out whether it's safe.").
+- 『Faint』 stays plain "Faint", as in Chapters 1–7. The brackets are kept for 『Affinity』.
+
+**Still to answer:** the auctioned woman's own deliberate act, and whether Silas's explanation at the door should be shorter.

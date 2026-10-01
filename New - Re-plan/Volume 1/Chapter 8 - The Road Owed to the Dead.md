@@ -12,11 +12,11 @@ Silas stayed at the edge of the wood, where he could see both the town and the s
 
 "And before he found you?"
 
-"I woke up under a dead man! There were bodies all round me, and when I got out from under him there were more, everywhere I looked. Hundreds. Maybe thousands. I couldn't count them."
+"I've told you! I woke up in a field full of bodies, and I don't remember anything before it."
 
 His voice was rising. Wena lifted her head, and he put a hand on her neck.
 
-"Men, elves… things with horns and claws. Beastfolk, Gerolt called them, but these were wearing armour. There were silver machines among them, too. One was lying on its side. I don't remember anything before waking up there. I've told you that."
+"Men, elves… things with horns and claws. Beastfolk, Gerolt called them, but these were wearing armour. There were silver machines among them, too. One was lying on its side."
 
 Silas glanced towards the town. "Keep your voice down."
 
@@ -54,7 +54,7 @@ Alaric gave Wena a piece of his. He would have liked to give her more.
 
 Alaric looked towards the gate. "Couldn't we just knock at the back? Tell her Gerolt sent us?"
 
-"With half of Kelmend in there? Some bastard would fetch a guard for the price of his next drink. We'll wait till she's closing."
+Silas looked away, towards the town. "With half of Kelmend in there? Some bastard would fetch a guard for the price of his next drink. We'll wait till she's closing."
 
 "Where?"
 
@@ -116,7 +116,7 @@ Wena's nose went up towards the window. Alaric kept the lead short and followed 
 
 At the end of the row, Silas turned into a gap between a house and a lean-to. Beyond the lean-to, the gap narrowed into a passage that ended at the wall. Bundles of kindling stood along one side; a broken handcart had been pushed against the other. In the wall at the end was a narrow timber door.
 
-Silas stopped Alaric with an arm across his chest.
+Silas put a hand up, and Alaric stopped.
 
 On the other side, something heavy knocked against the wall.
 
@@ -148,7 +148,7 @@ Alaric drank from the water skin and eased his boot off. His ankle had swollen a
 
 The yard stayed busy. Whenever he thought the last load had gone, another came. He heard a man count sacks, lose his place and start again. He heard a wheel stick somewhere, and four people tell its owner four different ways to free it. Once somebody laughed so hard that Alaric smiled before he remembered where he was.
 
-The voices in the houses grew quieter. Later came the sound of dishes being washed, then a window shutting. One by one, the lights along the row went out. Silas went to look through the door again and returned without beckoning him over.
+The voices in the houses grew quieter. Later came the sound of dishes being washed, then a window shutting. One by one, the lights along the row went out.
 
 Wena slept on. Alaric was cold now, despite the cloak, and he had stopped trying to work out which set of footsteps might be the last. He could hear people going home in the lane beyond the houses. They called to one another, said goodnight and went through doors that shut behind them. Nobody came down the gap where he and Silas waited.
 
@@ -156,9 +156,7 @@ Silas loosened the binding on his palm. Alaric held the water skin and poured, a
 
 Alaric pulled his boot on before he was ready. He would rather be uncomfortable than have Silas say they could go and find him still sitting there with it off.
 
-At last, the noise in the yard moved away from the wall. The wheels and voices were coming from one place now, further in. Silas went to look, then eased the loose end of the split board aside and reached through with his good hand. A wooden bar scraped out of its bracket. He lowered it inside and pushed the door inwards a finger's width.
-
-He listened before beckoning Alaric over.
+At last, the noise in the yard moved away from the wall. The wheels and voices were coming from one place now, further in. Silas went to look, then eased the loose end of the split board aside and reached through with his good hand. A wooden bar scraped out of its bracket. He lowered it inside, pushed the door inwards a finger's width and listened before beckoning Alaric over.
 
 Alaric stood up with the wrapped sword and Wena's lead. Silas was trying to get the sack out of his way without letting the door move.
 
@@ -170,11 +168,9 @@ The opening was only a few steps deep, through the thickness of the wall. Alaric
 
 They came out into a yard crowded with goods. To their left, a cart stood beneath a lantern in a wide entrance to a lane. Two men were loading it. Opposite, a packing shed opened onto the yard, with barrels just inside its folded-back doors. A narrow passage ran beside them to another door at the far end. Alaric could see light beneath it and hear a voice outside calling a price.
 
-He crouched behind the barrels. Silas pushed the wall door shut and joined him.
+He crouched behind the barrels. Silas pushed the wall door shut, joined him and took the sack back over his shoulder.
 
 "The cart entrance if it's clear," he murmured. "Through the shed if it isn't."
-
-Alaric gave him the sack, and Silas drew its carrying cord over his shoulder.
 
 A loader took the lantern off its hook. Alaric kept a hand on Wena's collar, watching the light rise above the barrels. Then footsteps came through the cart entrance, and the lantern stopped moving.
 
@@ -214,7 +210,7 @@ The first guard shifted. His buckle struck the wall, and he swore under his brea
 
 "Ask them yourself. Come on. Best get moving before they take it out on us."
 
-Their boots scraped away across the yard. Silas had his forearm across Alaric's arm, and he kept it there until the voices had gone.
+Their boots scraped away across the yard. Silas's hand was on Alaric's sleeve, and it stayed there until the voices had gone.
 
 *A boy and a big dog. That's all they've got.* Alaric looked down at Wena. *And it's enough.*
 
@@ -226,7 +222,7 @@ Then he looked at the sword bundle.
 
 The loaders had stopped to listen too. One watched the entrance, then gathered the empty sacks and went out after the guards. The other put the lantern back on the cart and started securing its load.
 
-Silas pointed along the passage inside the shed. Alaric got Wena up without speaking and followed him between the barrels. At the far door, Silas looked through a crack beside the frame, waited, then lifted the latch.
+Silas pointed along the passage inside the shed. Alaric got Wena up without speaking and followed him between the barrels. At the far door, Silas listened, then lifted the latch.
 
 It opened into a covered walkway along the side of the building. A woman carrying a stack of wooden trays was coming towards them. Silas stepped back, and Alaric moved out of her way.
 
@@ -384,9 +380,9 @@ Alaric watched him walk to the corner. Silas stood there a while, looking both w
 
 He sat where he could see the door.
 
-"The guards said his niece." Alaric looked towards the inn. "They meant Marta?"
+"The guards said his niece." Alaric looked towards the inn.
 
-"Yes. His brother's daughter."
+"His brother's daughter."
 
 Alaric looked down at the sword wrapped across his knees.
 
@@ -432,7 +428,7 @@ The ground-floor windows went out. Only one stayed lit, at the back beside the d
 
 Alaric's fingers were clumsy with the knot, and he had to pick it apart with his nails before he could unroll the blanket. When he lifted the sword free, the steel caught the light from the window. He turned it away and lowered the point.
 
-He rested the sword across his knees while Silas rolled the bed again, keeping his burned hand clear, and tied the cord round it for him. Silas tucked it beneath his arm and took Wena's lead with his good hand.
+He rested the sword across his knees while Silas rolled the bed again, keeping his burned hand clear. Alaric tied the cord round it for him. Silas tucked it beneath his arm and took Wena's lead with his good hand.
 
 The front door closed. A bar dropped behind it.
 

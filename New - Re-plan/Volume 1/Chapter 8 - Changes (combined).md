@@ -4,9 +4,9 @@
 
 ## At a glance
 
-- **31 changes proposed.** 0 rejected so far, so 31 are in the chapter: 31 rewritten, 0 cut and 0 added.
-- **Length:** 5,340 words before, 5,343 after.
-- **Median paragraph:** 16 words before, 16 after. The house target is roughly 14–22.
+- **39 changes proposed.** 0 rejected so far, so 39 are in the chapter: 39 rewritten, 0 cut and 0 added.
+- **Length:** 5,340 words before, 5,286 after.
+- **Median paragraph:** 16 words before, 17 after. The house target is roughly 14–22.
 - **"Nothing":** 1 times before, 1 after.
 
 ## Your call
@@ -48,6 +48,14 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 29, Round the light:** the author's request (1 October).
 - **Change 30, Who stands at the corner:** the author's request (1 October).
 - **Change 31, The scraping again:** the author's request (1 October).
+- **Change 32, The field, told once:** the author's agreement (1 October).
+- **Change 33, The field, told once (2):** the author's agreement (1 October).
+- **Change 34, Silas looks away:** the author's agreement (1 October).
+- **Change 35, A hand, not an arm:** the author's agreement (1 October).
+- **Change 36, The sack:** the author's agreement (1 October).
+- **Change 37, The sack (2):** the author's agreement (1 October).
+- **Change 38, The far door:** the author's agreement (1 October).
+- **Change 39, His brother's daughter:** the author's agreement (1 October).
 
 ## The changes
 
@@ -71,7 +79,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 2. Faint (1)
 
-*Draft line 341 → revised line 339*
+*Draft line 341 → revised line 335*
 
 **Before**
 
@@ -87,7 +95,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 3. Faint (2)
 
-*Draft line 423 → revised line 421*
+*Draft line 423 → revised line 417*
 
 **Before**
 
@@ -103,7 +111,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 4. The south gate
 
-*Draft line 199 → revised line 199*
+*Draft line 199 → revised line 195*
 
 **Before**
 
@@ -121,7 +129,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 5. Silas, not "the man"
 
-*Draft line 201 → revised line 201*
+*Draft line 201 → revised line 197*
 
 **Before**
 
@@ -137,7 +145,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 6. In the shadow of a doorway
 
-*Draft line 257 → revised line 255*
+*Draft line 257 → revised line 251*
 
 **Before**
 
@@ -161,15 +169,15 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> The voices in the houses grew quieter. Later came the sound of dishes being washed, then a window shutting. One by one, the lights along the row went out. Silas went to look through the door again and returned without beckoning him over.
+> The voices in the houses grew quieter. Later came the sound of dishes being washed, then a window shutting. One by one, the lights along the row went out.
 
-**Why.** The family's table was several houses back, so "the table" was unclear. Final pass: "The houses" was twice in a row ("The voices in the houses grew quieter").
+**Why.** The family's table was several houses back, so "the table" was unclear. Final pass: "The houses" was twice in a row ("The voices in the houses grew quieter"). Review notes: Silas checks the door three times during the wait. The middle check goes.
 
 **Your decision.** Note 3: agreed (1 October).
 
 #### 8. The other cart
 
-*Draft line 285 → revised line 283*
+*Draft line 285 → revised line 279*
 
 **Before**
 
@@ -185,7 +193,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 9. The half-unloaded cart
 
-*Draft line 291 → revised line 289*
+*Draft line 291 → revised line 285*
 
 **Before**
 
@@ -201,7 +209,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 10. Tying the bed
 
-*Draft line 437 → revised line 435*
+*Draft line 437 → revised line 431*
 
 **Before**
 
@@ -209,15 +217,15 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> He rested the sword across his knees while Silas rolled the bed again, keeping his burned hand clear, and tied the cord round it for him. Silas tucked it beneath his arm and took Wena's lead with his good hand.
+> He rested the sword across his knees while Silas rolled the bed again, keeping his burned hand clear. Alaric tied the cord round it for him. Silas tucked it beneath his arm and took Wena's lead with his good hand.
 
-**Why.** Two paragraphs in a row began with "Alaric", and the knot was split across two sentences.
+**Why.** Two paragraphs in a row began with "Alaric", and the knot was split across two sentences. Review notes: The old sentence could make Silas the one tying the cord.
 
 **Your decision.** Note 5: agreed (1 October).
 
 #### 11. Thanks, lad
 
-*Draft line 237 → revised line 237*
+*Draft line 237 → revised line 233*
 
 **Before**
 
@@ -331,7 +339,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 18. Silas's arm
 
-*Draft line 217 → revised line 217*
+*Draft line 217 → revised line 213*
 
 **Before**
 
@@ -339,15 +347,15 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> Their boots scraped away across the yard. Silas had his forearm across Alaric's arm, and he kept it there until the voices had gone.
+> Their boots scraped away across the yard. Silas's hand was on Alaric's sleeve, and it stayed there until the voices had gone.
 
-**Why.** "Kept" implied the arm had been put there earlier, and it hadn't.
+**Why.** "Kept" implied the arm had been put there earlier, and it hadn't. Review notes: The forearm is kept for the tub.
 
 **Your decision.** Pass 1 of three (1 October): errors, POV slips and logic.
 
 #### 19. Which stall
 
-*Draft line 283 → revised line 281*
+*Draft line 283 → revised line 277*
 
 **Before**
 
@@ -363,7 +371,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 20. Who finds Silas
 
-*Draft line 327 → revised line 325*
+*Draft line 327 → revised line 321*
 
 **Before**
 
@@ -379,7 +387,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 21. Which woman
 
-*Draft line 421 → revised line 419*
+*Draft line 421 → revised line 415*
 
 **Before**
 
@@ -395,7 +403,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 22. Who stood by the door
 
-*Draft lines 239–243 → revised lines 239–241*
+*Draft lines 239–243 → revised lines 235–237*
 
 **Before**
 
@@ -419,7 +427,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 23. The walkway
 
-*Draft line 231 → revised line 231*
+*Draft line 231 → revised line 227*
 
 **Before**
 
@@ -435,7 +443,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 24. The guard's search
 
-*Draft line 301 → revised line 299*
+*Draft line 301 → revised line 295*
 
 **Before**
 
@@ -451,7 +459,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 25. Where they wait
 
-*Draft line 375 → revised line 373*
+*Draft line 375 → revised line 369*
 
 **Before**
 
@@ -469,23 +477,25 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 26. Inwards
 
-*Draft line 159 → revised line 159*
+*Draft lines 159–161 → revised line 159*
 
 **Before**
 
 > At last, the noise in the yard moved away from the wall. The wheels and voices were coming from one place now, further in. Silas went to look, then eased the loose end of the split board aside and reached through with his good hand. A wooden bar scraped out of its bracket. He lowered it inside and pushed the door inward a finger's width.
+>
+> He listened before beckoning Alaric over.
 
 **After**
 
-> At last, the noise in the yard moved away from the wall. The wheels and voices were coming from one place now, further in. Silas went to look, then eased the loose end of the split board aside and reached through with his good hand. A wooden bar scraped out of its bracket. He lowered it inside and pushed the door inwards a finger's width.
+> At last, the noise in the yard moved away from the wall. The wheels and voices were coming from one place now, further in. Silas went to look, then eased the loose end of the split board aside and reached through with his good hand. A wooden bar scraped out of its bracket. He lowered it inside, pushed the door inwards a finger's width and listened before beckoning Alaric over.
 
-**Why.** British house style, as everywhere else in the chapters.
+**Why.** British house style, as everywhere else in the chapters. Review notes: "He listened before beckoning Alaric over." joins the paragraph before it, one step fewer in the crossing.
 
 **Your decision.** Pass 3 of three, the final pass (1 October): consistency with the earlier chapters and house style.
 
 #### 27. The windows go out
 
-*Draft line 431 → revised line 429*
+*Draft line 431 → revised line 425*
 
 **Before**
 
@@ -535,7 +545,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 30. Who stands at the corner
 
-*Draft line 383 → revised line 381*
+*Draft line 383 → revised line 377*
 
 **Before**
 
@@ -551,7 +561,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 31. The scraping again
 
-*Draft line 461 → revised line 459*
+*Draft line 461 → revised line 455*
 
 **Before**
 
@@ -564,3 +574,139 @@ Each of these needs a yes or no from you. It adds something about a character or
 **Why.** "Something scraped across the floor inside" was already said when the windows went out. Now it's the same sound coming back, and "the scraping stopped" when Alaric knocks finishes it.
 
 **Your decision.** Final pass (1 October): everything, once more.
+
+### The review notes: compression and small fixes
+
+#### 32. The field, told once
+
+*Draft line 15 → revised line 15*
+
+**Before**
+
+> "I woke up under a dead man! There were bodies all round me, and when I got out from under him there were more, everywhere I looked. Hundreds. Maybe thousands. I couldn't count them."
+
+**After**
+
+> "I've told you! I woke up in a field full of bodies, and I don't remember anything before it."
+
+**Why.** Chapter 3 already has "I woke up on his farm today, under a dead man. There were thousands of them." Only the beastfolk in armour, the machines and "He hadn't heard a battle either" are new. Without "thousands" here, Silas's "I heard 'thousands'" calls back to Chapter 3, where he heard it.
+
+**Your decision.** The review notes (1 October): agreed by the author ("yes apply all").
+
+#### 33. The field, told once (2)
+
+*Draft line 19 → revised line 19*
+
+**Before**
+
+> "Men, elves… things with horns and claws. Beastfolk, Gerolt called them, but these were wearing armour. There were silver machines among them, too. One was lying on its side. I don't remember anything before waking up there. I've told you that."
+
+**After**
+
+> "Men, elves… things with horns and claws. Beastfolk, Gerolt called them, but these were wearing armour. There were silver machines among them, too. One was lying on its side."
+
+**Why.** "I've told you" moves to the start of his outburst.
+
+**Your decision.** The review notes (1 October): agreed by the author ("yes apply all").
+
+#### 34. Silas looks away
+
+*Draft line 57 → revised line 57*
+
+**Before**
+
+> "With half of Kelmend in there? Some bastard would fetch a guard for the price of his next drink. We'll wait till she's closing."
+
+**After**
+
+> Silas looked away, towards the town. "With half of Kelmend in there? Some bastard would fetch a guard for the price of his next drink. We'll wait till she's closing."
+
+**Why.** Alaric has just said "Tell her Gerolt sent *us*". Silas looking away gives his silence about Marta's rule a visible reason, which the door explains later.
+
+**Your decision.** The review notes (1 October): agreed by the author ("yes apply all").
+
+#### 35. A hand, not an arm
+
+*Draft line 119 → revised line 119*
+
+**Before**
+
+> Silas stopped Alaric with an arm across his chest.
+
+**After**
+
+> Silas put a hand up, and Alaric stopped.
+
+**Why.** Silas stopped Alaric with his forearm three times. The one at the tub is kept, because it stops him moving.
+
+**Your decision.** The review notes (1 October): agreed by the author ("yes apply all").
+
+#### 36. The sack
+
+*Draft line 173 → revised line 171*
+
+**Before**
+
+> He crouched behind the barrels. Silas pushed the wall door shut and joined him.
+
+**After**
+
+> He crouched behind the barrels. Silas pushed the wall door shut, joined him and took the sack back over his shoulder.
+
+**Why.** Fewer handovers: the sack goes back to Silas in the same sentence, and the separate paragraph goes.
+
+**Your decision.** The review notes (1 October): agreed by the author ("yes apply all").
+
+#### 37. The sack (2)
+
+*Draft lines 175–177 → revised line 173*
+
+**Before**
+
+> "The cart entrance if it's clear," he murmured. "Through the shed if it isn't."
+>
+> Alaric gave him the sack, and Silas drew its carrying cord over his shoulder.
+
+**After**
+
+> "The cart entrance if it's clear," he murmured. "Through the shed if it isn't."
+
+**Why.** Goes with the change above.
+
+**Your decision.** The review notes (1 October): agreed by the author ("yes apply all").
+
+#### 38. The far door
+
+*Draft line 229 → revised line 225*
+
+**Before**
+
+> Silas pointed along the passage inside the shed. Alaric got Wena up without speaking and followed him between the barrels. At the far door, Silas looked through a crack beside the frame, waited, then lifted the latch.
+
+**After**
+
+> Silas pointed along the passage inside the shed. Alaric got Wena up without speaking and followed him between the barrels. At the far door, Silas listened, then lifted the latch.
+
+**Why.** Another look through a gap; listening is enough.
+
+**Your decision.** The review notes (1 October): agreed by the author ("yes apply all").
+
+#### 39. His brother's daughter
+
+*Draft lines 389–391 → revised lines 383–385*
+
+**Before**
+
+> "The guards said his niece." Alaric looked towards the inn. "They meant Marta?"
+>
+> "Yes. His brother's daughter."
+
+**After**
+
+> "The guards said his niece." Alaric looked towards the inn.
+>
+> "His brother's daughter."
+
+**Why.** *His niece.* has already landed, so he doesn't need to ask. Silas's answer adds what's new.
+
+**Your decision.** The review notes (1 October): agreed by the author ("yes apply all").
