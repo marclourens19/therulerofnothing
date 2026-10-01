@@ -4,7 +4,7 @@
 
 ## At a glance
 
-- **8 changes proposed.** 0 rejected so far, so 8 are in the chapter: 8 rewritten, 0 cut and 0 added.
+- **10 changes proposed.** 0 rejected so far, so 10 are in the chapter: 10 rewritten, 0 cut and 0 added.
 - **Length:** 6,208 words before, 6,122 after.
 - **Median paragraph:** 13 words before, 13 after. The house target is roughly 14–22.
 - **"Nothing":** 19 times before, 20 after.
@@ -25,6 +25,8 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 6, "By the thousands":** your Word file.
 - **Change 7, Gerolt can't make it fit:** your Word file, then review question 2.
 - **Change 8, "That person came to stop me":** your Word file.
+- **Change 9, 『Faint』:** the author's request (1 October).
+- **Change 10, 『Faint』:** the author's request (1 October).
 
 ## The changes
 
@@ -157,3 +159,37 @@ Each of these needs a yes or no from you. It adds something about a character or
 **Why.** Plainer and more personal than "I was what they came to stop", and he says it to Gerolt. It's still only his belief, which is right for him.
 
 **Your decision.** Your edit, from the Word file of 1 October.
+
+### Typography: 『Faint』 (1 October)
+
+#### 9. 『Faint』
+
+*Draft line 399 → revised line 399*
+
+**Before**
+
+> "I don't know which," he said finally. "That's the truth of it. I've seen men forget their wives. I've seen men forget the war. I've seen Faint who couldn't warm a cup of water to save their lives, and even they had something that answered when they called." He rubbed both palms against his knees, one more carefully than the other. "You're not Faint. You're…"
+
+**After**
+
+> "I don't know which," he said finally. "That's the truth of it. I've seen men forget their wives. I've seen men forget the war. I've seen 『Faint』 who couldn't warm a cup of water to save their lives, and even they had something that answered when they called." He rubbed both palms against his knees, one more carefully than the other. "You're not 『Faint』. You're…"
+
+**Why.** The author (1 October): "apply 『Faint』 to all chapter where it is used". The rank now takes corner brackets like 『Affinity』.
+
+**Your decision.** The author's request (1 October).
+
+#### 10. 『Faint』
+
+*Draft line 405 → revised line 405*
+
+**Before**
+
+> When Gerolt spoke again, it was quieter, and not quite to the boy. "They test every child at ten. The ones who come up Faint get taken off their mothers, and they call it protection."
+
+**After**
+
+> When Gerolt spoke again, it was quieter, and not quite to the boy. "They test every child at ten. The ones who come up 『Faint』 get taken off their mothers, and they call it protection."
+
+**Why.** The author (1 October): "apply 『Faint』 to all chapter where it is used". The rank now takes corner brackets like 『Affinity』.
+
+**Your decision.** The author's request (1 October).

@@ -4,7 +4,7 @@
 
 ## At a glance
 
-- **39 changes proposed.** 0 rejected so far, so 39 are in the chapter: 39 rewritten, 0 cut and 0 added.
+- **39 changes proposed.** 2 rejected so far, so 37 are in the chapter: 37 rewritten, 0 cut and 0 added.
 - **Length:** 5,340 words before, 5,286 after.
 - **Median paragraph:** 16 words before, 17 after. The house target is roughly 14–22.
 - **"Nothing":** 1 times before, 1 after.
@@ -18,8 +18,8 @@ Each of these needs a yes or no from you. It adds something about a character or
 **Already decided**
 
 - **Change 1, The heading:** house style.
-- **Change 2, Faint (1):** house style.
-- **Change 3, Faint (2):** house style.
+- **Change 2, Faint (1):** rejected; the author wants 『Faint』 (1 October).
+- **Change 3, Faint (2):** rejected; the author wants 『Faint』 (1 October).
 - **Change 4, The south gate:** house style.
 - **Change 5, Silas, not "the man":** Note 1: "Use Silas" (1 October).
 - **Change 6, In the shadow of a doorway:** Note 2: "Use in the shadow" (1 October).
@@ -79,35 +79,35 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 2. Faint (1)
 
-*Draft line 341 → revised line 335*
+*Draft line 341 · proposed, rejected by you: the original stays at revised line 335*
 
-**Before**
+**Before (kept)**
 
 > "Because she's 『Faint』. Only 『Faint』 can be sold, and those guards know it as well as he does."
 
-**After**
+**Proposed (not used)**
 
 > "Because she's Faint. Only Faint can be sold, and those guards know it as well as he does."
 
 **Why.** Chapter 1 writes "Faint" without the corner brackets, which the house style keeps for 『Affinity』 and 『Magic』.
 
-**Your decision.** House style only; the author's text is otherwise unchanged.
+**Your decision.** Rejected (1 October): the author wants 『Faint』 with corner brackets wherever it's used ("apply 『Faint』 to all chapter where it is used").
 
 #### 3. Faint (2)
 
-*Draft line 423 → revised line 417*
+*Draft line 423 · proposed, rejected by you: the original stays at revised line 417*
 
-**Before**
+**Before (kept)**
 
 > *Only 『Faint』 can be sold.* Gerolt hadn't known what they would do with someone who had none. Alaric pulled the cloak closer round himself. He didn't want to imagine what else they could do.
 
-**After**
+**Proposed (not used)**
 
 > *Only Faint can be sold.* Gerolt hadn't known what they would do with someone who had none. Alaric pulled the cloak closer round himself. He didn't want to imagine what else they could do.
 
 **Why.** As above.
 
-**Your decision.** House style only; the author's text is otherwise unchanged.
+**Your decision.** Rejected (1 October): the author wants 『Faint』 with corner brackets wherever it's used ("apply 『Faint』 to all chapter where it is used").
 
 #### 4. The south gate
 

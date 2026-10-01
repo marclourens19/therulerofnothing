@@ -332,7 +332,7 @@ Alaric turned back towards the platform. A man near the front was counting coins
 
 "But she doesn't want to go. Look at her. Why are they letting him do that?"
 
-"Because she's Faint. Only Faint can be sold, and those guards know it as well as he does."
+"Because she's 『Faint』. Only 『Faint』 can be sold, and those guards know it as well as he does."
 
 "Gerolt said they took children away. I thought…" He couldn't finish. "And the scars? Did that man do that to her?"
 
@@ -414,7 +414,7 @@ The woman emptied the tub into the gutter and went back inside. Wena stood at th
 
 Alaric shut his eyes. He saw the chain again, pulling tight before the woman from the platform had both feet down.
 
-*Only Faint can be sold.* Gerolt hadn't known what they would do with someone who had none. Alaric pulled the cloak closer round himself. He didn't want to imagine what else they could do.
+*Only 『Faint』 can be sold.* Gerolt hadn't known what they would do with someone who had none. Alaric pulled the cloak closer round himself. He didn't want to imagine what else they could do.
 
 Across the lane, the back door shut. Someone at the front called a last goodnight, and the group on the step finally moved away. Silas watched them until they were past the storehouse.
 

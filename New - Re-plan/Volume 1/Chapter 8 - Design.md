@@ -396,6 +396,6 @@ The author brought an outside review and agreed Claude's answers to it ("yes app
 
 **Not taken:**
 - "Was that why he'd wanted to take it himself?" already has its setup in Chapter 6 ("I'll take the sword to Marta and find out whether it's safe.").
-- 『Faint』 stays plain "Faint", as in Chapters 1–7. The brackets are kept for 『Affinity』.
+- 『Faint』 at first stayed plain "Faint", as in Chapter 1. **Overruled by the author (1 October):** "apply 『Faint』 to all chapter where it is used". Chapter 1 and Chapter 8 now write 『Faint』.
 
 **Still to answer:** the auctioned woman's own deliberate act, and whether Silas's explanation at the door should be shorter.
