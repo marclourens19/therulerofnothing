@@ -100,7 +100,7 @@ The houses along the wall were closer than they had seemed from the slope. They 
 
 Where the lane went in among the houses, a lantern hung from a pole. Two men stood under it, and one of them had a spear.
 
-Silas stopped, and behind him Alaric pulled the hood up.
+Silas stopped, and Alaric pulled the hood up.
 
 "They don't usually put anyone on that lane," Silas said quietly. "We go round the back. Stay close, and keep her quiet."
 
@@ -210,7 +210,7 @@ The first guard shifted. His buckle struck the wall, and he swore under his brea
 
 "Ask them yourself. Come on. Best get moving before they take it out on us."
 
-Their boots scraped away across the yard. Silas's hand was on Alaric's sleeve, and it stayed there until the voices had gone.
+Their boots went back out through the cart entrance. Silas's hand was on Alaric's sleeve, and it stayed there until the voices had gone.
 
 *A boy and a big dog. That's all they've got.* Wena had her head on her paws beside his boot. *And it's enough.*
 
@@ -274,7 +274,7 @@ Two guards were coming up from the gate with a lantern. Silas shortened Wena's l
 
 He nearly said her name.
 
-Instead, he stopped beside the nearest stall. The man with the baskets had put one down and was asking about the cloth. Alaric turned towards it too, leaving the man between himself and Wena. If he kept walking, she would keep pulling.
+Instead, he stopped beside the nearest stall. The man with the baskets had put one down and was asking the woman about her cloth. Alaric turned towards it too, leaving the man between himself and Wena. If he kept walking, she would keep pulling.
 
 Silas moved with her along the side of the other cart. Its sacks hid them from the patrol. Then Wena tried to get round its rear wheel and whined, high enough that Alaric heard her over the voices in the street.
 
@@ -422,7 +422,7 @@ Alaric said the words over to himself without making any sound. *The old fool se
 
 He couldn't get any further than that.
 
-The ground-floor windows went out. Only one stayed lit, at the back beside the door. Something scraped across the floor inside, chairs maybe, and a woman's voice said something short to somebody.
+The ground-floor windows went out, all but one at the back beside the door. Something scraped across the floor inside, chairs maybe, and a woman's voice said something short to somebody.
 
 "Now," Silas said.
 

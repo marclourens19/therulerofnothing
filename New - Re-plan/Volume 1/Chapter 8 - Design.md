@@ -409,3 +409,12 @@ The author asked what would make Chapter 8 a 100/100. Four points; the author ag
 - **4. "Looked":** 12 of the 13 proposed changes (the guard studying Silas's face keeps "looked", the author's choice). "Looked" goes from 26 to 13. "Silas saw them" became "Silas shortened Wena's lead again", to avoid "saw" twice in a row.
 
 **Still open:** point 1, Marta's "Where's—" at Wena before she sees Silas (Your call).
+
+## Error pass (1 October)
+
+At the author's request. Four fixes, in the "Error pass" section of `Chapter 8 - Changes (combined).md`; the chapter is 5,276 words.
+
+- Alaric was "behind" Silas at the lane a few lines after Silas walked beside him.
+- The guards left "across the yard", though they came in by the cart entrance and the loader followed them out of it.
+- "Asking about the cloth" could have meant Wena's lead; it's now the woman's cloth.
+- "The ground-floor windows went out. Only one stayed lit" contradicted itself; now "all but one at the back beside the door".

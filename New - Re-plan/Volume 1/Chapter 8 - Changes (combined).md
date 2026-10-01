@@ -4,8 +4,8 @@
 
 ## At a glance
 
-- **50 changes proposed.** 2 rejected so far, so 48 are in the chapter: 48 rewritten, 0 cut and 0 added.
-- **Length:** 5,340 words before, 5,275 after.
+- **51 changes proposed.** 2 rejected so far, so 49 are in the chapter: 49 rewritten, 0 cut and 0 added.
+- **Length:** 5,340 words before, 5,276 after.
 - **Median paragraph:** 16 words before, 16.5 after. The house target is roughly 14–22.
 - **"Nothing":** 1 times before, 1 after.
 
@@ -67,6 +67,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 48, Looks (9):** the author's agreement (1 October).
 - **Change 49, Looks (10):** the author's agreement (1 October).
 - **Change 50, Looks (11):** the author's agreement (1 October).
+- **Change 51, Where Alaric is at the lane:** the author's request (1 October).
 
 ## The changes
 
@@ -358,9 +359,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> Their boots scraped away across the yard. Silas's hand was on Alaric's sleeve, and it stayed there until the voices had gone.
+> Their boots went back out through the cart entrance. Silas's hand was on Alaric's sleeve, and it stayed there until the voices had gone.
 
-**Why.** "Kept" implied the arm had been put there earlier, and it hadn't. Review notes: The forearm is kept for the tub.
+**Why.** "Kept" implied the arm had been put there earlier, and it hadn't. Review notes: The forearm is kept for the tub. Error pass: The guards came in through the cart entrance, and the loader "went out after the guards" while watching it. "Across the yard" sent them the wrong way.
 
 **Your decision.** Pass 1 of three (1 October): errors, POV slips and logic.
 
@@ -374,9 +375,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> Instead, he stopped beside the nearest stall. The man with the baskets had put one down and was asking about the cloth. Alaric turned towards it too, leaving the man between himself and Wena. If he kept walking, she would keep pulling.
+> Instead, he stopped beside the nearest stall. The man with the baskets had put one down and was asking the woman about her cloth. Alaric turned towards it too, leaving the man between himself and Wena. If he kept walking, she would keep pulling.
 
-**Why.** "The stall" hadn't been picked out yet.
+**Why.** "The stall" hadn't been picked out yet. Error pass: "The cloth" was also Wena's lead in the same scene ("Silas shortened the cloth"). This is the woman with cloth over her arm.
 
 **Your decision.** Pass 1 of three (1 October): errors, POV slips and logic.
 
@@ -514,9 +515,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> The ground-floor windows went out. Only one stayed lit, at the back beside the door. Something scraped across the floor inside, chairs maybe, and a woman's voice said something short to somebody.
+> The ground-floor windows went out, all but one at the back beside the door. Something scraped across the floor inside, chairs maybe, and a woman's voice said something short to somebody.
 
-**Why.** The author asked for fewer "dark"s. The chapter has "the windows… went out" elsewhere, and Chapter 6 does too.
+**Why.** The author asked for fewer "dark"s. The chapter has "the windows… went out" elsewhere, and Chapter 6 does too. Error pass: "Went out" and then "only one stayed lit" contradicted each other.
 
 **Your decision.** Pass 3 of three, the final pass (1 October): consistency with the earlier chapters and house style.
 
@@ -899,3 +900,21 @@ Each of these needs a yes or no from you. It adds something about a character or
 **Why.** Fewer looks.
 
 **Your decision.** Claude's 100/100 review (1 October), agreed by the author ("the rest apply").
+
+### Error pass (1 October)
+
+#### 51. Where Alaric is at the lane
+
+*Draft line 103 → revised line 103*
+
+**Before**
+
+> Silas stopped, and behind him Alaric pulled the hood up.
+
+**After**
+
+> Silas stopped, and Alaric pulled the hood up.
+
+**Why.** A few lines earlier Silas walks beside him, so "behind him" put Alaric in the wrong place.
+
+**Your decision.** Error pass (1 October), at the author's request ("do a pass looking for errors").
