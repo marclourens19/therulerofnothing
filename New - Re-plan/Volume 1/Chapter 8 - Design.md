@@ -382,3 +382,47 @@ At the author's request ("do one final pass of everything"), a read of the whole
 - At the back door, "Inside, the scraping started again", instead of saying a second time that something scraped across the floor.
 
 Checked and left as they are: "Gerolt said they took children away" matches Chapter 1 ("The ones who come up Faint get taken off their mothers"), and "Gerolt hadn't known what they would do with someone who had none" matches "I don't know what they'd do with you". "You gonna" is from the approved dialogue.
+
+## The review notes (1 October)
+
+The author brought an outside review and agreed Claude's answers to it ("yes apply all"). Eleven changes, in the "Review notes" section of `Chapter 8 - Changes (combined).md`. The chapter is 5,286 words.
+
+- **The opening:** Alaric no longer replays Chapter 3's "under a dead man… thousands". He keeps what's new: the beastfolk in armour, the silver machines, and "He hadn't heard a battle either". Silas's "I heard 'thousands'" now calls back to Chapter 3.
+- **Silas looks away** when Alaric asks "Tell her Gerolt sent us?", so his silence about Marta's rule has a visible reason before the door.
+- **The forearm** is kept only at the tub. In the passage, Silas puts a hand up; during the guards, his hand is on Alaric's sleeve.
+- **"They meant Marta?" goes.** *His niece.* has already landed, and Silas's "His brother's daughter." adds what's new.
+- **Less choreography in the middle:** the second look through the wall door goes, "He listened before beckoning" joins the paragraph before it, the sack goes back to Silas in one sentence, and Silas listens at the far door instead of looking through another crack.
+- **Who ties the cord:** "…keeping his burned hand clear. Alaric tied the cord round it for him."
+
+**Not taken:**
+- "Was that why he'd wanted to take it himself?" already has its setup in Chapter 6 ("I'll take the sword to Marta and find out whether it's safe.").
+- 『Faint』 at first stayed plain "Faint", as in Chapter 1. **Overruled by the author (1 October):** "apply 『Faint』 to all chapter where it is used". Chapter 1 and Chapter 8 now write 『Faint』.
+
+**Still to answer:** the auctioned woman's own deliberate act, and whether Silas's explanation at the door should be shorter.
+
+## Claude's 100/100 review (1 October)
+
+The author asked what would make Chapter 8 a 100/100. Four points; the author agreed 2–4 ("the guard: keep it looked / the rest apply"). They're in the "100/100" section of `Chapter 8 - Changes (combined).md`. The chapter is 5,275 words.
+
+- **2. Lines for the reader:** the guards no longer give the inn's address ("Just inside the south gate"), and Marta no longer repeats the ban Silas has just confessed ("I told you I never wanted to see your face again"); "Did you think I didn't mean it?" now points back at it.
+- **3. The auctioned woman** has one act of her own: "She reached up and closed her hand round it, just under her chin. When he pulled again, it pulled her hand."
+- **4. "Looked":** 12 of the 13 proposed changes (the guard studying Silas's face keeps "looked", the author's choice). "Looked" goes from 26 to 13. "Silas saw them" became "Silas shortened Wena's lead again", to avoid "saw" twice in a row.
+
+**Still open:** point 1, Marta's "Where's—" at Wena before she sees Silas (Your call).
+
+## Error pass (1 October)
+
+At the author's request. Four fixes, in the "Error pass" section of `Chapter 8 - Changes (combined).md`; the chapter is 5,276 words.
+
+- Alaric was "behind" Silas at the lane a few lines after Silas walked beside him.
+- The guards left "across the yard", though they came in by the cart entrance and the loader followed them out of it.
+- "Asking about the cloth" could have meant Wena's lead; it's now the woman's cloth.
+- "The ground-floor windows went out. Only one stayed lit" contradicted itself; now "all but one at the back beside the door".
+
+## Three final passes (1 October)
+
+At the author's request ("Do 3 more final passes in order of chapter 8 to check"). Four changes, in `Chapter 8 - Changes (combined).md`; the chapter is 5,268 words.
+
+- **Pass 1, errors, POV slips and logic (2):** "Alaric's hand", not "His hand", straight after Silas speaks (the looks pass had left it pointing at Silas); "Alaric could hear", not "he", after Silas's line in the wait.
+- **Pass 2, vocabulary, rhythm and repeats (2):** "a gap between two houses" instead of "a house and a lean-to… Beyond the lean-to"; the inn's board no longer hangs "on a chain", a page after the auction's chain.
+- **Pass 3, consistency and house style (none needed):** checked against Chapter 6 (the cloak, the sack, the bedroll, the water skin, the burned palm, the ankle), the guards' voices, 『Faint』, spelling, quotes, dashes and swearing. The approved dialogue's "Alaric looked down at the sword" twice, "for a moment" once and "in the dark" once stay.

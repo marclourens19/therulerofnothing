@@ -677,6 +677,15 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - **The author's combined version (1 October)** is now the chapter, 5,331 words, with only house-style changes (`Volume 1/Chapter 8 - Changes (combined).md`). The version after the three passes is kept in `Drafts/` as Draft 2. Claude's six notes on it were agreed and applied (1 October): "Silas", not "the man"; "in the shadow of a doorway", not "eaves"; "The voices in the houses"; clear about which cart; the bed-tying paragraphs joined; and "Thanks, lad". Chapter 10 (Seralune) and Chapter 11 (the Faint quarter, Redd and Freya) remain working recommendations.
   - **Three passes on the combined version (1 October),** at the author's request: Pass 1 (errors, POV slips and logic, 11 changes), Pass 2 (vocabulary, rhythm and repeats, 3), Pass 3 (consistency and house style, 2), in `Volume 1/Chapter 8 - Changes (combined).md`. The chapter is 5,347 words.
   - **Keep "Th-that girl…"; the untagged dialogue runs stay (the author, 1 October).** A final pass of everything followed at the author's request: five changes ("faded little by little" rather than "fainter"; "round"; "the lights along the row"; "Silas stood there"; "the scraping started again"). The chapter is 5,343 words.
+  - **The review notes (1 October),** agreed by the author: eleven changes (the opening no longer replays Chapter 3; Silas looks away at "Tell her Gerolt sent us?"; the forearm only at the tub; "They meant Marta?" cut; the middle compressed; who ties the cord). Not taken: the sword thought has its setup in Chapter 6, and "Faint" stays without 『』 as in Chapters 1–7 (overruled the same day, below). The chapter is 5,286 words.
+  - **『Faint』 with corner brackets everywhere it's used** (the author, 1 October: "apply 『Faint』 to all chapter where it is used"). Applied in Chapter 1 (Gerolt, three times) and Chapter 8 (twice in Silas's line and once in Alaric's thought); Chapters 2–7 don't use the word. It's now house style, like 『Affinity』.
+  - **Claude's 100/100 review (1 October):** the author agreed points 2–4: the guards lose the inn's address, Marta doesn't repeat the ban, the auctioned woman closes her hand round the chain, and twelve "looked"s go (the guard's stays). Point 1, Marta's "Where's—", is still open. The chapter is 5,275 words.
+  - **Error pass (1 October),** at the author's request: four fixes (where Alaric walks at the lane; the guards leave by the cart entrance; the woman's cloth, not the lead; the last lit window). The chapter is 5,276 words.
+  - **Three final passes (1 October),** at the author's request: two POV fixes (whose hand; who hears the yard), two wording fixes (no "lean-to"; no chain on the inn's board), and nothing needed for consistency and house style. The chapter is 5,268 words.
+
+## Chapter 9
+
+- **Design started (1 October)** in `Volume 1/Chapter 9 - Design.md`: Marta's chapter, straight on from the slammed door, late on the night of Day 2. It proposes six scenes (the shut door; the guards; the kitchen; Empty; the price and the room; the double), and round 1 has 12 questions, with the "100/100" answer. Nothing in it is decided yet.
 
 ## Alaric
 

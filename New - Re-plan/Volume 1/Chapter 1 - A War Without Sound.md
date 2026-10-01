@@ -396,13 +396,13 @@ Gerolt said nothing.
 
 Gerolt was quiet long enough that the boy almost took it back.
 
-"I don't know which," he said finally. "That's the truth of it. I've seen men forget their wives. I've seen men forget the war. I've seen Faint who couldn't warm a cup of water to save their lives, and even they had something that answered when they called." He rubbed both palms against his knees, one more carefully than the other. "You're not Faint. You're…"
+"I don't know which," he said finally. "That's the truth of it. I've seen men forget their wives. I've seen men forget the war. I've seen 『Faint』 who couldn't warm a cup of water to save their lives, and even they had something that answered when they called." He rubbed both palms against his knees, one more carefully than the other. "You're not 『Faint』. You're…"
 
 He seemed to search for the word.
 
 "Empty?"
 
-When Gerolt spoke again, it was quieter, and not quite to the boy. "They test every child at ten. The ones who come up Faint get taken off their mothers, and they call it protection."
+When Gerolt spoke again, it was quieter, and not quite to the boy. "They test every child at ten. The ones who come up 『Faint』 get taken off their mothers, and they call it protection."
 
 "What about someone with none?"
 

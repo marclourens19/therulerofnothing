@@ -5,7 +5,8 @@
   "changes_file": "../Chapter 1 - Changes (author's revision).md",
   "intro_md": "1 October 2026. Your revision of Chapters 1–7, from the Word file *The Ruler of Nothing – Chapters 1-7*, put in house style (straight quotes, `---` for section breaks). The chapter as it stood before is saved as `Drafts/Chapter 1 - A War Without Sound (Draft 3, before the author's revision of 1 October).md`. Every change here is yours. The notes are Claude's reading of each one, and the questions are in `Chapters 1-7 - Review of the Author's Revision.md`.",
   "sections": {
-    "Your revision": "Your revision (1 October)"
+    "Your revision": "Your revision (1 October)",
+    "Typography": "Typography: 『Faint』 (1 October)"
   },
   "changes": [
     {
@@ -103,6 +104,30 @@
       "decision": "accepted",
       "decision_note": "Your edit, from the Word file of 1 October.",
       "decision_short": "your Word file."
+    },
+    {
+      "section": "Typography",
+      "title": "『Faint』",
+      "kind": "changed",
+      "tags": [],
+      "before": "\"I don't know which,\" he said finally. \"That's the truth of it. I've seen men forget their wives. I've seen men forget the war. I've seen Faint who couldn't warm a cup of water to save their lives, and even they had something that answered when they called.\" He rubbed both palms against his knees, one more carefully than the other. \"You're not Faint. You're…\"",
+      "after": "\"I don't know which,\" he said finally. \"That's the truth of it. I've seen men forget their wives. I've seen men forget the war. I've seen 『Faint』 who couldn't warm a cup of water to save their lives, and even they had something that answered when they called.\" He rubbed both palms against his knees, one more carefully than the other. \"You're not 『Faint』. You're…\"",
+      "why": "The author (1 October): \"apply 『Faint』 to all chapter where it is used\". The rank now takes corner brackets like 『Affinity』.",
+      "decision": "accepted",
+      "decision_note": "The author's request (1 October).",
+      "decision_short": "the author's request (1 October)."
+    },
+    {
+      "section": "Typography",
+      "title": "『Faint』",
+      "kind": "changed",
+      "tags": [],
+      "before": "When Gerolt spoke again, it was quieter, and not quite to the boy. \"They test every child at ten. The ones who come up Faint get taken off their mothers, and they call it protection.\"",
+      "after": "When Gerolt spoke again, it was quieter, and not quite to the boy. \"They test every child at ten. The ones who come up 『Faint』 get taken off their mothers, and they call it protection.\"",
+      "why": "The author (1 October): \"apply 『Faint』 to all chapter where it is used\". The rank now takes corner brackets like 『Affinity』.",
+      "decision": "accepted",
+      "decision_note": "The author's request (1 October).",
+      "decision_short": "the author's request (1 October)."
     }
   ]
 }
