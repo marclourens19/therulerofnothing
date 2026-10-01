@@ -2,6 +2,8 @@
 
 Started 30 September 2026. **Status (1 October):** the author's working design, `Chapter 8 - Working Design.md`, replaces the six-scene shape and round 1 below. The chapter is now the journey to Marta's door, and Marta herself moves to the next Alaric chapter. Claude's review of it and round 2 are at the end of this file. Round 1 is kept as a record; its Marta questions (E–H, J, K) move to the next Alaric chapter.
 
+**Status (1 October, later):** the author's updated working design (same file) answers round 2, answers A–F and two clarifications. They're recorded in Decisions. Round 3 is at the end of this file: when the guards go to Marta, two staging proposals, small checks, and the dialogue round that follows.
+
 **The target:** 4,000–5,000 words, and longer if the story needs it. Claude's estimate for the shape below is **4,500–5,500**. Chapters 5, 6 and 7 all came in a quarter under Claude's budgets, so read it as a range.
 
 ## Where it starts
@@ -205,4 +207,76 @@ With Marta in the next Alaric chapter, the order becomes: Chapter 9, Marta; Chap
 Later, as the design says.
 
 **Recorded from the design:** you dislike descriptions of horses' smell. That's now in Decisions and the skill.
+
+## How round 2 was answered (1 October)
+
+1. **Marta and the questioning:** guards mean to question her tonight, and Alaric brings her the first news of Gerolt's death.
+2. **The regional destroyer:** not a station over the border, as Claude suggested. Mydea's king granted it an operating territory to "watch over" Mydea, out of fear of Natharul. The working design keeps it away from Kelmend's everyday sight, which preserves Silas's shock.
+3. **The ships:** as recommended. Chapter 6's red, spined ship is the regional one, and Chapter 5's long, dark one is the king's.
+4. **The ending:** as recommended. The door opens and Marta recognises Silas behind Alaric.
+5. **The wall access:** Silas knows it, and the page doesn't say why. No past job.
+6. **Messages:** riders and ships, as recommended, with fast courier craft accepted in principle.
+7. **The search:** bring the boy in alive; the big dog identifies him.
+8. **The search on the page:** only through Alaric.
+9. **The outline:** Chapter 9 is Marta. Chapters 10 and 11 stay working recommendations.
+10. **Title:** later.
+
+Answers A–F added: the inn just inside the South Gate in a busy trading district with Faint auctions; going in at closing, late at night; a smaller craft; Marta's ban on Silas; Wena knowing Marta. All are in Decisions.
+
+## Claude's review: round 3
+
+The updated design is nearly ready to draft. Claude checked it against the chapters as they stand in the repo, which now include the nine changes agreed on 1 October:
+- Chapter 6 ends on "All those bodies. You said they were on Gerolt's land?", so beat 3 needs a new question.
+- Silas's promise ("we both go in, and you show her the sword yourself") and Alaric's "I won't" (wander off) are on the page.
+- Silas has a cloak, a sack and a rolled bed.
+
+One old line gains a new meaning from answer E (item 2).
+
+### 1. When the guards go to Marta
+
+This is the design's own open item. *Recommended:*
+- **The investigators arrive with the small craft at dusk** and take over from the scouts and the gate captain.
+- **During the evening the forest report reaches them:** Gerolt and the riders dead, the boy and the dog missing. A Kelmend guard who knew Gerolt supplies the niece; the couple at the fence call him "the old fool", so the town knows him. The delay is the day it took to find the bodies and carry the report, not anyone ignoring her.
+- **The officer orders her questioned tonight, "once she's closed",** so it isn't done in front of a full common room in a town already full of rumours about the ship. The old canon had this exact beat: soldiers at an inn said the scarred elf would question Marta after closing.
+- **The order reaches the two guards at the handover Alaric overhears** (beat 9): finish the round of the gate approaches they're already walking, then go to the inn after closing.
+- **So everyone is heading for the same moment, closing,** and the gap is the length of the guards' round. That's their own duty, not one invented to delay them.
+- **In Chapter 9 Alaric will know the two voices at the door:** the guard who approves of Gerolt and the one who's afraid.
+
+### 2. A 100/100 idea: the sword was Silas's way back to her door
+
+In Chapter 6, Silas planned to go alone: "I'll take the sword to Marta and find out whether it's safe." With answer E, that line changes. Gerolt's sword, and the news it carries, was the one thing that would make her open the door to him. Alaric took it from him ("He told *me* to show it to her"). So at the door, "Go on, Alaric. Knock." is Silas giving up his last reason to be let in.
+
+*Recommended (Your call):* when Silas says she told him not to come back, Alaric puts it together from what he's seen, in one thought: *That's why he wanted to take the sword himself.* The narrator never explains it; Alaric reasons it out.
+
+**One caution:** Decisions says Silas's love for her is never said on the page. This thought stops short of love; it only says Silas wanted a reason to stand at her door. If even that is too much, leave it for the reader to work out on a reread.
+
+### 3. Splitting up the pair the guards are looking for (Your call)
+
+The search is for "a boy with a big dog", and two travellers crossing a crowded market with a big dog fit it.
+
+*Recommended:* in the market, Silas takes Wena and Alaric walks a few steps apart. A man with a dog isn't a boy with a dog.
+- **It uses the search's own description,** so the crowd and the guards press against a real plan instead of luck.
+- **It costs Alaric something.** He hands Gerolt's dog to someone else, in a crowd, when she hasn't left his side since the river. It's the chapter's trust turn made physical.
+- **Wena may not go easily.** She pressed against his legs after the ogre. If she pulls back to him at the wrong moment, the pair is whole again in front of a patrol. That can be the market's close call, and it comes from the plan, not from chance.
+- **It puts Alaric alone when he sees the auction,** a few steps from Silas, so his reaction is his own and his question comes when they're together again.
+
+### 4. Small checks
+
+- **The small craft.** Chapter 6 ends with the destroyer already past the town, heading east towards the river. So the craft can't drop as the ship crosses the wall. Alaric sees it leave the ship far off and come back low towards Kelmend. That is beat 2's title made literal: the ship leaves people behind.
+- **The sword.** Silas's rolled bed can hide the blade, which leaves his cloak free to cover Alaric's strange clothes. If Alaric carries the roll, his hands are full when he needs one for Wena or the wall.
+- **The map.** The guards' round in item 1 sets it: the handover point, the gate approaches they walk, and the inn's front door at the end. Alaric and Silas come to the back.
+- **Length.** The budget is 5,850. Per-scene budgets have run about a quarter high, so expect 4,500–5,500.
+
+### 5. The dialogue round (next)
+
+Once items 1–3 are settled, these are the key exchanges. Your rough version of each first; Claude puts them into the characters' voices.
+
+1. Silas's new question about the field (beat 3), and Alaric's answer.
+2. Silas explaining the way in, and why they wait for closing (beat 4).
+3. Alaric telling Silas he can't keep the pace (beat 5).
+4. The two guards at the handover (beats 9–10): the angry one, the frightened one, the order about the niece, and the boy with the dog.
+5. Alaric's question to Silas after the auction (beat 13), and Silas's answer.
+6. Alaric learning Marta is Gerolt's niece, and saying he's afraid of bringing this to her door (beat 14).
+7. Silas at the door: "Go on, Alaric. Knock." (beat 15).
+8. Marta's first reaction to Silas (beat 16), the chapter's last line.
 

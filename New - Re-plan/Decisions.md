@@ -556,7 +556,7 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 - **The author's shape (30 September):** dawn, Silas waking him ("Up, boy…") and hinting he's coming along; the smoke behind them, and Alaric following far behind; Alaric pestering Silas like *A Realm Reborn*'s Alphinaud; Alaric slipping away to reach Kelmend alone with Wena and running into an **ogre**, which grabs him by the foot ("Can eat… food…") until Silas kills it ("Would it kill you just to listen for once"); then Kelmend's lights, and the Natharul king's warship passing overhead, massive, with both of them shocked. Round 2 is in the design file.
 - **Two new looks (the author's reference pictures, 30 September):**
   - **Ogres exist.** Huge, pale, pot-bellied, with a tusked underbite, clawed hands and rag bindings, carrying a spiked wooden club. They can speak a little. **They belong in the mountains** (the author's revision, 1 October: "What in the Last Dark is one doing this far from the mountains?"). *Open:* what else an ogre is in this world (question in round 2).
-  - **The royal warship looks like FFXIV's *Agrius*:** a huge red hull, spined and organic-looking, with dark spires hanging beneath it and small craft below. *To reconcile:* Chapter 5 describes it as "long and dark and plated all over" with blue-green light along its underside (round 2).
+  - **The royal warship looks like FFXIV's *Agrius*:** a huge red hull, spined and organic-looking, with dark spires hanging beneath it and small craft below. *To reconcile:* Chapter 5 describes it as "long and dark and plated all over" with blue-green light along its underside (round 2). *Reconciled (1 October): there are two destroyers. Chapter 6's ship, the red and spined one, is the regional destroyer; Chapter 5's long, dark ship is the king's. Both descriptions stand.*
 - **The author's detailed proposal (30 September)** is the working design, kept verbatim in `Volume 1/Chapter 6 - Design Proposal.md`: eight scenes, about 6,000 words, keeping the five beats. The turn is Silas's plan to take Gerolt's sword to Marta first while Alaric waits outside the town; Alaric leaves because of it. Alaric does two small things in the ogre fight, Wena isn't hurt, and afterwards Silas explains the route and agrees that, if it's clear, Alaric shows Marta the sword himself. Alaric gives his name ("It's Alaric, by the way."). *Proposed, not yet approved:* the details in round 2 of the design file (the ship's look and route, the ogre's nature, Silas's cost, Kelmend's response and others).
 - **The sequence (the author, 30 September):** 22 steps in reading order, now the chapter's shape (in the design file). Settled by it:
   - later morning, and he eats a little;
@@ -651,7 +651,20 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - **Two Natharul destroyers** (the author's direction). The king's, which Seralune watches leave in Chapter 5, and a regional one, which is the ship over Kelmend in Chapter 6. Names, insignia and other ship classes are undecided.
   - **The search behind it** (the author's chain): a neighbour saw Gerolt leave towards the forest with a boy and a dog; searchers find Gerolt and the riders' bodies; the boy and the dog are missing, so they're being looked for.
   - **Silas can't knock:** Marta won't open the door to him, so Alaric knocks.
-  - Still to settle: Claude's round 2 review, at the end of `Volume 1/Chapter 8 - Design.md` (ten questions).
+  - Claude's round 2 review was answered on 1 October (below).
+- **The updated working design (1 October)** replaces the first one, word for word, in the same file. It records the author's round 2 answers, answers A–F and two clarifications:
+  - **Marta doesn't know Gerolt is dead.** Guards mean to question her tonight, and Alaric brings her the first news (round 2).
+  - **The ending:** Alaric knocks, Marta opens the door and recognises Silas behind him, and her first reaction ends the chapter. The full meeting is Chapter 9 (round 2).
+  - **Reports travel physically** in Volume 1, by riders and ships; no fast magical messaging (round 2). Fast courier craft are accepted in principle; their speeds, routes and hours aren't set (answer C).
+  - **The regional destroyer** has an operating territory that Mydea's king granted so it can "watch over" Mydea, a concession made out of fear of Natharul's force (round 2). Its bounds and distance aren't set; the working design keeps it away from Kelmend's everyday sight, so the ship over Kelmend still shocks Silas.
+  - **The inn** is just inside the South Gate, in a busy trading district: Faint people sold at auction, gold changing hands for market wares, guards about, rumours of the ship. The inn is extremely busy as usual. Silas suggests going in when Marta closes, which is late at night (answer A and clarification).
+  - **A smaller craft** comes down after the destroyer passes (answer B).
+  - **The search:** bring the boy in alive for questioning. The big dog is what identifies him; the searchers don't have his name, a reliable face, his Empty status, or who Silas is (answer D).
+  - **Marta and Silas:** she is very angry with him. She told him never to show his face again, especially anywhere near Kelmend. It's her own instruction, not a warrant (answer E).
+  - **Wena knows Marta,** because Gerolt visited her often (answer F).
+  - **Only Faint people can be auctioned** (clarification). That's who is eligible, not a rule that every Faint person is owned.
+  - **No full appearance of Alaric's double** in Chapter 8 (see Alaric).
+  - Still to settle: round 3 at the end of `Volume 1/Chapter 8 - Design.md` (the questioning's timing, the staging, and the dialogue round). Chapter 10 (Seralune) and Chapter 11 (the Faint quarter, Redd and Freya) remain working recommendations.
 
 ## Alaric
 
@@ -665,6 +678,12 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 - **His habit** (27 September): "he likes to think a lot and keep emotions to himself instead of asking others for help."
 - *Claude's reading, to confirm:* the two fit together if the mouth runs inside his head and he keeps it shut outside. It spills out loud only when he's cornered, as in the Chapter 1 rant ("that is the whole list, Gerolt"). His panic keeps Subaru's shape (fast, repeating, calling himself useless) in words from his own world, since he isn't from ours.
 - **He isn't the ancient Alaric** (handoff §15.5). He begins blank and can choose who he becomes, even while he searches obsessively for who he was. The ancient promise doesn't bind him, and he owes Seralune no romance because of the past.
+- **The world-created double** (the author, 1 October; handoff (1 October) §21). Alaric sees an image of himself that accuses him of being evil and responsible for deaths, and it drives his hunger for his past; seeing it can cause severe headaches. Cloud and Sephiroth are the reference for its presence and pressure. Agreed:
+  1. It's an image the world creates. Alaric believes it's himself or his former self; it is not the ancient Alaric returning.
+  2. Its basis is the world's damaged corrective process, not a conscious deity.
+  3. The world seeks one individual: their shared soul made into the single being it intended, instead of two people. That's what they refuse at the end.
+  - **Where it starts (accepted, handoff §23):** no full appearance in Chapters 1–8, and nothing added to the existing chapters. The first full encounter comes after Marta offers genuine help, currently in Chapter 9. Before it, he needs a believable glimpse of his own face, such as while washing at the inn.
+  - **Working limits, not yet ruled:** only Alaric sees it, while others see his pain; it can't move objects or control him; it knows only what his perception, surviving fragments and ancient traces give it; true details can come with false verdicts. The genuine reaching-hand and name fragments stay genuine.
 
 ## Seralune
 
@@ -710,7 +729,11 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 
 - **Gerolt's niece** (agreed 26 September, for Chapter 2). She keeps the inn by Kelmend's south gate.
 - **Her father was Gerolt's brother,** and he died in Silas's gorge. That's part of why Gerolt is angry with Silas.
-- Everything else about her is still to be decided.
+- **Her inn** is just inside the South Gate, in Kelmend's busy trading district. It's extremely busy as usual, and she closes late at night (1 October, Chapter 8 answers A and clarification).
+- **She told Silas never to show his face again,** especially anywhere near Kelmend, and she's very angry with him (answer E).
+- **Wena knows her:** Gerolt visited often (answer F).
+- **When Alaric reaches her door she doesn't know Gerolt is dead.** He brings her the first news (Chapter 8, round 2).
+- Her age, look, Affinity, manner, and her part in Darcy's story are still to be decided, with Chapter 9.
 
 ## Thaeroval
 
@@ -929,6 +952,9 @@ Not in the central cast yet, and not locked (handoff §7, §14.3).
 - **How the king is evil (Option A, chosen):** he chose his strings. He handed the church the kingdom, and bowed to Natharul, to keep his throne and his comfort. Every law carries his seal; he could stop any of it and never does. His existing footprint in Volume 1:
   - "The king's got the palace." (Chapter 25)
   - "The king bowed first. In his own hall." (Chapters 26, 27 and 30)
+- **Faint auctions** (1 October): only Faint people can be sold at auction, as in the market inside Kelmend's South Gate. Ages, buyers and the legal mechanism aren't set.
+- **The regional destroyer's territory** (1 October): Mydea's king granted Natharul's regional destroyer an operating territory to "watch over" Mydea, out of fear of Natharul's force. It's out of Kelmend's everyday sight.
+- **Reports travel physically** in Volume 1 (1 October): riders, ships, and fast courier craft in principle. No instant magical messages.
 - **Natharul's scouts:** under the agreement between Mydea's king and Natharul, Natharul scouts are all over Mydea, all the time, scouting everywhere. They are never seen. That's the rule, to keep people calm.
 
 ### Avarice (formerly the Broken Shield network)

@@ -4,29 +4,57 @@
 
 **Prepared:** 1 October 2026.
 
-**Status:** Consolidated from the author's latest discussion and the current Chapters 1–7. The author has chosen the journey to Marta's door as this chapter's scope, proposed two Natharul destroyers, and supplied the neighbour-and-bodies chain behind the search. Details introduced below to stage those choices are recommendations until confirmed. This is a design for review, not a drafted chapter or a declaration that all staging is settled.
+**Status:** Updated after the author's A–F staging answers and subsequent two clarifications on 1 October 2026. Marta's inn is just inside the South Gate and closes late at night. Its bustling trading district includes auctions restricted to 『Faint』 people. A smaller craft descends, fast physical couriers are accepted in principle, the boy is wanted alive, Marta has explicitly forbidden Silas to return, and Wena knows her through Gerolt's frequent visits. The officials' interview timetable still needs to fit the closing arrival. Other staging recommendations remain marked for review.
+
+**Resumed later on 1 October:** the author accepted the Alaric-double incorporation plan and asked to return to this design. The first full encounter follows genuine help from Marta, currently in Chapter 9. No full apparition is inserted into Chapter 8. Section 14 records the latest author answers and separates them from the remaining recommendations.
 
 **Viewpoint:** Alaric throughout, close third person.
 
-**Time:** Dusk into night on Day 2. Continue directly from Chapter 6, “The Words of the Dead.” Chapter 7 follows Seralune earlier on Day 2; Chapter 8 returns to Alaric's later timeline.
+**Time:** Dusk into late night on Day 2, directly after Chapter 6, “The Words of the Dead.” Marta closes late at night; Silas proposes approaching at closing. No wait until dawn is part of the current design. Chapter 7 follows Seralune earlier on Day 2; Chapter 8 returns to Alaric's later timeline.
 
 **Opening:** Alaric takes Wena into the trees at Silas's instruction while the destroyer continues east.
 
-**Ending:** Alaric stands at Marta's door. Silas admits she will not answer the door for him and asks Alaric to knock. Recommended final action: Alaric knocks; her response begins the next Alaric chapter.
+**Ending — approved:** Alaric knocks at Marta's door. She opens it and recognises Silas behind him. Her first reaction ends Chapter 8; the full encounter continues in Chapter 9. She does not yet know Gerolt is dead. Alaric brings her the first news.
 
-**Length:** A working estimate of 4,500–6,000 words. The illustrative scene budget below totals 5,200. Length follows the decisions and conversations; the budget is not a quota.
+**Length:** A working estimate of 5,000–6,500 words. The illustrative scene budget below totals 5,850. Length follows the decisions, conversations and experience of the trading district; the budget is not a quota. An overnight wait does not require narrating every hour.
+
+### Author-approved round 2 decisions
+
+| Decision | Approved direction |
+|---|---|
+| Marta's knowledge | She does not know Gerolt is dead. Guards intend to question her tonight; Alaric brings her the first news. |
+| Chapter ending | The door opens and Marta recognises Silas behind Alaric. Her reaction ends the chapter. |
+| Communication in Volume 1 | Official reports and orders travel physically, by riders and ships. No fast magical messaging supplies this plot. |
+| Regional destroyer | Mydea's king has granted it an operating territory where it may remain to “watch over” Mydea. Fear of Natharul's overwhelming force underlies the concession. |
+
+The territory answer does not establish a land border or a sea-crossing distance. It also does not automatically transfer ownership of Mydean land to Natharul. Those are separate geography and sovereignty decisions.
+
+### Author-approved A–F staging answers
+
+| Answer | Author's direction |
+|---|---|
+| A — Inn and surrounding district | The inn is just after entering through the South Gate. The district is a bustling trade hub: 『Faint』 people are sold at auction, gold changes hands for market wares, guards roam, and rumours about Natharul's ship spread. Marta's inn is extremely busy as usual. Silas suggests entering at closing. The author subsequently clarified that closing is late at night. |
+| B — Arrival | A smaller craft descends after the destroyer's passage. |
+| C — Reporting | The recommendation for fast physical courier craft is accepted in principle. Exact routes, distances and travel hours remain unset. |
+| D — Search | Bring the boy in alive for questioning. A large dog identifies his companion; the searchers lack a reliable face, his name, his Empty status and a confirmed identification of Silas. |
+| E — Marta and Silas | Marta is very angry with him. She previously told him never to show his face again, especially anywhere near Kelmend. |
+| F — Wena and Marta | Wena knows Marta. Gerolt visited her often. |
+
+**Subsequent clarifications — approved:** Marta closes late at night. Only 『Faint』 people can be auctioned; other Affinity ranks are not eligible for these sales. This establishes the eligible rank, not a rule that every Faint person is automatically owned.
+
+These answers do not settle the maintenance opening's construction, the remaining auction law, courier speeds, a numerical closing hour or the timing of Marta's interview. Keep those distinctions in subsequent designs.
 
 ## 1. The chapter's purpose
 
 Alaric and Silas try to reach the person Gerolt trusted while an investigation is turning scattered observations into a search for a boy and a dog.
 
-The chapter should feel tense, close and suffocating. The route becomes progressively harder to leave: exposed ground, occupied houses, a restricted entrance, nearby guards, narrow streets, and finally a private door. A small mistake could expose Alaric or Wena.
+The chapter should feel tense, close and suffocating. The route becomes progressively harder to leave: exposed ground, occupied houses, a restricted entrance, nearby guards, crowded trading streets, and finally a private door. A small mistake could expose Alaric or Wena. Commerce continues around them; carts, customers, buyers and patrols constrain movement without turning Kelmend into an empty town.
 
 The danger changes their relationship. Chapter 6 has already established that Silas will explain practical decisions and that Alaric can wait when he is given a reason. Chapter 8 puts that agreement under sustained pressure. They begin sharing the work of getting through, with Alaric contributing without acquiring implausible expertise.
 
 At the destination, Silas's competence reaches a limit. He knows the route, but cannot promise Marta will welcome him. Alaric must speak for himself, as Gerolt instructed.
 
-Marta's reception, her grief, the Affinity examination, Darcy and decisions about shelter belong to the next encounter. They should not be crowded into this journey.
+Marta's first recognition belongs to this chapter's ending. Her fuller reception, Gerolt's death, her grief, any Affinity examination, Darcy and decisions about shelter belong to Chapter 9.
 
 ## 2. What carries forward from the manuscript
 
@@ -41,7 +69,8 @@ Marta's reception, her grief, the Affinity examination, Darcy and decisions abou
 - Chapter 6's ship passes over Kelmend and continues east towards the river. Silas calls it “Natharul's,” not the king's ship.
 - Guards at the bridge already cooperate with a Natharul rider in Chapter 3. This cooperation does not begin with the destroyer's arrival.
 - The couple repairing their fence in Chapter 6 still thinks Gerolt may be burning his field. Preserve their ignorance.
-- Marta is Gerolt's niece in the current Decisions. Her other character details remain unsettled. Alaric has not yet been told that family connection on the page.
+- Marta is Gerolt's niece in the current Decisions. She runs a very busy inn just inside the South Gate and has explicitly forbidden Silas to return. Wena knows her through Gerolt's frequent visits. Marta's appearance, Affinity and fuller response to Alaric remain unsettled. Alaric has not yet been told that family connection on the page.
+- During Chapter 8 Alaric learns that investigators intend to question Gerolt's niece at the inn. Marta has received neither the death news nor that questioning visit when he arrives.
 
 ## 3. The two destroyers
 
@@ -50,15 +79,23 @@ The author's new direction gives Natharul two battle-class destroyers. Names, in
 | Vessel | Location and role | Connection to the chapters |
 |---|---|---|
 | King's destroyer | Leaves Natharul carrying the king towards Mydea for a personal investigation. | The ship Seralune sees departing in Chapter 5. |
-| Regional destroyer | Already deployed in Mydea and alerted by the king to investigate around Kelmend and the battlefield. | Recommended identity of the ship Alaric sees in Chapter 6. |
+| Regional destroyer | Remains within an operating territory permitted by Mydea's king, and is sent to investigate around Kelmend and the battlefield. | The regional vessel in the Chapter 6/Chapter 8 working design. The physical delivery of its orders still needs timing. |
 
 This arrangement removes the requirement for the king himself to arrive by Day 2's dusk. It does not remove the need for consistent communication and travel rules.
 
-**Recommended staging:** the regional destroyer continues towards the battlefield while a smaller craft takes an investigating party into Kelmend. Chapter 8 can reveal the smaller craft after the great vessel is moving away. The ship's passage in Chapter 6 therefore remains intact.
+**Approved staging:** a smaller craft descends while the regional destroyer continues east as Chapter 6 shows. Its delivery of investigators remains the working purpose of the descent. Chapter 8 reveals it after the great vessel is moving away, preserving Chapter 6's focus on the enormous ship. The author has not supplied another vessel name, hull class or numerical speed.
 
 Alaric sees a descent or arrival and later encounters the resulting activity. He cannot know the officers' full orders, the king's location or the identity of both ships merely by looking at them. A practical remark about preparing reports before the king arrives could distinguish the vessels later, if it arises naturally. Do not insert a fleet explanation at the opening.
 
-**Recommended reason for the regional deployment:** a military anchorage permitted by Mydea's king. This extends the existing political agreement and needs confirmation. Scouts normally remain concealed in the countryside; an authorised military station has a different function. The present intervention makes Natharul's influence newly visible near Kelmend.
+**Approved political arrangement:** Mydea's king permits the destroyer to remain in an assigned territory to “watch over” the kingdom. The concession rests on fear of what Natharul could do if Mydea opposed it. The fleet does not need a station on Natharul's side of an invented land border.
+
+Preserve the earlier decision that Mydea's king chooses cooperation to protect his throne and comfort. Fear can explain the concession without excusing every oppressive policy he authorises. His responsibility and the limits imposed by Natharul can both remain real.
+
+**Recommended staging to preserve Chapter 6:** its usual operating territory lies away from Kelmend's everyday sightlines. Exact bounds, facilities and distance remain unset. The ship's open intervention over Kelmend shocks Silas even if he knows Natharul already has military influence in Mydea. A public military base beside Kelmend is not established.
+
+The current secrecy rule concerns Natharul's scouts, who normally operate unseen. It does not say every vessel everywhere is invisible. Keep the distinction between the permitted deployment area, concealed scouting, and this conspicuous intervention. People in authority can know the arrangement without every resident understanding its extent.
+
+Retain both existing ship descriptions. Chapter 6's regional vessel has red plating, spines and blue-green light. Chapter 5's royal vessel is long, dark and plated, seen at night. The descriptions do not require newly invented hull differences to be consistent.
 
 ## 4. The investigation behind the journey — author knowledge
 
@@ -100,21 +137,41 @@ Gerolt also used a sword. Blade wounds alone do not prove that a second fighter 
 
 Ground reports reach Kelmend and the regional officers. Gates, river approaches and establishments receiving strangers become likely places to look. They do not yet know Alaric intends to visit Marta.
 
-**Recommended operational order:** locate and detain the missing boy alive for questioning. He may know something about the field or the resistance at the house. Gerolt can no longer answer them. This deliberate investigation can follow an earlier, more violent pursuit without pretending the searchers always had identical orders.
+Local inquiries identify Marta as Gerolt's niece and the inn as a place to question. Guards intend to visit her tonight. That does not mean they know Gerolt sent Alaric there, know Silas is with him, or have already told her about the death. A local resident supplying the relationship is the recommended source; do not invent an exhaustive state family register solely for this step.
+
+**Timing requirement:** establish when this relationship reaches the officers and when the interview is assigned. A late Day 2 report can make a night visit credible. If officials know early in the morning, postponing the family inquiry until night needs a practical explanation. Marta's ignorance cannot depend on every other character delaying information for the scene's benefit.
+
+**Open visit staging:** officials intend to question Marta tonight, while Silas proposes waiting until her busy inn closes late that night. Alaric must reach her first. The closing clarification makes both events possible during the same night, but does not establish their order automatically. Section 14 recommends a late assignment of the family inquiry, followed by the visit after the travellers arrive. Its cause and timing remain working staging, not an approved delay by officials.
+
+The local inquiry can begin before the destroyer arrives. Chapter 3's bridge already establishes cooperation between Mydean guards and Natharul's riders. The ship intensifies and gives conspicuous weight to an existing investigation.
+
+**Approved operational order:** locate and detain the missing boy alive for questioning. He may know something about the field or the resistance at the house. Gerolt can no longer answer them. This deliberate investigation can follow an earlier, more violent pursuit without pretending the searchers always had identical orders. Wena is the identifying companion. Her exact treatment during a detention has not been specified; no order to kill her is established.
 
 Liluth's anger, the king's deeper concern and Mydean officials' fear of failing can provide different motives. No ordinary guard needs to know the ancient truth. The public accusation must not certify Alaric's guilt: he killed none of these elves.
 
-## 5. Reporting rules that still need setting
+## 5. Communication — approved rule and remaining timetable
 
-**Working recommendation:** adapt the older manuscript's written crystal-message device into a restricted official system. Scouts bring reports to regional posts; operators transmit short dispatches to the court or authorised ships. Local patrols continue relying on riders and horns.
+**Approved:** reports and orders in Volume 1 travel physically by riders and ships. The older crystal-message device is not used to deliver these reports. Local horns can signal an alarm; they cannot convey a detailed description or a royal dispatch.
 
-The device's availability, recipients and timing are not yet current canon. The investigation must retain delays, incomplete descriptions and people who have not received the latest instructions.
+The assigned territory gives the regional destroyer a place where a messenger can find it. It does not make the message instantaneous. A courier still needs a route and a means of handing the report to the vessel. An airborne ship is not automatically within reach of a horseman.
 
-Fast communication also affects reports of Seralune's escape. Decide when the king learns and why he continues or changes course. A proposed answer is that he delegates her recovery to Thaer while prioritising the field; this remains unapproved and must be checked against the palace events. Do not make him ignorant through an unexplained failure of a system used efficiently elsewhere.
+**Accepted in principle in answer C:** fast physical courier craft can travel considerably faster than the destroyers and carry the reports and dispatches needed within the available day-to-day sequence. This approves the means of delivery, not invented flight times. Before drafting any precise chronology, fit the field-to-court and court-to-territory legs into the interval between the field's discovery and the royal departure/Day 2 intervention. The Chapter 8 landing craft is not automatically the same craft used for those earlier deliveries.
+
+| Required leg | What must be true | Still to establish |
+|---|---|---|
+| Field to Natharul's court | News of the dead elves reaches the king before his departure on Day 1. | Discovery/report time, courier route and travel duration. |
+| Court to regional deployment territory | The king's physical instructions reach the regional commander before the ship sets out for its Day 2 intervention. | Dispatch time, carrying vessel or rider/ship transfer, and delivery duration. |
+| Deployment territory to Kelmend | The regional destroyer reaches Kelmend at Chapter 6's dusk. | Position of the territory and flight duration. |
+| Farm and forest inquiries to Kelmend | The boy-and-dog information and Marta's relationship reach the relevant officers during Day 2. | When bodies and witnesses are found, local messenger route, and interview assignment time. |
+| Palace to the travelling king | News of Seralune's escape has to reach him through a physical delivery opportunity. | Whether a courier ship can intercept him or the news waits at a destination. |
+
+Current Decisions say an ordinary rider cannot catch the royal ship after it has departed. Preserve that. The king can be unaware of Seralune's escape while travelling, but the duration of that ignorance follows from the reporting route.
+
+Standing orders allowing the regional commander to respond before receiving a fresh royal dispatch remain an alternative for discussion if the timetable fails. They are not approved and do not silently replace the author's earlier direction that the king alerted the second ship.
 
 ## 6. Kelmend's restrictions
 
-Kelmend remains inhabited and active. The pressure comes from procedures that make ordinary movement dangerous for these travellers.
+Kelmend is a bustling trade hub. Near the South Gate, wares are sold for gold, 『Faint』 people are auctioned, Marta's inn is busy as usual, guards roam and rumours of Natharul's ship spread. The pressure comes from patrols and inquiries operating within this activity.
 
 Recommended temporary measures:
 
@@ -126,23 +183,27 @@ Recommended temporary measures:
 
 Do not introduce universal magical detection, a complete public dossier, or omniscient guards. Formal travel documents or residency requirements need confirmation before becoming a crucial obstacle.
 
+Do not empty the streets with an unapproved universal curfew. Crowds can conceal a face or cover quiet speech while also slowing an injured traveller, drawing attention to a large dog, and putting carts or spectators across a needed route. A patrol can continue its search while traders continue making money. Rumours differ between speakers; the crowd does not know the fleet's full orders.
+
+**Auction boundary — approved:** only 『Faint』 people can be auctioned. Other ranks are not eligible for these sales. Age rules, the legal mechanism, buyers and the circumstances that make a particular person subject to sale are not defined. Do not turn rank eligibility into a rule that every Faint person is already property. The auction is in the trading district; these answers do not establish that Marta organises it or sells people herself. Alaric's Empty condition is not automatically a recognised legal category covered by this rule.
+
 Mydean guards can resent Natharul while still carrying out the search. Their fear of punishment does not automatically make them sympathetic to Alaric. Some can care about the people affected while choosing to protect themselves.
 
-## 7. Recommended geography for review
+## 7. Approved destination and working access
 
-The current chapters place Marta's inn by the south gate but do not establish which side of the wall it occupies.
+**Approved:** Marta's inn is just after the South Gate entrance, inside the town and within its busy trading district. Reaching the gate area should bring them close to their destination; do not make them cross most of Kelmend after getting through the southern wall.
 
-**Concrete recommendation for this design:** put the inn just inside the southern wall. The lower houses seen outside the wall in Chapter 6 form the outer part of the Faint quarter. Silas knows a former maintenance access through the wall from earlier work; it opens into a workshop or storage building with access to service lanes.
+**Retained working access:** the lower houses seen outside the wall in Chapter 6 form the outer part of the Faint quarter. Silas knows a former maintenance access through the wall; it opens into a workshop or storage building with access to service lanes. Why he knows it is not stated. The earlier suggestion of a past job in Kelmend is removed. Answer A settles the inn's location; it does not independently settle the opening's construction or fastening.
 
 The crossing should be short and physically understandable. An altered fastening or removable barrier must have a history and a visible method of opening. There is no newly invented key, helpful stranger, magical override or convenient unguarded main gate.
 
 The route is:
 
-**Trees above Kelmend → field boundary → outer houses along the south wall → old wall access → inner workshop/service yard → occupied lanes near the gate → Marta's private rear entrance.**
+**Trees above Kelmend → field boundary → outer houses along the south wall → short old wall access → inner workshop/service yard → crowded trade streets immediately inside the South Gate → Marta's private rear entrance.**
 
 The interior workshop and yard need a simple layout, including the alternative exit used when the expected lane is occupied. Establish that exit before it becomes necessary. The brief crossing gives way quickly to houses, yards and streets, so the chapter has a distinct sensory experience from Seralune's aqueduct entrance.
 
-This geography is a recommendation, not recovered canon. If the inn is placed outside the wall instead, remove the wall crossing and use a restricted route through the outer quarter. Choose one map before drafting.
+The inside-gate destination is settled. The short crossing and workshop layout remain working staging to verify physically before drafting. Keep the public market, the inn's customer entrance and its private entrance distinct on the map.
 
 ## 8. The sequence — sixteen beats
 
@@ -154,7 +215,7 @@ The awe has passed. Alaric wants to know whether they can still reach Marta toni
 
 ### 2. The ship leaves people behind
 
-They wait for the regional destroyer to move away. Recommended staging lets them observe the smaller craft descending towards Kelmend after the great ship has passed.
+They wait for the regional destroyer to move away. The approved smaller craft descends towards Kelmend after the great ship has passed. Its precise landing place must be visible from their position or later inferred from ground activity; Alaric cannot see through the town's roofs.
 
 Alaric initially expects the departure to help. The bell, moving torches and arrival below suggest otherwise. Silas studies what changes instead of announcing a complete explanation.
 
@@ -169,6 +230,8 @@ No full battlefield recap, interrogation transcript or declaration that Silas no
 ### 4. The route is explained
 
 Silas tells Alaric he has found an approach along the southern wall and explains enough of it to make cooperation possible. Distinguish the route he knows from the current guard positions he has just observed.
+
+He also proposes approaching Marta when the inn closes late that night. Her inn is usually crowded, and they should not walk into its common room with an exposed sword and the dog being sought. Explain the practical reason for the wait without revealing all his history with Marta here. The officials' interview still needs to fit after their arrival; the closing period itself is now settled.
 
 Alaric asks practical questions about Wena, the sword or what to do if they are separated. Silas answers the questions that affect their immediate movement. His speech can be brief under danger, but should respond to Alaric rather than recite an outline.
 
@@ -212,11 +275,15 @@ They have a practical reason to remain close enough to hear guards: those guards
 
 One guard is angry about Natharul and privately approves of Gerolt's resistance. The other fears reprisals and wants to finish the task without attracting dangerous attention. Their exchange includes an ordinary work concern, interruption or disagreement that is not selected for Alaric's benefit.
 
-Use Gerolt's name or “the farmer” here. Calling him “Marta's uncle” would reveal the relationship and make her an obvious person to question; use that only if those consequences are deliberately wanted.
+The assignment includes questioning the farmer's niece at the inn tonight. This deliberately brings Marta into the investigation. Alaric either hears enough to identify her or asks Silas once they can speak safely. He learns their family connection here.
+
+The visit creates a deadline only when its timing is established. Do not have a guard announce an immediate departure for a nearby inn while the travellers still have hours of waiting ahead. Retain the intended late-night closing arrival. The working recommendation is for this handover to occur near closing, after the confirmed death report and family connection have recently reached the responsible officer. The inn is assigned promptly, with the patrol's position and route leaving a modest interval for Alaric to arrive and speak. Do not append unrelated duties solely to postpone the interview.
+
+The conversation has a present purpose: assigning or disputing duties, passing on a report, or dealing with a late relief. It need not repeat the whole investigation. Use the pending interview and the boy-and-dog instruction as its principal information; drop optional corpse details or helper rumours if they turn the exchange into a briefing for Alaric.
 
 ### 10. The boy and dog are mentioned
 
-The exchange contains limited search information: the farmer has been found, or the guards are to watch for a boy with a dog. Both can be present if the conversation earns them, but avoid a complete account of the investigation.
+The exchange gives the guards' usable instruction to watch for a boy with a large dog and bring the boy in alive. Their information comes from witness reports, not Liluth having seen his face. They do not know his name, Empty status or Silas's identity.
 
 Hearing the description changes Alaric's task. Wena is recognisable evidence as well as his companion. His hand on her collar or lead can carry that pressure without a second explanation of his guilt.
 
@@ -232,25 +299,39 @@ He can notice a practical problem from his position and alert Silas, or catch th
 
 If an actual noise is made, let the guard respond credibly. Their escape must follow from usable cover and their actions; no convenient bell, animal or sudden summons rescues them. They may lose time or their easier exit.
 
-### 12. Through streets where they can be seen
+### 12. Into the South Gate trading district
 
-They move into occupied lanes near the gate. There are witnesses as well as patrols. Alaric has to resist looking at every person who glances towards him.
+They move into the busy streets just inside the gate. People bargain over wares and exchange gold. Carts, deliveries, customers and spectators have destinations of their own. Marta's inn is nearby; the remaining distance is short, but the right gap through the crowd is hard to find.
 
-Show a modest contrast in how authority treats residents if the opportunity arises. Do not identify exact ranks from clothing alone or give a caste-law lecture. One ordinary use of Affinity can appear if it belongs naturally to someone's work; it must not become another test of Alaric.
+Let a concrete movement create pressure: a cart blocks a view and then moves, a queue narrows the lane, or a patrol approaches while they cannot change direction easily. Choose a connected obstruction instead of adding several interchangeable scares. Alaric's ankle, Wena and the sword matter to how they get through.
+
+Rumours of Natharul's ship pass between people who have different concerns: interrupted deliveries, inspections, an unfamiliar arrival, or the risk of soldiers staying. Some accounts are wrong. One overheard remark can change the mood without supplying the entire political explanation.
+
+Show a contrast in how authority treats residents where it affects an actual interaction. Do not identify ranks from clothing alone. One ordinary use of Affinity can belong to someone's work without becoming another test of Alaric.
 
 Their pace and positioning show the relationship's change: Alaric stays within reach, asks when needed, and accepts a reasoned direction. Silas gives him work and responds to what he notices.
 
-### 13. The cost of seeking shelter
+### 13. People being sold
 
-In a brief place of cover, Alaric considers the person at the end of the route. He needs Marta's help and is afraid of bringing the search to another house.
+The auction takes place within this commercial district and concerns 『Faint』 people only. Alaric can hear bids, see money accepted and watch a person led towards a buyer. A spoken assessment or his exchange with Silas can establish the rank; he does not somehow detect a stranger's rank by looking at them.
 
-Allow a short, responsive exchange. Silas cannot guarantee her safety or her welcome. He can explain the immediate precautions and keep moving with him. Neither gives a polished speech about sacrifice, worth or what Gerolt would want.
+Give one person being sold an observable act with a purpose: speaking to someone, trying to retain a possession, looking for a familiar face, or resisting an instruction. Choose the detail during drafting; none of these examples is approved canon. The person has a life beyond making Alaric feel guilty. Avoid an inventory of suffering or a sale designed solely to produce a rescue subplot.
 
-Alaric chooses to continue. Continuing lets him seek help despite fear; do not make offering to disappear the price of being worthy of shelter.
+Alaric's response needs room. He can ask Silas a direct, unsettled question while they keep moving. Silas gives him a useful answer about what he is seeing; his urgency can remain visible without treating compassion as stupidity. Gerolt's explanation about weak children being taken under “protection” can acquire a more disturbing meaning, but the narration must not assume that every legal connection has already been established.
 
-### 14. Find the inn and check the approach
+His lack of immediate power to stop the sale is concrete: he is injured, being searched for, responsible for Wena, and has no plan that would get that person safely away. This does not require a stock lecture about accepting how the world works. The chapter need not settle his response to the institution forever.
 
-The inn becomes a specific establishment through what Alaric can see and hear: people working, food, light, arrivals or departures. The contrast with his condition supplies relief without ending the danger.
+Keep the encounter proportionate to the journey while giving it emotional consequence. The market becomes more than cover for a chase: Alaric sees how this society treats people whose power does not protect them. It should leave a specific impression he can carry into later chapters.
+
+### 14. The busy inn and the wait
+
+Marta's inn is extremely busy as usual. Customers, workers, food, light, arrivals and departures make it a specific establishment. Alaric can want a place inside while having to remain out of sight. Its activity does not guarantee safety for him or welcome from her.
+
+Silas checks a place from which they can approach the private entrance at closing. The author intends the closing arrival; do not substitute a completely different hour without approval. A credible waiting place needs cover, distance from other people, enough room for Wena and a way to observe the inn. Do not grant them an unused room, a cooperative worker or a conveniently abandoned yard without establishing it.
+
+Build the late-night closing interval around what changes: customers leave, a patrol shifts, a worker comes out, or an approach becomes usable. The interview timetable must still leave time for their approach. Compress uneventful hours. Do not sustain identical panic through a long vigil or pretend Alaric's hunger and exhaustion reset during it.
+
+Here Alaric can ask whether Marta is Gerolt's niece if the earlier handover did not settle it. Silas answers. Alaric has to bring death news to someone who loved Gerolt, and finding the wanted boy inside her inn would expose her to additional danger beyond the planned interview. A brief, responsive conversation lets him choose to continue without a polished speech about what Gerolt would want. Silas cannot guarantee her safety or welcome.
 
 Silas checks the approach before bringing him to the private entrance, following through on Chapter 6. If he moves ahead briefly, he states what he is checking and remains accountable. This is a practical action, not another major test of whether Alaric will obey.
 
@@ -262,6 +343,8 @@ At the private rear door, Silas hesitates or steps aside. This is a change from 
 
 He asks Alaric to knock because Marta will not answer for him. Alaric notices that Silas expected a difficulty he did not fully explain.
 
+**Approved backstory for this moment:** she told him never to show his face again, especially anywhere near Kelmend. His reluctance concerns a specific boundary she set. These answers do not establish a legal ban or an official search for Silas.
+
 Preserve the actual promise from Chapter 6. Silas must not claim he promised only to deliver Alaric to the door. He remains with him and intends to support his entry, while acknowledging that Marta controls her own threshold. His wish for an audience must not erase Alaric's right to present the sword and tell his story.
 
 **Provisional dialogue anchor, for a later voice pass:**
@@ -270,17 +353,23 @@ Preserve the actual promise from Chapter 6. Silas must not claim he promised onl
 >
 > “What about you?”
 >
-> “I'm not going anywhere. But she won't open it for me.”
+> “I'm staying. She told me not to come back, Alaric. She sees me first, she won't hear either of us.”
 
-This exchange is a starting point, not approved final dialogue. Check whether Alaric needs to refer explicitly to the earlier promise. Give Silas's reluctance a visible circumstance without diagnosing his entire relationship with Marta from Alaric's viewpoint.
+This exchange is a starting point, not approved final dialogue. The exact line needs a voice pass; the newly approved ban supplies its factual basis. Check whether Alaric needs to refer explicitly to the earlier promise. Silas stays visibly present, and Alaric is there on Gerolt's own instruction. Asking him to knock must not become a scheme to obtain forgiveness through a frightened boy. Marta can refuse Silas even if she hears Alaric.
 
-### 16. Alaric knocks
+### 16. The door opens
 
 Alaric has Gerolt's sword and the message he must give. Track who holds Wena before he frees a hand. Silas can take the lead with his usable hand, keeping himself visibly present.
 
 The pressure now concerns speaking: he is about to tell a stranger that the man who sent him is dead. Keep any immediate thought brief and personal. No invented prophecy, near-capture at the last instant or decorative explanation of the door's symbolism.
 
-Recommended ending: his knock. Marta's first answer opens the following Alaric chapter. Do not delay that encounter with an explanatory search interlude.
+**Approved ending:** Alaric knocks. Marta opens the door and recognises Silas behind him. Her first reaction ends Chapter 8. The full encounter continues in Chapter 9, where Alaric brings her the first news of Gerolt's death.
+
+Stage the opening credibly at a private entrance during a search. Any preliminary question through the door must receive an answer Marta can act on. Wena's familiarity is now approved: Gerolt visited often. The dog can respond to Marta's voice or presence, and Marta can recognise her once she can see or otherwise identify her. This gives the opening a personal basis without certifying a stranger's safety or revealing Gerolt's death before Alaric speaks.
+
+Alaric is at the front and Silas remains behind or beside him, so she can notice him beyond the person who knocked. Her recognition is very angry, grounded in the explicit instruction he has broken. Give it an observable response in her voice, not a label explaining her whole emotional history. Concern for the dog or boy may coexist with that anger, but must not erase it. Do not add the death revelation before the cut.
+
+The door opening does not yet settle entry, forgiveness or shelter. It gives the reader an actual human response at the destination. Chapter 9 continues that response promptly.
 
 ## 9. Approximate scene budget
 
@@ -291,9 +380,10 @@ Recommended ending: his knock. Marta's first answer opens the following Alaric c
 | Exposed ground and outer houses | 5–6 | 800 |
 | Changed approach and boundary crossing | 7–8 | 1,000 |
 | Guard conversation and closest encounter | 9–11 | 950 |
-| Streets, choice and inn approach | 12–14 | 1,050 |
-| Silas's admission and the knock | 15–16 | 450 |
-| **Total** | | **5,200** |
+| Trading district and auction encounter | 12–13 | 1,050 |
+| Busy inn, chosen waiting interval and approach | 14 | 600 |
+| Silas's admission and Marta opening the door | 15–16 | 500 |
+| **Total** | | **5,850** |
 
 Expand decisions, contested replies and changed perceptions. Compress repeated hiding, repeated pain and movements that do not alter the route. Sustained tension requires changes in pressure, with brief opportunities to breathe.
 
@@ -308,6 +398,8 @@ Use the current Chapter 7 as the reference for dialogue that responds to another
 **Guards and residents:** separate wants and tempers. Resentment, tiredness, fear, self-interest and care can coexist. Replies concern the preceding statement and the current task. They are not a chorus explaining the plot.
 
 **Wena:** hungry, tired, attached and unsettled. Her behaviour requires human attention. She is not a perfectly obedient animal or a repeated alarm trigger.
+
+**Marta at the ending:** furious at Silas for breaking her express instruction. Her reply must address the man at her door, with enough room for Alaric and the familiar dog to complicate what she does next. Do not soften her into immediate forgiveness or use a generic biting line that could belong to anyone.
 
 Formatting and prose:
 
@@ -324,7 +416,7 @@ Formatting and prose:
 
 The question is a standing design test, not a guarantee of a numerical score.
 
-1. **The town exists beyond the chase.** Residents have work, conversations and concerns that would continue without Alaric. Ordinary activity matters to what he wants.
+1. **The town exists beyond the chase.** Trade continues, the inn is busy, rumours spread and people have work and concerns beyond Alaric. The auction makes the hierarchy visible through a human transaction and a particular person's response. Avoid reducing that person to scenery or resolving the institution with a speech.
 2. **The investigation behaves like an investigation.** Witnesses are limited, orders pass through people, and some accounts remain uncertain. Nobody knows information for convenience.
 3. **Each obstruction changes the route or their choices.** Remove any interchangeable near-capture that only repeats fear.
 4. **Their trust advances under a new pressure.** Alaric contributes and communicates; Silas listens and shares responsibility. Another rescue or another “wait here” is not the main relationship turn.
@@ -332,33 +424,71 @@ The question is a standing design test, not a guarantee of a numerical score.
 6. **Gerolt is remembered through particular things.** The sword, Wena, an overheard name or the prospect of giving his message can hurt without repeating the death scene.
 7. **The door changes our understanding of Silas.** His reluctance is a small answer to the history already hinted at. The full account remains available for Marta's encounter.
 8. **Alaric retains agency at the destination.** He chooses to knock and will present the sword himself. He is not a token Silas uses to override Marta's boundary.
-9. **The reader receives a real payment before the cliffhanger.** Getting through Kelmend, learning the search now includes a boy and dog, and discovering Silas's difficulty with Marta are changes. The chapter cannot consist entirely of postponing her entrance.
-10. **The final beat creates the next conversation.** Fear gives way to the need to speak. The following encounter begins promptly and carries the tension into human response.
+9. **The reader receives a real payment before the cliffhanger.** They get through Kelmend, learn that the search includes a boy and dog, discover Marta's family connection, and receive her first response to Silas. The chapter cannot consist entirely of postponing her entrance.
+10. **The final beat creates the next conversation.** Marta opens the door. Alaric still has to deliver Gerolt's message and the death news. Recognition does not supply automatic welcome, and the pending interview does not crowd out their encounter.
 
 ## 12. Decisions still needed before drafting
 
 These are the material gaps. Use the concrete recommendations above to discuss them without reopening settled scope.
 
-1. **Inn and wall geography:** confirm an inn just inside the south gate and the short former maintenance access, or choose an outside-wall inn and adjust the route. Verify the physical layout and Wena's passage.
-2. **Regional destroyer deployment:** its anchorage, why Mydea permits it, and the smaller craft's arrival. Confirm that Chapter 6's vessel is the regional ship; update the old same-ship assumption in planning notes.
-3. **Communication and timing:** establish what the official messaging system can do, who receives the king's reports, and the handling of Seralune's escape news. Exact royal travel remains a later timetable requirement.
-4. **Search instructions:** confirm detention alive, the usable description and any suspicion of an adult helper. Do not add identity or Affinity knowledge without evidence.
-5. **Search visibility:** main-chapter fragments are recommended over an interlude for this investigation. The last discussion favoured this approach but did not explicitly choose it. Confirm it as the drafting approach.
-6. **Final door action and title:** the knock is recommended. The title remains the author's choice.
+1. **Interview clock:** Marta's late-night closing is settled. Fit the family inquiry's assignment and the officials' arrival after Alaric reaches her, preserving his first death news. The late-assignment recommendation in Section 14 is working staging; do not automatically treat it as approved.
+2. **Physical staging:** verify the maintenance crossing, workshop exits, compact route through the market, waiting place and private door. The inside-gate destination is settled; no need to re-ask it. Establish usable concealment and Wena's passage without adding a secret job to Silas's biography.
+3. **Physical reporting timetable:** fast courier craft are accepted in principle. Set credible report and dispatch legs in Section 5 before any precise timetable is asserted. The local interview assignment and Seralune's escape report remain separate problems.
+4. **Marta's first line and title:** the direction is furious anger at the man she banned; Wena's familiarity and Gerolt's frequent visits are settled. Develop the brief reaction in a dialogue round. The title remains the author's choice.
 
-Marta's age, appearance, Affinity, reception of Silas, response to Gerolt's death and relationship to Darcy can be settled in the next encounter's design. They are not prerequisites for staging this journey beyond her inn's geography and her existing connection to Gerolt.
+Auction eligibility is settled: 『Faint』 only. Further legal details can be designed when a scene actually needs them; they are not a reason to reopen the answered rank question.
+
+Marta's full design can be developed with Chapter 9. Her first visible appearance and response now require enough definition to end Chapter 8 honestly. Her Affinity, later choices about shelter and relationship to Darcy do not need exposition in this journey.
 
 ## 13. Handoff into the next Alaric chapter
 
 Alaric arrives still injured, tired, hungry and carrying unresolved guilt. He now knows that a boy and dog are being sought, but does not know every piece of evidence or the king's motive.
 
-Silas has got them to the door and remained beside him. His fear of Marta's response is now visible, although its history is not explained.
+He also knows Marta is Gerolt's niece and that guards intend to question her tonight. She has not yet received the visit or the death news. Alaric must give that news in Chapter 9.
 
-Wena is with them. Her familiarity with Marta is a proposed element for the next scene, not something demonstrated through a closed door without a credible cue.
+Silas has got them to the door and remained beside him. Marta has opened it and recognised him. The meaning of her reaction develops through the conversation that follows.
 
-The regional destroyer's investigation and local search continue. The king's vessel remains a separate approach whose timetable is unconfirmed.
+Wena is with them and knows Marta through Gerolt's frequent visits. Marta's recognition of the dog does not tell her Gerolt is dead. Her anger at Silas remains real even if the boy and dog need help.
 
-The next chapter begins with Marta's response. Her recognition, grief, boundaries and decisions should have room to develop before Affinity exposition or another major political introduction.
+The regional destroyer's investigation and local search continue. Its permitted territory, the smaller craft's descent, physical messengers and fast couriers in principle are approved. The king's vessel remains a separate approach whose exact timetable is unconfirmed. Rumours in Kelmend must not collapse both ships into facts known by Alaric.
+
+Chapter 9 continues Marta's response rather than repeating the knock and recognition. Her grief, boundaries and decisions should have room to develop before Affinity exposition or another major political introduction. Chapter 10 returning to Seralune and Chapter 11 introducing Redd and Freya remain working sequence recommendations, not additional approvals from the round 2 answers.
+
+## 14. Latest staging answers and the next design round — 1 October 2026
+
+### Settled by A–F
+
+- **A:** the inn is just inside the South Gate. The district is a busy trade hub, including auctions of 『Faint』 people. Gold changes hands for wares, guards roam and ship rumours spread. Marta's inn is extremely busy as usual. Silas proposes entering at closing, now clarified as late at night.
+- **B:** a smaller craft descends after the destroyer passes.
+- **C:** fast physical courier craft are accepted in principle; no precise speeds, distances or travel hours are established.
+- **D:** capture the missing boy alive for questioning. The large dog is the identifying companion. Searchers do not have his name, a reliable face, his Empty status or a confirmed identification of Silas.
+- **E:** Marta is very angry. She previously told Silas never to show his face again, especially near Kelmend. Record this as her personal instruction, without inventing an official warrant.
+- **F:** Wena knows Marta because Gerolt visited often.
+
+### Subsequent questions — now answered
+
+1. **Closing:** the author answered, “Marta closes late at night.” Keep the approach at closing within Day 2's night; the proposed dawn wait is removed.
+2. **Auction eligibility:** the author answered, “Yes only faint people can be auctioned.” Only 『Faint』 people are eligible for these sales. This does not establish that every Faint person is owned. No age threshold, inherited ownership, magical compulsion or universal documentation system has been approved.
+
+Do not ask these questions again. The remaining task is to place the officials' visit within a credible local inquiry timetable.
+
+### Interview timing — working recommendation, not an author decision
+
+Preserve the intended late-night closing arrival. Earlier reports about the witness and missing boy can circulate before a confirmed death report and Marta's family connection reach the officer coordinating the inquiry. Collecting evidence across the house, forest and river, carrying it back, and connecting Gerolt to a relative in town take time. The consolidated information reaches that officer late in the evening, and the interview is assigned promptly. This avoids officials knowingly postponing an obvious family inquiry all day.
+
+Place the guard handover near closing, with Alaric and Silas already close to the inn. They overhear the assignment while the appointed patrol is elsewhere on a mapped route. Keep the final interval modest: enough for the compact market passage, the last customers leaving and the private approach, not an extra hour invented to accommodate them. The handover does not announce that a guard standing nearer Marta will leave for her door immediately.
+
+They make their way to the inn, wait briefly in credible cover while business winds down, and approach the private door as Marta closes. The officials' route leaves enough time for Alaric to deliver his news in Chapter 9. Their arrival can remain a subsequent threat; its precise scene has not been chosen. The earlier passage from dusk to this late-night handover needs visible elapsed time and selective compression, not repeated near-captures to fill every hour.
+
+This is a recommended sequence only. Fix a cause for the late identification and a short, usable interval before drafting; do not make officials ignore known family ties or invent hours of irrelevant business solely to delay them. The exact interview timing remains unapproved. The former dawn-arrival and disrupted-wait alternatives are no longer the current working direction.
+
+### What would improve this chapter most
+
+Make the town's ordinary trade contribute to its particular danger. Noise can mask them, but a cart can pin them in a patrol's path. Marta's busy inn offers the ordinary life Alaric wants while making a private approach difficult. The auction shows an accepted institution through a transaction and a person's behaviour, not an outline of caste law.
+
+Keep the guard handover connected to the main close call: it occupies their exit, gives the search instructions and reveals the pending interview. Alaric's practical contribution changes what they can do. Then let his unsettled reaction to the auction carry forward to seeking help, without inserting a second rescue plot or making Silas deliver a moral verdict for the reader.
+
+At the door, the known dog and the ban on Silas pull Marta in different directions. Her anger cannot vanish merely because Wena recognises her. Her first response should start a difficult human conversation, with Gerolt's death still unknown to her.
 
 ## Sources used
 
@@ -366,30 +496,10 @@ The next chapter begins with Marta's response. Her recognition, grief, boundarie
 - Current Chapter 7, `outputs/Chapter 7 - The Last Keeper.md`.
 - Current `New - Re-plan/Decisions.md` and `Volume 1 Picture.md` in the working archive.
 - The author's latest Chapter 8 discussion: journey scope, two destroyers, neighbour testimony, discovered bodies and concern about natural guard conversation.
-- The older crystal-message device and former wall-access concepts were consulted as possible resources, not automatically adopted as current canon.
+- The author's round 2 answers on 1 October: Marta learns the death from Alaric; guards intend to question her tonight; the door opens on recognition; reports travel by riders and ships; Mydea's king permits the regional destroyer's assigned territory under pressure from Natharul.
+- The author's later A–F answers on 1 October: inside-South-Gate inn and bustling trade; auctions of people with weak Affinities; gold commerce, patrols and ship rumours; a closing-time approach proposed by Silas; smaller craft descent; fast physical couriers in principle; capture alive; Marta's explicit ban on Silas; Wena's familiarity through Gerolt's frequent visits.
+- The author's subsequent clarifications on 1 October: Marta closes late at night, and only 『Faint』 people can be auctioned.
+- The later accepted Alaric-double incorporation plan: no full appearance in Chapters 1–8; first encounter follows Marta's genuine help. See Section 23 of `outputs/The Ruler of Nothing - Claude Handoff - 2026-10-01.md`.
+- The older wall-access concept was consulted as a possible resource. The older crystal-message device is excluded from this Volume 1 reporting design.
 
 This design does not modify the existing seven chapters or silently approve recommendations as series lore.
-
-
-The chapter follows Alaric and Silas from the trees to Marta’s door. It covers dusk into night on Day 2, with an estimated 4,500–6,000 words. Marta’s actual reception belongs to the following Alaric chapter.
-The sequence is:
-
-1. Alaric gets Wena into cover. Continue directly from Chapter 6. His immediate concern is whether they can still reach Marta tonight.
-2. They wait for the destroyer to leave. Its departure offers brief relief, until they notice the activity it has left in Kelmend. A smaller craft delivering investigators is proposed staging.
-3. Silas asks about the battlefield properly. He listens to a few specific answers without announcing that he believes Alaric. Alaric notices the change.
-4. Silas explains the way in. They account for Wena, the exposed sword and their injuries. Alaric receives enough information to cooperate.
-5. They cross the exposed approach. Alaric’s ankle affects their movement. He tells Silas when he needs to slow down.
-6. They pass ordinary houses. Meals, work and conversations make Kelmend feel inhabited. Alaric can glimpse the ordinary life he desperately wants to enter.
-7. Their intended approach is occupied. The investigation has changed the conditions. Silas explains the detour instead of leaving Alaric guessing.
-8. They cross into the town. My recommended geography uses a short former maintenance access through the southern wall. Alaric helps with something Silas’s injured hand makes difficult.
-9. Guards occupy their next exit. Their conversation concerns an unwanted assignment, resentment towards Natharul and fear of consequences.
-10. Alaric hears about the boy and dog. The conversation reveals only part of the search. Wena’s presence suddenly becomes dangerous without making her less precious to him.
-11. The obstruction becomes the closest encounter. Their escape depends on established cover and both characters’ actions. Alaric makes a consequential contribution.
-12. They move through occupied streets. Witnesses become another pressure. Silas and Alaric now work together more naturally.
-13. Alaric questions bringing danger to Marta. A short conversation confronts his fear of another Gerolt. Silas offers practical precautions without promising safety.
-14. They reach the inn. Silas checks the approach as promised. The prospect of food and shelter gives Alaric a moment of relief.
-15. Silas stops at the door. He admits that Marta will not open it for him. The man who could lead them through Kelmend now needs Alaric to speak.
-16. Alaric knocks. He has Gerolt’s sword, his message and the responsibility of telling Marta what happened.
-
-The emotional progression is cooperation under pressure, followed by the courage to ask for help. Reaching the door must feel like an achievement before the chapter ends.
-The document marks the remaining staging choices clearly: the inn’s position, wall access, smaller craft, communication rules and precise search orders. The title remains yours to choose.
