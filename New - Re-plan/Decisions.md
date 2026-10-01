@@ -939,6 +939,10 @@ Not in the central cast yet, and not locked (handoff §7, §14.3).
 
 ## Open questions
 
+### The dying world (1 October)
+
+- **Which explanation for the dying world?** The author's proposal of ten options is kept word for word in `The Dying World - Ten Explanations (proposal).md`; nothing in it is approved. Claude recommends **Option 6, "Protection Has Become the Disease", on its own,** with the world's inability to see two people (Option 2's insight) as the flaw inside it, not a second system. Reasons, given in chat on 1 October: the chapters already rest on it (Faint children taken "under what's called protection", the crystal that draws Seralune's mana while it holds her, Thaer's sealing, the Time bearer saving Alaric without his consent); it explains why neither of them has an Affinity; it turns the ancient hunt into a mechanism (fear opens the root, containment answers it, the damage justifies more hunting); and it makes the ending (retiring Affinity) the same act as healing the world. Waiting on the author.
+
 ### Volume 1 picture
 
 - **Does Seralune believe it was her fault?**
