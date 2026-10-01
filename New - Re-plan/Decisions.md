@@ -41,6 +41,7 @@ Everything written before the re-plan now lives in `Old - Before Re-plan/`. That
 3. **Live the rules; don't explain them.** Never set out how his memory works "on paper like a thesis". People don't think like that. He thinks and reacts the way amnesiac Subaru does in Re:Zero Arc 6 (Chapter 57 onward).
 4. **A volume tests its question; it doesn't hand over the answer.**
 5. **Don't explain the meaning.** In the author's words: "I don't like over explaining meaning that make readers think beyond the obvious." Show the plain thing and stop. Don't follow a moment with an image or a sentence that tells readers what it means or where to look. It covers both explaining a moment and hinting so hard that it pushes readers past what's on the page. *(Claude's reading, accepted with the cuts it led to.)* First applied in Chapter 1, revision 1: change 21 was rejected ("Nothing inside him answered either" stays), and changes 6, 19, 20, 25, 27 and 37 were trimmed. Revision 2 applied it to the author's own lines (changes 38–44). Lines 55, 143 and 645 were kept: they show or name something, and they don't explain it. **It also rules out comparisons the viewpoint character couldn't make, and words chosen to sound good** (added 26 September, on Chapter 2). The author: "One thing you're still doing which I said we should stop is explaining things for the sake of it, using words to make it look cool. This is from Alaric's POV, how would he know this." Their example was "a sound like an axe going into green wood". A comparison is allowed only when it points at something the viewpoint character has lived through on the page. For Alaric, that's almost nothing: Gerolt's flame, the stew, his voice. Applied to Chapter 2 (revision 1, thirteen lines) and Chapter 1 (revision 5, eight lines). The comparisons that remain are ones he can make: how the words land on him, the Light, Gerolt's voice and flame, his own hair, the layered voice, the knock's patience, and Gerolt's own "calling a dog". **Don't tell the reader what they already know** (27 September, on the redesigned Chapter 2). The author: "You don't need to explain things like this, because the reader will know he stopped laughing. Laughing doesn't last forever." And: "'He stayed on his knees.' The reader knows he is on his knees." **But add meaning where he'd feel it** (27 September). "I see a lot of someone did X, he did Y. Just add meaning to things." The author's example: "Alaric couldn't get up, he was staring at Gerolt, that old man had taken care of him until his dying breath and now, in this moment he was going to leave him and never see him again." *Claude's reading of where the two rules meet, to confirm:* the narrator never interprets, decorates or hints, but Alaric feels and understands things in plain words, in the moment. Keep it small and concrete: "It was the only place in the world he knew" was "kind of… too melodramatic" (27 September).
+- **No horses' smell** (1 October, the author's Chapter 8 working design). The author dislikes descriptions of how horses smell; use other concrete details.
 - **Common words** (27 September). The author asked "what is bracken?", then said "I don't like 'ferns'". Readers shouldn't meet a word the author doesn't know, and a detail that only says where something is can go. **It never silences Alaric** (agreed 27 September, with putting his thoughts back into Chapter 2: "We can do this together"). The rule stops the narrator explaining; it doesn't stop him thinking. Chapter 2 had been cut until he had no thoughts on the page while Gerolt died.
 6. **Every major character wants something the story threatens.** *(Agreed 26 September.)* In Chapter 1, Gerolt wants his peace, and the boy ends it.
 7. **Borrowed characters lend specific traits, not templates,** and we record which trait came from where. *(Agreed 26 September.)* For example, Gerolt takes Cid's humour and damage, not Cid's life.
@@ -555,7 +556,7 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 - **The author's shape (30 September):** dawn, Silas waking him ("Up, boy…") and hinting he's coming along; the smoke behind them, and Alaric following far behind; Alaric pestering Silas like *A Realm Reborn*'s Alphinaud; Alaric slipping away to reach Kelmend alone with Wena and running into an **ogre**, which grabs him by the foot ("Can eat… food…") until Silas kills it ("Would it kill you just to listen for once"); then Kelmend's lights, and the Natharul king's warship passing overhead, massive, with both of them shocked. Round 2 is in the design file.
 - **Two new looks (the author's reference pictures, 30 September):**
   - **Ogres exist.** Huge, pale, pot-bellied, with a tusked underbite, clawed hands and rag bindings, carrying a spiked wooden club. They can speak a little. **They belong in the mountains** (the author's revision, 1 October: "What in the Last Dark is one doing this far from the mountains?"). *Open:* what else an ogre is in this world (question in round 2).
-  - **The royal warship looks like FFXIV's *Agrius*:** a huge red hull, spined and organic-looking, with dark spires hanging beneath it and small craft below. *To reconcile:* Chapter 5 describes it as "long and dark and plated all over" with blue-green light along its underside (round 2).
+  - **The royal warship looks like FFXIV's *Agrius*:** a huge red hull, spined and organic-looking, with dark spires hanging beneath it and small craft below. *To reconcile:* Chapter 5 describes it as "long and dark and plated all over" with blue-green light along its underside (round 2). *Reconciled (1 October): there are two destroyers. Chapter 6's ship, the red and spined one, is the regional destroyer; Chapter 5's long, dark ship is the king's. Both descriptions stand.*
 - **The author's detailed proposal (30 September)** is the working design, kept verbatim in `Volume 1/Chapter 6 - Design Proposal.md`: eight scenes, about 6,000 words, keeping the five beats. The turn is Silas's plan to take Gerolt's sword to Marta first while Alaric waits outside the town; Alaric leaves because of it. Alaric does two small things in the ogre fight, Wena isn't hurt, and afterwards Silas explains the route and agrees that, if it's clear, Alaric shows Marta the sword himself. Alaric gives his name ("It's Alaric, by the way."). *Proposed, not yet approved:* the details in round 2 of the design file (the ship's look and route, the ogre's nature, Silas's cost, Kelmend's response and others).
 - **The sequence (the author, 30 September):** 22 steps in reading order, now the chapter's shape (in the design file). Settled by it:
   - later morning, and he eats a little;
@@ -645,6 +646,37 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 
 - **Design started (30 September)** in `Volume 1/Chapter 8 - Design.md`: Marta's door, on the night of Day 2, straight on from Chapter 6. It proposes six scenes (under the ship; along the south wall; the door; the kitchen; the patrol; the price) and round 1 of 12 questions, with the "100/100" answer.
 - **"Empty" is Alaric's own word** (Chapter 1: "You're not Faint. You're…" / "Empty?"), not Gerolt's, so the outline's "Gerolt's word comes back" is corrected in the design.
+- **The author's working design (1 October)** replaces the six-scene shape: `Volume 1/Chapter 8 - Working Design.md`, kept word for word.
+  - **Chapter 8 is the journey to Marta's door,** dusk into night on Day 2: sixteen beats from the trees to her back door. Marta's reception, her grief, "Empty", Darcy and the shelter move to the next Alaric chapter.
+  - **Two Natharul destroyers** (the author's direction). The king's, which Seralune watches leave in Chapter 5, and a regional one, which is the ship over Kelmend in Chapter 6. Names, insignia and other ship classes are undecided.
+  - **The search behind it** (the author's chain): a neighbour saw Gerolt leave towards the forest with a boy and a dog; searchers find Gerolt and the riders' bodies; the boy and the dog are missing, so they're being looked for.
+  - **Silas can't knock:** Marta won't open the door to him, so Alaric knocks.
+  - Claude's round 2 review was answered on 1 October (below).
+- **The updated working design (1 October)** replaces the first one, word for word, in the same file. It records the author's round 2 answers, answers A–F and two clarifications:
+  - **Marta doesn't know Gerolt is dead.** Guards mean to question her tonight, and Alaric brings her the first news (round 2).
+  - **The ending:** Alaric knocks, Marta opens the door and recognises Silas behind him, and her first reaction ends the chapter. The full meeting is Chapter 9 (round 2).
+  - **Reports travel physically** in Volume 1, by riders and ships; no fast magical messaging (round 2). Fast courier craft are accepted in principle; their speeds, routes and hours aren't set (answer C).
+  - **The regional destroyer** has an operating territory that Mydea's king granted so it can "watch over" Mydea, a concession made out of fear of Natharul's force (round 2). Its bounds and distance aren't set; the working design keeps it away from Kelmend's everyday sight, so the ship over Kelmend still shocks Silas.
+  - **The inn** is just inside the South Gate, in a busy trading district: Faint people sold at auction, gold changing hands for market wares, guards about, rumours of the ship. The inn is extremely busy as usual. Silas suggests going in when Marta closes, which is late at night (answer A and clarification).
+  - **A smaller craft** comes down after the destroyer passes (answer B).
+  - **The search:** bring the boy in alive for questioning. The big dog is what identifies him; the searchers don't have his name, a reliable face, his Empty status, or who Silas is (answer D).
+  - **Marta and Silas:** she is very angry with him. She told him never to show his face again, especially anywhere near Kelmend. It's her own instruction, not a warrant (answer E).
+  - **Wena knows Marta,** because Gerolt visited her often (answer F).
+  - **Only Faint people can be auctioned** (clarification). That's who is eligible, not a rule that every Faint person is owned.
+  - **No full appearance of Alaric's double** in Chapter 8 (see Alaric).
+  - **Round 3, agreed (1 October, "1. yes 2. yes 3. yes"):**
+    1. **The questioning's timing.** The investigators arrive with the small craft at dusk. In the evening the forest report reaches them, and a Kelmend guard who knew Gerolt names his niece. The officer orders her questioned tonight, after closing, so it isn't done in front of a full common room. The two guards Alaric overhears finish a short round of the gate first, then go to the inn. Alaric hears their voices clearly enough to know them again in Chapter 9.
+    2. **The sword as Silas's hope.** Silas may also have hoped that bringing Gerolt's sword would make Marta open her door to him. Alaric only wonders about it, and the page never settles it: *Was that why he'd wanted to take the sword himself?* It says nothing about love. What Silas does at the door matters more: he accepts that she may let the boy in and still refuse him.
+    3. **Splitting up the pair.** In the market, Silas walks Wena and Alaric stays a few steps away, still in sight. They expect Wena to pull back to him, and when she does, in front of a patrol, it's the chapter's main close call. The workshop scare becomes a blocked exit and a change of route. Alaric first sees the auction on his own and asks Silas about it once they can talk.
+  - **The dialogue round (1 October), from the author's other workspace,** kept word for word: `Volume 1/Chapter 8 - Dialogue Options.md` (alternatives), `Chapter 8 - Dialogue Round 2.md` (**approved by the author as the baseline**), and `Chapter 8 - Dialogue Round 3 - Silas Voice.md` (Silas's lines only, made harsher, with Guts as the existing influence and Askeladd's judgement of people added; **awaiting the author's review**).
+  - **The ending, in the approved baseline:** Wena knows Marta at the door. Marta looks up, sees Silas, and tells him to get out of Kelmend; then she shuts the door. "It slammed before Alaric could say Gerolt's name." So Chapter 9 opens with them shut out, and the guards coming once they've finished their round.
+  - **The dialogue is approved (1 October).** Round 3 is the final dialogue for all eight exchanges: Silas's harsher voice, with Claude's three fixes applied (no "hell"; "He doesn't give a shit who watches, because nobody here's going to stop him"; "Beastfolk, Gerolt called them", which is also in Round 2). Chapter 8 was ready to write.
+  - **Written (1 October)** on the author's go-ahead, 4,490 words, with the approved dialogue word for word. Its new details are listed for a yes or no in the design file ("The first draft").
+  - **Title: "The Road Owed to the Dead"** (the author, 1 October: "Keep it as the road owed to the dead"). The chapter is `Volume 1/Chapter 8 - The Road Owed to the Dead.md`.
+  - **Three passes, one after another (1 October),** at the author's request: errors, logic, POV slips and robotic text; then rhythm and repeats; then consistency and house style. Thirteen changes with the title, listed in `Volume 1/Chapter 8 - Changes.md`. The chapter is 4,493 words.
+  - **The author's combined version (1 October)** is now the chapter, 5,331 words, with only house-style changes (`Volume 1/Chapter 8 - Changes (combined).md`). The version after the three passes is kept in `Drafts/` as Draft 2. Claude's six notes on it were agreed and applied (1 October): "Silas", not "the man"; "in the shadow of a doorway", not "eaves"; "The voices in the houses"; clear about which cart; the bed-tying paragraphs joined; and "Thanks, lad". Chapter 10 (Seralune) and Chapter 11 (the Faint quarter, Redd and Freya) remain working recommendations.
+  - **Three passes on the combined version (1 October),** at the author's request: Pass 1 (errors, POV slips and logic, 11 changes), Pass 2 (vocabulary, rhythm and repeats, 3), Pass 3 (consistency and house style, 2), in `Volume 1/Chapter 8 - Changes (combined).md`. The chapter is 5,347 words.
+  - **Keep "Th-that girl…"; the untagged dialogue runs stay (the author, 1 October).** A final pass of everything followed at the author's request: five changes ("faded little by little" rather than "fainter"; "round"; "the lights along the row"; "Silas stood there"; "the scraping started again"). The chapter is 5,343 words.
 
 ## Alaric
 
@@ -658,6 +690,12 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 - **His habit** (27 September): "he likes to think a lot and keep emotions to himself instead of asking others for help."
 - *Claude's reading, to confirm:* the two fit together if the mouth runs inside his head and he keeps it shut outside. It spills out loud only when he's cornered, as in the Chapter 1 rant ("that is the whole list, Gerolt"). His panic keeps Subaru's shape (fast, repeating, calling himself useless) in words from his own world, since he isn't from ours.
 - **He isn't the ancient Alaric** (handoff §15.5). He begins blank and can choose who he becomes, even while he searches obsessively for who he was. The ancient promise doesn't bind him, and he owes Seralune no romance because of the past.
+- **The world-created double** (the author, 1 October; handoff (1 October) §21). Alaric sees an image of himself that accuses him of being evil and responsible for deaths, and it drives his hunger for his past; seeing it can cause severe headaches. Cloud and Sephiroth are the reference for its presence and pressure. Agreed:
+  1. It's an image the world creates. Alaric believes it's himself or his former self; it is not the ancient Alaric returning.
+  2. Its basis is the world's damaged corrective process, not a conscious deity.
+  3. The world seeks one individual: their shared soul made into the single being it intended, instead of two people. That's what they refuse at the end.
+  - **Where it starts (accepted, handoff §23):** no full appearance in Chapters 1–8, and nothing added to the existing chapters. The first full encounter comes after Marta offers genuine help, currently in Chapter 9. Before it, he needs a believable glimpse of his own face, such as while washing at the inn.
+  - **Working limits, not yet ruled:** only Alaric sees it, while others see his pain; it can't move objects or control him; it knows only what his perception, surviving fragments and ancient traces give it; true details can come with false verdicts. The genuine reaching-hand and name fragments stay genuine.
 
 ## Seralune
 
@@ -703,7 +741,11 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 
 - **Gerolt's niece** (agreed 26 September, for Chapter 2). She keeps the inn by Kelmend's south gate.
 - **Her father was Gerolt's brother,** and he died in Silas's gorge. That's part of why Gerolt is angry with Silas.
-- Everything else about her is still to be decided.
+- **Her inn** is just inside the South Gate, in Kelmend's busy trading district. It's extremely busy as usual, and she closes late at night (1 October, Chapter 8 answers A and clarification).
+- **She told Silas never to show his face again,** especially anywhere near Kelmend, and she's very angry with him (answer E).
+- **Wena knows her:** Gerolt visited often (answer F).
+- **When Alaric reaches her door she doesn't know Gerolt is dead.** He brings her the first news (Chapter 8, round 2).
+- Her age, look, Affinity, manner, and her part in Darcy's story are still to be decided, with Chapter 9.
 
 ## Thaeroval
 
@@ -922,6 +964,9 @@ Not in the central cast yet, and not locked (handoff §7, §14.3).
 - **How the king is evil (Option A, chosen):** he chose his strings. He handed the church the kingdom, and bowed to Natharul, to keep his throne and his comfort. Every law carries his seal; he could stop any of it and never does. His existing footprint in Volume 1:
   - "The king's got the palace." (Chapter 25)
   - "The king bowed first. In his own hall." (Chapters 26, 27 and 30)
+- **Faint auctions** (1 October): only Faint people can be sold at auction, as in the market inside Kelmend's South Gate. Ages, buyers and the legal mechanism aren't set.
+- **The regional destroyer's territory** (1 October): Mydea's king granted Natharul's regional destroyer an operating territory to "watch over" Mydea, out of fear of Natharul's force. It's out of Kelmend's everyday sight.
+- **Reports travel physically** in Volume 1 (1 October): riders, ships, and fast courier craft in principle. No instant magical messages.
 - **Natharul's scouts:** under the agreement between Mydea's king and Natharul, Natharul scouts are all over Mydea, all the time, scouting everywhere. They are never seen. That's the rule, to keep people calm.
 
 ### Avarice (formerly the Broken Shield network)
@@ -931,6 +976,10 @@ Not in the central cast yet, and not locked (handoff §7, §14.3).
 - **What they fight:** the whole church, and the Affinity laws.
 
 ## Open questions
+
+### The dying world (1 October)
+
+- **Which explanation for the dying world?** The author's proposal of ten options is kept word for word in `The Dying World - Ten Explanations (proposal).md`; nothing in it is approved. Claude recommends **Option 6, "Protection Has Become the Disease", on its own,** with the world's inability to see two people (Option 2's insight) as the flaw inside it, not a second system. Reasons, given in chat on 1 October: the chapters already rest on it (Faint children taken "under what's called protection", the crystal that draws Seralune's mana while it holds her, Thaer's sealing, the Time bearer saving Alaric without his consent); it explains why neither of them has an Affinity; it turns the ancient hunt into a mechanism (fear opens the root, containment answers it, the damage justifies more hunting); and it makes the ending (retiring Affinity) the same act as healing the world. Waiting on the author.
 
 ### Volume 1 picture
 
