@@ -41,7 +41,8 @@ The story is being re-planned from the beginning. Current work lives in **New - 
   - `Chapter 7 - The Last Keeper.md`: Chapter 7 (30 September). It's the author's own revision of the combined draft (Claude's first draft with material from a GPT draft). The author titled it "The Last Keeper". Claude's six notes on that revision are in `Chapter 7 - Changes.md`. The combined draft's three passes and the author's first review are in `Chapter 7 - Changes (combined draft).md`.
   - `Chapter 7 - Draft Comparison.md`: the author's comparison of Claude's and GPT's drafts, and the reasoning for the combined one, kept word for word.
   - `Chapter 7 - Changes (first draft).md`: Claude's pass on the first draft, before the author chose the combined draft. It's kept as a record.
-  - `Chapter 8 - Design.md`: the design of Chapter 8, Marta's door (started 30 September).
+  - `Chapter 8 - Design.md`: the design of Chapter 8 (started 30 September), now the journey to Marta's door, with Claude's round 2 review of the author's working design.
+  - `Chapter 8 - Working Design.md`: the author's working design for Chapter 8 (1 October), kept word for word.
   - `Chapters 1-7 - Review of the Author's Revision.md`: Claude's review of the author's revised Chapters 1–7 (1 October), with nine questions. The revision itself is listed change by change in `Chapter N - Changes (author's revision).md` for Chapters 1–6; Chapter 7 had no new changes.
   - `Drafts/`: earlier versions of the chapters, kept unchanged.
 

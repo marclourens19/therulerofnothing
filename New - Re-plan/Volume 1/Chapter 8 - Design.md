@@ -1,6 +1,6 @@
 # Chapter 8: Design
 
-Started 30 September 2026. **Status:** round 1, waiting on the author's answers.
+Started 30 September 2026. **Status (1 October):** the author's working design, `Chapter 8 - Working Design.md`, replaces the six-scene shape and round 1 below. The chapter is now the journey to Marta's door, and Marta herself moves to the next Alaric chapter. Claude's review of it and round 2 are at the end of this file. Round 1 is kept as a record; its Marta questions (E–H, J, K) move to the next Alaric chapter.
 
 **The target:** 4,000–5,000 words, and longer if the story needs it. Claude's estimate for the shape below is **4,500–5,500**. Chapters 5, 6 and 7 all came in a quarter under Claude's budgets, so read it as a range.
 
@@ -136,3 +136,73 @@ All in Alaric's eyes, from dusk to late on the night of Day 2.
 - Who is Darcy to Marta now? The old version: her childhood friend. That's your call.
 
 **L. Title.** Later. A note from Chapter 6's design: the old title *The Road Owed to the Dead* fits Chapter 8, "because that's where the road ends".
+
+## The author's working design (1 October)
+
+Kept word for word in `Chapter 8 - Working Design.md`. In short: sixteen beats from the trees above Kelmend to Marta's back door, dusk into night on Day 2, with Silas and Alaric working together under pressure for the first time. There are two destroyers: the king's, which Seralune watched leave in Chapter 5, and a regional one already in Mydea, which is the ship over Kelmend in Chapter 6. The search behind it comes from a neighbour who saw Gerolt leave with a boy and a dog, and from the bodies found in the forest. Silas can't knock for himself, so the chapter ends with Alaric knocking.
+
+It's a strong design. It's honest about what each person can know (Liluth never saw his face; the neighbour saw from two fields away by firelight), every obstruction changes the route, and Alaric is given real work instead of another "wait here". Chapter 2 does have the neighbour's lit window ("Two fields over, a single window was lit."), and the bodies match the page: two riders burned by Gerolt, three killed by Silas, one more on the far bank in Chapter 3.
+
+**Length.** The budget is 5,200. Per-scene budgets have run about a quarter high on every chapter so far, so expect **4,000–5,000** at the density you like. That's on target. If it comes in short, the place to grow it is the guards (beats 9–11) and the talk in cover (beat 13), not more hiding.
+
+## Claude's review: round 2
+
+### 1. Marta is the first person they'd question
+
+She's Gerolt's niece and keeps an inn in the same town. Anyone investigating a dead farmer asks who his family is, and Kelmend's guards know Gerolt (the couple at the fence call him "the old fool"). As designed, the search doesn't think of her, so the knock is safer than it should be.
+
+*Recommended:* use it. In beat 9 the guards mention that someone is to question "the farmer's niece" at the inn tonight. It's close to the old canon, where soldiers said the scarred elf would question Marta after closing.
+- Alaric learns Marta is Gerolt's niece. That's a small answer, and it hurts: he's about to tell Gerolt's family.
+- Beat 13 stops being an abstract fear. They're already coming to her, so he either warns her or brings the danger to her door himself.
+- The knock becomes a race.
+
+*Alternative:* officials have already told her at dusk that Gerolt was found dead. She knows before Alaric knocks, and the next chapter's heart becomes "how" and "it was my fault", not "he's dead".
+
+### 2. A destroyer stationed in Mydea breaks a settled rule
+
+Decisions: Natharul's scouts are all over Mydea and "never seen", "to keep people calm". Silas's shock in Chapter 6 comes from seeing a Natharul warship openly over Mydea. If it's been anchored in Mydea with the king's permission, Kelmend would have seen it, and so would Silas.
+
+*Recommended:* the regional destroyer is stationed just over the border, on Natharul's side, out of sight of Mydean towns. Tonight is the first time anyone in Kelmend has seen one, which is why the bell rings. That keeps Silas's shock, the quiet cooperation at the bridge in Chapter 3, and your two-ship idea.
+
+### 3. Which ship looks like what
+
+Chapter 5's ship is "long and dark and plated all over", with blue-green light underneath. Chapter 6's has "dark red plating", "spines beneath" and the same blue-green light. Decisions gave the *Agrius* look (red hull, spines) to the royal warship and left a note to reconcile it with Chapter 5.
+
+*Recommended:* the *Agrius* look belongs to the regional destroyer. Chapter 6 already describes it, so nothing needs rewriting, and the reconcile note closes: they're two different ships. The shared blue-green light makes them the same kind of ship.
+
+### 4. The ending: the knock, or the door opening
+
+The design ends on the knock. Readers have waited for Marta since Chapter 2, and Chapter 6 already ended on a threshold. Decisions also says the small answer about Silas and Marta comes "most naturally when Marta sees Silas at her door".
+
+*Recommended:* the door opens. She sees Silas first, over Alaric's shoulder, and the chapter ends on what her face does, or on his name and nothing else. It's one beat, it pays the reader before the cliffhanger (your 100/100 point 9), and the next chapter opens with her.
+
+*Alternative:* end on the knock, as designed.
+
+### 5. Silas's way through the wall (Your call)
+
+"A former maintenance access… from earlier work" gives Silas a past job in Kelmend. That's new backstory.
+
+*Recommended:* keep it unexplained on the page. He knows the way, and Alaric can see he's used it before. If you want a reason, it's yours to give.
+
+### 6. Messages
+
+*Recommended:* no fast messaging on the page in Volume 1. Reports travel by rider, and by ship where there is one. That keeps the delays and the half-informed guards your design wants, and it needs no new lore. How the king hears about Seralune can be settled when a chapter needs it.
+
+### 7. What the search orders say
+
+*Recommended:* find the boy with the big dog and bring him in alive. A helper is only a rumour among the guards ("whoever cut down the three by the river"), not an order.
+
+### 8. Showing the search
+
+*Recommended:* only through what Alaric sees and overhears, with no interlude. Your design leans this way already.
+
+### 9. The outline moves along by one
+
+With Marta in the next Alaric chapter, the order becomes: Chapter 9, Marta; Chapter 10, Seralune; Chapter 11, the Faint quarter, with Redd and Freya. *Recommended:* yes. I'll update the outline once you confirm.
+
+### 10. Title
+
+Later, as the design says.
+
+**Recorded from the design:** you dislike descriptions of horses' smell. That's now in Decisions and the skill.
+
