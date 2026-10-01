@@ -293,3 +293,19 @@ Nothing else in the two files conflicts with the repo. Still to settle: items 1â
 ### Round 3 answered (1 October)
 
 "1. yes 2. yes 3. yes." All three are agreed and recorded in Decisions, with the two corrections above. The design is settled. Next is the dialogue round.
+
+## The dialogue round (1 October)
+
+The author's other workspace produced three files, saved here word for word: `Chapter 8 - Dialogue Options.md`, `Chapter 8 - Dialogue Round 2.md` (the approved baseline) and `Chapter 8 - Dialogue Round 3 - Silas Voice.md` (Silas made harsher, awaiting review).
+
+### Claude's notes on Round 3 (Silas only)
+
+Keep almost all of it. It's sharper and more like Silas: he admits he was wrong without apologising, and his reasons are practical and suspicious of people. "Some bastard would fetch a guard for the price of his next drink" fits Mydea exactly; Decisions has people giving each other up for food and gold.
+
+1. **Exchange 7: "Where the hell do you think I'm going?"** On 1 October you agreed to take the only "hell" out of the chapters (Chapter 6's "What in the Last Darkâ€¦") because "hell" belongs to our world. *Recommended:* "Where do you think I'm going? I'm staying with you." It's harsher without the oath.
+2. **Exchange 5: keep both truths.** Round 2 ended on "But nobody here is stopping him." That line accuses everyone, Alaric and Silas included, which is what Alaric has to carry away. Round 3's "He doesn't give a shit who watches" judges only the buyer. *Recommended:* combine them: "But look how he's using that chain. He doesn't give a shit who watches, because nobody here's going to stop him."
+3. **Exchange 3:** "Get onto the grass, then" sits right before the narration "Silas moved towards the grass". That's a drafting fix; the narration will change, not his line.
+
+### One small point in the approved baseline
+
+- **Exchange 1: "Beasts, I suppose, but they were wearing armour."** In Chapter 1 Gerolt said "beastfolk" ("I never saw men fight beside beastfolk"), so Alaric has the word. *Recommended (small):* "Beastfolk, Gerolt called them, but these were wearing armour", or "Beastfolk, in armour." It also brings Gerolt into the account at the moment Silas starts to believe it.
