@@ -46,6 +46,14 @@ Started 1 October 2026. **Status:** round 1, waiting on the author. Nothing here
 - **The structural map** (discussion, not canon): the sword earns him a hearing, "not unlimited trust". What he does decides whether Marta keeps helping.
 - **Chapter 10 is Seralune's,** and Chapter 11 is the Faint quarter, with Redd and Freya. Both are still working recommendations.
 
+## After Chapter 8's final passes (1 October)
+
+Chapter 8 is finished (5,268 words). Three things in it bear on this design:
+
+- **The woman at the auction** now closes her hand round the chain so the buyer's pull lands on her hand. If Alaric remembers her in this chapter (at the table, or when Marta finds he's Empty), that's the image he has.
+- **The guards no longer give the inn's address.** Nothing changes here: they know it.
+- **Still open from Chapter 8: Marta's "Where's—".** If she starts asking about Gerolt when she sees Wena and breaks off at the sight of Silas, the slam is partly fear of the news. That's the setup for question 5 ("The last time you stood at my door, you'd come to tell me my father was dead"), and it makes question 1 land harder: Alaric's "The old fool sent me" through the door confirms what she was afraid of. *Recommended:* take both, or neither. Each one works without the other, but together they make one beat that pays off across the two chapters.
+
 ## The old version (raw material, not canon)
 
 The old *Refuge* had several good beats:
