@@ -1,6 +1,6 @@
 # Chapter 10 – Design
 
-Started 2 October 2026. **Status:** the author's direction (below) is now the working design, and it replaces Claude's first proposal, which is kept at the end. Round 2 is answered. One follow-up and the dialogue round (`Chapter 10 - Dialogue.md`) are waiting on the author. The working title is **"Beneath Natharul"**, the old chapter's title; the author called it "the Beneath Natharul horror chapter".
+Started 2 October 2026. **Status:** the author's direction (below) is now the working design, and it replaces Claude's first proposal, which is kept at the end. Rounds 2 and 3 are answered. Dialogue round 2 (`Chapter 10 - Dialogue.md`) is waiting on the author. The working title is **"Beneath Natharul"**, the old chapter's title; the author called it "the Beneath Natharul horror chapter".
 
 ## Whose chapter
 
@@ -168,6 +168,42 @@ These are the author's beats, in order and numbered so we can refer to them.
    7. after the bite, she's gone.
 
 The key exchanges are in `Chapter 10 - Dialogue.md` (dialogue round 1).
+
+**The author's answers (2 October):** "1A yes". For question 2: "use this as a guide". Kept word for word:
+
+> Cognitive Distortion & Perception Shift
+>
+> * Mana-Induced Paranoia: The victim perceives ambient magic as a personal threat. They believe friendly spells, magical items, or even pure mana streams are actively trying to poison, spy on, or manipulate them.
+> * Sensory Overload & Hallucinations: Corrupted mana alters the brain's sensory processing. Mages begin "seeing" the world through a twisted magical lens—hearing whispers in elemental sounds, seeing horrific geometric shapes in natural geometry, or tasting ozone and rot when magic is cast nearby.
+> * Grandiose Delusions of Power: The corrupted energy feeds the ego, convincing the user that they are the only ones capable of handling its true power. They develop a god complex, believing ordinary mortals or traditional magic systems are weak, outdated, or beneath them.
+>
+> Behavioral & Emotional Extremes
+>
+> * Volatile Emotional Amplification: Corrupted mana erodes emotional regulation. Minor annoyances spark explosive rage, small doubts spiral into crushing despair, and casual competition turns into a murderous obsession.
+> * Obsessive-Compulsive Channeling: The victim becomes single-mindedly obsessed with gathering, studying, or hoarding the corrupt magic source. They will neglect basic biological needs—like eating, sleeping, or hygiene—just to stay close to the power.
+> * Loss of Risk Assessment: The altered mind loses its capacity to fear danger. A corrupted mage will willingly burn out their own lifeforce, sacrifice loved ones, or cross forbidden boundaries because the concept of "consequence" no longer registers.
+>
+> Identity & Psychological Fragmentation
+>
+> * The "Whispering" Effect: The mana acts as a conduit for an external, malicious force (like an ancient god, a demon, or the collective agony of a ruined land). This manifests as a parasitic secondary consciousness or an intrusive "voice" that slowly rewrites the victim's core morals and memories.
+> * Temporal Disorientation: Because raw or corrupted mana interacts heavily with the fabric of reality, a corrupted mind might live in multiple timelines simultaneously. They might hold conversations with dead ancestors, react to events that haven't happened yet, or forget their own current identity entirely.
+> * Erosion of Empathy (Apathy): The user grows completely detached from the living world. They begin to view other living beings not as people, but as mere "fuel cells," vessels for mana, or obstacles in their path.
+
+And on the dialogue: "Next refind all dialogoue options you send me and try again making sure to match what characters sound like especially in previous chapters and make sure no robotic dialogoe or pose exsists, this chaptter must be a horror chapter".
+
+**What they settle:**
+1. **The Thaer thought is A.** Because it's in the third person, it sits in the narration rather than in italics: "All her life, people had said there was nobody in Natharul like Thaer. She had never seen him do anything like this."
+2. **The descent follows the guide.** It now has ten steps, each a new kind of wrong, and they're set out in the table at the top of `Chapter 10 - Dialogue.md`.
+   - The whispers come first, and later the dead *do* talk: Seralune dismissed what Nereth heard, and it's confirmed later.
+   - "I'm quite all right, Your Highness" (Chapter 5) turns into rage.
+   - She steps over the dead without looking.
+   - She's back in the wash passage, pulling on a root: "Cyrandor, open it."
+   - "Every time you touch me, they get louder."
+   - A servant feels power for the first time: "I could burn this whole place down round you".
+   - After the bite, the voice from the walls comes out of her mouth.
+   - **Adapted:** the god complex is down to one line of contempt.
+   - **Left out:** "fuel cells" and "vessels", because with the touch and the parting fire it would point too hard at Seralune.
+3. **The dialogue is rewritten** as `Chapter 10 - Dialogue.md` (round 2), and round 1 is in `Drafts/`.
 
 ---
 

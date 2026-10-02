@@ -1,213 +1,279 @@
-# Chapter 10 – Dialogue (round 1)
+# Chapter 10 – Dialogue (round 2)
 
-2 October 2026. These are the key exchanges and thoughts of "Beneath Natharul", in scene order, built from the author's direction and round 2 answers (`Chapter 10 - Design.md`).
+2 October 2026. This round was rewritten after the author's note: "refine all dialogue options you send me and try again making sure to match what characters sound like especially in previous chapters and make sure no robotic dialogoe or pose exsists, this chaptter must be a horror chapter". Round 1 is kept in `Drafts/Chapter 10 - Dialogue (round 1, 2 October).md`.
 
-**The voices, from `Decisions.md`:**
-- **Seralune:** Alisaie in everyday life. She's sure of what she knows, quick to act, and says sorry. Her thoughts reason their way to a conclusion.
-- **Nereth:** Ram on duty: dry, exact and "Your Highness". Revy when she slips: hard, crude and cruel. Here the mana takes the brakes off her, so what comes out is still hers, only louder.
+**What changed from round 1:**
+- **Nereth's descent** now follows the author's guide (kept in `Chapter 10 - Design.md`, round 3), with one new kind of wrong at each step.
+- **The voices** are matched to Chapters 4, 5 and 7:
+  - Nereth starts with her Chapter 5 deflection, "I'm quite all right, Your Highness", and it goes wrong as the chapter goes on.
+  - Seralune keeps the dry humour she had alone in the dark in Chapter 4.
+  - At its worst, the madness takes Nereth back to "Cyrandor, open it. Open the door!" from Chapter 7.
+- **One version of each exchange.** The calls that are still yours are listed at the end.
+- **The prose round the lines** is written close and dark, so you can judge the horror as well as the words.
 
-**How to read this file:**
-- Where there's a real alternative, there are two versions.
-- *(old chapter)* marks a line adapted from the old "Beneath Natharul".
-- *New* marks something that isn't in the decisions yet.
-- Change anything, or send your own rough version of any exchange. You can answer by number, for example "D2 A, D5 B, D6 A without the swearing".
+## The descent at a glance
+
+| Step | From the guide | What Seralune sees | Where |
+|---|---|---|---|
+| 1 | Disorientation | Nereth is sure of the way and counts the turnings wrong | D2 |
+| 2 | Sensory: whispers | Nereth hears someone talking under the dripping, and Seralune hears only water. Later, the dead *do* talk. | D2 |
+| 3 | Volatile emotions | "I'm quite all right, Your Highness" turns sharp over a shawl | D3 |
+| 4 | Obsession | She fought Seralune taking the lead. Once the way goes deeper, she presses her on: "Go on." | D4 |
+| 5 | Erosion of empathy | She steps over the dead servants without looking down | D5 |
+| 6 | Whispering | She answers someone who isn't there, and stops answering to her name | D5 |
+| 7 | Temporal disorientation | She's back in the wash passage, pulling on a root: "Cyrandor, open it." | D6 |
+| 8 | Paranoia | "Every time you touch me, they get louder. What are you doing to me?" | D6 |
+| 9 | Volatile emotions, then grandiosity | Cyrandor; his secret order; "I could burn this whole place down round you" | D6 |
+| 10 | Whispering, then loss of risk | After the bite, the voice from the walls comes out of her mouth. Then the fire, which spends everything she has. | D9 |
+
+**Left out on purpose:**
+- **A full god complex.** One line of contempt is enough. Any more and she becomes someone else, which is the risk the design names.
+- **"Fuel cells" and "vessels"**, as in a line like "You're full of it". With "they get louder" and the parting fire, it would point too hard at Seralune as the cause.
 
 ## D1. The first turning (beat 1)
 
-*The author:* Seralune doesn't know the way, so she lets Nereth lead.
-
-> The channel forked round a pillar. Nereth stopped and held the lamp up to one side, then the other.
+> The channel split round a pillar. Nereth stopped and lifted the lamp to one side, then the other, and the light gave out a few paces down each.
 >
 > "This is where they turned us back, Your Highness."
 >
 > "Do you know where either of them goes?"
 >
-> "No." Nereth looked at the left-hand way a little longer than the right. "But the water came from this side when we cleared it. It has to come out somewhere."
+> "No." Nereth looked down the left-hand way for longer than the right. "The water came from this side when we cleared it, though. It has to come out somewhere."
 >
-> "Then you choose," Seralune said. "I've never been down here at all."
+> "Then you choose. I've never set foot down here."
 
 ## D2. The circles (beat 2)
 
-*The author:* they're walking in circles, because the mana is taking Nereth's sense. *Claude's proposal:* Seralune notices their own footprints in the silt.
-
-**A**
-> Seralune stopped. In the silt along the ledge there were footprints: soft soles, and harder ones beside them, both going the way they were going.
+> The lamp lit the ledge a few steps ahead and a few behind, and the rest was black. The water lay in the channel beside them without moving.
 >
-> "Nereth. Look."
+> They had been walking a long time when Seralune saw the prints in the silt: soft soles, and harder ones beside them, going the way they were going.
 >
-> Nereth brought the lamp down and looked at them for a long time.
+> "Nereth."
 >
-> "Someone's been down here."
+> Nereth brought the lamp down and looked at them for a long while.
 >
-> "Those are mine." Seralune set her foot beside the nearest print, and it fitted. "We've been here before."
+> "Someone else has been down here."
 >
-> "We haven't, Your Highness." Nereth's voice was perfectly even, the way it had been with the guard. "We've come straight. I've been counting the turnings."
+> "Those are mine." Seralune set her foot beside the nearest one, and it fitted. "We've been past here before."
+>
+> "We haven't, Your Highness." It was the even voice she had used on the guard. "We've come straight. I've been counting the turnings."
 >
 > "How many?"
 >
-> "Six." She looked back the way they had come. "Seven."
+> "Six." Nereth looked back the way they had come. "Seven."
 
-**B** is the same, but with a dry denial in place of the counting:
-> "Then somebody else down here wears your shoes, Your Highness, because I haven't brought you this way."
+> *Hours. We've been going round and round for hours, and she'd have kept on until we dropped.*
 
-*Recommended:* A. The counting going wrong is the first sign that something is happening to her, and she can't see it herself.
+Further on:
 
-## D3. The small kindnesses (between beats 2 and 3)
+> Nereth stopped so suddenly that Seralune walked into her back.
+>
+> "Do you hear that?"
+>
+> Seralune held her breath. Somewhere ahead, water was dripping: one drop, then a long wait, then another.
+>
+> "It's only the water."
+>
+> "Under it." Nereth had her head on one side. "Someone's talking."
+>
+> Seralune listened until her ears rang, and there was nothing under it at all.
 
-*The author (answer 7):* Seralune tries to make sure she's all right, and Nereth gets angry at that. This is the first crack, and it's still polite.
+## D3. The shawl (between beats 2 and 3)
 
-> "Are you all right?"
+> Nereth's hand had begun to shake in hers. Seralune started to pull the shawl from her own shoulders.
 >
-> "Yes, Your Highness."
+> "Here. Put this round you."
 >
-> A few turnings on, Nereth stopped dead and lifted her head, listening. Seralune listened too. There was only water dripping somewhere ahead.
+> "I'm quite all right, Your Highness."
 >
-> "What is it?"
+> "You're shaking. Take it."
 >
-> "Nothing."
+> "*Keep* it." It came out so hard that Nereth seemed to hear it herself, and she lowered her voice. "Keep it, Your Highness. You're the one who can hardly stand."
 >
-> "You're shaking." Seralune began to pull the shawl from her own shoulders. "Here, have this—"
+> "I'm sorry. I only meant—"
 >
-> "Keep it." It came out hard, and Nereth seemed to hear it. She lowered her voice. "Keep it, Your Highness. You're the one who can hardly stand."
->
-> "I'm sorry. I only—"
->
-> "You needn't keep saying sorry." Nereth turned back to the channel. "It doesn't get us out."
+> "Sorry won't get us out of here."
 
-"You're the one who can hardly stand" is Thaer's line from the stair, which Nereth heard.
+"You're the one who can hardly stand" is Thaer's line from the stair, and Nereth was there to hear it.
 
 ## D4. Seralune takes the lead (beat 3)
 
-*The author:* Seralune takes the lead and finds a new path, which leads them deeper into the corruption. *Claude's proposal:* she picks the one way their footprints don't go. Her reasoning is right, and it's what takes them deeper.
-
-> "Give me the lamp, Nereth. I'll go first."
+> They came back to the pillar. Seralune knew it by the crack that ran up one side, the way she had known it the last time, and the time before.
+>
+> "Give me the lamp. I'll go first."
 >
 > "You don't know the way."
 >
-> "Neither do you." Seralune heard how it sounded, and didn't take it back. "We've passed that pillar three times. I'd rather be lost somewhere new."
+> "Neither do you!"
+>
+> It went off down both channels at once. Nereth's fingers tightened on hers until the bones ground together, then let go. Seralune made herself speak quietly.
+>
+> "We've passed this pillar three times. I'd rather be lost somewhere new."
 >
 > "I'm meant to go in front, Your Highness. That's what I'm here for."
 >
-> "Then you can tell me when I go wrong."
+> "Then stay close behind me, and tell me when I go wrong."
 >
-> Nereth held on to the lamp a moment longer. Then she gave it up, and Seralune took her hand again with the other.
+> Nereth gave her the lamp.
 
-**Her thought** at the new path, which is low, behind a hanging mat of roots, with smooth silt in front of it:
-> *We've been left, and we've been straight on. We haven't been through there.*
+> Their prints went left, and they went straight on. To the right, low down, roots hung over an opening she hadn't noticed before, and the silt in front of it was smooth.
+
+> *We've been left, and we've been straight on, and we haven't once been through there.*
+
+> She held the roots aside. They were cold, and softer than roots should be, and they moved a little after she had let go.
+>
+> "Go on," Nereth said behind her. She was so close that Seralune could feel her breath on her neck. "Go on. Go on, then."
 
 ## D5. The dead (beat 4)
 
-*The author:* bodies covered in roots, and sounds coming from everywhere. The dead are servants who never came back, in the same grey she's wearing.
-
-**A** *(new: the palace told the servants they'd run away)*
-> The first one was sitting against the wall with its knees drawn up, as if it had stopped to rest. Roots had gone in at its mouth and come out again between its ribs, where the cloth had rotted. The cloth was grey. Seralune looked down at her own sleeve.
+> The way went down. The lamp found roots on the walls, then roots over the walls, so thick that the stone only showed in patches. After a while there was a light that didn't come from the lamp, a pale glow in the roots themselves, so that the dark ahead was never quite dark.
+>
+> Small white flowers grew out of them. When Seralune passed with the lamp, they turned on their stems to follow it.
+>
+> There were sounds from all round them now. Something clicked in the roots overhead and stopped when she looked up. Something pale turned over in the water beside the ledge and went under again.
+>
+> The first of the dead was sitting against the wall with its knees drawn up, as if it had stopped to rest and never got up. Roots had gone in at its mouth and come out again between its ribs, where the cloth had rotted away. What was left of the cloth was grey.
+>
+> Seralune looked down at her own sleeve.
 >
 > "They sent people down here," she said. "You told me."
 >
-> "Some of them didn't come back." Nereth didn't come any closer. "They told us those ones had run away."
+> "Some of them didn't come back." Nereth stepped over its legs without looking down. "We were told they'd run off."
 
-**B** Nereth says nothing, and Seralune puts it together:
-> *They sent a few of us down once, to clear the channels.* Nereth had said that at the stair. She hadn't said how many of them came back up.
-
-*Recommended:* A. The dead were people Nereth worked beside, so they matter to her, and that gives her something to feel before the madness. The lie is new, and it's your call.
+> There were more of them after that. One lay face down in the channel with the roots holding it under. Two sat against the wall together, one with its head on the other's shoulder, the way people sit when they've been waiting a long time.
+>
+> Nereth's lips were moving.
+>
+> "I know," she was whispering. "I know. I'm going."
+>
+> "Nereth? Who are you talking to?"
+>
+> Nereth didn't answer, and she didn't look round at her name.
 
 ## D6. The lash-out (beat 5)
 
-*The author:* Nereth lashes out at Seralune's small kindnesses, and over Cyrandor. Words come first, then her hands.
-
-**A**
-> Seralune put her hand on Nereth's arm. "Nereth, look at me. Please. Just tell me you're—"
+> Nereth let go of her hand. She went to the wall, took hold of a root as thick as a rope, and pulled on it with both hands, the way she had pulled on the iron ring.
 >
-> "Stop *asking* me that!"
+> "Cyrandor, open it." She braced her foot against the stone. "Open the door!"
 >
-> The shout went off down the channel and came back from all sides at once.
+> "Nereth." Seralune caught her arm. "He isn't here. There's no door. It's only the wall."
 >
-> "Every turning. Are you all right, Nereth. You're shaking, Nereth. I'm sorry, Nereth." It wasn't a voice Seralune had ever heard her use. "You want to know if I'm all right? You turned round."
+> Nereth looked down at the hand on her arm.
+>
+> "Why do you keep touching me?"
+>
+> "I only—"
+>
+> "Every time you touch me, they get louder." She tore her arm free. "What are you doing to me?"
+>
+> "I'm not doing anything!"
+>
+> Nereth flinched as if Seralune had hit her. When she lifted her head, it wasn't a face Seralune had ever seen her wear.
+>
+> "You turned round."
 >
 > "What?"
 >
-> "In the wash passage. He was already coming back for me. All you had to do was keep walking, and he'd have got us both through that door. But you turned round, so he stayed."
+> "In the wash passage. He was already coming back for me. All you had to do was keep walking, and he'd have got us both through that door. But you turned round, so he stayed." She came a step closer. "Do you understand that, Your fucking Highness?"
 >
-> "I couldn't leave you there."
+> "I couldn't leave you there!"
 >
-> "No. You couldn't. So he had to."
+> "No, you couldn't. So he had to."
+
+> Her arm came across Seralune's throat and put her back against the wall. The lamp went out of Seralune's hand, and she heard it break on the ledge, and the flame went out.
 >
-> Nereth's arm came across her throat and put her back against the wall. The lamp went out of Seralune's hand, and she heard it break.
+> In the glow from the roots, Nereth's face was a hand's width from hers. All along the wall behind her, the little white flowers had turned on their stems towards Seralune, every one of them.
 >
-> "Do you know what he told me?" Nereth's face was so close that Seralune could feel the words. "Before I'd ever set eyes on you. 'Watch over her. Even if she seems dangerous.'" She laughed, and it wasn't her laugh either. "You. Why *you*?"
+> "Do you know what he told me, before I'd ever set eyes on you? 'Watch over her. Even if she seems dangerous, she's important.'" She laughed, and it wasn't her laugh. "Why *you*? I could burn this whole place down round you, and you'd still be standing there saying sorry."
 
-*New in A:* Nereth blurts out Cyrandor's secret order. It's already decided that he gave it, and that Nereth "is struggling to understand why her". Here the mana makes her say it. It's the first time anyone calls Seralune dangerous to her face, just before the fire.
-
-**B** keeps the order for later. Nereth's last speech becomes:
-> "You turned round, and he's going to die for it. Do you understand that, Your fucking Highness?"
-
-*Recommended:* A, and you could add B's last line before the laugh if you want Revy at full strength. The swearing is your call.
-
-**Her thought** after "dangerous", if you take A. Where "I never had magic" first appears is still open, and this would be it:
-> *Dangerous. How could I be dangerous? I've never had magic in my life.*
+> *Dangerous? How could I be dangerous? I've never had magic in my life.*
 
 ## D7. "Help me" (beat 6)
 
-*The author:* a "help me" interrupts them, coming out of the corpses' mouths, and Seralune goes after it. The voice is copied: it's the last words of one of the dead.
-
 > "Help me."
 >
-> It came from the wall beside them, close enough to touch. The dead servant sitting there hadn't moved, but its jaw hung open round the roots, and the voice had come out of it: a girl's voice, hoarse, as if she had been calling for a long time.
+> It came from the wall at Seralune's shoulder. The dead servant sitting there hadn't moved, but its jaw hung open round the roots, and the voice had come out of it: a girl's voice, hoarse, as if she had been calling for a long time.
 >
-> Nereth's arm went slack across her throat.
+> Nereth's arm went slack.
 >
-> "Help me." It came from further along, from another one. Then it came from somewhere ahead. "Help me. Please."
+> "Help me." It came again from further along, out of another of them, then from ahead, and from above, all in the same voice. "Help me. Please. Please, help me."
 >
-> "Someone's alive down there," Seralune said.
+> "Someone's alive," Seralune said. "Someone's down here."
 >
-> "They're dead." Nereth was staring at the open mouth. "All of them."
+> Nereth was staring at the open mouth. "They're dead, Your Highness." It was nearly her own voice again. "All of them."
 >
 > "Then who's calling?"
+>
+> Seralune ducked under her arm and went towards the voice. She heard Nereth come after her. Then Nereth's hand found hers in the half-dark and held on, tight, and didn't let go.
 
 "As if she had been calling for a long time" is a comparison Seralune has earned: she called for hours in Chapter 4.
 
 ## D8. The lizard (beats 7–8)
 
-*The author:* a small corrupted lizard with roots and flowers growing on it. It reacts to Nereth pulling Seralune's arm away, and bites Nereth's face. *Claude's proposal:* the voice shocks Nereth back to herself for a moment, so her last clear words are a warning that Seralune doesn't take.
-
-> It was no longer than her hand. Roots had grown through it and out of it, and small pale flowers had opened along its back. It was caught in the mat of roots, and every time it breathed, the voice came out of the dead round them.
+> It was in a hollow at the end, caught in the roots: a lizard no longer than her hand. Roots had grown through it and out of it, and small white flowers had opened all along its back. Its sides went in and out, quick and shallow, and every time they did, the voice came out of the dead behind them.
 >
-> "It's hurt," Seralune said. "It's caught."
+> "Help me."
 >
-> "It's watching your hand." Nereth was close behind her. "Not your face." *(old chapter)*
+> "It's caught," Seralune whispered. "It's hurt."
+>
+> "It's watching your hand." Nereth's breath was against her ear. "Not your face."
 >
 > "It's frightened."
 >
-> "Frightened things still bite." *(old chapter)*
+> "Frightened things still bite."
 >
 > Seralune reached for it anyway.
 
-Then comes the pull, the bite, and Nereth's scream. There are no more words until the fire.
+Nereth's last clear words are a warning in her own dry voice, and Seralune doesn't take it. "It's watching your hand…" and "Frightened things still bite" come from the old chapter.
 
-## D9. Her name (beats 8–9)
+## D9. The bite, and the voice (beats 8–9)
 
-*Your call (from the old chapter, moved):* in the agony, before the fire, Nereth says her name, for the only time.
+> Nereth wrenched her arm back, and the lizard came off the roots at Nereth's face.
+>
+> She screamed until she had no breath left to do it. Then she went quiet, and that was worse. She knelt in the channel with both hands over the left side of her face, rocking, and when she opened her mouth, the voice that came out wasn't hers.
+>
+> "Help me."
+>
+> It was the voice from the walls.
+>
+> "Nereth, no. Look at me. Nereth—"
+>
+> Nereth's hand found her wrist and held on hard enough to hurt. For one breath, the voice was her own again.
+>
+> "Seralune—"
+>
+> Then the fire came.
 
-> Nereth's hand found her wrist and held on hard enough to hurt. "Seralune—"
+It's the only time Nereth uses her name.
 
-*Recommended:* yes. It's the one moment the person under the madness reaches for her, and it explains nothing.
+## D10. The fire and the hole (beats 9–11)
 
-## D10. The fire and the hole (beats 10–11): her thoughts
+Your atomic feeling, through what she lives, with no word she couldn't have:
 
-**When the fire parts:**
+> The light came first. It filled the channel from wall to wall, white at the heart and purple at the edges, and for an instant she saw every root and every one of the dead as clearly as if it were noon. Then she couldn't see anything.
+>
+> There was no sound at all.
+>
+> Then there was nothing but sound, bigger than the falls had ever been under her window, and the floor went out from under her.
+
+The rest, in order:
+- The channel heaves, and stone comes down behind them and goes on coming down.
+- The fire comes back up the channel, the whole width of it.
+- It reaches them and goes round them, close enough to touch on both sides. She feels no heat from it at all.
+- **Your call:** *Her mana moved, the way it had in the black, and settled again.* (Chapter 4 opens with her feeling it move.)
+
 > *It went round us.*
 
-Nothing more. She doesn't know why, and the page doesn't say.
+When it's gone, the roots and the dead are gone with it. The channel runs on ahead, black, bare and smoking. A long way off, at its end, there's a ragged hole, with stars in it.
 
-**At the hole** (round 3, question 1):
-- **A (recommended):** *All her life, people had said there was nobody in Natharul like Thaer. She had never seen him do anything like this.*
-- **B:** *She had never seen anything like it.*
+At the hole, in the narration, as you approved (1A):
+
+> All her life, people had said there was nobody in Natharul like Thaer. She had never seen him do anything like this.
 
 ## D11. Fresh air (beats 12–13)
 
-*The author:* out of the mountain and in the fresh air, Nereth's mind recovers. Seralune carries her down the mountain.
-
-**Her mind coming back:** her title is the sign.
+> The air changed first. It was cold, and it moved, and it smelled of salt and burning instead of rot.
+>
 > "Your Highness."
 >
 > Seralune nearly dropped her. Nereth's voice was hoarse, but it was her own again, and so was the way she said it.
@@ -219,29 +285,43 @@ Nothing more. She doesn't know why, and the page doesn't say.
 > "I can walk."
 >
 > "You can't hold your own head up."
+>
+> Nereth tried to, and couldn't.
 
-**Further down:**
+Further down:
+
 > "Leave me here, then."
 >
 > "No."
 >
-> "You didn't even stop to think about it." *(old chapter)*
+> "You didn't even stop to think about it."
 >
-> "I thought about it under the mountain." *(old chapter)*
+> "I thought about it under the mountain."
 >
-> "Under the mountain I had my arm across your throat."
+> "Under the mountain, I had my arm across your throat."
 >
 > "That wasn't you."
 >
-> Nereth was quiet for a long time. "It felt like me."
-
-"It felt like me" fits the rule: the mana makes more of what's in her; it doesn't invent it.
-
-**The last exchange,** as it gets light:
-> "If this is how you rescue everyone, Your Highness, I understand your brother's concern." *(old chapter)*
+> Nereth was quiet for so long that Seralune thought she had fallen asleep.
 >
-> "When we get to the bottom, I'll find you a bed. You can spend the whole day telling me everything I did wrong." *(old chapter)*
->
-> "Only a day?" *(old chapter)*
+> "It felt like me."
 
-**Optional, no words** *(Claude's, for her dream of seeing the world):* at first light Nereth lifts her head to look at the ocean below them, and Seralune feels her do it.
+The last exchange, as it gets light (from the old chapter):
+
+> "If this is how you rescue everyone, Your Highness, I understand your brother's concern."
+>
+> "When we get to the bottom, I'll find you a bed. You can spend the whole day telling me everything I did wrong."
+>
+> "Only a day?"
+
+**Optional, with no words:** at first light, Nereth lifts her head to look at the ocean far below them, and Seralune feels her do it.
+
+## Your calls
+
+1. **D5:** "We were told they'd run off." This is new: the palace lied to the servants about the ones who didn't come back.
+2. **D6:** "Your fucking Highness." Revy at full strength. The alternative is to cut it.
+3. **D6:** Cyrandor's secret order said aloud, followed by Seralune's thought *How could I be dangerous? I've never had magic in my life.* That would be the first time it appears on the page.
+4. **D9:** the voice from the walls coming out of Nereth's mouth, then "Seralune—", the only time she says her name.
+5. **D10:** her mana moving as the fire parts round them.
+6. **D10:** the fire's colours: white at the heart and purple at the edges. Nereth's corruption is black-purple.
+7. **D11:** Nereth looking at the ocean without a word.

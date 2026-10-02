@@ -757,10 +757,28 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   6. **"Help me"** is a copied voice, the last words of one of the dead, the way the ogre copied words in Chapter 6.
   7. **Nereth lashes out** over Cyrandor, with words first, then her hands. She also lashes out at Seralune's small kindnesses: Seralune keeps trying to make sure she's all right, and that makes Nereth angry.
   8. **They come out before dawn on Day 3** and go down the mountain as it gets light. Nereth's mind clears in the fresh air, the mark below her left eye stays, and she's too weak to walk.
-- **Round 3 and dialogue round 1 (2 October)** are waiting on the author. Round 3 is how to word the Thaer thought, and Claude's notes on how Nereth's descent builds. The dialogue round is `Volume 1/Chapter 10 - Dialogue.md`: eleven exchanges and thoughts, D1–D11. Lines from the old chapter are marked, and so are three new calls:
-  - the palace's lie that the dead servants "had run away";
-  - Nereth blurting out Cyrandor's secret order ("Even if she seems dangerous");
-  - "I never had magic" first appearing here.
+- **Round 3 and dialogue round 1 (2 October).** Round 3 was how to word the Thaer thought, and Claude's notes on how Nereth's descent builds. Dialogue round 1 is now in `Drafts/`.
+- **Round 3, the author's answers (2 October):**
+  - **The Thaer thought is A,** set in the narration: "All her life, people had said there was nobody in Natharul like Thaer. She had never seen him do anything like this."
+  - **Nereth's descent follows the author's guide** to mana corruption, kept word for word in the design file. The guide's parts are:
+    - paranoia;
+    - sensory hallucination, such as whispers;
+    - grandiosity;
+    - volatile emotions;
+    - obsession;
+    - loss of risk;
+    - a whispering second voice;
+    - temporal disorientation;
+    - erosion of empathy.
+  - Claude built ten steps from it (`Chapter 10 - Dialogue.md`). The god complex is cut down to one line of contempt, and "fuel cells" and "vessels" are left out so the page doesn't point too hard at Seralune.
+  - **All the dialogue rewritten** (the author: match the characters' voices in earlier chapters, no robotic dialogue or prose, a horror chapter). This is dialogue round 2, `Volume 1/Chapter 10 - Dialogue.md`: one version of each exchange, D1–D11, with the prose round it. Seven calls are waiting:
+    - the palace's lie about the dead;
+    - "Your fucking Highness";
+    - Cyrandor's order said aloud, with "I've never had magic in my life";
+    - the voice from the walls coming out of Nereth's mouth, then "Seralune—";
+    - her mana moving as the fire parts;
+    - the fire's colours;
+    - Nereth looking at the ocean.
 
 ## Alaric
 
