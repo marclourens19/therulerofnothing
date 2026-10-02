@@ -1,14 +1,50 @@
 # Chapter 9 Working Design
 
-The author's fourth version (2 October 2026), kept word for word from the author's message. It came with `Chapter 9 - Selected Dialogue and Vision.md` (the approved passages). Earlier versions are in `Drafts/`. The two dialogue rounds it mentions (`Chapter 9 - Dialogue Round 1.md` and `Round 2.md`) are in the author's other workspace and weren't sent. Claude's review is in `Chapter 9 - Design.md` ("Round 4: the approved passages").
+The author's third version (2 October 2026), kept word for word from the author's message, with the review the author sent with it (first, below). The second version is in `Drafts/Chapter 9 - Working Design (second version, 2 October).md`, and the first in `Drafts/Chapter 9 - Working Design (first version, 2 October).md`. Claude's answer is in `Chapter 9 - Design.md` ("Round 3, where it stands").
+
+---
+
+## The review sent with it (2 October)
+
+Most of this works. The strongest addition is the woman who objects, then chooses to hide Alaric anyway. Her help would make the later vision personal: the double turns a decision she freely made into an accusation against him.
+I would keep that, with a few adjustments.
+1. Marta’s grief needs a clear sequence.
+“Where is he? Behind ye?” feels right before she knows. She expects an ordinary explanation, and Alaric cannot give her one.
+“Ye left him?” can then hurt badly—but it should follow enough information for us to understand what she means. Is she imagining him abandoned while wounded, or his body left in the forest?
+Alaric quoting “He told me to take Wena and run” is strong because those were Gerolt’s words. However, his answer should not imply he calmly obeyed. He froze; Silas dragged him away. That distinction matters to his guilt.
+Wena makes the loss sink in; she does not prove Gerolt died. Alaric tells Marta what happened. Then the dog, the sword and Gerolt’s instruction become things Marta struggles to accept.
+2. Keep the objecting woman’s decision genuinely hers.
+Marta acknowledging the risk is right. Offering the woman freedom to decline helping is also right.
+But “keep out of it” cannot mean she will be safe if the household is discovered. She lives there. Marta can release her from lying, hiding him or surrendering her room; she cannot remove the shared danger.
+I would let the woman remain unconvinced when she offers her room. She might simply recognise that it is the least conspicuous hiding place. Helping does not have to mean agreeing. That gives her more character than objections followed by a complete change of heart.
+“He’s Gerolt’s” could work as Marta claiming responsibility for him, but I favour something clearer:
+“Gerolt sent him here. I’m not turning him out.”
+
+The surrounding exchange can carry her anger and the women’s objections. That sentence does not need to explain her entire moral position.
+3. The guard questions are sensible.
+They give Marta something concrete to conceal, and they let Alaric hear her lie for him. That should affect him: she is accepting a risk he cannot repay or control.
+Her answers can be brief, but I would avoid three identical denials in succession. Let her answer naturally and perhaps ask a question of her own about Gerolt. She is grieving and gathering information while managing the interview.
+Claude’s clarification about Wena also resolves the issue: investigators have the neighbour’s account, while these two guards received only the simpler description. No additional informant is needed.
+4. The marriage reveal has a good trigger, but I would refine the answer.
+Alaric asking where an injured Silas will sleep is a real concern. Keep that.
+“Her husband can sleep in the gutter for all she cares” is plausible as an angry woman’s exaggeration, but it should remain her opinion. We should not use it to establish that Marta feels nothing for him.
+An alternative direction would be:
+“He’s got money. Let him pay for a bed somewhere his wife doesn’t have to look at him.”
+
+That reveals the marriage while preserving Silas’s independence and the speaker’s hostility. We can refine it once we give that woman a distinct voice.
+5. The ankle clue is useful, but it does not solve the dream-ending risk.
+I would keep your slow, sick descent rather than change it into running. His ankle can fail to trouble him during the vision without the narration pointing out the discrepancy. Its pain returning when he wakes gives the reader something to recognise afterwards.
+But the real protection against a disposable nightmare is what Alaric does next. Concealing it supplies that consequence.
+I support the headache persisting. It connects this experience to his earlier episodes without transferring blood or deaths into reality.
+“Alaric woke” can be plain. Then someone hears his distress, knocks, and receives “I’m fine.” The lie works because that person has just helped him, and he now fears telling them what their help appeared to cause.
+One small continuity requirement: that person must have learned his name earlier in the chapter.
+My recommendation is to take these proposals forward with those corrections. Keep the objecting woman as the vision’s first victim, preserve your slower movement through the inn, and let the final exchange show Alaric concealing the experience. The double’s exact words remain the most important part to develop next: it must exploit his fear without sounding like the novel delivering a verdict on him.
 
 ---
 
 # Chapter 9 Working Design
 
-Recorded 2 October 2026. No title chosen and no complete chapter drafted. This file separates the author's latest character decisions and approved passages from recommendations still under discussion. Historical reviews below remain labelled as such; the latest decisions take precedence.
-
-Latest dialogue selections: 1B, 2B with the author's revised death account and frozen reaction, and 3A with "when they come knocking" and the dog-treading joke removed. The author approved the resulting selected dialogue, expanded vision and waking prose, then asked how to emphasise the double's sentence. The latest emphasis suggestion—italic *you*, recognition of his own voice and an interrupted internal denial—is included separately for review. Selected passages are in `Chapter 9 - Selected Dialogue and Vision.md`; this is not a complete chapter.
+Recorded 2 October 2026. No title chosen and no chapter drafted. This file separates the author's latest character decisions and proposed events from recommendations still under discussion.
 
 ## Current author decisions
 
@@ -24,10 +60,8 @@ Latest dialogue selections: 1B, 2B with the author's revised death account and f
 - Existing character material describes Alaric as about twenty. His embarrassment at attention can be written as a young adult's response, without making every worker interested in him.
 - When she reopens the door, Marta harshly tells Silas to stay outside. This supersedes her immediate demand at the end of Chapter 8 that he leave Kelmend, while preserving her refusal to admit him to the inn.
 - Silas has his own money and arranges his own lodging. Marta does not send him to another lodging or provide one. He is not a search target: the search is for Alaric and Wena. He can move around Kelmend and gather information, subject to his continuing injury. No separate Silas viewpoint is selected; Alaric learns about his work through later contact or things he can observe.
-- Chapter 9 ends on the arrival night with Alaric's first double appearance inside the false-awakening vision. The two recovery days belong in the next Alaric chapter, after Seralune's Chapter 10. This chapter break is now approved.
-- Approved ending: Alaric apparently wakes during the night, finds blood under his door, discovers the woman who objected and helped hide him dead, then Marta dead downstairs with Wena alive beside her, trying to rouse her. Outside, Kelmend appears utterly destroyed and aflame, with bodies and cries in the streets. The double says "This is who you are, Alaric." He then truly wakes in bed, sweating. This false-awakening vision replaces the earlier first-encounter staging as a waking intrusion.
-- The author now specifies that Kelmend must appear utterly destroyed and aflame, with gruesome death and devastation throughout Alaric's visible surroundings. The double stands facing the fires, turns slowly and says only "This is who you are, Alaric." There is no conversation between them. Sharp visual cuts carry Alaric immediately back to waking in the room.
-- In the real awakening Alaric's thought is "She's alive", not "You're alive". The real woman does not seek a conversation. "I'm fine" belongs to his private reaction or another recipient, rather than an answer to her request to talk. The current sample uses internal thought.
+- Chapter 9 ends on the arrival night with Alaric's first sustained double encounter. The two recovery days belong in the next Alaric chapter, after Seralune's Chapter 10. This chapter break is now approved.
+- Latest ending direction: Alaric apparently wakes during the night, finds blood under his door, discovers a resident woman dead, then Marta dead downstairs with Wena beside her. Outside, Kelmend appears ablaze with bodies and cries in the streets. His apparent double tells him something like "This is who you are, Alaric." He then truly wakes in bed, sweating. This is the author's preferred false-awakening vision, replacing the earlier first-encounter staging as a waking intrusion. Wena's condition in the vision was not specified as dead.
 - Darcy is regarded as the greatest mind in Lazaran and may know something about what happened on Gerolt's farm. The author deferred the exact opportunity, her knowledge and the relevant encounter to that chapter's design. Her reputation does not establish knowledge of Alaric's erased identity.
 
 ## Author's proposed course of events
@@ -42,7 +76,7 @@ Latest dialogue selections: 1B, 2B with the author's revised death account and f
 8. Genuine help and an ordinary reflection precede Alaric going to sleep. His first apparent encounter with the double occurs inside the false-awakening vision described below. The chapter ends this night after the real awakening; a lasting response is recommended rather than treating the awakening as a complete reset.
 9. In the next Alaric chapter, he and Silas have about two days to recover before a lead towards Darcy arrives. Silas can move around and gather information during that interval. The next opportunity requires haste; its mechanism will be designed in the relevant chapter. Alaric acknowledges that he cannot manage the task alone, and Marta directs him to Silas.
 
-These are the author's current scene directions. Marta's grief exchange, the woman's objection and voluntary help, the double's single sentence and Alaric's private waking reaction are selected. The early warning, guard interview, marriage disclosure and ordinary shelter passages still need their exact wording and staging. Silas arranges his own recovery and lodging; its exact location need not be chosen for Chapter 9. The Darcy opportunity is deliberately deferred.
+These are the author's current scene directions. The guards' exact questions, the emotional exchanges and the double's first words remain to be shaped. Silas arranges his own recovery and lodging; its exact location need not be chosen for Chapter 9. The Darcy opportunity is deliberately deferred.
 
 ## What Chapter 8 establishes
 
@@ -53,7 +87,7 @@ The latest author-supplied report from Claude says the repository is newer than 
 - Alaric's ankle and Silas's burned palm still hurt. No instant complete recovery follows from reaching the inn.
 - Alaric knows Marta is Gerolt's niece but does not know about the marriage, the gorge or her information business.
 - The two guards were ordered to question the farmer's niece after closing and after their remaining round. They seek a boy with a large dog, alive, but lack his name, a reliable face, his Empty condition and a confirmed identification of Silas.
-- These two guards' current spoken orders identify a boy and a big dog, without telling them the dog belonged to Gerolt.
+- Their current spoken orders do not identify the dog as Gerolt's. That identification would require a new report or source if added.
 - The author's established upstream search chain already includes a neighbour seeing Gerolt leave with a boy and dog. No new informant is needed for that information to exist among investigators. The two local interview guards can still have received only the simpler boy-and-big-dog description.
 - Silas explicitly told Alaric to warn Marta before the guards reach her door. The warning must precede the full account of Gerolt's death, not wait until the interview interrupts it.
 - The captive woman at the auction closes her hand round the chain beneath her chin. Use that particular image if the auction returns to Alaric's mind.
@@ -89,7 +123,7 @@ Her information network can make maintaining a relationship with her useful to t
 
 The accepted working plan places Alaric's first sustained double encounter after genuine help from Marta. He first needs an ordinary reflection in which he can learn his face, naturally while washing. The author's latest direction makes this first encounter a private false-awakening vision: the inn and city seem destroyed before he truly wakes in bed. It exploits guilt about Gerolt and challenges the safety he has been offered. It does not deliver Darcy's intelligence or take over his choices. Its accusation is not evidence of Alaric's genuine past or a reliable prediction of the future.
 
-The author approved the first-night ending, with the recovery interval shown when Alaric's viewpoint next returns after Seralune's Chapter 10. Do not squeeze two recovery days or the Darcy lead into Chapter 9's closing summary. The author retained "I'm fine" as a private thought or words directed elsewhere; the current draft uses it as an internal final line.
+The author approved the first-night ending, with the recovery interval shown when Alaric's viewpoint next returns after Seralune's Chapter 10. Do not squeeze two recovery days or the Darcy lead into Chapter 9's closing summary. The exact final line remains to be selected; "I'm fine" is still a proposal.
 
 ## Recovery and the next lead
 
@@ -103,15 +137,13 @@ Silas pays for and arranges his own lodging. Marta's instruction to stay outside
 
 Alaric asking Silas for help is a small step towards trusting others. It does not complete the Volume 1 arc in which he later begins carrying responsibility alone. If the double has already urged withdrawal, asking for help can also be an early act of resistance.
 
-## Remaining staging and wording
+## Decisions to settle next
 
-1. The two guards' exact interview lines, Marta's credible last-visit answer and what they say if she asks where Gerolt's body has been taken. Their visit remains an interview, not an established room-search order.
-2. Alaric, Wena and the sword are concealed in the objecting woman's room by her choice. Establish their way upstairs and Alaric's later move into a nearby guest room without inventing unnecessary architectural complications.
-3. How Alaric learns of the marriage through a genuine practical exchange. The marriage itself is settled; its disclosure wording is not.
-4. The early warning and ordinary welcome between the approved excerpts. These should give Marta time to prepare and let Alaric experience real help before the vision.
-5. The latest proposed emphasis around the double's sentence. The sentence, lack of conversation, visual cuts and private waking reaction are already selected; only the suggested italic stress and interrupted denial remain unconfirmed.
-
-The objecting woman is still unnamed. Naming her is an available choice rather than a requirement for the current passages.
+1. Which personal question makes Marta's grief specific, and how does Alaric's answer provoke her next reply?
+2. What do the two interview guards ask, what can Marta credibly answer and where are Alaric, Wena and the sword concealed?
+3. How does Marta respond to the women's divided views about sheltering the hunted pair?
+4. How does Alaric learn of the marriage without a line that exists only to supply the reader with information?
+5. What exact accusation does the double make inside the false-awakening vision, and what one action changes after Alaric truly wakes? Preserve its private appearance, the genuine help preceding it and the distinction between accusation and historical truth.
 
 Deferred rather than blocking Chapter 9: the reason Marta and Silas remain married; the specific last-visit father line; Marta's Affinity; the Empty conversation during recovery; Silas's exact lodging; the Darcy source and opportunity; Redd and Freya's exact chapter number.
 
@@ -141,16 +173,16 @@ The author prefers the following ending movement:
 3. He opens it and finds a resident woman dead. He recoils and vomits.
 4. He goes downstairs and finds Marta dead, with Wena beside her and blood around them.
 5. He goes outside and sees the town apparently burning, bodies in the streets and people screaming or crying.
-6. His own-faced double stands facing the fires amid Kelmend's utter destruction, turns slowly and says only "This is who you are, Alaric." There is no conversation.
-7. Sharp visual cuts lead directly to Alaric truly waking in the inn, badly sweating. The slaughter was a vision experienced as a dream. The real woman does not invite a conversation; Alaric thinks "She's alive" and keeps his distress private.
+6. His own-faced double stands there and accuses him: wording along the lines of "This is who you are, Alaric."
+7. Alaric truly wakes in the inn, badly sweating. The slaughter was a vision experienced as a dream.
 
 This changes the earlier manifestation rule that the first encounter happens while the surrounding waking scene continues. The author may choose dream encounters and waking encounters separately; do not imply that every later appearance is now an ordinary dream. The world-created image remains the existing intended underlying mechanism, while Alaric and the reader lack proof of that mechanism at this point.
 
-Accepted execution and continuing limits:
+Recommendations awaiting selection:
 
 - Give his movement a goal: after the first body he seeks Marta; after finding her he seeks help outside. Do not make the passage a tour of progressively larger horrors.
 - Identify the dead resident through a genuine interaction earlier this chapter, not an anonymous corpse added for impact. Use one familiar detail rather than a catalogue of wounds.
-- Wena remains alive in the approved vision, trying to rouse Marta. This echoes her response to Gerolt without adding a real death or resolving what the vision means.
+- Keep Wena alive in the vision, trying to rouse Marta, as a possible deliberate echo of her response to Gerolt. This is a recommendation; her exact behaviour and condition remain unselected.
 - Render the burning town through the streets and landmarks Alaric actually encounters, not an omniscient account of every district. Keep this expansion shorter than the intimate discovery inside the inn.
 - The double's accusation frames help as danger and presses him towards finding his past. It does not objectively certify guilt, possession or foreknowledge.
 - Let the real awakening leave one concrete consequence: concealment, checking the household, distrust of his own face or intensified pursuit of answers. Choose one immediate action rather than all of them. Sweat alone should not carry the whole aftermath.
@@ -183,17 +215,4 @@ Claude proposes that the dead resident is the same woman who objected and volunt
 
 Claude proposes that his ankle does not hurt in the vision, that he runs down the stairs, and that ankle pain returns immediately on waking. The absent pain can be a subtle clue, but retain the author's slow, sick movement unless explicitly changed; a run is not required. A clue alone does not resolve the danger of a consequence-free dream ending. The changed behaviour after waking remains essential.
 
-
 Claude proposes a plain real awakening, severe headache persisting, someone calling "Alaric?" through the door and his answer "I'm fine." The headache matches the established cost of encounters. Introduce his name to the household beforehand and give the knock a concrete cause such as heard distress. The listener hears him, not the double. No actual blood or bodies cross into the real inn. Do not label the vision in advance, but preserve retrospectively readable details and the reader's uncertainty about its source.
-
-## Subsequent dialogue proposals
-
-The author supplied Claude's further response agreeing with the five corrections. That agreement is Claude's review, not a new human approval of every line. The following additions remain proposals for review:
-
-- The real voice outside Alaric's door is the same woman who objected, chose to hide him and appeared dead in the vision. She hears his distress and comes despite her irritation. Her living voice returns the door motif to actual help, while he conceals what he saw. Give him a guest room after the temporary hiding period, plausibly near her room.
-- Marta asks the guards "Where've they taken him?" The searchers finding Gerolt's body follows the earlier search chain. The question does not by itself settle who has custody, whether it has been moved or where it is. The answer remains for the author and dialogue round.
-- Of Claude's A/B/C double options, C states the intended push towards the past most plainly, but its roof instruction risks sounding like an outline. A's mechanism, without "Count them", better uses actual kindness to impose an unfair interpretation. B gains force if attached to a specific memory. A proposed exchange instead uses Alaric freezing with Gerolt's sword and leaves Alaric demanding the apparent man's identity.
-
-The first dialogue proposals are retained in `Chapter 9 - Dialogue Round 1.md` as a rejected draft. The author rejected their robotic exchanges, Marta's insufficiently personal anger towards Silas, the wording "they shot him", and the premature factual question about what Gerolt said to Silas. The author's direction is to give each exchange two alternatives carrying the speakers' emotion and established character voice.
-
-The two-option round is retained in `Chapter 9 - Dialogue Round 2.md`. The author selected 1B, 2B and 3A with the changes recorded above, and subsequently approved the assembled dialogue and expanded vision in `Chapter 9 - Selected Dialogue and Vision.md`. Earlier double conversations and the woman's invitation to talk are superseded. The latest suggested emphasis is kept separately in that file for review. The objecting woman's name remains open. No complete chapter has been drafted or existing chapter manuscript overwritten.

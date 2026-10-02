@@ -698,6 +698,13 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
     - **Deferred to later chapters:** the Darcy opportunity, Empty (during the rest days, with Silas there), Silas's exact lodging, and Redd and Freya's chapter.
   - Still open for Chapter 9: Marta's grief questions, what the guards ask and where Alaric hides, how Marta answers the women's objections, how Alaric learns of the marriage, and the double's exact words and what changes when he wakes. Claude's round 3 review is in `Chapter 9 - Design.md`.
   - **The third working design (2 October)** keeps the author's review of round 3 word for word. Agreed with Claude: Marta's grief in order ("Where is he? Behind ye?" first; Alaric froze and Silas dragged him away, so he didn't calmly obey); the objecting woman stays unconvinced and offers her room as the least likely to be searched; Marta's line "Gerolt sent him here. I'm not turning him out."; she asks the guards a question of her own; the marriage line "He's got money. Let him pay for a bed somewhere his wife doesn't have to look at him." (to be refined); the slow walk through the vision stays. Still open: the double's words, and who knocks at the end (Claude proposes the woman he saw dead).
+  - **The approved passages (2 October):** the author selected 1B, 2B and 3A from the other workspace's dialogue rounds and approved `Volume 1/Chapter 9 - Selected Dialogue and Vision.md` (kept word for word, with the fourth working design). It covers:
+    - the reopened door ("Ye aren't setting foot under me roof." / "I'll stay outside." / "Aye. Ye fucking will.");
+    - Gerolt's death ("Tell me what happened. Don't just tell me he's dead."; Alaric couldn't leave him; she holds the sword);
+    - the objecting woman, who stays unconvinced, offers her room, and learns his name;
+    - the vision: the woman dead outside his door, Marta dead downstairs with Wena alive nudging her hand, Kelmend burning. The double stands facing the fires, turns slowly, and says only "This is who you are, Alaric.";
+    - the waking: her voice through the door ("Alaric, keep it down, will you?"), *She's alive.*, and his own thought, *I'm fine.*
+  - **Still open:** the emphasis on the double's line, the woman's name, the guards' interview, the early warning, the marriage disclosure and the ordinary welcome.
 
 ## Alaric
 

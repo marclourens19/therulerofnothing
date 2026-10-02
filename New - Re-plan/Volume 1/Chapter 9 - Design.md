@@ -408,3 +408,33 @@ The rule: something true first, then the unfair verdict, and it has to sound lik
 - **C.** "This is who you are, Alaric. Find out what that means before you sleep under anyone else's roof."
 
 C is the one that pushes him towards his past, and it fits what the double is for. Its last words are also the threat that makes him lie at the door. Your rough version comes first, in the dialogue round.
+
+## Round 4: the approved passages (2 October)
+
+The author selected 1B, 2B and 3A and approved the assembled passages and the vision: `Chapter 9 - Selected Dialogue and Vision.md`, kept word for word with the fourth working design. The double's line stays one sentence with no conversation, and "I'm fine" is his own thought.
+
+**Checked against the chapters, and they hold:**
+- Gerolt's message is word for word from Chapter 2 ("Marta, at the inn by the south gate… Tell her the old fool sent you").
+- "He told me to run. I didn't. I couldn't." matches him freezing in Chapter 2.
+- "That morning" fits Chapter 1: Gerolt walked through the corpses "that morning" and carried him home.
+- The woman learns his name ("I'm… Alaric."), so she can say it through his door at the end.
+
+**For the draft (house style and the author's word list):**
+- "ran beneath the **eaves**": eaves is one of the words you said you didn't know. *Suggested:* "ran up under the edges of the roofs".
+- "**awnings**": possibly the same kind of word. "Their covers were gone" would do if you'd rather.
+- "**around**" twice ("twisted around one of his legs", "closed around the hilt"): the house style is "round".
+
+**One line that explains:**
+"Who had let him hide in her room, even after she said it would put them all in danger." The reader has just watched her do it, and principle 5 says not to tell them what they already know. "This was the woman who had helped him upstairs." does the job alone. *Recommended:* cut the second sentence.
+
+**Two questions:**
+1. **Where's Wena when he truly wakes?** The waking doesn't place her. She went upstairs with the woman to hide, and the agreed rule is that she reacts to his distress. *Recommended (Your call):* she's on the floor by the bed with her head up. When he puts out his hand, she pushes her nose into it, alive, as she pushed at Marta's open hand in the vision. It's one line, and it gives him something real to hold besides the sheet. *Alternative:* she sleeps downstairs by Marta, and he can't check without going down.
+2. **"We've got the girls."** It sounds as if the speaker isn't one of them. Is she one of the working women, or someone else in the household (who helps Marta run the house, say)? It changes how she speaks for the others.
+
+**The emphasis (awaiting selection):**
+*Recommended:* take "The voice was his too." and the cut-off "*No. I didn't—*", and leave "you" unstressed.
+- Chapter 1 opens on "He didn't know what his own voice sounded like." Now he hears it from outside for the first time, saying this. That's where the extra weight comes from, and it's already on the page.
+- The italic *you* reads as emphasis for its own sake, and the plain sentence is colder.
+- The denial is his Subaru mouth starting and being cut off by the images, so the accusation lands without his answer.
+
+**Still to write before the chapter is ready:** the early warning, the guards' interview, the marriage disclosure, and the ordinary welcome (washing, his face in the water, the guest room). Then a last check of the whole shape, and the chapter waits for your go-ahead.
