@@ -780,6 +780,13 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
     - the fire's colours;
     - Nereth looking at the ocean.
 - **The dialogue options file (2 October).** The author asked for a dialogue file in the layout of the Chapter 9 "Selected Dialogue and Vision", to "read through it and choose the options i like and edit the dialouge", with "2-3 options for dialogue and important beats/pose". It's `Volume 1/Chapter 10 - Dialogue Options.md`: sixteen moments in scene order, each in two or three versions with their prose, and drafting notes. Rounds 1 and 2 are in `Drafts/`. It's waiting on the author's choices.
+- **Rewritten from scratch (2 October).** The author: the options read like "plain text without any story or emotions behind them, there is no horror"; study Chapters 1–9. The new version is built on what Chapters 4, 5 and 7 do:
+  - Seralune's inner life in the dark (memory, pride, her mother, talking herself down);
+  - her mana crowding up when she's frightened, which now makes Nereth worse each time;
+  - Nereth's descent shown through her own habits breaking;
+  - the falls that "never stop", which can't be heard down there.
+
+  It has twelve moments, in two or three fuller versions each. The first version is in `Drafts/`.
 
 ## Alaric
 
