@@ -1,6 +1,6 @@
 # Chapter 9 Working Design
 
-The author's fifth version (2 October 2026), kept word for word from the author's message. It came with `Chapter 9 - Dialogue.md` (the consolidated dialogue and vision, in scene order), which replaces `Chapter 9 - Selected Dialogue and Vision.md` (now in `Drafts/`). Earlier versions of this file are in `Drafts/`. The files it names as history (`Chapter 9 - Dialogue Round 1.md`, `Round 2.md`, `Chapter 9 - Remaining Dialogue Options.md` and `Chapter 9 - Remaining Dialogue Selections.md`) are in the author's other workspace and weren't sent. Claude's review is in `Chapter 9 - Design.md` ("Round 5: the consolidated dialogue").
+The author's fourth version (2 October 2026), kept word for word from the author's message. It came with `Chapter 9 - Selected Dialogue and Vision.md` (the approved passages). Earlier versions are in `Drafts/`. The two dialogue rounds it mentions (`Chapter 9 - Dialogue Round 1.md` and `Round 2.md`) are in the author's other workspace and weren't sent. Claude's review is in `Chapter 9 - Design.md` ("Round 4: the approved passages").
 
 ---
 
@@ -8,11 +8,7 @@ The author's fifth version (2 October 2026), kept word for word from the author'
 
 Recorded 2 October 2026. No title chosen and no complete chapter drafted. This file separates the author's latest character decisions and approved passages from recommendations still under discussion. Historical reviews below remain labelled as such; the latest decisions take precedence.
 
-Current companion dialogue: `Chapter 9 - Dialogue.md`. This consolidated file contains the door, grief, voluntary hiding, guard interview, marriage disclosure, ordinary welcome and vision in scene order. It incorporates the latest marriage cut and the woman's light teasing of Alaric during the boot scene. References below to separate dialogue-round files describe the development history; use the consolidated dialogue for the current passages. The earlier proposed verdict emphasis remains separately labelled as unselected.
-
 Latest dialogue selections: 1B, 2B with the author's revised death account and frozen reaction, and 3A with "when they come knocking" and the dog-treading joke removed. The author approved the resulting selected dialogue, expanded vision and waking prose, then asked how to emphasise the double's sentence. The latest emphasis suggestion—italic *you*, recognition of his own voice and an interrupted internal denial—is included separately for review. Selected passages are in `Chapter 9 - Selected Dialogue and Vision.md`; this is not a complete chapter.
-
-Subsequent remaining-exchanges selections: 1A, 2B, 3A and 4B. The author requested Marta initially refuse Alaric because of the search, then relent after his plea; removal of her demand that these guards investigate Gerolt's whereabouts; a direct marriage disclosure ending "Leave it at that, Alaric"; and Alaric thanking the woman for her help and shelter rather than asking for her room back. Revised wording is in `Chapter 9 - Remaining Dialogue Selections.md`. The early warning and threshold are now combined so the invitation happens once. These selections are distinct from the earlier grief/vision round's numbering.
 
 ## Current author decisions
 
@@ -46,7 +42,7 @@ Subsequent remaining-exchanges selections: 1A, 2B, 3A and 4B. The author request
 8. Genuine help and an ordinary reflection precede Alaric going to sleep. His first apparent encounter with the double occurs inside the false-awakening vision described below. The chapter ends this night after the real awakening; a lasting response is recommended rather than treating the awakening as a complete reset.
 9. In the next Alaric chapter, he and Silas have about two days to recover before a lead towards Darcy arrives. Silas can move around and gather information during that interval. The next opportunity requires haste; its mechanism will be designed in the relevant chapter. Alaric acknowledges that he cannot manage the task alone, and Marta directs him to Silas.
 
-These are the author's current scene directions. Marta's grief exchange, the woman's objection and voluntary help, the double's single sentence and Alaric's private waking reaction are selected. The early warning, guard interview, marriage disclosure and ordinary shelter now have selected directions and revised passages presented for reading. Silas arranges his own recovery and lodging; its exact location need not be chosen for Chapter 9. The Darcy opportunity is deliberately deferred.
+These are the author's current scene directions. Marta's grief exchange, the woman's objection and voluntary help, the double's single sentence and Alaric's private waking reaction are selected. The early warning, guard interview, marriage disclosure and ordinary shelter passages still need their exact wording and staging. Silas arranges his own recovery and lodging; its exact location need not be chosen for Chapter 9. The Darcy opportunity is deliberately deferred.
 
 ## What Chapter 8 establishes
 
@@ -109,17 +105,13 @@ Alaric asking Silas for help is a small step towards trusting others. It does no
 
 ## Remaining staging and wording
 
-1. Selected interview direction: the elves had Gerolt when the report arrived, but these guards do not know where he is now or whether Marta can see him. She asks personally about access; they do not promise to investigate. Their visit remains an interview, not an established room-search order.
+1. The two guards' exact interview lines, Marta's credible last-visit answer and what they say if she asks where Gerolt's body has been taken. Their visit remains an interview, not an established room-search order.
 2. Alaric, Wena and the sword are concealed in the objecting woman's room by her choice. Establish their way upstairs and Alaric's later move into a nearby guest room without inventing unnecessary architectural complications.
-3. Selected marriage direction: Alaric asks about Silas's lodging and cloak. Marta reveals "Aye. Me", then sighs and closes the subject with "Leave it at that, Alaric." The author removed the additional "You're married?" / "Did he not tell ye?" exchange and Alaric's explanation of what Silas said.
-4. Selected early warning and welcome: Marta first refuses trouble, then lets Alaric and Wena in after his plea. Silas remains excluded. In the guest room Alaric thanks the woman for helping him and letting him stay; he does not ask whether she needs her room back. Her low-cut dress shows her cleavage when she bends towards his boot; he blushes, turns away and asks to do it himself. She teases him lightly and leaves him room to try. His injured ankle still requires some assistance, which he asks for. Ordinary care and his unfamiliar reflection precede sleep.
+3. How Alaric learns of the marriage through a genuine practical exchange. The marriage itself is settled; its disclosure wording is not.
+4. The early warning and ordinary welcome between the approved excerpts. These should give Marta time to prepare and let Alaric experience real help before the vision.
 5. The latest proposed emphasis around the double's sentence. The sentence, lack of conversation, visual cuts and private waking reaction are already selected; only the suggested italic stress and interrupted denial remain unconfirmed.
 
 The objecting woman is still unnamed. Naming her is an available choice rather than a requirement for the current passages.
-
-The alternatives in `Chapter 9 - Remaining Dialogue Options.md` are retained as history. The author chose 1A, 2B, 3A and 4B with changes; current revised passages are in `Chapter 9 - Remaining Dialogue Selections.md`. Selection 2B retains Natharul custody at the time of the report with the present location unconfirmed. Gerolt's death remains in the woods near the river. The door passage has been integrated with the early warning in `Chapter 9 - Selected Dialogue and Vision.md`; the approved grief, voluntary hiding and vision passages remain intact.
-
-Integration detail: Marta holds Gerolt's sword at the end of the approved grief exchange. Show its return or transfer before Alaric, Wena and the blade are concealed upstairs. Do not silently move it from her hands into the hiding room. Alaric later receives a guest room near the woman who helped him.
 
 Deferred rather than blocking Chapter 9: the reason Marta and Silas remain married; the specific last-visit father line; Marta's Affinity; the Empty conversation during recovery; Silas's exact lodging; the Darcy source and opportunity; Redd and Freya's exact chapter number.
 

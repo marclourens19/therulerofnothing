@@ -438,3 +438,38 @@ The author selected 1B, 2B and 3A and approved the assembled passages and the vi
 - The denial is his Subaru mouth starting and being cut off by the images, so the accusation lands without his answer.
 
 **Still to write before the chapter is ready:** the early warning, the guards' interview, the marriage disclosure, and the ordinary welcome (washing, his face in the water, the guest room). Then a last check of the whole shape, and the chapter waits for your go-ahead.
+
+## Round 5: the consolidated dialogue (2 October)
+
+The author sent `Chapter 9 - Dialogue.md`, all seven passages in scene order, with the fifth working design. Both are kept word for word. The earlier `Selected Dialogue and Vision` is in `Drafts/`. The remaining exchanges came from the author's other workspace (selections 1A, 2B, 3A and 4B). The emphasis on the double's line is now marked unselected, so the plain line stands.
+
+**Checked against the chapters, and they hold:**
+- "He told me to show you this." Chapter 2: "Show her that."
+- The back door, the lane and the market stalls are all in Chapter 8.
+- The guard who said "Keep your bloody voice down" in the yard is the tired one, so "the other man" is right. The loud one is the one who called her the prettiest woman in Kelmend, so he's the one flustered by the drink.
+- "He burnt it getting me away from—": Chapter 3 (the blade glowing in the elf) and Chapter 6 ("that hand stay on the hilt while the steel turned red").
+- "Anything from before yesterday": he woke on Day 1 and this is Day 2.
+- He never sees his face in Chapters 1–8, so "I thought I'd recognise it" is safe.
+- Marta's "There's people sleeping above yer head" while he's listening above her head works without any comment.
+
+**Fixes for the draft:**
+1. **The sword is never handed back.** Marta holds it at the end of section 2, and in section 6 he walks into the guest room with it. The working design itself says not to move it silently. *Recommended (Your call):* in section 3, after "Alaric got up more carefully this time.", Marta holds it out to him, grip first, and he takes it. She has just found out Gerolt is dead and she gives his sword back to the boy he gave it to, with no words.
+2. **Section 2 repeats the door.** She heard "the old fool sent me" and "He told me to show you this" a page earlier, so "He said to find you at the inn by the south gate, and tell you the old fool sent me." tells her again. *Recommended:* "He gave it to me." on its own. "Well, the old fool can come and tell me himself" still works, because she heard the words at the door.
+3. **Two cloths in section 5.** "Alaric stopped pulling at the cloth." means the cloak, and the next line, "Marta set the cloth down.", is her wiping cloth. *Suggested:* "Alaric's hand stopped on the cloak." Then "Marta sighed and picked up the cloth again" follows "Marta set the cloth down." with only "Aye. Me." between: *suggested* "She sighed and picked it up again."
+4. **Boots.** He takes one boot off, then the woman is "gathering his boots". One line for the other boot ("He pulled the other off himself.") fixes it.
+5. **From round 4, not taken up yet:** "eaves", "awnings", "around" (now three: "twisted around", "closed around the hilt", "stepped around the woman's body"), and the explaining sentence "Who had let him hide in her room…". The last is even less needed now, because the welcome shows her helping him again. Unless the author wants them kept, Claude will make these in the draft.
+
+**Questions:**
+1. **"When they come knocking"** is still in section 3, but the working design says it was removed. Which is right?
+2. **"We're talking about this again when they've gone."** This is a promise, and the reader will wait for it. Section 5 is Marta and Alaric alone, and section 6 has the woman taking him to his room. *Recommended (Your call):* close section 5 with Marta handing him to the woman, and keeping the promise: something like "Take him up, will ye? Then you and I'll talk." It also gets him from the table to the guest room.
+3. **Wena on waking.** He takes her into the guest room in section 6, so she's in the room when he wakes, but the waking doesn't mention her. In the vision she was downstairs by Marta, not with him. *Recommended:* one line. She's by the bed with her head up, and when he puts out his hand she pushes her nose into it.
+4. **Two of the author's course-of-events steps aren't in the passages:** Alaric noticing Marta's beauty (step 3), and Marta asking whether Silas had anything to do with it (step 5). Are they cut, or still wanted? For the first, nothing about how she looks is established, so Claude wouldn't invent hair or eyes. *Suggested:* when the door reopens and he sees her in the light for the first time, he understands what the guards in the yard meant.
+5. **"We've got the girls"** and the woman's name: still open from round 4.
+
+**What would make it 100/100:** two threads already run through the chapter, and they should be drafted on purpose:
+- The sword's path: Gerolt to Alaric, Alaric to Marta, Marta back to Alaric (question 1 above).
+- The woman's arc: she objects, then hides him, helps with his boot, moves the candle so he can see his face, lies dead in the vision, and is alive and irritated through the door.
+
+If both land, the vision hurts because of things the reader has watched, not because it's gory.
+
+Once these are answered, the chapter is ready to write, and it waits for the author's go-ahead.
