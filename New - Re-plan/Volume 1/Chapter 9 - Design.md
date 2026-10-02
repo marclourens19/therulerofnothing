@@ -684,3 +684,16 @@ The author's notes:
 - In option 2, Marta knows the sword on sight. That's new, and the author approved it.
 - At the table she now says: "Ye said ye'd tell me inside. Why've ye got his sword? Where's Gerolt?"
 - Two repeats were fixed in the chosen option: the second "glanced down the lane" is now "His eyes went to the end of the lane", and "Marta kept her hand on the door" is now "Marta didn't move from the doorway".
+
+## Three final passes (2 October)
+
+The author: "do 3 final passes on the chapter". The chapter is 4,155 words.
+1. **Errors and logic:** one fix. "When he woke, he wouldn't have to get up and walk anywhere. Marta had said he could stay tonight." counted on the morning, but she only gave him tonight. It's now "For tonight, he didn't have to go anywhere. Marta had said he could stay." Also checked, and they hold:
+   - the new door: she sees the sword in the doorway, and his "Gerolt sent me to you" stays;
+   - "Ye said ye'd tell me inside";
+   - Rhose learning about the guards in the kitchen;
+   - the version B room, from the boot to the blanket.
+2. **POV:** none found. Alaric only hears the interview. "At whatever his face was doing" keeps the room in his eyes. "His face twisted" is felt, and it's the author's line.
+3. **Continuity and house style:** the sword, lead, cloak, boots, candle, bolt and light all hold. Rhose is "the woman" until she gives her name. The style check is clean.
+   - "He told me to run" comes twice, as the author chose: first as the account, then as his self-blame.
+   - The guard's line "the elves had him when the report came in" comes back in bed, on purpose.

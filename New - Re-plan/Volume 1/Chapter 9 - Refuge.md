@@ -446,7 +446,7 @@ He slid the bolt across the door. Then he took off Silas's cloak, laid it over t
 
 Below him, two women were talking in low voices. He knew Marta's, and he thought the other was Rhose's. He couldn't make out the words. Once Rhose said something sharper, and after that they were both quiet for a long time.
 
-When he woke, he wouldn't have to get up and walk anywhere. Marta had said he could stay tonight.
+For tonight, he didn't have to go anywhere. Marta had said he could stay.
 
 He reached down until his hand found Wena's ear.
 

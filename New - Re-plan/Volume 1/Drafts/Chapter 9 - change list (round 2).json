@@ -7,7 +7,8 @@
  "sections": {
   "Who's speaking": "Who's speaking (the guards' interview)",
   "The name: Rhose": "The name: Rhose (one change per paragraph)",
-  "Round 9": "Round 9: the author's choices (2 October)"
+  "Round 9": "Round 9: the author's choices (2 October)",
+  "Final passes": "Three final passes (2 October)"
  },
  "changes": [
   {
@@ -295,6 +296,17 @@
    "why": "She asked about the sword at the door, and he promised to tell her inside.",
    "decision": "accepted",
    "decision_note": "The author, 2 October: \"fix the line inside\"."
+  },
+  {
+   "section": "Final passes",
+   "title": "Tonight",
+   "kind": "changed",
+   "tags": [],
+   "before": "When he woke, he wouldn't have to get up and walk anywhere. Marta had said he could stay tonight.",
+   "after": "For tonight, he didn't have to go anywhere. Marta had said he could stay.",
+   "why": "Pass 1 (logic): \"When he woke\" counted on the morning, but Marta only said \"tonight\". Now the line says only what she gave him.",
+   "decision": "accepted",
+   "decision_note": "Three final passes (the author's request, 2 October)."
   }
  ]
 }

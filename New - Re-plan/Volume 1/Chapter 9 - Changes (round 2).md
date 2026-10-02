@@ -4,8 +4,8 @@
 
 ## At a glance
 
-- **26 changes proposed.** 0 rejected so far, so 26 are in the chapter: 26 rewritten, 0 cut and 0 added.
-- **Length:** 4,018 words before, 4,160 after.
+- **27 changes proposed.** 0 rejected so far, so 27 are in the chapter: 27 rewritten, 0 cut and 0 added.
+- **Length:** 4,018 words before, 4,155 after.
 - **Median paragraph:** 10 words before, 11 after. The house target is roughly 14–22.
 - **"Nothing":** 4 times before, 4 after.
 
@@ -43,6 +43,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 24, His self-blame:** The author, 2 October: "Yes do B".
 - **Change 25, The room: version B:** The author, 2 October: "Yes do B".
 - **Change 26, Marta at the table:** The author, 2 October: "fix the line inside".
+- **Change 27, Tonight:** Three final passes (the author's request, 2 October).
 
 ## The changes
 
@@ -563,3 +564,21 @@ Each of these needs a yes or no from you. It adds something about a character or
 **Why.** She asked about the sword at the door, and he promised to tell her inside.
 
 **Your decision.** The author, 2 October: "fix the line inside".
+
+### Three final passes (2 October)
+
+#### 27. Tonight
+
+*Draft line 441 → revised line 449*
+
+**Before**
+
+> When he woke, he wouldn't have to get up and walk anywhere. Marta had said he could stay tonight.
+
+**After**
+
+> For tonight, he didn't have to go anywhere. Marta had said he could stay.
+
+**Why.** Pass 1 (logic): "When he woke" counted on the morning, but Marta only said "tonight". Now the line says only what she gave him.
+
+**Your decision.** Three final passes (the author's request, 2 October).
