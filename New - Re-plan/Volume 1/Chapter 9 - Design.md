@@ -1,6 +1,6 @@
 # Chapter 9: Design
 
-Started 1 October 2026. **Status:** round 1, waiting on the author. Nothing here is decided until it's answered. New material is marked **Your call**.
+Started 1 October 2026. **Status (2 October):** the author's working design, `Chapter 9 - Working Design.md`, replaces the six-scene shape below (kept as a record). Round 1's answers so far, and Claude's round 2 review of the working design, are at the end of this file. New material is marked **Your call**.
 
 **The target:** 4,000–5,000 words, and longer if the story needs it. Claude's estimate for the shape below is **4,500–5,500**. Per-scene budgets have run about a quarter high on every chapter so far, so read it as a range.
 
@@ -29,7 +29,7 @@ Started 1 October 2026. **Status:** round 1, waiting on the author. Nothing here
   - She told Silas never to show his face again. It's her own rule, not a warrant.
   - Wena knows her, because Gerolt visited often.
   - **Still undecided:** her age, look, Affinity, manner, and her part in Darcy's story.
-- **Silas** still loves her. They were going to be married before the gorge. He accepts that she may take the boy in and still refuse him (Chapter 8, round 3).
+- **Silas** still loves her. *(Superseded 2 October: they married, separated after her father died, and are still married.)* He accepts that she may take the boy in and still refuse him (Chapter 8, round 3).
 - **The search:** bring the boy in alive. A neighbour saw Gerolt leave towards the forest with a boy and his dog, so the dog is likely known to be Gerolt's (Chapter 8's working design).
 - **"Empty" is Alaric's own word** (Chapter 1). Gerolt said "You're not Faint. You're…", and the boy said "Empty?" Silas has never been told.
 - **The double** (Decisions, handoff §23):
@@ -214,3 +214,107 @@ When round 1 is answered, I'll update this design. Then we do a dialogue round f
 - the double.
 
 After the dialogue round I'll tell you it's ready, and wait for your go-ahead before writing anything.
+
+## The author's working design (2 October)
+
+Kept word for word in `Chapter 9 - Working Design.md`, with the review that came with it from the author's other workspace. In short:
+1. Gerolt's words through the door stop Marta's footsteps, and she reopens it.
+2. She takes in Alaric and Wena, and sends Silas away.
+3. Alaric notices her beauty, and some of the women at the inn find him handsome.
+4. She hears what happened to Gerolt.
+5. She asks whether Silas had anything to do with it.
+6. The two guards come, and she handles them, with drinks promised after their next shift.
+7. She shelters Alaric.
+8. After about two days' rest, a lead towards Darcy arrives. Alaric admits he can't do it alone, and Marta sends him to Silas.
+
+**Round 1, where it stands:**
+- **1 (the door):** answered, as recommended.
+- **2 (where she hears it):** she lets them in first, then hears it.
+- **3 (the guards):** the visit stays, and she handles them with drinks. 3b–e are still open.
+- **4 ("it was my fault"):** open.
+- **5 (the father line):** under discussion.
+- **6 (who Marta is):** mostly answered. She's the same age as Silas (about forty-five) and married to him. She's the most beautiful woman in Kelmend. She wants to protect the life she's built, she's firm and used to being obeyed, she's a hub of information and secrets, and she's an associate of Avarice. Still open: her detailed look, her Affinity and her private ambitions.
+- **7 (Empty):** open.
+- **8 (the shelter):** she chooses to shelter him.
+- **9 (others in the inn):** answered. There are overnight guests, and the women who live and work there.
+- **10 (the face and the double):** unchanged, and the working design agrees.
+- **11 (Darcy):** a lead towards her after two days' rest.
+- **12 (title):** later.
+- **13 (her beauty):** he notices it at the door, briefly.
+
+## Claude's review: round 2 (2 October)
+
+I agree with most of the other workspace's review: compress Alaric's account and keep Marta receiving it, one teasing woman is enough, the guards leave believing they've done their job, and the Darcy lead must be new. Where I'd go further, or differently:
+
+### 1. Alaric has to warn her about the guards, and early
+Neither version has it, and Chapter 8 sets it up in so many words. Silas: "So she hears about them from you, before those bastards reach her door. Marta won't thank us for keeping her in the dark." It's Alaric's first job at that door, and the first useful thing he does for her. It does three things at once:
+- it's why she lets them in fast, instead of standing in the doorway asking questions;
+- it gives her the minutes she needs to hide a boy, a dog and a sword;
+- it puts a clock on her grief. She hears that Gerolt is dead knowing the knock is coming.
+
+*Recommended:* at the door, once she has seen the sword: "Where is he?", then the news, then the guards. Or the guards first, if she won't let him finish.
+
+### 2. Gerolt's last sound was for Silas
+In Chapter 2, Silas cut down the last riders. Gerolt "looked at the man for a long time", said "Heh.", and the fire on his hand went out. Alaric saw it, and he's the only one alive who did, apart from Silas.
+
+When Marta asks whether Silas had anything to do with it, that's the end of Alaric's answer, after the plain facts: Silas came too late, killed the rest, got him across the river, and held a red-hot hilt to kill the thing on the slope. It's true, it's already on the page, and nobody can explain it: forgiveness, a joke, or just an old man seeing a face he knew at the end. Marta knew her uncle, so she may know that sound. Alaric can't, and it isn't his to explain.
+
+It gives his defence of Silas something no list of good deeds has, and it still doesn't settle Silas's motives. *Recommended:* yes. How she takes it is yours (close to question 4).
+
+### 3. Where Silas spends the night
+The other review prefers separate lodging nearby. I agree it shouldn't be her roof, but I'd get there through one more beat:
+- Silas leaves her door, but not the lane. He goes back to the space across from it, where they waited in Chapter 8. He said "I'm staying with you", and he keeps it in the only way she'll allow.
+- The guards come to the front. He's out there the whole time with a burned hand, and Alaric knows it.
+- Afterwards, Marta sees him there. She doesn't let him in. She sends him somewhere that isn't under her roof. *Where is your call:* a storeroom of hers, a room she pays for elsewhere, or someone who owes her.
+
+That's the "other decision between them" the review asks for. It shows the marriage without a word about it: she can't stand him, and she won't leave him in the cold either. Later, sending Alaric to him is the same thing again: she trusts what he can do, and not him.
+
+*Alternatives:* he goes back to his own place by the river (but he's hurt, and it's outside the wall at night with patrols out), or he finds his own lodging and Alaric has to ask Marta how to reach him.
+
+### 4. The guards: an interview, as Chapter 8 set it
+I agree with the other review: they question her and don't search the rooms. They ask about her uncle, whether anyone has come from the farm, and a boy with a big dog.
+- **Do they tell her Gerolt is dead?** *Recommended:* yes, carelessly, and it's the loud one. He's the one who said "Good for him" in Chapter 8, so he might say he's sorry and mean it. She hears it a second time, from a stranger, with Alaric listening, and it nearly breaks her in front of them. It doesn't.
+- **The drinks** (your direction) then mean more than charm. Ten minutes after she cried, Alaric hears her laugh with them and promise them drinks after their next shift. That's how much control she has, and what it costs her. They leave embarrassed and teasing each other, believing they've done their job.
+- **Wena is the danger.** The search knows the dog is Gerolt's, so somebody has to keep her quiet upstairs.
+
+### 5. The women: decide before writing
+It matters most after the auction. *Recommended:*
+- They're free adult women. They choose their customers, and they can say no.
+- What they hear is theirs to pass on or not, and Marta pays for it separately.
+- They can leave. Marta's rules are the price of the house, and they chose them.
+
+That makes the inn the opposite of the platform without making Marta a saint. She still profits from what they hear, she's used to being obeyed, and one of them can be irritated that Marta is bringing a hunted boy upstairs. *Still open:* whether any of them is 『Faint』, and what that would mean for her there. Chapter 9 doesn't need it.
+
+**Names:** Alaric meets at least two of them (the one who teases him, and the one who's irritated). Give me names if you want them named in this chapter. Otherwise they stay as what he notices about them.
+
+### 6. How Alaric learns they're married
+He doesn't know, and Marta won't tell him. *Recommended (Your call):* after Silas has gone, one of the women lets it slip: "So that's the husband." It's the small answer on Silas and Marta that's been due since Chapter 3, and it explains her anger without explaining the gorge. Why they're still married stays off the page.
+
+### 7. The father line
+The marriage makes it stronger: her husband came home to tell her that her father was dead. In her voice: "Last time ye stood at me door, ye came to tell me my father was dead." It's still under discussion. I'd still have her say it once, to Silas, before she sends him off.
+
+### 8. Where the chapter ends
+*Recommended:* on the first night: the double, then "Alaric?" through the door, and "I'm fine." Days 3 and 4 and the Darcy lead open the next Alaric chapter, after Seralune's Chapter 10.
+- The night already holds the news, Silas, the guards, the household and the double.
+- The two days of rest need room to be good. Squeezed into the end of this chapter, they'd be a summary.
+- The double attacking the safety Marta has just given him is a stronger ending than a lead arriving.
+
+**Where do Redd and Freya enter now?** The outline had them in Chapter 11, with the Faint quarter. If Chapter 11 opens with the rest days, they could enter there. Your call.
+
+### 9. The Darcy lead
+*Recommended:* it comes through the women. A customer (an officer, say) lets slip that Darcy is being moved. That makes it new, explains the hurry, and shows what the information network is for. *Still open:* what Darcy could tell Alaric about the farm (the old version: she knows history and old wars, so she might recognise the machines), and who she is to Marta (the old version: a childhood friend).
+
+### 10. Empty
+Silas won't be in the room tonight. *Recommended:* hold Empty for the rest days, when Marta "investigates what might help him" and Silas can hear it too. It keeps the first night from carrying everything.
+
+### What could make this chapter 100/100 (round 2)
+1. The news given under a clock (the guards coming), and her grief cut short by her own control.
+2. "Heh.": the one thing Alaric saw that only Marta might understand.
+3. Silas across the lane in the cold.
+4. Her laugh with the guards, heard by a boy who watched her cry ten minutes earlier.
+5. Women with their own opinions of what Marta is doing.
+6. His face, the double, and "I'm fine." through the door.
+
+**The risk:** too many new people at once: Marta, the women, the guests, the guards and the double. Keep the women to two, keep the guests offstage, and let Wena be the only one who's simply glad to be home.
+
+**Length:** the first night, as above, comes to about 4,500–5,500 words.

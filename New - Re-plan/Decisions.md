@@ -688,6 +688,9 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 ## Chapter 9
 
 - **Design started (1 October)** in `Volume 1/Chapter 9 - Design.md`: Marta's chapter, straight on from the slammed door, late on the night of Day 2. It proposes six scenes (the shut door; the guards; the kitchen; Empty; the price and the room; the double), and round 1 has 12 questions, with the "100/100" answer. Nothing in it is decided yet.
+- **The author's working design (2 October)** replaces the six-scene shape: `Volume 1/Chapter 9 - Working Design.md`, kept word for word with the review that came with it.
+  - The author's course of events: Gerolt's words through the door make Marta reopen it; she takes in Alaric and Wena and sends Silas away; Alaric notices her beauty, and some of the women find him handsome; she hears about Gerolt; she asks whether Silas had anything to do with it, and suspects he acted selfishly (her reading, not the narration's); the two guards come, and she handles them, with drinks after their next shift; she shelters Alaric; after about two days' rest a lead towards Darcy arrives, Alaric admits he can't do it alone, and Marta sends him to Silas.
+  - Still open: where Silas spends the night, what the guards are ordered to do, the women's terms, the Darcy lead, where the chapter ends, how much of the marriage goes on the page, and when Marta learns he's Empty. Claude's round 2 review is in `Chapter 9 - Design.md`.
 
 ## Alaric
 
@@ -759,7 +762,12 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 - **Her voice** (the author, 2 October; `Volume 1/Marta - Character and Dialogue Handoff (2 October).md`): from **Baderon** (FFXIV), meaning familiar, worldly, blunt and comfortable handling people. Light dialect ("ye", "me", an occasional "lad") with natural contractions; her personality carries the voice more than phonetic spelling. Warm with those she knows ("Wena? Well now, what're ye doing at me door, girl?"). **Keep the swearing.**
 - **The most beautiful woman in Kelmend** (the author, 2 October). The guards gossip that many customers come just to look at her. Her beauty doesn't soften her authority, and doesn't make her welcome Silas.
 - **Her anger at Silas is personal** (2 October): she forbade him to come back, and resents him turning up as if they're mended ("Don't come knocking here as if we're all right").
-- Her age, detailed appearance, Affinity, private ambitions and her part in Darcy's story are still to be decided, with Chapter 9. **Under discussion:** whether Silas's last visit to her door was to tell her that her father was dead.
+- **The same age as Silas** (the author, 2 October). The handoff puts Silas at about forty-five; no exact age is chosen.
+- **Married to Silas, and still married** (2 October). They separated after her father died, and she wanted nothing more to do with him. This replaces "they were going to be married".
+- **What she wants** (2 October): to protect the life she has built. She's firm in her rules and beliefs, used to being obeyed, and a hub of information and secrets in Kelmend.
+- **Avarice** (2 October): she supplies it with information as an associate, not a member. That doesn't make her Gerolt's pupil or a fighter.
+- **The inn** (2 October) has overnight rooms. The front bar closes at night so guests can sleep, but the building isn't empty. **Adult sex workers live and work there,** and their relationships with guards and powerful men are part of her information network. Their terms, their freedom to refuse, and whether they gather information are still to be decided.
+- Her detailed appearance, Affinity, private ambitions and her part in Darcy's story are still to be decided. **Under discussion:** whether Silas's last visit to her door was to tell her that her father was dead.
 
 ## Thaeroval
 
@@ -818,7 +826,7 @@ Not in the central cast yet, and not locked (handoff §7, §14.3).
 - **Affinity:** Fire, Eminent, the same level as Gerolt.
 - He still teaches Alaric the sword.
 - **What he takes from Guts:** pragmatism in brutality. He is very, very cunning.
-- **The gorge survives.** His old squad and Marta's father were all killed. He lives with the guilt every day, blames himself, and lost the woman he loves most in the world: they were going to be married before it happened.
+- **The gorge survives.** His old squad and Marta's father were all killed. He lives with the guilt every day, blames himself, and lost the woman he loves most in the world. **They were married, and still are** (the author, 2 October, replacing "they were going to be married"): they separated after her father died in the gorge, and she wanted nothing more to do with him.
 - **How he came to Avarice (my reading of "he was a part of it", to confirm):** he was once part of the system, then fell in love with Marta and the cause she fought for.
 - **The difference from Gerolt:** Silas always wants to win, by any means necessary. Gerolt holds back; Silas doesn't.
 - **Flaw:** he acts instead of thinking, though he's working on it.
@@ -1110,6 +1118,10 @@ None of these have been changed yet. They're listed so nothing is forgotten when
 - `Old - Before Re-plan/Chapter Design/Chapter 7 - Story Design.md:259`: Marta is "a High Wind user". The World Bible already says Eminent.
 - `Old - Before Re-plan/Chapter Design/Chapter 20 - Story Design.md`, lines 84, 85, 291 and 652.
 - `Old - Before Re-plan/Chapter Design/Chapter 6 - Story Design.md:54`: "not High".
+
+### Silas and Marta are married
+- `Old - Before Re-plan/World Bible/The World.md` (Silas and Marta): a relationship "concealed from the wider network", which Gerolt "knew and disapproved" of, with Marta ending contact. Now they married, and are still married (2 October).
+- `Old - Before Re-plan/World Bible/Main Characters.md` and the old chapters call her the woman he lost, not his wife.
 
 ### Silas arrives in Chapter 2
 
