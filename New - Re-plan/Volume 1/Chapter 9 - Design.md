@@ -711,3 +711,18 @@ The author asked for Claude's own notes on the chapter, then said "apply 1-8". N
 8. **"Careful."** It was cut from "Give me that… Let me hold it a moment." because it wasn't clear who it was for.
 
 Kept, and watched: the flirting sits close to the news of Gerolt's death. It stays at this level.
+
+## Five passes before merging (2 October)
+
+The author: "Do 5 passes in order checking 1 by 1 then if everything good merge with main". The chapter is 4,132 words, and the five passes found nothing to change.
+1. **Errors and logic:** clean. These now hold:
+   - "I only met him yesterday" leads into "He only met ye yesterday?" / "That morning." It's day 2, and he tells Rhose "before yesterday".
+   - "If I'd gone when he said—" points back to "He told me to run".
+   - The guard's "I don't know, Marta." follows his line about the elves.
+2. **POV:** clean. In the vision, "Rhose." comes after "He knew her", so it's his recognition.
+3. **Continuity:** clean. These all hold:
+   - the sword, Wena's lead, Silas's cloak and burnt hand, the two candles and the bolt;
+   - Rhose's room halfway along the passage, and his at the end;
+   - Rhose talking with Marta downstairs, then "I've only just got back to bed".
+4. **Vocabulary:** clean. "Masonry" is the author's own word, from the Dialogue file, so it stays.
+5. **Robotic text and repeats:** clean. "Silas" comes twice in the hiding thought, so it's clear who he's afraid for. The style check is clean.
