@@ -683,6 +683,7 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - **Error pass (1 October),** at the author's request: four fixes (where Alaric walks at the lane; the guards leave by the cart entrance; the woman's cloth, not the lead; the last lit window). The chapter is 5,276 words.
   - **Three final passes (1 October),** at the author's request: two POV fixes (whose hand; who hears the yard), two wording fixes (no "lean-to"; no chain on the inn's board), and nothing needed for consistency and house style. The chapter is 5,268 words.
   - **The author's Marta voice (2 October),** sent as a revised chapter with the Marta handoff: the guards gossip about her beauty ("Prettiest woman in Kelmend") before "She's the farmer's niece"; "Wena? Well now, what're ye doing at me door, girl?"; "Get the fuck out of Kelmend, Silas. Now… I told ye to keep away from me. Don't come knocking here as if we're all right."; and "I said out!". The Word file was made before the three final passes, so those four fixes stay. The chapter is 5,314 words.
+  - **The guards' swearing (2 October,** agreed: "1. Agree 2. Keep bastards 3. Agree"): "Place is always packed" and "Just don't make a nuisance of yourself", so the loud guard keeps the f-words and the cautious one stays plainer. "Half the bastards…" stays.
 
 ## Chapter 9
 

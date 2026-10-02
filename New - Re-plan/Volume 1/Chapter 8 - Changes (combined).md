@@ -5,7 +5,7 @@
 ## At a glance
 
 - **54 changes proposed.** 2 rejected so far, so 52 are in the chapter: 52 rewritten, 0 cut and 0 added.
-- **Length:** 5,340 words before, 5,314 after.
+- **Length:** 5,340 words before, 5,312 after.
 - **Median paragraph:** 16 words before, 16.5 after. The house target is roughly 14–22.
 - **"Nothing":** 1 times before, 1 after.
 
@@ -136,15 +136,15 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> "What, Marta's? Fucking place is always packed."
+> "What, Marta's? Place is always packed."
 >
 > "Half the bastards go there just to gawp at her."
 >
 > "Prettiest woman in Kelmend. Can't blame them."
 >
-> "Just don't make a fucking nuisance of yourself. She's the farmer's niece. They want her questioned after she closes."
+> "Just don't make a nuisance of yourself. She's the farmer's niece. They want her questioned after she closes."
 
-**Why.** Lower case, as in Chapters 2 and 6 (pass 3 of 1 October). 100/100 review: Both guards know where Marta's inn is; the address was for the reader. Then (2 October), the author's addition: the guards gossip that Marta is the most beautiful woman in Kelmend and that many customers come just to look at her. Alaric hears it before he meets her.
+**Why.** Lower case, as in Chapters 2 and 6 (pass 3 of 1 October). 100/100 review: Both guards know where Marta's inn is; the address was for the reader. Then (2 October), the author's addition: the guards gossip that Marta is the most beautiful woman in Kelmend and that many customers come just to look at her. Alaric hears it before he meets her. Then (2 October, agreed by the author: "1. Agree 2. Keep bastards 3. Agree"): two f-words go so the swearing tells the guards apart. The loud one keeps "fucking elves" and "What the fuck's she done?"; the cautious one keeps "bastards" and "bloody" and gives a plain warning. Marta's "Get the fuck out" is the first f-word for a page.
 
 **Your decision.** House style only; the author's text is otherwise unchanged.
 

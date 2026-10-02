@@ -435,3 +435,5 @@ The author sent `Chapter_8_-_The_Road_Owed_to_the_Dead_-_Marta_Voice.docx` with 
 - **Marta's voice at the door:** "Wena? Well now, what're ye doing at me door, girl?"; "Get the fuck out of Kelmend, Silas. Now… I told ye to keep away from me. Don't come knocking here as if we're all right."; "I said out!"
 
 The Word file predates the three final passes (it has "His hand", the lean-to, "he could hear" and the board "on a chain"), so those four fixes stay. The chapter is 5,314 words.
+
+**The guards' swearing (2 October, agreed):** "Place is always packed" and "Just don't make a nuisance of yourself". The loud guard keeps "fucking elves" and "What the fuck's she done?"; the cautious one keeps "Half the bastards…" (the author's choice) and "bloody". Marta's "Get the fuck out" is the first f-word for a page.

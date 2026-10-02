@@ -190,13 +190,13 @@ The first man spat.
 
 "I know. And now we've got the inn as well."
 
-"What, Marta's? Fucking place is always packed."
+"What, Marta's? Place is always packed."
 
 "Half the bastards go there just to gawp at her."
 
 "Prettiest woman in Kelmend. Can't blame them."
 
-"Just don't make a fucking nuisance of yourself. She's the farmer's niece. They want her questioned after she closes."
+"Just don't make a nuisance of yourself. She's the farmer's niece. They want her questioned after she closes."
 
 Silas was watching the guards through the space between two barrels.
 
