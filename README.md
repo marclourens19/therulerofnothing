@@ -47,7 +47,9 @@ The story is being re-planned from the beginning. Current work lives in **New - 
   - `Chapter 8 - The Road Owed to the Dead.md`: Chapter 8 (1 October), the journey to Marta's door. It's now the author's combined version; its changes, Claude's six notes and the later passes are in `Chapter 8 - Changes (combined).md`. The first draft's passes are in `Chapter 8 - Changes.md`.
   - `Chapter 8 - Dialogue Options.md`, `Chapter 8 - Dialogue Round 2.md` (the approved baseline) and `Chapter 8 - Dialogue Round 3 - Silas Voice.md`: the dialogue round for Chapter 8 (1 October), kept word for word.
   - `Chapter 8 - Working Design.md`: the author's working design for Chapter 8 (1 October), kept word for word.
-  - `Chapter 9 - Design.md`: the design of Chapter 9 (started 1 October), Marta's chapter, with round 1's twelve questions.
+  - `Chapter 9 - Design.md`: the design of Chapter 9 (started 1 October), Marta's chapter: round 1's questions, and Claude's round 2 review of the author's working design.
+  - `Chapter 9 - Working Design.md`: the author's working design for Chapter 9 (2 October), kept word for word with the review that came with it.
+  - `Marta - Character and Dialogue Handoff (2 October).md`: the author's Marta handoff (her voice, after Baderon), kept word for word.
   - `Chapters 1-7 - Review of the Author's Revision.md`: Claude's review of the author's revised Chapters 1–7 (1 October), with nine questions. The revision itself is listed change by change in `Chapter N - Changes (author's revision).md` for Chapters 1–6; Chapter 7 had no new changes.
   - `Drafts/`: earlier versions of the chapters, kept unchanged.
 
