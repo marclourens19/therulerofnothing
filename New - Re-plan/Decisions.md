@@ -787,6 +787,12 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - the falls that "never stop", which can't be heard down there.
 
   It has twelve moments, in two or three fuller versions each. The first version is in `Drafts/`.
+- **The voices recast (2 October).** The author: "Seralune should sound like Alisae when she thinks and speaks and Nereth like Ram from rezero and when she breaks down she gets aggrisive". In the third version:
+  - Seralune is sharp, in charge and sarcastic under pressure, scolds herself, and hits back.
+  - Nereth is deadpan and politely superior, with "Your Highness" put on the front of cutting lines.
+  - Every lash-out is aggressive: shouting, swearing, shoving, a slap and choking.
+
+  The second version is in `Drafts/`.
 
 ## Alaric
 
