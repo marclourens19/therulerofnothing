@@ -731,7 +731,32 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   4. her mana goes into Nereth's fire, and Nereth's corruption begins;
   5. Nereth turns on her over Cyrandor;
   6. Seralune carries her out above the coast as the palace bells ring.
-- It updates the old Chapter 10 ("Beneath Natharul"): no lost arm for Cyrandor, the corruption comes from Seralune rather than a bite, no untouched hollow, and a smaller but public collapse. Round 1 (six questions) is waiting on the author. Nothing in it is decided yet.
+- It updates the old Chapter 10 ("Beneath Natharul"): no lost arm for Cyrandor, the corruption comes from Seralune rather than a bite, no untouched hollow, and a smaller but public collapse.
+- **The author's direction (2 October)** replaces that proposal, and is kept word for word in the design file. "I want this to be the Beneath Natharul horror chapter." The working title is "Beneath Natharul". In order:
+  - Nereth leads, because Seralune doesn't know the way, and they walk in circles: Seralune's mana is taking Nereth's sense and mind.
+  - Seralune takes the lead and finds a new path deeper into the corruption. There's fauna, dead bodies covered in roots, and sounds from everywhere.
+  - Nereth, more corrupted, lashes out at Seralune.
+  - A "help me" comes from the corpses' mouths, and Seralune goes after it. Its source is a small corrupted lizard with roots and flowers growing on it.
+  - Nereth pulls Seralune's arm away, and the lizard bites Nereth's face. She's poisoned and corrupted, in extreme pain, and her mind is lost.
+  - Her corrupted fire goes down the aqueduct: massive devastation, the ground shakes, and it blasts through the side of the mountain.
+  - The flames rush back and go round them, because Seralune is holding Nereth.
+  - Nereth's mana is spent. Seralune carries her to the hole, thinking she's never seen destruction like it and that it rivals her brother's power.
+  - Out in the fresh air, Nereth's mind recovers. It ends with Seralune carrying Nereth down the mountain.
+  - **The feel:** dark, close, uncomfortable and unsettling. Nereth's fire is pure destruction, "like an atomic bomb almost in a sense of feeling". Her descent into madness is built slowly.
+- **New world facts from it (the author's, 2 October):**
+  - **Seralune is immune to magic, through her mana.** When she's holding someone, magic goes round them too.
+  - Her mana, in the aqueduct, takes Nereth's sense of direction and her mind, and she recovers in the fresh air.
+  - **Nereth's corruption begins** with the lizard's bite to her face.
+  - Nereth's fire spends all her mana.
+- **Round 2 (eight questions) is waiting on the author:**
+  - deaths above ground;
+  - what Seralune has seen Thaer do with Dark;
+  - where the mind-taking mana comes from;
+  - how far the immunity goes;
+  - who the dead are;
+  - whose voice says "help me";
+  - what Nereth says when she lashes out;
+  - the way out and the time.
 
 ## Alaric
 
