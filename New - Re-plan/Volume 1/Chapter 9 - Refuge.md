@@ -132,7 +132,7 @@ He shut his mouth.
 
 "I can't hear that just now." She swallowed. "I can't, lad."
 
-A woman came in from the passage with a stack of clean mugs. Alaric knew her: she was the one who had brought the tub out to the gutter. She looked at him, then at the sword in Marta's hands, and her eyes stayed on Marta.
+A woman came in from the passage with a stack of mugs. Alaric knew her: she was the one who had brought the tub out to the gutter. She looked at him, then at the sword in Marta's hands, and her eyes stayed on Marta.
 
 "What's happened?"
 
@@ -178,13 +178,13 @@ She looked back at Marta.
 
 "I know. I'm offering." She took Wena's lead. "But we're talking about this again when they've gone."
 
-Another woman had come to the passage door with a folded cloth over her arm. She looked at the one holding Wena's lead.
+Another woman had come to the passage door with a folded cloth over her arm. She spoke to the one holding Wena's lead.
 
 "He's asking for you."
 
 "Tell him I'm finished for tonight."
 
-The other woman looked at Alaric, then went back the way she had come.
+The other woman gave Alaric one look, then went back the way she had come.
 
 Alaric got up more slowly this time.
 
@@ -194,9 +194,9 @@ He turned to the woman. "Thank you. I'm… Alaric."
 
 "Rose," she said. "Come on, then, Alaric. Lean on me if you need to."
 
-At the passage door, Alaric looked back. Marta was still at the table, with her empty hands where the sword had been.
+At the passage door, Alaric looked back. Marta was still at the table, her hands empty in her lap.
 
-The passage went past the common room, where the chairs stood upside down on the tables, to a narrow stair. Rose went up it beside him with Wena's lead in one hand and his arm across her shoulders. Halfway up, his ankle turned on the edge of a step, and she took more of his weight until he had found his footing again.
+The passage went past the common room, where the chairs stood upside down on the tables, to the stairs. Rose went up them beside him with Wena's lead in one hand and his arm across her shoulders. Halfway up, his ankle turned on the edge of a step, and she took more of his weight until he had found his footing again.
 
 At the top, a passage ran the length of the house, with shut doors on both sides. Behind one of them, somebody was snoring. Rose opened a door halfway along and drew them in.
 
@@ -340,9 +340,7 @@ Rose came down a little later. Marta put the cloth down.
 
 "Take him up, will ye? Come back down when he's settled. We'll talk about it."
 
-Rose looked at her, then nodded.
-
-Rose lit a candle from Marta's lamp. She took Alaric back up the stairs, past her own door, and opened the one at the end of the passage.
+Rose looked at her, then nodded. She lit a candle from Marta's lamp and took Alaric back up the stairs, past her own door, to the one at the end of the passage.
 
 "This one's yours," Rose said. "You can leave your things here now."
 
@@ -432,7 +430,7 @@ Wena ate hers before Alaric had picked up the spoon. He ate all of his. Halfway 
 
 When he had finished, he got up on his good foot and opened the shutter. It looked down on the lane beside the inn. The gap between the storehouse and its yard wall, where they had waited, was empty, and so was the lane in both directions. He stood there until the cold made him close it.
 
-He slid the bolt across the door. Then he took off Silas's cloak, laid it over the end of the bed, pinched out the candle and lay down.
+He slid the bolt across the door. Then he took off Silas's cloak, laid it over the foot of the bed, pinched out the candle and lay down.
 
 *The elves had him when the report came in.* He and Silas had left Gerolt in the leaves, and the elves had gone back for him.
 
@@ -440,7 +438,7 @@ He slid the bolt across the door. Then he took off Silas's cloak, laid it over t
 
 Below him, two women were talking in low voices. He knew Marta's, and he thought the other was Rose's. He couldn't make out the words. Once Rose said something sharper, and after that they were both quiet for a long time.
 
-Tomorrow he wouldn't have to get up and walk anywhere. Marta had said he could stay.
+When he woke, he wouldn't have to get up and walk anywhere. Marta had said he could stay tonight.
 
 He reached down until his hand found Wena's ear.
 

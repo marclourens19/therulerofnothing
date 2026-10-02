@@ -616,3 +616,24 @@ The author sent the other workspace's draft (`Drafts/Chapter 9 - Other workspace
 ## The title (2 October)
 
 Claude offered 20 options and recommended "The Face in the Water". The author chose **"Refuge"**: "I was thinking keeping the same title as before". It was the old Chapter 7's title, for the same arrival at Marta's inn. The chapter is now `Volume 1/Chapter 9 - Refuge.md`, and the title is change 13 in the combined list. Draft 1 keeps its old file name.
+
+## Five passes (2 October)
+
+The author: "Do 5 passes on the chapter each time looking for errors, pov slips, continuity issues etc". The fixes are in the combined change list (section "Five passes", plus notes on changes 2, 3, 4 and 11). The chapter is 4,018 words.
+
+1. **Errors and logic:**
+   - "Marta had said he could stay" assumed tomorrow, but she said "tonight". Now: "When he woke, he wouldn't have to get up and walk anywhere. Marta had said he could stay tonight."
+   - "her empty hands where the sword had been" didn't say where, because she had held it in her hands. Now: "her hands empty in her lap".
+2. **POV slips:** none new. The other woman no longer calls Rose by name before Alaric learns it (fixed in the combining). "His face twisted" is felt, not seen, and it's the author's line, so it stays.
+3. **Continuity:** two people can't climb "a narrow stair" side by side; now "the stairs". Also checked, and they hold:
+   - who holds the sword, Wena's lead, the cloak, the boots and the candle in every scene;
+   - the light in each room;
+   - the tub woman, the loud and tired guards, and the swollen ankle (Chapter 8);
+   - the bolt the vision needs;
+   - Rose's room being nearer the stairs than his.
+4. **Repeats:**
+   - "clean" on both the bowls and the mugs;
+   - four "looked" in about 25 lines around the second woman ("She spoke to…", "gave Alaric one look");
+   - two paragraphs in a row starting "Rose";
+   - "the end of the bed" twice (now "the foot of the bed" for the cloak).
+5. **House style:** the style check is clean (spelling, quotes, dashes, dots). The remaining short lines and gesture counts were each checked and kept. The one repeated run, "the elves had him when the report came in", is his memory of the guard's words, so it's deliberate.

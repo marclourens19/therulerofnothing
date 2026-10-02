@@ -7,7 +7,8 @@
  "sections": {
   "From the author's comparison": "From the author's comparison (2 October)",
   "Also taken from the other draft (Claude's pick)": "Also taken from the other draft (Claude's picks, for the author's yes or no)",
-  "Title": "The title (2 October)"
+  "Title": "The title (2 October)",
+  "Five passes": "Five passes: errors, POV slips and continuity (2 October)"
  },
  "changes": [
   {
@@ -28,8 +29,8 @@
    "kind": "changed",
    "tags": [],
    "before": "She didn't answer him.\n\nA woman had come in from the passage on the other side of the kitchen. She stood at the end of the table with a hand on the back of a chair, and Alaric didn't know how long she had been there. He knew her, though: she was the woman who had brought the tub out to the gutter.\n\n\"Marta, they're coming here looking for him. We've got guests upstairs. And the rest of us live here too. You can't just decide this and expect us to—\"",
-   "after": "She didn't answer him.\n\n\"It was my fault,\" Alaric said. \"They wanted something from me. If he hadn't found me—\"\n\n\"Don't.\"\n\nHe shut his mouth.\n\n\"I can't hear that just now.\" She swallowed. \"I can't, lad.\"\n\nA woman came in from the passage with a stack of clean mugs. Alaric knew her: she was the one who had brought the tub out to the gutter. She looked at him, then at the sword in Marta's hands, and her eyes stayed on Marta.\n\n\"What's happened?\"\n\n\"Gerolt's dead.\"\n\nThe woman set the mugs down on the table one at a time.\n\n\"Oh, Marta.\"\n\nShe stayed beside Marta's chair with a hand on her shoulder. Marta covered it with her own, then let go.\n\n\"Ye said guards were coming,\" Marta said.\n\n\"After they've finished their round,\" Alaric said. \"They're looking for me and Wena. They've been told to bring me in alive.\"\n\nThe woman's hand fell from Marta's shoulder.\n\n\"Marta, they're coming here looking for him. We've got guests upstairs. And the rest of us live here too. You can't just decide this and expect us to—\"",
-   "why": "The author's point 2: \"I can't hear that just now. I can't, lad.\" gives Marta a limit; she can't comfort his guilt an hour after losing her uncle. Alaric's \"It was my fault\" is a new claim (he caused it), not a repeat of \"I should have done something\". Rose's entrance comes from the other draft too: she learns about Gerolt and the guards on the page, instead of having overheard, and \"Oh, Marta\" shows she cares for Marta before she objects.",
+   "after": "She didn't answer him.\n\n\"It was my fault,\" Alaric said. \"They wanted something from me. If he hadn't found me—\"\n\n\"Don't.\"\n\nHe shut his mouth.\n\n\"I can't hear that just now.\" She swallowed. \"I can't, lad.\"\n\nA woman came in from the passage with a stack of mugs. Alaric knew her: she was the one who had brought the tub out to the gutter. She looked at him, then at the sword in Marta's hands, and her eyes stayed on Marta.\n\n\"What's happened?\"\n\n\"Gerolt's dead.\"\n\nThe woman set the mugs down on the table one at a time.\n\n\"Oh, Marta.\"\n\nShe stayed beside Marta's chair with a hand on her shoulder. Marta covered it with her own, then let go.\n\n\"Ye said guards were coming,\" Marta said.\n\n\"After they've finished their round,\" Alaric said. \"They're looking for me and Wena. They've been told to bring me in alive.\"\n\nThe woman's hand fell from Marta's shoulder.\n\n\"Marta, they're coming here looking for him. We've got guests upstairs. And the rest of us live here too. You can't just decide this and expect us to—\"",
+   "why": "The author's point 2: \"I can't hear that just now. I can't, lad.\" gives Marta a limit; she can't comfort his guilt an hour after losing her uncle. Alaric's \"It was my fault\" is a new claim (he caused it), not a repeat of \"I should have done something\". Rose's entrance comes from the other draft too: she learns about Gerolt and the guards on the page, instead of having overheard, and \"Oh, Marta\" shows she cares for Marta before she objects. (Five passes: \"clean\" was already on the bowls in the kitchen.)",
    "decision": "accepted",
    "call": "Rose's entrance (the mugs, \"What's happened?\", \"Oh, Marta.\") is from the other draft; the author named only the limit.",
    "decision_note": "Combined at the author's request (2 October); open for the author's yes or no."
@@ -40,8 +41,8 @@
    "kind": "changed",
    "tags": [],
    "before": "\"I know. I'm offering.\" She took Wena's lead. \"But we're talking about this again when they've gone.\"\n\nAlaric got up more slowly this time.",
-   "after": "\"I know. I'm offering.\" She took Wena's lead. \"But we're talking about this again when they've gone.\"\n\nAnother woman had come to the passage door with a folded cloth over her arm. She looked at the one holding Wena's lead.\n\n\"He's asking for you.\"\n\n\"Tell him I'm finished for tonight.\"\n\nThe other woman looked at Alaric, then went back the way she had come.\n\nAlaric got up more slowly this time.",
-   "why": "From the other draft, shortened. The women choose their customers and can refuse (the author's terms, 2 October); this shows it in two lines without explaining it, and shows Rose giving up her night to hide him. The narration can't call her Rose yet: Alaric learns her name a few lines later.",
+   "after": "\"I know. I'm offering.\" She took Wena's lead. \"But we're talking about this again when they've gone.\"\n\nAnother woman had come to the passage door with a folded cloth over her arm. She spoke to the one holding Wena's lead.\n\n\"He's asking for you.\"\n\n\"Tell him I'm finished for tonight.\"\n\nThe other woman gave Alaric one look, then went back the way she had come.\n\nAlaric got up more slowly this time.",
+   "why": "From the other draft, shortened. The women choose their customers and can refuse (the author's terms, 2 October); this shows it in two lines without explaining it, and shows Rose giving up her night to hide him. The narration can't call her Rose yet: Alaric learns her name a few lines later. (Five passes: four \"looked\" in about twenty-five lines here.)",
    "decision": "accepted",
    "call": "A second resident woman, unnamed, and Rose refusing a customer.",
    "decision_note": "Combined at the author's request (2 October); open for the author's yes or no."
@@ -52,8 +53,8 @@
    "kind": "added",
    "tags": [],
    "before": "\"Rose,\" she said. \"Come on, then, Alaric. Lean on me if you need to.\"",
-   "after": "At the passage door, Alaric looked back. Marta was still at the table, with her empty hands where the sword had been.",
-   "why": "From the other draft (it had him look down from the stairs; here the stairs are out of sight of the kitchen, so he looks back from the passage door).",
+   "after": "At the passage door, Alaric looked back. Marta was still at the table, her hands empty in her lap.",
+   "why": "From the other draft (it had him look down from the stairs; here the stairs are out of sight of the kitchen, so he looks back from the passage door). (Five passes: she had held the sword in her hands, so \"where the sword had been\" didn't say where.)",
    "decision": "accepted",
    "call": "From the other draft.",
    "decision_note": "Combined at the author's request (2 October); open for the author's yes or no."
@@ -133,8 +134,8 @@
    "kind": "changed",
    "tags": [],
    "before": "Below him, two women were talking in low voices. He knew Marta's, and he thought the other was Rose's. He couldn't make out the words. Once Rose said something sharper, and after that they were both quiet for a long time.\n\nHe reached down until his hand found Wena's ear.\n\nHe didn't hear them stop.",
-   "after": "Below him, two women were talking in low voices. He knew Marta's, and he thought the other was Rose's. He couldn't make out the words. Once Rose said something sharper, and after that they were both quiet for a long time.\n\nTomorrow he wouldn't have to get up and walk anywhere. Marta had said he could stay.\n\nHe reached down until his hand found Wena's ear.\n\nHe didn't hear the voices stop.",
-   "why": "From the other draft (\"Someone had said he could stay\"), shortened. The last thing he holds before the vision is the safety he has been offered, which is what the vision attacks. \"The voices\" because \"them\" is now two paragraphs away.",
+   "after": "Below him, two women were talking in low voices. He knew Marta's, and he thought the other was Rose's. He couldn't make out the words. Once Rose said something sharper, and after that they were both quiet for a long time.\n\nWhen he woke, he wouldn't have to get up and walk anywhere. Marta had said he could stay tonight.\n\nHe reached down until his hand found Wena's ear.\n\nHe didn't hear the voices stop.",
+   "why": "From the other draft (\"Someone had said he could stay\"), shortened. The last thing he holds before the vision is the safety he has been offered, which is what the vision attacks. \"The voices\" because \"them\" is now two paragraphs away. (Five passes: Marta said \"tonight\", so he can't count on tomorrow.)",
    "decision": "accepted",
    "call": "From the other draft.",
    "decision_note": "Combined at the author's request (2 October); open for the author's yes or no."
@@ -160,6 +161,39 @@
    "why": "The author: \"I was thinking keeping the same title as before: Refuge\" (the old Chapter 7's title, for the same arrival at Marta's inn).",
    "decision": "accepted",
    "decision_note": "The author's title (2 October)."
+  },
+  {
+   "section": "Five passes",
+   "title": "Two on the stairs",
+   "kind": "changed",
+   "tags": [],
+   "before": "The passage went past the common room, where the chairs stood upside down on the tables, to a narrow stair. Rose went up it beside him with Wena's lead in one hand and his arm across her shoulders. Halfway up, his ankle turned on the edge of a step, and she took more of his weight until he had found his footing again.",
+   "after": "The passage went past the common room, where the chairs stood upside down on the tables, to the stairs. Rose went up them beside him with Wena's lead in one hand and his arm across her shoulders. Halfway up, his ankle turned on the edge of a step, and she took more of his weight until he had found his footing again.",
+   "why": "Continuity: two people can't go up a narrow stair side by side.",
+   "decision": "accepted",
+   "decision_note": "Five passes (the author's request, 2 October)."
+  },
+  {
+   "section": "Five passes",
+   "title": "Rose, Rose",
+   "kind": "changed",
+   "tags": [],
+   "before": "Rose looked at her, then nodded.\n\nRose lit a candle from Marta's lamp. She took Alaric back up the stairs, past her own door, and opened the one at the end of the passage.",
+   "after": "Rose looked at her, then nodded. She lit a candle from Marta's lamp and took Alaric back up the stairs, past her own door, to the one at the end of the passage.",
+   "why": "Two paragraphs in a row began with \"Rose\".",
+   "decision": "accepted",
+   "decision_note": "Five passes (the author's request, 2 October)."
+  },
+  {
+   "section": "Five passes",
+   "title": "The foot of the bed",
+   "kind": "changed",
+   "tags": [],
+   "before": "He slid the bolt across the door. Then he took off Silas's cloak, laid it over the end of the bed, pinched out the candle and lay down.",
+   "after": "He slid the bolt across the door. Then he took off Silas's cloak, laid it over the foot of the bed, pinched out the candle and lay down.",
+   "why": "\"The end of the bed\" was where Marta set his bowl, two paragraphs earlier.",
+   "decision": "accepted",
+   "decision_note": "Five passes (the author's request, 2 October)."
   }
  ]
 }
