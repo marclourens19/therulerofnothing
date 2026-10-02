@@ -4,7 +4,7 @@
 
 ## At a glance
 
-- **25 changes proposed.** 0 rejected so far, so 25 are in the chapter: 25 rewritten, 0 cut and 0 added.
+- **26 changes proposed.** 0 rejected so far, so 26 are in the chapter: 26 rewritten, 0 cut and 0 added.
 - **Length:** 4,018 words before, 4,160 after.
 - **Median paragraph:** 10 words before, 11 after. The house target is roughly 14–22.
 - **"Nothing":** 4 times before, 4 after.
@@ -39,9 +39,10 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 20, Rhose:** The author's choice.
 - **Change 21, Rhose:** The author's choice.
 - **Change 22, Rhose:** The author's choice.
-- **Change 23, Marta questions him at the door:** The author, 2 October: "Yes do B".
+- **Change 23, Marta questions him at the door:** The author, 2 October: "Do options 2 and fix the line inside".
 - **Change 24, His self-blame:** The author, 2 October: "Yes do B".
 - **Change 25, The room: version B:** The author, 2 October: "Yes do B".
+- **Change 26, Marta at the table:** The author, 2 October: "fix the line inside".
 
 ## The changes
 
@@ -405,27 +406,43 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 23. Marta questions him at the door
 
-*Draft line 35 → revised lines 35–43*
+*Draft lines 31–39 → revised lines 31–47*
 
 **Before**
 
+> "We heard two of them. They're finishing their round, then they're coming here to ask you about Gerolt. And they're looking for a boy with a big dog."
+>
+> Her eyes went to Wena.
+>
 > "They're looking for *you*? I don't want trouble in this house, lad. Ye'll have to leave."
+>
+> "Please. I don't have anywhere else to go." His voice shook. "Gerolt sent me to you."
+>
+> Marta kept her hand on the door. She looked down at the sword, then at Wena, who had come forward to sniff her fingers.
 
 **After**
 
-> "They're looking for *you*?" Her eyes came back to him. "Why would the guards come asking me about Gerolt? What's happened?"
+> "We heard two of them. They're finishing their round, then they're coming here to ask you about Gerolt. And about us. They're looking for a boy with a big dog."
 >
-> "Elves came to his farm." Alaric glanced down the lane. "I'll tell you all of it, just not out here."
+> Marta looked at Wena. Then she looked at the sword, and her face changed.
 >
-> "Elves." Her hand tightened on the door. "And what do they want with you?"
+> "That's Gerolt's sword. Why've ye got it? Why's his dog out here with you and not with him?"
 >
-> "I don't know. The guards didn't say. Only that they want a boy with a big dog."
+> "Please, Marta. I'm begging you." He heard his voice crack and couldn't stop it. "Let me in and I'll tell you everything. If they find me out here—"
 >
-> "I don't want trouble in this house, lad. Ye'll have to leave."
+> "If who finds ye?"
+>
+> "The elves." His eyes went to the end of the lane. "Please."
+>
+> Her hand tightened on the door. "I don't want trouble in this house, lad. Ye'll have to leave."
+>
+> "I don't have anywhere else to go. Gerolt sent me to you."
+>
+> Marta didn't move from the doorway. Wena had come forward to sniff her fingers.
 
-**Why.** The author: Marta moving past the news "so easily doesn't make sense". She hears enough to be afraid, which is why she first says no; he keeps the death for inside.
+**Why.** The author: Marta moving past the news "so easily doesn't make sense". The author then chose option 2 of three: Alaric says the guards will ask about "us"; Marta knows Gerolt's sword and sees the dog is with him and not with Gerolt; "If who finds ye?" pulls "the elves" out of him. No "again": he can't know the elves came to the farm for him. Two repeats fixed in the option as chosen: "glanced down the lane" was already four lines above, and "hand on the door" came twice in four lines.
 
-**Your decision.** The author, 2 October: "Yes do B".
+**Your decision.** The author, 2 October: "Do options 2 and fix the line inside".
 
 #### 24. His self-blame
 
@@ -530,3 +547,19 @@ Each of these needs a yes or no from you. It adds something about a character or
 **Why.** The author chose version B, with "Since you asked nicely." (from version A) for "Of course.". The arrival "Thank you" and his reply to "handsome" are gone, so he thanks her twice in the chapter: in the kitchen and at the candle. Rhose throughout.
 
 **Your decision.** The author, 2 October: "Yes do B".
+
+#### 26. Marta at the table
+
+*Draft line 73 → revised line 81*
+
+**Before**
+
+> "Why've ye got that? Where's Gerolt?"
+
+**After**
+
+> "Ye said ye'd tell me inside. Why've ye got his sword? Where's Gerolt?"
+
+**Why.** She asked about the sword at the door, and he promised to tell her inside.
+
+**Your decision.** The author, 2 October: "fix the line inside".

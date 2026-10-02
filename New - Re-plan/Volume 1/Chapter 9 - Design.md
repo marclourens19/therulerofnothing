@@ -679,3 +679,8 @@ The author's notes:
 **Version B (slow and close):** she stands close in front of him with a hand on his shoulder, and tips his chin up so he has to look at her face. "You're a handsome one, you know. Even under all that dirt." "I told him I was finished for tonight. I didn't say anything about you." *Recommended:* B. The callback uses her refusing the customer, so the flirting is her own choice, and it's quieter, which fits the woman who later moves the candle without a word.
 
 **The author's answer (2 October):** "Yes do B and the last line she says of course change to since you asked nicely". Applied in the round 2 list: Marta questions him at the door (1); his self-blame is his freezing (2); two thank-yous cut (3); the room is version B, with "Since you asked nicely." for "Of course." Claude read the "Yes" as yes to 1–3. The chapter is 4,160 words.
+
+**The door, three options (2 October).** The author asked for Alaric to say the guards will ask about "us", for Marta to ask why he has Gerolt's sword and Wena, and for him to beg to be let in. Claude wrote three options and dropped "again" from "the elves will find me again", because he can't know they came to the farm for him. The author chose **option 2** and the kitchen fix: "Do options 2 and fix the line inside".
+- In option 2, Marta knows the sword on sight. That's new, and the author approved it.
+- At the table she now says: "Ye said ye'd tell me inside. Why've ye got his sword? Where's Gerolt?"
+- Two repeats were fixed in the chosen option: the second "glanced down the lane" is now "His eyes went to the end of the lane", and "Marta kept her hand on the door" is now "Marta didn't move from the doorway".

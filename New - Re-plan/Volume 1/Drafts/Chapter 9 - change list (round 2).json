@@ -257,11 +257,11 @@
    "title": "Marta questions him at the door",
    "kind": "changed",
    "tags": [],
-   "before": "\"They're looking for *you*? I don't want trouble in this house, lad. Ye'll have to leave.\"",
-   "after": "\"They're looking for *you*?\" Her eyes came back to him. \"Why would the guards come asking me about Gerolt? What's happened?\"\n\n\"Elves came to his farm.\" Alaric glanced down the lane. \"I'll tell you all of it, just not out here.\"\n\n\"Elves.\" Her hand tightened on the door. \"And what do they want with you?\"\n\n\"I don't know. The guards didn't say. Only that they want a boy with a big dog.\"\n\n\"I don't want trouble in this house, lad. Ye'll have to leave.\"",
-   "why": "The author: Marta moving past the news \"so easily doesn't make sense\". She hears enough to be afraid, which is why she first says no; he keeps the death for inside.",
+   "before": "\"We heard two of them. They're finishing their round, then they're coming here to ask you about Gerolt. And they're looking for a boy with a big dog.\"\n\nHer eyes went to Wena.\n\n\"They're looking for *you*? I don't want trouble in this house, lad. Ye'll have to leave.\"\n\n\"Please. I don't have anywhere else to go.\" His voice shook. \"Gerolt sent me to you.\"\n\nMarta kept her hand on the door. She looked down at the sword, then at Wena, who had come forward to sniff her fingers.",
+   "after": "\"We heard two of them. They're finishing their round, then they're coming here to ask you about Gerolt. And about us. They're looking for a boy with a big dog.\"\n\nMarta looked at Wena. Then she looked at the sword, and her face changed.\n\n\"That's Gerolt's sword. Why've ye got it? Why's his dog out here with you and not with him?\"\n\n\"Please, Marta. I'm begging you.\" He heard his voice crack and couldn't stop it. \"Let me in and I'll tell you everything. If they find me out here—\"\n\n\"If who finds ye?\"\n\n\"The elves.\" His eyes went to the end of the lane. \"Please.\"\n\nHer hand tightened on the door. \"I don't want trouble in this house, lad. Ye'll have to leave.\"\n\n\"I don't have anywhere else to go. Gerolt sent me to you.\"\n\nMarta didn't move from the doorway. Wena had come forward to sniff her fingers.",
+   "why": "The author: Marta moving past the news \"so easily doesn't make sense\". The author then chose option 2 of three: Alaric says the guards will ask about \"us\"; Marta knows Gerolt's sword and sees the dog is with him and not with Gerolt; \"If who finds ye?\" pulls \"the elves\" out of him. No \"again\": he can't know the elves came to the farm for him. Two repeats fixed in the option as chosen: \"glanced down the lane\" was already four lines above, and \"hand on the door\" came twice in four lines.",
    "decision": "accepted",
-   "decision_note": "The author, 2 October: \"Yes do B\"."
+   "decision_note": "The author, 2 October: \"Do options 2 and fix the line inside\"."
   },
   {
    "section": "Round 9",
@@ -284,6 +284,17 @@
    "why": "The author chose version B, with \"Since you asked nicely.\" (from version A) for \"Of course.\". The arrival \"Thank you\" and his reply to \"handsome\" are gone, so he thanks her twice in the chapter: in the kitchen and at the candle. Rhose throughout.",
    "decision": "accepted",
    "decision_note": "The author, 2 October: \"Yes do B\"."
+  },
+  {
+   "section": "Round 9",
+   "title": "Marta at the table",
+   "kind": "changed",
+   "tags": [],
+   "before": "\"Why've ye got that? Where's Gerolt?\"",
+   "after": "\"Ye said ye'd tell me inside. Why've ye got his sword? Where's Gerolt?\"",
+   "why": "She asked about the sword at the door, and he promised to tell her inside.",
+   "decision": "accepted",
+   "decision_note": "The author, 2 October: \"fix the line inside\"."
   }
  ]
 }

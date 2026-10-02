@@ -718,6 +718,7 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - **Title: "Refuge"** (the author, 2 October: "keeping the same title as before", the old Chapter 7's). The chapter is `Volume 1/Chapter 9 - Refuge.md`.
   - **Round 9 (2 October):** the objecting woman is **Rhose** (the author: "Name the girl Rhose"; earlier entries say Rose). Speaker tags were added in the guards' interview. Proposed and waiting: Marta questions him at the door; his self-blame is freezing, not a reason the elves came (he can't know they came for him); fewer thank-yous; two versions of a more flirtatious room exchange (`Chapter 9 - Design.md`, round 9).
     - **Chosen (2 October):** all of these were applied. The room is version B (she tips his chin up: "I told him I was finished for tonight. I didn't say anything about you."), with "Since you asked nicely." Alaric thanks Rhose twice: in the kitchen and at the candle.
+    - **The door (2 October), option 2:** the guards will ask "about Gerolt. And about us." Marta knows Gerolt's sword on sight (new, approved) and asks why the dog is with him and not with Gerolt. "If who finds ye?" / "The elves." At the table: "Ye said ye'd tell me inside. Why've ye got his sword? Where's Gerolt?"
 
 ## Alaric
 

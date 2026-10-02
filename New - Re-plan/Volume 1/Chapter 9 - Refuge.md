@@ -28,23 +28,23 @@ She saw Silas still beside him.
 
 Marta turned back to him. Alaric glanced down the lane and lowered his voice.
 
-"We heard two of them. They're finishing their round, then they're coming here to ask you about Gerolt. And they're looking for a boy with a big dog."
+"We heard two of them. They're finishing their round, then they're coming here to ask you about Gerolt. And about us. They're looking for a boy with a big dog."
 
-Her eyes went to Wena.
+Marta looked at Wena. Then she looked at the sword, and her face changed.
 
-"They're looking for *you*?" Her eyes came back to him. "Why would the guards come asking me about Gerolt? What's happened?"
+"That's Gerolt's sword. Why've ye got it? Why's his dog out here with you and not with him?"
 
-"Elves came to his farm." Alaric glanced down the lane. "I'll tell you all of it, just not out here."
+"Please, Marta. I'm begging you." He heard his voice crack and couldn't stop it. "Let me in and I'll tell you everything. If they find me out here—"
 
-"Elves." Her hand tightened on the door. "And what do they want with you?"
+"If who finds ye?"
 
-"I don't know. The guards didn't say. Only that they want a boy with a big dog."
+"The elves." His eyes went to the end of the lane. "Please."
 
-"I don't want trouble in this house, lad. Ye'll have to leave."
+Her hand tightened on the door. "I don't want trouble in this house, lad. Ye'll have to leave."
 
-"Please. I don't have anywhere else to go." His voice shook. "Gerolt sent me to you."
+"I don't have anywhere else to go. Gerolt sent me to you."
 
-Marta kept her hand on the door. She looked down at the sword, then at Wena, who had come forward to sniff her fingers.
+Marta didn't move from the doorway. Wena had come forward to sniff her fingers.
 
 She let out a long breath and stepped back.
 
@@ -78,7 +78,7 @@ Marta pointed him to a chair. When she turned into the lamplight, Alaric saw her
 
 Marta looked at it too, lying across his knees.
 
-"Why've ye got that? Where's Gerolt?"
+"Ye said ye'd tell me inside. Why've ye got his sword? Where's Gerolt?"
 
 "He gave it to me."
 
