@@ -15,7 +15,8 @@
     "100/100": "Claude's 100/100 review: the guards, Marta, the auctioned woman and \"looked\"",
     "Error pass": "Error pass (1 October)",
     "Final pass 1": "Final pass 1 of 3: errors, POV slips and logic.",
-    "Final pass 2": "Final pass 2 of 3: vocabulary, rhythm and repeats."
+    "Final pass 2": "Final pass 2 of 3: vocabulary, rhythm and repeats.",
+    "Marta's voice": "The author's Marta voice (2 October)"
   },
   "changes": [
     {
@@ -59,9 +60,9 @@
       "title": "The south gate",
       "kind": "changed",
       "tags": [],
-      "before": "\"The farmer's niece. Just inside the South Gate. They want her questioned after she closes.\"",
-      "after": "\"The farmer's niece. They want her questioned after she closes.\"",
-      "why": "Lower case, as in Chapters 2 and 6 (pass 3 of 1 October). 100/100 review: Both guards know where Marta's inn is; the address was for the reader.",
+      "before": "\"What, Marta's?\"\n\n\"The farmer's niece. Just inside the South Gate. They want her questioned after she closes.\"",
+      "after": "\"What, Marta's? Place is always packed.\"\n\n\"Half the bastards go there just to gawp at her.\"\n\n\"Prettiest woman in Kelmend. Can't blame them.\"\n\n\"Just don't make a nuisance of yourself. She's the farmer's niece. They want her questioned after she closes.\"",
+      "why": "Lower case, as in Chapters 2 and 6 (pass 3 of 1 October). 100/100 review: Both guards know where Marta's inn is; the address was for the reader. Then (2 October), the author's addition: the guards gossip that Marta is the most beautiful woman in Kelmend and that many customers come just to look at her. Alaric hears it before he meets her. Then (2 October, agreed by the author: \"1. Agree 2. Keep bastards 3. Agree\"): two f-words go so the swearing tells the guards apart. The loud one keeps \"fucking elves\" and \"What the fuck's she done?\"; the cautious one keeps \"bastards\" and \"bloody\" and gives a plain warning. Marta's \"Get the fuck out\" is the first f-word for a page.",
       "decision": "accepted",
       "decision_note": "House style only; the author's text is otherwise unchanged.",
       "decision_short": "house style."
@@ -492,8 +493,8 @@
       "kind": "changed",
       "tags": [],
       "before": "\"Get the fuck out of Kelmend, Silas. Right now.\" She straightened, her hand falling away from Wena. \"I told you I never wanted to see your face again. Did you think I didn't mean it?\"",
-      "after": "\"Get the fuck out of Kelmend, Silas. Right now.\" She straightened, her hand falling away from Wena. \"Did you think I didn't mean it?\"",
-      "why": "Silas told Alaric about the ban a minute earlier. Without the repeat, her question points straight back at it.",
+      "after": "\"Get the fuck out of Kelmend, Silas. Now.\" She straightened, her hand falling away from Wena. \"I told ye to keep away from me. Don't come knocking here as if we're all right.\"",
+      "why": "Silas told Alaric about the ban a minute earlier. Without the repeat, her question points straight back at it. Then (2 October): The author: her anger is personal. She resents him coming to her door as if they're mended.",
       "decision": "accepted",
       "decision_note": "Claude's 100/100 review (1 October), agreed by the author (\"the rest apply\").",
       "decision_short": "the author's agreement (1 October)."
@@ -641,6 +642,30 @@
       "decision": "accepted",
       "decision_note": "Final pass 2 of 3 (1 October): vocabulary, rhythm and repeats. At the author's request (\"Do 3 more final passes\").",
       "decision_short": "the author's request (1 October)."
+    },
+    {
+      "section": "Marta's voice",
+      "title": "Marta to Wena",
+      "kind": "changed",
+      "tags": [],
+      "before": "\"Wena? What are you doing here?\"",
+      "after": "\"Wena? Well now, what're ye doing at me door, girl?\"",
+      "why": "Marta's voice (the author): Baderon in FFXIV, familiar and worldly, with light dialect (\"ye\", \"me\").",
+      "decision": "accepted",
+      "decision_note": "The author's Marta voice (2 October): sent as a revised chapter with the Marta handoff.",
+      "decision_short": "the author's revision (2 October)."
+    },
+    {
+      "section": "Marta's voice",
+      "title": "I said out",
+      "kind": "changed",
+      "tags": [],
+      "before": "\"Go!\"",
+      "after": "\"I said out!\"",
+      "why": "The author's line.",
+      "decision": "accepted",
+      "decision_note": "The author's Marta voice (2 October): sent as a revised chapter with the Marta handoff.",
+      "decision_short": "the author's revision (2 October)."
     }
   ]
 }

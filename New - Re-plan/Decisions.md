@@ -682,10 +682,43 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - **Claude's 100/100 review (1 October):** the author agreed points 2–4: the guards lose the inn's address, Marta doesn't repeat the ban, the auctioned woman closes her hand round the chain, and twelve "looked"s go (the guard's stays). Point 1, Marta's "Where's—", is still open. The chapter is 5,275 words.
   - **Error pass (1 October),** at the author's request: four fixes (where Alaric walks at the lane; the guards leave by the cart entrance; the woman's cloth, not the lead; the last lit window). The chapter is 5,276 words.
   - **Three final passes (1 October),** at the author's request: two POV fixes (whose hand; who hears the yard), two wording fixes (no "lean-to"; no chain on the inn's board), and nothing needed for consistency and house style. The chapter is 5,268 words.
+  - **The author's Marta voice (2 October),** sent as a revised chapter with the Marta handoff: the guards gossip about her beauty ("Prettiest woman in Kelmend") before "She's the farmer's niece"; "Wena? Well now, what're ye doing at me door, girl?"; "Get the fuck out of Kelmend, Silas. Now… I told ye to keep away from me. Don't come knocking here as if we're all right."; and "I said out!". The Word file was made before the three final passes, so those four fixes stay. The chapter is 5,314 words.
+  - **The guards' swearing (2 October,** agreed: "1. Agree 2. Keep bastards 3. Agree"): "Place is always packed" and "Just don't make a nuisance of yourself", so the loud guard keeps the f-words and the cautious one stays plainer. "Half the bastards…" stays.
 
 ## Chapter 9
 
 - **Design started (1 October)** in `Volume 1/Chapter 9 - Design.md`: Marta's chapter, straight on from the slammed door, late on the night of Day 2. It proposes six scenes (the shut door; the guards; the kitchen; Empty; the price and the room; the double), and round 1 has 12 questions, with the "100/100" answer. Nothing in it is decided yet.
+- **The author's working design (2 October)** replaces the six-scene shape: `Volume 1/Chapter 9 - Working Design.md`, kept word for word with the review that came with it.
+  - The author's course of events: Gerolt's words through the door make Marta reopen it; she takes in Alaric and Wena and sends Silas away; Alaric notices her beauty, and some of the women find him handsome; she hears about Gerolt; she asks whether Silas had anything to do with it, and suspects he acted selfishly (her reading, not the narration's); the two guards come, and she handles them, with drinks after their next shift; she shelters Alaric; after about two days' rest a lead towards Darcy arrives, Alaric admits he can't do it alone, and Marta sends him to Silas.
+  - **The updated working design (2 October)** replaces it, word for word, in the same file (the first version is in `Drafts/`). The author's new decisions:
+    - **Chapter 9 ends on the arrival night** with Alaric's first encounter with the double. The two rest days and the Darcy lead belong to the next Alaric chapter, after Seralune's Chapter 10.
+    - **Alaric warns Marta about the guards early,** before the full account of Gerolt's death.
+    - **The guards:** an interview, completed. They can tell her the news again.
+    - **The ending is a false awakening:** he seems to wake; there's blood under his door, a woman of the house dead outside it (he's sick), Marta dead downstairs with Wena beside her, and Kelmend burning with bodies and cries in the streets. His double says something like "This is who you are, Alaric." Then he truly wakes in bed, sweating. Wena isn't dead in the vision.
+    - **Deferred to later chapters:** the Darcy opportunity, Empty (during the rest days, with Silas there), Silas's exact lodging, and Redd and Freya's chapter.
+  - Still open for Chapter 9: Marta's grief questions, what the guards ask and where Alaric hides, how Marta answers the women's objections, how Alaric learns of the marriage, and the double's exact words and what changes when he wakes. Claude's round 3 review is in `Chapter 9 - Design.md`.
+  - **The third working design (2 October)** keeps the author's review of round 3 word for word. Agreed with Claude: Marta's grief in order ("Where is he? Behind ye?" first; Alaric froze and Silas dragged him away, so he didn't calmly obey); the objecting woman stays unconvinced and offers her room as the least likely to be searched; Marta's line "Gerolt sent him here. I'm not turning him out."; she asks the guards a question of her own; the marriage line "He's got money. Let him pay for a bed somewhere his wife doesn't have to look at him." (to be refined); the slow walk through the vision stays. Still open: the double's words, and who knocks at the end (Claude proposes the woman he saw dead).
+  - **The approved passages (2 October):** the author selected 1B, 2B and 3A from the other workspace's dialogue rounds and approved `Volume 1/Chapter 9 - Selected Dialogue and Vision.md` (kept word for word, with the fourth working design; now in `Drafts/`). It covers:
+    - the reopened door ("Ye aren't setting foot under me roof." / "I'll stay outside." / "Aye. Ye fucking will.");
+    - Gerolt's death ("Tell me what happened. Don't just tell me he's dead."; Alaric couldn't leave him; she holds the sword);
+    - the objecting woman, who stays unconvinced, offers her room, and learns his name;
+    - the vision: the woman dead outside his door, Marta dead downstairs with Wena alive nudging her hand, Kelmend burning. The double stands facing the fires, turns slowly, and says only "This is who you are, Alaric.";
+    - the waking: her voice through the door ("Alaric, keep it down, will you?"), *She's alive.*, and his own thought, *I'm fine.*
+  - **The consolidated dialogue (2 October):** `Volume 1/Chapter 9 - Dialogue.md`, all seven passages in scene order, kept word for word with the fifth working design. The earlier `Selected Dialogue and Vision` is in `Drafts/`. New passages (selections 1A, 2B, 3A and 4B from the other workspace):
+    - **The early warning:** "The old fool sent me." through the door. She reopens, he shouts that guards are coming, and she first says he'll have to leave. She relents after his plea ("Oh, get in, then."). Silas stays outside.
+    - **The guards' interview,** heard from the woman's room: "His last delivery. If ye need the day, I'll check the book." Gerolt was found "in the woods by the river"; "The elves had him when the report came in." She lies ("No.") and offers them a drink tomorrow.
+    - **The marriage:** "Let him pay for a bed somewhere his wife doesn't have to look at him." / "His wife?" / "Aye. Me." / "Leave it at that, Alaric."
+    - **The welcome:** the guest room, the boot (he blushes and she laughs, "It's only your boot, Alaric."), his face in the basin ("I don't remember looking like this."), and the candle moved closer.
+    - The emphasis on the double's line is **unselected**; the plain line stands.
+  - **Still open:** the woman's name and "the girls"; "when they come knocking" (kept in the text, removed in the working design); the sword's return; the woman's promised talk with Marta; Wena on waking; whether Alaric noticing Marta's beauty and Marta's question about Silas are cut. Claude's round 5 review is in `Chapter 9 - Design.md`.
+  - **Round 6 (2 October), the author's answers:** return the sword after Alaric stands ("Marta held the sword out, grip first. He took it carefully. She let go without looking at him."); "He gave it to me."; "Alaric's hand stopped on the cloak." / "She sighed and picked it up again."; "He pulled the other boot off himself."; "beneath the edges of the roofs" and "Their cloth covers were gone."; "round" for "around"; cut "Who had let him hide in her room…"; **keep** "when they come knocking"; Marta: "Take him up, will ye? Come back down when he's settled. We'll talk about it."; Wena at the waking ("Wena stood beside the bed, her head raised. He reached down, and she pushed her nose into his hand."); "We've got guests upstairs. And the rest of us live here too."; a brief note of Marta's beauty; and a Silas exchange in the grief scene ("And Silas? Where was he while this was happening?"). The welcome is revised in `Chapter 9 - Dialogue.md` (the first version is in `Drafts/`): she teases him ("You're quite cute, you know.") and takes the boot off herself. Still open: her name, and Claude's round 6 notes (in `Chapter 9 - Design.md`).
+  - **Round 7 (2 October):** the author applied Claude's six round 6 proposals (the Silas exchange as "He came after Gerolt was hit…" / "Gerolt sent me. Silas helped me get here."; "expect us to—"; Alaric tries the boot and asks "Could you hold my ankle still?"; one stammer; "You're a handsome one, you know."; Wena at the waking with his hand on her head). **The objecting woman is Rose** (the author: "Rose or Rhose"; Claude chose Rose).
+  - **First draft (2 October):** `Volume 1/Chapter 9 - Refuge.md`, 3,750 words. The title and eleven new joining beats are the author's call; they're listed in `Chapter 9 - Design.md`, round 7.
+  - **Combined version (2 October):** at the author's request, Claude's draft combined with the best of the other workspace's draft (kept in `Drafts/`). From the author's comparison: Marta's limit ("I can't hear that just now. I can't, lad."); "Ye warned me before ye came in. Ye can stay tonight."; the voice and "*No. I didn't—*" at the vision's climax (now **selected**); Rose's "If they do, let me answer. You stay where you are."; plain "Thank you." Seven smaller beats from the other draft are Claude's picks for the author's call. 4,020 words; the changes are in `Chapter 9 - Changes (combined).md`, and the comparison is in `Chapter 9 - Design.md`, round 8.
+  - **Title: "Refuge"** (the author, 2 October: "keeping the same title as before", the old Chapter 7's). The chapter is `Volume 1/Chapter 9 - Refuge.md`.
+  - **Round 9 (2 October):** the objecting woman is **Rhose** (the author: "Name the girl Rhose"; earlier entries say Rose). Speaker tags were added in the guards' interview. Proposed and waiting: Marta questions him at the door; his self-blame is freezing, not a reason the elves came (he can't know they came for him); fewer thank-yous; two versions of a more flirtatious room exchange (`Chapter 9 - Design.md`, round 9).
+    - **Chosen (2 October):** all of these were applied. The room is version B (she tips his chin up: "I told him I was finished for tonight. I didn't say anything about you."), with "Since you asked nicely." Alaric thanks Rhose twice: in the kitchen and at the candle.
+    - **The door (2 October), option 2:** the guards will ask "about Gerolt. And about us." Marta knows Gerolt's sword on sight (new, approved) and asks why the dog is with him and not with Gerolt. "If who finds ye?" / "The elves." At the table: "Ye said ye'd tell me inside. Why've ye got his sword? Where's Gerolt?"
 
 ## Alaric
 
@@ -704,6 +737,7 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   2. Its basis is the world's damaged corrective process, not a conscious deity.
   3. The world seeks one individual: their shared soul made into the single being it intended, instead of two people. That's what they refuse at the end.
   - **Where it starts (accepted, handoff §23):** no full appearance in Chapters 1–8, and nothing added to the existing chapters. The first full encounter comes after Marta offers genuine help, currently in Chapter 9. Before it, he needs a believable glimpse of his own face, such as while washing at the inn.
+  - **The first encounter is a dream** (the author, 2 October): a false awakening on his first night at the inn (Chapter 9). Later encounters can be dreams or waking, chosen one by one. Before it, he sees his own face while washing.
   - **Working limits, not yet ruled:** only Alaric sees it, while others see his pain; it can't move objects or control him; it knows only what his perception, surviving fragments and ancient traces give it; true details can come with false verdicts. The genuine reaching-hand and name fragments stay genuine.
 
 ## Seralune
@@ -754,7 +788,16 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 - **She told Silas never to show his face again,** especially anywhere near Kelmend, and she's very angry with him (answer E).
 - **Wena knows her:** Gerolt visited often (answer F).
 - **When Alaric reaches her door she doesn't know Gerolt is dead.** He brings her the first news (Chapter 8, round 2).
-- Her age, look, Affinity, manner, and her part in Darcy's story are still to be decided, with Chapter 9.
+- **Her voice** (the author, 2 October; `Volume 1/Marta - Character and Dialogue Handoff (2 October).md`): from **Baderon** (FFXIV), meaning familiar, worldly, blunt and comfortable handling people. Light dialect ("ye", "me", an occasional "lad") with natural contractions; her personality carries the voice more than phonetic spelling. Warm with those she knows ("Wena? Well now, what're ye doing at me door, girl?"). **Keep the swearing.**
+- **The most beautiful woman in Kelmend** (the author, 2 October). The guards gossip that many customers come just to look at her. Her beauty doesn't soften her authority, and doesn't make her welcome Silas.
+- **Her anger at Silas is personal** (2 October): she forbade him to come back, and resents him turning up as if they're mended ("Don't come knocking here as if we're all right").
+- **The same age as Silas** (the author, 2 October). The handoff puts Silas at about forty-five; no exact age is chosen.
+- **Married to Silas, and still married** (2 October). They separated after her father died, and she wanted nothing more to do with him. This replaces "they were going to be married".
+- **What she wants** (2 October): to protect the life she has built. She's firm in her rules and beliefs, used to being obeyed, and a hub of information and secrets in Kelmend.
+- **Avarice** (2 October): she supplies it with information as an associate, not a member. That doesn't make her Gerolt's pupil or a fighter.
+- **The inn** (2 October) has overnight rooms. The front bar closes at night so guests can sleep, but the building isn't empty. **Adult sex workers live and work there,** and their relationships with guards and powerful men are part of her information network. **Their terms (agreed 2 October):** they choose their customers, can refuse and can leave; what they hear is theirs to pass on, and Marta pays for it separately. They're devoted to Marta and follow her directions, but challenge decisions that put the house at risk. Some object to sheltering Alaric and Wena, and some find him handsome. They don't all think alike.
+- **Silas at her door** (2 October): when she reopens it, she harshly tells him to stay outside. This replaces her demand at the end of Chapter 8 that he leave Kelmend. He isn't let into the inn.
+- Her detailed appearance, Affinity, private ambitions and her part in Darcy's story are still to be decided. **Deferred:** why she and Silas are still married, and whether his last visit was to tell her that her father was dead. **Under discussion:** whether Silas's last visit to her door was to tell her that her father was dead.
 
 ## Thaeroval
 
@@ -813,7 +856,8 @@ Not in the central cast yet, and not locked (handoff §7, §14.3).
 - **Affinity:** Fire, Eminent, the same level as Gerolt.
 - He still teaches Alaric the sword.
 - **What he takes from Guts:** pragmatism in brutality. He is very, very cunning.
-- **The gorge survives.** His old squad and Marta's father were all killed. He lives with the guilt every day, blames himself, and lost the woman he loves most in the world: they were going to be married before it happened.
+- **In Kelmend** (the author, 2 October): he has his own money and finds his own lodging; Marta doesn't provide one. He isn't a search target (the search is for the boy and the dog), so he can move about the town and gather information, though his hand is still burned. No Silas viewpoint: Alaric learns what he does through later contact.
+- **The gorge survives.** His old squad and Marta's father were all killed. He lives with the guilt every day, blames himself, and lost the woman he loves most in the world. **They were married, and still are** (the author, 2 October, replacing "they were going to be married"): they separated after her father died in the gorge, and she wanted nothing more to do with him.
 - **How he came to Avarice (my reading of "he was a part of it", to confirm):** he was once part of the system, then fell in love with Marta and the cause she fought for.
 - **The difference from Gerolt:** Silas always wants to win, by any means necessary. Gerolt holds back; Silas doesn't.
 - **Flaw:** he acts instead of thinking, though he's working on it.
@@ -978,6 +1022,12 @@ Not in the central cast yet, and not locked (handoff §7, §14.3).
 - **Reports travel physically** in Volume 1 (1 October): riders, ships, and fast courier craft in principle. No instant magical messages.
 - **Natharul's scouts:** under the agreement between Mydea's king and Natharul, Natharul scouts are all over Mydea, all the time, scouting everywhere. They are never seen. That's the rule, to keep people calm.
 
+### The world's name
+- **Lazaran** (from the old World Bible; used by the author on 2 October: Darcy is "the greatest mind in Lazaran").
+
+### Darcy
+- **Regarded as the greatest mind in Lazaran** (the author, 2 October). She may know something about what happened on Gerolt's farm. Her reputation doesn't mean she knows anything about Alaric's erased past. The opportunity to reach her, what she knows and the encounter are deferred to that chapter's design. Her rescue is Volume 2's mission.
+
 ### Avarice (formerly the Broken Shield network)
 
 - The network survives under the new name.
@@ -1105,6 +1155,10 @@ None of these have been changed yet. They're listed so nothing is forgotten when
 - `Old - Before Re-plan/Chapter Design/Chapter 7 - Story Design.md:259`: Marta is "a High Wind user". The World Bible already says Eminent.
 - `Old - Before Re-plan/Chapter Design/Chapter 20 - Story Design.md`, lines 84, 85, 291 and 652.
 - `Old - Before Re-plan/Chapter Design/Chapter 6 - Story Design.md:54`: "not High".
+
+### Silas and Marta are married
+- `Old - Before Re-plan/World Bible/The World.md` (Silas and Marta): a relationship "concealed from the wider network", which Gerolt "knew and disapproved" of, with Marta ending contact. Now they married, and are still married (2 October).
+- `Old - Before Re-plan/World Bible/Main Characters.md` and the old chapters call her the woman he lost, not his wife.
 
 ### Silas arrives in Chapter 2
 
