@@ -26,7 +26,7 @@ For a while Silas said nothing.
 
 "I heard 'thousands' and thought you were talking shit," he said at last.
 
-Alaric's hand was still gripping the loose skin at Wena's neck. He let it go and stroked her instead.
+His hand was still gripping the loose skin at Wena's neck. He let it go and stroked her instead.
 
 The bell stopped. In the quiet it left behind, a dog was barking somewhere in the town.
 
@@ -114,7 +114,7 @@ Alaric slowed without meaning to. He wanted to knock at one of those back doors 
 
 Wena's nose went up towards the window. Alaric kept the lead short and followed Silas past it.
 
-At the end of the row, Silas turned into a gap between two houses. Further in, it narrowed into a passage that ended at the wall. Bundles of kindling stood along one side; a broken handcart had been pushed against the other. In the wall at the end was a narrow timber door.
+At the end of the row, Silas turned into a gap between a house and a lean-to. Beyond the lean-to, the gap narrowed into a passage that ended at the wall. Bundles of kindling stood along one side; a broken handcart had been pushed against the other. In the wall at the end was a narrow timber door.
 
 Silas put a hand up, and Alaric stopped.
 
@@ -138,7 +138,7 @@ Silas went to the door and put his eye to a gap where one of the boards had spli
 
 "Till they stop putting their goods where we'd have to walk."
 
-Beyond the door Alaric could hear footsteps and wheels, and somebody telling somebody else they had brought the wrong cart.
+Beyond the door he could hear footsteps and wheels, and somebody telling somebody else they had brought the wrong cart.
 
 "And if they don't?"
 
@@ -366,7 +366,7 @@ A man outside a stall called a price, and Alaric turned before he could stop him
 
 Alaric faced forward. He found himself holding the cloak shut again, and let his hand fall.
 
-The inn stood on the corner nearest the gate. There was light in every window, upstairs and down. The front door kept opening, and every time it did, the noise came out with it: voices, laughing, somebody singing badly and somebody else telling him to stop. The smell of roasting meat came out too, and new bread, and Alaric was hungry all over again. People sat on the bench outside with their cups. A board hung over the door, too high in the shadow to read.
+The inn stood on the corner nearest the gate. There was light in every window, upstairs and down. The front door kept opening, and every time it did, the noise came out with it: voices, laughing, somebody singing badly and somebody else telling him to stop. The smell of roasting meat came out too, and new bread, and Alaric was hungry all over again. People sat on the bench outside with their cups. A board hung over the door on a chain, too high in the shadow to read.
 
 *Marta's in there. Somewhere in all that.*
 

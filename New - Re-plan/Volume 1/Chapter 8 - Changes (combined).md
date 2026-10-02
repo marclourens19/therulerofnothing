@@ -4,8 +4,8 @@
 
 ## At a glance
 
-- **52 changes proposed.** 2 rejected so far, so 50 are in the chapter: 50 rewritten, 0 cut and 0 added.
-- **Length:** 5,340 words before, 5,268 after.
+- **54 changes proposed.** 2 rejected so far, so 52 are in the chapter: 52 rewritten, 0 cut and 0 added.
+- **Length:** 5,340 words before, 5,314 after.
 - **Median paragraph:** 16 words before, 16.5 after. The house target is roughly 14–22.
 - **"Nothing":** 1 times before, 1 after.
 
@@ -69,6 +69,8 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 50, Looks (11):** the author's agreement (1 October).
 - **Change 51, Where Alaric is at the lane:** the author's request (1 October).
 - **Change 52, The inn's board:** the author's request (1 October).
+- **Change 53, Marta to Wena:** the author's revision (2 October).
+- **Change 54, I said out:** the author's revision (2 October).
 
 ## The changes
 
@@ -92,7 +94,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 2. Faint (1)
 
-*Draft line 341 · proposed, rejected by you: the original stays at revised line 335*
+*Draft line 341 · proposed, rejected by you: the original stays at revised line 339*
 
 **Before (kept)**
 
@@ -108,7 +110,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 3. Faint (2)
 
-*Draft line 423 · proposed, rejected by you: the original stays at revised line 417*
+*Draft line 423 · proposed, rejected by you: the original stays at revised line 421*
 
 **Before (kept)**
 
@@ -124,17 +126,25 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 4. The south gate
 
-*Draft line 199 → revised line 195*
+*Draft lines 197–199 → revised lines 193–199*
 
 **Before**
 
+> "What, Marta's?"
+>
 > "The farmer's niece. Just inside the South Gate. They want her questioned after she closes."
 
 **After**
 
-> "The farmer's niece. They want her questioned after she closes."
+> "What, Marta's? Fucking place is always packed."
+>
+> "Half the bastards go there just to gawp at her."
+>
+> "Prettiest woman in Kelmend. Can't blame them."
+>
+> "Just don't make a fucking nuisance of yourself. She's the farmer's niece. They want her questioned after she closes."
 
-**Why.** Lower case, as in Chapters 2 and 6 (pass 3 of 1 October). 100/100 review: Both guards know where Marta's inn is; the address was for the reader.
+**Why.** Lower case, as in Chapters 2 and 6 (pass 3 of 1 October). 100/100 review: Both guards know where Marta's inn is; the address was for the reader. Then (2 October), the author's addition: the guards gossip that Marta is the most beautiful woman in Kelmend and that many customers come just to look at her. Alaric hears it before he meets her.
 
 **Your decision.** House style only; the author's text is otherwise unchanged.
 
@@ -142,7 +152,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 5. Silas, not "the man"
 
-*Draft line 201 → revised line 197*
+*Draft line 201 → revised line 201*
 
 **Before**
 
@@ -158,7 +168,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 6. In the shadow of a doorway
 
-*Draft line 257 → revised line 251*
+*Draft line 257 → revised line 255*
 
 **Before**
 
@@ -190,7 +200,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 8. The other cart
 
-*Draft line 285 → revised line 279*
+*Draft line 285 → revised line 283*
 
 **Before**
 
@@ -206,7 +216,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 9. The half-unloaded cart
 
-*Draft line 291 → revised line 285*
+*Draft line 291 → revised line 289*
 
 **Before**
 
@@ -222,7 +232,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 10. Tying the bed
 
-*Draft line 437 → revised line 431*
+*Draft line 437 → revised line 435*
 
 **Before**
 
@@ -238,7 +248,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 11. Thanks, lad
 
-*Draft line 237 → revised line 233*
+*Draft line 237 → revised line 237*
 
 **Before**
 
@@ -352,7 +362,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 18. Silas's arm
 
-*Draft line 217 → revised line 213*
+*Draft line 217 → revised line 217*
 
 **Before**
 
@@ -368,7 +378,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 19. Which stall
 
-*Draft line 283 → revised line 277*
+*Draft line 283 → revised line 281*
 
 **Before**
 
@@ -384,7 +394,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 20. Who finds Silas
 
-*Draft line 327 → revised line 321*
+*Draft line 327 → revised line 325*
 
 **Before**
 
@@ -400,7 +410,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 21. Which woman
 
-*Draft line 421 → revised line 415*
+*Draft line 421 → revised line 419*
 
 **Before**
 
@@ -416,7 +426,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 22. Who stood by the door
 
-*Draft lines 239–243 → revised lines 235–237*
+*Draft lines 239–243 → revised lines 239–241*
 
 **Before**
 
@@ -440,7 +450,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 23. The walkway
 
-*Draft line 231 → revised line 227*
+*Draft line 231 → revised line 231*
 
 **Before**
 
@@ -456,7 +466,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 24. The guard's search
 
-*Draft line 301 → revised line 295*
+*Draft line 301 → revised line 299*
 
 **Before**
 
@@ -472,7 +482,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 25. Where they wait
 
-*Draft line 375 → revised line 369*
+*Draft line 375 → revised line 373*
 
 **Before**
 
@@ -508,7 +518,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 27. The windows go out
 
-*Draft line 431 → revised line 425*
+*Draft line 431 → revised line 429*
 
 **Before**
 
@@ -558,7 +568,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 30. Who stands at the corner
 
-*Draft line 383 → revised line 377*
+*Draft line 383 → revised line 381*
 
 **Before**
 
@@ -574,7 +584,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 31. The scraping again
 
-*Draft line 461 → revised line 455*
+*Draft line 461 → revised line 459*
 
 **Before**
 
@@ -690,7 +700,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 38. The far door
 
-*Draft line 229 → revised line 225*
+*Draft line 229 → revised line 229*
 
 **Before**
 
@@ -706,7 +716,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 39. His brother's daughter
 
-*Draft lines 389–391 → revised lines 383–385*
+*Draft lines 389–391 → revised lines 387–389*
 
 **Before**
 
@@ -728,7 +738,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 40. Marta doesn't repeat the ban
 
-*Draft line 487 → revised line 481*
+*Draft line 487 → revised line 485*
 
 **Before**
 
@@ -736,15 +746,15 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> "Get the fuck out of Kelmend, Silas. Right now." She straightened, her hand falling away from Wena. "Did you think I didn't mean it?"
+> "Get the fuck out of Kelmend, Silas. Now." She straightened, her hand falling away from Wena. "I told ye to keep away from me. Don't come knocking here as if we're all right."
 
-**Why.** Silas told Alaric about the ban a minute earlier. Without the repeat, her question points straight back at it.
+**Why.** Silas told Alaric about the ban a minute earlier. Without the repeat, her question points straight back at it. Then (2 October): The author: her anger is personal. She resents him coming to her door as if they're mended.
 
 **Your decision.** Claude's 100/100 review (1 October), agreed by the author ("the rest apply").
 
 #### 41. Her hand on the chain
 
-*Draft line 351 → revised line 345*
+*Draft line 351 → revised line 349*
 
 **Before**
 
@@ -824,7 +834,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 46. Looks (7)
 
-*Draft line 219 → revised line 215*
+*Draft line 219 → revised line 219*
 
 **Before**
 
@@ -840,7 +850,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 47. Looks (8)
 
-*Draft line 261 → revised line 255*
+*Draft line 261 → revised line 259*
 
 **Before**
 
@@ -856,7 +866,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 48. Looks (9)
 
-*Draft line 277 → revised line 271*
+*Draft line 277 → revised line 275*
 
 **Before**
 
@@ -872,7 +882,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 49. Looks (10)
 
-*Draft line 279 → revised line 273*
+*Draft line 279 → revised line 277*
 
 **Before**
 
@@ -888,7 +898,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 50. Looks (11)
 
-*Draft line 363 → revised line 357*
+*Draft line 363 → revised line 361*
 
 **Before**
 
@@ -924,7 +934,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 52. The inn's board
 
-*Draft line 371 → revised line 365*
+*Draft line 371 → revised line 369*
 
 **Before**
 
@@ -937,3 +947,37 @@ Each of these needs a yes or no from you. It adds something about a character or
 **Why.** "On a chain" came a page after the auction's chain, an echo the scene doesn't mean.
 
 **Your decision.** Final pass 2 of 3 (1 October): vocabulary, rhythm and repeats. At the author's request ("Do 3 more final passes").
+
+### The author's Marta voice (2 October)
+
+#### 53. Marta to Wena
+
+*Draft line 479 → revised line 477*
+
+**Before**
+
+> "Wena? What are you doing here?"
+
+**After**
+
+> "Wena? Well now, what're ye doing at me door, girl?"
+
+**Why.** Marta's voice (the author): Baderon in FFXIV, familiar and worldly, with light dialect ("ye", "me").
+
+**Your decision.** The author's Marta voice (2 October): sent as a revised chapter with the Marta handoff.
+
+#### 54. I said out
+
+*Draft line 491 → revised line 489*
+
+**Before**
+
+> "Go!"
+
+**After**
+
+> "I said out!"
+
+**Why.** The author's line.
+
+**Your decision.** The author's Marta voice (2 October): sent as a revised chapter with the Marta handoff.

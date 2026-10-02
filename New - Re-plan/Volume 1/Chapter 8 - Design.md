@@ -426,3 +426,12 @@ At the author's request ("Do 3 more final passes in order of chapter 8 to check"
 - **Pass 1, errors, POV slips and logic (2):** "Alaric's hand", not "His hand", straight after Silas speaks (the looks pass had left it pointing at Silas); "Alaric could hear", not "he", after Silas's line in the wait.
 - **Pass 2, vocabulary, rhythm and repeats (2):** "a gap between two houses" instead of "a house and a lean-to… Beyond the lean-to"; the inn's board no longer hangs "on a chain", a page after the auction's chain.
 - **Pass 3, consistency and house style (none needed):** checked against Chapter 6 (the cloak, the sack, the bedroll, the water skin, the burned palm, the ankle), the guards' voices, 『Faint』, spelling, quotes, dashes and swearing. The approved dialogue's "Alaric looked down at the sword" twice, "for a moment" once and "in the dark" once stay.
+
+## The author's Marta voice (2 October)
+
+The author sent `Chapter_8_-_The_Road_Owed_to_the_Dead_-_Marta_Voice.docx` with a Marta handoff (both kept word for word: `Drafts/Chapter 8 - The Road Owed to the Dead (author's Marta voice, 2 October).md` and `Marta - Character and Dialogue Handoff (2 October).md`). Its changes, in the "Marta's voice" section of `Chapter 8 - Changes (combined).md`:
+
+- **The guards gossip about her** before naming her as the farmer's niece: "Fucking place is always packed." / "Half the bastards go there just to gawp at her." / "Prettiest woman in Kelmend. Can't blame them." / "Just don't make a fucking nuisance of yourself."
+- **Marta's voice at the door:** "Wena? Well now, what're ye doing at me door, girl?"; "Get the fuck out of Kelmend, Silas. Now… I told ye to keep away from me. Don't come knocking here as if we're all right."; "I said out!"
+
+The Word file predates the three final passes (it has "His hand", the lean-to, "he could hear" and the board "on a chain"), so those four fixes stay. The chapter is 5,314 words.

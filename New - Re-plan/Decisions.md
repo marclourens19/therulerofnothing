@@ -682,6 +682,7 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - **Claude's 100/100 review (1 October):** the author agreed points 2–4: the guards lose the inn's address, Marta doesn't repeat the ban, the auctioned woman closes her hand round the chain, and twelve "looked"s go (the guard's stays). Point 1, Marta's "Where's—", is still open. The chapter is 5,275 words.
   - **Error pass (1 October),** at the author's request: four fixes (where Alaric walks at the lane; the guards leave by the cart entrance; the woman's cloth, not the lead; the last lit window). The chapter is 5,276 words.
   - **Three final passes (1 October),** at the author's request: two POV fixes (whose hand; who hears the yard), two wording fixes (no "lean-to"; no chain on the inn's board), and nothing needed for consistency and house style. The chapter is 5,268 words.
+  - **The author's Marta voice (2 October),** sent as a revised chapter with the Marta handoff: the guards gossip about her beauty ("Prettiest woman in Kelmend") before "She's the farmer's niece"; "Wena? Well now, what're ye doing at me door, girl?"; "Get the fuck out of Kelmend, Silas. Now… I told ye to keep away from me. Don't come knocking here as if we're all right."; and "I said out!". The Word file was made before the three final passes, so those four fixes stay. The chapter is 5,314 words.
 
 ## Chapter 9
 
@@ -754,7 +755,10 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 - **She told Silas never to show his face again,** especially anywhere near Kelmend, and she's very angry with him (answer E).
 - **Wena knows her:** Gerolt visited often (answer F).
 - **When Alaric reaches her door she doesn't know Gerolt is dead.** He brings her the first news (Chapter 8, round 2).
-- Her age, look, Affinity, manner, and her part in Darcy's story are still to be decided, with Chapter 9.
+- **Her voice** (the author, 2 October; `Volume 1/Marta - Character and Dialogue Handoff (2 October).md`): from **Baderon** (FFXIV), meaning familiar, worldly, blunt and comfortable handling people. Light dialect ("ye", "me", an occasional "lad") with natural contractions; her personality carries the voice more than phonetic spelling. Warm with those she knows ("Wena? Well now, what're ye doing at me door, girl?"). **Keep the swearing.**
+- **The most beautiful woman in Kelmend** (the author, 2 October). The guards gossip that many customers come just to look at her. Her beauty doesn't soften her authority, and doesn't make her welcome Silas.
+- **Her anger at Silas is personal** (2 October): she forbade him to come back, and resents him turning up as if they're mended ("Don't come knocking here as if we're all right").
+- Her age, detailed appearance, Affinity, private ambitions and her part in Darcy's story are still to be decided, with Chapter 9. **Under discussion:** whether Silas's last visit to her door was to tell her that her father was dead.
 
 ## Thaeroval
 

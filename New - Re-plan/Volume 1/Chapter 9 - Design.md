@@ -161,8 +161,10 @@ Each has a recommendation. Answer by number.
 **5. Silas and Marta: the one line** (Your call, new).
 - *Recommended:* "The last time you stood at my door, you'd come to tell me my father was dead." It explains her fury without explaining the gorge. It gives Silas a reason to stand back from the door tonight, and Alaric sees Silas's face when she says it.
 - *Alternative:* she says nothing to him all chapter except orders, and the reader learns it from that.
+- **Under discussion (the author, 2 October).** In her voice it would be: "Last time ye stood at me door, ye'd come to tell me my father was dead."
 
 **6. Who Marta is.** All of it is your call. The old version is offered only as a starting point.
+- **Answered in part (2 October, the Marta handoff):** her voice is Baderon's (familiar, worldly, blunt, comfortable handling people), with light dialect ("ye", "me", an occasional "lad"); she keeps her swearing; she's the most beautiful woman in Kelmend, and it doesn't soften her authority. Still open: her age, detailed look, Affinity and private ambitions.
 - a) Age and look. Old: about forty, red-haired, freckled, broad hands with an oven-burn scar.
 - b) Her Affinity. Old: Eminent Wind, strong enough to sense the shape of someone's mana. If kept, it's how Empty is confirmed.
 - c) Her manner. Old: sharp-tongued, observant, suspicious of motives, with standing in the town through information, long friendships and feeding the guards.
@@ -194,6 +196,10 @@ Each has a recommendation. Answer by number.
 - Either way: who is Darcy to Marta? The old version had her as Marta's childhood friend. That's your call.
 
 **12. Title.** Later, once it's written.
+
+**13. Her beauty, in Alaric's eyes** (new, 2 October). Chapter 8 now has the guards calling her the prettiest woman in Kelmend, and the door gives him only a glimpse. In this chapter he's across a table from her.
+- *Recommended:* one plain, concrete detail, the first time he sees her face properly in the light, and nothing that dresses it up. Then her voice and what she does take over. It's his eyes, so it's what he'd notice, not what a narrator would admire. Which detail depends on her look (6a), so it's yours to pick.
+- *Alternative:* no description at all. The guards' gossip did the work, and the reader sees her only through what she does.
 
 ## What happens next
 
