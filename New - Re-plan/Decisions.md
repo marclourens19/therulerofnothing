@@ -719,6 +719,19 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - **Round 9 (2 October):** the objecting woman is **Rhose** (the author: "Name the girl Rhose"; earlier entries say Rose). Speaker tags were added in the guards' interview. Proposed and waiting: Marta questions him at the door; his self-blame is freezing, not a reason the elves came (he can't know they came for him); fewer thank-yous; two versions of a more flirtatious room exchange (`Chapter 9 - Design.md`, round 9).
     - **Chosen (2 October):** all of these were applied. The room is version B (she tips his chin up: "I told him I was finished for tonight. I didn't say anything about you."), with "Since you asked nicely." Alaric thanks Rhose twice: in the kitchen and at the candle.
     - **The door (2 October), option 2:** the guards will ask "about Gerolt. And about us." Marta knows Gerolt's sword on sight (new, approved) and asks why the dog is with him and not with Gerolt. "If who finds ye?" / "The elves." At the table: "Ye said ye'd tell me inside. Why've ye got his sword? Where's Gerolt?"
+  - **Finished (2 October):** the last checks were three final passes, Claude's review notes 1–8 ("apply 1-8") and five passes before merging. The chapter is 4,132 words and was merged into main. Every step is recorded in `Chapter 9 - Design.md`.
+
+## Chapter 10
+
+- **Seralune's chapter** (the author's Chapter 9 working design: the recovery days come "after Seralune's Chapter 10").
+- **Design started (2 October)** in `Volume 1/Chapter 10 - Design.md`. The proposed direction runs from the aqueduct arch at the end of Chapter 7 to first light on Day 3, in six movements:
+  1. into the old channels;
+  2. what a thousand years of her leaking mana has made of them;
+  3. she goes to something suffering, against Nereth's warning;
+  4. her mana goes into Nereth's fire, and Nereth's corruption begins;
+  5. Nereth turns on her over Cyrandor;
+  6. Seralune carries her out above the coast as the palace bells ring.
+- It updates the old Chapter 10 ("Beneath Natharul"): no lost arm for Cyrandor, the corruption comes from Seralune rather than a bite, no untouched hollow, and a smaller but public collapse. Round 1 (six questions) is waiting on the author. Nothing in it is decided yet.
 
 ## Alaric
 
