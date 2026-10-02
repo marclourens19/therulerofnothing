@@ -32,7 +32,15 @@ Marta turned back to him. Alaric glanced down the lane and lowered his voice.
 
 Her eyes went to Wena.
 
-"They're looking for *you*? I don't want trouble in this house, lad. Ye'll have to leave."
+"They're looking for *you*?" Her eyes came back to him. "Why would the guards come asking me about Gerolt? What's happened?"
+
+"Elves came to his farm." Alaric glanced down the lane. "I'll tell you all of it, just not out here."
+
+"Elves." Her hand tightened on the door. "And what do they want with you?"
+
+"I don't know. The guards didn't say. Only that they want a boy with a big dog."
+
+"I don't want trouble in this house, lad. Ye'll have to leave."
 
 "Please. I don't have anywhere else to go." His voice shook. "Gerolt sent me to you."
 
@@ -124,7 +132,7 @@ Marta looked towards the closed door. "And he brought ye here."
 
 She didn't answer him.
 
-"It was my fault," Alaric said. "They wanted something from me. If he hadn't found me—"
+"It was my fault," Alaric said. "He told me to run, and I didn't. If I'd gone when he said—"
 
 "Don't."
 
@@ -346,9 +354,7 @@ Rhose looked at her, then nodded. She lit a candle from Marta's lamp and took Al
 
 Alaric followed her in with the sword and Wena. There was a bed, a stool, and a jug and basin on a stand under the shutter. Rhose set the candle on the stand.
 
-"Thank you. For helping me, and letting me stay."
-
-"That's all right. Come on, sit down. Let me help you with that boot."
+"Come on, sit down. Let me help you with that boot."
 
 He sat on the bed and laid Gerolt's sword beside him. She bent towards his boot, and his eyes dropped to the cleavage above the low neckline of her dress. He turned away at once, his face burning.
 
@@ -358,25 +364,27 @@ She gave a quiet laugh.
 
 "It's only your boot, Alaric."
 
-She stood beside him and took his arm, leaning close enough that her chest pressed against his shoulder.
+She straightened slowly. Instead of stepping back, she stood close in front of him, near enough that her skirt brushed his knees, and put a hand on his shoulder.
 
 "There's nothing to be embarrassed about."
 
-He looked up at her, then away again. Even his ears felt hot.
+He kept his eyes on the floor. Even his ears felt hot.
 
 "I wasn't trying to stare."
 
-"Now I've had a proper look at you…" She leaned closer, smiling. "You're a handsome one, you know."
+"I know." She tipped his chin up with one finger until he had to look at her face. "Now I've had a proper look at you…" She smiled. "You're a handsome one, you know. Even under all that dirt."
 
-"Thank you."
+He didn't know what to do with his hands. He put them flat on the blanket.
 
-She laughed and let go of his arm, then stepped back to give him room.
+"I told him I was finished for tonight." Her finger stayed under his chin a moment longer. "I didn't say anything about you."
+
+Then she laughed, softly, at whatever his face was doing, and stepped back to give him room.
 
 He loosened the boot, keeping his eyes on his hands. But when he tried to pull it past his heel, pain ran up his leg and he stopped. He sat holding the heel of it, and Rhose waited.
 
 "Could you hold my ankle still?"
 
-"Of course."
+"Since you asked nicely."
 
 She knelt and supported his foot with one hand. When she eased the boot past his heel, he gripped the mattress.
 

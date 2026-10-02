@@ -6,7 +6,8 @@
  "intro_md": "2 October 2026. Changes after the five passes, made from `Drafts/Chapter 9 - Refuge (Draft 2, after five passes).md`. The author is reading the chapter through with Claude; this round has the name Rhose and the speaker tags. Marta's questions at the door, Alaric's self-blame and the two versions of the room exchange are waiting on the author (`Chapter 9 - Design.md`, round 9).",
  "sections": {
   "Who's speaking": "Who's speaking (the guards' interview)",
-  "The name: Rhose": "The name: Rhose (one change per paragraph)"
+  "The name: Rhose": "The name: Rhose (one change per paragraph)",
+  "Round 9": "Round 9: the author's choices (2 October)"
  },
  "changes": [
   {
@@ -179,39 +180,6 @@
    "title": "Rhose",
    "kind": "changed",
    "tags": [],
-   "before": "\"This one's yours,\" Rose said. \"You can leave your things here now.\"",
-   "after": "\"This one's yours,\" Rhose said. \"You can leave your things here now.\"",
-   "why": "The author: \"Name the girl Rhose\" (2 October).",
-   "decision": "accepted",
-   "decision_note": "The author's choice."
-  },
-  {
-   "section": "The name: Rhose",
-   "title": "Rhose",
-   "kind": "changed",
-   "tags": [],
-   "before": "Alaric followed her in with the sword and Wena. There was a bed, a stool, and a jug and basin on a stand under the shutter. Rose set the candle on the stand.",
-   "after": "Alaric followed her in with the sword and Wena. There was a bed, a stool, and a jug and basin on a stand under the shutter. Rhose set the candle on the stand.",
-   "why": "The author: \"Name the girl Rhose\" (2 October).",
-   "decision": "accepted",
-   "decision_note": "The author's choice."
-  },
-  {
-   "section": "The name: Rhose",
-   "title": "Rhose",
-   "kind": "changed",
-   "tags": [],
-   "before": "He loosened the boot, keeping his eyes on his hands. But when he tried to pull it past his heel, pain ran up his leg and he stopped. He sat holding the heel of it, and Rose waited.",
-   "after": "He loosened the boot, keeping his eyes on his hands. But when he tried to pull it past his heel, pain ran up his leg and he stopped. He sat holding the heel of it, and Rhose waited.",
-   "why": "The author: \"Name the girl Rhose\" (2 October).",
-   "decision": "accepted",
-   "decision_note": "The author's choice."
-  },
-  {
-   "section": "The name: Rhose",
-   "title": "Rhose",
-   "kind": "changed",
-   "tags": [],
    "before": "Rose put a folded blanket beneath his foot. \"Keep it up for a while.\"",
    "after": "Rhose put a folded blanket beneath his foot. \"Keep it up for a while.\"",
    "why": "The author: \"Name the girl Rhose\" (2 October).",
@@ -283,6 +251,39 @@
    "why": "The author: \"Name the girl Rhose\" (2 October).",
    "decision": "accepted",
    "decision_note": "The author's choice."
+  },
+  {
+   "section": "Round 9",
+   "title": "Marta questions him at the door",
+   "kind": "changed",
+   "tags": [],
+   "before": "\"They're looking for *you*? I don't want trouble in this house, lad. Ye'll have to leave.\"",
+   "after": "\"They're looking for *you*?\" Her eyes came back to him. \"Why would the guards come asking me about Gerolt? What's happened?\"\n\n\"Elves came to his farm.\" Alaric glanced down the lane. \"I'll tell you all of it, just not out here.\"\n\n\"Elves.\" Her hand tightened on the door. \"And what do they want with you?\"\n\n\"I don't know. The guards didn't say. Only that they want a boy with a big dog.\"\n\n\"I don't want trouble in this house, lad. Ye'll have to leave.\"",
+   "why": "The author: Marta moving past the news \"so easily doesn't make sense\". She hears enough to be afraid, which is why she first says no; he keeps the death for inside.",
+   "decision": "accepted",
+   "decision_note": "The author, 2 October: \"Yes do B\"."
+  },
+  {
+   "section": "Round 9",
+   "title": "His self-blame",
+   "kind": "changed",
+   "tags": [],
+   "before": "\"It was my fault,\" Alaric said. \"They wanted something from me. If he hadn't found me—\"",
+   "after": "\"It was my fault,\" Alaric said. \"He told me to run, and I didn't. If I'd gone when he said—\"",
+   "why": "The author: he can't know the elves came for him. He blames his freezing instead, one step on from \"He told me to run. I didn't.\"",
+   "decision": "accepted",
+   "decision_note": "The author, 2 October: \"Yes do B\"."
+  },
+  {
+   "section": "Round 9",
+   "title": "The room: version B",
+   "kind": "changed",
+   "tags": [],
+   "before": "\"This one's yours,\" Rose said. \"You can leave your things here now.\"\n\nAlaric followed her in with the sword and Wena. There was a bed, a stool, and a jug and basin on a stand under the shutter. Rose set the candle on the stand.\n\n\"Thank you. For helping me, and letting me stay.\"\n\n\"That's all right. Come on, sit down. Let me help you with that boot.\"\n\nHe sat on the bed and laid Gerolt's sword beside him. She bent towards his boot, and his eyes dropped to the cleavage above the low neckline of her dress. He turned away at once, his face burning.\n\n\"W-wait. I can do it myself, please.\"\n\nShe gave a quiet laugh.\n\n\"It's only your boot, Alaric.\"\n\nShe stood beside him and took his arm, leaning close enough that her chest pressed against his shoulder.\n\n\"There's nothing to be embarrassed about.\"\n\nHe looked up at her, then away again. Even his ears felt hot.\n\n\"I wasn't trying to stare.\"\n\n\"Now I've had a proper look at you…\" She leaned closer, smiling. \"You're a handsome one, you know.\"\n\n\"Thank you.\"\n\nShe laughed and let go of his arm, then stepped back to give him room.\n\nHe loosened the boot, keeping his eyes on his hands. But when he tried to pull it past his heel, pain ran up his leg and he stopped. He sat holding the heel of it, and Rose waited.\n\n\"Could you hold my ankle still?\"\n\n\"Of course.\"\n\nShe knelt and supported his foot with one hand. When she eased the boot past his heel, he gripped the mattress.",
+   "after": "\"This one's yours,\" Rhose said. \"You can leave your things here now.\"\n\nAlaric followed her in with the sword and Wena. There was a bed, a stool, and a jug and basin on a stand under the shutter. Rhose set the candle on the stand.\n\n\"Come on, sit down. Let me help you with that boot.\"\n\nHe sat on the bed and laid Gerolt's sword beside him. She bent towards his boot, and his eyes dropped to the cleavage above the low neckline of her dress. He turned away at once, his face burning.\n\n\"W-wait. I can do it myself, please.\"\n\nShe gave a quiet laugh.\n\n\"It's only your boot, Alaric.\"\n\nShe straightened slowly. Instead of stepping back, she stood close in front of him, near enough that her skirt brushed his knees, and put a hand on his shoulder.\n\n\"There's nothing to be embarrassed about.\"\n\nHe kept his eyes on the floor. Even his ears felt hot.\n\n\"I wasn't trying to stare.\"\n\n\"I know.\" She tipped his chin up with one finger until he had to look at her face. \"Now I've had a proper look at you…\" She smiled. \"You're a handsome one, you know. Even under all that dirt.\"\n\nHe didn't know what to do with his hands. He put them flat on the blanket.\n\n\"I told him I was finished for tonight.\" Her finger stayed under his chin a moment longer. \"I didn't say anything about you.\"\n\nThen she laughed, softly, at whatever his face was doing, and stepped back to give him room.\n\nHe loosened the boot, keeping his eyes on his hands. But when he tried to pull it past his heel, pain ran up his leg and he stopped. He sat holding the heel of it, and Rhose waited.\n\n\"Could you hold my ankle still?\"\n\n\"Since you asked nicely.\"\n\nShe knelt and supported his foot with one hand. When she eased the boot past his heel, he gripped the mattress.",
+   "why": "The author chose version B, with \"Since you asked nicely.\" (from version A) for \"Of course.\". The arrival \"Thank you\" and his reply to \"handsome\" are gone, so he thanks her twice in the chapter: in the kitchen and at the candle. Rhose throughout.",
+   "decision": "accepted",
+   "decision_note": "The author, 2 October: \"Yes do B\"."
   }
  ]
 }

@@ -5,8 +5,8 @@
 ## At a glance
 
 - **25 changes proposed.** 0 rejected so far, so 25 are in the chapter: 25 rewritten, 0 cut and 0 added.
-- **Length:** 4,018 words before, 4,028 after.
-- **Median paragraph:** 10 words before, 10.5 after. The house target is roughly 14–22.
+- **Length:** 4,018 words before, 4,160 after.
+- **Median paragraph:** 10 words before, 11 after. The house target is roughly 14–22.
 - **"Nothing":** 4 times before, 4 after.
 
 ## Your call
@@ -39,9 +39,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 20, Rhose:** The author's choice.
 - **Change 21, Rhose:** The author's choice.
 - **Change 22, Rhose:** The author's choice.
-- **Change 23, Rhose:** The author's choice.
-- **Change 24, Rhose:** The author's choice.
-- **Change 25, Rhose:** The author's choice.
+- **Change 23, Marta questions him at the door:** The author, 2 October: "Yes do B".
+- **Change 24, His self-blame:** The author, 2 October: "Yes do B".
+- **Change 25, The room: version B:** The author, 2 October: "Yes do B".
 
 ## The changes
 
@@ -49,7 +49,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 1. Marta's question
 
-*Draft line 241 → revised line 241*
+*Draft line 241 → revised line 249*
 
 **Before**
 
@@ -65,7 +65,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 2. The loud one
 
-*Draft line 267 → revised line 267*
+*Draft line 267 → revised line 275*
 
 **Before**
 
@@ -81,7 +81,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 3. The other man
 
-*Draft line 277 → revised line 277*
+*Draft line 277 → revised line 285*
 
 **Before**
 
@@ -97,7 +97,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 4. The loud one again
 
-*Draft line 283 → revised line 283*
+*Draft line 283 → revised line 291*
 
 **Before**
 
@@ -115,7 +115,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 5. Rhose
 
-*Draft line 195 → revised line 195*
+*Draft line 195 → revised line 203*
 
 **Before**
 
@@ -131,7 +131,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 6. Rhose
 
-*Draft line 199 → revised line 199*
+*Draft line 199 → revised line 207*
 
 **Before**
 
@@ -147,7 +147,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 7. Rhose
 
-*Draft line 201 → revised line 201*
+*Draft line 201 → revised line 209*
 
 **Before**
 
@@ -163,7 +163,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 8. Rhose
 
-*Draft line 205 → revised line 205*
+*Draft line 205 → revised line 213*
 
 **Before**
 
@@ -179,7 +179,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 9. Rhose
 
-*Draft line 207 → revised line 207*
+*Draft line 207 → revised line 215*
 
 **Before**
 
@@ -195,7 +195,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 10. Rhose
 
-*Draft line 211 → revised line 211*
+*Draft line 211 → revised line 219*
 
 **Before**
 
@@ -211,7 +211,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 11. Rhose
 
-*Draft line 237 → revised line 237*
+*Draft line 237 → revised line 245*
 
 **Before**
 
@@ -227,7 +227,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 12. Rhose
 
-*Draft line 291 → revised line 291*
+*Draft line 291 → revised line 299*
 
 **Before**
 
@@ -243,7 +243,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 13. Rhose
 
-*Draft line 297 → revised line 297*
+*Draft line 297 → revised line 305*
 
 **Before**
 
@@ -259,7 +259,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 14. Rhose
 
-*Draft line 339 → revised line 339*
+*Draft line 339 → revised line 347*
 
 **Before**
 
@@ -275,7 +275,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 15. Rhose
 
-*Draft line 343 → revised line 343*
+*Draft line 343 → revised line 351*
 
 **Before**
 
@@ -291,55 +291,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 16. Rhose
 
-*Draft line 345 → revised line 345*
-
-**Before**
-
-> "This one's yours," Rose said. "You can leave your things here now."
-
-**After**
-
-> "This one's yours," Rhose said. "You can leave your things here now."
-
-**Why.** The author: "Name the girl Rhose" (2 October).
-
-**Your decision.** The author's choice.
-
-#### 17. Rhose
-
-*Draft line 347 → revised line 347*
-
-**Before**
-
-> Alaric followed her in with the sword and Wena. There was a bed, a stool, and a jug and basin on a stand under the shutter. Rose set the candle on the stand.
-
-**After**
-
-> Alaric followed her in with the sword and Wena. There was a bed, a stool, and a jug and basin on a stand under the shutter. Rhose set the candle on the stand.
-
-**Why.** The author: "Name the girl Rhose" (2 October).
-
-**Your decision.** The author's choice.
-
-#### 18. Rhose
-
-*Draft line 375 → revised line 375*
-
-**Before**
-
-> He loosened the boot, keeping his eyes on his hands. But when he tried to pull it past his heel, pain ran up his leg and he stopped. He sat holding the heel of it, and Rose waited.
-
-**After**
-
-> He loosened the boot, keeping his eyes on his hands. But when he tried to pull it past his heel, pain ran up his leg and he stopped. He sat holding the heel of it, and Rhose waited.
-
-**Why.** The author: "Name the girl Rhose" (2 October).
-
-**Your decision.** The author's choice.
-
-#### 19. Rhose
-
-*Draft line 389 → revised line 389*
+*Draft line 389 → revised line 397*
 
 **Before**
 
@@ -353,9 +305,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Your decision.** The author's choice.
 
-#### 20. Rhose
+#### 17. Rhose
 
-*Draft line 395 → revised line 395*
+*Draft line 395 → revised line 403*
 
 **Before**
 
@@ -369,9 +321,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Your decision.** The author's choice.
 
-#### 21. Rhose
+#### 18. Rhose
 
-*Draft line 403 → revised line 403*
+*Draft line 403 → revised line 411*
 
 **Before**
 
@@ -385,9 +337,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Your decision.** The author's choice.
 
-#### 22. Rhose
+#### 19. Rhose
 
-*Draft line 439 → revised line 439*
+*Draft line 439 → revised line 447*
 
 **Before**
 
@@ -401,9 +353,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Your decision.** The author's choice.
 
-#### 23. Rhose
+#### 20. Rhose
 
-*Draft line 469 → revised line 469*
+*Draft line 469 → revised line 477*
 
 **Before**
 
@@ -417,9 +369,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Your decision.** The author's choice.
 
-#### 24. Rhose
+#### 21. Rhose
 
-*Draft line 541 → revised line 541*
+*Draft line 541 → revised line 549*
 
 **Before**
 
@@ -433,9 +385,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **Your decision.** The author's choice.
 
-#### 25. Rhose
+#### 22. Rhose
 
-*Draft line 557 → revised line 557*
+*Draft line 557 → revised line 565*
 
 **Before**
 
@@ -448,3 +400,133 @@ Each of these needs a yes or no from you. It adds something about a character or
 **Why.** The author: "Name the girl Rhose" (2 October).
 
 **Your decision.** The author's choice.
+
+### Round 9: the author's choices (2 October)
+
+#### 23. Marta questions him at the door
+
+*Draft line 35 → revised lines 35–43*
+
+**Before**
+
+> "They're looking for *you*? I don't want trouble in this house, lad. Ye'll have to leave."
+
+**After**
+
+> "They're looking for *you*?" Her eyes came back to him. "Why would the guards come asking me about Gerolt? What's happened?"
+>
+> "Elves came to his farm." Alaric glanced down the lane. "I'll tell you all of it, just not out here."
+>
+> "Elves." Her hand tightened on the door. "And what do they want with you?"
+>
+> "I don't know. The guards didn't say. Only that they want a boy with a big dog."
+>
+> "I don't want trouble in this house, lad. Ye'll have to leave."
+
+**Why.** The author: Marta moving past the news "so easily doesn't make sense". She hears enough to be afraid, which is why she first says no; he keeps the death for inside.
+
+**Your decision.** The author, 2 October: "Yes do B".
+
+#### 24. His self-blame
+
+*Draft line 127 → revised line 135*
+
+**Before**
+
+> "It was my fault," Alaric said. "They wanted something from me. If he hadn't found me—"
+
+**After**
+
+> "It was my fault," Alaric said. "He told me to run, and I didn't. If I'd gone when he said—"
+
+**Why.** The author: he can't know the elves came for him. He blames his freezing instead, one step on from "He told me to run. I didn't."
+
+**Your decision.** The author, 2 October: "Yes do B".
+
+#### 25. The room: version B
+
+*Draft lines 345–381 → revised lines 353–389*
+
+**Before**
+
+> "This one's yours," Rose said. "You can leave your things here now."
+>
+> Alaric followed her in with the sword and Wena. There was a bed, a stool, and a jug and basin on a stand under the shutter. Rose set the candle on the stand.
+>
+> "Thank you. For helping me, and letting me stay."
+>
+> "That's all right. Come on, sit down. Let me help you with that boot."
+>
+> He sat on the bed and laid Gerolt's sword beside him. She bent towards his boot, and his eyes dropped to the cleavage above the low neckline of her dress. He turned away at once, his face burning.
+>
+> "W-wait. I can do it myself, please."
+>
+> She gave a quiet laugh.
+>
+> "It's only your boot, Alaric."
+>
+> She stood beside him and took his arm, leaning close enough that her chest pressed against his shoulder.
+>
+> "There's nothing to be embarrassed about."
+>
+> He looked up at her, then away again. Even his ears felt hot.
+>
+> "I wasn't trying to stare."
+>
+> "Now I've had a proper look at you…" She leaned closer, smiling. "You're a handsome one, you know."
+>
+> "Thank you."
+>
+> She laughed and let go of his arm, then stepped back to give him room.
+>
+> He loosened the boot, keeping his eyes on his hands. But when he tried to pull it past his heel, pain ran up his leg and he stopped. He sat holding the heel of it, and Rose waited.
+>
+> "Could you hold my ankle still?"
+>
+> "Of course."
+>
+> She knelt and supported his foot with one hand. When she eased the boot past his heel, he gripped the mattress.
+
+**After**
+
+> "This one's yours," Rhose said. "You can leave your things here now."
+>
+> Alaric followed her in with the sword and Wena. There was a bed, a stool, and a jug and basin on a stand under the shutter. Rhose set the candle on the stand.
+>
+> "Come on, sit down. Let me help you with that boot."
+>
+> He sat on the bed and laid Gerolt's sword beside him. She bent towards his boot, and his eyes dropped to the cleavage above the low neckline of her dress. He turned away at once, his face burning.
+>
+> "W-wait. I can do it myself, please."
+>
+> She gave a quiet laugh.
+>
+> "It's only your boot, Alaric."
+>
+> She straightened slowly. Instead of stepping back, she stood close in front of him, near enough that her skirt brushed his knees, and put a hand on his shoulder.
+>
+> "There's nothing to be embarrassed about."
+>
+> He kept his eyes on the floor. Even his ears felt hot.
+>
+> "I wasn't trying to stare."
+>
+> "I know." She tipped his chin up with one finger until he had to look at her face. "Now I've had a proper look at you…" She smiled. "You're a handsome one, you know. Even under all that dirt."
+>
+> He didn't know what to do with his hands. He put them flat on the blanket.
+>
+> "I told him I was finished for tonight." Her finger stayed under his chin a moment longer. "I didn't say anything about you."
+>
+> Then she laughed, softly, at whatever his face was doing, and stepped back to give him room.
+>
+> He loosened the boot, keeping his eyes on his hands. But when he tried to pull it past his heel, pain ran up his leg and he stopped. He sat holding the heel of it, and Rhose waited.
+>
+> "Could you hold my ankle still?"
+>
+> "Since you asked nicely."
+>
+> She knelt and supported his foot with one hand. When she eased the boot past his heel, he gripped the mattress.
+
+**Why.** The author chose version B, with "Since you asked nicely." (from version A) for "Of course.". The arrival "Thank you" and his reply to "handsome" are gone, so he thanks her twice in the chapter: in the kitchen and at the candle. Rhose throughout.
+
+**Your decision.** The author, 2 October: "Yes do B".
