@@ -748,15 +748,19 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - Her mana, in the aqueduct, takes Nereth's sense of direction and her mind, and she recovers in the fresh air.
   - **Nereth's corruption begins** with the lizard's bite to her face.
   - Nereth's fire spends all her mana.
-- **Round 2 (eight questions) is waiting on the author:**
-  - deaths above ground;
-  - what Seralune has seen Thaer do with Dark;
-  - where the mind-taking mana comes from;
-  - how far the immunity goes;
-  - who the dead are;
-  - whose voice says "help me";
-  - what Nereth says when she lashes out;
-  - the way out and the time.
+- **Round 2, the author's answers (2 October),** kept word for word in the design file:
+  1. **Nobody dies.** They walk the aqueducts for hours, and the way leads towards the ocean, far from the palace and the city. That's where the blast opens the mountain.
+  2. **Thaer:** Seralune hasn't seen anything of his Dark ("Nothing I was just thinking it in my head"). How she can still think the comparison is round 3.
+  3. **The mana that takes Nereth's mind** is the place's: a thousand years of Seralune's mana leaking from the seal. It's stronger the deeper they go, and it flares when Seralune is frightened or angry. It doesn't touch Seralune, and she doesn't know why.
+  4. **Her immunity:** magic can't touch her, or anyone she's holding, but falling stone and ordinary harm can. She doesn't understand why the fire parted.
+  5. **The dead** are palace servants sent down over the years to clear the channels. They never came back, because they died, and they're in the same grey Seralune is wearing.
+  6. **"Help me"** is a copied voice, the last words of one of the dead, the way the ogre copied words in Chapter 6.
+  7. **Nereth lashes out** over Cyrandor, with words first, then her hands. She also lashes out at Seralune's small kindnesses: Seralune keeps trying to make sure she's all right, and that makes Nereth angry.
+  8. **They come out before dawn on Day 3** and go down the mountain as it gets light. Nereth's mind clears in the fresh air, the mark below her left eye stays, and she's too weak to walk.
+- **Round 3 and dialogue round 1 (2 October)** are waiting on the author. Round 3 is how to word the Thaer thought, and Claude's notes on how Nereth's descent builds. The dialogue round is `Volume 1/Chapter 10 - Dialogue.md`: eleven exchanges and thoughts, D1–D11. Lines from the old chapter are marked, and so are three new calls:
+  - the palace's lie that the dead servants "had run away";
+  - Nereth blurting out Cyrandor's secret order ("Even if she seems dangerous");
+  - "I never had magic" first appearing here.
 
 ## Alaric
 
@@ -796,6 +800,8 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 - **Her mana.** She knows she has mana, and a lot of it. Everyone believes it's simply a very large pool: no one has been able to find its end. In truth it has none. *Now in question (handoff §14.5): a world that is fading because its energy is running out sits badly with a reserve that truly never ends. See Open questions.*
 - **A rule: her mana can't be used** (27 September). "Her mana isn't usable at all, nor should she think it is. It is only usable through Alaric. Her mana just exists within her." So she never tries to shape it, and never expects to.
 - **But it acts on its own** (27 September): "Yes, her mana acts on its own." That's how it went searching for Alaric, and how her feelings make Nereth's corruption flare.
+- **She is immune to magic, through her mana** (the author, 2 October, Chapter 10). Magic can't touch her, or anyone she's holding, but falling stone and ordinary harm can. She doesn't understand it: in Chapter 10 she only sees Nereth's fire go round them. It fits the handoff's picture of the tear (§14.2), where "Nereth survives while close to Seralune".
+- **Her leaking mana** (the author, 2 October, Chapter 10). For a thousand years, her mana leaked from the seal into the old aqueduct under the palace. It changed what grows and lives there, killed the servants sent down to clear the channels, and takes the sense and the mind of anyone else who goes in. It doesn't touch her.
 - **She isn't the ancient Seralune either** (handoff §15.5). She keeps the princess-self she remembers but has no memory of Alaric, and owes him nothing because of a past relationship.
 - **Her last choice in Volume 1.** She accepts responsibility for who she was, even though that isn't her true self and she didn't actually do those things. Her internal war: "I need to atone for all these deaths. But was it me? Why must I? But I should."
 - **The heir was whoever she married** (the author, 29 September): "It was meant to be whoever Seralune married." A Ruler can't be king, and Thaer is one. Who is the heir now is open.
@@ -928,6 +934,11 @@ Not in the central cast yet, and not locked (handoff §7, §14.3).
 - **Always composed on duty** (27 September). Her first slip comes in the escape, not before.
 - **Cyrandor's order** (27 September): "Secretly, before meeting Seralune, Cyrandor told Nereth to watch over Seralune: even if she seems dangerous, she is important. Nereth obeys, but is struggling to understand why her." This replaces the old canon that she has nothing to do with the Order.
 - **Her first disobedience of anyone** is still undecided (handoff §15.10). Her first *slip*, from Ram to Revy, comes in the escape (above).
+- **Her corruption begins in Chapter 10** (the author, 2 October).
+  - The aqueduct's mana takes her sense of direction and then her mind. She lashes out at Seralune over Cyrandor and over Seralune's small kindnesses. These outbursts are the mana's, so they aren't her first real refusal of Seralune, which stays later.
+  - A small corrupted lizard bites her face, and the corruption takes hold below her left eye.
+  - With her mind lost, her corrupted fire blasts down the aqueduct and through the side of the mountain, and it spends all her mana.
+  - In the fresh air her mind recovers. The mark stays.
 
 ### Redd Vander
 

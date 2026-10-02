@@ -1,6 +1,6 @@
 # Chapter 10 – Design
 
-Started 2 October 2026. **Status:** the author's direction (below) is now the working design, and it replaces Claude's first proposal, which is kept at the end. Round 2 is waiting on the author. The working title is **"Beneath Natharul"**, the old chapter's title; the author called it "the Beneath Natharul horror chapter".
+Started 2 October 2026. **Status:** the author's direction (below) is now the working design, and it replaces Claude's first proposal, which is kept at the end. Round 2 is answered. One follow-up and the dialogue round (`Chapter 10 - Dialogue.md`) are waiting on the author. The working title is **"Beneath Natharul"**, the old chapter's title; the author called it "the Beneath Natharul horror chapter".
 
 ## Whose chapter
 
@@ -131,6 +131,43 @@ These are the author's beats, in order and numbered so we can refer to them.
    - Nereth's mind clears in the fresh air;
    - the mark below her left eye stays;
    - she's too weak to walk.
+
+**The author's answers (2 October), word for word:**
+
+> 1. No one dies, they are walking in the aquaducts for hours and it leads closer to the ocean now, which is far away from the palace and the city
+> 2. Nothing I was just thinking it in my head
+> 3. I agree
+> 4. Yes I agree
+> 5. Yes, these servants never returned bcas they died
+> 6. Yes
+> 7. Yes but also starts lashing out at seralunes small behaviors, seralune will try make sure she is alright and nereth would get angry at that etc
+> 8. Agreed
+
+**What they settle:**
+1. **Nobody dies.** They walk the aqueducts for hours, and the way leads towards the ocean, far from the palace and the city. That's where the blast opens the mountain.
+2. **Thaer.** Seralune hasn't seen anything of his Dark; the comparison was the author's own thought. *A follow-up is below*, because she can only think it from what she knows.
+3. **The mana that takes Nereth's mind** is the place's: a thousand years of Seralune's mana leaking from the seal. It's stronger the deeper they go, and it flares when Seralune is frightened or angry. It doesn't touch Seralune, and she doesn't know why.
+4. **Her immunity:** magic can't touch her, or anyone she's holding, but falling stone and ordinary harm can. She doesn't understand why the fire parted.
+5. **The dead** are palace servants sent down over the years to clear the channels. They never came back, because they died, and they're still in the same grey Seralune is wearing.
+6. **"Help me"** is a copied voice, the last words of one of the dead, the way the ogre copied people's words in Chapter 6.
+7. **Nereth lashes out** over Cyrandor, with words first and then her hands. She also lashes out at Seralune's small kindnesses: Seralune keeps trying to make sure she's all right, and that makes Nereth angry.
+8. **The way out:** they come out before dawn on Day 3 and go down the mountain as it gets light. Nereth's mind clears in the fresh air, the mark below her left eye stays, and she's too weak to walk.
+
+## Round 3 (2 October)
+
+1. **The Thaer thought.** The page can't compare the blast with something Seralune has never seen. Two honest ways:
+   - **A (recommended):** compare it with what she *knows* rather than what she's seen. Thaer was Natharul's strongest warrior even in her time (he's a Ruler, born with Dark, and the old canon that he's "Natharul's most powerful warrior" stands). For example: *All her life, people had said there was nobody in Natharul like Thaer. She had never seen him do anything like this.* This keeps the author's idea.
+   - **B:** no Thaer: *She had never seen anything like it.*
+2. **The notes before the dialogue round** (above, notes 5–10): the order of the descent, Seralune untouched by the place, the footprints, the lamp breaking, and one creature seen whole. *Recommended:* use them, with the author's answer 7 added to the descent. The order, updated:
+   1. she's sure of the way, and wrong (the circles);
+   2. she hears things Seralune can't;
+   3. Seralune's kindnesses make her short, then cutting;
+   4. she stops answering to her name;
+   5. Cyrandor;
+   6. her hands;
+   7. after the bite, she's gone.
+
+The key exchanges are in `Chapter 10 - Dialogue.md` (dialogue round 1).
 
 ---
 
