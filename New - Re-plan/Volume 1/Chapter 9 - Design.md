@@ -473,3 +473,62 @@ The author sent `Chapter 9 - Dialogue.md`, all seven passages in scene order, wi
 If both land, the vision hurts because of things the reader has watched, not because it's gory.
 
 Once these are answered, the chapter is ready to write, and it waits for the author's go-ahead.
+
+## Round 6: the author's answers to round 5 (2 October)
+
+The author answered round 5 and sent a revised `Chapter 9 - Dialogue.md` (kept word for word; the first version is in `Drafts/`). The only change in the file is the welcome: she takes his arm and teases him ("You're quite cute, you know."), then takes the boot off herself, and he pulls the other off. The answers, word for word:
+
+> I would handle the fixes as follows:
+>
+> 1. Return the sword exactly where suggested. After Alaric stands:
+> Marta held the sword out, grip first. He took it carefully. She let go without looking at him.
+> Keep this quiet. Her giving it back already carries meaning; the narration doesn’t need to explain that meaning.
+> 2. Shorten his repeated answer to “He gave it to me.” Marta has already heard Gerolt’s message. Repeating it makes the conversation restart.
+> 3. Clarify the cloak and cleaning cloth. Use “Alaric’s hand stopped on the cloak.” Then “She sighed and picked it up again.” Both are straightforward improvements.
+> 4. Account for the other boot. Add “He pulled the other boot off himself.” before the woman gathers them.
+> 5. Make the vocabulary changes and cut the repeated explanation. “Eaves” and “awnings” aren’t errors, but simpler wording fits your preference. Use “beneath the edges of the roofs” and “Their cloth covers were gone.” Change narrative “around” to “round,” and remove:
+> Who had let him hide in her room, even after she said it would put them all in danger.
+> We have already watched her do that. Repeating it interrupts the discovery of her body.
+>
+> For the questions:
+>
+> 1. Keep “when they come knocking.” You explicitly requested that wording. You removed the joke about treading on the dog. My design summary grouped those instructions ambiguously—that is my recording mistake, not a contradiction in your decisions.
+> 2. Acknowledge the woman’s objection after the guards leave. I agree with the intention, though “Then you and I’ll talk” only promises the discussion again. I would have Marta say:
+> “Take him up, will ye? Come back down when he’s settled. We’ll talk about it.”
+> Their conversation can happen privately after the woman leaves Alaric. We don’t need another scene, but her concern should remain something Marta takes seriously.
+> 3. Add Wena to the real awakening. This is worth doing:
+> Wena stood beside the bed, her head raised. He reached down, and she pushed her nose into his hand.
+> Her physical presence gives him something real after the vision. His headache can persist through that reassurance.
+> 4. Neither Marta’s beauty nor her question about Silas was deliberately cut. These are selected passages, with connecting prose still to be drafted. Her beauty needs only a brief observation. Her suspicion about Silas needs an actual exchange, because it affects how she understands what happened.
+> I would place that exchange after her first shock has settled slightly:
+> “And Silas? Where was he while this was happening?”
+> “He came through the trees. He fought them, then dragged me away. I couldn’t make myself leave Gerolt.”
+> Marta looked towards the closed door. “And he brought ye here.”
+> “Gerolt told me to come here. Silas helped me get here.”
+> That lets Alaric defend the help he witnessed without explaining Silas’s motives.
+> 5. “We’ve got the girls” can be made more personal. Since she is one of the resident women, I prefer:
+> “We’ve got guests upstairs. And the rest of us live here too.”
+> Her name remains undecided. I recommend naming her during an ordinary introduction; she now has enough presence to deserve an identity beyond “the woman.”
+>
+> One verification qualification: the tired guard’s voice matches the available Chapter 8 text, but I couldn’t find the “prettiest woman in Kelmend” remark in the local versions I checked. It may be in Claude’s newer copy. Marta’s beauty is already your established direction, so we can write it without relying on that particular callback.
+> The review’s strongest point is the connection between the woman’s actual kindness and her imagined death. Give her objection, teasing and quiet help enough room to feel like one person. Then the vision attacks a relationship the reader has begun to value, and the gore serves that emotional purpose.
+
+### Claude's notes on round 6
+
+**Agreed, for the draft:** the sword's return, "He gave it to me.", the cloak and cloth lines, the other boot, the vocabulary and "round", cutting the explaining sentence, keeping "when they come knocking", Marta's "Take him up, will ye? Come back down when he's settled. We'll talk about it.", Wena at the waking, and "And the rest of us live here too."
+
+**Checks:**
+- "Prettiest woman in Kelmend. Can't blame them." is in the repo's Chapter 8 (the loud guard, in the yard). It came in with the guard edit in Chapter 8's final passes, so the author's local Word copy predates it. The callback is available.
+- **Silas's arrival (Chapter 2):** Gerolt was already shot and on his knees when Silas came. Silas killed the last three riders, Gerolt looked at him and said "Heh", and then Silas dragged Alaric away. So "Where was he while this was happening?" has a sharper true answer than "He fought them": he came after Gerolt was hit.
+
+**Proposals:**
+1. **The Silas exchange.** *Suggested:* "He came after Gerolt was hit. He killed the last of them, then dragged me away." It's true to Chapter 2, and "after" gives Marta's suspicion something real to land on. Cut "I couldn't make myself leave Gerolt": he said "I couldn't leave him behind" a page earlier. In the last line, "here" appears three times across two sentences; *suggested* "Gerolt sent me. Silas helped me get here." This echoes his "Gerolt sent me to you" at the door.
+2. **"The rest of us" twice.** "And the rest of us live here too. You can't decide this and expect the rest of us to—". *Suggested:* "You can't just decide this and expect us to—".
+3. **The boot. The revision loses his asking for help.** Before, he tried, it hurt, and he asked, "Could you hold my ankle still?" Now she takes over and he never asks. The working design keeps "His injured ankle still requires some assistance, which he asks for", and his flaw (he thinks he can carry everything alone and learns to rely on others) runs through Volume 1, ending this stretch with him asking Silas for help. *Recommended (Your call):* keep the new teasing, then after "She laughed and let go of his arm." she steps back to let him try, he can't get it past his heel, and he asks. She takes over from there ("Hurts there?" and the rest stay).
+4. **Three stammers in a dozen lines:** "W-wait", "I—I wasn't trying to stare" and "I… thank you". *Suggested:* keep "W-wait" and make the second plain ("I wasn't trying to stare."), so the stammer reads as a reaction rather than a tic.
+5. **"Cute".** The design says some of the women find him "handsome". "Cute" sounds more modern than anything else in the book's dialogue. Your call; "You're a handsome one, you know" is an option.
+6. **Her name:** Claude won't invent it. *Recommended place:* section 3, when he says "Thank you. I'm… Alaric.", she gives hers in return. He offers his name and she answers with hers, and it's the reason he knows her when he finds her in the vision.
+7. **Marta's beauty:** *suggested* when the door reopens and he sees her in the light, he understands the guards in the yard.
+8. **Wena's line, placement:** after "Nothing moved beneath it.", then "He stayed sitting, one hand on her head, until his breathing grew quieter." (instead of "holding the sheet", since his hand is now on Wena).
+
+A side effect worth keeping: Marta's "Come back down when he's settled" now explains the woman's "I've only just got back to bed" at the waking.

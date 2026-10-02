@@ -254,7 +254,7 @@ Alaric followed her in with the sword and Wena.
 
 “That's all right. Come on, sit down. Let me help you with that boot.”
 
-He sat on the bed and laid Gerolt's sword beside him. She bent towards his boot, and his eyes dropped to the cleavage above the low neckline of her dress. He turned away at once, his face burning.
+He sat on the bed. She bent towards his boot, and his eyes dropped to the cleavage above the low neckline of her dress. He turned away at once, his face burning.
 
 “W-wait. I can do it myself, please.”
 
@@ -262,31 +262,15 @@ She gave a quiet laugh.
 
 “It's only your boot, Alaric.”
 
-She stood beside him and took his arm, leaning close enough that her chest pressed against his shoulder.
+When he looked back, she had moved aside to give him room.
 
-“There's nothing to be embarrassed about.”
+He loosened the boot, keeping his eyes on his hands. But when he tried to pull it past his heel, pain ran up his leg and he stopped.
 
-He looked up at her, then away again. Even his ears felt hot.
+“Could you hold my ankle still?”
 
-“I—I wasn't trying to stare.”
+“Of course.”
 
-“Now I've had a proper look at you…” She leaned closer, smiling. “You're quite cute, you know.”
-
-“I… thank you.”
-
-She laughed and let go of his arm.
-
-“Right. Let me get that boot off.”
-
-She knelt again and loosened it, supporting his foot with one hand. When she eased it past his heel, he gripped the mattress.
-
-“Hurts there?”
-
-He nodded.
-
-She worked it off more slowly, then put a folded blanket beneath his foot. Alaric sat back and let out the breath he had been holding.
-
-He pulled the other boot off himself.
+She supported his foot while he eased the boot off, then put a folded blanket beneath it. Alaric let himself sit back.
 
 “There's water there, and a cloth. Do what you can tonight. Marta's bringing something to eat.”
 
