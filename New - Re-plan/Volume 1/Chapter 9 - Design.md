@@ -697,3 +697,17 @@ The author: "do 3 final passes on the chapter". The chapter is 4,155 words.
 3. **Continuity and house style:** the sword, lead, cloak, boots, candle, bolt and light all hold. Rhose is "the woman" until she gives her name. The style check is clean.
    - "He told me to run" comes twice, as the author chose: first as the account, then as his self-blame.
    - The guard's line "the elves had him when the report came in" comes back in bed, on purpose.
+
+## Claude's review notes (2 October)
+
+The author asked for Claude's own notes on the chapter, then said "apply 1-8". Notes 1 and 2 are things the three final passes should have caught. All eight are in the round 2 list: notes 2 and 3 edit existing changes, and the rest are in the section "Claude's review notes". The chapter is 4,132 words.
+1. **"He only met ye yesterday?"** Nobody had told Marta when he met Gerolt. Alaric now says "I only met him yesterday." at the start of his account, and her line (the author's, unchanged) repeats it back in disbelief.
+2. **Self-blame said twice in the same words.** It's now "It was my fault," Alaric said. "If I'd gone when he said—". Claude had called the repeat deliberate in the final passes, and changed its mind.
+3. **The vision.** "This was Rhose, who had helped him upstairs." read like a reminder for the reader. It's now just "Rhose."
+4. **The guard's answer.** "Nobody's told us where" came twice in five lines. His second answer ends at "I don't know, Marta."
+5. **"He had meant to ask where Silas would sleep."** Marta had just answered that. It's now "He had more he wanted to ask about Silas."
+6. **His worry while hiding.** It's now about Silas: "*If they go round the back, they'll find Silas.*"
+7. **Marta sitting.** "Marta pulled out the chair beside him. She went to sit, and missed the seat."
+8. **"Careful."** It was cut from "Give me that… Let me hold it a moment." because it wasn't clear who it was for.
+
+Kept, and watched: the flirting sits close to the news of Gerolt's death. It stays at this level.

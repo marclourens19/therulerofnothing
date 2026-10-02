@@ -8,7 +8,8 @@
   "Who's speaking": "Who's speaking (the guards' interview)",
   "The name: Rhose": "The name: Rhose (one change per paragraph)",
   "Round 9": "Round 9: the author's choices (2 October)",
-  "Final passes": "Three final passes (2 October)"
+  "Final passes": "Three final passes (2 October)",
+  "Review": "Claude's review notes (2 October)"
  },
  "changes": [
   {
@@ -226,8 +227,8 @@
    "kind": "changed",
    "tags": [],
    "before": "This was Rose, who had helped him upstairs.",
-   "after": "This was Rhose, who had helped him upstairs.",
-   "why": "The author: \"Name the girl Rhose\" (2 October).",
+   "after": "Rhose.",
+   "why": "The author: \"Name the girl Rhose\" (2 October). **Claude's review (2 October), note 3:** \"who had helped him upstairs\" read as a reminder for the reader, not a thought Alaric would have looking at her. Now just her name, after \"He knew her…\".",
    "decision": "accepted",
    "decision_note": "The author's choice."
   },
@@ -270,8 +271,8 @@
    "kind": "changed",
    "tags": [],
    "before": "\"It was my fault,\" Alaric said. \"They wanted something from me. If he hadn't found me—\"",
-   "after": "\"It was my fault,\" Alaric said. \"He told me to run, and I didn't. If I'd gone when he said—\"",
-   "why": "The author: he can't know the elves came for him. He blames his freezing instead, one step on from \"He told me to run. I didn't.\"",
+   "after": "\"It was my fault,\" Alaric said. \"If I'd gone when he said—\"",
+   "why": "The author: he can't know the elves came for him. He blames his freezing instead, one step on from \"He told me to run. I didn't.\" **Claude's review (2 October), note 2:** \"He told me to run, and I didn't\" repeated his account word for word; \"If I'd gone when he said—\" carries the beat on its own.",
    "decision": "accepted",
    "decision_note": "The author, 2 October: \"Yes do B\"."
   },
@@ -307,6 +308,72 @@
    "why": "Pass 1 (logic): \"When he woke\" counted on the morning, but Marta only said \"tonight\". Now the line says only what she gave him.",
    "decision": "accepted",
    "decision_note": "Three final passes (the author's request, 2 October)."
+  },
+  {
+   "section": "Review",
+   "title": "When he met Gerolt",
+   "kind": "changed",
+   "tags": [],
+   "before": "\"I think they wanted to find out what happened on his farm, but they broke the door in, and he started fighting them. I still don't understand why. We ran, but they followed us, and there were arrows…\" Alaric's fingers closed round the hilt. \"He told me to run. I didn't. I couldn't. I couldn't leave him behind.\"",
+   "after": "\"I only met him yesterday. I think they wanted to find out what happened on his farm, but they broke the door in, and he started fighting them. I still don't understand why. We ran, but they followed us, and there were arrows…\" Alaric's fingers closed round the hilt. \"He told me to run. I didn't. I couldn't. I couldn't leave him behind.\"",
+   "why": "Note 1: Marta asks \"He only met ye yesterday?\" but nobody had told her. Now Alaric says it first, and her line (the author's, unchanged) repeats it back in disbelief.",
+   "decision": "accepted",
+   "decision_note": "The author, 2 October: \"apply 1-8\"."
+  },
+  {
+   "section": "Review",
+   "title": "Marta sits",
+   "kind": "changed",
+   "tags": [],
+   "before": "Marta pulled out the chair beside him and missed the seat with her first attempt to sit.",
+   "after": "Marta pulled out the chair beside him. She went to sit, and missed the seat.",
+   "why": "Note 7: \"with her first attempt to sit\" was clunky.",
+   "decision": "accepted",
+   "decision_note": "The author, 2 October: \"apply 1-8\"."
+  },
+  {
+   "section": "Review",
+   "title": "Careful",
+   "kind": "changed",
+   "tags": [],
+   "before": "\"Give me that,\" she said, looking at the sword. \"Careful. Let me hold it a moment.\"",
+   "after": "\"Give me that,\" she said, looking at the sword. \"Let me hold it a moment.\"",
+   "why": "Note 8: it wasn't clear who \"Careful\" was for.",
+   "decision": "accepted",
+   "decision_note": "The author, 2 October: \"apply 1-8\"."
+  },
+  {
+   "section": "Review",
+   "title": "Silas in the lane",
+   "kind": "changed",
+   "tags": [],
+   "before": "*They'll knock at the front.* He thought of Silas, out in the lane with nowhere to go. *They've no reason to go round the back. Unless they want to look.*",
+   "after": "*They'll knock at the front.* He thought of Silas, out in the lane with nowhere to go. *If they go round the back, they'll find Silas.*",
+   "why": "Note 6: it wasn't clear whether he was afraid for Silas or for himself. Now the fear is for Silas.",
+   "decision": "accepted",
+   "decision_note": "The author, 2 October: \"apply 1-8\"."
+  },
+  {
+   "section": "Review",
+   "title": "The guard's answer",
+   "kind": "changed",
+   "tags": [],
+   "before": "\"I don't know, Marta. Nobody's told us where he is.\"",
+   "after": "\"I don't know, Marta.\"",
+   "why": "Note 4: \"Nobody's told us where\" came twice in five lines.",
+   "decision": "accepted",
+   "decision_note": "The author, 2 October: \"apply 1-8\"."
+  },
+  {
+   "section": "Review",
+   "title": "More about Silas",
+   "kind": "changed",
+   "tags": [],
+   "before": "He nodded. He had meant to ask where Silas would sleep. Now he could not think of anything to say without making it worse.",
+   "after": "He nodded. He had more he wanted to ask about Silas. Now he could not think of anything to say without making it worse.",
+   "why": "Note 5: Marta had just answered where Silas would sleep (\"pay for a bed somewhere\").",
+   "decision": "accepted",
+   "decision_note": "The author, 2 October: \"apply 1-8\"."
   }
  ]
 }

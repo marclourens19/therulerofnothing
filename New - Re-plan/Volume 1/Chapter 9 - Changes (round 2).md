@@ -4,8 +4,8 @@
 
 ## At a glance
 
-- **27 changes proposed.** 0 rejected so far, so 27 are in the chapter: 27 rewritten, 0 cut and 0 added.
-- **Length:** 4,018 words before, 4,155 after.
+- **33 changes proposed.** 0 rejected so far, so 33 are in the chapter: 33 rewritten, 0 cut and 0 added.
+- **Length:** 4,018 words before, 4,132 after.
 - **Median paragraph:** 10 words before, 11 after. The house target is roughly 14–22.
 - **"Nothing":** 4 times before, 4 after.
 
@@ -44,6 +44,12 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 25, The room: version B:** The author, 2 October: "Yes do B".
 - **Change 26, Marta at the table:** The author, 2 October: "fix the line inside".
 - **Change 27, Tonight:** Three final passes (the author's request, 2 October).
+- **Change 28, When he met Gerolt:** The author, 2 October: "apply 1-8".
+- **Change 29, Marta sits:** The author, 2 October: "apply 1-8".
+- **Change 30, Careful:** The author, 2 October: "apply 1-8".
+- **Change 31, Silas in the lane:** The author, 2 October: "apply 1-8".
+- **Change 32, The guard's answer:** The author, 2 October: "apply 1-8".
+- **Change 33, More about Silas:** The author, 2 October: "apply 1-8".
 
 ## The changes
 
@@ -365,9 +371,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> This was Rhose, who had helped him upstairs.
+> Rhose.
 
-**Why.** The author: "Name the girl Rhose" (2 October).
+**Why.** The author: "Name the girl Rhose" (2 October). **Claude's review (2 October), note 3:** "who had helped him upstairs" read as a reminder for the reader, not a thought Alaric would have looking at her. Now just her name, after "He knew her…".
 
 **Your decision.** The author's choice.
 
@@ -455,9 +461,9 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 **After**
 
-> "It was my fault," Alaric said. "He told me to run, and I didn't. If I'd gone when he said—"
+> "It was my fault," Alaric said. "If I'd gone when he said—"
 
-**Why.** The author: he can't know the elves came for him. He blames his freezing instead, one step on from "He told me to run. I didn't."
+**Why.** The author: he can't know the elves came for him. He blames his freezing instead, one step on from "He told me to run. I didn't." **Claude's review (2 October), note 2:** "He told me to run, and I didn't" repeated his account word for word; "If I'd gone when he said—" carries the beat on its own.
 
 **Your decision.** The author, 2 October: "Yes do B".
 
@@ -582,3 +588,101 @@ Each of these needs a yes or no from you. It adds something about a character or
 **Why.** Pass 1 (logic): "When he woke" counted on the morning, but Marta only said "tonight". Now the line says only what she gave him.
 
 **Your decision.** Three final passes (the author's request, 2 October).
+
+### Claude's review notes (2 October)
+
+#### 28. When he met Gerolt
+
+*Draft line 91 → revised line 99*
+
+**Before**
+
+> "I think they wanted to find out what happened on his farm, but they broke the door in, and he started fighting them. I still don't understand why. We ran, but they followed us, and there were arrows…" Alaric's fingers closed round the hilt. "He told me to run. I didn't. I couldn't. I couldn't leave him behind."
+
+**After**
+
+> "I only met him yesterday. I think they wanted to find out what happened on his farm, but they broke the door in, and he started fighting them. I still don't understand why. We ran, but they followed us, and there were arrows…" Alaric's fingers closed round the hilt. "He told me to run. I didn't. I couldn't. I couldn't leave him behind."
+
+**Why.** Note 1: Marta asks "He only met ye yesterday?" but nobody had told her. Now Alaric says it first, and her line (the author's, unchanged) repeats it back in disbelief.
+
+**Your decision.** The author, 2 October: "apply 1-8".
+
+#### 29. Marta sits
+
+*Draft line 99 → revised line 107*
+
+**Before**
+
+> Marta pulled out the chair beside him and missed the seat with her first attempt to sit.
+
+**After**
+
+> Marta pulled out the chair beside him. She went to sit, and missed the seat.
+
+**Why.** Note 7: "with her first attempt to sit" was clunky.
+
+**Your decision.** The author, 2 October: "apply 1-8".
+
+#### 30. Careful
+
+*Draft line 103 → revised line 111*
+
+**Before**
+
+> "Give me that," she said, looking at the sword. "Careful. Let me hold it a moment."
+
+**After**
+
+> "Give me that," she said, looking at the sword. "Let me hold it a moment."
+
+**Why.** Note 8: it wasn't clear who "Careful" was for.
+
+**Your decision.** The author, 2 October: "apply 1-8".
+
+#### 31. Silas in the lane
+
+*Draft line 213 → revised line 221*
+
+**Before**
+
+> *They'll knock at the front.* He thought of Silas, out in the lane with nowhere to go. *They've no reason to go round the back. Unless they want to look.*
+
+**After**
+
+> *They'll knock at the front.* He thought of Silas, out in the lane with nowhere to go. *If they go round the back, they'll find Silas.*
+
+**Why.** Note 6: it wasn't clear whether he was afraid for Silas or for himself. Now the fear is for Silas.
+
+**Your decision.** The author, 2 October: "apply 1-8".
+
+#### 32. The guard's answer
+
+*Draft line 251 → revised line 259*
+
+**Before**
+
+> "I don't know, Marta. Nobody's told us where he is."
+
+**After**
+
+> "I don't know, Marta."
+
+**Why.** Note 4: "Nobody's told us where" came twice in five lines.
+
+**Your decision.** The author, 2 October: "apply 1-8".
+
+#### 33. More about Silas
+
+*Draft line 337 → revised line 345*
+
+**Before**
+
+> He nodded. He had meant to ask where Silas would sleep. Now he could not think of anything to say without making it worse.
+
+**After**
+
+> He nodded. He had more he wanted to ask about Silas. Now he could not think of anything to say without making it worse.
+
+**Why.** Note 5: Marta had just answered where Silas would sleep ("pay for a bed somewhere").
+
+**Your decision.** The author, 2 October: "apply 1-8".
