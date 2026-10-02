@@ -192,23 +192,23 @@ Marta held the sword out, grip first. He took it carefully. She let go without l
 
 He turned to the woman. "Thank you. I'm… Alaric."
 
-"Rhose," she said. "Come on, then, Alaric. Lean on me if you need to."
+"Rose," she said. "Come on, then, Alaric. Lean on me if you need to."
 
 At the passage door, Alaric looked back. Marta was still at the table, her hands empty in her lap.
 
-The passage went past the common room, where the chairs stood upside down on the tables, to the stairs. Rhose went up them beside him with Wena's lead in one hand and his arm across her shoulders. Halfway up, his ankle turned on the edge of a step, and she took more of his weight until he had found his footing again.
+The passage went past the common room, where the chairs stood upside down on the tables, to the stairs. Rose went up them beside him with Wena's lead in one hand and his arm across her shoulders. Halfway up, his ankle turned on the edge of a step, and she took more of his weight until he had found his footing again.
 
-At the top, a passage ran the length of the house, with shut doors on both sides. Behind one of them, somebody was snoring. Rhose opened a door halfway along and drew them in.
+At the top, a passage ran the length of the house, with shut doors on both sides. Behind one of them, somebody was snoring. Rose opened a door halfway along and drew them in.
 
 Her room was small. There was a bed with a dress laid over the end of it, a chest under the shutter, and a candle burning low on the chest. It smelled of something sweet that Alaric couldn't name.
 
-"Sit down there," Rhose said, nodding at the floor beside the door. "And keep her quiet, whatever you hear."
+"Sit down there," Rose said, nodding at the floor beside the door. "And keep her quiet, whatever you hear."
 
-Alaric lowered himself onto the boards with his back to the wall. He laid the sword across his knees and pulled Wena in against his side. Rhose blew out the candle. She opened the door a crack and stood at the gap.
+Alaric lowered himself onto the boards with his back to the wall. He laid the sword across his knees and pulled Wena in against his side. Rose blew out the candle. She opened the door a crack and stood at the gap.
 
 "If they come up here…" Alaric whispered.
 
-"If they do, let me answer." Rhose kept her eye to the gap. "You stay where you are."
+"If they do, let me answer." Rose kept her eye to the gap. "You stay where you are."
 
 *They'll knock at the front.* He thought of Silas, out in the lane with nowhere to go. *They've no reason to go round the back. Unless they want to look.*
 
@@ -234,11 +234,11 @@ Alaric knew that voice. It was the loud one from the yard.
 
 "They found him in the woods by the river. He's dead, Marta. I'm sorry."
 
-Alaric pressed his hand against his mouth. Rhose stood beside him, listening through the gap in her door.
+Alaric pressed his hand against his mouth. Rose stood beside him, listening through the gap in her door.
 
 Downstairs, a chair scraped across the floor.
 
-"Where've they taken him?" Marta asked.
+"Where've they taken him?"
 
 "The elves had him when the report came in. Nobody's told us where they've taken him since."
 
@@ -264,7 +264,7 @@ Wena lifted her head. Alaric kept his hand on her neck until she put it down aga
 
 "Orders are to bring him in alive. We haven't been told why."
 
-"Haven't even given us a fucking face," the loud one said.
+"Haven't even given us a fucking face," the first guard said.
 
 "Will you leave it?"
 
@@ -274,13 +274,13 @@ Wena lifted her head. Alaric kept his hand on her neck until she put it down aga
 
 "Sorry."
 
-"If he turns up, send someone for us," the other man said.
+"If he turns up, send someone for us."
 
 When Marta answered, her voice had changed. It sounded the way it had when she found Wena at her door.
 
 "Aye. Come back tomorrow when ye've finished work. I'll put a drink aside for ye."
 
-"A drink for me?" the loud one asked.
+"A drink for me?"
 
 "Listen to him," the other man said. "She smiles at him once and he forgets I'm standing here."
 
@@ -288,13 +288,13 @@ When Marta answered, her voice had changed. It sounded the way it had when she f
 
 "Both of ye," Marta said. "And don't come arguing on me doorstep. I've enough of that without paying ye in drink for it."
 
-The door closed below. Rhose stayed by her own door until the men's footsteps had gone.
+The door closed below. Rose stayed by her own door until the men's footsteps had gone.
 
 Then she let out her breath and opened it wide.
 
 Marta was in the common room with the lamp beside her. The chairs were still upside down on every table but one, and she was wiping that one. She didn't look up when they came down the stairs.
 
-"I'll see who they woke," Rhose said, and went back up.
+"I'll see who they woke," Rose said, and went back up.
 
 Alaric stood at the foot of the stairs with the sword. Wena went to Marta and lay down by her feet.
 
@@ -336,15 +336,15 @@ She sighed and picked it up again.
 
 He nodded. He had meant to ask where Silas would sleep. Now he could not think of anything to say without making it worse.
 
-Rhose came down a little later. Marta put the cloth down.
+Rose came down a little later. Marta put the cloth down.
 
 "Take him up, will ye? Come back down when he's settled. We'll talk about it."
 
-Rhose looked at her, then nodded. She lit a candle from Marta's lamp and took Alaric back up the stairs, past her own door, to the one at the end of the passage.
+Rose looked at her, then nodded. She lit a candle from Marta's lamp and took Alaric back up the stairs, past her own door, to the one at the end of the passage.
 
-"This one's yours," Rhose said. "You can leave your things here now."
+"This one's yours," Rose said. "You can leave your things here now."
 
-Alaric followed her in with the sword and Wena. There was a bed, a stool, and a jug and basin on a stand under the shutter. Rhose set the candle on the stand.
+Alaric followed her in with the sword and Wena. There was a bed, a stool, and a jug and basin on a stand under the shutter. Rose set the candle on the stand.
 
 "Thank you. For helping me, and letting me stay."
 
@@ -372,7 +372,7 @@ He looked up at her, then away again. Even his ears felt hot.
 
 She laughed and let go of his arm, then stepped back to give him room.
 
-He loosened the boot, keeping his eyes on his hands. But when he tried to pull it past his heel, pain ran up his leg and he stopped. He sat holding the heel of it, and Rhose waited.
+He loosened the boot, keeping his eyes on his hands. But when he tried to pull it past his heel, pain ran up his leg and he stopped. He sat holding the heel of it, and Rose waited.
 
 "Could you hold my ankle still?"
 
@@ -386,13 +386,13 @@ He nodded.
 
 She worked it off more slowly. The swelling showed as soon as the boot was gone.
 
-Rhose put a folded blanket beneath his foot. "Keep it up for a while."
+Rose put a folded blanket beneath his foot. "Keep it up for a while."
 
 Alaric sat back and let out the breath he had been holding.
 
 He pulled the other boot off himself.
 
-Rhose poured water from the jug into the basin and set it on the stool beside him, with a cloth over the edge.
+Rose poured water from the jug into the basin and set it on the stool beside him, with a cloth over the edge.
 
 "There's water there, and a cloth. Do what you can tonight. Marta's bringing something to eat."
 
@@ -400,7 +400,7 @@ He leaned towards the basin. The water was cold, and he scrubbed at his face unt
 
 There was a face in it, looking up at him.
 
-Rhose was gathering his boots.
+Rose was gathering his boots.
 
 "What's wrong?"
 
@@ -436,7 +436,7 @@ He slid the bolt across the door. Then he took off Silas's cloak, laid it over t
 
 *She can't even bury him.*
 
-Below him, two women were talking in low voices. He knew Marta's, and he thought the other was Rhose's. He couldn't make out the words. Once Rhose said something sharper, and after that they were both quiet for a long time.
+Below him, two women were talking in low voices. He knew Marta's, and he thought the other was Rose's. He couldn't make out the words. Once Rose said something sharper, and after that they were both quiet for a long time.
 
 When he woke, he wouldn't have to get up and walk anywhere. Marta had said he could stay tonight.
 
@@ -466,7 +466,7 @@ An arm.
 
 The woman lay outside his room, her head turned towards the stairs. He knew her before he saw what had been done to her throat. The cut had opened it beneath the jaw, and the blood spreading from her neck had reached his doorway.
 
-This was Rhose, who had helped him upstairs.
+This was Rose, who had helped him upstairs.
 
 He backed into the doorframe. His stomach cramped, and he bent over, retching onto the boards. When he tried to straighten, he saw her again and could not keep the next breath down.
 
@@ -538,7 +538,7 @@ The voice was his too.
 
 *No. I didn't—*
 
-Rhose's torn throat.
+Rose's torn throat.
 
 Marta's open eyes.
 
@@ -554,7 +554,7 @@ There were footsteps outside.
 
 He lifted his head.
 
-It was Rhose's voice.
+It was Rose's voice.
 
 *She's alive.*
 

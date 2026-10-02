@@ -637,3 +637,43 @@ The author: "Do 5 passes on the chapter each time looking for errors, pov slips,
    - two paragraphs in a row starting "Rose";
    - "the end of the bed" twice (now "the foot of the bed" for the cloak).
 5. **House style:** the style check is clean (spelling, quotes, dashes, dots). The remaining short lines and gesture counts were each checked and kept. The one repeated run, "the elves had him when the report came in", is his memory of the guard's words, so it's deliberate.
+
+## Round 9: reading it through together (2 October)
+
+The author's notes:
+1. At the door, Marta should question the guards' news ("why would they come asking about Gerolt and why are they looking for you"); moving past it so easily doesn't make sense.
+2. "They wanted something from me." Alaric can't know that. Nothing at the farm pointed to the elves looking for him.
+3. "Name the girl Rhose."
+4. Some lines don't say who is speaking.
+5. Alaric says "Thank you" too often.
+6. Make Rhose more seductive and flirty in the room, in two versions.
+
+**Applied** (a new change list from Draft 2: `Drafts/Chapter 9 - change list (round 2).json`, shown in `Chapter 9 - Changes (round 2).md`):
+- **Rhose** throughout.
+- **Speaker tags in the guards' interview:** "Marta asked", "the other man said" and "the loud one asked". "The first guard" is now "the loud one", which is how Alaric knows him.
+
+**Proposed, waiting on the author:**
+
+1. **Marta questions him at the door** (after "Her eyes went to Wena."):
+
+   > "They're looking for *you*?" Her eyes came back to him. "Why would the guards come asking me about Gerolt? What's happened?"
+   >
+   > "Elves came to his farm." Alaric glanced down the lane. "I'll tell you all of it, just not out here."
+   >
+   > "Elves." Her hand tightened on the door. "And what do they want with you?"
+   >
+   > "I don't know. The guards didn't say. Only that they want a boy with a big dog."
+   >
+   > "I don't want trouble in this house, lad. Ye'll have to leave."
+
+   She hears enough to be afraid, which is why she first says no. He keeps the death for inside, so "Where's Gerolt?" at the table now comes from a worse fear.
+
+2. **His self-blame:** "It was my fault," Alaric said. "He told me to run, and I didn't. If I'd gone when he said—" This builds on what he has just told her ("He told me to run. I didn't."), so it's a new claim and not a repeat. He blames his freezing, not a reason the elves came. *Challenge:* he does know the guards are hunting him (Chapter 8: "A boy and a big dog. That's all they've got."). He can fear that, but he can't claim it caused the attack, so the author's point holds.
+
+3. **"Thank you":** cut the arrival thanks in the guest room, and the reply to "handsome". He thanks her twice in the chapter: in the kitchen ("Thank you. I'm… Alaric.") and at the candle.
+
+4. **The room exchange, two versions** (from the guest-room door to the boot coming off). They're in the chat reply of 2 October and below.
+
+**Version A (playful):** she sits beside him, hip to hip. "I've helped men out of a lot more than that." "I saw where you were looking. I don't mind." "You're a handsome one, you know. Shame you're in no state to do anything about it." "Go on, then. Show me how you can do it yourself." "Since you asked nicely."
+
+**Version B (slow and close):** she stands close in front of him with a hand on his shoulder, and tips his chin up so he has to look at her face. "You're a handsome one, you know. Even under all that dirt." "I told him I was finished for tonight. I didn't say anything about you." *Recommended:* B. The callback uses her refusing the customer, so the flirting is her own choice, and it's quieter, which fits the woman who later moves the candle without a word.

@@ -1,0 +1,288 @@
+{
+ "title": "Chapter 9: Changes (round 2)",
+ "draft": "Chapter 9 - Refuge (Draft 2, after five passes).md",
+ "chapter": "../Chapter 9 - Refuge.md",
+ "changes_file": "../Chapter 9 - Changes (round 2).md",
+ "intro_md": "2 October 2026. Changes after the five passes, made from `Drafts/Chapter 9 - Refuge (Draft 2, after five passes).md`. The author is reading the chapter through with Claude; this round has the name Rhose and the speaker tags. Marta's questions at the door, Alaric's self-blame and the two versions of the room exchange are waiting on the author (`Chapter 9 - Design.md`, round 9).",
+ "sections": {
+  "Who's speaking": "Who's speaking (the guards' interview)",
+  "The name: Rhose": "The name: Rhose (one change per paragraph)"
+ },
+ "changes": [
+  {
+   "section": "Who's speaking",
+   "title": "Marta's question",
+   "kind": "changed",
+   "tags": [],
+   "before": "\"Where've they taken him?\"",
+   "after": "\"Where've they taken him?\" Marta asked.",
+   "why": "Upstairs, Alaric only hears voices; after the chair scrapes, the speaker needs naming.",
+   "decision": "accepted",
+   "decision_note": "The author: \"Some dialogue I can't make out who is speaking\" (2 October)."
+  },
+  {
+   "section": "Who's speaking",
+   "title": "The loud one",
+   "kind": "changed",
+   "tags": [],
+   "before": "\"Haven't even given us a fucking face,\" the first guard said.",
+   "after": "\"Haven't even given us a fucking face,\" the loud one said.",
+   "why": "Alaric knows him as \"the loud one from the yard\"; \"the first guard\" was a second name for the same man.",
+   "decision": "accepted",
+   "decision_note": "The author: \"Some dialogue I can't make out who is speaking\" (2 October)."
+  },
+  {
+   "section": "Who's speaking",
+   "title": "The other man",
+   "kind": "changed",
+   "tags": [],
+   "before": "\"If he turns up, send someone for us.\"",
+   "after": "\"If he turns up, send someone for us,\" the other man said.",
+   "why": "Two guards and Marta, heard through a door: tag the line before Marta's voice changes.",
+   "decision": "accepted",
+   "decision_note": "The author: \"Some dialogue I can't make out who is speaking\" (2 October)."
+  },
+  {
+   "section": "Who's speaking",
+   "title": "The loud one again",
+   "kind": "changed",
+   "tags": [],
+   "before": "\"A drink for me?\"",
+   "after": "\"A drink for me?\" the loud one asked.",
+   "why": "So it's clear which guard the other is teasing.",
+   "decision": "accepted",
+   "decision_note": "The author: \"Some dialogue I can't make out who is speaking\" (2 October)."
+  },
+  {
+   "section": "The name: Rhose",
+   "title": "Rhose",
+   "kind": "changed",
+   "tags": [],
+   "before": "\"Rose,\" she said. \"Come on, then, Alaric. Lean on me if you need to.\"",
+   "after": "\"Rhose,\" she said. \"Come on, then, Alaric. Lean on me if you need to.\"",
+   "why": "The author: \"Name the girl Rhose\" (2 October).",
+   "decision": "accepted",
+   "decision_note": "The author's choice."
+  },
+  {
+   "section": "The name: Rhose",
+   "title": "Rhose",
+   "kind": "changed",
+   "tags": [],
+   "before": "The passage went past the common room, where the chairs stood upside down on the tables, to the stairs. Rose went up them beside him with Wena's lead in one hand and his arm across her shoulders. Halfway up, his ankle turned on the edge of a step, and she took more of his weight until he had found his footing again.",
+   "after": "The passage went past the common room, where the chairs stood upside down on the tables, to the stairs. Rhose went up them beside him with Wena's lead in one hand and his arm across her shoulders. Halfway up, his ankle turned on the edge of a step, and she took more of his weight until he had found his footing again.",
+   "why": "The author: \"Name the girl Rhose\" (2 October).",
+   "decision": "accepted",
+   "decision_note": "The author's choice."
+  },
+  {
+   "section": "The name: Rhose",
+   "title": "Rhose",
+   "kind": "changed",
+   "tags": [],
+   "before": "At the top, a passage ran the length of the house, with shut doors on both sides. Behind one of them, somebody was snoring. Rose opened a door halfway along and drew them in.",
+   "after": "At the top, a passage ran the length of the house, with shut doors on both sides. Behind one of them, somebody was snoring. Rhose opened a door halfway along and drew them in.",
+   "why": "The author: \"Name the girl Rhose\" (2 October).",
+   "decision": "accepted",
+   "decision_note": "The author's choice."
+  },
+  {
+   "section": "The name: Rhose",
+   "title": "Rhose",
+   "kind": "changed",
+   "tags": [],
+   "before": "\"Sit down there,\" Rose said, nodding at the floor beside the door. \"And keep her quiet, whatever you hear.\"",
+   "after": "\"Sit down there,\" Rhose said, nodding at the floor beside the door. \"And keep her quiet, whatever you hear.\"",
+   "why": "The author: \"Name the girl Rhose\" (2 October).",
+   "decision": "accepted",
+   "decision_note": "The author's choice."
+  },
+  {
+   "section": "The name: Rhose",
+   "title": "Rhose",
+   "kind": "changed",
+   "tags": [],
+   "before": "Alaric lowered himself onto the boards with his back to the wall. He laid the sword across his knees and pulled Wena in against his side. Rose blew out the candle. She opened the door a crack and stood at the gap.",
+   "after": "Alaric lowered himself onto the boards with his back to the wall. He laid the sword across his knees and pulled Wena in against his side. Rhose blew out the candle. She opened the door a crack and stood at the gap.",
+   "why": "The author: \"Name the girl Rhose\" (2 October).",
+   "decision": "accepted",
+   "decision_note": "The author's choice."
+  },
+  {
+   "section": "The name: Rhose",
+   "title": "Rhose",
+   "kind": "changed",
+   "tags": [],
+   "before": "\"If they do, let me answer.\" Rose kept her eye to the gap. \"You stay where you are.\"",
+   "after": "\"If they do, let me answer.\" Rhose kept her eye to the gap. \"You stay where you are.\"",
+   "why": "The author: \"Name the girl Rhose\" (2 October).",
+   "decision": "accepted",
+   "decision_note": "The author's choice."
+  },
+  {
+   "section": "The name: Rhose",
+   "title": "Rhose",
+   "kind": "changed",
+   "tags": [],
+   "before": "Alaric pressed his hand against his mouth. Rose stood beside him, listening through the gap in her door.",
+   "after": "Alaric pressed his hand against his mouth. Rhose stood beside him, listening through the gap in her door.",
+   "why": "The author: \"Name the girl Rhose\" (2 October).",
+   "decision": "accepted",
+   "decision_note": "The author's choice."
+  },
+  {
+   "section": "The name: Rhose",
+   "title": "Rhose",
+   "kind": "changed",
+   "tags": [],
+   "before": "The door closed below. Rose stayed by her own door until the men's footsteps had gone.",
+   "after": "The door closed below. Rhose stayed by her own door until the men's footsteps had gone.",
+   "why": "The author: \"Name the girl Rhose\" (2 October).",
+   "decision": "accepted",
+   "decision_note": "The author's choice."
+  },
+  {
+   "section": "The name: Rhose",
+   "title": "Rhose",
+   "kind": "changed",
+   "tags": [],
+   "before": "\"I'll see who they woke,\" Rose said, and went back up.",
+   "after": "\"I'll see who they woke,\" Rhose said, and went back up.",
+   "why": "The author: \"Name the girl Rhose\" (2 October).",
+   "decision": "accepted",
+   "decision_note": "The author's choice."
+  },
+  {
+   "section": "The name: Rhose",
+   "title": "Rhose",
+   "kind": "changed",
+   "tags": [],
+   "before": "Rose came down a little later. Marta put the cloth down.",
+   "after": "Rhose came down a little later. Marta put the cloth down.",
+   "why": "The author: \"Name the girl Rhose\" (2 October).",
+   "decision": "accepted",
+   "decision_note": "The author's choice."
+  },
+  {
+   "section": "The name: Rhose",
+   "title": "Rhose",
+   "kind": "changed",
+   "tags": [],
+   "before": "Rose looked at her, then nodded. She lit a candle from Marta's lamp and took Alaric back up the stairs, past her own door, to the one at the end of the passage.",
+   "after": "Rhose looked at her, then nodded. She lit a candle from Marta's lamp and took Alaric back up the stairs, past her own door, to the one at the end of the passage.",
+   "why": "The author: \"Name the girl Rhose\" (2 October).",
+   "decision": "accepted",
+   "decision_note": "The author's choice."
+  },
+  {
+   "section": "The name: Rhose",
+   "title": "Rhose",
+   "kind": "changed",
+   "tags": [],
+   "before": "\"This one's yours,\" Rose said. \"You can leave your things here now.\"",
+   "after": "\"This one's yours,\" Rhose said. \"You can leave your things here now.\"",
+   "why": "The author: \"Name the girl Rhose\" (2 October).",
+   "decision": "accepted",
+   "decision_note": "The author's choice."
+  },
+  {
+   "section": "The name: Rhose",
+   "title": "Rhose",
+   "kind": "changed",
+   "tags": [],
+   "before": "Alaric followed her in with the sword and Wena. There was a bed, a stool, and a jug and basin on a stand under the shutter. Rose set the candle on the stand.",
+   "after": "Alaric followed her in with the sword and Wena. There was a bed, a stool, and a jug and basin on a stand under the shutter. Rhose set the candle on the stand.",
+   "why": "The author: \"Name the girl Rhose\" (2 October).",
+   "decision": "accepted",
+   "decision_note": "The author's choice."
+  },
+  {
+   "section": "The name: Rhose",
+   "title": "Rhose",
+   "kind": "changed",
+   "tags": [],
+   "before": "He loosened the boot, keeping his eyes on his hands. But when he tried to pull it past his heel, pain ran up his leg and he stopped. He sat holding the heel of it, and Rose waited.",
+   "after": "He loosened the boot, keeping his eyes on his hands. But when he tried to pull it past his heel, pain ran up his leg and he stopped. He sat holding the heel of it, and Rhose waited.",
+   "why": "The author: \"Name the girl Rhose\" (2 October).",
+   "decision": "accepted",
+   "decision_note": "The author's choice."
+  },
+  {
+   "section": "The name: Rhose",
+   "title": "Rhose",
+   "kind": "changed",
+   "tags": [],
+   "before": "Rose put a folded blanket beneath his foot. \"Keep it up for a while.\"",
+   "after": "Rhose put a folded blanket beneath his foot. \"Keep it up for a while.\"",
+   "why": "The author: \"Name the girl Rhose\" (2 October).",
+   "decision": "accepted",
+   "decision_note": "The author's choice."
+  },
+  {
+   "section": "The name: Rhose",
+   "title": "Rhose",
+   "kind": "changed",
+   "tags": [],
+   "before": "Rose poured water from the jug into the basin and set it on the stool beside him, with a cloth over the edge.",
+   "after": "Rhose poured water from the jug into the basin and set it on the stool beside him, with a cloth over the edge.",
+   "why": "The author: \"Name the girl Rhose\" (2 October).",
+   "decision": "accepted",
+   "decision_note": "The author's choice."
+  },
+  {
+   "section": "The name: Rhose",
+   "title": "Rhose",
+   "kind": "changed",
+   "tags": [],
+   "before": "Rose was gathering his boots.",
+   "after": "Rhose was gathering his boots.",
+   "why": "The author: \"Name the girl Rhose\" (2 October).",
+   "decision": "accepted",
+   "decision_note": "The author's choice."
+  },
+  {
+   "section": "The name: Rhose",
+   "title": "Rhose",
+   "kind": "changed",
+   "tags": [],
+   "before": "Below him, two women were talking in low voices. He knew Marta's, and he thought the other was Rose's. He couldn't make out the words. Once Rose said something sharper, and after that they were both quiet for a long time.",
+   "after": "Below him, two women were talking in low voices. He knew Marta's, and he thought the other was Rhose's. He couldn't make out the words. Once Rhose said something sharper, and after that they were both quiet for a long time.",
+   "why": "The author: \"Name the girl Rhose\" (2 October).",
+   "decision": "accepted",
+   "decision_note": "The author's choice."
+  },
+  {
+   "section": "The name: Rhose",
+   "title": "Rhose",
+   "kind": "changed",
+   "tags": [],
+   "before": "This was Rose, who had helped him upstairs.",
+   "after": "This was Rhose, who had helped him upstairs.",
+   "why": "The author: \"Name the girl Rhose\" (2 October).",
+   "decision": "accepted",
+   "decision_note": "The author's choice."
+  },
+  {
+   "section": "The name: Rhose",
+   "title": "Rhose",
+   "kind": "changed",
+   "tags": [],
+   "before": "Rose's torn throat.",
+   "after": "Rhose's torn throat.",
+   "why": "The author: \"Name the girl Rhose\" (2 October).",
+   "decision": "accepted",
+   "decision_note": "The author's choice."
+  },
+  {
+   "section": "The name: Rhose",
+   "title": "Rhose",
+   "kind": "changed",
+   "tags": [],
+   "before": "It was Rose's voice.",
+   "after": "It was Rhose's voice.",
+   "why": "The author: \"Name the girl Rhose\" (2 October).",
+   "decision": "accepted",
+   "decision_note": "The author's choice."
+  }
+ ]
+}

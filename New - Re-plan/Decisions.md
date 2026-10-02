@@ -716,6 +716,7 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - **First draft (2 October):** `Volume 1/Chapter 9 - Refuge.md`, 3,750 words. The title and eleven new joining beats are the author's call; they're listed in `Chapter 9 - Design.md`, round 7.
   - **Combined version (2 October):** at the author's request, Claude's draft combined with the best of the other workspace's draft (kept in `Drafts/`). From the author's comparison: Marta's limit ("I can't hear that just now. I can't, lad."); "Ye warned me before ye came in. Ye can stay tonight."; the voice and "*No. I didn't—*" at the vision's climax (now **selected**); Rose's "If they do, let me answer. You stay where you are."; plain "Thank you." Seven smaller beats from the other draft are Claude's picks for the author's call. 4,020 words; the changes are in `Chapter 9 - Changes (combined).md`, and the comparison is in `Chapter 9 - Design.md`, round 8.
   - **Title: "Refuge"** (the author, 2 October: "keeping the same title as before", the old Chapter 7's). The chapter is `Volume 1/Chapter 9 - Refuge.md`.
+  - **Round 9 (2 October):** the objecting woman is **Rhose** (the author: "Name the girl Rhose"; earlier entries say Rose). Speaker tags were added in the guards' interview. Proposed and waiting: Marta questions him at the door; his self-blame is freezing, not a reason the elves came (he can't know they came for him); fewer thank-yous; two versions of a more flirtatious room exchange (`Chapter 9 - Design.md`, round 9).
 
 ## Alaric
 

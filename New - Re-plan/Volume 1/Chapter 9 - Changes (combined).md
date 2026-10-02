@@ -1,6 +1,6 @@
 # Chapter 9: Changes (the combined version)
 
-2 October 2026. Claude's first draft (`Drafts/Chapter 9 - The Face in the Water (Draft 1).md`) combined with the best of the other workspace's draft (`Drafts/Chapter 9 - Other workspace draft (2 October).md`), at the author's request. Claude's draft is the base, as the author's comparison recommends; the three moments the author named are restored, Rose's hiding line and the extra stammer are fixed, and a few more beats are taken from the other draft. Those are marked as calls for the author.
+2 October 2026. Claude's first draft (`Drafts/Chapter 9 - The Face in the Water (Draft 1).md`) combined with the best of the other workspace's draft (`Drafts/Chapter 9 - Other workspace draft (2 October).md`), at the author's request. Claude's draft is the base, as the author's comparison recommends; the three moments the author named are restored, Rose's hiding line and the extra stammer are fixed, and a few more beats are taken from the other draft. Those are marked as calls for the author. This list ends at `Drafts/Chapter 9 - Refuge (Draft 2, after five passes).md`; later rounds are in `Chapter 9 - change list (round 2).json`.
 
 ## At a glance
 
