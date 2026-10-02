@@ -1,6 +1,6 @@
 # Chapter 10 – Design
 
-Started 2 October 2026. **Status:** the author's direction (below) is now the working design, and it replaces Claude's first proposal, which is kept at the end. Rounds 2 and 3 are answered. Dialogue round 2 (`Chapter 10 - Dialogue.md`) is waiting on the author. The working title is **"Beneath Natharul"**, the old chapter's title; the author called it "the Beneath Natharul horror chapter".
+Started 2 October 2026. **Status:** the author's direction (below) is now the working design, and it replaces Claude's first proposal, which is kept at the end. Rounds 2 and 3 are answered. At the author's request, the dialogue is now an options file in the layout of the Chapter 9 "Selected Dialogue and Vision": `Chapter 10 - Dialogue Options.md`, sixteen moments in scene order, each with two or three versions of the passage and its prose, with drafting notes at the end. It's waiting on the author's choices and edits. Dialogue rounds 1 and 2 are in `Drafts/`. The working title is **"Beneath Natharul"**, the old chapter's title; the author called it "the Beneath Natharul horror chapter".
 
 ## Whose chapter
 
