@@ -532,3 +532,36 @@ The author answered round 5 and sent a revised `Chapter 9 - Dialogue.md` (kept w
 8. **Wena's line, placement:** after "Nothing moved beneath it.", then "He stayed sitting, one hand on her head, until his breathing grew quieter." (instead of "holding the sheet", since his hand is now on Wena).
 
 A side effect worth keeping: Marta's "Come back down when he's settled" now explains the woman's "I've only just got back to bed" at the waking.
+
+## Round 7: the go-ahead, and the first draft (2 October)
+
+The author: "apply 1-6 her name can be Rhose or Rose. you can write the chapter".
+
+**Applied (round 6's six proposals):** the Silas exchange ("He came after Gerolt was hit. He killed the last of them, then dragged me away." / "Gerolt sent me. Silas helped me get here."); "You can't just decide this and expect us to—"; his trying the boot and asking "Could you hold my ankle still?"; one stammer ("I wasn't trying to stare."); "You're a handsome one, you know."; Wena's line after "Nothing moved beneath it.", then "He stayed sitting, one hand on her head…".
+
+**The name: Rose.** Claude picked Rose over Rhose: it sounds the same, it's plainer to read, and it sits with Marta, Darcy and Freya. A one-word swap if the author prefers Rhose. She gives it in return for his: "Rose," she said. "Come on, then, Alaric…"
+
+**The draft:** `Volume 1/Chapter 9 - The Face in the Water.md` (3,750 words; saved as `Drafts/Chapter 9 - The Face in the Water (Draft 1).md`, the base for later change lists). Every agreed passage is in, with the round 5 and 6 fixes.
+
+**New in the joining prose (Your call):**
+1. **Title:** "The Face in the Water". Alternative: "Under Me Roof".
+2. **The opening:** Wena whines at the shut door, Silas begins "Alaric—", and Alaric doesn't wait for him.
+3. **Wena in the kitchen:** she goes once round it with her nose down and lies down facing the back door. After "nothing came", she pushes her nose under Marta's hand, as she did with Gerolt's in Chapter 2, which the vision then echoes.
+4. **Marta's beauty:** "When she turned into the lamplight, Alaric saw her properly for the first time. *Prettiest woman in Kelmend,* the loud guard had said in the yard. He had thought the man was only talking. He sat down quickly and looked at the sword instead." No hair, eyes or age.
+5. **Rose is the woman with the tub** from Chapter 8, so he knows her face.
+6. **Waiting in her room:** "If they come up here…" / "They won't. And if they do, you're a customer, and you're shy." / "He was glad she had blown the candle out." Plus his thought about Silas in the lane ("*They've no reason to go round the back. Unless they want to look.*").
+7. **The interview:** he knows the loud guard's voice; Wena lifts her head at Marta's "No."; before the drink offer, "her voice had changed. It sounded the way it had when she found Wena at her door."
+8. **After the guards:** Rose: "I'll see who they woke." He sees the bar across the back door before asking about Silas.
+9. **Marta brings the food without a word,** looking at the sword on the bed. He stops halfway through the stew.
+10. **The shutter:** the lane is empty. Then he bolts the door (which the vision needs).
+11. **In bed:** "*The elves had him when the report came in.* He and Silas had left Gerolt in the leaves, and the elves had gone back for him. / *She can't even bury him.*" Then he hears Marta and Rose talking below, and falls asleep. A `---` before "Alaric opened his eyes."
+
+**Small changes to agreed lines:**
+- "Marta let Alaric and Wena past her" (not "the boy and dog", which is a narrator's label in his own POV).
+- "more slowly this time" (not "more carefully", because the sword line two lines later has "He took it carefully").
+- "Rose stood beside him, listening".
+- "This was Rose, who had helped him upstairs."; "Rose's torn throat."; "It was Rose's voice."
+- "burning from the ground floor up" (because "the edges of the roofs" follows).
+- "He stopped halfway down the stairs." (the stair is one flight).
+
+**Length:** 3,750 words, under the 4,000 target. The agreed passages are tight, and nothing was padded.
