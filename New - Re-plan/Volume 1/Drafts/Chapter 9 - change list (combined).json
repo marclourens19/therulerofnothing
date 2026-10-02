@@ -1,12 +1,13 @@
 {
  "title": "Chapter 9: Changes (the combined version)",
  "draft": "Chapter 9 - The Face in the Water (Draft 1).md",
- "chapter": "../Chapter 9 - The Face in the Water.md",
+ "chapter": "../Chapter 9 - Refuge.md",
  "changes_file": "../Chapter 9 - Changes (combined).md",
  "intro_md": "2 October 2026. Claude's first draft (`Drafts/Chapter 9 - The Face in the Water (Draft 1).md`) combined with the best of the other workspace's draft (`Drafts/Chapter 9 - Other workspace draft (2 October).md`), at the author's request. Claude's draft is the base, as the author's comparison recommends; the three moments the author named are restored, Rose's hiding line and the extra stammer are fixed, and a few more beats are taken from the other draft. Those are marked as calls for the author.",
  "sections": {
   "From the author's comparison": "From the author's comparison (2 October)",
-  "Also taken from the other draft (Claude's pick)": "Also taken from the other draft (Claude's picks, for the author's yes or no)"
+  "Also taken from the other draft (Claude's pick)": "Also taken from the other draft (Claude's picks, for the author's yes or no)",
+  "Title": "The title (2 October)"
  },
  "changes": [
   {
@@ -148,6 +149,17 @@
    "why": "The author's point 3: the voice and the cut-off denial make the accusation get inside him, and the double still speaks only one sentence. Chapter 1 opens on \"He didn't know what his own voice sounded like.\"",
    "decision": "accepted",
    "decision_note": "The author's comparison (2 October)."
+  },
+  {
+   "section": "Title",
+   "title": "Refuge",
+   "kind": "changed",
+   "tags": [],
+   "before": "# Chapter 9 – The Face in the Water",
+   "after": "# Chapter 9 – Refuge",
+   "why": "The author: \"I was thinking keeping the same title as before: Refuge\" (the old Chapter 7's title, for the same arrival at Marta's inn).",
+   "decision": "accepted",
+   "decision_note": "The author's title (2 October)."
   }
  ]
 }

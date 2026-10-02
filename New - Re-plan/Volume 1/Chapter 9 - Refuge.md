@@ -1,4 +1,4 @@
-# Chapter 9 – The Face in the Water
+# Chapter 9 – Refuge
 
 Wena whined at the shut door. Behind it, footsteps were going away.
 

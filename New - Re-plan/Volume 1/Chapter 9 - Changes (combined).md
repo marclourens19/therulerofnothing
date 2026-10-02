@@ -4,7 +4,7 @@
 
 ## At a glance
 
-- **12 changes proposed.** 0 rejected so far, so 12 are in the chapter: 11 rewritten, 0 cut and 1 added.
+- **13 changes proposed.** 0 rejected so far, so 13 are in the chapter: 12 rewritten, 0 cut and 1 added.
 - **Length:** 3,747 words before, 4,020 after.
 - **Median paragraph:** 10 words before, 10 after. The house target is roughly 14–22.
 - **"Nothing":** 4 times before, 4 after.
@@ -29,6 +29,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 10, His clothes:** Combined at the author's request (2 October); open for the author's yes or no.
 - **Change 11, Someone said he could stay:** Combined at the author's request (2 October); open for the author's yes or no.
 - **Change 12, His own voice:** The author's comparison (2 October).
+- **Change 13, Refuge:** The author's title (2 October).
 
 ## The changes
 
@@ -317,3 +318,21 @@ Each of these needs a yes or no from you. It adds something about a character or
 **Why.** The author's point 3: the voice and the cut-off denial make the accusation get inside him, and the double still speaks only one sentence. Chapter 1 opens on "He didn't know what his own voice sounded like."
 
 **Your decision.** The author's comparison (2 October).
+
+### The title (2 October)
+
+#### 13. Refuge
+
+*Draft line 1 → revised line 1*
+
+**Before**
+
+> # Chapter 9 – The Face in the Water
+
+**After**
+
+> # Chapter 9 – Refuge
+
+**Why.** The author: "I was thinking keeping the same title as before: Refuge" (the old Chapter 7's title, for the same arrival at Marta's inn).
+
+**Your decision.** The author's title (2 October).

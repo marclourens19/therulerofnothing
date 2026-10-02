@@ -541,7 +541,7 @@ The author: "apply 1-6 her name can be Rhose or Rose. you can write the chapter"
 
 **The name: Rose.** Claude picked Rose over Rhose: it sounds the same, it's plainer to read, and it sits with Marta, Darcy and Freya. A one-word swap if the author prefers Rhose. She gives it in return for his: "Rose," she said. "Come on, then, Alaric…"
 
-**The draft:** `Volume 1/Chapter 9 - The Face in the Water.md` (3,750 words; saved as `Drafts/Chapter 9 - The Face in the Water (Draft 1).md`, the base for later change lists). Every agreed passage is in, with the round 5 and 6 fixes.
+**The draft:** `Volume 1/Chapter 9 - Refuge.md` (3,750 words; saved as `Drafts/Chapter 9 - The Face in the Water (Draft 1).md`, the base for later change lists). Every agreed passage is in, with the round 5 and 6 fixes.
 
 **New in the joining prose (Your call):**
 1. **Title:** "The Face in the Water". Alternative: "Under Me Roof".
@@ -612,3 +612,7 @@ The author sent the other workspace's draft (`Drafts/Chapter 9 - Other workspace
 - **The name stays Rose.** The other draft uses Rhose.
 
 **Still the author's call:** the title, the round 7 joining beats, and the seven picks above.
+
+## The title (2 October)
+
+Claude offered 20 options and recommended "The Face in the Water". The author chose **"Refuge"**: "I was thinking keeping the same title as before". It was the old Chapter 7's title, for the same arrival at Marta's inn. The chapter is now `Volume 1/Chapter 9 - Refuge.md`, and the title is change 13 in the combined list. Draft 1 keeps its old file name.
