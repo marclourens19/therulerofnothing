@@ -1,6 +1,6 @@
 # Chapter 9: Design
 
-Started 1 October 2026. **Status (2 October):** the author's working design, `Chapter 9 - Working Design.md`, replaces the six-scene shape below (kept as a record). Round 1's answers so far, and Claude's round 2 review of the working design, are at the end of this file. New material is marked **Your call**.
+Started 1 October 2026. **Status (2 October, later):** the author's updated working design (same file) answers most of round 2; Claude's round 3 review is at the end of this file. **Earlier status (2 October):** the author's working design, `Chapter 9 - Working Design.md`, replaces the six-scene shape below (kept as a record). Round 1's answers so far, and Claude's round 2 review of the working design, are at the end of this file. New material is marked **Your call**.
 
 **The target:** 4,000–5,000 words, and longer if the story needs it. Claude's estimate for the shape below is **4,500–5,500**. Per-scene budgets have run about a quarter high on every chapter so far, so read it as a range.
 
@@ -318,3 +318,57 @@ Silas won't be in the room tonight. *Recommended:* hold Empty for the rest days,
 **The risk:** too many new people at once: Marta, the women, the guests, the guards and the double. Keep the women to two, keep the guests offstage, and let Wena be the only one who's simply glad to be home.
 
 **Length:** the first night, as above, comes to about 4,500–5,500 words.
+
+## Round 2, where it stands (the updated working design, 2 October)
+
+- **1. The early warning:** agreed. Alaric warns her before the full account of Gerolt's death.
+- **2. "Heh.":** Alaric can report what he saw (Gerolt looked at Silas a long time, made the sound, and the fire went out), but he doesn't imitate the sound to win the argument. Its meaning stays unknown.
+- **3. Silas's night:** Marta harshly tells him to stay outside. He has his own money and finds his own lodging; she doesn't send him anywhere. He isn't a search target, so he can move about Kelmend and gather information.
+- **4. The guards:** an interview, completed. They can tell her the news again, and her hospitality doesn't replace answers.
+- **5. The women:** the terms are agreed. They choose their customers, can refuse and can leave, and what they hear is theirs to sell separately. They're devoted to Marta but challenge risks to the house. Some object to sheltering the boy and the dog; some find him handsome.
+- **6. The marriage:** "So that's the husband" sounds like information for the reader. It needs a real question behind it.
+- **7. The father line:** deferred.
+- **8. Where the chapter ends:** the first night (approved). The rest days and the Darcy lead come after Chapter 10. Redd and Freya's chapter is still open.
+- **9. Darcy:** deferred to that chapter. She's regarded as the greatest mind in Lazaran, and may know something about Gerolt's farm.
+- **10. Empty:** during the rest days, when Silas can be there.
+- **The ending, new:** a false awakening. He seems to wake, and finds blood under his door, a woman of the house dead, Marta dead downstairs with Wena beside her, and Kelmend burning. Then his double says something like "This is who you are, Alaric." He truly wakes, sweating.
+
+## Claude's review: round 3 (2 October)
+
+### Two checks first
+- **Which Chapter 8 is current.** The working design names the author's own Word upload as the authority for the guard lines. The repo's chapter is newer: it has the guard change you agreed this morning ("1. Agree 2. Keep bastards 3. Agree") and the three final passes. The Word copy Claude sent last (5,312 words) matches it. Work from that.
+- **The dog.** Right that the guards' spoken orders say only "Boy and some mutt. Big one." But the search you designed for Chapter 8 began with a neighbour who saw Gerolt leave with a boy and a dog, so the investigation can know the dog was with Gerolt without a new source. Whether these two guards were told is the open part. *Recommended:* they weren't. They ask about "a boy and a big dog" as ordered, and Wena upstairs is danger enough.
+
+### Your five questions
+
+**1. The question that makes her grief specific.**
+*Recommended:* two questions, and Wena does the rest.
+- "Where is he? Behind ye?" She expects him to follow, because he always came. The answer breaks that.
+- "Ye left him?" It's grief and an accusation at once, and it hits the guilt Alaric already carries.
+- His answer is Gerolt's own words from Chapter 2: "He told me to take Wena and run."
+- She looks at Wena. Gerolt would never have given that dog away unless he knew he wasn't coming back. That's when she believes it. The sword and the words got Alaric through the door; the dog is what tells her.
+
+**2. The guards.**
+- **They ask:** when she last saw her uncle; whether anyone has come from the farm, or come asking for her; and whether she's seen a boy with a big dog. The loud one tells her Gerolt is dead.
+- **She answers:** not since his last visit, nobody, and no. They're short answers she can give with a straight face, and they leave the guards something to report.
+- **The hiding place:** upstairs, in the room of the woman who objected to taking them in (question 3). Wena is in there with Alaric, and the sword is under the bed. Wena knows Marta's voice and not the guards', so a whine through the floor is the danger.
+
+**3. The women's divided views.**
+*Recommended:* Marta hears them out. She agrees with the risk out loud, decides anyway ("He's Gerolt's"), and tells the woman who objects that she can keep out of it. That woman chooses to hide him in her own room. That's devotion as a choice, made by someone who still thinks it's a mistake.
+
+**4. How Alaric learns about the marriage.**
+I agree it needs a real question behind it. *Recommended:* after the guards have gone, Alaric asks where Silas will sleep. Silas is hurt and outside, so the question is genuine. One of the women answers it, angry on Marta's behalf: "Her husband can sleep in the gutter for all she cares." The line is there for her anger, and the fact comes with it. Alaric can't ask more, and Marta doesn't explain. *Alternative:* the marriage waits for the rest days.
+
+**5. The double's accusation, and the one thing that changes.**
+- **The accusation:** the agreed rule for the double (handoff §23.3) is a true fact first, then the unjust verdict. A pure lie is easy to throw off; the true part is what makes it stick. *Recommended shape:* something true about Gerolt (he took you in), something true about tonight (so did she), then your line, "This is who you are, Alaric." The words should be yours first, in the dialogue round.
+- **The one action:** concealment. He wakes, someone outside the door says "Alaric?" because they heard him, and he says "I'm fine." It's the first stage the plan set out for the double (§23.4): he hides it, because he's afraid of what another symptom means for the people sheltering him.
+- **What comes back with him:** the headache. Decisions has the double causing severe headaches, so the pain is the one real thing that crosses from the vision into the room. It isn't blood or moved objects, which would be a new power.
+
+### The vision itself
+1. **An honest clue: his ankle doesn't hurt in it.** He takes the stairs at a run, which he hasn't been able to do since the ogre. When he truly wakes, the ankle is the first thing he feels. A careful reader can catch it and Alaric can't, so the dream isn't a cheat. This is the biggest risk of a dream ending, and the clue answers it.
+2. **The dead woman is the one who objected.** In the vision she was right, and she hid him anyway. Her death is the cruellest use of what she did for him, and it's exactly the double's method: help turned into proof of danger. Use one detail from when we met her, nothing more.
+3. **Wena is alive,** nudging Marta, as she lay against Gerolt's side in Chapter 2. I agree with the other review.
+4. **Going in and coming out.** Nothing says he's dreaming. He lies down, and the false waking reads exactly like a real one. The true waking is just as plain: "Alaric woke." Then the ankle, the sweat, the headache, and Wena with her head up, watching him. She reacts to his distress, not to anything he saw.
+5. **Length.** The vision is roughly 900–1,200 words, with the inn longer than the burning town.
+
+**Recorded:** this first encounter is a dream. Later ones can be dreams or waking, chosen one by one.

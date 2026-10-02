@@ -690,7 +690,13 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 - **Design started (1 October)** in `Volume 1/Chapter 9 - Design.md`: Marta's chapter, straight on from the slammed door, late on the night of Day 2. It proposes six scenes (the shut door; the guards; the kitchen; Empty; the price and the room; the double), and round 1 has 12 questions, with the "100/100" answer. Nothing in it is decided yet.
 - **The author's working design (2 October)** replaces the six-scene shape: `Volume 1/Chapter 9 - Working Design.md`, kept word for word with the review that came with it.
   - The author's course of events: Gerolt's words through the door make Marta reopen it; she takes in Alaric and Wena and sends Silas away; Alaric notices her beauty, and some of the women find him handsome; she hears about Gerolt; she asks whether Silas had anything to do with it, and suspects he acted selfishly (her reading, not the narration's); the two guards come, and she handles them, with drinks after their next shift; she shelters Alaric; after about two days' rest a lead towards Darcy arrives, Alaric admits he can't do it alone, and Marta sends him to Silas.
-  - Still open: where Silas spends the night, what the guards are ordered to do, the women's terms, the Darcy lead, where the chapter ends, how much of the marriage goes on the page, and when Marta learns he's Empty. Claude's round 2 review is in `Chapter 9 - Design.md`.
+  - **The updated working design (2 October)** replaces it, word for word, in the same file (the first version is in `Drafts/`). The author's new decisions:
+    - **Chapter 9 ends on the arrival night** with Alaric's first encounter with the double. The two rest days and the Darcy lead belong to the next Alaric chapter, after Seralune's Chapter 10.
+    - **Alaric warns Marta about the guards early,** before the full account of Gerolt's death.
+    - **The guards:** an interview, completed. They can tell her the news again.
+    - **The ending is a false awakening:** he seems to wake; there's blood under his door, a woman of the house dead outside it (he's sick), Marta dead downstairs with Wena beside her, and Kelmend burning with bodies and cries in the streets. His double says something like "This is who you are, Alaric." Then he truly wakes in bed, sweating. Wena isn't dead in the vision.
+    - **Deferred to later chapters:** the Darcy opportunity, Empty (during the rest days, with Silas there), Silas's exact lodging, and Redd and Freya's chapter.
+  - Still open for Chapter 9: Marta's grief questions, what the guards ask and where Alaric hides, how Marta answers the women's objections, how Alaric learns of the marriage, and the double's exact words and what changes when he wakes. Claude's round 3 review is in `Chapter 9 - Design.md`.
 
 ## Alaric
 
@@ -709,6 +715,7 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   2. Its basis is the world's damaged corrective process, not a conscious deity.
   3. The world seeks one individual: their shared soul made into the single being it intended, instead of two people. That's what they refuse at the end.
   - **Where it starts (accepted, handoff §23):** no full appearance in Chapters 1–8, and nothing added to the existing chapters. The first full encounter comes after Marta offers genuine help, currently in Chapter 9. Before it, he needs a believable glimpse of his own face, such as while washing at the inn.
+  - **The first encounter is a dream** (the author, 2 October): a false awakening on his first night at the inn (Chapter 9). Later encounters can be dreams or waking, chosen one by one. Before it, he sees his own face while washing.
   - **Working limits, not yet ruled:** only Alaric sees it, while others see his pain; it can't move objects or control him; it knows only what his perception, surviving fragments and ancient traces give it; true details can come with false verdicts. The genuine reaching-hand and name fragments stay genuine.
 
 ## Seralune
@@ -766,8 +773,9 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 - **Married to Silas, and still married** (2 October). They separated after her father died, and she wanted nothing more to do with him. This replaces "they were going to be married".
 - **What she wants** (2 October): to protect the life she has built. She's firm in her rules and beliefs, used to being obeyed, and a hub of information and secrets in Kelmend.
 - **Avarice** (2 October): she supplies it with information as an associate, not a member. That doesn't make her Gerolt's pupil or a fighter.
-- **The inn** (2 October) has overnight rooms. The front bar closes at night so guests can sleep, but the building isn't empty. **Adult sex workers live and work there,** and their relationships with guards and powerful men are part of her information network. Their terms, their freedom to refuse, and whether they gather information are still to be decided.
-- Her detailed appearance, Affinity, private ambitions and her part in Darcy's story are still to be decided. **Under discussion:** whether Silas's last visit to her door was to tell her that her father was dead.
+- **The inn** (2 October) has overnight rooms. The front bar closes at night so guests can sleep, but the building isn't empty. **Adult sex workers live and work there,** and their relationships with guards and powerful men are part of her information network. **Their terms (agreed 2 October):** they choose their customers, can refuse and can leave; what they hear is theirs to pass on, and Marta pays for it separately. They're devoted to Marta and follow her directions, but challenge decisions that put the house at risk. Some object to sheltering Alaric and Wena, and some find him handsome. They don't all think alike.
+- **Silas at her door** (2 October): when she reopens it, she harshly tells him to stay outside. This replaces her demand at the end of Chapter 8 that he leave Kelmend. He isn't let into the inn.
+- Her detailed appearance, Affinity, private ambitions and her part in Darcy's story are still to be decided. **Deferred:** why she and Silas are still married, and whether his last visit was to tell her that her father was dead. **Under discussion:** whether Silas's last visit to her door was to tell her that her father was dead.
 
 ## Thaeroval
 
@@ -826,6 +834,7 @@ Not in the central cast yet, and not locked (handoff §7, §14.3).
 - **Affinity:** Fire, Eminent, the same level as Gerolt.
 - He still teaches Alaric the sword.
 - **What he takes from Guts:** pragmatism in brutality. He is very, very cunning.
+- **In Kelmend** (the author, 2 October): he has his own money and finds his own lodging; Marta doesn't provide one. He isn't a search target (the search is for the boy and the dog), so he can move about the town and gather information, though his hand is still burned. No Silas viewpoint: Alaric learns what he does through later contact.
 - **The gorge survives.** His old squad and Marta's father were all killed. He lives with the guilt every day, blames himself, and lost the woman he loves most in the world. **They were married, and still are** (the author, 2 October, replacing "they were going to be married"): they separated after her father died in the gorge, and she wanted nothing more to do with him.
 - **How he came to Avarice (my reading of "he was a part of it", to confirm):** he was once part of the system, then fell in love with Marta and the cause she fought for.
 - **The difference from Gerolt:** Silas always wants to win, by any means necessary. Gerolt holds back; Silas doesn't.
@@ -990,6 +999,12 @@ Not in the central cast yet, and not locked (handoff §7, §14.3).
 - **The regional destroyer's territory** (1 October): Mydea's king granted Natharul's regional destroyer an operating territory to "watch over" Mydea, out of fear of Natharul's force. It's out of Kelmend's everyday sight.
 - **Reports travel physically** in Volume 1 (1 October): riders, ships, and fast courier craft in principle. No instant magical messages.
 - **Natharul's scouts:** under the agreement between Mydea's king and Natharul, Natharul scouts are all over Mydea, all the time, scouting everywhere. They are never seen. That's the rule, to keep people calm.
+
+### The world's name
+- **Lazaran** (from the old World Bible; used by the author on 2 October: Darcy is "the greatest mind in Lazaran").
+
+### Darcy
+- **Regarded as the greatest mind in Lazaran** (the author, 2 October). She may know something about what happened on Gerolt's farm. Her reputation doesn't mean she knows anything about Alaric's erased past. The opportunity to reach her, what she knows and the encounter are deferred to that chapter's design. Her rescue is Volume 2's mission.
 
 ### Avarice (formerly the Broken Shield network)
 
