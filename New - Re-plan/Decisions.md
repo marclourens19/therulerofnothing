@@ -793,6 +793,7 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - Every lash-out is aggressive: shouting, swearing, shoving, a slap and choking.
 
   The second version is in `Drafts/`.
+- **Going through the choices one at a time (2 October).** The corrected passages are collected in `Volume 1/Chapter 10 - Selected Dialogue.md`. **1A, revised:** no memory lines; *There's nothing down here to be afraid of, so stop it. You're not six. You can do this. Walk.*; "We'll talk about Cyrandor once we're out of these tunnels."; "I'd keep our hopes modest at best. Stay close, and we'll find our way out together."; the water came from the left; *we can always turn round and try the right*; "Left, then. Lead the way, Nereth."
 
 ## Alaric
 
