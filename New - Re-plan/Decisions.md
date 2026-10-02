@@ -719,6 +719,81 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - **Round 9 (2 October):** the objecting woman is **Rhose** (the author: "Name the girl Rhose"; earlier entries say Rose). Speaker tags were added in the guards' interview. Proposed and waiting: Marta questions him at the door; his self-blame is freezing, not a reason the elves came (he can't know they came for him); fewer thank-yous; two versions of a more flirtatious room exchange (`Chapter 9 - Design.md`, round 9).
     - **Chosen (2 October):** all of these were applied. The room is version B (she tips his chin up: "I told him I was finished for tonight. I didn't say anything about you."), with "Since you asked nicely." Alaric thanks Rhose twice: in the kitchen and at the candle.
     - **The door (2 October), option 2:** the guards will ask "about Gerolt. And about us." Marta knows Gerolt's sword on sight (new, approved) and asks why the dog is with him and not with Gerolt. "If who finds ye?" / "The elves." At the table: "Ye said ye'd tell me inside. Why've ye got his sword? Where's Gerolt?"
+  - **Finished (2 October):** the last checks were three final passes, Claude's review notes 1–8 ("apply 1-8") and five passes before merging. The chapter is 4,132 words and was merged into main. Every step is recorded in `Chapter 9 - Design.md`.
+
+## Chapter 10
+
+- **Seralune's chapter** (the author's Chapter 9 working design: the recovery days come "after Seralune's Chapter 10").
+- **Design started (2 October)** in `Volume 1/Chapter 10 - Design.md`. The proposed direction runs from the aqueduct arch at the end of Chapter 7 to first light on Day 3, in six movements:
+  1. into the old channels;
+  2. what a thousand years of her leaking mana has made of them;
+  3. she goes to something suffering, against Nereth's warning;
+  4. her mana goes into Nereth's fire, and Nereth's corruption begins;
+  5. Nereth turns on her over Cyrandor;
+  6. Seralune carries her out above the coast as the palace bells ring.
+- It updates the old Chapter 10 ("Beneath Natharul"): no lost arm for Cyrandor, the corruption comes from Seralune rather than a bite, no untouched hollow, and a smaller but public collapse.
+- **The author's direction (2 October)** replaces that proposal, and is kept word for word in the design file. "I want this to be the Beneath Natharul horror chapter." The working title is "Beneath Natharul". In order:
+  - Nereth leads, because Seralune doesn't know the way, and they walk in circles: Seralune's mana is taking Nereth's sense and mind.
+  - Seralune takes the lead and finds a new path deeper into the corruption. There's fauna, dead bodies covered in roots, and sounds from everywhere.
+  - Nereth, more corrupted, lashes out at Seralune.
+  - A "help me" comes from the corpses' mouths, and Seralune goes after it. Its source is a small corrupted lizard with roots and flowers growing on it.
+  - Nereth pulls Seralune's arm away, and the lizard bites Nereth's face. She's poisoned and corrupted, in extreme pain, and her mind is lost.
+  - Her corrupted fire goes down the aqueduct: massive devastation, the ground shakes, and it blasts through the side of the mountain.
+  - The flames rush back and go round them, because Seralune is holding Nereth.
+  - Nereth's mana is spent. Seralune carries her to the hole, thinking she's never seen destruction like it and that it rivals her brother's power.
+  - Out in the fresh air, Nereth's mind recovers. It ends with Seralune carrying Nereth down the mountain.
+  - **The feel:** dark, close, uncomfortable and unsettling. Nereth's fire is pure destruction, "like an atomic bomb almost in a sense of feeling". Her descent into madness is built slowly.
+- **New world facts from it (the author's, 2 October):**
+  - **Seralune is immune to magic, through her mana.** When she's holding someone, magic goes round them too.
+  - Her mana, in the aqueduct, takes Nereth's sense of direction and her mind, and she recovers in the fresh air.
+  - **Nereth's corruption begins** with the lizard's bite to her face.
+  - Nereth's fire spends all her mana.
+- **Round 2, the author's answers (2 October),** kept word for word in the design file:
+  1. **Nobody dies.** They walk the aqueducts for hours, and the way leads towards the ocean, far from the palace and the city. That's where the blast opens the mountain.
+  2. **Thaer:** Seralune hasn't seen anything of his Dark ("Nothing I was just thinking it in my head"). How she can still think the comparison is round 3.
+  3. **The mana that takes Nereth's mind** is the place's: a thousand years of Seralune's mana leaking from the seal. It's stronger the deeper they go, and it flares when Seralune is frightened or angry. It doesn't touch Seralune, and she doesn't know why.
+  4. **Her immunity:** magic can't touch her, or anyone she's holding, but falling stone and ordinary harm can. She doesn't understand why the fire parted.
+  5. **The dead** are palace servants sent down over the years to clear the channels. They never came back, because they died, and they're in the same grey Seralune is wearing.
+  6. **"Help me"** is a copied voice, the last words of one of the dead, the way the ogre copied words in Chapter 6.
+  7. **Nereth lashes out** over Cyrandor, with words first, then her hands. She also lashes out at Seralune's small kindnesses: Seralune keeps trying to make sure she's all right, and that makes Nereth angry.
+  8. **They come out before dawn on Day 3** and go down the mountain as it gets light. Nereth's mind clears in the fresh air, the mark below her left eye stays, and she's too weak to walk.
+- **Round 3 and dialogue round 1 (2 October).** Round 3 was how to word the Thaer thought, and Claude's notes on how Nereth's descent builds. Dialogue round 1 is now in `Drafts/`.
+- **Round 3, the author's answers (2 October):**
+  - **The Thaer thought is A,** set in the narration: "All her life, people had said there was nobody in Natharul like Thaer. She had never seen him do anything like this."
+  - **Nereth's descent follows the author's guide** to mana corruption, kept word for word in the design file. The guide's parts are:
+    - paranoia;
+    - sensory hallucination, such as whispers;
+    - grandiosity;
+    - volatile emotions;
+    - obsession;
+    - loss of risk;
+    - a whispering second voice;
+    - temporal disorientation;
+    - erosion of empathy.
+  - Claude built ten steps from it (`Chapter 10 - Dialogue.md`). The god complex is cut down to one line of contempt, and "fuel cells" and "vessels" are left out so the page doesn't point too hard at Seralune.
+  - **All the dialogue rewritten** (the author: match the characters' voices in earlier chapters, no robotic dialogue or prose, a horror chapter). This is dialogue round 2, `Volume 1/Chapter 10 - Dialogue.md`: one version of each exchange, D1–D11, with the prose round it. Seven calls are waiting:
+    - the palace's lie about the dead;
+    - "Your fucking Highness";
+    - Cyrandor's order said aloud, with "I've never had magic in my life";
+    - the voice from the walls coming out of Nereth's mouth, then "Seralune—";
+    - her mana moving as the fire parts;
+    - the fire's colours;
+    - Nereth looking at the ocean.
+- **The dialogue options file (2 October).** The author asked for a dialogue file in the layout of the Chapter 9 "Selected Dialogue and Vision", to "read through it and choose the options i like and edit the dialouge", with "2-3 options for dialogue and important beats/pose". It's `Volume 1/Chapter 10 - Dialogue Options.md`: sixteen moments in scene order, each in two or three versions with their prose, and drafting notes. Rounds 1 and 2 are in `Drafts/`. It's waiting on the author's choices.
+- **Rewritten from scratch (2 October).** The author: the options read like "plain text without any story or emotions behind them, there is no horror"; study Chapters 1–9. The new version is built on what Chapters 4, 5 and 7 do:
+  - Seralune's inner life in the dark (memory, pride, her mother, talking herself down);
+  - her mana crowding up when she's frightened, which now makes Nereth worse each time;
+  - Nereth's descent shown through her own habits breaking;
+  - the falls that "never stop", which can't be heard down there.
+
+  It has twelve moments, in two or three fuller versions each. The first version is in `Drafts/`.
+- **The voices recast (2 October).** The author: "Seralune should sound like Alisae when she thinks and speaks and Nereth like Ram from rezero and when she breaks down she gets aggrisive". In the third version:
+  - Seralune is sharp, in charge and sarcastic under pressure, scolds herself, and hits back.
+  - Nereth is deadpan and politely superior, with "Your Highness" put on the front of cutting lines.
+  - Every lash-out is aggressive: shouting, swearing, shoving, a slap and choking.
+
+  The second version is in `Drafts/`.
+- **Going through the choices one at a time (2 October).** The corrected passages are collected in `Volume 1/Chapter 10 - Selected Dialogue.md`. **1A, revised:** no memory lines; *There's nothing down here to be afraid of, so stop it. You're not six. You can do this. Walk.*; "We'll talk about Cyrandor once we're out of these tunnels."; "I'd keep our hopes modest at best. Stay close, and we'll find our way out together."; the water came from the left; *we can always turn round and try the right*; "Left, then. Lead the way, Nereth."
 
 ## Alaric
 
@@ -758,6 +833,8 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 - **Her mana.** She knows she has mana, and a lot of it. Everyone believes it's simply a very large pool: no one has been able to find its end. In truth it has none. *Now in question (handoff §14.5): a world that is fading because its energy is running out sits badly with a reserve that truly never ends. See Open questions.*
 - **A rule: her mana can't be used** (27 September). "Her mana isn't usable at all, nor should she think it is. It is only usable through Alaric. Her mana just exists within her." So she never tries to shape it, and never expects to.
 - **But it acts on its own** (27 September): "Yes, her mana acts on its own." That's how it went searching for Alaric, and how her feelings make Nereth's corruption flare.
+- **She is immune to magic, through her mana** (the author, 2 October, Chapter 10). Magic can't touch her, or anyone she's holding, but falling stone and ordinary harm can. She doesn't understand it: in Chapter 10 she only sees Nereth's fire go round them. It fits the handoff's picture of the tear (§14.2), where "Nereth survives while close to Seralune".
+- **Her leaking mana** (the author, 2 October, Chapter 10). For a thousand years, her mana leaked from the seal into the old aqueduct under the palace. It changed what grows and lives there, killed the servants sent down to clear the channels, and takes the sense and the mind of anyone else who goes in. It doesn't touch her.
 - **She isn't the ancient Seralune either** (handoff §15.5). She keeps the princess-self she remembers but has no memory of Alaric, and owes him nothing because of a past relationship.
 - **Her last choice in Volume 1.** She accepts responsibility for who she was, even though that isn't her true self and she didn't actually do those things. Her internal war: "I need to atone for all these deaths. But was it me? Why must I? But I should."
 - **The heir was whoever she married** (the author, 29 September): "It was meant to be whoever Seralune married." A Ruler can't be king, and Thaer is one. Who is the heir now is open.
@@ -890,6 +967,11 @@ Not in the central cast yet, and not locked (handoff §7, §14.3).
 - **Always composed on duty** (27 September). Her first slip comes in the escape, not before.
 - **Cyrandor's order** (27 September): "Secretly, before meeting Seralune, Cyrandor told Nereth to watch over Seralune: even if she seems dangerous, she is important. Nereth obeys, but is struggling to understand why her." This replaces the old canon that she has nothing to do with the Order.
 - **Her first disobedience of anyone** is still undecided (handoff §15.10). Her first *slip*, from Ram to Revy, comes in the escape (above).
+- **Her corruption begins in Chapter 10** (the author, 2 October).
+  - The aqueduct's mana takes her sense of direction and then her mind. She lashes out at Seralune over Cyrandor and over Seralune's small kindnesses. These outbursts are the mana's, so they aren't her first real refusal of Seralune, which stays later.
+  - A small corrupted lizard bites her face, and the corruption takes hold below her left eye.
+  - With her mind lost, her corrupted fire blasts down the aqueduct and through the side of the mountain, and it spends all her mana.
+  - In the fresh air her mind recovers. The mark stays.
 
 ### Redd Vander
 
