@@ -565,3 +565,50 @@ The author: "apply 1-6 her name can be Rhose or Rose. you can write the chapter"
 - "He stopped halfway down the stairs." (the stair is one flight).
 
 **Length:** 3,750 words, under the 4,000 target. The agreed passages are tight, and nothing was padded.
+
+## Round 8: the combined version (2 October)
+
+The author sent the other workspace's draft (`Drafts/Chapter 9 - Other workspace draft (2 October).md`, about 5,600 words, kept word for word) with a comparison, and asked: "Compare your draft and ChatGPTs draft and make a combined chapter with the best of both". The comparison, word for word:
+
+> Claude's draft is the stronger base. I'd put it around 90/100, with mine around 88/100. Claude's version is more controlled; mine contains several useful emotional connections, but too much narration between them. I read the complete attached chapter and compared both.
+> Much of the dialogue and almost the entire vision come from our approved passages. The meaningful difference is how each draft connects those passages and gives them room.
+> Claude's draft is about 3,750 words, compared with mine at about 5,600. Its shorter length generally helps. I wouldn't expand it simply to reach the original estimate.
+>
+> **What Claude does better**
+> - Wena's behaviour makes Gerolt's absence felt. She searches the familiar kitchen, returns to the shut door and lies there. Later, she presses against Marta's hand. Those actions carry an expectation nobody can fulfil.
+> - Marta's shock gets room without being explained. The missed chair, her thumb moving over the sword's worn grip, and her failed attempt to speak work together. My added recollections sometimes pull attention away from her at precisely the wrong moment.
+> - The quiet food delivery is excellent. Marta brings food for both of them, looks at Gerolt's sword and leaves without speaking. Her care and grief occupy the same action. I would preserve this over my longer bedside conversation.
+> - Alaric checking the empty lane is worth keeping. His concern for Silas survives Marta's hostility. It also gives the evening a natural ending: he checks outside, closes the shutter, bolts the door and tries to sleep.
+>
+> The dialogue mostly carries the personalities we have been developing. Marta's "Aye. Ye fucking will." works because it answers Silas, with their history behind it. Rose's objection also works: she wants an answer about her own safety, rather than politely supplying the chapter's moral argument.
+>
+> **What I would bring back from ours**
+> 1. A brief decision about shelter after the guards leave. Claude moves into the marriage disclosure and then the guest room. The invitation is understandable, but this is an important relationship turn worth making explicit. Our version has Alaric offer to leave and Marta answer: "Ye warned me before ye came in. I heard ye. Ye can stay tonight." That acknowledges something he actually did for her. Keep this exchange brief.
+> 2. Marta's limit when Alaric blames himself. Our line: "I can't hear that just now. I can't, lad." gives her a human boundary. She has just lost her uncle; she cannot immediately become responsible for soothing Alaric's guilt. I would retain this small exchange without restoring all my surrounding explanation.
+> 3. Recognition of his own voice at the vision's climax. "This is who you are, Alaric." / The voice was his too. / No. I didn't— Claude retains the visual recognition but drops the voice and interrupted denial. Those two additions make the accusation invade Alaric's sense of himself, while preserving the single spoken sentence you wanted.
+>
+> **What still needs adjustment**
+> Rose's hiding reassurance is the weakest exchange: "They won't. … And if they do, you're a customer, and you're shy." Her confidence can be bravado; that is believable. But the supposed explanation does little about Wena, when the guards specifically want a boy with a large dog. I would keep Rose practical: "If they come up, let me answer. You stay where you are."
+> There is also a small return to the hesitant speech we agreed to reduce: "I… thank you." Plain "Thank you." works better after the initial "W-wait."
+> For the combined draft, I would preserve Claude's restraint, quiet meal and empty-lane check, then restore those three emotional moments from ours. The vision already delivers the destruction you wanted. Its lasting strength will come from Alaric's behaviour afterwards: the accusation needs to affect how he accepts help and pursues his past, even though the household is alive when he wakes.
+
+**What Claude did:** the chapter is now the combined version (4,020 words), built as a change list on Draft 1: `Drafts/Chapter 9 - change list (combined).json`, shown in `Chapter 9 - Changes (combined).md`.
+- **The author's five points, applied:**
+  - Marta's limit ("It was my fault… They wanted something from me." / "Don't." / "I can't hear that just now. I can't, lad.").
+  - Staying tonight. "I heard ye" is dropped from "Ye warned me before ye came in. Ye can stay tonight.", because Marta says "I heard ye, lad" four lines later.
+  - The voice and "*No. I didn't—*". This reverses the earlier "unselected", on the author's recommendation here.
+  - Rose: "If they do, let me answer. You stay where you are."
+  - "Thank you."
+- **Seven more beats from the other draft (Claude's picks, each the author's call):**
+  - Alaric wants to ask whether Silas will still be there later.
+  - Rose's entrance with the mugs ("What's happened?" / "Gerolt's dead." / "Oh, Marta."), so she learns about the guards on the page.
+  - A second woman: "He's asking for you." / "Tell him I'm finished for tonight."
+  - Marta's empty hands where the sword had been.
+  - The swelling, and "Keep it up for a while."
+  - "He waited for her to ask how anyone could forget that."
+  - "His clothes fitted him, and he couldn't remember ever putting them on."
+  - "Tomorrow he wouldn't have to get up and walk anywhere. Marta had said he could stay."
+- **Left out of the other draft, on the comparison's advice:** the longer bedside conversation with Marta, the added memories during her shock, and Rose's spoken rules after the guards.
+- **The name stays Rose.** The other draft uses Rhose.
+
+**Still the author's call:** the title, the round 7 joining beats, and the seven picks above.

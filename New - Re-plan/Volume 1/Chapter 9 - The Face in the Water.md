@@ -50,7 +50,9 @@ Her eyes returned to Silas.
 
 "Then let *him* speak. I don't want another bloody word out of you."
 
-Silas handed Alaric Wena's lead. Marta let Alaric and Wena past her, then stood in the doorway again. Over her shoulder, Alaric could see Silas in the lane with the rolled bed under his arm.
+Silas handed Alaric Wena's lead with his good hand. Alaric wanted to ask whether he would still be there later, but Marta was waiting for him to move.
+
+She let Alaric and Wena past her, then stood in the doorway again. Over her shoulder, Alaric could see Silas in the lane with the rolled bed under his arm.
 
 "Ye aren't setting foot under me roof."
 
@@ -122,7 +124,31 @@ Marta looked towards the closed door. "And he brought ye here."
 
 She didn't answer him.
 
-A woman had come in from the passage on the other side of the kitchen. She stood at the end of the table with a hand on the back of a chair, and Alaric didn't know how long she had been there. He knew her, though: she was the woman who had brought the tub out to the gutter.
+"It was my fault," Alaric said. "They wanted something from me. If he hadn't found me—"
+
+"Don't."
+
+He shut his mouth.
+
+"I can't hear that just now." She swallowed. "I can't, lad."
+
+A woman came in from the passage with a stack of clean mugs. Alaric knew her: she was the one who had brought the tub out to the gutter. She looked at him, then at the sword in Marta's hands, and her eyes stayed on Marta.
+
+"What's happened?"
+
+"Gerolt's dead."
+
+The woman set the mugs down on the table one at a time.
+
+"Oh, Marta."
+
+She stayed beside Marta's chair with a hand on her shoulder. Marta covered it with her own, then let go.
+
+"Ye said guards were coming," Marta said.
+
+"After they've finished their round," Alaric said. "They're looking for me and Wena. They've been told to bring me in alive."
+
+The woman's hand fell from Marta's shoulder.
 
 "Marta, they're coming here looking for him. We've got guests upstairs. And the rest of us live here too. You can't just decide this and expect us to—"
 
@@ -152,6 +178,14 @@ She looked back at Marta.
 
 "I know. I'm offering." She took Wena's lead. "But we're talking about this again when they've gone."
 
+Another woman had come to the passage door with a folded cloth over her arm. She looked at the one holding Wena's lead.
+
+"He's asking for you."
+
+"Tell him I'm finished for tonight."
+
+The other woman looked at Alaric, then went back the way she had come.
+
 Alaric got up more slowly this time.
 
 Marta held the sword out, grip first. He took it carefully. She let go without looking at him.
@@ -159,6 +193,8 @@ Marta held the sword out, grip first. He took it carefully. She let go without l
 He turned to the woman. "Thank you. I'm… Alaric."
 
 "Rose," she said. "Come on, then, Alaric. Lean on me if you need to."
+
+At the passage door, Alaric looked back. Marta was still at the table, with her empty hands where the sword had been.
 
 The passage went past the common room, where the chairs stood upside down on the tables, to a narrow stair. Rose went up it beside him with Wena's lead in one hand and his arm across her shoulders. Halfway up, his ankle turned on the edge of a step, and she took more of his weight until he had found his footing again.
 
@@ -172,9 +208,7 @@ Alaric lowered himself onto the boards with his back to the wall. He laid the sw
 
 "If they come up here…" Alaric whispered.
 
-"They won't." Rose kept her eye to the gap. "And if they do, you're a customer, and you're shy."
-
-He was glad she had blown the candle out.
+"If they do, let me answer." Rose kept her eye to the gap. "You stay where you are."
 
 *They'll knock at the front.* He thought of Silas, out in the lane with nowhere to go. *They've no reason to go round the back. Unless they want to look.*
 
@@ -262,7 +296,15 @@ Marta was in the common room with the lamp beside her. The chairs were still ups
 
 "I'll see who they woke," Rose said, and went back up.
 
-Alaric stood at the foot of the stairs with the sword. Wena went to Marta and lay down by her feet. Through the passage, past the kitchen, he could see the bar across the back door.
+Alaric stood at the foot of the stairs with the sword. Wena went to Marta and lay down by her feet.
+
+"I meant it before," Alaric said. "I can go. If I stay, they'll keep coming here."
+
+"And where would ye go?"
+
+He didn't answer. Through the passage, past the kitchen, he could see the bar across the back door.
+
+"Ye warned me before ye came in. Ye can stay tonight."
 
 "What about Silas?"
 
@@ -328,7 +370,7 @@ He looked up at her, then away again. Even his ears felt hot.
 
 "Now I've had a proper look at you…" She leaned closer, smiling. "You're a handsome one, you know."
 
-"I… thank you."
+"Thank you."
 
 She laughed and let go of his arm, then stepped back to give him room.
 
@@ -344,7 +386,11 @@ She knelt and supported his foot with one hand. When she eased the boot past his
 
 He nodded.
 
-She worked it off more slowly, then put a folded blanket beneath his foot. Alaric sat back and let out the breath he had been holding.
+She worked it off more slowly. The swelling showed as soon as the boot was gone.
+
+Rose put a folded blanket beneath his foot. "Keep it up for a while."
+
+Alaric sat back and let out the breath he had been holding.
 
 He pulled the other boot off himself.
 
@@ -368,7 +414,7 @@ She came a little closer, then looked from the water to him.
 
 "I don't remember anything from before yesterday." He touched the corner of his mouth. The face in the water did the same. "I thought I'd recognise it."
 
-She stood quietly beside him. Then she put the boots down by the door and moved the candle closer to the basin.
+She stood quietly beside him. He waited for her to ask how anyone could forget that. Instead, she put the boots down by the door and moved the candle closer to the basin.
 
 "I'll leave that here."
 
@@ -378,7 +424,7 @@ Alaric kept looking at the water.
 
 When he looked up again, she had stepped into the passage and was pulling the door gently shut.
 
-He sat there until the water was still again. The face didn't look like anyone in particular. He turned his head, and it turned, and he still couldn't make it his.
+He sat there until the water was still again. The face didn't look like anyone in particular. He turned his head, and it turned, and he still couldn't make it his. His clothes fitted him, and he couldn't remember ever putting them on.
 
 Marta came up a while later with a bowl of stew and half a loaf, and a second bowl for Wena, which she put on the floor. She set his on the end of the bed. Her eyes went to Gerolt's sword lying beside him, and stayed there. Then she went out without a word.
 
@@ -394,9 +440,11 @@ He slid the bolt across the door. Then he took off Silas's cloak, laid it over t
 
 Below him, two women were talking in low voices. He knew Marta's, and he thought the other was Rose's. He couldn't make out the words. Once Rose said something sharper, and after that they were both quiet for a long time.
 
+Tomorrow he wouldn't have to get up and walk anywhere. Marta had said he could stay.
+
 He reached down until his hand found Wena's ear.
 
-He didn't hear them stop.
+He didn't hear the voices stop.
 
 ---
 
@@ -487,6 +535,10 @@ Slowly, his shoulders came round, and his face followed.
 Alaric saw his own eyes. His own mouth. The face he had seen in the water before he went to bed.
 
 "This is who you are, Alaric."
+
+The voice was his too.
+
+*No. I didn't—*
 
 Rose's torn throat.
 
