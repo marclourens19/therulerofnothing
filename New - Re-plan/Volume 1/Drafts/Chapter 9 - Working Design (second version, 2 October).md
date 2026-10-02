@@ -1,44 +1,6 @@
 # Chapter 9 Working Design
 
-The author's third version (2 October 2026), kept word for word from the author's message, with the review the author sent with it (first, below). The second version is in `Drafts/Chapter 9 - Working Design (second version, 2 October).md`, and the first in `Drafts/Chapter 9 - Working Design (first version, 2 October).md`. Claude's answer is in `Chapter 9 - Design.md` ("Round 3, where it stands").
-
----
-
-## The review sent with it (2 October)
-
-Most of this works. The strongest addition is the woman who objects, then chooses to hide Alaric anyway. Her help would make the later vision personal: the double turns a decision she freely made into an accusation against him.
-I would keep that, with a few adjustments.
-1. Marta’s grief needs a clear sequence.
-“Where is he? Behind ye?” feels right before she knows. She expects an ordinary explanation, and Alaric cannot give her one.
-“Ye left him?” can then hurt badly—but it should follow enough information for us to understand what she means. Is she imagining him abandoned while wounded, or his body left in the forest?
-Alaric quoting “He told me to take Wena and run” is strong because those were Gerolt’s words. However, his answer should not imply he calmly obeyed. He froze; Silas dragged him away. That distinction matters to his guilt.
-Wena makes the loss sink in; she does not prove Gerolt died. Alaric tells Marta what happened. Then the dog, the sword and Gerolt’s instruction become things Marta struggles to accept.
-2. Keep the objecting woman’s decision genuinely hers.
-Marta acknowledging the risk is right. Offering the woman freedom to decline helping is also right.
-But “keep out of it” cannot mean she will be safe if the household is discovered. She lives there. Marta can release her from lying, hiding him or surrendering her room; she cannot remove the shared danger.
-I would let the woman remain unconvinced when she offers her room. She might simply recognise that it is the least conspicuous hiding place. Helping does not have to mean agreeing. That gives her more character than objections followed by a complete change of heart.
-“He’s Gerolt’s” could work as Marta claiming responsibility for him, but I favour something clearer:
-“Gerolt sent him here. I’m not turning him out.”
-
-The surrounding exchange can carry her anger and the women’s objections. That sentence does not need to explain her entire moral position.
-3. The guard questions are sensible.
-They give Marta something concrete to conceal, and they let Alaric hear her lie for him. That should affect him: she is accepting a risk he cannot repay or control.
-Her answers can be brief, but I would avoid three identical denials in succession. Let her answer naturally and perhaps ask a question of her own about Gerolt. She is grieving and gathering information while managing the interview.
-Claude’s clarification about Wena also resolves the issue: investigators have the neighbour’s account, while these two guards received only the simpler description. No additional informant is needed.
-4. The marriage reveal has a good trigger, but I would refine the answer.
-Alaric asking where an injured Silas will sleep is a real concern. Keep that.
-“Her husband can sleep in the gutter for all she cares” is plausible as an angry woman’s exaggeration, but it should remain her opinion. We should not use it to establish that Marta feels nothing for him.
-An alternative direction would be:
-“He’s got money. Let him pay for a bed somewhere his wife doesn’t have to look at him.”
-
-That reveals the marriage while preserving Silas’s independence and the speaker’s hostility. We can refine it once we give that woman a distinct voice.
-5. The ankle clue is useful, but it does not solve the dream-ending risk.
-I would keep your slow, sick descent rather than change it into running. His ankle can fail to trouble him during the vision without the narration pointing out the discrepancy. Its pain returning when he wakes gives the reader something to recognise afterwards.
-But the real protection against a disposable nightmare is what Alaric does next. Concealing it supplies that consequence.
-I support the headache persisting. It connects this experience to his earlier episodes without transferring blood or deaths into reality.
-“Alaric woke” can be plain. Then someone hears his distress, knocks, and receives “I’m fine.” The lie works because that person has just helped him, and he now fears telling them what their help appeared to cause.
-One small continuity requirement: that person must have learned his name earlier in the chapter.
-My recommendation is to take these proposals forward with those corrections. Keep the objecting woman as the vision’s first victim, preserve your slower movement through the inn, and let the final exchange show Alaric concealing the experience. The double’s exact words remain the most important part to develop next: it must exploit his fear without sounding like the novel delivering a verdict on him.
+The author's updated working design (2 October 2026), kept word for word from the author's message. It replaces the first version, which is kept in `Drafts/Chapter 9 - Working Design (first version, 2 October).md` with the review that came with it. Claude's review is in `Chapter 9 - Design.md` ("Claude's review: round 3").
 
 ---
 
@@ -80,7 +42,7 @@ These are the author's current scene directions. The guards' exact questions, th
 
 ## What Chapter 8 establishes
 
-The latest author-supplied report from Claude says the repository is newer than the Marta Voice copy and that Claude's last sent Word version, reported as 5,312 words, matches it. Treat that identified latest version as the intended drafting authority once available and verified. The currently accessible local evidence includes `C:\Users\joshu\Downloads\Chapter 8 - The Road Owed to the Dead - Marta Voice.docx`; its local Markdown counterpart differs in two guard lines. These local reads do not establish the contents or current version of PR 16, and must not be represented as superseding the newer repository.
+For this discussion, use the latest available Word copy, `C:\Users\joshu\Downloads\Chapter 8 - The Road Owed to the Dead - Marta Voice.docx`. The local Markdown reading copy differs from it in two guard lines and is not the authority for those lines. This does not establish that a separately updated repository contains no newer version.
 
 - The chapter ends late on Day 2 before Alaric says Gerolt's name. Marta has not heard the death news.
 - Alaric holds Gerolt's unsheathed sword and wears Silas's cloak. Silas holds Wena's improvised lead and carries his own blade, sack and bedding. Transfer the lead when the boy and dog enter; do not lose the sword in the separation.
@@ -88,7 +50,6 @@ The latest author-supplied report from Claude says the repository is newer than 
 - Alaric knows Marta is Gerolt's niece but does not know about the marriage, the gorge or her information business.
 - The two guards were ordered to question the farmer's niece after closing and after their remaining round. They seek a boy with a large dog, alive, but lack his name, a reliable face, his Empty condition and a confirmed identification of Silas.
 - Their current spoken orders do not identify the dog as Gerolt's. That identification would require a new report or source if added.
-- The author's established upstream search chain already includes a neighbour seeing Gerolt leave with a boy and dog. No new informant is needed for that information to exist among investigators. The two local interview guards can still have received only the simpler boy-and-big-dog description.
 - Silas explicitly told Alaric to warn Marta before the guards reach her door. The warning must precede the full account of Gerolt's death, not wait until the interview interrupts it.
 - The captive woman at the auction closes her hand round the chain beneath her chin. Use that particular image if the auction returns to Alaric's mind.
 - The proposed interrupted "Where's—" in Marta's Chapter 8 greeting is still unselected. Chapter 9 can begin from the current ending without requiring that addition.
@@ -188,31 +149,3 @@ Recommendations awaiting selection:
 - Let the real awakening leave one concrete consequence: concealment, checking the household, distrust of his own face or intensified pursuit of answers. Choose one immediate action rather than all of them. Sweat alone should not carry the whole aftermath.
 - Do not transfer actual blood, moved objects or physical deaths from the vision into the waking room. Such a transfer would be a new power and contradict the proposed unreal slaughter.
 - Keep the genuine reaching-hand and name memories distinct from this manipulated scene; the change does not retroactively make those memories false.
-
-## Claude round 3 proposals and review
-
-These are proposals from the author's latest pasted response, not additional author approvals.
-
-### Grief and the interview
-
-Claude proposes that Marta first expects Gerolt to be behind Alaric, then asks "Ye left him?" Alaric recalls "He told me to take Wena and run." Marta looks at the dog and understands the seriousness of the departure.
-
-Recommended limits: make the death clear through Alaric's account rather than treat Wena as proof. Alaric believes Gerolt died; he did not examine his body. The dog, sword and recalled instruction make that belief emotionally real to Marta. Her accusation can wound Alaric without narration declaring that she is fair or that he calmly obeyed; Chapter 2 shows him freezing until Silas drags him away. Place the early warning before the full grief exchange.
-
-Claude proposes three practical interview questions: when Marta last saw Gerolt, whether anyone has come from the farm and whether she has seen a boy with a big dog. The loud guard gives her the death news again. Her exact answers must fit the established last visit; no date or additional visit is selected yet. She knowingly conceals the arriving pair. Her responses can be brief and ordinary without making every answer mechanically identical.
-
-### The objecting woman and the marriage disclosure
-
-Claude proposes that Marta acknowledges the risk, says "He's Gerolt's", lets the objecting woman decline involvement, and that the woman nevertheless volunteers her own room as the hiding place.
-
-The voluntary hiding place is a useful recommendation. Establish her consent before Alaric enters her private room. She can disagree with the decision and still choose to help. Marta can release her from lying or assisting, but cannot truthfully remove her exposure to danger while she continues living in the inn. The phrase "He's Gerolt's" is not a new parentage fact; if used, make its meaning as Gerolt's responsibility or entrusted guest legible.
-
-Claude proposes that Alaric asks where the injured Silas will sleep and a woman answers "Her husband can sleep in the gutter for all she cares." This is a possible opinionated disclosure, not narration of Marta's feelings. Do not let it imply that Silas lacks money or requires Marta's lodging, or that the speaker can certify she has no concern for him. The actual disclosure and wording remain unselected.
-
-### Vision clue and the real awakening
-
-Claude proposes that the dead resident is the same woman who objected and voluntarily hid him. This makes the image exploit a particular choice to help him. It remains a proposal and does not prove that her objections predicted a real massacre.
-
-Claude proposes that his ankle does not hurt in the vision, that he runs down the stairs, and that ankle pain returns immediately on waking. The absent pain can be a subtle clue, but retain the author's slow, sick movement unless explicitly changed; a run is not required. A clue alone does not resolve the danger of a consequence-free dream ending. The changed behaviour after waking remains essential.
-
-Claude proposes a plain real awakening, severe headache persisting, someone calling "Alaric?" through the door and his answer "I'm fine." The headache matches the established cost of encounters. Introduce his name to the household beforehand and give the knock a concrete cause such as heard distress. The listener hears him, not the double. No actual blood or bodies cross into the real inn. Do not label the vision in advance, but preserve retrospectively readable details and the reader's uncertainty about its source.

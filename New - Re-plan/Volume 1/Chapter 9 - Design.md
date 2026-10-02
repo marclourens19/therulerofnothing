@@ -372,3 +372,39 @@ I agree it needs a real question behind it. *Recommended:* after the guards have
 5. **Length.** The vision is roughly 900–1,200 words, with the inn longer than the burning town.
 
 **Recorded:** this first encounter is a dream. Later ones can be dreams or waking, chosen one by one.
+
+## Round 3, where it stands (the author's third working design, 2 October)
+
+The author sent a review of round 3 with an updated working design (both kept word for word in `Chapter 9 - Working Design.md`). Claude agrees with all five corrections:
+
+1. **Marta's grief, in order.**
+   - "Where is he? Behind ye?" comes before she knows.
+   - Alaric tells her what happened. Wena doesn't prove it; the dog, the sword and the instruction are what she struggles to accept.
+   - "Ye left him?" comes only once she knows enough for it to mean something.
+   - **He didn't calmly obey.** In Chapter 2 his legs wouldn't move, and Silas "took Alaric by the collar and dragged him away from Gerolt." So "He told me to take Wena and run" can't stand as his answer on its own; the truth is worse for him, and he knows it.
+2. **The objecting woman stays unconvinced.** She offers her room because it's the least likely place to be searched, not because she's changed her mind. Marta can let her off lying or hiding him, but can't take away the danger; she lives there. Marta's line: "Gerolt sent him here. I'm not turning him out."
+3. **The guards.**
+   - Marta's answers aren't three matching denials.
+   - She asks a question of her own about Gerolt. She's grieving and gathering information at once.
+   - Alaric hears her lie for him: a risk he can't repay or control.
+   - These two guards have only the simple description; the neighbour's account stays with the investigators.
+4. **The marriage:** "He's got money. Let him pay for a bed somewhere his wife doesn't have to look at him." It's the woman's opinion, not Marta's feelings, and it keeps Silas paying his own way. It gets refined once she has her own voice.
+5. **The ankle:** keep the slow, sick walk through the inn. The ankle simply doesn't trouble him there, and the narration doesn't point it out. Claude's claim that this clue answers the dream-ending risk was too strong. What answers it is what he does when he wakes: he hides it.
+
+### Two additions
+
+**A. Who knocks: the woman he saw dead.**
+- At the end, the voice at his door is hers: the woman who objected, hid him anyway, and lay dead outside that same door in the vision. She heard him through the wall and came, irritated, maybe ("Some of us sleep"), but she came.
+- The vision began with blood under his door. The chapter ends with her voice through it, alive, and he lies to her: "I'm fine." He can't tell her what her help seemed to cost.
+- It carries her character through: she helps without agreeing.
+- **Continuity:** she has to hear his name earlier. She could be in the room when Marta asks it, or when he tells her at the door.
+
+**B. Marta's own question to the guards.** She'd want to know where Gerolt is now. Decisions has the searchers finding his body, so "Where've they taken him?" is the question a niece would ask. It also gives her a reason to want him back, for later. *Still open:* what the guard answers. That's for the dialogue round, and it may touch who holds the body (the town or the elves).
+
+### The double's words: shapes to start from
+The rule: something true first, then the unfair verdict, and it has to sound like someone who wants something from him, not the novel passing judgement. What it wants is for him to go after his past. Three shapes, as starting points for your own version:
+- **A.** "The old man took you in. Now she has. Count them, Alaric. This is who you are."
+- **B.** "You keep asking who you were. Look around you. This is who you are."
+- **C.** "This is who you are, Alaric. Find out what that means before you sleep under anyone else's roof."
+
+C is the one that pushes him towards his past, and it fits what the double is for. Its last words are also the threat that makes him lie at the door. Your rough version comes first, in the dialogue round.

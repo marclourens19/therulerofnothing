@@ -48,7 +48,7 @@ The story is being re-planned from the beginning. Current work lives in **New - 
   - `Chapter 8 - Dialogue Options.md`, `Chapter 8 - Dialogue Round 2.md` (the approved baseline) and `Chapter 8 - Dialogue Round 3 - Silas Voice.md`: the dialogue round for Chapter 8 (1 October), kept word for word.
   - `Chapter 8 - Working Design.md`: the author's working design for Chapter 8 (1 October), kept word for word.
   - `Chapter 9 - Design.md`: the design of Chapter 9 (started 1 October), Marta's chapter: round 1's questions, and Claude's reviews of the author's working design (rounds 2 and 3).
-  - `Chapter 9 - Working Design.md`: the author's updated working design for Chapter 9 (2 October), kept word for word. The first version, with the review that came with it, is in `Drafts/`.
+  - `Chapter 9 - Working Design.md`: the author's third working design for Chapter 9 (2 October), with the review sent with it, kept word for word. The first two versions are in `Drafts/`.
   - `Marta - Character and Dialogue Handoff (2 October).md`: the author's Marta handoff (her voice, after Baderon), kept word for word.
   - `Chapters 1-7 - Review of the Author's Revision.md`: Claude's review of the author's revised Chapters 1–7 (1 October), with nine questions. The revision itself is listed change by change in `Chapter N - Changes (author's revision).md` for Chapters 1–6; Chapter 7 had no new changes.
   - `Drafts/`: earlier versions of the chapters, kept unchanged.
