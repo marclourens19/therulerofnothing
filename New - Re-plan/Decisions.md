@@ -794,6 +794,36 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
 
   The second version is in `Drafts/`.
 - **Going through the choices one at a time (2 October).** The corrected passages are collected in `Volume 1/Chapter 10 - Selected Dialogue.md`. **1A, revised:** no memory lines; *There's nothing down here to be afraid of, so stop it. You're not six. You can do this. Walk.*; "We'll talk about Cyrandor once we're out of these tunnels."; "I'd keep our hopes modest at best. Stay close, and we'll find our way out together."; the water came from the left; *we can always turn round and try the right*; "Left, then. Lead the way, Nereth."
+  - **Second pass (2 October):** the author asked for English that suits the time and how a princess and a maid speak. The period wording ("We may speak of Cyrandor once we are out of these tunnels", "Lead on, Nereth") is the version in `Chapter 10 - Selected Dialogue.md`.
+- **The author's second workspace (4 October).** The author reworked the chapter's shape there, without this branch's work, which hadn't been merged. On 5 October they pasted two of its files here, and both are kept word for word:
+  - **The working progression**, now `Volume 1/Chapter 10 - Working Progression (4 October).md`. It records "the author's latest chapter shape":
+    - the left first, and the circles, checked against a mark;
+    - Seralune proposes the right-hand tunnel and takes the lamp;
+    - after that, Nereth stops answering;
+    - the dead, and "Help me";
+    - Seralune frees the creature, and Nereth's first words are "Leave it";
+    - **one strangling attempt**, at the creature;
+    - the bite below her left eye frees Seralune;
+    - the fire, held under the arch;
+    - Seralune drags Nereth to the breach on the shawl;
+    - **the port** below, off to one side of the scar, as their destination.
+  - **New author knowledge from it:** the creature was made from Seralune's mana and defends her, but she doesn't learn that. Contact stops formed spells, but not the place's mana, poison or ordinary harm.
+  - **Its twelve dialogue options**, now `Volume 1/Drafts/Chapter 10 - Dialogue Options (other workspace, 4 October).md`.
+- **The 4 October options rejected (5 October).** The author: "they don't sound like the characters they sound like flat text on a page with no emotion just stating things to keep the story moving. And I don't feel the horror, nor do I feel Nereths decent into madness due to mana poisioning. IT just feels like words and then a weird explosion and then done."
+  - **Claude's diagnosis:**
+    - the Alisaie and Ram voices of 2 October never reached that workspace;
+    - the guide to Nereth's descent was dropped, leaving only silence and dragging feet;
+    - Seralune's fear making Nereth worse was never shown;
+    - every fear was soothed at once;
+    - Nereth's Fire never appeared before the blast;
+    - the prose was chopped into report lines.
+- **The key passages (5 October)**, `Volume 1/Chapter 10 - Key Passages (5 October).md`: thirteen passages in order, one version each, so that the descent builds. The author's 1A opens it unchanged, and the 4 October shape is kept. Waiting on the author. *Proposed, not decided:*
+  - after the right tunnel, Nereth never speaks to Seralune, but she isn't silent (she counts, talks to Cyrandor, whispers to her flame, mouths the dead's words);
+  - her speech is the gauge: formal on duty, contractions when she's close or angry, formal again when she recovers;
+  - her Fire is built up before the blast;
+  - she fires it to silence the voices.
+
+  Sixteen new details are listed in the file for a yes or no.
 
 ## Alaric
 

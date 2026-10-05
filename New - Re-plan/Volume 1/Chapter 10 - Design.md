@@ -1,6 +1,6 @@
 # Chapter 10 – Design
 
-Started 2 October 2026. **Status:** the author's direction (below) is now the working design, and it replaces Claude's first proposal, which is kept at the end. Rounds 2 and 3 are answered. At the author's request, the dialogue is now an options file in the layout of the Chapter 9 "Selected Dialogue and Vision": `Chapter 10 - Dialogue Options.md`, sixteen moments in scene order, each with two or three versions of the passage and its prose, with drafting notes at the end. It's waiting on the author's choices and edits. Dialogue rounds 1 and 2 are in `Drafts/`. The working title is **"Beneath Natharul"**, the old chapter's title; the author called it "the Beneath Natharul horror chapter".
+Started 2 October 2026. **Status (5 October):** the shape is the author's of 4 October (below), and the key passages of 5 October are waiting on the author. **Earlier status:** the author's direction (below) is now the working design, and it replaces Claude's first proposal, which is kept at the end. Rounds 2 and 3 are answered. At the author's request, the dialogue is now an options file in the layout of the Chapter 9 "Selected Dialogue and Vision": `Chapter 10 - Dialogue Options.md`, sixteen moments in scene order, each with two or three versions of the passage and its prose, with drafting notes at the end. It's waiting on the author's choices and edits. Dialogue rounds 1 and 2 are in `Drafts/`. The working title is **"Beneath Natharul"**, the old chapter's title; the author called it "the Beneath Natharul horror chapter".
 
 ## Whose chapter
 
@@ -204,6 +204,40 @@ And on the dialogue: "Next refind all dialogoue options you send me and try agai
    - **Adapted:** the god complex is down to one line of contempt.
    - **Left out:** "fuel cells" and "vessels", because with the touch and the parting fire it would point too hard at Seralune.
 3. **The dialogue is rewritten** as `Chapter 10 - Dialogue.md` (round 2), and round 1 is in `Drafts/`.
+
+## The 4 October shape, and the key passages (5 October)
+
+**The author's second workspace (4 October)** reworked the shape. Its working progression is kept word for word in `Chapter 10 - Working Progression (4 October).md`, and it's now the shape this file follows:
+- left first, then the circles, checked against a mark;
+- Seralune proposes the right-hand tunnel and takes the lamp;
+- Nereth stops answering;
+- the dead, and "Help me";
+- Seralune frees the creature, and Nereth's first words are "Leave it";
+- one strangling;
+- the bite frees Seralune;
+- the fire, under the arch;
+- the shawl drag to the breach;
+- the port below.
+
+The old "low opening" and the long Cyrandor quarrel are gone.
+
+**Its dialogue options were rejected (5 October).** The author: "they don't sound like the characters they sound like flat text on a page with no emotion just stating things to keep the story moving. And I don't feel the horror, nor do I feel Nereths decent into madness due to mana poisioning. IT just feels like words and then a weird explosion and then done." The options are in `Drafts/Chapter 10 - Dialogue Options (other workspace, 4 October).md`.
+
+**Why they went flat** (Claude's diagnosis, set out at the top of the key passages file):
+1. The Alisaie and Ram voices of 2 October were on an unmerged branch, so the other workspace never had them.
+2. The guide to Nereth's descent was dropped, leaving only silence and dragging feet.
+3. Seralune's fear making Nereth worse was never shown.
+4. Every fear was soothed at once.
+5. Nereth's Fire never appeared before the blast.
+6. The prose was chopped into report lines.
+
+**The key passages** are in `Chapter 10 - Key Passages (5 October).md`: thirteen passages in order, one version each. Two short options per moment can't carry a slow build. The author's 1A opens them unchanged. They're about 8,300 words, so a chapter built from them would run long; the author's rule allows that when the storytelling needs it. **Waiting on the author:**
+1. Is this the voice?
+2. After the right tunnel, Nereth never speaks to Seralune, but she isn't silent.
+3. The fire's motive: she fires it to make the voices stop.
+4. One version per round from now on, instead of options.
+5. No swearing in this chapter.
+6. The sixteen new details listed at the end of the file.
 
 ---
 

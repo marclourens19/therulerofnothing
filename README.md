@@ -53,6 +53,9 @@ The story is being re-planned from the beginning. Current work lives in **New - 
   - `Chapter 9 - Dialogue.md`: the author's Chapter 9 dialogue and vision (2 October), all seven passages in scene order: the early warning, Gerolt's death, the woman who objects, the guards' interview, the marriage, the welcome, and the vision and waking. The earlier `Selected Dialogue and Vision` and the first version of this file are in `Drafts/`.
   - `Chapter 10 - Design.md`: the design of Chapter 10 (started 2 October), Seralune's "Beneath Natharul". It holds the author's horror direction and round answers, kept word for word, including the guide to Nereth's descent.
   - `Chapter 10 - Dialogue Options.md`: sixteen moments of Chapter 10 in scene order, each in two or three versions with their prose, for the author to choose from and edit. Dialogue rounds 1 and 2 are in `Drafts/`.
+  - `Chapter 10 - Working Progression (4 October).md`: the author's chapter shape from their second workspace (4 October), kept word for word: the right-hand tunnel, Nereth's silence, the attack at the creature and the port.
+  - `Chapter 10 - Selected Dialogue.md`: the author's chosen opening (1A, in period English).
+  - `Chapter 10 - Key Passages (5 October).md`: thirteen passages of Chapter 10 in order, one version each, after the author rejected the 4 October options. Claude's diagnosis of why those went flat is at the top. The rejected options are in `Drafts/`.
   - `Marta - Character and Dialogue Handoff (2 October).md`: the author's Marta handoff (her voice, after Baderon), kept word for word.
   - `Chapters 1-7 - Review of the Author's Revision.md`: Claude's review of the author's revised Chapters 1–7 (1 October), with nine questions. The revision itself is listed change by change in `Chapter N - Changes (author's revision).md` for Chapters 1–6; Chapter 7 had no new changes.
   - `Drafts/`: earlier versions of the chapters, kept unchanged.
