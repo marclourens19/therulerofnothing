@@ -56,6 +56,7 @@ The story is being re-planned from the beginning. Current work lives in **New - 
   - `Chapter 10 - Working Progression (4 October).md`: the author's chapter shape from their second workspace (4 October), kept word for word: the right-hand tunnel, Nereth's silence, the attack at the creature and the port.
   - `Chapter 10 - Selected Dialogue.md`: the author's chosen opening (1A, in period English).
   - `Chapter 10 - Key Passages (5 October).md`: thirteen passages of Chapter 10 in order, one version each, after the author rejected the 4 October options. Claude's diagnosis of why those went flat is at the top. The rejected options are in `Drafts/`.
+  - `Chapter 10 - Key Passages - Changes (horror review).md`: the 62 changes from the horror review of 5 October, each with its before, after and reason, and the proposals waiting for the author's yes or no.
   - `Marta - Character and Dialogue Handoff (2 October).md`: the author's Marta handoff (her voice, after Baderon), kept word for word.
   - `Chapters 1-7 - Review of the Author's Revision.md`: Claude's review of the author's revised Chapters 1–7 (1 October), with nine questions. The revision itself is listed change by change in `Chapter N - Changes (author's revision).md` for Chapters 1–6; Chapter 7 had no new changes.
   - `Drafts/`: earlier versions of the chapters, kept unchanged.

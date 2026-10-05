@@ -839,6 +839,9 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - **Answered (5 October):** "1. keep it 2. leave Cyrandor out".
     - The scream stays as "LEAVE IT!".
     - Cyrandor stays out of the attack. This replaces the 2 October answer 7 ("lashes out over Cyrandor, with words first, then her hands"). He's still in Nereth's head in passage 8 ("I am minding her").
+- **The horror review (5 October).** The author asked for subagents to check the design and the dialogue against the horror they had asked for, with a Re:Zero chapter (Arc 6, the sand-dunes miasma) as the reference for horror and mana poisoning.
+  - Five reviewers found 77 problems, and skeptics kept 56 of them. They became 62 changes, in `Volume 1/Chapter 10 - Key Passages - Changes (horror review).md`. The faults are applied, and the proposals are applied for a yes or no.
+  - Thirteen questions before settling the chapter are in `Volume 1/Chapter 10 - Design.md` ("The horror review"). None is answered yet.
 
 ## Alaric
 

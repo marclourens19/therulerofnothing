@@ -258,6 +258,64 @@ Three judges (the author's ear, the horror, house style and continuity) all chos
 - **Cut,** so that the scream is her last word before her hands: "Look at me when I'm speaking to you", the Cyrandor line, and "You're doing it".
 - **Answered (5 October):** "1. keep it 2. leave Cyrandor out". The scream stays as "LEAVE IT!", and Cyrandor stays out of the attack, which replaces round 2's answer 7.
 
+## The horror review (5 October)
+
+**The author:** "what other questions are needed before settling chpater 10? run subagents through chapter 10 design and dialouge making sure everything is good following the horror reqested". They gave a Re:Zero chapter (Arc 6, the sand-dunes miasma) as "a good refernece chapter for horror and mana poisioning". The text isn't kept in the repository. What Claude took from it:
+- the madness is a real small grievance, amplified ("It's you, you, you!");
+- irritation spreads, and kindness reads as a trap;
+- the body close up during the strangling;
+- the victim's voice stays her own while murderous;
+- the trusted companion turns.
+
+**How it was checked:**
+- Five reviewers read the design and the key passages: horror, Nereth's descent, the voices, continuity, and the fire and aftermath.
+- A skeptic for each lens tried to refute every finding against the files. Of 77 findings, 21 were thrown out and 56 survived.
+- A sixth agent listed every question still open.
+
+**What changed:** 62 changes (59 to the passages, 3 to the notes), listed with before, after and reason in `Chapter 10 - Key Passages - Changes (horror review).md`. The passages before them are in `Drafts/Chapter 10 - Key Passages (5 October, before the horror review).md`.
+- **Faults applied:**
+  - leftover counting;
+  - Nereth's formal speech on duty;
+  - Seralune's voice after the strangling;
+  - the lamp oil and the light after the fire;
+  - the fire's direction;
+  - "Poor Nereth" placed at the wrong spot;
+  - the arch, the door, the steps and the way back;
+  - two comparisons Seralune couldn't make.
+- **Proposals applied for the author's yes or no,** listed under "Your call" in the changes file:
+  - Nereth blames the builders;
+  - "giving me orders since this morning";
+  - kindness read as a trap at the rest;
+  - Nereth walking past Seralune into the dark;
+  - "Not one of them upstairs could do this.";
+  - the burnt wrist under Seralune's hand;
+  - "Stop *looking* at me!";
+  - Nereth rigid and shaking as she spends her mana, and her cold fingers;
+  - the voices not coming back;
+  - her breath at Seralune's ear;
+  - the trees lying flat;
+  - *Nereth, it's the sea.*;
+  - *She told me to leave it.*
+
+**Questions before settling Chapter 10 (5 October),** each with Claude's recommendation:
+1. **Is this the voice?** Yes or no, by passage. *Recommended:* yes.
+2. **Any of the 62 changes or the sixteen new details to reject?** By number.
+3. **Nereth isn't silent after the right tunnel,** though she never answers Seralune. *Recommended:* yes.
+4. **Her speech as the gauge,** from Chapter 10 on, without going back into Chapters 5 and 7. *Recommended:* yes.
+5. **The fire's motive is "Shut up".** *Recommended:* yes.
+6. **Swearing.** *Recommended:* one oath in the world's words during the strangling ("The Last Dark take you"). The alternative is "Your fucking Highness".
+7. **How close the strangling gets, from the reference.** *Recommended:* stay inside Seralune's throat, use no gore, and copy nothing.
+8. **Colours.** *Recommended:* the bite marks are black-purple, as in the handoff, and spread towards her temple and hairline, not her mouth. The fire stays white.
+9. **Does the port react?** *Recommended:* a bell starts ringing in the town as she starts down, and doesn't stop.
+10. **One chapter of about 8,000–9,000 words, or two?** *Recommended:* one. The split, if wanted, goes after "There you are."
+11. **Does Nereth wake as herself in Seralune's next chapter?** *Recommended:* yes.
+12. **Smaller points.**
+    - The last line stays.
+    - The lizard is gone without being seen to die.
+    - The title is "Beneath Natharul".
+    - *How could I be dangerous? I never had magic.* doesn't come in this chapter.
+13. **What comes next.** One version per round from now on. After these answers, Claude says the chapter is ready to write and waits for the go-ahead.
+
 ---
 
 ## Claude's first proposal and round 1 (superseded by the author's direction)
