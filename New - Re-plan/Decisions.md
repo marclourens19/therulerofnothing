@@ -836,7 +836,9 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
     - "Look at me when I'm speaking to you";
     - the Cyrandor line;
     - "every time you go near anything, they get louder. You're doing it."
-  - *To confirm:* this leaves no Cyrandor words in the attack, against the 2 October answer 7 ("lashes out over Cyrandor, with words first, then her hands").
+  - **Answered (5 October):** "1. keep it 2. leave Cyrandor out".
+    - The scream stays as "LEAVE IT!".
+    - Cyrandor stays out of the attack. This replaces the 2 October answer 7 ("lashes out over Cyrandor, with words first, then her hands"). He's still in Nereth's head in passage 8 ("I am minding her").
 
 ## Alaric
 

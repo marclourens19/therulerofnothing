@@ -256,7 +256,7 @@ Applied in passage 11. A judge panel compared three drafts of the stretch from t
 Three judges (the author's ear, the horror, house style and continuity) all chose the third. The best lines from the other two drafts were grafted in, and the judges' faults were fixed.
 - **The scream** is "LEAVE IT!", in capitals with one exclamation mark, as in Chapter 2's "GEROLT!". The prose carries the stretch: she holds the last word until her voice cracks and tears.
 - **Cut,** so that the scream is her last word before her hands: "Look at me when I'm speaking to you", the Cyrandor line, and "You're doing it".
-- **To confirm:** that leaves no Cyrandor words in the attack, against round 2's answer 7.
+- **Answered (5 October):** "1. keep it 2. leave Cyrandor out". The scream stays as "LEAVE IT!", and Cyrandor stays out of the attack, which replaces round 2's answer 7.
 
 ---
 
