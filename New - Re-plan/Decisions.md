@@ -828,7 +828,7 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - **No counting.** All of it is cut: Nereth counting turnings and steps, and Seralune counting hers. It's the second time: Chapter 4 lost its counting too ("I don't like the counting, remove it.").
   - **After the fire, Nereth is blacked out and says nothing** for the rest of the chapter. Her lines at the breach ("Your Highness has ruined the shawl.", "Did I—", "Salt") are gone.
   - **Seralune carries her on her back,** struggling, with her throat half crushed. This replaces the 4 October shawl drag and returns to the author's direction of 2 October ("carries her to the hole", "carrying Nereth down the mountain").
-  - *To confirm:* the 2 October direction had Nereth's mind recover in the fresh air. In the revised passage her breathing is the only change, so does she wake, and come back to herself, in Seralune's next chapter?
+  - *Answered (5 October, "take your recommendations"):* the 2 October direction had Nereth's mind recover in the fresh air. In Chapter 10 her breathing is the only change; she wakes, and comes back to herself, in Seralune's next chapter.
 - **"Leave it" (the author, 5 October),** word for word: "nereth should be like / Leave it / I said leave it alone... / LEAVE IIITTTTTT!!!!! (like she is screaming at seralune like she is about to snap)".
   - **Applied in passage 11.** Nereth's lines are now exactly three: "Leave it.", "I said leave it alone…" and "LEAVE IT!". The scream is set as "LEAVE IT!", in capitals with one exclamation mark, as in Chapter 2's "GEROLT!". The prose carries the stretched letters: she holds the last word until her voice cracks and tears.
   - **How it was built:** a judge panel compared three drafts of the stretch, and all three judges chose the one where Nereth physically closes in between the lines.
@@ -860,7 +860,23 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - **The author's broader notes:**
     - The pairings of her mana rising with Nereth getting worse "accumulate quickly". That "works if you want readers to recognise the danger before she does". *Proposed:* readers see it before she does, as with Alaric and the tear, but from fewer places. Two pairings are cut (changes 63 and 67). *Waiting on the author.*
     - **The fire is a promise.** Readers will expect to learn how Nereth did this. It needn't be explained here, "but later chapters must respect its scale". It's under Open questions (Nereth).
-  - Claude's new lines in this round (changes 63, 67, 73, 77, 78, 80, 81 and 82) are waiting on a yes or no.
+  - Claude's new lines in this round: changes 63, 67, 73, 77, 78, 80, 81 and 82.
+- **Settled, and the go-ahead (5 October).** The author: "take your recommendations, write the full chapter". Every recommendation stands:
+  - **Accepted:** all 62 horror-review changes and the sixteen new details; changes 63–89, Claude's new lines among them.
+  - **Readers see the cause before Seralune does,** as they see Alaric and the tear, from fewer places (changes 63 and 67).
+  - **The fire's explanation stays open** (Open questions, Nereth).
+  - **The horror review's questions 3–13:**
+    3. After the right-hand way, Nereth never answers Seralune, but she isn't silent: she talks to Cyrandor, whispers to her flame and mouths the dead's words.
+    4. **Her speech is the gauge,** from Chapter 10 on, without going back into Chapters 5 and 7 (see Nereth).
+    5. She fires the blast to silence the voices: "Shut up."
+    6. **One oath,** in the world's words, during the strangling. No modern swearing. *Corrected while writing:* the recommendation was "The Last Dark take you", but the Last Dark is Mydea's religion, and the world bible keeps Natharul's own oaths (`Old - Before Re-plan/World Bible/The World.md`, "Natharul oaths", approved 22 September: "Root and crown", "Before the Tree", "May your roots find stone", "Rootless"). So Nereth says "Make them stop, you rootless thing." "Rootless" is Natharul's worst insult: a traitor, an exile, someone with no house. *Waiting on the author (change 93).*
+    7. The strangling stays inside Seralune's throat and body, with no gore, and copies nothing from the reference.
+    8. **Colours:** the bite marks are black-purple and spread towards her temple and into her hair, not towards her mouth. The fire is white.
+    9. **The port reacts:** a bell starts ringing in the town as she starts down, and doesn't stop.
+    10. **One chapter,** about 8,000–9,000 words.
+    11. **Nereth wakes as herself** in Seralune's next chapter.
+    12. The last line stays. The lizard goes into the water and isn't seen to die. The title is "Beneath Natharul". *How could I be dangerous? I never had magic.* waits for a later chapter.
+    13. The chapter is written from the key passages: `Volume 1/Chapter 10 - Beneath Natharul.md`.
 
 ## Alaric
 
@@ -1035,10 +1051,11 @@ Not in the central cast yet, and not locked (handoff §7, §14.3).
 - **Cyrandor's order** (27 September): "Secretly, before meeting Seralune, Cyrandor told Nereth to watch over Seralune: even if she seems dangerous, she is important. Nereth obeys, but is struggling to understand why her." This replaces the old canon that she has nothing to do with the Order.
 - **Her first disobedience of anyone** is still undecided (handoff §15.10). Her first *slip*, from Ram to Revy, comes in the escape (above).
 - **Her corruption begins in Chapter 10** (the author, 2 October).
-  - The aqueduct's mana takes her sense of direction and then her mind. She lashes out at Seralune over Cyrandor and over Seralune's small kindnesses. These outbursts are the mana's, so they aren't her first real refusal of Seralune, which stays later.
-  - A small corrupted lizard bites her face, and the corruption takes hold below her left eye.
-  - With her mind lost, her corrupted fire blasts down the aqueduct and through the side of the mountain, and it spends all her mana.
-  - In the fresh air her mind recovers. The mark stays.
+  - The aqueduct's mana takes her sense of direction and then her mind. She lashes out at Seralune's small kindnesses, and attacks her at the creature ("Leave it." / "I said leave it alone…" / "LEAVE IT!"). Cyrandor stays out of the attack (5 October); he's in her head earlier ("I am minding her"). These outbursts are the mana's, so they aren't her first real refusal of Seralune, which stays later.
+  - A small corrupted lizard bites her face, and the corruption takes hold below her left eye. **The marks are black-purple** and spread towards her temple and into her hair (5 October).
+  - With her mind lost, her corrupted fire blasts down the aqueduct and through the side of the mountain, and it spends all her mana. How a servant's Fire could do this is still open, and later chapters must respect its scale.
+  - She blacks out after the fire. In the fresh air her breathing deepens, and she wakes as herself in Seralune's next chapter. The mark stays.
+- **Her speech is the gauge** (from Chapter 10, 5 October). On duty she speaks formally, with no contractions. Contractions come when she's close to someone or angry. "Your Highness" goes at the attack, and the formality comes back when she recovers. Chapters 5 and 7 aren't changed for it.
 
 ### Redd Vander
 
@@ -1237,7 +1254,6 @@ Not in the central cast yet, and not locked (handoff §7, §14.3).
 
 ### Nereth
 
-- **Her speech as a gauge.** Could the way her speech slips mark both closeness and anger? *(Proposed by Claude.)*
 - **The scale of her Fire in Chapter 10** (the author's note, 5 October). Readers will expect to learn how a servant's Fire opened the side of a mountain. It doesn't need explaining in Chapter 10, but later chapters must respect its scale. *Still open:* the explanation, and when it comes.
 - **Her dream, fulfilled the wrong way.** She finally sees the world, but as a fugitive servant with a spreading corruption, and ends Volume 1 held by the Holy bearer. Should Volume 1 still give her real moments of wonder?
 

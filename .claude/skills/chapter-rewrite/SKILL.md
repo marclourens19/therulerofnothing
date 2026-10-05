@@ -230,6 +230,7 @@ This is the short form. The full rules are in the design bible §2.3 and the old
 - **Typography:** keep 『Affinity』, 『Magic』 and 『Faint』 (the rank; the author, 1 October: "apply 『Faint』 to all chapter where it is used"). The ordinary word "faint" (a faint sound) stays plain. "Magic" is the ancient word, and Alaric thinks it but doesn't say it.
 - **Section breaks:** `---` only for a real shift of time, place or viewpoint. The break after "forgot to breathe" in Chapter 1 is the author's deliberate exception.
 - **Oaths are sparing and varied:** "By the Four", "Four preserve us", "By the Eight", "Before the Eight", "The Last Dark take you", "What in the Last Dark…". Don't repeat the same oath in the same way; Gerolt's "Easy, lad—by the Four" once is enough.
+- **Those are Mydea's.** Natharul has its own (world bible, "Natharul oaths", two or three per Natharul chapter at most): "Root and crown", "Before the Tree", "May your roots find stone" and "Rootless", its worst insult. Never put the Last Dark in a Natharul mouth: Chapter 7's draft and Chapter 10's recommendations both did, and both were caught.
 - **Watch-list:** "not X, but Y", "for a moment", "nothing answered", "almost heard", and the same eyes, hands, breath, jaw, shoulder or silence gesture close together. None of these is banned; check for clusters.
 - **Comparisons:** only from what the viewpoint character has lived through on the page. Say plain things plainly (principle 5).
 - **No horses' smell** (1 October): the author dislikes it. Use other concrete details.

@@ -1,6 +1,6 @@
 # Chapter 10 – Design
 
-Started 2 October 2026. **Status (5 October):** the shape is the author's of 4 October (below). The author would work from the key passages as they stand after the horror review ("around 90/100"), and their six refinements are applied. A few questions remain before the chapter is written ("Your notes on the reviewed passages", below). **Earlier status:** the author's direction (below) is now the working design, and it replaces Claude's first proposal, which is kept at the end. Rounds 2 and 3 are answered. At the author's request, the dialogue is now an options file in the layout of the Chapter 9 "Selected Dialogue and Vision": `Chapter 10 - Dialogue Options.md`, sixteen moments in scene order, each with two or three versions of the passage and its prose, with drafting notes at the end. It's waiting on the author's choices and edits. Dialogue rounds 1 and 2 are in `Drafts/`. The working title is **"Beneath Natharul"**, the old chapter's title; the author called it "the Beneath Natharul horror chapter".
+Started 2 October 2026. **Status (5 October):** written. The author took every recommendation and gave the go-ahead ("take your recommendations, write the full chapter"). The chapter is `Chapter 10 - Beneath Natharul.md`, the agreed key passages joined, with the changes listed in `Chapter 10 - Changes (first draft).md` ("The chapter", below). **Before that:** the shape is the author's of 4 October (below), and the author worked from the key passages as they stood after the horror review ("around 90/100"). **Earlier status:** the author's direction (below) is now the working design, and it replaces Claude's first proposal, which is kept at the end. Rounds 2 and 3 are answered. At the author's request, the dialogue is now an options file in the layout of the Chapter 9 "Selected Dialogue and Vision": `Chapter 10 - Dialogue Options.md`, sixteen moments in scene order, each with two or three versions of the passage and its prose, with drafting notes at the end. It's waiting on the author's choices and edits. Dialogue rounds 1 and 2 are in `Drafts/`. The working title is **"Beneath Natharul"**, the old chapter's title; the author called it "the Beneath Natharul horror chapter".
 
 ## Whose chapter
 
@@ -397,6 +397,20 @@ Three judges (the author's ear, the horror, house style and continuity) all chos
 2. **Claude's new lines:** changes 63, 67, 73, 77, 78, 80, 81 and 82. Yes or no, by number.
 3. **The fire's explanation** is under Open questions in `Decisions.md` (Nereth). *Recommended:* leave it open until a later chapter needs it.
 4. **Questions 3–13 of the horror review** (above) are still open. Answer them by number, or take Claude's recommendations as they stand.
+
+**The author's answer (5 October):** "take your recommendations, write the full chapter". Every recommendation above, and in the horror review's questions, stands. They're recorded in `Decisions.md`.
+
+## The chapter (5 October)
+
+`Chapter 10 - Beneath Natharul.md`, about 8,500 words. It is the key passages joined in order, with their headings and notes taken out, carrying all 89 earlier changes. The joined passages before the last changes are in `Drafts/Chapter 10 - Beneath Natharul (Draft 0, the key passages joined).md`. Read straight through, each passage already starts where the last one stops, so nothing was added to bridge them or to reach a length.
+
+**Changes 90–96** (`Chapter 10 - Changes (first draft).md`):
+- **The answers applied:**
+  - 6, the one oath (93): see below;
+  - 8, the colours (94 and 95): in the flowers' light the marks only look dark, spreading towards her temple and into her hair; in daylight they're black, going purple at their edges;
+  - 9, the bell (96): a bell starts ringing in the town and goes on ringing, just before the last line.
+- **Four faults from the final read-through:** whose step (90), the binding drawn firm once (91), "slept" twice (92).
+- **The oath, corrected.** The recommendation the author took was "The Last Dark take you". But the Last Dark is Mydea's religion, and the world bible keeps Natharul's own oaths ("Root and crown", "Before the Tree", "May your roots find stone", "Rootless"; `Old - Before Re-plan/World Bible/The World.md`, approved 22 September). Chapter 7's draft comparison took the same phrase out of a Natharul servant's mouth. So Nereth says "Make them stop, you rootless thing." "Rootless" is Natharul's worst insult: a traitor, an exile, someone with no house. *Your call.*
 
 ---
 
