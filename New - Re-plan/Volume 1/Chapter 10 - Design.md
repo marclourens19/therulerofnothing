@@ -239,6 +239,13 @@ The old "low opening" and the long Cyrandor quarrel are gone.
 5. No swearing in this chapter.
 6. The sixteen new details listed at the end of the file.
 
+**The author's notes (5 October),** word for word: "I dont like the counting remove it from the dialogue, also after the fire pass nereth cannot say a word she is completely blacked out, Seralune has to carry her on her back struggeling after begin strangeled almost to death".
+
+They're applied in the key passages, and the first version is in `Drafts/Chapter 10 - Key Passages (5 October, first version).md`:
+- **All counting is cut,** Nereth's and Seralune's.
+- **Passage 13 is rewritten.** Nereth never wakes or speaks after the fire. Seralune tries to wake her, then carries her on her back the whole way. The first time, Nereth's arms fall across her throat, and she panics and drops her; after that she holds the wrists low, against her chest. She falls twice, and cries with rage with no voice left to make a sound. The view, the Thaer line and the port stay. The sea pays off in Seralune's thought, *So the laundry women were right.* In the fresh air, Nereth's breathing is the only change.
+- **To confirm:** her mind recovering in the fresh air (2 October) now happens off the page. Does she wake, and come back to herself, in Seralune's next chapter?
+
 ---
 
 ## Claude's first proposal and round 1 (superseded by the author's direction)

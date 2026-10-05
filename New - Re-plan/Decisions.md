@@ -818,12 +818,17 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
     - Nereth's Fire never appeared before the blast;
     - the prose was chopped into report lines.
 - **The key passages (5 October)**, `Volume 1/Chapter 10 - Key Passages (5 October).md`: thirteen passages in order, one version each, so that the descent builds. The author's 1A opens it unchanged, and the 4 October shape is kept. Waiting on the author. *Proposed, not decided:*
-  - after the right tunnel, Nereth never speaks to Seralune, but she isn't silent (she counts, talks to Cyrandor, whispers to her flame, mouths the dead's words);
+  - after the right tunnel, Nereth never speaks to Seralune, but she isn't silent (she talks to Cyrandor, whispers to her flame, mouths the dead's words);
   - her speech is the gauge: formal on duty, contractions when she's close or angry, formal again when she recovers;
   - her Fire is built up before the blast;
   - she fires it to silence the voices.
 
   Sixteen new details are listed in the file for a yes or no.
+- **The author's notes on the key passages (5 October),** word for word: "I dont like the counting remove it from the dialogue, also after the fire pass nereth cannot say a word she is completely blacked out, Seralune has to carry her on her back struggeling after begin strangeled almost to death".
+  - **No counting.** All of it is cut: Nereth counting turnings and steps, and Seralune counting hers. It's the second time: Chapter 4 lost its counting too ("I don't like the counting, remove it.").
+  - **After the fire, Nereth is blacked out and says nothing** for the rest of the chapter. Her lines at the breach ("Your Highness has ruined the shawl.", "Did I—", "Salt") are gone.
+  - **Seralune carries her on her back,** struggling, with her throat half crushed. This replaces the 4 October shawl drag and returns to the author's direction of 2 October ("carries her to the hole", "carrying Nereth down the mountain").
+  - *To confirm:* the 2 October direction had Nereth's mind recover in the fresh air. In the revised passage her breathing is the only change, so does she wake, and come back to herself, in Seralune's next chapter?
 
 ## Alaric
 
