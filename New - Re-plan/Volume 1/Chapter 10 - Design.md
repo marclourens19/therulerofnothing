@@ -1,6 +1,6 @@
 # Chapter 10 – Design
 
-Started 2 October 2026. **Status (5 October):** the shape is the author's of 4 October (below), and the key passages of 5 October are waiting on the author. **Earlier status:** the author's direction (below) is now the working design, and it replaces Claude's first proposal, which is kept at the end. Rounds 2 and 3 are answered. At the author's request, the dialogue is now an options file in the layout of the Chapter 9 "Selected Dialogue and Vision": `Chapter 10 - Dialogue Options.md`, sixteen moments in scene order, each with two or three versions of the passage and its prose, with drafting notes at the end. It's waiting on the author's choices and edits. Dialogue rounds 1 and 2 are in `Drafts/`. The working title is **"Beneath Natharul"**, the old chapter's title; the author called it "the Beneath Natharul horror chapter".
+Started 2 October 2026. **Status (5 October):** the shape is the author's of 4 October (below). The author would work from the key passages as they stand after the horror review ("around 90/100"), and their six refinements are applied. A few questions remain before the chapter is written ("Your notes on the reviewed passages", below). **Earlier status:** the author's direction (below) is now the working design, and it replaces Claude's first proposal, which is kept at the end. Rounds 2 and 3 are answered. At the author's request, the dialogue is now an options file in the layout of the Chapter 9 "Selected Dialogue and Vision": `Chapter 10 - Dialogue Options.md`, sixteen moments in scene order, each with two or three versions of the passage and its prose, with drafting notes at the end. It's waiting on the author's choices and edits. Dialogue rounds 1 and 2 are in `Drafts/`. The working title is **"Beneath Natharul"**, the old chapter's title; the author called it "the Beneath Natharul horror chapter".
 
 ## Whose chapter
 
@@ -315,6 +315,88 @@ Three judges (the author's ear, the horror, house style and continuity) all chos
     - The title is "Beneath Natharul".
     - *How could I be dangerous? I never had magic.* doesn't come in this chapter.
 13. **What comes next.** One version per round from now on. After these answers, Claude says the chapter is ready to write and waits for the go-ahead.
+
+**Answered by the author's notes (5 October):** 1, yes ("I would work from this version"); 2, the six refinements in the next section. Questions 3–13 are still open.
+
+## Your notes on the reviewed passages (5 October)
+
+**The author, word for word:**
+
+> This is a substantial improvement. I'd put these key passages around 90/100. That is a rating of the passages, rather than the finished chapter's pacing, but this version finally has the personal horror you have been asking for.
+> Nereth feels like someone Seralune is gradually losing. Her deterioration grows out of familiar behaviour, and Seralune remains stubborn, frightened and compassionate throughout. I would work from this version.
+> The strongest parts deserve to stay:
+>
+> * The sea conversation. "Now I am in a drain, Your Highness, with a princess" has personality because it answers something Seralune actually asked. Remembering that conversation when they finally see the sea gives the ending an emotional connection to the opening.
+> * Nereth holding an absent hand. She gently withdraws from Seralune to hold something that is not there. The gentleness makes this particularly disturbing.
+> * Straightening the dead servant's collar. This is probably your best horror detail. Nereth continues performing an act of care after its purpose has become horribly confused.
+> * "I was waiting to see whether you would start again." Her response to Seralune apparently stopping breathing is frightening without needing an elaborate threat.
+> * The failed carry. Nereth's unconscious arms touching Seralune's throat brings the strangling back into the rescue. Seralune helping her now has a physical and emotional cost.
+>
+> The strangling itself is substantially more convincing. Seralune struggles, loses strength, injures herself and actively escapes the remaining grip after the bite. The creature creates an opportunity; Seralune still has to use it.
+> There are six places I would refine before drafting the continuous chapter.
+> 1. Seralune becomes implausibly casual at the creature.
+> "Since you're up, hold the lamp for me. I can hardly see what I'm doing."
+> Then:
+> "You're in my light."
+> These sound like Seralune when she is impatient with a functioning maid. But she has already watched Nereth hallucinate, burn herself without responding and stop answering her.
+> Her stubborn refusal to abandon the creature makes sense. Treating Nereth as an ordinary helper again needs a stronger emotional reason. Otherwise, Seralune seems to forget what she has just witnessed so the attack can happen.
+> I would preserve her determination while acknowledging Nereth's condition:
+> "Sit down, Nereth. Your hand's burnt." Seralune bent towards the root again. "I'm nearly finished. Just let me get it free."
+> Alternatively, keep the request for help but show that Nereth speaking to her again gives Seralune a mistaken moment of hope. That would make this a believable misjudgement rather than a lapse in awareness.
+> 2. Her reason for continuing deeper overlooks an established route.
+> And back is the pillar, and the pillar is the circle, and the lamp won't last another time round.
+> Earlier, the passage explicitly establishes that the channel behind the pillar leads towards the arch and palace. Returning does not necessarily mean walking another circle.
+> The more powerful dilemma is already available: the palace is behind them, and returning could mean being sealed again.
+> Something closer to this would acknowledge the actual choice:
+> Back to the pillar. Then the arch, the stairs, the room they had locked her in.
+> There had to be another way out.
+> That can still be a dangerous decision. It simply makes the danger come from Seralune's priorities.
+> 3. Some internal thoughts reproduce the design notes too closely.
+> At the pillar she was sharp. At the mark she was wrong, and by the lamp she was shouting at me, and since the steps she won't even look at me.
+> This is an accurate summary, but the reader has already experienced every stage. It sounds like Seralune reviewing the chapter's progression.
+> The empty-hand moment immediately before it is much stronger. Let that lead to a shorter recognition:
+> She wasn't listening to me any more. She was listening to someone else.
+> Seralune can then decide what to do. You retain her intelligence without having her explain the deterioration back to the reader.
+> I would also reconsider:
+> "Not one of them upstairs could do this."
+> "Go on. Bigger" and her pleasure in the flame already convey dangerous ambition. The additional boast feels like a line inserted to demonstrate another symptom unless you connect it to a particular grievance Nereth has.
+> 4. The copied voices should give Seralune hope, rather than a completed explanation.
+> The dead can't call out. They only say what they've heard.
+> Leading to:
+> Someone down there is alive.
+> She has observed repetition, but she has not established the complete mechanism or proved that the original speaker is still alive.
+> Her decision becomes more affecting if she knows she might be wrong:
+> Something must have said it first.
+> What if it was still down there?
+> She goes because someone might need her. That is enough. It also preserves the uncertainty that makes the voices frightening.
+> 5. The blast occasionally exceeds her available view.
+> "Chamber after chamber blazed up and went black behind it…"
+> This needs a clear line of sight through those chambers. The tunnels have previously included bends, branches and changes in level.
+> You can retain the enormous destruction while restricting what she sees: fire fills the visible channel, vanishes beyond a bend, and successive impacts travel back through the mountain. The breach and ruined slope then reveal its full reach.
+> The aftermath already establishes the scale exceptionally well. The melted opening, broad furrow and trees flattened beyond the burned ground are more persuasive than repeatedly saying she sees everything.
+> The Thaer comparison is not a hard continuity error, but "She had never seen him do anything like this" can suggest she has witnessed smaller demonstrations. If she has never seen his magic, compare this destruction with what she had previously imagined from his reputation.
+> 6. The carry needs one concrete support detail.
+> Holding Nereth's wrists explains how Seralune controls her arms. It does not quite explain how she keeps an unconscious woman's lower body on her back.
+> Establish how she first gets Nereth upright, then show a forearm supporting a thigh or another workable arrangement. Her injured palm does not prevent her using that forearm, although doing so should hurt.
+> Keep the throat-triggered panic. It is the most important part of the carry. I would trim repeated failed attempts before cutting that moment.
+> One broader observation: the connection between Seralune's mana and Nereth's deterioration is now quite visible to the reader. The synchronised surges, reactions and flowers turning towards Seralune accumulate quickly. That works if you want readers to recognise the danger before she does. If the cause should remain mysterious, reduce a few of those repetitions.
+> The fire also creates a significant future promise: readers will expect an explanation for how Nereth produced this extraordinary destruction under these conditions. You do not need to explain it here, but later chapters must respect its scale.
+> The emotional centre is now strong enough to build the chapter around. Nereth's familiar care becomes frightening, Seralune survives her attack, and then Seralune carries her towards the sea she wanted to see. Those connections are what make this version worth keeping.
+
+**What changed:** changes 63–89, in `Chapter 10 - Key Passages - Changes (your notes).md`. The passages before them are in `Drafts/Chapter 10 - Key Passages (5 October, after the horror review).md`.
+- **Your lines, word for word:** "Sit down, Nereth. Your hand's burnt." (69); "Back to the pillar. Then the arch, the stairs, the room they had locked her in. / There had to be another way out." (65); the recognition (64) and the two thoughts about the voices (68), put in her present tense because they're in italics.
+- **Note 1:** Claude used your first option, not the alternative. Her mistaken hope is already there at "Leave it." (*She spoke. She spoke to me.*), so both are in.
+- **Note 2:** checked against Chapter 7. The way back from the arch is the old south stair, where Thaer let her go and the guards went up, so "the stairs" is right. The iron door isn't on it.
+- **Note 3:** "Not one of them upstairs could do this." is cut (it was horror-review change 32). Giving Nereth a grievance against "upstairs" would mean inventing her history.
+- **Note 5:** the roots go dark "as far as she could see"; the white reaches "where the channel turned"; the fire goes round the turn; she feels blows going away through the stone; the wind and the fire come back round the turn; she first sees the grey with stars on the way out. **Thaer:** your answer of 2 October was that she hasn't seen anything of his Dark, so the second sentence now reads "None of them had ever said he could do anything like this."
+- **Note 6:** she sits Nereth against the arch, then takes one knee on her forearm, keeping her cut hand open, and the other foot drags. The first try, where the arms slide off, is cut.
+- **Your broader note:** two pairings are cut, at the shout (63) and before the voice gets louder (67).
+
+**Questions (5 October),** each with Claude's recommendation:
+1. **Should readers see the cause before Seralune does?** *Recommended:* yes, as readers see Alaric and the tear ("The reader suspects; no one on the page can know"), with the two cuts above. If you want it kept mysterious, Claude would also cut the pairing at the burnt sleeve (passage 8) and the first one at the creature (passage 11), leaving the flowers and the strangling.
+2. **Claude's new lines:** changes 63, 67, 73, 77, 78, 80, 81 and 82. Yes or no, by number.
+3. **The fire's explanation** is under Open questions in `Decisions.md` (Nereth). *Recommended:* leave it open until a later chapter needs it.
+4. **Questions 3–13 of the horror review** (above) are still open. Answer them by number, or take Claude's recommendations as they stand.
 
 ---
 

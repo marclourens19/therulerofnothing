@@ -57,6 +57,7 @@ The story is being re-planned from the beginning. Current work lives in **New - 
   - `Chapter 10 - Selected Dialogue.md`: the author's chosen opening (1A, in period English).
   - `Chapter 10 - Key Passages (5 October).md`: thirteen passages of Chapter 10 in order, one version each, after the author rejected the 4 October options. Claude's diagnosis of why those went flat is at the top. The rejected options are in `Drafts/`.
   - `Chapter 10 - Key Passages - Changes (horror review).md`: the 62 changes from the horror review of 5 October, each with its before, after and reason, and the proposals waiting for the author's yes or no.
+  - `Chapter 10 - Key Passages - Changes (your notes).md`: changes 63–89, from the author's notes on the reviewed passages (5 October): the six refinements, two cuts to the mana pairings, and the notes updated to match.
   - `Marta - Character and Dialogue Handoff (2 October).md`: the author's Marta handoff (her voice, after Baderon), kept word for word.
   - `Chapters 1-7 - Review of the Author's Revision.md`: Claude's review of the author's revised Chapters 1–7 (1 October), with nine questions. The revision itself is listed change by change in `Chapter N - Changes (author's revision).md` for Chapters 1–6; Chapter 7 had no new changes.
   - `Drafts/`: earlier versions of the chapters, kept unchanged.

@@ -841,7 +841,26 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
     - Cyrandor stays out of the attack. This replaces the 2 October answer 7 ("lashes out over Cyrandor, with words first, then her hands"). He's still in Nereth's head in passage 8 ("I am minding her").
 - **The horror review (5 October).** The author asked for subagents to check the design and the dialogue against the horror they had asked for, with a Re:Zero chapter (Arc 6, the sand-dunes miasma) as the reference for horror and mana poisoning.
   - Five reviewers found 77 problems, and skeptics kept 56 of them. They became 62 changes, in `Volume 1/Chapter 10 - Key Passages - Changes (horror review).md`. The faults are applied, and the proposals are applied for a yes or no.
-  - Thirteen questions before settling the chapter are in `Volume 1/Chapter 10 - Design.md` ("The horror review"). None is answered yet.
+  - Thirteen questions before settling the chapter are in `Volume 1/Chapter 10 - Design.md` ("The horror review"). The author's notes below answer 1 and 2; questions 3–13 are still open.
+- **The author's notes on the reviewed passages (5 October),** kept word for word in the design file. "This is a substantial improvement. I'd put these key passages around 90/100… this version finally has the personal horror you have been asking for." "I would work from this version."
+  - **What to keep (the author's list):**
+    - the sea conversation, paid off when they see the sea;
+    - Nereth holding an absent hand;
+    - straightening the dead servant's collar ("probably your best horror detail");
+    - "I was waiting to see whether you would start again";
+    - the failed carry, with Nereth's arms across Seralune's throat;
+    - the strangling, where Seralune fights, weakens, hurts herself, and breaks the last of the grip herself after the bite.
+  - **Six refinements, applied as changes 63–82** in `Volume 1/Chapter 10 - Key Passages - Changes (your notes).md`:
+    1. **At the creature, she no longer treats Nereth as a maid on duty.** The author's line: "Sit down, Nereth. Your hand's burnt." … "I'm nearly finished. Just let me get it free." "You're in my light" is cut.
+    2. **Why she goes deeper** (the author's lines): "Back to the pillar. Then the arch, the stairs, the room they had locked her in. / There had to be another way out."
+    3. **A shorter recognition** (the author's line, put in her thought tense): *She isn't listening to me any more. She's listening to someone else.* "Not one of them upstairs could do this." is cut, because nothing on the page gives Nereth that grievance.
+    4. **The copied voices give hope, not an explanation** (the author's lines): *Something must have said it first.* / *What if it's still down there?*
+    5. **The blast stays within what she can see.** The white reaches as far as the turn, the fire goes round it, and she feels the blows going away through the stone. The breach and the slope show how far it reached. The Thaer line's second sentence becomes "None of them had ever said he could do anything like this.", because she has never seen his Dark (round 2, answer 2).
+    6. **The carry:** she sits Nereth against the arch, and takes one knee on her forearm while the other foot drags. The first try, where the arms slide off, is cut; the throat panic stays.
+  - **The author's broader notes:**
+    - The pairings of her mana rising with Nereth getting worse "accumulate quickly". That "works if you want readers to recognise the danger before she does". *Proposed:* readers see it before she does, as with Alaric and the tear, but from fewer places. Two pairings are cut (changes 63 and 67). *Waiting on the author.*
+    - **The fire is a promise.** Readers will expect to learn how Nereth did this. It needn't be explained here, "but later chapters must respect its scale". It's under Open questions (Nereth).
+  - Claude's new lines in this round (changes 63, 67, 73, 77, 78, 80, 81 and 82) are waiting on a yes or no.
 
 ## Alaric
 
@@ -1219,6 +1238,7 @@ Not in the central cast yet, and not locked (handoff §7, §14.3).
 ### Nereth
 
 - **Her speech as a gauge.** Could the way her speech slips mark both closeness and anger? *(Proposed by Claude.)*
+- **The scale of her Fire in Chapter 10** (the author's note, 5 October). Readers will expect to learn how a servant's Fire opened the side of a mountain. It doesn't need explaining in Chapter 10, but later chapters must respect its scale. *Still open:* the explanation, and when it comes.
 - **Her dream, fulfilled the wrong way.** She finally sees the world, but as a fugitive servant with a spreading corruption, and ends Volume 1 held by the Holy bearer. Should Volume 1 still give her real moments of wonder?
 
 ### Veiled Affinities

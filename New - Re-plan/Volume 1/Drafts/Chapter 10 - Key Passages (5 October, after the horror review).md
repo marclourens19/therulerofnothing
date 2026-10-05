@@ -1,6 +1,6 @@
 # Chapter 10 — Key Passages
 
-5 October 2026, revised the same day after the author's notes (no counting; after the fire Nereth is blacked out and Seralune carries her). Then came the horror review: 62 changes, each listed in `Chapter 10 - Key Passages - Changes (horror review).md`. Then came your notes on that version, which you said you would work from: changes 63 onward, in `Chapter 10 - Key Passages - Changes (your notes).md`. Earlier versions are in `Drafts/`. These replace the 4 October options, which the author rejected: "they don't sound like the characters… flat text on a page with no emotion… I don't feel the horror, nor do I feel Nereth's descent into madness… it just feels like words and then a weird explosion and then done."
+5 October 2026, revised the same day after the author's notes (no counting; after the fire Nereth is blacked out and Seralune carries her). Then came the horror review: 62 changes, each listed in `Chapter 10 - Key Passages - Changes (horror review).md`. Earlier versions are in `Drafts/`. These replace the 4 October options, which the author rejected: "they don't sound like the characters… flat text on a page with no emotion… I don't feel the horror, nor do I feel Nereth's descent into madness… it just feels like words and then a weird explosion and then done."
 
 **This isn't the chapter.** It's the chapter's key passages, in order, in **one version each** instead of two. Two short options per moment can't build anything: a descent into madness only works if you can feel each step land on the one before it. So read it straight through. Then keep, cut or rewrite any passage or line, by number.
 
@@ -20,7 +20,7 @@ It follows the 4 October shape: the left first, the circles, the right-hand tunn
 - **The voices.** Seralune gives orders, scolds herself, reasons and hits back. She says sorry only when she's wrong. Nereth is dry and politely superior, with "Your Highness" on the front of a cutting line.
 - **Nereth's speech is the gauge.** On duty she speaks formally, with no contractions ("Your Highness did not ask"). They come when she's close to Seralune (the sea) and when she's angry (the lamp). After the right tunnel she never speaks to Seralune, but she isn't silent: she talks to Cyrandor, whispers to her flame and mouths the dead's words. Her first words to Seralune are "Leave it." After the fire she's blacked out and says nothing more, so the formality coming back is saved for when she wakes.
 - **One new kind of wrong at each step**, from your guide (table below). She does something the reader has already seen her do well, and does it wrong.
-- **The cause is on the page.** When Seralune's mana crowds up, Nereth gets worse in the same moment. The reader can see the pattern before Seralune does, and she never puts it together.
+- **The cause is on the page.** Each time Seralune's mana crowds up, Nereth gets worse in the same moment. The reader can see the pattern; Seralune never puts it together.
 - **The place has rules she half understands.** The flowers turn to her, not to the lamp. The dead repeat what they've heard, including her.
 - **The fire is built rung by rung.** It goes from a flame bigger than Nereth meant, to a blistered thumb, to a burning sleeve she doesn't feel, to the blast. She fires it to make the voices stop.
 
@@ -347,7 +347,7 @@ She had let everyone lead her since she woke. Thaer had taken her up the stairs 
 
 "*Neither do you!* That's my mark, and we keep walking past it!"
 
-It went off down every opening at once and came back to them out of all of them, a little late, in pieces. Nereth's fingers tightened on the handle until the flame shook in its glass.
+It went off down every opening at once and came back to them out of all of them, a little late, in pieces. Seralune's mana had come up under her ribs with the shout, and Nereth's fingers tightened on the handle until the flame shook in its glass.
 
 "Give me the lamp. That's an order."
 
@@ -377,7 +377,7 @@ Nereth opened her eyes. She looked at Seralune for a while, the way she might ha
 
 ## 8. The right tunnel: no answer
 
-*The 4 October silence, with Nereth still in it. She stops answering Seralune, but she isn't silent. Seralune sees that Nereth is listening to someone else, and goes on anyway, because the way back leads to the room they locked her in.*
+*The 4 October silence, with Nereth still in it. She stops answering Seralune, but she isn't silent. Seralune works out that it's this place, and chooses to go on anyway.*
 
 The steps gave onto a long slope, with the channel running down beside it, and the water in the channel had begun to move again, slowly, the same way they were going.
 
@@ -423,13 +423,11 @@ Then she took hers away, gently, as though Seralune's had been in its way, and c
 
 Seralune stood with her own hand held out and empty.
 
-*She isn't listening to me any more. She's listening to someone else.*
+*She was herself at the arch.* She made herself go back over it, the way she would have gone over a lesson. *At the pillar she was sharp. At the mark she was wrong, and by the lamp she was shouting at me, and since the steps she won't even look at me. It's this place. The longer she's in it, the less of her there is.*
 
-She looked back up the slope. The light didn't even reach the bend now.
+She looked back up the slope. The light didn't even reach the bend any more.
 
-Back to the pillar. Then the arch, the stairs, the room they had locked her in.
-
-There had to be another way out.
+*And back is the pillar, and the pillar is the circle, and the lamp won't last another time round.*
 
 She turned and went on down.
 
@@ -437,7 +435,7 @@ Some time later there was more light than the lamp's.
 
 Nereth had stopped, and was looking down into her own right hand. She had opened the fingers at last, and in her palm there was a flame the size of an egg, steady and yellow, and she was watching it with her head a little on one side and the corner of her mouth turned up, the way it had turned up over the sea.
 
-"Go on," she whispered to it. "Bigger."
+"Go on," she whispered to it. "Bigger. Not one of them upstairs could do this."
 
 It grew while Seralune watched. It crept over the edge of her palm and up her wrist, and the cuff of her sleeve caught.
 
@@ -515,7 +513,7 @@ Nereth got up, stepped over the dead woman's legs without looking down, and went
 
 ## 10. "Help me"
 
-*The dead repeat what they've heard, and they repeat Seralune. Nereth's lips move with them. Seralune guesses that something said it first, and goes after it, though she may be wrong.*
+*The dead repeat what they've heard, and they repeat Seralune. Nereth's lips move with them. Seralune reasons her way to someone alive, and goes after it.*
 
 They had passed a great many of the dead when one of them spoke.
 
@@ -551,15 +549,15 @@ Nereth was a pace behind her, looking past her down the passage, and her lips we
 
 *Help me. Help me.*
 
-The girl's voice came again from further down, louder than it had been yet.
+Seralune's mana came up under her ribs, cold and full, and the girl's voice came again from further down, louder than it had been yet.
 
 "Help me."
 
 Seralune made herself think.
 
-*Something must have said it first.*
+*The dead can't call out. They only say what they've heard. Then something said it first, and it's still saying it, down there, and every mouth between here and there is only passing it on.*
 
-*What if it's still down there?*
+*Someone down there is alive. They've been calling and calling, and nobody's come.*
 
 She knew what Nereth would have said, the Nereth at the arch. She would have kept their hopes modest. Modest at best.
 
@@ -603,11 +601,13 @@ Then cloth dragged on stone. When Seralune turned her head, Nereth was getting u
 
 It was lower than before, and it shook. There was no "Your Highness" on it. Even shouting at her by the lamp, Nereth had called her that.
 
-"Sit down, Nereth. Your hand's burnt." Seralune bent towards the root again. "I'm nearly finished. Just let me get it free."
+"I heard you," Seralune said, and bent to the root again. "I'm not leaving it under there. Since you're up, hold the lamp for me. I can hardly see what I'm doing."
 
 With her head down, she heard Nereth come away from the wall: the flat, heavy steps she had listened to all the way down the slope, with one shoe scraping between them. They came as far as the lamp, and didn't stop there.
 
-Then the light went off her hands, and Nereth's shadow lay over the hollow. Seralune looked up.
+Then the light went off her hands, and Nereth's shadow lay over the hollow.
+
+"You're in my light," Seralune said, and looked up.
 
 Nereth was standing over her. Her burnt hand hung at her side, level with Seralune's face, with the cuff still stuck to the wrist, and its fingers kept opening and closing. Her eyes weren't on the lizard any more. They were on Seralune.
 
@@ -697,7 +697,7 @@ Nereth took her hand away from her mouth and turned her face towards them.
 
 ## 12. The fire
 
-*She fires it to silence the voices. The blast comes in the order Seralune would feel it: the air pulled in, the light, a silence, then the weight of the sound, the blows going away into the mountain, the wind, the fire coming back round the turn. She sees only as far as the channel runs straight. When it's over, the voices have stopped.*
+*She fires it to silence the voices. The blast comes in the order Seralune would feel it: the air pulled in, the light, a silence, then the weight of the sound, the mountain opening, the fire coming back. When it's over, the voices have stopped.*
 
 "Shut up," Nereth said, in her own voice.
 
@@ -713,11 +713,11 @@ The air went.
 
 It rushed past Seralune's face all at once, towards Nereth's hand, and dragged her hair forward over her eyes and the breath out of her chest. The water in the channel humped up and ran towards them. Every white flower on every wall bent on its stem towards that hand.
 
-Then the light in the roots went out, all of it, as far as she could see, at once, and the only light left was in Nereth's palm, and it was white.
+Then the light in the roots went out, all of it, from one end of the channel to the other, at once, and the only light left was in Nereth's palm, and it was white.
 
 Seralune never saw it leave her hand.
 
-There was white everywhere, and in it she could see everything at once: every root and every stone, and every one of the dead along the walls with their faces and their open mouths, all the way to where the channel turned, as clear as noon.
+There was white everywhere, and in it she could see everything at once: every root and every stone, every one of the dead along the walls with their faces and their open mouths, down the whole length of the channel and further, much further than she had known there was any channel to go, as clear as noon.
 
 Then she couldn't see anything.
 
@@ -733,17 +733,15 @@ Nereth had gone rigid in her arms, with her arm out straight towards the channel
 
 When she could see again, the fire was going away from them.
 
-It filled the channel from wall to wall and tore down it faster than she had ever seen anything move, and everywhere it reached, the walls lit from inside. The roots flared white. The dead burned. The water in the channel burst up white and was carried away with it. Then it was gone round the turn, and behind it the channel was black.
+It filled the channel from wall to wall and tore down it faster than she had ever seen anything move, and everywhere it reached, the walls lit from inside. The roots flared white. The dead burned. The water in the channel burst up white and was carried away with it. Chamber after chamber blazed up and went black behind it, further and further into the mountain, until it was a single point of light so far off that she couldn't believe it was the same fire, and then it struck something.
 
-From somewhere past the turn, a blow came back to her through the stone, under her and through the arch at her back. Another came after it, further off, and another further still, each one fainter than the last, going away from her into the mountain.
-
-The mountain answered. She felt it before she understood it: a long, deep shudder that began far off and came back up through the stone towards her.
+The mountain answered. She felt it before she understood it: a long, deep shudder that began far off and came back up through the stone towards her. At the very end of the channel, where the point of light had been, there was a different light now. It was grey and very faint, and there were stars in it.
 
 The wind came in.
 
-It came up the channel from round the turn, cold, and tasting of something she didn't know, and the fire came back with it.
+It came up the channel from that far grey place, cold, and tasting of something she didn't know, and the fire came back with it.
 
-It rolled round the turn and up the channel towards them, filling it from side to side, and there was nowhere to go. There was the arch at her back and the wall beside her and Nereth in her arms, and that was all there was.
+It rolled up the channel towards them, filling it from side to side, and there was nowhere to go. There was the arch at her back and the wall beside her and Nereth in her arms, and that was all there was.
 
 Seralune pulled Nereth's head in against her chest, put her own face down into Nereth's hair and shut her eyes.
 
@@ -765,7 +763,7 @@ She listened under all of it for the voices.
 
 They didn't come. Not from the walls, and not from Nereth.
 
-Here and there along the walls, a root was still burning in a crack, small and low. It was the only light left.
+Here and there along the walls, a root was still burning in a crack, small and low. It was the only light left, except the grey at the far end.
 
 Nereth stopped shaking. Her arm came down across Seralune's knees, and lay there.
 
@@ -781,7 +779,7 @@ The breath came again. That was all.
 
 ## 13. Out
 
-*Your answer of 5 October: after the fire, Nereth is blacked out and can't say a word, and Seralune carries her on her back, struggling, after being strangled almost to death. Your Thaer line keeps its first sentence; the second follows your note. The port.*
+*Your answer of 5 October: after the fire, Nereth is blacked out and can't say a word, and Seralune carries her on her back, struggling, after being strangled almost to death. Your Thaer line is kept word for word. The port.*
 
 She tried to wake her first.
 
@@ -789,7 +787,7 @@ She shook her by the shoulder, and pinched the back of Nereth's hand as hard as 
 
 *Then I'll carry you.*
 
-Getting her onto her back took longer than anything Seralune had ever done. She eased herself out from behind Nereth and sat her up against the foot of the arch, and Nereth's head fell forward. Seralune knelt in front of her, facing away, pulled the arms over her shoulders and leaned forward until Nereth's weight fell against her back, and caught both wrists in her good hand, under her chin.
+Getting her onto her back took longer than anything Seralune had ever done. She knelt with her back to Nereth and pulled Nereth's arms over her shoulders, one and then the other, and they slid off again, because there was no one in them to hold on. She tried again. This time she leaned forward until Nereth's weight fell against her back, and caught both of Nereth's wrists in her good hand, under her chin.
 
 Nereth's arms lay across her throat.
 
@@ -799,25 +797,25 @@ She stayed on her hands and knees with her head down, dragging air in. Every bre
 
 *It's an arm. It's only her arm. She can't hurt anyone now.*
 
-She sat Nereth up against the arch again and knelt in front of her, facing away. She pulled the arms over her shoulders and drew the wrists down, well below her collarbone, and held them there against her chest with her good hand, where they couldn't touch her throat. Then she reached back with her other arm and hooked it under Nereth's knee, keeping her cut hand open so that the weight lay along her forearm. The cut pulled under its binding all the same. She got one foot under her, and then the other. It took her three tries to stand.
+She knelt with her back to Nereth again. She pulled the arms over her shoulders and drew the wrists down, well below her collarbone, and held them there against her chest, where they couldn't touch her throat. She got one foot under her, and then the other. It took her three tries to stand.
 
-Nereth's other foot dragged on the stone behind her. Her head hung against Seralune's ear, and her breath came there, small and wet. Every time it caught, Seralune went still and waited for it to be words. It never was. She was so much heavier than Seralune had thought anyone could be. Seralune's legs had been shaking since the floor by the hollow, and now they shook worse. The shoulder the arch had struck had feeling in it again, and all of it was pain.
+Nereth's feet dragged on the stone behind her. Her head hung against Seralune's ear, and her breath came there, small and wet. Every time it caught, Seralune went still and waited for it to be words. It never was. She was so much heavier than Seralune had thought anyone could be. Seralune's legs had been shaking since the floor by the hollow, and now they shook worse. The shoulder the arch had struck had feeling in it again, and all of it was pain.
 
 She took a step, and another. The heat of the stone came up through the soft soles of her shoes, so that she couldn't stand still on it for long.
 
-The channel was bare now, black, and the stone ticked as it cooled. By the roots still burning in the cracks she could see that where the dead had been, there were only shapes on the walls, paler than the stone round them, and one of them still had its knees drawn up. She didn't look at them for long. She kept her face in the wind, and looked at the next place to put her feet.
+The channel was bare now, black, and the stone ticked as it cooled. By the roots still burning in the cracks she could see that where the dead had been, there were only shapes on the walls, paler than the stone round them, and one of them still had its knees drawn up. She didn't look at them for long. She looked at the grey at the end of the channel, and at the next place to put her feet.
 
 Her knees went from under her without any warning, and somehow she kept Nereth on her back, and stayed there, bent over, until the grey spots had gone out of her eyes. Further on, her foot turned on loose stone, and she pitched forward onto her good hand, on stone still hot enough to sting, and Nereth went over her shoulder onto the rock. Getting her up again took so long that Seralune cried with rage doing it, without a sound, because she had no voice left to make one.
 
 *Get up. You're not finished. Get up.*
 
-The wind was in her face the whole way. She had gone round the turn and a long way past it before she saw where it came from: a grey place at the end of the channel, very faint, with stars in it. Somewhere along the way the stars went out of it, and it was only grey, and the grey grew until it stopped being a far-off light and became a ragged hole with sides to it, and then there were no sides, and she was out on broken stone in the open air. Her legs went. She let Nereth down off her back onto the stone, as gently as she could, which wasn't very.
+The wind was in her face the whole way. Somewhere along it, the stars went out of the far grey place, and it was only grey, and the grey grew until it stopped being a far-off light and became a ragged hole with sides to it, and then there were no sides, and she was out on broken stone in the open air. Her legs went. She let Nereth down off her back onto the stone, as gently as she could, which wasn't very.
 
 She lifted her head and looked.
 
 The mountain had been opened. She had to tip her head right back to see the top of the hole they had come out of, and its edges had melted and run down and set hard again, and they still shone. Below it, where the side of the mountain should have been, a long black furrow ran away down the slope, wider than any road she had ever seen: broken rock and burnt earth and the stumps of trees, with fires still burning along both its edges and smoke going up from them, all the way down until she lost it in the grey. Beyond the fires, the trees hadn't burned. They lay flat, every one of them, all pointing the same way, away from the hole, as far as the firelight reached.
 
-All her life, people had said there was nobody in Natharul like Thaer. None of them had ever said he could do anything like this.
+All her life, people had said there was nobody in Natharul like Thaer. She had never seen him do anything like this.
 
 She looked down at Nereth's hand, lying open on the stone, and couldn't make the two things fit.
 
@@ -852,12 +850,12 @@ Each of these is new. Say yes or no, or change it.
 5. **The failed rest** (6): "You stopped breathing, Your Highness. I was waiting to see whether you'd start again." / "And if I hadn't?" She doesn't answer.
 6. **"Oh. There you are."** (7), at the top of the steps, to nobody.
 7. **Cyrandor in her head** (8): "I am minding her. I haven't let go of her once." Her hand closed round nothing, and taken back from Seralune's. Cyrandor's secret order isn't revealed.
-8. **Seralune sees that Nereth is listening to someone else** (8), and goes on anyway, because back is the arch, the stairs and the room they locked her in. She doesn't know that deeper is worse.
+8. **Seralune works out it's the place** (8) and goes on anyway, because back is the circle and the oil is low. She doesn't know that deeper is worse.
 9. **The flowers turn to Seralune, not to the lamp** (9). It's evidence she can't add up.
 10. **Nereth treads on a creature and tucks in a dead woman's collar** (9), as she tucked in the shawl in Chapter 7.
-11. **The dead repeat Seralune's own words** (10), and Nereth mouths "help me" with them. Seralune guesses that something said it first, and goes, though she may be wrong.
-12. **Round your three lines** (11): Seralune's relief ("half a laugh") and "Once it's loose, they'll stop."; Nereth getting up the wall; Seralune noticing there's no "Your Highness"; "Sit down, Nereth. Your hand's burnt." (your line); the steps that don't stop at the lamp; the scream held until her voice tears, with her burnt hand up by Seralune's head; Seralune's flinch freeing the lizard; "Don't you scream at me."; Nereth's wet face and bared teeth. The dead scream when Seralune's mana surges. **Cut:** "Look at me when I'm speaking to you", the Cyrandor line and "You're doing it", so the scream is her last word before her hands.
+11. **The dead repeat Seralune's own words** (10), and Nereth mouths "help me" with them. Seralune reasons that something said it first.
+12. **Round your three lines** (11): Seralune's relief ("half a laugh") and "Once it's loose, they'll stop."; Nereth getting up the wall; Seralune noticing there's no "Your Highness"; the steps that don't stop at the lamp; "You're in my light"; the scream held until her voice tears, with her burnt hand up by Seralune's head; Seralune's flinch freeing the lizard; "Don't you scream at me."; Nereth's wet face and bared teeth. The dead scream when Seralune's mana surges. **Cut:** "Look at me when I'm speaking to you", the Cyrandor line and "You're doing it", so the scream is her last word before her hands.
 13. **The fire's motive** (12): "Shut up." She fires at the voices.
-14. **The blast in order** (12): the air pulled in, the flowers bending and going out, the white, only as far as the turn, the silence, the weight, the blows going away into the mountain, the wind, the fire coming back round the turn. Afterwards, the voices don't come back.
-15. **The carry** (13), on your answer: Seralune tries to wake her, and sits her against the arch; Nereth's arms across her throat make her panic and drop her; she holds the wrists low, against her chest, and takes one knee on her forearm while the other foot drags; she falls, and cries with rage with no voice left. In the fresh air, Nereth's only change is her breathing.
+14. **The blast in order** (12): the air pulled in, the flowers bending and going out, the white, the silence, the weight, the mountain, the wind, the fire coming back. Afterwards, "The voices had stopped."
+15. **The carry** (13), on your answer: Seralune tries to wake her; Nereth's arms across her throat make her panic and drop her; she holds the wrists low, against her chest; she falls, and cries with rage with no voice left. In the fresh air, Nereth's only change is her breathing.
 16. **Left out on purpose:** Seralune's mana moving as the fire parts (it points too hard at her), and any swearing.
