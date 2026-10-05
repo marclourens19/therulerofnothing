@@ -246,6 +246,18 @@ They're applied in the key passages, and the first version is in `Drafts/Chapter
 - **Passage 13 is rewritten.** Nereth never wakes or speaks after the fire. Seralune tries to wake her, then carries her on her back the whole way. The first time, Nereth's arms fall across her throat, and she panics and drops her; after that she holds the wrists low, against her chest. She falls twice, and cries with rage with no voice left to make a sound. The view, the Thaer line and the port stay. The sea pays off in Seralune's thought, *So the laundry women were right.* In the fresh air, Nereth's breathing is the only change.
 - **To confirm:** her mind recovering in the fresh air (2 October) now happens off the page. Does she wake, and come back to herself, in Seralune's next chapter?
 
+**"Leave it" (the author, 5 October),** word for word: "nereth should be like / Leave it / I said leave it alone... / LEAVE IIITTTTTT!!!!! (like she is screaming at seralune like she is about to snap)".
+
+Applied in passage 11. A judge panel compared three drafts of the stretch from the hollow to the tackle:
+- Seralune's relief curdling;
+- the place answering the scream;
+- Nereth's body closing in between the lines.
+
+Three judges (the author's ear, the horror, house style and continuity) all chose the third. The best lines from the other two drafts were grafted in, and the judges' faults were fixed.
+- **The scream** is "LEAVE IT!", in capitals with one exclamation mark, as in Chapter 2's "GEROLT!". The prose carries the stretch: she holds the last word until her voice cracks and tears.
+- **Cut,** so that the scream is her last word before her hands: "Look at me when I'm speaking to you", the Cyrandor line, and "You're doing it".
+- **To confirm:** that leaves no Cyrandor words in the attack, against round 2's answer 7.
+
 ---
 
 ## Claude's first proposal and round 1 (superseded by the author's direction)

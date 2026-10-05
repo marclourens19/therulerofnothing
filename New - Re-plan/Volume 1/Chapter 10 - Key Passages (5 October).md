@@ -39,7 +39,7 @@ It follows the 4 October shape: the left first, the circles, the right-hand tunn
 | 8 | Talks to Cyrandor, holds a hand that isn't there, lets her sleeve burn | obsession; time; grandiosity; loss of fear | never to Seralune |
 | 9 | Treads on a creature; tucks a dead woman's collar | loss of empathy | none |
 | 10 | Mouths "help me" with the dead | the second voice | none |
-| 11 | "Leave it" → "You're doing it" → her hands | paranoia → rage | "Your Highness" gone |
+| 11 | "Leave it." → "I said leave it alone…" → "LEAVE IT!" → her hands | paranoia → rage | "Your Highness" gone |
 | 11–12 | The girl's voice comes out of her; "Shut up" | the second voice; loss of fear | |
 | 13 | Blacked out; only her breathing changes in the fresh air | (spent) | silent |
 
@@ -565,7 +565,7 @@ Seralune lifted the lamp and went towards the voice. After three steps she looke
 
 ## 11. The creature; "Leave it"; the bite
 
-*The long silence breaks. Nereth's paranoia is half right, and that's what makes it frightening: every time Seralune's mana surges, the voices get louder and Nereth gets worse. One strangling. The creature bites.*
+*The long silence breaks with your three lines (5 October): "Leave it." / "I said leave it alone…" / "LEAVE IT!" The scream is the edge she goes over. One strangling. The creature bites.*
 
 The voices led her to an old arch over the channel, where the ledge widened into a floor of bare stone, and there they stopped.
 
@@ -587,39 +587,41 @@ Her heart jumped so hard that it hurt.
 
 *She spoke. She spoke to me.*
 
-She looked round. Nereth was sitting against the wall with her eyes on the lizard.
+She looked round. Nereth was sitting where she had dropped, with her burnt hand still pressed to her ear and her eyes on the lizard, but the voice had been her own, the even one she had used on the guards with their swords out.
 
-"Nereth—"
+"It's only calling because it's caught, Nereth." Seralune was so glad to hear her that it came out as half a laugh. "Once it's loose, they'll stop."
 
-"Leave it there."
+She turned back and leaned on the stone until the root gave a little. The lizard heaved, and behind her the dead said it again.
 
-"It's only caught. Give me a moment, and I'll—"
+"Help me."
 
-"I said *leave it*."
+Then cloth dragged on stone. When Seralune turned her head, Nereth was getting up. She pushed herself up the wall a little at a time, with her burnt hand still at her ear and the other spread flat on the stone beside her, and when she was on her feet, the burnt hand came down.
 
-The root shifted. Seralune leaned on the stone.
+"I said leave it alone…"
 
-"Get up." Nereth's voice was climbing. "Get away from it. Get *up*."
+It was lower than before, and it shook. There was no "Your Highness" on it. Even shouting at her by the lamp, Nereth had called her that.
 
-"I've nearly done it!"
+"I heard you," Seralune said, and bent to the root again. "I'm not leaving it under there. Since you're up, hold the lamp for me. I can hardly see what I'm doing."
 
-The root lifted. The leg came free all at once, and the lizard was out of the hollow and up onto her sleeve before she could draw her arm back, its claws pricking through the cloth. She held her arm still. It was lighter than she'd thought. It climbed past her elbow to her shoulder and stopped there, and turned its head, and looked at Nereth.
+With her head down, she heard Nereth come away from the wall: the flat, heavy steps she had listened to all the way down the slope, with one shoe scraping between them. They came as far as the lamp, and didn't stop there.
 
-Nereth stood up.
+Then the light went off her hands, and Nereth's shadow lay over the hollow.
 
-"Look at me when I'm speaking to you."
+"You're in my light," Seralune said, and looked up.
 
-It wasn't loud. It was the even voice she had used on the guards with their swords out. Seralune turned to her slowly, with her arm held still and the small weight on her shoulder.
+Nereth was standing over her. Her burnt hand hung at her side, level with Seralune's face, with the cuff still stuck to the wrist, and its fingers kept opening and closing. Her eyes weren't on the lizard any more. They were on Seralune.
 
-"Nereth, it's all right. It isn't going to—"
+"LEAVE IT!"
 
-"You can't leave anything alone, can you?" Nereth came a step closer. Her burnt hand hung at her side, and its fingers kept opening and closing. "You have to go to it. You have to *touch* it. You went back for me in the wash passage, and he stayed behind that door because of you—"
+She bent and screamed it into Seralune's face, so close that Seralune felt the heat of it. She held the last word and went on screaming it until her voice cracked and tore, and her burnt hand had come up beside Seralune's head with the fingers spread, shaking.
 
-"I know he did! I know—"
+Seralune flinched, and her whole weight went down on the stone, and the root lifted.
 
-"—and every time you go near anything, they get louder." Nereth's voice cracked straight down the middle, and what came out of the crack wasn't even any more. "Every time. Ever since the pillar. You're doing it. You're *doing* it, and you stand there with that face, and you won't *stop*—"
+The leg came free all at once, and the lizard was out of the hollow and up onto her sleeve before she could draw her arm back, its claws pricking through the cloth. She held her arm still. It was lighter than she'd thought. It climbed past her elbow to her shoulder and stopped there, and turned its head, and looked at Nereth.
 
-"Doing what? Nereth, I'm not doing anything!"
+"Don't you scream at me." It came out higher than Seralune meant it to. "It's out. It's done."
+
+Nereth's face was wet. Her eyes went to the lizard by Seralune's neck and came back to Seralune, and her lips drew back from her teeth.
 
 Seralune's mana rose under her ribs so fast that she nearly doubled over, and all down the channel, out of every mouth at once, the dead screamed it.
 
@@ -842,7 +844,7 @@ Each of these is new. Say yes or no, or change it.
 9. **The flowers turn to Seralune, not to the lamp** (9). It's evidence she can't add up.
 10. **Nereth treads on a creature and tucks in a dead woman's collar** (9), as she tucked in the shawl in Chapter 7.
 11. **The dead repeat Seralune's own words** (10), and Nereth mouths "help me" with them. Seralune reasons that something said it first.
-12. **At the attack** (11): one line about Cyrandor and the wash passage, and "every time you go near anything, they get louder. You're doing it." The dead scream when Seralune's mana surges, and every flower turns to her.
+12. **Round your three lines** (11): Seralune's relief ("half a laugh") and "Once it's loose, they'll stop."; Nereth getting up the wall; Seralune noticing there's no "Your Highness"; the steps that don't stop at the lamp; "You're in my light"; the scream held until her voice tears, with her burnt hand up by Seralune's head; Seralune's flinch freeing the lizard; "Don't you scream at me."; Nereth's wet face and bared teeth. The dead scream when Seralune's mana surges. **Cut:** "Look at me when I'm speaking to you", the Cyrandor line and "You're doing it", so the scream is her last word before her hands.
 13. **The fire's motive** (12): "Shut up." She fires at the voices.
 14. **The blast in order** (12): the air pulled in, the flowers bending and going out, the white, the silence, the weight, the mountain, the wind, the fire coming back. Afterwards, "The voices had stopped."
 15. **The carry** (13), on your answer: Seralune tries to wake her; Nereth's arms across her throat make her panic and drop her; she holds the wrists low, against her chest; she falls twice and cries with rage, with no voice left. In the fresh air, Nereth's only change is her breathing.

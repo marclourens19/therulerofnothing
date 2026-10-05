@@ -829,6 +829,14 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - **After the fire, Nereth is blacked out and says nothing** for the rest of the chapter. Her lines at the breach ("Your Highness has ruined the shawl.", "Did I—", "Salt") are gone.
   - **Seralune carries her on her back,** struggling, with her throat half crushed. This replaces the 4 October shawl drag and returns to the author's direction of 2 October ("carries her to the hole", "carrying Nereth down the mountain").
   - *To confirm:* the 2 October direction had Nereth's mind recover in the fresh air. In the revised passage her breathing is the only change, so does she wake, and come back to herself, in Seralune's next chapter?
+- **"Leave it" (the author, 5 October),** word for word: "nereth should be like / Leave it / I said leave it alone... / LEAVE IIITTTTTT!!!!! (like she is screaming at seralune like she is about to snap)".
+  - **Applied in passage 11.** Nereth's lines are now exactly three: "Leave it.", "I said leave it alone…" and "LEAVE IT!". The scream is set as "LEAVE IT!", in capitals with one exclamation mark, as in Chapter 2's "GEROLT!". The prose carries the stretched letters: she holds the last word until her voice cracks and tears.
+  - **How it was built:** a judge panel compared three drafts of the stretch, and all three judges chose the one where Nereth physically closes in between the lines.
+  - **Cut,** so that the scream is her last word before her hands:
+    - "Look at me when I'm speaking to you";
+    - the Cyrandor line;
+    - "every time you go near anything, they get louder. You're doing it."
+  - *To confirm:* this leaves no Cyrandor words in the attack, against the 2 October answer 7 ("lashes out over Cyrandor, with words first, then her hands").
 
 ## Alaric
 
