@@ -15,7 +15,7 @@ The story is being re-planned from the beginning. Current work lives in **New - 
 - **`Going Forward.md`**: what Claude understood from the handoff, the faults found in the new lines, and the next steps in order (29 September).
 - **`Volume 1 Structural Map - Proposal.md`**: a structure for the whole of Volume 1, from the discussion outside the repository. **Discussion only, not canon** (the author, 29 September).
 - **`The Ruler of Nothing - Narrative and Web-Novel Design Bible.md`**: the craft reference for the rewrite.
-- **`Volume 1/`**: the re-planned manuscript. Chapters 1–4 are written and accepted.
+- **`Volume 1/`**: the re-planned manuscript. Chapters 1–10 are written; Chapter 10 includes the final corrections approved on 6 October.
   - `Chapter 1 - Revision Notes.md`: what to keep and what to change in Chapter 1.
   - `Chapter 1 - Changes.md`: every change in the latest revision, with its before and after.
   - `Chapter 2 - Design.md`: the plan for Chapter 2, agreed question by question.
@@ -48,6 +48,8 @@ The story is being re-planned from the beginning. Current work lives in **New - 
   - `Chapter 8 - Dialogue Options.md`, `Chapter 8 - Dialogue Round 2.md` (the approved baseline) and `Chapter 8 - Dialogue Round 3 - Silas Voice.md`: the dialogue round for Chapter 8 (1 October), kept word for word.
   - `Chapter 8 - Working Design.md`: the author's working design for Chapter 8 (1 October), kept word for word.
   - `Chapter 9 - Refuge.md`: Chapter 9 (2 October): Marta's inn on the arrival night, ending on Alaric's first vision of the double. It's now the combined version of Claude's draft and the other workspace's (both in `Drafts/`); the changes are in `Chapter 9 - Changes (combined).md`, then `Chapter 9 - Changes (round 2).md`.
+  - `Chapter 10 - Beneath Natharul.md`: the combined Chapter 10, with the final six corrections approved on 6 October. Seralune and Nereth's escape continues through the corrupted channels beneath Natharul.
+  - `Chapter 10 - Final Corrections (6 October).md`: the record of those six corrections. The current versions of Chapters 1–9 are retained.
   - `Chapter 9 - Design.md`: the design of Chapter 9 (started 1 October), Marta's chapter: round 1's questions, and Claude's reviews of the author's working design and dialogue (rounds 2 to 9).
   - `Chapter 9 - Working Design.md`: the author's fifth working design for Chapter 9 (2 October), kept word for word. The first four versions are in `Drafts/`.
   - `Chapter 9 - Dialogue.md`: the author's Chapter 9 dialogue and vision (2 October), all seven passages in scene order: the early warning, Gerolt's death, the woman who objects, the guards' interview, the marriage, the welcome, and the vision and waking. The earlier `Selected Dialogue and Vision` and the first version of this file are in `Drafts/`.
