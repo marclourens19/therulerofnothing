@@ -2,88 +2,127 @@
 
 A long-form fantasy web novel, planned for at least twelve volumes.
 
-The story is being re-planned from the beginning. Current work lives in **New - Re-plan**. Everything written before the re-plan is kept, unchanged, in **Archive**.
+Alaric wakes on a battlefield nobody heard, with no memory and no 『Affinity』. He's in a world that ranks every person by their magic and takes the children who test weakest. At the same instant, Seralune, a princess of Natharul, wakes alone inside a broken crystal seal, a thousand years after the last day she remembers.
 
-## New - Re-plan
+> **What is your worth when everyone tells you that you're nothing?**
 
-- **`Volume 1 Picture.md`**, **`Volume 2 Picture.md`** and **`Volume 3 Picture.md`**: the one-page shape of each volume, built from the decisions.
-- **`Decisions.md`**
-  - Every decision made during the re-plan.
-  - The questions still open.
-  - The old files each decision now conflicts with.
-- **`Claude Handoff (29 September).md`**: the author's work outside this repository on 28–29 September (the philosophy, the Eight Rulers, the shared soul, the approved ending direction, love, and a proposed Volume 1 structure). What the author set there is copied into `Decisions.md`; the rest is discussion and proposals.
-- **`Going Forward (29 September).md`**: what Claude understood from the handoff, the faults found in the new lines, and the next steps in order (29 September).
-- **`Volume 1 Structural Map.md`**: a structure for the whole of Volume 1, from the discussion outside the repository. **Discussion only, not canon** (the author, 29 September).
-- **`Narrative and Web-Novel Design Bible.md`**: the craft reference for the rewrite.
-- **`Volume 1/`**: the re-planned manuscript. Chapters 1–10 are written; Chapter 10 includes the final corrections approved on 6 October.
-  - `Chapter 01 - Revision Notes.md`: what to keep and what to change in Chapter 1.
-  - `Chapter 01 - Changes.md`: every change in the latest revision, with its before and after.
-  - `Chapter 02 - Design.md`: the plan for Chapter 2, agreed question by question.
-  - `Chapter 02 - What the Redesign Changed.md`: the redesigned Chapter 2 (27 September) compared with the version before it, scene by scene.
-  - `Chapter 02 - From the Old Chapter.md`: the first new Chapter 2 (Version 1) compared with the old one, scene by scene.
-  - `Chapter 03 - Design.md`: the plan for Chapter 3, agreed question by question.
-  - `Chapter 03 - The Weight of the Living.md`: the chapter, first drafted on 27 September and compared with the old chapters in `Chapter 03 - From the Old Chapters.md`.
-  - `Chapter N - Changes (line pass).md`: the line pass of Chapters 1–3 (28–29 September), change by change. Later rounds go on these lists.
-  - `Chapter 04 - Design.md`: the plan for Chapters 4 and 5, Seralune's first two chapters, agreed question by question (27 September).
-  - `Chapter 04 - A Promise Left Fractured.md`: Seralune's first chapter. Its first draft was titled "Before Evening"; `Chapter 04 - Changes.md` shows how it became the accepted chapter, and `Chapter 04 - From the Old Chapters.md` compares it with the old coda.
-  - `Volume 1 Outline (Chapters 5-15).md`: a rough outline of Chapters 5–15. The detail is designed one chapter at a time.
-  - `Chapter 05 - Design.md`: the design of Chapter 5, agreed question by question (started 29 September), and its deep revision.
-  - `Chapter 05 - The Shape of Absence.md`: Seralune's second chapter (29 September; first titled "Yesterday's Memories"). `Chapter 05 - Changes.md` shows its changes, and `Chapter 05 - Changes (Part 1).md` the changes made while it was drafted in two parts.
-  - `Chapter 05 - What the Deep Revision Changed.md`: the rewritten Chapter 5 (29 September) compared with the version before it, scene by scene, with Claude's calls. Later rounds are in `Chapter 05 - Changes (deep revision).md`.
-  - `Chapter 05 - Deep Revision Plan.md`: the author's plan for revising Chapter 5 in depth (29 September), saved unchanged. It's a proposal for discussion; Claude's reading of it and the questions on it are at the end of `Chapter 05 - Design.md`.
-  - `Chapter 06 - Design.md`: the design of Chapter 6, Alaric's day on the road (started 29 September).
-  - `Chapter 06 - Design Proposal.md`: the author's detailed proposal for Chapter 6 (30 September), kept word for word.
-  - `Chapter 06 - Dialogue.md`: the author's dialogue pass for Chapter 6 (30 September), kept word for word.
-  - `Chapter 06 - The Words of the Dead.md`: Chapter 6, finished (30 September). Its changes are in `Chapter 06 - Changes.md`.
-  - `Chapter 07 - Design.md`: the design of Chapter 7, Seralune's escape (started 30 September).
-  - `Chapter 07 - Design Review.md`: the author's design and lore review of Chapter 7 (30 September), kept word for word.
-  - `Chapter 07 - Working Design.md`: the author's consolidated design for Chapter 7 (30 September), now the working design.
-  - `Chapter 07 - The Last Keeper.md`: Chapter 7 (30 September). It's the author's own revision of the combined draft (Claude's first draft with material from a GPT draft). The author titled it "The Last Keeper". Claude's six notes on that revision are in `Chapter 07 - Changes.md`. The combined draft's three passes and the author's first review are in `Chapter 07 - Changes (combined draft).md`.
-  - `Chapter 07 - Draft Comparison.md`: the author's comparison of Claude's and GPT's drafts, and the reasoning for the combined one, kept word for word.
-  - `Chapter 07 - Changes (first draft).md`: Claude's pass on the first draft, before the author chose the combined draft. It's kept as a record.
-  - `Chapter 08 - Design.md`: the design of Chapter 8 (started 30 September), now the journey to Marta's door, with Claude's round 2 review of the author's working design.
-  - `Story Bible/Handoffs/Claude Handoff (1 October).md`: the author's newest consolidated handoff (1 October), kept word for word. It adds the double for Alaric (§21, §23), the ten cosmology proposals (§22) and Chapter 8's latest answers (§24). The 29 September handoff stays as a historical source.
-  - `Story Bible/Proposals/The Dying World - Ten Explanations.md`: the author's proposal of ten explanations for the dying world (1 October), kept word for word. Nothing in it is approved yet.
-  - `Chapter 08 - The Road Owed to the Dead.md`: Chapter 8 (1 October), the journey to Marta's door. It's now the author's combined version; its changes, Claude's six notes and the later passes are in `Chapter 08 - Changes (combined).md`. The first draft's passes are in `Chapter 08 - Changes.md`.
-  - `Chapter 08 - Dialogue Options.md`, `Chapter 08 - Dialogue Round 2.md` (the approved baseline) and `Chapter 08 - Dialogue Round 3 - Silas Voice.md`: the dialogue round for Chapter 8 (1 October), kept word for word.
-  - `Chapter 08 - Working Design.md`: the author's working design for Chapter 8 (1 October), kept word for word.
-  - `Chapter 09 - Refuge.md`: Chapter 9 (2 October): Marta's inn on the arrival night, ending on Alaric's first vision of the double. It's now the combined version of Claude's draft and the other workspace's (both in `Drafts/`); the changes are in `Chapter 09 - Changes (combined).md`, then `Chapter 09 - Changes (round 2).md`.
-  - `Chapter 10 - Beneath Natharul.md`: the combined Chapter 10, with the final six corrections approved on 6 October. Seralune and Nereth's escape continues through the corrupted channels beneath Natharul.
-  - `Chapter 10 - Final Corrections (6 October).md`: the record of those six corrections. The current versions of Chapters 1–9 are retained.
-  - `Chapter 09 - Design.md`: the design of Chapter 9 (started 1 October), Marta's chapter: round 1's questions, and Claude's reviews of the author's working design and dialogue (rounds 2 to 9).
-  - `Chapter 09 - Working Design.md`: the author's fifth working design for Chapter 9 (2 October), kept word for word. The first four versions are in `Drafts/`.
-  - `Chapter 09 - Dialogue.md`: the author's Chapter 9 dialogue and vision (2 October), all seven passages in scene order: the early warning, Gerolt's death, the woman who objects, the guards' interview, the marriage, the welcome, and the vision and waking. The earlier `Selected Dialogue and Vision` and the first version of this file are in `Drafts/`.
-  - `Chapter 10 - Beneath Natharul.md`: **Chapter 10, written** (5 October): Seralune and Nereth in the old channels under the palace, Nereth's descent, the fire through the mountain, and the carry towards the port. It's the agreed key passages joined, about 8,500 words. Its changes beyond the passages are in `Chapter 10 - Changes (first draft).md` (changes 90–96). On 6 October it was combined with the author's Five Pass Revision from the other workspace, and Seralune now notices Nereth's heaving breathing on the slope: `Chapter 10 - Changes (combined with the Five Pass Revision).md` (changes 97–124).
-  - `Chapter 10 - Design.md`: the design of Chapter 10 (started 2 October), Seralune's "Beneath Natharul". It holds the author's horror direction and round answers, kept word for word, including the guide to Nereth's descent.
-  - `Chapter 10 - Dialogue Options.md`: sixteen moments of Chapter 10 in scene order, each in two or three versions with their prose, for the author to choose from and edit. Dialogue rounds 1 and 2 are in `Drafts/`.
-  - `Chapter 10 - Working Progression (4 October).md`: the author's chapter shape from their second workspace (4 October), kept word for word: the right-hand tunnel, Nereth's silence, the attack at the creature and the port.
-  - `Chapter 10 - Selected Dialogue.md`: the author's chosen opening (1A, in period English).
-  - `Chapter 10 - Key Passages (5 October).md`: thirteen passages of Chapter 10 in order, one version each, after the author rejected the 4 October options. Claude's diagnosis of why those went flat is at the top. The rejected options are in `Drafts/`.
-  - `Chapter 10 - Key Passages - Changes (horror review).md`: the 62 changes from the horror review of 5 October, each with its before, after and reason, and the proposals waiting for the author's yes or no.
-  - `Chapter 10 - Key Passages - Changes (your notes).md`: changes 63–89, from the author's notes on the reviewed passages (5 October): the six refinements, two cuts to the mana pairings, and the notes updated to match.
-  - `Marta - Character and Dialogue Handoff (2 October).md`: the author's Marta handoff (her voice, after Baderon), kept word for word.
-  - `Review of the Author's Revision (Chapters 1-7).md`: Claude's review of the author's revised Chapters 1–7 (1 October), with nine questions. The revision itself is listed change by change in `Chapter N - Changes (author's revision).md` for Chapters 1–6; Chapter 7 had no new changes.
-  - `Drafts/`: earlier versions of the chapters, kept unchanged.
+The story is being re-planned and rewritten from the beginning, one chapter at a time, starting in September 2026. Volume 1 is in progress.
 
-## The rewriting skill
+## Read the novel
 
-`.claude/skills/chapter-rewrite/` holds the method worked out on Chapter 1, so that Claude uses it for every later chapter:
+**Volume 1:** ten chapters finished, about 45,800 words. Chapter 11 is next.
 
-- `SKILL.md`: where canon lives, how to work with the author, the principles, the step-by-step method and the house style.
-- `references/chapter-1-lessons.md`: every lesson from Chapter 1, shown as a before and after.
-- `references/final-check.md`: the checklist for a chapter's final pass.
-- `scripts/`: one script applies a change list and writes the before/after file; the other runs the mechanical style check.
+| Ch | Title | Viewpoint | Words |
+|---:|---|---|---:|
+| 1 | [A War Without Sound](Manuscript/Volume%201/Chapter%2001%20-%20A%20War%20Without%20Sound.md) | Alaric | 6,122 |
+| 2 | [The Price of a Voice](Manuscript/Volume%201/Chapter%2002%20-%20The%20Price%20of%20a%20Voice.md) | Alaric | 4,639 |
+| 3 | [The Weight of the Living](Manuscript/Volume%201/Chapter%2003%20-%20The%20Weight%20of%20the%20Living.md) | Alaric | 2,056 |
+| 4 | [A Promise Left Fractured](Manuscript/Volume%201/Chapter%2004%20-%20A%20Promise%20Left%20Fractured.md) | Seralune | 2,585 |
+| 5 | [The Shape of Absence](Manuscript/Volume%201/Chapter%2005%20-%20The%20Shape%20of%20Absence.md) | Seralune | 3,138 |
+| 6 | [The Words of the Dead](Manuscript/Volume%201/Chapter%2006%20-%20The%20Words%20of%20the%20Dead.md) | Alaric | 4,868 |
+| 7 | [The Last Keeper](Manuscript/Volume%201/Chapter%2007%20-%20The%20Last%20Keeper.md) | Seralune | 4,220 |
+| 8 | [The Road Owed to the Dead](Manuscript/Volume%201/Chapter%2008%20-%20The%20Road%20Owed%20to%20the%20Dead.md) | Alaric | 5,312 |
+| 9 | [Refuge](Manuscript/Volume%201/Chapter%2009%20-%20Refuge.md) | Alaric | 4,132 |
+| 10 | [Beneath Natharul](Manuscript/Volume%201/Chapter%2010%20-%20Beneath%20Natharul.md) | Seralune | 8,698 |
 
-The folder name starts with a dot, so Obsidian hides it. Open it on GitHub or in a file browser.
+## How the repository is organised
+
+```
+Manuscript/                      Finished chapters, and nothing else
+  Volume 1/
+
+Story Bible/                     What is true in the story, and what is planned
+  Decisions.md                   Every decision, and every open question
+  Volume 1 Picture.md            The shape of Volume 1 on one page
+  Volume 1 Outline (Chapters 5-15).md
+  Volume 2 Picture.md
+  Volume 3 Picture.md
+  Handoffs/                      The author's handoffs, kept word for word
+  Proposals/                     Ideas under discussion, not canon
+  Craft/                         The narrative and web-novel design bible
+
+Chapter Development/             How each chapter was made
+  Volume 1/
+    Chapter 01/ ... Chapter 10/  Designs, dialogue rounds and changes
+      Drafts/                    Saved drafts and change lists
+
+Archive/                         Everything written before the re-plan
+
+.claude/skills/chapter-rewrite/  The rewriting method and its two tools
+```
+
+### Where to start
+
+- **To read the story:** `Manuscript/`, in chapter order.
+- **To check what's canon:** [`Story Bible/Decisions.md`](Story%20Bible/Decisions.md). It overrides every other file. The [Volume 1 Picture](Story%20Bible/Volume%201%20Picture.md) summarises it on one page.
+- **To see how a chapter was made:** open its folder in `Chapter Development/`. Start with the design, then the dialogue rounds, then the changes.
+
+## Story Bible
+
+| File | What it holds |
+|---|---|
+| [Decisions.md](Story%20Bible/Decisions.md) | Every decision made with the author, in the author's words where possible. It has a section per chapter, character and place, then the open questions and the old files that now conflict. |
+| [Volume 1 Picture.md](Story%20Bible/Volume%201%20Picture.md) | Volume 1's question, arcs, cast, road, ending and the story so far. |
+| [Volume 1 Outline (Chapters 5-15).md](Story%20Bible/Volume%201%20Outline%20%28Chapters%205-15%29.md) | A rough plan of Chapters 5 to 15. Each chapter is designed in detail only when it's next. |
+| Volume 2 Picture.md, Volume 3 Picture.md | The early shape of the next two volumes. |
+| `Handoffs/` | The author's handoffs from work outside this repository (29 September, 1 October, and Marta's voice on 2 October), and Claude's reply to the first one. |
+| `Proposals/` | The 50–54-chapter structural map for Volume 1, and ten explanations for the dying world. Both are for discussion; neither is approved. |
+| `Craft/` | The craft reference: page style, character voices, scene and chapter design, and web-serial rhythm. |
+
+## Chapter Development
+
+Each chapter has its own folder. Its files are named after the chapter, so they stay easy to find in search.
+
+| File | What it is |
+|---|---|
+| `Chapter NN - Design.md` | The plan, agreed with the author question by question before any writing. |
+| `Chapter NN - Dialogue...` | The key exchanges, in the author's rough words, then in each character's voice. |
+| `Chapter NN - Changes...md` | Every change made to the chapter, with its before, after and reason, round by round. |
+| `Chapter NN - From the Old Chapters.md` | The new chapter compared with the pre-re-plan material it replaces. |
+| `Drafts/` | Saved copies of the chapter at each stage, which are never edited, and the change lists that produce the changes files. |
+
+Files marked "kept word for word" (the author's pasted designs, dialogue, handoffs and other workspaces' drafts) keep their original text. A few of them name files by the paths they had before the reorganisation of 6 October 2026.
+
+## How the work is done
+
+- **One chapter at a time.** The design is agreed first, with questions asked a few at a time. Then comes a round of dialogue options for the important exchanges. A chapter is written only after the author's go-ahead.
+- **Decisions are recorded as they're made.** Every answer goes into `Decisions.md` before it goes onto the page.
+- **Every revision is a change list.** Changes are never made to a chapter by hand. Each one is written as an entry in the chapter's change list, and a script applies them to the saved draft. So the record of changes always matches the chapter exactly.
+- **The rules of the method,** learned from the author chapter by chapter, are in [`.claude/skills/chapter-rewrite/SKILL.md`](.claude/skills/chapter-rewrite/SKILL.md). That covers where canon lives, how to work with the author, the writing principles, the house style and the final check. The folder name starts with a dot, so some file browsers and Obsidian hide it.
+
+### Tools
+
+Both scripts are run from the repository root.
+
+```bash
+# Apply a change list: writes the chapter and its changes file
+python3 .claude/skills/chapter-rewrite/scripts/apply_changes.py "Chapter Development/Volume 1/Chapter NN/Drafts/Chapter NN - change list.json"
+
+# Check that the chapter and changes file on disk match the list, without writing anything
+python3 .claude/skills/chapter-rewrite/scripts/apply_changes.py "<change list>.json" --check
+
+# Mechanical style check of a chapter
+python3 .claude/skills/chapter-rewrite/scripts/style_check.py "Manuscript/Volume 1/Chapter NN - Title.md"
+```
+
+### House style
+
+- **Spelling and punctuation.** British spelling, straight quotes, an em dash with no spaces, and the single "…" character.
+- **Thoughts.** Italics for a character's immediate thought and for precise stress.
+- **Corner brackets** for 『Affinity』, 『Magic』 and the rank 『Faint』.
+- **Bold** only for **THOOM**, Alaric's heartbeat.
+- **Point of view.** Close third person, one pair of eyes per chapter.
 
 ## Archive
 
-- **`Volume 1 - The Silent Field/`**: the original drafts of Chapters 1–22, and the Arc 1 Story Basis.
-- **`Volume 1 - Rewrites/`**: the rewrite pass, covering Chapters 1–30 and Interludes I–IV.
-- **`Volume 1 - GPT Rewrites/`**: two alternative Chapter 1 rewrites.
-- **`Chapter Design/`**: chapter designs for Chapters 2–30 and Interlude IV.
-- **`World Bible/`**: lore, characters, craft rules and story questions, as they stood before the re-plan.
-- **`Claude outputs/`**: earlier copies of the rewrites, plus dated backups.
-- **`work/`**: the Chapter 1 drafts and helper scripts from the rewrite workshop.
+Everything from before the re-plan is kept unchanged as raw material. It isn't canon: where it disagrees with `Decisions.md`, the decision wins, and the conflicts are listed at the end of that file.
 
-The old World Bible and Main Characters remain the lore record until the re-plan replaces them, except where `Decisions.md` says otherwise.
+| Folder | Contents |
+|---|---|
+| `Volume 1 - The Silent Field/` | The original drafts of Chapters 1–22, and the Arc 1 story basis. |
+| `Volume 1 - Rewrites/` | The rewrite pass of Chapters 1–30 and Interludes I–IV. |
+| `Volume 1 - GPT Rewrites/` | Two alternative rewrites of Chapter 1. |
+| `Chapter Design/` | Chapter designs for Chapters 2–30 and Interlude IV. |
+| `World Bible/` | Lore, characters, craft rules and story questions as they stood before the re-plan. |
+| `Claude Outputs/` | Earlier copies of the rewrites, and dated backups. |
+| `Chapter 1 Workshop/` | Chapter 1 drafts and helper scripts from the rewrite workshop. |
