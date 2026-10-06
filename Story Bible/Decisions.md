@@ -895,6 +895,11 @@ The plan is built in `Chapter Development/Volume 1/Chapter 04/Chapter 04 - Desig
   6. At the sea: "She looked round as though she might find her standing there to see it."
   - The chapter is finished at 8,703 words. This branch's records were merged into main afterwards (6 October), keeping main's text.
 
+## Chapter 11
+
+- **Design started (6 October)** in `Chapter Development/Volume 1/Chapter 11/Chapter 11 - Design.md`, at the author's request ("Let's design chapter 11 in depth not skipping anything"). It's Alaric's two rest days at Marta's, from the late morning of Day 3 to the night of Day 4. It carries the author's course of events from the Chapter 9 working design (Marta shelters him and "investigates what might help him"; after about two days a lead towards Darcy arrives; Alaric admits he can't manage alone, and Marta sends him to Silas), and the beats deferred to it: Empty with Silas there, Silas's lodging, and the Darcy source and opportunity.
+- *Proposed, not decided:* seven scenes (what the house agreed; the back door and Empty; the kitchen and Gerolt's last day; the guards' drink; the house by day; Darcy; Silas's door), with a two-day limit from Rhose's talk as the clock. Round 1 has seventeen questions, each with a recommendation, and the "100/100" answer. Nothing in it is decided yet.
+
 ## Alaric
 
 - About twenty.
