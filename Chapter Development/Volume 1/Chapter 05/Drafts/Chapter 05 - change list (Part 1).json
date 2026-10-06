@@ -1,0 +1,67 @@
+{
+  "title": "Chapter 5, Part 1: Changes",
+  "draft": "Chapter 05 - Your Highness (Part 1) (Draft 1).md",
+  "chapter": "Chapter 05 - Your Highness (Part 1) (after round 1).md",
+  "changes_file": "../Chapter 05 - Changes (Part 1).md",
+  "intro_md": "Written on 29 September 2026. The first draft of Part 1 is saved unchanged as `Chapter Development/Volume 1/Chapter 05/Drafts/Chapter 05 - Your Highness (Part 1) (Draft 1).md`, and every change here is measured against it.\n\n- **Round 1** (changes 1–4): the author's answers to the draft's calls. Calls 2 and 7–10 were accepted as written, call 11 (length) waits until Part 2 is written, and call 1 (\"I'm sorry\") is a question the author asked back, answered in `Chapter 05 - Design.md`.\n\n**Since 29 September, Chapter 5 is one chapter.** The author: \"Combine both chapters, no need for Part 1 and Part 2, since it's a short chapter in total.\" This list now writes Part 1 as it stood after round 1, saved as `Chapter Development/Volume 1/Chapter 05/Drafts/Chapter 05 - Your Highness (Part 1) (after round 1).md`, which is the first half of `Chapter Development/Volume 1/Chapter 05/Drafts/Chapter 05 (Draft 2, one chapter).md`. Later rounds go on `Chapter Development/Volume 1/Chapter 05/Drafts/Chapter 05 - change list.json`.",
+  "glance": [],
+  "summary_md": "",
+  "sections": {
+    "The chamber": "The chamber and the passage (draft lines 3–63)",
+    "The stairs": "The stairs and the gallery (draft lines 65–111)"
+  },
+  "changes": [
+    {
+      "section": "The chamber",
+      "title": "Thaer's second question",
+      "kind": "changed",
+      "tags": [
+        "round1"
+      ],
+      "before": "He was staring at the crystal again.\n\n\"Did you touch it?\"\n\n\"I put my hand inside it.\" She could still feel it, cold, drawing at her through her fingers, and she pressed the hand into her dress. \"It pulled at me, Thaer. What is it? What is this place?\"",
+      "after": "He was staring at the crystal again.\n\n\"What is that thing, Thaer?\" She could still feel it, cold, drawing at her through her fingers, and she pressed her hand into her dress. \"What is this place?\"",
+      "why": "The author (call 3): \"I don't like that question, it doesn't make sense in context. He has just seen his sister break out of an unbreakable seal.\" His question goes; her own questions stay, so he still answers none of them.",
+      "decision": "accepted",
+      "decision_note": "The author's note (29 September); the wording of her questions is Claude's."
+    },
+    {
+      "section": "The chamber",
+      "title": "What she thinks when the guards come",
+      "kind": "changed",
+      "tags": [
+        "round1"
+      ],
+      "before": "*Are they afraid of me? How could I be dangerous? I never had magic.*",
+      "after": "*What's happening? Why are so many people here?*",
+      "why": "The author (call 4): \"Should be like: What's happening, why are so many people here?\" Her Volume 1 belief line (\"How could I be dangerous? I never had magic.\") isn't placed here after all.",
+      "decision": "accepted",
+      "decision_note": "The author's line (29 September)."
+    },
+    {
+      "section": "The chamber",
+      "title": "Leorin, young",
+      "kind": "changed",
+      "tags": [
+        "round1"
+      ],
+      "before": "She looked at him properly. There was something in his face under all those lines, and the longer she looked, the more of it she knew, until she could see him as she remembered him: a young man, never without ink on his fingers.",
+      "after": "She looked at him properly. There was something in his face under all those lines, and the longer she looked, the more of it she knew, until she could see the young man she remembered.",
+      "why": "The author (call 5): \"I don't like that ink on fingers, remove it.\"",
+      "decision": "accepted",
+      "decision_note": "The author's note (29 September)."
+    },
+    {
+      "section": "The stairs",
+      "title": "Why he looks so old",
+      "kind": "changed",
+      "tags": [
+        "round1"
+      ],
+      "before": "*But it was him, I know it was. So he must be ill, with some sickness nobody's told me about.*",
+      "after": "*But it was him, I know it was. So why does he look so old? What happened?*",
+      "why": "The author (call 6): \"More like: why does he look so old, what happened?\" Her wrong theory (an illness) goes, and the question stays open for the tree to answer.",
+      "decision": "accepted",
+      "decision_note": "The author's line (29 September)."
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # What Chapter 1 taught
 
-Chapter 1 went through three rounds of revision with the author in September 2026 (49 changes). The full record is in `New - Re-plan/Volume 1/Chapter 1 - Changes.md`, and the change list is `New - Re-plan/Volume 1/Drafts/Chapter 1 - change list.json`. This file pulls out the lessons that apply to every chapter, each with a real before and after and what the author decided.
+Chapter 1 went through three rounds of revision with the author in September 2026 (49 changes). The full record is in `Chapter Development/Volume 1/Chapter 01/Chapter 01 - Changes.md`, and the change list is `Chapter Development/Volume 1/Chapter 01/Drafts/Chapter 01 - change list.json`. This file pulls out the lessons that apply to every chapter, each with a real before and after and what the author decided.
 
 ## Contents
 

@@ -1,0 +1,60 @@
+{
+  "title": "Chapter 5: Changes (the author's revision)",
+  "draft": "Chapter 05 - The Shape of Absence (Draft 5, before the author's revision of 1 October).md",
+  "chapter": "../../../../Manuscript/Volume 1/Chapter 05 - The Shape of Absence.md",
+  "changes_file": "../Chapter 05 - Changes (author's revision).md",
+  "intro_md": "1 October 2026. Your revision of Chapters 1–7, from the Word file *The Ruler of Nothing – Chapters 1-7*, put in house style (straight quotes, `---` for section breaks). The chapter as it stood before is saved as `Chapter Development/Volume 1/Chapter 05/Drafts/Chapter 05 - The Shape of Absence (Draft 5, before the author's revision of 1 October).md`. Every change here is yours. The notes are Claude's reading of each one, and the questions are in `Review of the Author's Revision (Chapters 1-7).md`.",
+  "sections": {
+    "Your revision": "Your revision (1 October)"
+  },
+  "changes": [
+    {
+      "section": "Your revision",
+      "title": "Thaer leaves",
+      "kind": "changed",
+      "tags": [],
+      "before": "\"Get some rest. There are things I have to see to, and I'll be back as soon as I'm able.\"",
+      "after": "\"I need to speak to Leorin. Try to rest, Seralune. I'll be back as soon as I can.\"",
+      "why": "Naming Leorin gives his leaving a reason, and it sets up Leorin at the door later.",
+      "decision": "accepted",
+      "decision_note": "Your edit, from the Word file of 1 October.",
+      "decision_short": "your Word file."
+    },
+    {
+      "section": "Your revision",
+      "title": "Waiting",
+      "kind": "changed",
+      "tags": [],
+      "before": "Seralune couldn't keep still. She walked from the fire to the window and back again, and her legs still shook, and she walked anyway.",
+      "after": "Seralune couldn't keep still. She walked from the fire to the window and back again, listening for Thaer's footsteps.",
+      "why": "\"Listening for Thaer's footsteps\" leads straight into the voices outside.",
+      "decision": "accepted",
+      "decision_note": "Your edit, from the Word file of 1 October.",
+      "decision_short": "your Word file."
+    },
+    {
+      "section": "Your revision",
+      "title": "The tray",
+      "kind": "changed",
+      "tags": [],
+      "before": "His eyes went to the tray on the table. \"You haven't eaten.\"",
+      "after": "His eyes went to the tray on the table. \"Please, Seralune. Eat something.\"",
+      "why": "He still won't answer, but now he asks her for something, and that's harder to fight.",
+      "decision": "accepted",
+      "decision_note": "Your edit, from the Word file of 1 October.",
+      "decision_short": "your Word file."
+    },
+    {
+      "section": "Your revision",
+      "title": "\"You look exactly as you did this morning\"",
+      "kind": "changed",
+      "tags": [],
+      "before": "\"Leorin's an old man, Thaer. What happened while I was in that room?\"",
+      "after": "\"Thaer, look at me. Leorin's an old man. You look exactly as you did this morning. What happened while I was in there?\"",
+      "why": "Good: she puts the evidence to him out loud, the way she reasons, and still doesn't say \"years\".",
+      "decision": "accepted",
+      "decision_note": "Your edit, from the Word file of 1 October.",
+      "decision_short": "your Word file."
+    }
+  ]
+}
