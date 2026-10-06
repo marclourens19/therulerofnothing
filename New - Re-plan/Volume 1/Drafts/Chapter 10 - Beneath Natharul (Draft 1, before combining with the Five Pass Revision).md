@@ -34,13 +34,13 @@ Seralune put her right hand out to the wall.
 
 She took it back and held it against her chest. "It's only a wall."
 
-"It is a wet wall, and a filthy one, and that cut keeps opening. If it festers down here, I shall have to explain to Cyrandor how I let—" Nereth stopped. She lifted the lamp again. "Keep it close, please."
+"It is a wet wall, and a filthy one, and that cut has opened twice since last night. If it festers down here, I shall have to explain to Cyrandor how I let—" Nereth stopped. She lifted the lamp again. "Keep it close, please."
 
 Seralune had heard Cyrandor at the bedroom door this morning. *Mind her hand.* She kept it close, and didn't ask Nereth to finish.
 
 Further on, a whole length of the ledge had gone. Nereth crossed first on what was left of it, with her shoulder to the wall, then set the lamp down on the far side and turned and held out both hands.
 
-"It is slippery. Step where I stepped, Your Highness. There, and then there. Not near the edge."
+"Step where I stepped, Your Highness. There, and then there. Not near the edge."
 
 Seralune stepped where Nereth had stepped. On the second stone her borrowed shoe slid on something soft, and before she'd even felt herself start to go, Nereth had her by the forearm, well above the binding, and pulled her across.
 
@@ -50,13 +50,7 @@ Seralune stepped where Nereth had stepped. On the second stone her borrowed shoe
 
 "I did tell Your Highness. Your Highness was looking at the water."
 
-"I was looking where I would fall."
-
-"Then look where you mean to stand. It generally works better."
-
-Seralune would have argued, but Nereth was still holding her up. She got both feet under her, and waited for her heart to slow before she let go of Nereth.
-
-The water lay beside the ledge, black and so still that the lamp sat in it without a ripple. Once, as far out as the light reached, something touched the surface from underneath. The rings went out slowly until they lapped against the ledge, and nothing came up.
+She had been. It lay beside the ledge, black and so still that the lamp sat in it without a ripple. Once, a long way out, something touched the surface from underneath. The rings went out from the place slowly, until they reached the ledge and lapped against it, and nothing came up.
 
 *Whatever that is, it's down there and you're up here. Walk.*
 
@@ -68,9 +62,9 @@ Her mana crowded up under her ribs, the way it always did when she was frightene
 
 "Hold still, Your Highness." Nereth's voice was perfectly level. "Do not move your feet."
 
-There was a small sound, like a breath let out, and a flame stood up on the end of Nereth's right thumb.
+There was a small sound, like a breath let out, and a flame stood up on the end of Nereth's finger.
 
-It lit her face from below. She touched it to the wick, and the flame jumped, up past the top of the glass, so high and white that Seralune had to shut her eyes. When Seralune looked again, the lamp was burning small and yellow as before, and Nereth shook her hand out sharply.
+It lit her face from below. She touched it to the wick, and the flame jumped, up past the top of the glass, so high and white that Seralune had to shut her eyes. Nereth shook her hand out sharply. When Seralune looked again, there was only the lamp, burning small and yellow as before.
 
 Nereth was looking at her fingers.
 
@@ -82,7 +76,7 @@ Nereth was looking at her fingers.
 
 "You might have mentioned it before we came down here with one lamp between us."
 
-"Your Highness did not ask." Nereth raised the lamp. "And I can make a flame, but I cannot hold one for hours. The oil will last longer than I would."
+"Your Highness did not ask." Nereth picked the lamp up. "And I can make a flame, but I cannot hold one for hours. The oil will last longer than I would."
 
 Before she started walking, she rubbed the tips of her fingers together, as though they were still warm.
 
@@ -150,7 +144,9 @@ Seralune held her breath until her chest hurt. There was a drop, and a long wait
 
 She went on, and she didn't say anything else until the pillar.
 
-This time, Seralune knew the pillar before Nereth lifted the lamp to it, by the crack that ran up one side and the piece broken out of its foot. Then the light came up, and there was her mark, pale and crooked, and she put her finger in it where the chip had skidded.
+The second time, Seralune knew the pillar before Nereth lifted the lamp to it. She knew the crack that ran up one side of it and the chip out of its foot, and then the light came up, and there was her mark, pale and crooked, as high as she could reach.
+
+She put her finger in it, where the chip had skidded.
 
 "Nereth. We've come back."
 
@@ -166,7 +162,7 @@ Nereth didn't look at the pillar. She looked at Seralune.
 
 "Then someone else down here is as clumsy as Your Highness." Nereth turned the lamp to the left-hand opening. "This way."
 
-It was the way they had gone every time before.
+It was the way they had gone both times before.
 
 Seralune didn't move. Her mana had come up, cold and enormous, under her ribs, and Nereth, with her back to her, stopped as if she had walked into a wall.
 
@@ -180,7 +176,9 @@ Nereth stood a moment longer with the lamp held out. Then she went into the left
 
 It didn't sound funny, even in her head.
 
-Seralune watched the lamp shake for a long time, and the light shake on the wall with it, so that the stones seemed to shift whenever she looked at them. Last night, with two swords a step away from her, Nereth's hands hadn't shaken at all.
+The lamp had begun to shake.
+
+Seralune watched it from behind for a long time before she said anything: the flame trembling in its glass, and the light trembling on the wall with it, so that the stones seemed to shift whenever she looked at them. Last night, with two swords a step away from her, Nereth's hands hadn't shaken at all.
 
 "Let me carry that for a while."
 
@@ -196,11 +194,11 @@ Then her face went smooth, all at once, and she was looking at Seralune's sleeve
 
 "I beg Your Highness's pardon. Your binding has come loose."
 
-She set the lamp down and took Seralune's right hand. Her fingers were as quick and careful as they had been last night, and they never pressed on the cut. They were also shaking so badly that the loose end of the linen kept slipping out from under them, and it was a long while before she could tuck it back under and draw it firm.
+She set the lamp down, took Seralune's right hand and tucked the loose end of the linen back under, without hurting her once. Her fingers were as quick and careful as they had been last night. They were also shaking so badly that the end kept slipping out from under them, and it was a long time before she could draw it firm.
 
 Seralune let her do it. She had opened her mouth to say *I won't be shouted at*, and she shut it again.
 
-*She doesn't know what's happened to Cyrandor, and she hasn't slept, and she's held you up every step since the arch. Let her shout. You'd shout too.*
+*She's lost Cyrandor, and she hasn't slept, and she's held you up every step since the arch. Let her shout. You'd shout too.*
 
 She didn't offer again, or say anything else, because it seemed safest not to. She walked behind the light and didn't let herself think about the water or the pillar or how far down they might have come, and she had been quiet for a long time when Nereth stopped ahead of her.
 
@@ -244,7 +242,7 @@ Seralune hadn't the strength to argue. She pulled the shawl down off her hair an
 
 When she opened them, Nereth's face was a hand's width from hers.
 
-She was crouched over her with the lamp held close to Seralune's cheek. Nereth had turned the wick down so far that the lamp's flame was hardly bigger than a seed, and she was holding a second flame on the end of her right thumb beside it, to see by. The skin round her thumbnail had blistered white. She didn't seem to know.
+She was crouched over her with the lamp held close to Seralune's cheek. Nereth had turned the wick down so far that the lamp's flame was hardly bigger than a seed, and she was holding a second flame on the end of her thumb beside it, to see by. The skin round her thumbnail had blistered white. She didn't seem to know.
 
 "You stopped breathing, Your Highness," Nereth said.
 
@@ -262,7 +260,7 @@ Seralune didn't know how long she had slept. The lamp had been half full when sh
 
 The pillar came round again.
 
-Seralune knew it by its crack while it was still at the edge of the light. When the light came closer, there was her mark, and below it their prints going left, trodden over and over, one on top of another, until the silt was churned to mud.
+Seralune knew it by its crack before the light reached it. When the light did reach it, there was her mark, and below it their prints going left, trodden over and over, one on top of another, until the silt was churned to mud.
 
 *Enough.*
 
@@ -296,7 +294,7 @@ She went down the first step. The air was different there: warmer, and close, an
 
 Behind her, Nereth let out her breath.
 
-It was a long, slow breath. When Seralune turned with the lamp, Nereth's shoulders had come down, and she was standing at the top of the steps with her eyes half shut and her face lifted a little towards the passage.
+It was a long, slow breath, and her shoulders came down with it. When Seralune turned with the lamp, Nereth was standing at the top of the steps with her eyes half shut and her face lifted a little towards the passage.
 
 "Oh," she said softly. It wasn't to Seralune. "There you are."
 
@@ -310,17 +308,9 @@ Seralune went first. With the lamp in her good hand, there was no hand left to h
 
 They came slower than before, and heavier, every step landing flat, and between them one shoe scraped along the stone before the other came down. Nereth was breathing through her mouth.
 
-Further down, Seralune could hardly hear the feet any more for the breathing. Nereth was dragging each breath in hard and letting it go all at once, quicker than her steps came.
-
 "Shall we stop for a while?"
 
-Seralune stopped, so that Nereth would too, and turned round with the lamp. The light found her a few paces up the slope, still coming, with her mouth hanging open. Her shoulders heaved up with every breath and dropped, and were going up again before they had come all the way down.
-
-*She told me she was cold and tired. It's warm down here, and it's all downhill. She's ill, and she's been hiding it from me since the lamp began to shake.*
-
-"Nereth, what's got into you? And don't tell me you're quite all right."
-
-Nereth came on, and passed close enough that her breath went across Seralune's cheek, and went on down the slope out of the light, and Seralune had to go after her with the lamp and catch her by the sleeve before she would stand still.
+Seralune stopped, so that Nereth would too. The footsteps didn't. They came on, flat and heavy, up level with her and past her, and went on down the slope out of the light, and Seralune had to go after them with the lamp and catch Nereth by the sleeve before she would stand still.
 
 Nereth stood with one hand flat on the wall, though the ledge was wide there and she had no need of it, looking down the slope to where the light didn't reach. Seralune lowered the lamp to see her face.
 
@@ -387,8 +377,6 @@ She lifted her head, and for the first time since the steps, she looked straight
 Seralune's mana came up so hard that she felt it behind her eyes.
 
 Nereth flinched. Her burnt hand went to her ear and pressed there, hard, and she looked past Seralune down the passage and started walking again, with her hand still over her ear.
-
-Seralune snatched up the lamp, pushed the scorched shawl under her arm and went after her, and got in front of her again with the light.
 
 The roots had been coming for a while before Seralune paid them any mind: a few pale threads in the joints of the wall, then cords, then whole mats of them hanging from the roof, so low that she had to hold them aside with the lamp. They were cold, and softer than roots should be, and when she let them fall back they went on swaying after they ought to have stopped.
 
@@ -492,17 +480,17 @@ She knew what Nereth would have said, the Nereth at the arch. She would have kep
 
 Seralune lifted the lamp and went towards the voice. Before she had gone far, she looked back. Nereth was coming.
 
-The voices led her to an old arch over the channel, where the ledge widened into a floor of bare stone, and no further.
+The voices led her to an old arch over the channel, where the ledge widened into a floor of bare stone, and there they stopped.
 
 Under the arch, in a hollow at the foot of the wall, something was caught.
 
-It was a lizard, no longer than her hand. Roots had grown through it, in at its sides and out along its back, and white flowers had opened all down its spine. Another root, as thick as Seralune's wrist, ran across the hollow, and one hind leg was pinned flat under it. The lizard was pulling against it, again and again, and every time its sides heaved, the voice came out of the dead behind her.
+It was a lizard, no longer than her hand. Roots had grown through it, in at its sides and out along its back, and white flowers had opened all down its spine. One hind leg was pinned flat under a root as thick as Seralune's wrist. It was pulling against it, again and again, and every time its sides heaved, the voice came out of the dead behind her.
 
 "Help me."
 
 Its mouth opened with the words. No sound came out of it. The sound came from behind her, from all of them.
 
-Seralune set the lamp down on the stone. Behind her, Nereth sat down against the wall all at once.
+Seralune set the lamp down on the stone. Behind her, Nereth sat down against the wall all at once, with her legs out in front of her.
 
 Seralune knelt by the hollow. She found a loose stone, a flat one, and began working its edge under the root with her good hand.
 
@@ -576,7 +564,7 @@ She got her hand up again, onto Nereth's face, and pushed, and it wasn't enough.
 
 Something cold moved across her neck, between Nereth's fingers.
 
-Small claws went over her collarbone, quick and light, and were gone, and something soft brushed past her cheek.
+Small claws went over her collarbone, quick and light, and on up Nereth's wrist and Nereth's arm, and white flowers brushed past Seralune's cheek.
 
 Nereth screamed.
 
@@ -588,7 +576,7 @@ Nereth was still screaming.
 
 When Seralune could lift her head, Nereth was on her knees by the channel with the lizard hanging from her face, its teeth in her below the left eye. Nereth tore it off and flung it. It struck the water and went under, and Nereth lurched after it, over the edge—
 
-Seralune didn't decide to move. She was up off the floor, and then she had Nereth round the waist with her good arm and was hauling her back from the edge, and they both went down on the stone together. The moment they landed, she let go and shoved herself back, out of reach of Nereth's hands.
+Seralune didn't decide to move. She was up against the wall, and then she had Nereth round the waist with her good arm and was hauling her back from the edge, and they both went down on the stone together.
 
 "Get it out." Nereth had both hands over her face, and blood was coming between her fingers. "Get it out of me. Get it *out*—"
 
@@ -600,7 +588,7 @@ She took her hands away.
 
 The bite was a small thing, a ragged crescent below her eye. But lines were spreading out from it under the skin, dark and branching, the way the roots had branched over the stones, up past the corner of her eye towards her temple and into her hair, and Seralune could see them grow.
 
-Seralune put her hand to her own throat. She couldn't help it.
+She put her hand to her own throat. She couldn't help it.
 
 Nereth's mouth opened.
 
@@ -608,7 +596,9 @@ Nereth's mouth opened.
 
 It wasn't her voice. It was the girl's, hoarse and thin, the voice from the dead, and it had come out of Nereth's mouth.
 
-Nereth went still, and Seralune watched her hear it. Her eyes went wide, and her hand flew up and clamped over her own mouth, and above it her eyes came to Seralune's, and for one breath they were Nereth's eyes, and they were terrified.
+Nereth heard it.
+
+Seralune watched her hear it. Her eyes went wide, and her hand flew up and clamped over her own mouth, and above it her eyes came to Seralune's, and for one breath they were Nereth's eyes, and they were terrified.
 
 Then all down the channel, from every one of the dead, the voice answered her.
 
@@ -668,9 +658,9 @@ Seralune pulled Nereth's head in against her chest, put her own face down into N
 
 It reached them, and went round them.
 
-She felt it go. It broke in front of them and went down her left side and down her right, roaring, so close that its wind dragged at her skirt, and over her head it filled the arch and closed again behind her, and broke on the fallen stone there. Her hair didn't catch. Her skin didn't burn. There was no heat in it at all. She opened her eyes on fire a finger's width away, going past and past and past, and none of it touched them.
+She felt it go. It broke in front of them and went down her left side and down her right, roaring, so close that it dragged at her skirt, and over her head it filled the arch and closed again behind her, and broke on the fallen stone there. Her hair didn't catch. Her skin didn't burn. There was no heat in it at all. She opened her eyes on fire a finger's width away, going past and past and past, and none of it touched them.
 
-A piece of the arch came down and struck her right shoulder so hard that her whole arm went numb. She cried out. She didn't let go.
+A piece of the arch came down and struck her shoulder so hard that her whole arm went numb. She cried out. She didn't let go.
 
 Then the fire had spent itself on the fallen stone behind them, and the roar stopped.
 
@@ -694,7 +684,7 @@ Seralune bent her face to Nereth's mouth. For a long time there was no breath at
 
 The breath came again. That was all.
 
-"Nereth." It hurt more this time. "It's over. You can open your eyes."
+"Nereth." It hurt more the second time. "It's over. You can open your eyes."
 
 She tried to wake her first.
 
@@ -714,7 +704,7 @@ She stayed on her hands and knees with her head down, dragging air in. Every bre
 
 She sat Nereth up against the arch again and knelt in front of her, facing away. She pulled the arms over her shoulders and drew the wrists down, well below her collarbone, and held them there against her chest with her good hand, where they couldn't touch her throat. Then she reached back with her other arm and hooked it under Nereth's knee, keeping her cut hand open so that the weight lay along her forearm. The cut pulled under its binding all the same. She got one foot under her, and then the other. It took her three tries to stand.
 
-Nereth's other foot dragged on the stone behind her. Her head hung against Seralune's ear, and her breath came there, small and wet. Every time it caught, Seralune went still and waited for it to be words. It never was. She was so much heavier than Seralune had thought anyone could be. Seralune's legs had been shaking since the floor by the hollow, and now they shook worse. Her right shoulder had feeling in it again, and all of it was pain.
+Nereth's other foot dragged on the stone behind her. Her head hung against Seralune's ear, and her breath came there, small and wet. Every time it caught, Seralune went still and waited for it to be words. It never was. She was so much heavier than Seralune had thought anyone could be. Seralune's legs had been shaking since the floor by the hollow, and now they shook worse. The shoulder the arch had struck had feeling in it again, and all of it was pain.
 
 She took a step, and another. The heat of the stone came up through the soft soles of her shoes, so that she couldn't stand still on it for long.
 
@@ -748,7 +738,7 @@ Nereth lay with her face turned up to the sky. In the grey light the lines from 
 
 *It's a long way down.*
 
-She sat Nereth up against a rock, knelt in front of her, facing away, and pulled the arms over her shoulders, and drew the wrists down onto her chest, away from her throat. Standing took longer this time.
+She knelt with her back to Nereth, and pulled the arms over her shoulders, and drew the wrists down onto her chest, away from her throat. Standing took longer this time.
 
 Down in the town, a bell had begun to ring, and it went on ringing.
 

@@ -877,6 +877,13 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
     11. **Nereth wakes as herself** in Seralune's next chapter.
     12. The last line stays. The lizard goes into the water and isn't seen to die. The title is "Beneath Natharul". *How could I be dangerous? I never had magic.* waits for a later chapter.
     13. The chapter is written from the key passages: `Volume 1/Chapter 10 - Beneath Natharul.md`.
+- **Combined with the Five Pass Revision (6 October).** The author sent two files from the other workspace, a Five Pass Revision of the chapter and a Pacing Study with eight compression proposals (both kept word for word in `Volume 1/Drafts/`), and asked: "Go through, combine, look for errors fix, update errors in story and lore, make Seralune notice Nereths heaving breathing, question what's gotten into her".
+  - **Changes 97–124,** in `Volume 1/Chapter 10 - Changes (combined with the Five Pass Revision).md`. All 46 differences were judged one by one, with error hunts in four lenses and a skeptic on each finding.
+  - **Taken from the Five Pass Revision:** its real fixes: what Seralune can see with her eyes shut, in the dark and near blackout; "It is slippery" (without the contraction), so that "I did tell Your Highness" is true; Nereth's right thumb; the separate root pinning the lizard; Cyrandor's fate unknown ("She doesn't know what's happened to Cyrandor"); Seralune letting go of Nereth after hauling her back; the right shoulder. *Waiting on the author:* its new ledge exchange ("I was looking where I would fall." / "Then look where you mean to stand. It generally works better.").
+  - **Pacing proposals 1 and 2 applied** (the second return reaches the mark sooner; the lamp shaking in one paragraph). Proposals 3–8 aren't.
+  - **Kept out as errors:** its counting; "It's slippery" on duty; "Back to the pillar…" as an italic thought with "her" in it; the dead woman's legs "twisted beneath her"; a question-only thought; lines explaining *She told me to leave it.* and the sea; "the torn dress"; "darkness" as a place; a fall where she runs out of hands.
+  - **Kept out as the author's to decide:** its changes to the opening (1A) and the Thaer line, its rewritten rest ("Where would I go?"), and its carry (the shawl, the shin, a chosen rest).
+  - **The breathing beat (the author's request).** On the slope after the steps, Seralune hears Nereth's breathing drown her feet, turns, and sees her shoulders heaving. She reasons that Nereth is ill and has been hiding it since the lamp began to shake. She asks "Nereth, what's got into you? And don't tell me you're quite all right." ("got", the British form). Nereth doesn't answer, and passes her into the dark of the slope. *Waiting on the author.*
 
 ## Alaric
 
