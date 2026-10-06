@@ -668,7 +668,7 @@ Seralune pulled Nereth's head in against her chest, put her own face down into N
 
 It reached them, and went round them.
 
-She felt it go. It broke in front of them and went down her left side and down her right, roaring, so close that its wind dragged at her skirt, and over her head it filled the arch and closed again behind her, and broke on the fallen stone there. Her hair didn't catch. Her skin didn't burn. There was no heat in it at all. She opened her eyes on fire a finger's width away, going past and past and past, and none of it touched them.
+She felt it go. It broke in front of them and went down her left side and down her right, roaring, so close that its wind dragged at her skirt, and she heard it fill the arch over her head and close again behind her, and break on the fallen stone there. Her hair didn't catch. Her skin didn't burn. There was no heat in it at all. She opened her eyes on fire a finger's width away, going past and past and past, and none of it touched them.
 
 A piece of the arch came down and struck her right shoulder so hard that her whole arm went numb. She cried out. She didn't let go.
 

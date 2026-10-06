@@ -412,6 +412,27 @@ Three judges (the author's ear, the horror, house style and continuity) all chos
 - **Four faults from the final read-through:** whose step (90), the binding drawn firm once (91), "slept" twice (92).
 - **The oath, corrected.** The recommendation the author took was "The Last Dark take you". But the Last Dark is Mydea's religion, and the world bible keeps Natharul's own oaths ("Root and crown", "Before the Tree", "May your roots find stone", "Rootless"; `Old - Before Re-plan/World Bible/The World.md`, approved 22 September). Chapter 7's draft comparison took the same phrase out of a Natharul servant's mouth. So Nereth says "Make them stop, you rootless thing." "Rootless" is Natharul's worst insult: a traitor, an exile, someone with no house. *Your call.*
 
+
+## Combined with the Five Pass Revision (6 October)
+
+**The author:** "Go through, combine, look for errors fix, update errors in story and lore, make Seralune notice Nereths heaving breathing, question what's gotten into her", with two files from the other workspace: the Five Pass Revision and its Pacing Study (both in `Drafts/`, word for word).
+
+**What was done:** changes 97–124, in `Chapter 10 - Changes (combined with the Five Pass Revision).md`. The chapter before them is `Drafts/Chapter 10 - Beneath Natharul (Draft 1, before combining with the Five Pass Revision).md`.
+- One workflow judged all 46 differences, region by region. Four error hunts, each with a skeptic, covered story, lore, staging and style. Three drafts of the breathing beat were judged against each other.
+- A second workflow verified the combined chapter: three lenses with skeptics, and a completeness critic.
+- The details are in Decisions ("Combined with the Five Pass Revision").
+
+**Waiting on the author:**
+1. **The breathing beat (change 111).** Seralune notices on the slope, reasons that Nereth is ill and hiding it, and asks "Nereth, what's got into you? And don't tell me you're quite all right." Nereth doesn't answer. *Recommended:* yes.
+2. **The other new lines (changes 98, 99, 112, 117).** *Recommended:* yes. They come from the Five Pass Revision and each fixes or tracks something.
+3. **The Five Pass Revision's own choices, kept out:**
+   - its changes to the opening and to the Thaer line;
+   - its rewritten rest;
+   - its carry with the shawl, the shin and a chosen rest;
+   - dropping "you rootless thing".
+
+   *Recommended:* keep the chapter as it is, unless those were the author's own edits.
+
 ---
 
 ## Claude's first proposal and round 1 (superseded by the author's direction)

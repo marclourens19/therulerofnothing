@@ -4,11 +4,11 @@
 
 **How it was done.** All 46 places where the two versions differ were judged one by one (five agents, one per stretch of the chapter), against Decisions, the house style and Chapters 4, 5 and 7. Four more agents hunted for story, lore, staging and style errors in both versions, and a skeptic for each tried to knock every finding down. Three drafts of the breathing beat were judged against each other.
 
-**What came in from the Five Pass Revision:** its real fixes (what Seralune can see with her eyes shut, in the dark and at the edge of blackout; the warning that makes "I did tell Your Highness" true; Nereth's right thumb; the root that pins the lizard; Cyrandor's fate unknown; Seralune pulling away from Nereth after the bite; the right shoulder), and one new exchange on the ledge, for your yes or no. Pacing proposals 1 and 2 are applied; 3 to 8 aren't, mostly because they rest on the Five Pass carry and slope, or because the study itself would keep the original.
+**What came in from the Five Pass Revision:** its real fixes (what Seralune can see with her eyes shut, in the dark and at the edge of blackout; the warning that makes "I did tell Your Highness" true; Nereth's right thumb; the root that pins the lizard; Cyrandor's fate unknown; Seralune pulling away from Nereth after the bite; the right shoulder), and one new exchange on the ledge, for your yes or no. Pacing proposals 1 and 2 are applied; 3 to 8 aren't: most rest on the Five Pass carry and slope, or the study itself would keep the original, and 5 would cut your own line *She isn't listening to me any more…*.
 
 **What stayed out, as errors:** its counting ("Twice… On the third attempt", "stop twice"); "It's slippery" on duty; your "Back to the pillar…" set as an italic thought with "her" inside it; the dead woman's legs "twisted beneath her", which Nereth then steps over; *How long have they been here? Did anyone look for them?*, a thought that only asks; the lines that explain *She told me to leave it.* and the sea; "the torn dress", which nothing tore; "darkness" as a place; and a carry where she runs out of hands.
 
-**What stayed out as yours to decide** (listed in chat): its changes to your opening and to the Thaer line, its rewritten rest, and its shawl, shin and chosen rest in the carry.
+**What stayed out as yours to decide** (listed in chat): its changes to your opening and to the Thaer line, its rewritten rest, and its shawl, shin and chosen rest in the carry. One more: the Five Pass Revision drops "you rootless thing" from the strangling (change 93, still waiting on you). It stays here; say no and the line goes back to "Make them stop."
 
 ## Your call
 
@@ -388,9 +388,9 @@ Each of these adds something new, so it needs a yes or no from you. Say no to an
 
 ### 12. The fire
 
-#### 120. Its wind, not the fire
+#### 120. Its wind, and what she hears with her eyes shut
 
-*changed* · final check
+*changed* · final check; completeness critic
 
 **Before**
 
@@ -398,9 +398,9 @@ Each of these adds something new, so it needs a yes or no from you. Say no to an
 
 **After**
 
-> She felt it go. It broke in front of them and went down her left side and down her right, roaring, so close that its wind dragged at her skirt, and over her head it filled the arch and closed again behind her, and broke on the fallen stone there. Her hair didn't catch. Her skin didn't burn. There was no heat in it at all. She opened her eyes on fire a finger's width away, going past and past and past, and none of it touched them.
+> She felt it go. It broke in front of them and went down her left side and down her right, roaring, so close that its wind dragged at her skirt, and she heard it fill the arch over her head and close again behind her, and break on the fallen stone there. Her hair didn't catch. Her skin didn't burn. There was no heat in it at all. She opened her eyes on fire a finger's width away, going past and past and past, and none of it touched them.
 
-**Why:** Magic can't touch her or anyone she holds, and the same paragraph ends "none of it touched them". Wind is ordinary.
+**Why:** Magic can't touch her or anyone she holds, and the paragraph ends "none of it touched them", so it is the fire's wind that drags at her skirt. And her eyes are shut with her face in Nereth's hair until the end of the paragraph, so the arch filling over her head is something she hears. The Five Pass Revision caught the second too.
 
 #### 121. Her right shoulder
 

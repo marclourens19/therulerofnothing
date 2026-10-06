@@ -883,6 +883,8 @@ The plan is built in `Volume 1/Chapter 4 - Design.md`.
   - **Pacing proposals 1 and 2 applied** (the second return reaches the mark sooner; the lamp shaking in one paragraph). Proposals 3–8 aren't.
   - **Kept out as errors:** its counting; "It's slippery" on duty; "Back to the pillar…" as an italic thought with "her" in it; the dead woman's legs "twisted beneath her"; a question-only thought; lines explaining *She told me to leave it.* and the sea; "the torn dress"; "darkness" as a place; a fall where she runs out of hands.
   - **Kept out as the author's to decide:** its changes to the opening (1A) and the Thaer line, its rewritten rest ("Where would I go?"), and its carry (the shawl, the shin, a chosen rest).
+  - **"You rootless thing" (change 93).** The Five Pass Revision drops it. It stays until the author says otherwise, since change 93 is still waiting on them.
+  - **Verified:** a final pass (three lenses with skeptics and a completeness critic) found no surviving faults. The critic caught one fix the Five Pass Revision had that was missing here: her eyes are shut while the fire fills the arch, so she hears it (change 120).
   - **The breathing beat (the author's request).** On the slope after the steps, Seralune hears Nereth's breathing drown her feet, turns, and sees her shoulders heaving. She reasons that Nereth is ill and has been hiding it since the lamp began to shake. She asks "Nereth, what's got into you? And don't tell me you're quite all right." ("got", the British form). Nereth doesn't answer, and passes her into the dark of the slope. *Waiting on the author.*
 
 ## Alaric
