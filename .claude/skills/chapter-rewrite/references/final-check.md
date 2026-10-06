@@ -5,7 +5,7 @@ Do this after the last round of changes, before a chapter counts as finished. It
 ## Part 1: the script
 
 ```bash
-python3 .claude/skills/chapter-rewrite/scripts/style_check.py "New - Re-plan/Volume N/Chapter N - Title.md"
+python3 .claude/skills/chapter-rewrite/scripts/style_check.py "Manuscript/Volume N/Chapter NN - Title.md"
 ```
 
 Go through every section of the output. A count isn't a fault; it's a place to look.
@@ -99,7 +99,7 @@ Check each of these for the same thing happening twice:
 
 - Did any change alter the meaning of a line elsewhere, in this chapter or the next?
 
-For anything this list doesn't cover, see `Old - Before Re-plan/World Bible/Chapter Craft Writing Rules.md` §24, the long form.
+For anything this list doesn't cover, see `Archive/World Bible/Chapter Craft Writing Rules.md` §24, the long form.
 
 ## After the check
 

@@ -13,22 +13,34 @@ Read `references/chapter-1-lessons.md` once before your first chapter. It shows 
 
 Read these before touching a chapter. When two sources disagree, the higher one wins.
 
-1. **`New - Re-plan/Decisions.md`.** Every decision made with the author, the questions still open, and the old files that now conflict. It overrides everything below it. Read the sections for the volume, the chapter, and every character and place in it.
-2. **`New - Re-plan/Claude Handoff (1 October).md`**, the newest consolidated handoff (start with its §22–24), and the earlier **`New - Re-plan/Claude Handoff.md`** (added 29 September), kept as a historical source. The author also works in a second workspace; its chapter copies can lag behind this repo's, so check that a handoff's quotations match the chapters here. The author's work outside this repository on 28–29 September: the line pass of Chapters 1–3, Chapter 4, the philosophy, the Eight Rulers, the shared soul, the approved survival ending, love, and a proposed Volume 1 structure. What the author set there is copied into `Decisions.md`; everything else in it keeps its own label (**author-set**, **working consensus**, **unapproved proposal**, **strong recommendation**, **still open**). Never treat a recommendation in it as decided.
-3. **`New - Re-plan/Volume N Picture.md`.** The shape of the volume: its question, arcs and ending.
-4. **`New - Re-plan/Volume 1/Chapter 1 - A War Without Sound.md`.** The model chapter for voice, rhythm and page style. For Seralune's voice, `Chapter 4 - A Promise Left Fractured.md`.
-5. **`New - Re-plan/The Ruler of Nothing - Narrative and Web-Novel Design Bible.md`.** The craft reference. The most-used parts:
+1. **`Story Bible/Decisions.md`.** Every decision made with the author, the questions still open, and the old files that now conflict. It overrides everything below it. Read the sections for the volume, the chapter, and every character and place in it.
+2. **`Story Bible/Handoffs/Claude Handoff (1 October).md`**, the newest consolidated handoff (start with its §22–24), and the earlier **`Story Bible/Handoffs/Claude Handoff (29 September).md`** (added 29 September), kept as a historical source. The author also works in a second workspace; its chapter copies can lag behind this repo's, so check that a handoff's quotations match the chapters here. The author's work outside this repository on 28–29 September: the line pass of Chapters 1–3, Chapter 4, the philosophy, the Eight Rulers, the shared soul, the approved survival ending, love, and a proposed Volume 1 structure. What the author set there is copied into `Decisions.md`; everything else in it keeps its own label (**author-set**, **working consensus**, **unapproved proposal**, **strong recommendation**, **still open**). Never treat a recommendation in it as decided.
+3. **`Story Bible/Volume N Picture.md`.** The shape of the volume: its question, arcs and ending.
+4. **`Manuscript/Volume 1/Chapter 01 - A War Without Sound.md`.** The model chapter for voice, rhythm and page style. For Seralune's voice, `Chapter 04 - A Promise Left Fractured.md`.
+5. **`Story Bible/Craft/Narrative and Web-Novel Design Bible.md`.** The craft reference. The most-used parts:
    - §2.3, the house page style;
    - §7.5, character voices;
    - §9.4, how each character shows emotion;
    - §9.6, italics;
    - §17–18, scene and chapter design;
    - §19.3, horror through absence.
-6. **`Old - Before Re-plan/World Bible/`.** The lore record, but only where `Decisions.md` doesn't override it. `Chapter Craft Writing Rules.md` §24 is the long final checklist.
+6. **`Archive/World Bible/`.** The lore record, but only where `Decisions.md` doesn't override it. `Chapter Craft Writing Rules.md` §24 is the long final checklist.
 
 **Check every branch, not only main.** On 29 September, five rounds of Chapter 4 and 5 design, with decisions the author had made, were found on `claude/youthful-curie-i1c390`, never merged. Before starting, run `git fetch origin` and `git log --oneline main..origin/<branch>` for each branch, and bring in anything unmerged.
 
-The old chapters in `Old - Before Re-plan/` are raw material, not canon. Many of them conflict with decisions; the list is under "Existing files that now conflict" in `Decisions.md`.
+The old chapters in `Archive/` are raw material, not canon. Many of them conflict with decisions; the list is under "Existing files that now conflict" in `Decisions.md`.
+
+## Where files go
+
+The repository was reorganised on 6 October 2026. Keep to this layout, and use two-digit chapter numbers in file and folder names so they sort in order ("Chapter 04", "Chapter 10"). The heading inside a chapter stays "# Chapter 4 – Title".
+
+- **`Manuscript/Volume N/Chapter NN - Title.md`**: finished chapters only, the ones the author has accepted.
+- **`Chapter Development/Volume N/Chapter NN/`**: everything else about one chapter. That means its design (`Chapter NN - Design.md`), dialogue rounds, revision notes, comparisons with the old chapters, and changes files. A chapter being drafted lives here as `Chapter NN - Title.md` until the author accepts it. Then it moves to `Manuscript/` with `git mv`, and its live change list's `"chapter"` path is updated.
+- **`Chapter Development/Volume N/Chapter NN/Drafts/`**: that chapter's saved drafts and its change lists. A saved draft is never edited.
+- **`Chapter Development/Volume N/`** (top level): working documents that cover several chapters, such as a review of several chapters at once.
+- **`Story Bible/`**: canon and planning. That's `Decisions.md`, the Volume Pictures and the Volume 1 outline. The author's handoffs and Claude's replies to them go in `Handoffs/`, proposals that aren't canon in `Proposals/`, and the craft reference in `Craft/`.
+- **`Archive/`**: everything from before the re-plan, unchanged.
+- **Word-for-word files stay word for word.** The author's handoffs, proposals and pasted designs or dialogue keep their original text, even where it names a file by an older path.
 
 ## How to work with the author
 
@@ -48,7 +60,7 @@ The rules below come from the author's own instructions ("Never accept my words 
 - **Restraint isn't voice** (Chapter 10, rejected three times: 2 October, 4 October and 5 October). The rejected rounds piled up rules like "no articulate speeches", "keep it short" and "her silence is the danger". The result was soft, interchangeable lines and report prose ("Nereth said nothing." "Seralune waited."), and the author felt "no emotion… no horror… just words and then a weird explosion". A descent into madness needs the character present and wrong, one new kind of wrong at a time, with a cause the reader can watch. A climax needs to be built up on the page beforehand. When a chapter has agreed voice references (Seralune as Alisaie, Nereth as Ram), check every line against them before sending.
 - **Stop when revising would only make it different** (handoff §2–3). Chapters 1–4 "are good and no longer need broad rewrites". Further gains come from causality, continuity, voice or exact prose, "not from making every line louder". Don't run general beautification passes.
 - **Never write a chapter without warning.** The author: "Before you write any chapter, let me know in advance so I can read the chapter design first, and we can plan some dialogue options before then write the chapter." The order is always: the design, agreed; a round of dialogue options for the key exchanges; then say the chapter is ready to write, and wait for the go-ahead.
-- **One chapter at a time.** "I prefer designing chapter by chapter." A plan across several chapters stays a rough outline; the detail goes in the current chapter's own design file (`Volume N/Chapter N - Design.md`).
+- **One chapter at a time.** "I prefer designing chapter by chapter." A plan across several chapters stays a rough outline; the detail goes in the current chapter's own design file (`Chapter Development/Volume N/Chapter NN/Chapter NN - Design.md`).
 - **Plan enough to happen** (29 September). The author: "The chapters we are creating are far too short for my liking… little in content, where I prefer more." Chapters 3–5 came in at 2,000–2,600 words, against Chapter 2's 4,660. Don't design a chapter down to its fewest beats. Give the people in it room to push on each other and react, and give the viewpoint character a choice the reader can see. The extra never comes from lore, decoration or explaining (principle 5 still holds). The target (29 September) is 4,000–5,000 words, and longer whenever "storytelling and character writing can be done better". **Length comes from what happens, not from word budgets.** Chapter 5's deep revision budgeted about 4,300 words scene by scene, but everything agreed, written at the density the author likes, came to under 2,900. Padding to a number breaks principle 5. So plan the events, and check the design against the target before the dialogue round: enough exchanges, reactions and choices to fill it. **It happened again on Chapter 6:** budgeted at 6,500, the agreed chapter came to about 5,100. Per-scene budgets run about a quarter high, so give the author a range before drafting, not a single number, and say it's an estimate.
 - **Ask "What could make this chapter 100/100?"** (30 September, the author's requirement for this and every future chapter proposal). Answer it in the design file with specific improvements and honest challenges: what still limits the design, the strongest openings, the risks, and what to test in the draft. Don't treat a working outline as the best version, and don't answer with bigger spectacle, more suffering or more words.
 - **Search the whole chapter before claiming what someone said or knows** (30 September). Claude said Alaric named Gerolt first in Chapter 3; the author pointed out Silas shouts "Gerolt died for nothing!" earlier, and Alaric notices ("He knew Gerolt's name."). Grep the chapter for the name or line before building an argument on it. **It happened again on Chapter 7:** the design called Cyrandor a stranger, but Chapter 5 already had him bow and smile in the corridor. Before designing a chapter, search the chapters before it for every character in it.
@@ -100,11 +112,11 @@ New principles from the author go into `Decisions.md` first, then here.
 
 Read the whole chapter, the decisions that touch it, the volume picture, and the chapters on either side.
 
-Find out which lines the author wrote personally. For example, diff the chapter against its old versions in `Old - Before Re-plan/`. On Chapter 1, the author had written the opening; the rest was an older rewrite. The author's own lines get the lightest touch, and every change to them is flagged.
+Find out which lines the author wrote personally. For example, diff the chapter against its old versions in `Archive/`. On Chapter 1, the author had written the opening; the rest was an older rewrite. The author's own lines get the lightest touch, and every change to them is flagged.
 
 ### 2. Write the revision notes
 
-Create `New - Re-plan/Volume N/Chapter N - Revision Notes.md`, with line numbers throughout, in these sections:
+Create `Chapter Development/Volume N/Chapter NN/Chapter NN - Revision Notes.md`, with line numbers throughout, in these sections:
 
 1. How the chapter works (what to keep, and why it works).
 2. What already matches the decisions.
@@ -121,17 +133,17 @@ Ask them a few at a time, each with a recommendation. Record every answer in `De
 
 ### 4. Save the draft
 
-Copy the chapter, unchanged, to `New - Re-plan/Volume N/Drafts/Chapter N - Title (Draft K, before revision).md`. Every change you make is measured against this copy, and anything rejected goes back from it.
+Copy the chapter, unchanged, to `Chapter Development/Volume N/Chapter NN/Drafts/Chapter NN - Title (Draft K, before revision).md`. Every change you make is measured against this copy, and anything rejected goes back from it.
 
 ### 5. Write the change list, then apply it
 
-Don't edit the chapter by hand. Write each change as an entry in `New - Re-plan/Volume N/Drafts/Chapter N - change list.json` (format below), then run:
+Don't edit the chapter by hand. Write each change as an entry in `Chapter Development/Volume N/Chapter NN/Drafts/Chapter NN - change list.json` (format below), then run:
 
 ```bash
-python3 .claude/skills/chapter-rewrite/scripts/apply_changes.py "New - Re-plan/Volume N/Drafts/Chapter N - change list.json"
+python3 .claude/skills/chapter-rewrite/scripts/apply_changes.py "Chapter Development/Volume N/Chapter NN/Drafts/Chapter NN - change list.json"
 ```
 
-It applies the list to the saved draft and writes both the revised chapter and `Chapter N - Changes.md`. The changes file shows every change's before, after and reason. Doing it this way means the changes file can never drift from the chapter. The author approves or rejects change by change, and a rejection is a one-word edit followed by a re-run.
+It applies the list to the saved draft and writes both the revised chapter and `Chapter NN - Changes.md`, in the chapter's development folder. The changes file shows every change's before, after and reason. Doing it this way means the changes file can never drift from the chapter. The author approves or rejects change by change, and a rejection is a one-word edit followed by a re-run.
 
 When writing changes:
 
@@ -145,7 +157,7 @@ When writing changes:
 
 1. Agree the chapter's plan with the author first: what changes by the end, which decisions it carries, which small answers it gives and which big ones it withholds, and the choice its viewpoint character makes.
 2. Write the new chapter.
-3. Save the old version in `Drafts/`.
+3. Save the old version in the chapter's `Drafts/` folder.
 4. Present the changes scene by scene, with the key passages as before and after.
 5. From then on, use change lists for every later round.
 
@@ -164,7 +176,7 @@ A new general preference from the author, like principle 5 was, goes into `Decis
 Run the mechanical check:
 
 ```bash
-python3 .claude/skills/chapter-rewrite/scripts/style_check.py "New - Re-plan/Volume N/Chapter N - Title.md"
+python3 .claude/skills/chapter-rewrite/scripts/style_check.py "Manuscript/Volume N/Chapter NN - Title.md"
 ```
 
 Then read the whole chapter through, using `references/final-check.md`. Fix objective faults (spelling, pronouns, continuity) as a new round in the change list. Anything that needs the author's judgement goes to them as a question.
@@ -174,9 +186,9 @@ Then read the whole chapter through, using `references/final-check.md`. Fix obje
 ```json
 {
   "title": "Chapter 2: Changes",
-  "draft": "Chapter 2 - Title (Draft 1, before revision).md",
-  "chapter": "../Chapter 2 - Title.md",
-  "changes_file": "../Chapter 2 - Changes.md",
+  "draft": "Chapter 02 - Title (Draft 1, before revision).md",
+  "chapter": "../../../../Manuscript/Volume 1/Chapter 02 - Title.md",
+  "changes_file": "../Chapter 02 - Changes.md",
   "intro_md": "Markdown under the title: the date, the rounds, where the draft is saved.",
   "glance": ["Extra lines for 'At a glance', such as a repeated beat counted before and after."],
   "summary_md": "## What each decision became\n\n1. **The sword:** change {tag:sword}.",
@@ -198,7 +210,7 @@ Then read the whole chapter through, using `references/final-check.md`. Fix obje
 }
 ```
 
-- **Paths** are relative to the change list's own folder.
+- **Paths** are relative to the change list's own folder, the chapter's `Drafts/`. From there a saved draft is just its name, the changes file is `../Chapter NN - Changes.md`, and a finished chapter is `../../../../Manuscript/Volume N/Chapter NN - Title.md`.
 - **`kind`** is one of:
   - `changed`: `before` becomes `after`.
   - `cut`: leave out `after`.
@@ -208,8 +220,8 @@ Then read the whole chapter through, using `references/final-check.md`. Fix obje
 - **Optional fields:**
   - `decision_short` gives the decided list a shorter note.
   - `--check` reports whether the files on disk are current, without writing anything.
-- **Worked example:** `New - Re-plan/Volume 1/Drafts/Chapter 1 - change list.json`. It holds 62 changes over eight revisions.
-- **Chained lists.** When a chapter changes outside this process (as with the line pass of 28–29 September), save the chapter as it stood as a new draft, point the old list's `"chapter"` at that draft, and start a new list from it. The old list and its changes file stay true, and `--check` passes on both. **For Chapters 1–6, the live list is now `Drafts/Chapter N - change list (author's revision).json`** (the author's Word file of 1 October); later rounds go there. The lists before it (Chapters 1–3's line pass, Chapter 4's from "Before Evening", Chapter 5's deep revision, Chapter 6's first draft) end at the saved drafts. Chapter 7's live list is still `Drafts/Chapter 7 - change list.json`.
+- **Worked example:** `Chapter Development/Volume 1/Chapter 01/Drafts/Chapter 01 - change list.json`. It holds 62 changes over eight revisions.
+- **Chained lists.** When a chapter changes outside this process (as with the line pass of 28–29 September), save the chapter as it stood as a new draft, point the old list's `"chapter"` at that draft, and start a new list from it. The old list and its changes file stay true, and `--check` passes on both. **For Chapters 1–6, the live list is now `Chapter NN - change list (author's revision).json`** in each chapter's `Drafts/` (the author's Word file of 1 October); later rounds go there. The lists before it (Chapters 1–3's line pass, Chapter 4's from "Before Evening", Chapter 5's deep revision, Chapter 6's first draft) end at the saved drafts. Chapter 7's live list is still `Chapter Development/Volume 1/Chapter 07/Drafts/Chapter 07 - change list.json`.
 
 ## House style
 
