@@ -1,6 +1,8 @@
 # Chapter 11: Design
 
-Started 6 October 2026. **Status:** Claude's proposal and round 1 of questions. Nothing in this file is decided until the author answers. New material is marked **Your call**.
+Started 6 October 2026. **Status (9 October):** the author's working design, `Chapter 11 - Working Design.md`, replaces the seven-scene shape below, which is kept as a record. What became of each round 1 question, Claude's review of the working design, and round 2 are at the end of this file ("Round 2: the author's working design"). New material is marked **Your call**.
+
+**Earlier status (6 October):** Claude's proposal and round 1 of questions.
 
 **The target:** 4,000–5,000 words, and longer if the story needs it. Claude's estimate for the shape below is **4,800–6,000 words**. Per-scene budgets have run about a quarter high on every chapter so far, so read it as a range.
 
@@ -362,3 +364,210 @@ Answer by number. Each has my recommendation.
       - That would make Chapter 12 Seralune's (Nereth wakes), and Chapter 13 Alaric's: the quarter, Redd and Freya, and the fort.
     - *Alternative:* a first glimpse in Chapter 11. It would be new, and yours to shape.
 17. **The title:** later, once the chapter is written.
+
+## Round 2: the author's working design (9 October)
+
+The author's working design is kept word for word in `Chapter 11 - Working Design.md`. It's the chapter's shape now: sixteen passages, across Day 3 (the inn, the town, the twins and Brand) and Day 4 (the transfer and the decision to act).
+
+### What became of round 1
+
+| Q | Round 1 asked | Now |
+|---:|---|---|
+| 1 | Seven scenes, ending at Silas's door | **Replaced** by the working design's sixteen passages. |
+| 2 | A two-day limit from Rhose's talk | **Rejected:** "There is no fixed two-day departure deadline." The shelter has practical conditions, not an expiry date. |
+| 3 | How Empty comes out | **Still open** (unresolved choice 6). The author recommends a practical question that provokes voluntary disclosure, in private, with Marta and Silas both learning it before they agree on his part. |
+| 4 | Whether anyone senses mana | **Neither way:** "Do not automatically introduce a sensing ability or a universal rule that nobody can sense mana." The page simply doesn't use sensing. |
+| 5 | Silas at the back door | **Replaced:** Alaric meets Silas outside to return the cloak. Clothes are open (unresolved choice 1). The salve and the king at the field aren't taken up. |
+| 6 | The father line | **Not in the working design;** it stays deferred. |
+| 7 | The kitchen scene | **Folded into passage 11:** Gerolt's ordinary behaviour as well as his death, with Marta contributing memories. "Alaric does not recite Chapter 1 to her." |
+| 8 | "Warde" and "Heh." | **Not answered** (round 2, question 9). |
+| 9 | The guards' drink | **Kept,** brief, on Day 3 after their shift, and distinct from the Day 4 report. |
+| 10 | Who brings the news | **A guard, on Day 4** (passage 13). |
+| 11 | The king's ship | **Not taken up.** The working design has no link to Seralune's thread. That's fine: the volume's guard rules out near-misses, but doesn't require a link in every chapter. |
+| 12 | Who Darcy is | **Partly settled:** her knowledge of history and war tactics is confirmed. Childhood friendship is "an old option, not a confirmed decision" (round 2, question 13). |
+| 13 | Marta's price | **Replaced:** Marta has wanted Darcy freed for years. Alaric volunteers, and "participation is not payment for shelter". |
+| 14 | The ending | **Replaced:** he asks for a part in the attempt, and the chapter ends on a concrete next step or a changed agreement. |
+| 15 | The double | **Agreed:** no new appearance. "The aftermath of the first vision is enough." |
+| 16 | Redd and Freya | **Not in Chapter 11.** The large guest isn't Redd, and their introductions are separate design work. |
+| 17 | The title | **Later.** |
+
+### What the working design gets right
+
+- **It gives Alaric a second want** that grows from what he sees (the twins, Brand) rather than from a briefing. Through Darcy, it joins that want to the first one, his past. That's the Volume 1 road: kindness and the search for himself, side by side.
+- **Silas and Alaric get a day together,** which their friendship has been owed since Chapter 6.
+- **Marta's request has a history,** so it isn't a mission handed to a stranger.
+- **Brand arrives the way the handoff asked** (§19.4): "one brief introduction… Curiosity begins here; no full duel or mature obsession belongs in Volume 1."
+
+### Where I'd challenge it
+
+1. **Day 3 is eleven passages, and could read as a tour.**
+   - It runs: the guest, the common room, Marta, Silas, the contacts, the twins, the request, Brand, the walk back, the lesson, the evening and the drink. Each is good alone; together they risk being one thing after another.
+   - **The fix is a through-line, not cuts.** Alaric's question from the vision (*Who am I really?*) should press on every encounter, so each one answers back to it:
+     - he expects the guest's anger, because of what he saw himself become in the dream;
+     - the women he saw dead are laughing in the common room;
+     - the twins are what he can't stop;
+     - Brand is what power looks like, and he doesn't stop it either;
+     - the request to learn is what Alaric wants to become, which is either the opposite of the accusation or the same thing (point 2).
+   - **Test in the draft:** a passage that touches neither the question nor his attachment to the inn is a candidate to shorten.
+2. **The request to learn has an irony the design doesn't use yet.**
+   - The night before, something with his face stood in a burning town and said "This is who you are, Alaric." The next day he asks a man to teach him to fight.
+   - Decisions say he "isn't afraid to take action, even if it means killing someone. He doesn't know that about himself yet."
+   - **Proposal:** when Silas asks why, Alaric's answer is the twins. In his head, for one line, there's the vision. He asks anyway, and nothing explains it.
+3. **Brand and the gorge.**
+   - Decisions say Silas's old squad and Marta's father died in the gorge, and that the gorge was Silas's own reckless choice: "cunning in the moment, reckless in the big choices (like the gorge)".
+   - If Brand's killings *are* the gorge, then Brand killed Marta's father, and part of Silas's guilt moves onto Brand.
+   - **Recommended: keep them separate.** Silas's arc is learning to live with his own actions, so the gorge has to stay his. And Brand's age (about Alaric's) puts his killings within the last few years. (Question 6.)
+4. **Brand is about the field, if we want him to be.**
+   - The working design leaves his reason open. The strongest one is already in the town: a battle nobody heard, on Mydean land, with elves all over it.
+   - He's interested in "the commotion" (your word), so his talk with the guards can be about exactly that, and he's delighted by it.
+   - Alaric is standing a street away from a man who's excited about the thing Alaric woke up in. Brand doesn't notice him; readers will.
+   - That seeds the obsession (handoff §14.3: "insignificant" first, then curiosity) without a single look between them.
+5. **Great power beside the auction.**
+   - The design wants Alaric to have "seen great power beside an auction that continues unchanged".
+   - **The plainest way:** Brand comes through the square while the sale is still going. The guards clear a way for him past the platform, and he doesn't look at it. Nobody says anything about it.
+6. **The second auction mustn't be Chapter 8 again.**
+   - Chapter 8 was one woman, and Silas explaining the law ("Because she's 『Faint』"). This time Silas explains nothing, and Alaric already understands.
+   - **Proposal:** the children are ten, and were tested this season.
+   - Instead of an explanation, Alaric has Gerolt's line from Chapter 1, which he understands now: *they call it protection.*
+   - His question to Silas is about people, not law: how does everyone just stand there? Silas's answer is about people too.
+7. **Empty belongs at the planning, where it can cost him.**
+   - The design wants Marta and Silas both to learn it before they agree on his part. Silas isn't at the Day 3 evening talk, so the place is Day 4, at the planning.
+   - Silas refuses him because he's untrained. The obvious next question is what he *can* do: "What's your 『Affinity』?"
+   - A lie might win him his place. He tells the truth, knowing it may cost him it.
+   - That makes Empty a choice, and puts it at the one moment it matters most. (Question 10.)
+8. **The Day 4 report, and the guard's crush.**
+   - Chapter 9 set up the loud guard's soft spot for Marta: "She smiles at him once and he forgets I'm standing here."
+   - That's a credible reason for him to come back on Day 4 without his partner. He grumbles to her about the new duty that spoils his week: the convoy. Marta draws out when it leaves and which way it goes.
+   - It's different from the Day 3 drink in source, content and timing, and it uses a man the reader already knows. (Question 11.)
+9. **What makes Alaric useful.** Insistence can't win him a place, rightly. What he has:
+   - nobody at the fort knows his face, and nobody connects him with Marta or Silas;
+   - he was on the field. If Darcy has heard about it (or has been set to look at what came off it, round 1's idea), a witness is the one stranger she might want to hear;
+   - he has a reason to speak to her that nobody else has.
+
+   So his limited task can be the contact: carry Marta's word in, hear Darcy's answer and what she needs, and come out. That's the design's own recommended objective, and it leaves the extraction to Silas and Marta. (Question 15.)
+10. **Marta letting Silas in is the cost made visible.** The design says Marta's request "costs her something". If she lets him into her kitchen for the first time, for Darcy, the reader sees the cost without a word about the marriage. (Question 14.)
+11. **What Silas and Alaric learn about each other.**
+    - The design asks for both directions. As it stands, Alaric learns a lot about Silas (his work, his contacts, his fear of Brand), but Silas learns little that's new about Alaric.
+    - **Proposal:** two things.
+      - At the auction, Silas sees what Alaric cares about, and that he stays when it hurts.
+      - On Day 4, Silas learns that he's Empty.
+    - Both change how Silas answers the request to learn.
+12. **Length.**
+    - My estimate of the working design as written is 6,500–8,000 words, against your 5,500–7,000. Chapter 10 was 8,700 and worked, so length alone isn't the problem.
+    - If it runs long, shorten passage 12 and the Day 3 drink, never the outing.
+    - **Alternative:** split it at the end of Day 3, so Chapter 11 is the town and Brand, and Chapter 12 is Darcy. That would push Seralune's next chapter to 13, which I wouldn't do.
+
+### Round 2 questions
+
+These are the working design's ten unresolved choices, plus the few they raise. Answer by number; each has my recommendation.
+
+**Day 3: going out**
+
+1. **Clothes, the sword, Wena and Marta's leave** (unresolved choice 1).
+   - *Recommended:*
+     - Marta gives him plain clothes from the house in passage 4, and the black clothes stay folded in his room.
+     - Gerolt's sword stays in his room.
+     - Rhose takes Wena for the day. She objected to him and hid him; looking after his dog shows her as more than her objection.
+     - He asks Marta's leave to go out with Silas. She gives it while working, with conditions: no dog, no sword, hood up, stay with Silas, and come back through the back door.
+   - *Alternative:* he goes without asking, and Marta finds out when Silas brings him back from Brand. That gives Marta a reason to lay into Silas, but it repeats Chapter 6's slipping away.
+   - **The household rules themselves:** *recommended,* he keeps out of the common room when guards are in, Wena is never seen at the front, and nobody outside the house hears his name.
+2. **Silas's source, and Avarice** (unresolved choice 2).
+   - *Recommended:* two stops at most.
+     - A carter who hauls for the fort tells what he's seen: guards on the farm road, and covered wagons coming back.
+     - Someone who has only heard things (at the gate, about the elves). Silas pays for it, and Alaric sees him trust it less.
+     - Alaric notices that Silas's questions follow what each person could know.
+   - **The word Avarice:** *recommended,* not said in Chapter 11. Alaric learns that Silas works for "people" he won't name, and after Brand, that men Silas fought beside are dead.
+   - *Alternative:* Silas names Avarice when he explains Brand.
+3. **Silas's lodging.** Alaric has to know it to fetch him in passage 14.
+   - *Recommended:* he learns it on the outing. They stop there, or Silas points it out.
+   - Where it is is *your call.*
+4. **The twins** (unresolved choice 3).
+   - *Recommended:* both ten, tested this season, both 『Faint』, and sold separately.
+     - One won't let go of the other's hand, and keeps asking the same thing: to go together.
+     - The other is silent, watching the buyers.
+     - Alaric has Gerolt's line, not an explanation: *they call it protection.*
+     - **The outcome:** the first is sold and led down. Alaric leaves before the second is sold, and never learns whether they went to the same buyer. Not knowing is what he carries away.
+   - *Alternative:* he sees them separated.
+   - Their genders are *your call.*
+5. **Brand** (unresolved choice 4). Each yes or no:
+   - a) **Why he's in Kelmend:** the field. His talk with the guards is about a battle nobody heard, and he's delighted by it.
+   - b) **Where:** he comes through the square during the sale. The guards clear a way past the platform, and he doesn't look at it.
+   - c) **The public:** some greet him by name, and he answers cheerfully. (Handoff §14.3 suggests Kelmend may call him a hero for a threat he destroyed for the pleasure of it.)
+   - d) **He doesn't notice Alaric.** Whether he knows Silas by sight stays open, and Silas acts as if he might.
+   - e) **Nobody follows them back,** but Silas checks the whole way and takes the long way round. Alaric sees him check.
+   - f) **Who he serves:** Mydea uses him, the way Natharul uses Thaer. Why he goes along with it is for later.
+   - g) **His look:** your picture, please. He's about Alaric's age.
+6. **Brand and the gorge.**
+   - *Recommended:* separate. The gorge stays Silas's own choice. Silas tells Alaric the title and "he's killed men I fought beside", and no more.
+   - *Alternative:* Brand was the gorge. That ties Brand to Marta's father, and so to her.
+7. **The first lesson** (unresolved choice 5).
+   - *Recommended:* yes, short. It happens in the gap across the lane from the back door, where they waited in Chapter 8: it's outside Marta's roof, and already on the page.
+     - Alaric fetches the sword.
+     - The lesson is only how to hold it, with Silas one-handed and Alaric standing still on his good foot.
+   - *Alternative:* no lesson until the agreement on Day 4.
+
+**Day 3: the evening**
+
+8. **The Day 3 drink** (unresolved choice 7, first half).
+   - *Recommended:* brief, while Alaric eats in the kitchen.
+   - The town's talk is Brand ("the Ruler of Fire, here in Kelmend"), whom Alaric has just seen. There's nothing about Darcy yet.
+9. **Marta's evening talk.**
+   - Gerolt's ordinary days, from her side: *recommended,* yes.
+   - From round 1, still unanswered, each yes or no:
+     - a) "Warde", said in passing.
+     - b) Alaric tells her what he saw when Silas came ("Heh.", and the fire going out), without explaining it.
+10. **Empty** (unresolved choice 6).
+    - *Recommended:* on Day 4, at the planning, with both of them there.
+      - Silas's "untrained" becomes "What can you do, then? What's your 『Affinity』?"
+      - Alaric could lie, and a lie might win him his place. He tells the truth, knowing it may cost him it.
+      - There's no sensing, and no rule against it.
+    - *Alternative:* the Day 3 evening, to Marta alone, with Silas hearing it on Day 4.
+
+**Day 4**
+
+11. **The report** (unresolved choice 7, second half).
+    - *Recommended:* the loud guard from Chapter 9 comes back alone, for Marta. He grumbles about his new duty: the convoy leaving through the gate. Marta draws out when, and which way.
+    - *Alternative:* a soldier from the fort among the regulars, with escort duty.
+12. **The transfer** (unresolved choice 8).
+    - *Recommended:* by road, to a coastal fort facing Kozmagar, leaving in two or three days.
+    - What changes for Marta is both of the design's options:
+      - once Darcy is at the coast, she's beyond the reach of Marta's contacts;
+      - the convoy through the gate is the first time in years that she'll be outside the fort's walls.
+    - So Marta's plans become workable just as they become urgent. The destination, purpose and exact day stay yours to change.
+13. **Marta and Darcy** (unresolved choice 9). Each yes or no:
+    - a) Childhood friends. If not, what are they to each other?
+    - b) Darcy is 『Faint』, and held as the fort's property.
+    - c) The commander is Gilmot, named on the page here.
+    - d) **What Marta knows of the danger to others:** she knows the fort would make someone pay, but not that Gilmot has threatened the whole Faint quarter. That keeps your recommendation that Darcy's reasons for staying are bigger than Marta knows.
+14. **The meeting** (unresolved choice 10, first part).
+    - *Recommended:* Alaric fetches Silas, and Marta lets him into the kitchen after closing, for the first time. She says it's for Darcy.
+    - *Alternative:* the threshold, with Silas in the lane as before.
+15. **Alaric's part, and the ending** (unresolved choice 10).
+    - *Recommended:*
+      - **His part is the contact,** as the design recommends: he carries Marta's word in, hears Darcy's answer and what she needs, and comes out.
+      - **Why him:** an unknown face, connected to no one, and a reason Darcy might listen (the field).
+      - **Silas's conditions:** he goes where Silas says, does what he's told, and runs when he's told to. That's the ogre fight's lesson.
+      - **The ending:** the agreement, then a concrete next step. Silas goes to look at the fort that night, and the lesson is at first light.
+    - *Your call:* do we take round 1's idea that the fort has set Darcy to look at what came off the field? It would make his account matter to her.
+    - Your rough version of the last line, please.
+16. **One chapter?**
+    - *Recommended:* yes, at 6,500–8,000 words, shortening passage 12 and the drink if it runs long.
+    - *Alternative:* split at the end of Day 3.
+
+### What could make this chapter 100/100 now
+
+Your seven tests stand. Here's what meets each one, and what still threatens it.
+
+1. **The inn's people matter before the plot needs them.**
+   - *What meets it:* the guest, the women's different concerns, and Rhose with Wena.
+   - *The threat:* by the end, everyone at the inn turns out useful to the plot (the guard's report, the meeting). One person should matter for nothing but themselves. The large guest is that person, so keep him free of the plot, as you said.
+2. **Alaric and Silas learn something about each other.** It needs both directions (challenge 11): the auction for Silas, and Brand for Alaric.
+3. **The second auction changes his response.** The children's ages, Gerolt's "protection", and not knowing the end (question 4). Silas explains nothing.
+4. **Brand is memorable through behaviour.** He's delighted by the battle nobody heard, walks past a sale of children without looking, and the street likes him. Silas's reaction is the only fear on the page.
+5. **Marta's request has a history and costs her something.** Her old plans that failed, and Silas in her kitchen.
+6. **Alaric's request grows from kindness and his search for himself.** The twins give him the kindness and Darcy's knowledge gives him the search. Empty is the honest price he pays for asking.
+7. **The chapter pays off its conversations and begins a concrete movement.**
+   - The drink is paid (Chapter 9), and so is the cloak (Chapter 9).
+   - "And where would ye go?" (Chapter 9) gets its answer: the fort, with Silas.
+
+**The biggest risk** is that the two halves feel like two chapters: a day in the town, then a mission briefing. What joins them is Alaric's want. On Day 3 it has no object ("strong enough to protect people"). On Day 4 it finds one: Darcy. If the draft makes that turn felt (the twins he couldn't help, then a woman he might), the halves become one movement.

@@ -1,6 +1,6 @@
 # Volume 1 Picture
 
-The one-page shape of Volume 1. It was approved as a base on 26 September 2026 and brought up to date on 6 October, after Chapter 10. It's assembled only from `Decisions.md`, and where the two differ, `Decisions.md` wins. Anything marked *Open* isn't decided yet.
+The one-page shape of Volume 1. It was approved as a base on 26 September 2026 and brought up to date on 6 October, after Chapter 10, and on 9 October with the Chapter 11 working design. It's assembled only from `Decisions.md`, and where the two differ, `Decisions.md` wins. Anything marked *Open* isn't decided yet.
 
 ## The question
 
@@ -95,6 +95,7 @@ These are the author's decisions. None of them is explained on the page in Volum
   - Gerolt's niece. She keeps the busiest inn in Kelmend, just inside the South Gate, and is a hub of information that she shares with Avarice.
   - She is blunt, worldly and used to being obeyed (her voice is from Baderon).
   - She takes Alaric in and keeps Silas out.
+  - She has long wanted to free Darcy, and never managed it. Darcy's transfer towards the frontier may be her last chance (Chapter 11).
 - **Redd.** Low Earth, hates elves, raised his sister on the road. He's warm and funny, and the group's emotional support and connective tissue, but too carefree when it matters.
 - **Freya.**
   - Redd's younger sister: untested, secretly Eminent Water, and doesn't know it. She hates fighting.
@@ -120,6 +121,7 @@ These are the author's decisions. None of them is explained on the page in Volum
   - A second, regional destroyer came over Kelmend searching for the farm. The search is now for the boy and the big dog that went into the forest with Gerolt, to be brought in alive for questioning.
   - Its scouts are always present in Mydea, and never seen.
 - **Liluth.** The Natharul scout who escaped Gerolt maimed, and who pursues Alaric into the Great Expanse.
+- **Brand.** The Ruler of Fire, about Alaric's age. He has killed some of Silas's comrades in Avarice. He first appears in Kelmend in Chapter 11.
 
 ## The road
 
@@ -169,7 +171,7 @@ Ten chapters are finished, in `Manuscript/Volume 1/`. They cover three days.
 | 9 | Refuge | Alaric | Marta's inn, the guards, the news of Gerolt, the first dream of the double. |
 | 10 | Beneath Natharul | Seralune | The channels, Nereth's corruption, the blast through the mountain, the sea. |
 
-**Next:** Chapter 11 is Alaric's two days of rest at Marta's: "Empty", with Silas there, and the Darcy lead. Nereth wakes as herself in Seralune's next chapter. The rough plan is in `Volume 1 Outline (Chapters 5-15).md`.
+**Next:** Chapter 11, in design: Alaric's two days at Marta's (the town with Silas, the twins at auction, Brand, Empty, and Darcy's transfer), ending with him asking for a part in the attempt to free her. The attempt begins in Volume 1; her rescue stays in Volume 2. Nereth wakes as herself in Seralune's next chapter. The rough plan is in `Volume 1 Outline (Chapters 5-15).md`.
 
 ## Still open for Volume 1
 
