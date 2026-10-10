@@ -29,6 +29,7 @@ Everything written before the re-plan now lives in `Archive/`. That includes the
 - **More content, not more words** (29 September). The author: "The chapters we are creating are far too short for my liking… little in content, where I prefer more." Chapters 3–5 are 2,000–2,600 words; Chapter 2 is 4,660 and Chapter 1 is 6,200. So a chapter's design should plan enough to happen: people under pressure, their reactions, and a choice the reader can see. The extra never comes from lore or decoration, and principle 5 still holds. **The target** (29 September): "In future make 4k–5k a goal, but chapters can go on for as long as they need to, if it means storytelling and character writing can be done better."
 - **No buzz words** (29 September). "Remove 'sill'. [Stop] putting buzz words." A word that sounds put on, or that many readers wouldn't use, goes, like "bracken", "eaves", "pommel" and "sidled" before it. Say the plain thing ("The wall dropped away beneath her").
 - **Ask "What could make this chapter 100/100?"** (30 September, the author's design requirement). "Ask this question when designing this chapter and all future chapter proposals. Answer it through specific improvements and honest challenges, rather than treating a functional outline as the highest achievable version." It isn't a call for more spectacle, suffering or words; it's this chapter's fullest version, and the answer is tested against the draft.
+- **The world keeps moving** (the author, 10 October, Chapter 11 working design). "The author explicitly wants an inhabited world." Market trade and slave auctions run all day on their own schedule. Customers, sellers, workers and guards have lives and business beyond the viewpoint character, and his leaving doesn't stop them. Any interruption needs a cause inside the world. A recurring thing (a second auction) needs no exceptional event to justify it. Attend to the particular people he sees "without treating every worker, customer or encounter as an instrument of his character arc". *Claude's reading of it with point of view:* he can only see what goes on while he's there, so the continuing world shows at the edges of what he sees and hears (the next lot waiting, a voice behind him).
 - **Keep the statuses apart** (handoff §12). Decided, inherited-but-not-contradicted, later-volume concept and open are different things. Settle one mechanism at a time, and record whether the author approves it, rejects it or keeps it open.
 - Principles settled here become the rules of the rewriting skill. The skill is `.claude/skills/chapter-rewrite/` (created 26 September, after Chapter 1). When a principle here changes, update the skill to match.
 
@@ -917,6 +918,39 @@ The plan is built in `Chapter Development/Volume 1/Chapter 04/Chapter 04 - Desig
   - The chapter is finished at 8,703 words. This branch's records were merged into main afterwards (6 October), keeping main's text.
 - **After the volume review (10 October),** the author: "2. yes". Five trims to how the walk marks time, from the other workspace's response, with Claude's one wording change (Seralune "didn't let herself think", not "trying not to think"). They're in `Chapter Development/Volume 1/Chapter 10/Chapter 10 - Changes (volume review).md`, a new list from the chapter as it stood (saved as Draft 2). The first return to the pillar is also a point-of-view fix: she sees their prints, then looks up at the pillar. Vague time in the narration goes from eleven to six, and the six that stay are mostly the ones that carry fear, such as the silence after she calls to the voice and the wait for Nereth's breath after the blast. The chapter is 8,650 words.
 
+## Chapter 11
+
+- **Design started (6 October)** in `Chapter Development/Volume 1/Chapter 11/Chapter 11 - Design.md`, at the author's request ("Let's design chapter 11 in depth not skipping anything"). It's Alaric's two rest days at Marta's, from the late morning of Day 3 to the night of Day 4. It carries the author's course of events from the Chapter 9 working design (Marta shelters him and "investigates what might help him"; after about two days a lead towards Darcy arrives; Alaric admits he can't manage alone, and Marta sends him to Silas), and the beats deferred to it: Empty with Silas there, Silas's lodging, and the Darcy source and opportunity.
+- *Proposed, not decided:* seven scenes (what the house agreed; the back door and Empty; the kitchen and Gerolt's last day; the guards' drink; the house by day; Darcy; Silas's door), with a two-day limit from Rhose's talk as the clock. Round 1 has seventeen questions, each with a recommendation, and the "100/100" answer. *Superseded by the author's working design (9 October), below.*
+- **The author's working design (9 October)** replaces that shape, and is kept word for word in `Chapter Development/Volume 1/Chapter 11/Chapter 11 - Working Design.md`. POV Alaric; no title yet; "requesting this design does not approve continuous drafting".
+  - **The movement:** Alaric wakes fearing the dream showed him who he really is. Through Day 3 he sees ordinary lives at the inn, a second sale he can't stop (twin children), and Brand, whose power has cost Silas personally, and he begins asking how he could become capable of helping. On Day 4 the news about Darcy gives that wish an object: to help Marta, repay kindness, and reach someone whose knowledge might explain the field, and himself. "The chapter starts with Alaric doubting who he is. It ends with him asking for a part in what happens next."
+  - **Day 3:** the morning after the vision (he keeps concealing it); a large, rough-looking, kind guest who bumps him and apologises; the common room in daylight; Marta feeds him and promises to talk that evening; he returns Silas's cloak outside and goes with Silas while Silas gathers information; the twins at auction; his request to be taught to fight; Brand; Silas takes him back to the inn; an optional first lesson; the evening talk with Marta, and the guards' drink.
+  - **Day 4:** a little more ordinary life; a guard's report that Darcy is being moved towards the frontier facing Kozmagar; Marta sends Alaric to bring Silas; Darcy's reputation and Alaric's hope; Alaric asks to join, and Silas refuses him as injured, wanted and untrained. Insistence alone can't reverse that: he must offer something useful or accept a defined, limited task. The chapter ends on a concrete next step or changed agreement that starts the attempt.
+  - **Confirmed (the author's list):**
+    - Marta shelters Alaric with clear household restrictions. **There is no fixed two-day departure deadline** (round 1, question 2, rejected).
+    - The large guest is another guest, **not Redd**.
+    - **Brand is the Ruler of Fire** (see Brand).
+    - Silas knows Brand's position through his years with Avarice. **Brand has killed some of his comrades.**
+    - When Brand appears, Silas takes Alaric away from the street and back to Marta's inn. They don't leave Kelmend.
+    - **Marta has long wanted and planned to free Darcy,** but has never managed it. Both fort security and danger to other people defeated those plans.
+    - Marta believes the transfer may be her last chance. It's her judgement, not a guarantee that a later rescue is impossible.
+    - Marta hints at Darcy's intelligence, especially her knowledge of history and war tactics. Alaric hopes she might help him understand himself.
+    - **The attempt to free Darcy begins in Volume 1;** her eventual rescue stays in Volume 2.
+  - **Also set by it:** no new appearance of the double ("the aftermath of the first vision is enough"); don't introduce a sensing ability, or a universal rule that nobody can sense mana (round 1, question 4); Redd and Freya's introductions are separate design work; don't repeat the marriage disclosure; Brand's younger age should be respected if dates are attached to the killings.
+  - **Recommendations in it, not approved:** Silas reluctantly takes Alaric along; the outing's purpose is Silas gathering information for Avarice about Kelmend and the farm investigation; the twins are bid for separately while one keeps hold of the other; Brand doesn't notice Alaric, and some of the public greet him comfortably; Empty comes out in a private exchange, so that Marta and Silas both learn it before agreeing on his part; contact and assessment come before extraction; Marta knows retaliation is possible but not the full extent of Darcy's reasons for staying.
+  - **Its ten unresolved choices** are listed at its end. Claude's review and round 2 (sixteen questions) are in `Chapter 11 - Design.md`, "Round 2: the author's working design".
+- **The working design updated (10 October),** kept word for word in the same file (the 9 October version is in `Drafts/`). It adds two confirmed decisions:
+  - **Brand's allegiance:** he works for Mydea but acts for his own gain, especially the excitement of battle, and would willingly sacrifice the country for the fights he wants (Zenos, FFXIV). His reason for this visit to Kelmend is still open. "His current interest in the commotion can reflect its promise of an unusual opponent" is proposed staging.
+  - **The world keeps moving** (see How we work). In Chapter 11, the next lot can already be waiting as the twins are sold, Brand's passing need not halt the auction, and the market goes on after Silas takes Alaric away.
+  - **Claude's round 2 is not approved by being on the branch:** "They remain proposals unless the author selects them." Named in particular: Brand's killings kept separate from the gorge, Empty on Day 4, the convoy timetable, Silas in the kitchen, and Alaric's contact role.
+  - Claude's notes on the update are round 3 in `Chapter 11 - Design.md`: round 2's question 5f is answered by the allegiance; Claude's challenge 1 is corrected to fit the new rule; three questions are added (Brand's first version, his talk with the guards, and how the moving world shows in Alaric's eyes).
+- **The working design updated again (10 October, later),** kept word for word (the first 10 October version is in `Drafts/`). Two more confirmed decisions, both "explicitly selected":
+  - **Brand's self-image** (round 3, question 17): he's indifferent to moral approval. A worthwhile battle is reason enough; he doesn't need to believe he's good or win anyone's approval. It supersedes the first version, and doesn't fix his public reputation or require him to announce that he's evil.
+  - **The fort entry:** Silas and Alaric break into Fort Kelmend, unauthorised, with the old Chapter 8 (*Blood Upon Empty Hands*) and its Story Design as the reference. Alaric isn't admitted because his face is unfamiliar or because of his account of the field (this replaces Claude's contact role, round 2, question 15). The old mechanics (Silas's reconnaissance, stolen guard armour, Alaric as a Faint labourer, the service-yard entrance, the working fort down to the lower cells) are recommendations. Not to be imported without reconciling: the dawn airship transfer, Marta's departure, the token, the child, Alaric's first kill and the old mana-perception rules. Darcy's willingness to leave can't be assumed.
+  - *Recommended (the author's):* Chapter 11 ends with the decision and the preparations, and the break-in gets its own substantial space in a later Alaric chapter. Which chapter is open.
+  - **The author's review of round 3,** accepted: the overheard exchange shows Brand's interest in a dangerous opponent, not that he'd sacrifice Mydea; the guards' account of the field stays their theory; if Alaric leaves before the second twin is sold, the auctioneer's voice behind him is calling that child's price, not the next lot; background activity follows the people present, not a checklist.
+  - Claude's notes are round 4 in `Chapter 11 - Design.md`: Alaric's limited task (the labourer who gives Silas's stolen-uniform guard a reason to go down), Empty at the disguise, and the chapter's last step. Proposals 20–22 wait on the author; 23 is carried forward to the fort chapter.
+
 ## Alaric
 
 - About twenty.
@@ -996,7 +1030,9 @@ The plan is built in `Chapter Development/Volume 1/Chapter 04/Chapter 04 - Desig
 - **Avarice** (2 October): she supplies it with information as an associate, not a member. That doesn't make her Gerolt's pupil or a fighter.
 - **The inn** (2 October) has overnight rooms. The front bar closes at night so guests can sleep, but the building isn't empty. **Adult sex workers live and work there,** and their relationships with guards and powerful men are part of her information network. **Their terms (agreed 2 October):** they choose their customers, can refuse and can leave; what they hear is theirs to pass on, and Marta pays for it separately. They're devoted to Marta and follow her directions, but challenge decisions that put the house at risk. Some object to sheltering Alaric and Wena, and some find him handsome. They don't all think alike.
 - **Silas at her door** (2 October): when she reopens it, she harshly tells him to stay outside. This replaces her demand at the end of Chapter 8 that he leave Kelmend. He isn't let into the inn.
-- Her detailed appearance, Affinity, private ambitions and her part in Darcy's story are still to be decided. **Deferred:** why she and Silas are still married, and whether his last visit was to tell her that her father was dead. **Under discussion:** whether Silas's last visit to her door was to tell her that her father was dead.
+- **Darcy** (the author, 9 October): she has long wanted and planned to free Darcy, and never managed it, because of the fort's security and the danger to other people. When Darcy's transfer is reported, Marta believes it may be her last chance (her judgement, not a fact). Calling on Silas for it isn't forgiveness. *Open:* what Darcy is to her (childhood friendship is an old option, not a decision).
+- **Alaric's shelter** (9 October): clear household rules, and no fixed departure deadline.
+- Her detailed appearance, Affinity and private ambitions are still to be decided. **Deferred:** why she and Silas are still married, and whether his last visit was to tell her that her father was dead. **Under discussion:** whether Silas's last visit to her door was to tell her that her father was dead.
 
 ## Thaeroval
 
@@ -1032,14 +1068,20 @@ Agreed for Chapters 4–5 (27 September). Who each person is gets decided with t
   - **The royal battleship** flies. The king took it to Mydea, and no rider can catch it.
   - **The royal tree** stands at the top of the waterfall, and can be seen from the castle. It's just a tree, with no symbols. It's far bigger than it was a thousand years ago, so the sight of it shocks her, because to her it was a smaller tree yesterday.
 
-## Brand (later-volume concept)
+## Brand
 
-Not in the central cast yet, and not locked (handoff §7, §14.3).
+*Was "later-volume concept, not locked" (handoff §7, §14.3). The author confirmed him as the Ruler of Fire on 9 October, and he first appears in Volume 1, Chapter 11.*
+
+- **He is the Ruler of Fire** (the author, 9 October, Chapter 11 working design).
+- **He has killed some of Silas's Avarice comrades.** Silas knows his position through his years with Avarice. His younger age (about Alaric's) should be respected if dates are attached to those killings.
+- **His first appearance (Chapter 11):** walking in Kelmend with a couple of guards, smiling and laughing, interested in the commotion. It needs no display of white fire and no invented fear aura. Whether he notices Alaric, and whether he knows Silas by sight, are open.
 
 - The same age as Alaric. The strongest living Fire user, whose fire can burn white. He fights with Natsu's exuberant physicality and energy (*Fairy Tail*).
-- **First version (§7):** he sincerely believes he's a good person, because he was raised in a world that treats great power as moral authority.
+- **His allegiance** (the author, 10 October): he works for Mydea but acts for his own gain, especially the excitement of battle, and would willingly sacrifice the country if it gave him the fights he wants. The reference is Zenos (FFXIV). "His affiliation does not make him a dutiful protector or a champion of the hierarchy."
+- **His self-image** (the author, 10 October, explicitly selected): he's indifferent to moral approval. A worthwhile battle is reason enough for him to act; he doesn't need to believe he's good or win anyone's approval. It doesn't fix his public reputation, or require him to announce that he's evil. He can laugh and talk easily; he isn't a continuously scowling threat.
+- *Superseded (10 October):* the first version (§7), in which he sincerely believes he's a good person because he was raised in a world that treats great power as moral authority.
 - **Newer version, under discussion (§14.3):** he's being considered as the Ruler of Fire. The author wants some of Zenos's obsessive hunt (FFXIV), with more exuberance. He first thinks Alaric insignificant; curiosity becomes fascination, then obsession, as Alaric survives impossible things. He doesn't care much about Kelmend, the hierarchy or public heroism; he wants strength and a worthy opponent. The reader should find him infuriating, frightening and still charismatic: an "evil best friend" who decides Alaric is his rival without asking. He lasts several volumes.
-- Which version holds, and whether he appears in Volume 1 at all, is open.
+- *Settled in part (9 October):* he's the Ruler of Fire, and he appears in Volume 1. The rest of the newer version (the obsession, the "evil best friend") stays under discussion, and so does how much of the first version survives.
 
 ## The friends
 
@@ -1066,6 +1108,7 @@ Not in the central cast yet, and not locked (handoff §7, §14.3).
 - **Cunning in the moment, reckless in the big choices** (like the gorge).
 - **Gerolt taught him in Avarice.** Gerolt was angry that Silas didn't learn from his teachings.
 - **He knows his master's blade on sight.** In the redesign he comes because he heard the fight, not for the sword. When he sees the sword across Alaric's lap his face changes (Chapter 2). In Chapter 3 he picks it up from the riverbank and gives it back, and doesn't let go of it straight away.
+- **Avarice and Brand** (the author, 9 October): Silas knows Brand's position through his years with Avarice, and Brand has killed some of his comrades. When Brand appears in Kelmend, Silas takes Alaric off the street and back to Marta's inn. *Proposed, not approved:* in Chapter 11 he's gathering information for Avarice about Kelmend and the farm investigation.
 - **His consequential mistake in Volume 1** (handoff §15.7): he chooses brutality, and leaves an easy trail for pursuit.
 - **He's at Gerolt's last stand** (27 September, Chapter 2). He cuts down the remaining riders, and he and Alaric run. **Where he lives** (27 September): "He lives on the river to stay away from people. He is near Kelmend because he loves Darcy and wants to keep up to date with any news related to her." The author then corrected "Darcy": "I meant Marta, sorry." So he loves Marta, and he lives on the river near Kelmend for news of her. Why he's there: "Silas is at the river, he 'stays' there. He heard the elves and the fight, so he came to see what it was, and sees his former master fighting to the death." Gerolt sees him, gives a small "heh", and never speaks again.
 
@@ -1173,7 +1216,7 @@ Not in the central cast yet, and not locked (handoff §7, §14.3).
 - **No successor can be born while the current Ruler lives.** Any irreversible death triggers succession: age, disease and accident count, and murder isn't needed.
 - **After a death the mantle passes to a newborn.** It may choose the first suitable child, or stay unheld for years before it settles. The signs in an infant are subtle, and who the child is may only be found out later. The mantle goes to a child, never to the killer.
 - **The Veiled Four are really different in the cosmology** from the Elemental Four. Religion may rank the Veiled Four "above", but that gives them no automatic advantage in a fight.
-- *Known and proposed bearers:* Light, Atera (Mydea); Dark, Thaeroval (Natharul); Spirit, Natharul's formal Hero; Time, a beastfolk bearer in Kozmagar; Fire, Brand is being considered. Water, Wind and Earth aren't designed. Kurdag stays an Exalted Earth user, not automatically the Ruler of Earth. Ordinary Fire, Water, Wind and Earth users go on existing beneath their Rulers.
+- *Known and proposed bearers:* Light, Atera (Mydea); Dark, Thaeroval (Natharul); Spirit, Natharul's formal Hero; Time, a beastfolk bearer in Kozmagar; Fire, Brand (confirmed 9 October). Water, Wind and Earth aren't designed. Kurdag stays an Exalted Earth user, not automatically the Ruler of Earth. Ordinary Fire, Water, Wind and Earth users go on existing beneath their Rulers.
 - *This supersedes the handoff's earlier idea of "Full Elemental users" (§7).* The handoff's interpretations (§14.4: vacancies, states hunting infant Rulers, the age-ten test as a search for missing Rulers, "Ruler" as a human title) are proposals.
 
 ### God and the fading world (author-set, handoff §14.5)
@@ -1222,7 +1265,7 @@ Not in the central cast yet, and not locked (handoff §7, §14.3).
 - **How the king is evil (Option A, chosen):** he chose his strings. He handed the church the kingdom, and bowed to Natharul, to keep his throne and his comfort. Every law carries his seal; he could stop any of it and never does. His existing footprint in Volume 1:
   - "The king's got the palace." (Chapter 25)
   - "The king bowed first. In his own hall." (Chapters 26, 27 and 30)
-- **Faint auctions** (1 October): only Faint people can be sold at auction, as in the market inside Kelmend's South Gate. Ages, buyers and the legal mechanism aren't set.
+- **Faint auctions** (1 October): only Faint people can be sold at auction, as in the market inside Kelmend's South Gate. **They run all day on their own schedule** (10 October), alongside the market's ordinary trade; a sale needs no exceptional event to exist. Ages, buyers and the legal mechanism aren't set.
 - **The regional destroyer's territory** (1 October): Mydea's king granted Natharul's regional destroyer an operating territory to "watch over" Mydea, out of fear of Natharul's force. It's out of Kelmend's everyday sight.
 - **Reports travel physically** in Volume 1 (1 October): riders, ships, and fast courier craft in principle. No instant magical messages.
 - **Natharul's scouts:** under the agreement between Mydea's king and Natharul, Natharul scouts are all over Mydea, all the time, scouting everywhere. They are never seen. That's the rule, to keep people calm.
@@ -1232,6 +1275,10 @@ Not in the central cast yet, and not locked (handoff §7, §14.3).
 
 ### Darcy
 - **Regarded as the greatest mind in Lazaran** (the author, 2 October). She may know something about what happened on Gerolt's farm. Her reputation doesn't mean she knows anything about Alaric's erased past. The opportunity to reach her, what she knows and the encounter are deferred to that chapter's design. Her rescue is Volume 2's mission.
+- **Being moved** (the author, 9 October, Chapter 11): a guard reports that she's being moved towards the frontier facing Kozmagar. A Mydean coastal fort, harbour or island is possible; the destination, purpose and departure time are open. The transfer must change something practical for Marta.
+- **Known for** her knowledge of history and war tactics, which Marta hints at. Alaric hopes she could help him understand himself; that doesn't mean she knows his erased past.
+- **The fort entry** (the author, 10 October, explicitly selected): Silas and Alaric break into Fort Kelmend, unauthorised, as part of the attempt to free her. The old Chapter 8's infiltration is the reference; its mechanics are recommendations (see Chapter 11). Her willingness to leave can't be assumed.
+- **The attempt to free her begins in Volume 1;** the successful rescue stays in Volume 2. The Volume 1 attempt must still change something, and its obstacle and consequence are designed before that encounter is drafted.
 
 ### Avarice (formerly the Broken Shield network)
 
@@ -1348,7 +1395,7 @@ Each of these is open. The handoff's recommendation, where it has one, is in the
 - **The ancient past.** Married, or about to marry (§15.4)? What exactly did they attempt that went wrong, and who could refuse it (§15.3)? What span of memory did the ritual take from Seralune, if her "yesterday" was years before the final battle (§15.5)?
 - **The cosmology.** What is causing the world's decline (§14.10)? Is Seralune's mana truly endless, or only endless as far as anyone can measure (§14.5)? How does Alaric relate to the four Veiled mantles (§14.6)? What happens to the survivor if one of them dies (§14.7)?
 - **The Rulers.** Who holds Water, Wind and Earth, who the Time and Spirit bearers are, each Ruler's limits, whether they age normally, and what counts as true death for Atera (§14.4).
-- **Brand.** Which version, and when he first appears (§14.3).
+- **Brand.** Which version, and when he first appears (§14.3). *Answered in part (9 October): the Ruler of Fire, first appearing in Chapter 11.*
 - **The ending's mechanics.** How the unbinding works and what each person gives up (§17).
 
 ### Reference material

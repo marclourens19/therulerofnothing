@@ -43,7 +43,7 @@ Story Bible/                     What is true in the story, and what is planned
 
 Chapter Development/             How each chapter was made
   Volume 1/
-    Chapter 01/ ... Chapter 10/  Designs, dialogue rounds and changes
+    Chapter 01/ ... Chapter 11/  Designs, dialogue rounds and changes
       Drafts/                    Saved drafts and change lists
 
 Archive/                         Everything written before the re-plan
