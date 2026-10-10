@@ -1,12 +1,12 @@
 # Chapter 11 Working Design
 
-The author's working design, started 9 October 2026 and updated twice on 10 October. The second update adds Brand's self-image, the fort entry and the author's review of round 3. It's kept word for word from the author's message. Earlier versions are in `Drafts/`: `Chapter 11 - Working Design (9 October).md` and `Chapter 11 - Working Design (10 October, first update).md`. Claude's notes on this update (round 4) are in `Chapter 11 - Design.md`.
+The author's working design, started 9 October 2026 and updated 10 October with Brand's allegiance and the world-continuity decision. It's kept word for word from the author's message. The 9 October version is in `Drafts/Chapter 11 - Working Design (9 October).md`. Claude's notes on the update (round 3) are in `Chapter 11 - Design.md`; round 2's questions there are still waiting on the author.
 
 ---
 
 # Chapter 11 — Working Design
 
-Started 9 October 2026; world-continuity and Brand decisions updated 10 October 2026. **POV: Alaric. Title: undecided.**
+Started 9 October 2026; world-continuity decision added 10 October 2026. **POV: Alaric. Title: undecided.**
 
 This consolidates the author's current direction and confirmed decisions. The sequence below is the working proposal, not a finished chapter. Recommendations and unresolved details remain marked; requesting this design does not approve continuous drafting.
 
@@ -26,7 +26,6 @@ The chapter builds attachment to the inn and develops Alaric and Silas through t
 - The large, rough-looking but kind guest is another guest, not Redd.
 - Brand is the Ruler of Fire.
 - **Brand's allegiance (10 October):** he works for Mydea but acts for his own gain, especially the excitement of battle. He would willingly sacrifice the country if doing so gave him the fights he wants. The author's reference is Zenos from FFXIV. This establishes his relationship with Mydea without yet settling the reason for this particular visit to Kelmend.
-- **Brand's self-image (10 October, explicitly selected):** he is indifferent to moral approval. A worthwhile battle is sufficient reason for him to act; he does not need to believe he is good or win anyone's approval. This supersedes the earlier version whose sincere belief in his own goodness came from the world's hierarchy. It does not determine his public reputation or require him to announce that he is evil.
 - Silas knows Brand's position through his years with Avarice. Brand has killed some of his comrades.
 - When Brand appears, Silas takes Alaric away from the street and back to Marta's inn. They do not leave Kelmend.
 - Marta has long wanted and planned to free Darcy, but has never managed it.
@@ -34,7 +33,6 @@ The chapter builds attachment to the inn and develops Alaric and Silas through t
 - Marta believes the transfer may be her last chance. This is her judgement, not a guarantee that future rescue is impossible.
 - Marta hints at Darcy's intelligence, especially her knowledge of history and war tactics. Alaric hopes she might help him understand himself.
 - The attempt begins in Volume 1; Darcy's eventual rescue remains in Volume 2.
-- **Fort entry (10 October, explicitly selected):** Silas and Alaric must break into Fort Kelmend, following the earlier infiltration mission as the reference. Their entry is unauthorised. Alaric is not simply admitted because his face is unfamiliar or because he has an account of the battlefield. The exact disguise, route, timing and his practical contribution remain to be designed for the current continuity.
 - **World continuity (10 October):** market trade and slave auctions operate throughout the day on their own schedule. Customers, sellers, workers and guards have lives and business beyond Alaric's presence. His departure and the chapter's progress do not stop these activities. Any interruption needs a cause within the world.
 
 ## The world keeps moving
@@ -43,9 +41,7 @@ The author explicitly wants an inhabited world. Sales, bargaining, deliveries, h
 
 Recurring trade is part of the town's ordinary life. A second auction does not require an exceptional event to justify its existence. The writing should attend to the particular people Alaric sees without treating every worker, customer or encounter as an instrument of his character arc.
 
-Claude's round 2 review and sixteen recommendations have been checked on the working branch. They remain proposals unless the author selects them. In particular, separate incidents for Brand's killings and the gorge, the Day 4 placement of Empty, the convoy timetable and kitchen access for Silas have not been automatically approved by pasting the review. The author's subsequent decision settles that both men break into Fort Kelmend; Alaric's exact work during that infiltration remains open.
-
-**Round 3 review (recommendations, not author decisions):** Brand's self-image is now settled, answering question 17. Questions 18 and 19 remain proposals. An overheard exchange can establish Brand's interest in a dangerous opponent, but cannot by itself prove that he would sacrifice Mydea. The guards' explanation for the battlefield must remain their theory, not a confirmed account of its cause. If Alaric leaves before the second twin is sold, let the auctioneer's continuing voice call that child's price rather than announce the next lot and imply the sale is over. Background activity should follow the people and circumstances present, without becoming a checklist for every scene. The earlier access question is now answered in principle by the author's decision: both men break into the fort. The mechanics of that infiltration still need to fit the current situation.
+Claude's round 2 review and sixteen recommendations have been checked on the working branch. They remain proposals unless the author selects them. In particular, separate incidents for Brand's killings and the gorge, the Day 4 placement of Empty, the convoy timetable, kitchen access for Silas and Alaric's contact role have not been automatically approved by pasting the review.
 
 ## Day 3 — The inn, the town and Brand
 
@@ -147,8 +143,6 @@ Brand walks with a couple of guards, smiling and laughing. The commotion in Kelm
 
 He works for Mydea, but his real priority is the excitement of fighting. The country's survival is expendable to him if it conflicts with that desire. His affiliation does not make him a dutiful protector or a champion of the hierarchy. His current interest in the commotion can reflect its promise of an unusual opponent; this remains proposed staging until his reason for visiting is chosen.
 
-He is indifferent to being considered good or evil. His pleasure in battle can coexist with relaxed conversation and laughter; the scene need not turn him into a continuously scowling threat. Which people welcome him, and why, remain open.
-
 His exchange with the guards needs a conversational cause. He can ask about conflicting reports or respond to something they have said; avoid a speech announcing his personality.
 
 Silas recognises him and reacts immediately. Alaric sees the change in the man who fought the ogre and the elves.
@@ -241,17 +235,13 @@ Alaric volunteers. He wants to help Marta, repay Gerolt's kindness, protect some
 
 Silas refuses because the boy is injured, wanted and untrained. Those objections remain credible.
 
-Alaric persists. The author has settled that he goes into the fort with Silas, so this discussion must reach that agreement. Insistence alone should not reverse the refusal: establish a useful, limited task and the risks Silas accepts. Alaric remains injured, wanted and untrained.
+Alaric persists, but insistence alone should not reverse the refusal. He must offer something useful or accept a defined, limited task.
 
-**Confirmed undertaking:** Silas and Alaric break into Fort Kelmend as part of the attempt to free Darcy. Alaric also hopes to question her about the battlefield. That account gives him a reason to want the encounter, not permission to enter or an automatic answer to Silas's practical objections. Darcy's willingness to leave cannot be assumed.
-
-**Earlier mission as reference:** the old Chapter 8, *Blood Upon Empty Hands*, and its Story Design use Silas's reconnaissance, stolen guard armour, Alaric disguised as a Faint labourer and a service-yard entrance, followed by movement through the working fort towards the lower cells. This gives a useful structure: Silas makes a clandestine entry possible, and the institution's treatment of weak workers helps conceal Alaric. These exact mechanics remain recommendations for the new version, not automatically confirmed details. Do not import the old dawn airship transfer, Marta's departure, Gerolt's token, the child encounter, Alaric's first kill or obsolete mana-perception rules without reconciling them with current canon and author choices.
+**Recommended initial objective:** contact and assessment before extraction. Alaric's firsthand account of the field gives him a reason to speak with Darcy; the specific route must explain whether that makes his presence useful.
 
 His contribution and Silas's conditions remain open. Participation is not payment for shelter.
 
 **Recommended ending:** finish on a concrete next step or changed agreement that starts the attempt. The actual rescue is not completed in Chapter 11.
-
-**Recommended placement:** Chapter 11 ends with the decision and necessary preparations for entering the fort; the infiltration receives its own substantial space in a later Alaric chapter. Do not compress the two days at the inn to fit a full fort mission into this chapter. The author has confirmed the entry method in principle, not the precise chapter in which the break-in begins.
 
 ## Continuity and later consequences
 
@@ -276,7 +266,7 @@ His contribution and Silas's conditions remain open. Participation is not paymen
 7. The Day 3 drink and the source and timing of the Day 4 report.
 8. Darcy's destination, departure time and the practical change caused by transfer.
 9. Marta's relationship with Darcy, the people endangered and what she knows of Darcy's reasons for staying.
-10. The meeting with Silas, Alaric's useful role and the final conditions. Both men participating in the fort infiltration is confirmed; its specific route, disguises and timing remain open.
+10. The meeting with Silas, Alaric's useful role and the final agreement.
 
 The exact guest name, food and title can be chosen later.
 

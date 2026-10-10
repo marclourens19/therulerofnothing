@@ -1,6 +1,6 @@
 # Chapter 11: Design
 
-Started 6 October 2026. **Status (10 October):** the author updated the working design (Brand's allegiance, and the world keeps moving). Claude's notes on the update are at the end of this file ("Round 3: the 10 October update"). **Round 2's sixteen questions are still waiting on the author;** they're proposals until chosen. **Status (9 October):** the author's working design, `Chapter 11 - Working Design.md`, replaces the seven-scene shape below, which is kept as a record. What became of each round 1 question, Claude's review of the working design, and round 2 are further down ("Round 2: the author's working design"). New material is marked **Your call**.
+Started 6 October 2026. **Status (10 October, later):** the author's second update settles Brand's self-image and the fort entry (both men break in), and reviews round 3. Claude's notes are at the end of this file ("Round 4: the fort entry"). **Earlier on 10 October:** the author updated the working design (Brand's allegiance, and the world keeps moving), and Claude's notes are in "Round 3: the 10 October update". **Round 2's sixteen questions are still waiting on the author;** they're proposals until chosen. **Status (9 October):** the author's working design, `Chapter 11 - Working Design.md`, replaces the seven-scene shape below, which is kept as a record. What became of each round 1 question, Claude's review of the working design, and round 2 are further down ("Round 2: the author's working design"). New material is marked **Your call**.
 
 **Earlier status (6 October):** Claude's proposal and round 1 of questions.
 
@@ -621,3 +621,76 @@ Round 2's questions 1–16 (5f is answered), plus:
 17. **Brand's first version superseded?** *Recommended:* yes. He isn't the sincere believer in a good hierarchy; he's the Ruler of Fire who uses Mydea for his fights.
 18. **Brand's exchange with the guards:** they fear what did the field, and he hopes it's still out there.
 19. **The moving world at the edges:** the waiting lot, the bidders turning back, the voice behind them, and the inn's own talk.
+
+## Round 4: the fort entry (10 October, second update)
+
+The author's second update replaces the working design word for word; the first 10 October version is in `Drafts/`.
+
+### What it decides
+
+1. **Brand's self-image (question 17, answered).** He's indifferent to moral approval. A worthwhile battle is reason enough for him, and he doesn't need to believe he's good or win anyone's approval. This supersedes the first version. It doesn't fix his public reputation, and he never has to announce that he's evil. He can laugh and talk easily; he isn't a scowling threat.
+2. **The fort entry.** Silas and Alaric break into Fort Kelmend together, unauthorised. The reference is the old Chapter 8 (*Blood Upon Empty Hands*): Silas's reconnaissance, stolen guard armour, Alaric disguised as a Faint labourer, the service-yard entrance, and the working fort down to the lower cells. Those mechanics are recommendations, not decisions. Not to be imported unreconciled: the dawn airship transfer, Marta's departure, the token, the child, Alaric's first kill, and the old mana-perception rules.
+3. **Where it goes.** *Recommended (the author's):* Chapter 11 ends with the decision and the preparations, and the break-in gets its own chapter. Which chapter is still open.
+4. **Darcy's willingness can't be assumed.** The attempt is to free her, and she may not come.
+
+### The author's corrections to round 3: all accepted
+
+- **Question 18 overreached.** I wrote that readers "will see that he would" sacrifice Mydea. An overheard exchange can show his appetite for a dangerous opponent; it can't prove what he'd sacrifice. *Corrected:* the exchange shows only his interest. The sacrifice is for later chapters to show.
+- **The guards' explanation is their theory.** Whatever they say killed thousands on the farm is what they think, and the page doesn't confirm it.
+- **Question 19's third point was wrong.** If the auctioneer is calling "the next lot" as they leave, the sale of the twins is over, which contradicts Alaric leaving before the second is sold. *Corrected:* the voice following them down the street is still calling **the second child's price.**
+- **No checklist.** Background activity follows the people and circumstances actually present in each scene, not a list of four things to show every time.
+
+### What it changes in round 2
+
+- **Question 15 (Alaric's part): replaced.** My contact role ("an unknown face, connected to no one") would have let him walk in. The author rules that out: his face and his account of the field give him a reason to want to go, not a way in.
+- **Question 10 (Empty) gains a better place** (proposal 21, below).
+- **Questions 1–14 and 16** are still open, along with 18 and 19 as corrected.
+
+### Alaric's useful, limited task
+
+The design needs a task that's useful to Silas without pretending Alaric is capable. The old design already holds one, and it fits the world-continuity rule.
+
+- **A guard on his own has no business in the service corridors and cells.** A guard taking a Faint labourer down with a load (water, food, slop) has every reason to be there. That's what the fort sees every day.
+- **So Alaric is the reason Silas can walk where he needs to.**
+  - He carries the load and keeps his eyes down.
+  - He doesn't fight, and he doesn't speak unless spoken to.
+  - The fort's habit of not looking at the Faint does the rest. That's the design's own line: "the institution's treatment of weak workers helps conceal Alaric."
+- **Why Alaric, and not someone else?**
+  - He's the only one who wants to go.
+  - Marta's women have already said what the house risks by keeping him (Chapter 9), and none of them is a candidate.
+  - Silas can't make the walk alone.
+- **The risks Silas accepts, said plainly in the scene:**
+  - an ankle that won't run;
+  - a boy who stopped for a fight he couldn't win (the ogre);
+  - one who'll want to stop again;
+  - a face nobody's looking for, under a description that is.
+
+### New proposals (each yes or no)
+
+20. **The labourer is Alaric's task.** Silas goes in as a guard (stolen armour, as in the old design), and Alaric goes in as the Faint labourer he's escorting, carrying a load. That's what makes the break-in possible on Silas's route, and it's all Alaric does. *Recommended:* yes.
+21. **Empty comes out at the disguise.**
+    - When Silas lays out the labourer disguise, the practical question is obvious: if a soldier asks what he is, what does he say? A labourer is 『Faint』, which is weak, but it's something.
+    - Alaric could say 『Faint』 and leave it there. Instead, he tells them the truth: he hasn't got one.
+    - Silas and Marta both hear it, privately, before agreeing on his part, which is what the design recommends.
+    - It makes the disguise more dangerous, not less: if anyone ever tests him, he isn't 『Faint』, he's nothing.
+    - No sensing either way; only what he says, and what a test would show.
+    - *Recommended:* yes. It replaces my round 2 placement ("What can you do?").
+22. **The last step of the chapter.** Recommended: two concrete preparations, then stop.
+    - **Silas's reconnaissance begins.** He goes to watch the service yard that night.
+    - **Alaric's first real lesson.** He asked on Day 3 to be taught to fight. The first thing Silas teaches him for the fort is how to carry a load on that ankle with his eyes on the ground, how to be someone nobody looks at.
+    - The page doesn't point out the irony.
+    - *Your call:* the last line. Your rough version, please.
+23. **Carried forward to the fort chapter's design** (nothing here goes into Chapter 11's text):
+    - **Is Brand still in Kelmend during the break-in?** It raises the stakes a long way. The handoff warns against letting him take over Volume 1.
+    - **The transfer's timing has to leave room for the break-in:** Silas's reconnaissance and the preparations need at least a day after the Day 4 decision. A Seralune chapter between them (round 2, question 16) costs Alaric's thread no time.
+    - **Reconcile the old design's pieces:** the airship transfer is gone; the child, the first kill and the guard who recognises Silas are not assumed. Each one gets its own question when we design that chapter.
+
+### What could make this chapter 100/100, with the fort decided
+
+- **The request to learn now has a sharp payoff inside the chapter.** On Day 3 he asks Silas to teach him to fight, so he can protect people like the twins. On Day 4 the first thing he's taught is to look 『Faint』, and his one use is that the fort can't see the Faint. Nobody says so.
+- **Empty becomes a danger to the plan, not just a fact.** It's what he volunteers when a lie would get him in more easily, and it's what could undo them if anyone looks closely. That's "Empty becomes a danger", shown through the plan.
+- **The chapter ends in motion without starting the mission.** Silas walking off into the dark to watch the fort, and Alaric left practising being invisible, is a concrete next step. It doesn't spend the fort chapter's material.
+
+### Still waiting on the author
+
+Round 2's questions 1–14 and 16; questions 18 and 19 as corrected; and new proposals 20–22. Number 23 is carried forward.
