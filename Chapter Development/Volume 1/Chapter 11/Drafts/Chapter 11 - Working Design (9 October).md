@@ -1,12 +1,12 @@
 # Chapter 11 Working Design
 
-The author's working design, started 9 October 2026 and updated 10 October with Brand's allegiance and the world-continuity decision. It's kept word for word from the author's message. The 9 October version is in `Drafts/Chapter 11 - Working Design (9 October).md`. Claude's notes on the update (round 3) are in `Chapter 11 - Design.md`; round 2's questions there are still waiting on the author.
+The author's working design of 9 October 2026, kept word for word from the author's message. It answers or replaces most of round 1 in `Chapter 11 - Design.md`, and Claude's review of it (round 2) is in that file.
 
 ---
 
 # Chapter 11 — Working Design
 
-Started 9 October 2026; world-continuity decision added 10 October 2026. **POV: Alaric. Title: undecided.**
+9 October 2026. **POV: Alaric. Title: undecided.**
 
 This consolidates the author's current direction and confirmed decisions. The sequence below is the working proposal, not a finished chapter. Recommendations and unresolved details remain marked; requesting this design does not approve continuous drafting.
 
@@ -25,7 +25,6 @@ The chapter builds attachment to the inn and develops Alaric and Silas through t
 - Marta shelters Alaric with clear household restrictions. There is no fixed two-day departure deadline.
 - The large, rough-looking but kind guest is another guest, not Redd.
 - Brand is the Ruler of Fire.
-- **Brand's allegiance (10 October):** he works for Mydea but acts for his own gain, especially the excitement of battle. He would willingly sacrifice the country if doing so gave him the fights he wants. The author's reference is Zenos from FFXIV. This establishes his relationship with Mydea without yet settling the reason for this particular visit to Kelmend.
 - Silas knows Brand's position through his years with Avarice. Brand has killed some of his comrades.
 - When Brand appears, Silas takes Alaric away from the street and back to Marta's inn. They do not leave Kelmend.
 - Marta has long wanted and planned to free Darcy, but has never managed it.
@@ -33,15 +32,6 @@ The chapter builds attachment to the inn and develops Alaric and Silas through t
 - Marta believes the transfer may be her last chance. This is her judgement, not a guarantee that future rescue is impossible.
 - Marta hints at Darcy's intelligence, especially her knowledge of history and war tactics. Alaric hopes she might help him understand himself.
 - The attempt begins in Volume 1; Darcy's eventual rescue remains in Volume 2.
-- **World continuity (10 October):** market trade and slave auctions operate throughout the day on their own schedule. Customers, sellers, workers and guards have lives and business beyond Alaric's presence. His departure and the chapter's progress do not stop these activities. Any interruption needs a cause within the world.
-
-## The world keeps moving
-
-The author explicitly wants an inhabited world. Sales, bargaining, deliveries, household work and customers' conversations continue while Alaric is occupied elsewhere. The next lot can already be waiting as the twins are sold. Brand's passing need not halt the auction. When Silas takes Alaric away, the market continues and the children's lives continue beyond what he can witness.
-
-Recurring trade is part of the town's ordinary life. A second auction does not require an exceptional event to justify its existence. The writing should attend to the particular people Alaric sees without treating every worker, customer or encounter as an instrument of his character arc.
-
-Claude's round 2 review and sixteen recommendations have been checked on the working branch. They remain proposals unless the author selects them. In particular, separate incidents for Brand's killings and the gorge, the Day 4 placement of Empty, the convoy timetable, kitchen access for Silas and Alaric's contact role have not been automatically approved by pasting the review.
 
 ## Day 3 — The inn, the town and Brand
 
@@ -140,8 +130,6 @@ Brand's arrival interrupts or cuts short this conversation. The first practical 
 ### 9. Brand appears
 
 Brand walks with a couple of guards, smiling and laughing. The commotion in Kelmend interests him.
-
-He works for Mydea, but his real priority is the excitement of fighting. The country's survival is expendable to him if it conflicts with that desire. His affiliation does not make him a dutiful protector or a champion of the hierarchy. His current interest in the commotion can reflect its promise of an unusual opponent; this remains proposed staging until his reason for visiting is chosen.
 
 His exchange with the guards needs a conversational cause. He can ask about conflicting reports or respond to something they have said; avoid a speech announcing his personality.
 
@@ -260,7 +248,7 @@ His contribution and Silas's conditions remain open. Participation is not paymen
 1. Search precautions, clothing, Wena's care and the location of the sword.
 2. Silas's information source and how much Alaric learns about Avarice.
 3. The twins' ages, individual behaviour, separate or joint sale, and outcome.
-4. Brand's reason for this visit to Kelmend, recognition of Silas, public reception and whether he notices Alaric. His employment by Mydea and his willingness to sacrifice it for battle are confirmed.
+4. Brand's reason for being in Kelmend, recognition of Silas, public reception and whether he notices Alaric.
 5. The first lesson's placement, physical limits and location.
 6. The Empty disclosure and how both listeners learn it.
 7. The Day 3 drink and the source and timing of the Day 4 report.

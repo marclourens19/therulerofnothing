@@ -1,6 +1,6 @@
 # Chapter 11: Design
 
-Started 6 October 2026. **Status (9 October):** the author's working design, `Chapter 11 - Working Design.md`, replaces the seven-scene shape below, which is kept as a record. What became of each round 1 question, Claude's review of the working design, and round 2 are at the end of this file ("Round 2: the author's working design"). New material is marked **Your call**.
+Started 6 October 2026. **Status (10 October):** the author updated the working design (Brand's allegiance, and the world keeps moving). Claude's notes on the update are at the end of this file ("Round 3: the 10 October update"). **Round 2's sixteen questions are still waiting on the author;** they're proposals until chosen. **Status (9 October):** the author's working design, `Chapter 11 - Working Design.md`, replaces the seven-scene shape below, which is kept as a record. What became of each round 1 question, Claude's review of the working design, and round 2 are further down ("Round 2: the author's working design"). New material is marked **Your call**.
 
 **Earlier status (6 October):** Claude's proposal and round 1 of questions.
 
@@ -571,3 +571,53 @@ Your seven tests stand. Here's what meets each one, and what still threatens it.
    - "And where would ye go?" (Chapter 9) gets its answer: the fort, with Silas.
 
 **The biggest risk** is that the two halves feel like two chapters: a day in the town, then a mission briefing. What joins them is Alaric's want. On Day 3 it has no object ("strong enough to protect people"). On Day 4 it finds one: Darcy. If the draft makes that turn felt (the twins he couldn't help, then a woman he might), the halves become one movement.
+
+## Round 3: the 10 October update
+
+The author's updated working design replaces the 9 October version in `Chapter 11 - Working Design.md`, word for word; the 9 October version is in `Drafts/`. Nothing else in it changed.
+
+### What it adds
+
+1. **Brand's allegiance (confirmed).** He works for Mydea but acts for his own gain, above all the excitement of battle, and would sacrifice the country for the fights he wants. Zenos (FFXIV) is the reference. His reason for this visit to Kelmend is still open.
+2. **The world keeps moving (confirmed).** The market and the auctions run all day on their own schedule. Customers, sellers, workers and guards have their own business, and Alaric leaving doesn't stop any of it. Any interruption needs a cause inside the world.
+3. **Round 2 isn't approved by being on the branch.** The working design names five proposals that aren't decided: Brand's killings kept separate from the gorge (question 6), Empty on Day 4 (question 10), the convoy timetable (question 12), Silas in the kitchen (question 14) and Alaric's contact role (question 15). The same goes for all sixteen.
+
+### What it answers in round 2
+
+- **Question 5f (who Brand serves): answered, differently from my framing.** I proposed "Mydea uses him, the way Natharul uses Thaer." The author's answer is that the use runs both ways: Mydea employs him, and he uses Mydea for his fights. That's also unlike Thaer, who acts from love of his sister and his duty.
+- **Brand's first version is very likely gone.** Decisions kept two versions open: the first (§7), who "sincerely believes he's a good person" because power is treated as moral authority, and the newer Zenos-like one. The update says his affiliation "does not make him a dutiful protector or a champion of the hierarchy". *My reading:* the first version is superseded. **To confirm** (question 17).
+- Everything else in round 2 is still open.
+
+### My round 2 proposals, checked against the new rule
+
+- **They fit:**
+  - Question 4: Alaric leaves before the second twin is sold, and never learns the end. The sale goes on past what he can see.
+  - Question 5b: Brand passes the platform without looking at it. The crowd shifting to let him and his guards through is a ripple with a cause; the sale doesn't stop.
+  - Question 5c: people greet him. They have their own reasons for liking him.
+  - Question 11: the loud guard comes back on Day 4 because of his own soft spot for Marta, which is his life, not Alaric's.
+- **One needs correcting: my challenge 1.** I suggested every encounter on Day 3 "answer back" to Alaric's question from the vision. Taken literally, that turns the guest, the women and the buyers into instruments of his arc, which the update rules out. **Corrected:** the through-line runs through Alaric's *attention*, not through the people. They go about their business. What he reads into them is his, and can be wrong. He expects the guest's anger because of the dream; the guest just apologises, and goes off to whatever his own day holds.
+
+### Two new proposals from the update
+
+These are mine, and each needs a yes or no.
+
+18. **Brand's conversational cause** (it fills question 5a, if you take the field).
+    - The guards with him are uneasy about whatever killed thousands on the farmer's land without a sound. Brand hopes it's still out there.
+    - It's one plain exchange, and Alaric overhears it from where he stands.
+    - It shows, through behaviour Alaric can see, what the update confirms: the danger to Mydea is the thing he's looking forward to.
+    - He never says he'd sacrifice the country. Readers will see that he would.
+19. **How the moving world shows in Alaric's eyes.** He can only see what goes on while he's there, so it has to show at the edges:
+    - **The next lot is already waiting.** Alaric sees it, someone else standing by the steps, while the twins are still on the platform.
+    - **When Brand passes,** some bidders turn to look. The auctioneer calls the price again until they turn back.
+    - **As Silas takes him away,** the auctioneer's voice follows them down the street, calling the next lot.
+    - **At the inn,** customers and the women carry on with their own talk around him, and some of it has nothing to do with him or the plot.
+
+    *Recommended:* all four, plainly and briefly. The third is the strongest, because it's the market going on without him, and it's the last thing he hears of the children.
+
+### Still to answer
+
+Round 2's questions 1–16 (5f is answered), plus:
+
+17. **Brand's first version superseded?** *Recommended:* yes. He isn't the sincere believer in a good hierarchy; he's the Ruler of Fire who uses Mydea for his fights.
+18. **Brand's exchange with the guards:** they fear what did the field, and he hopes it's still out there.
+19. **The moving world at the edges:** the waiting lot, the bidders turning back, the voice behind them, and the inn's own talk.
