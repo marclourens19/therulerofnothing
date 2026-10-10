@@ -74,7 +74,7 @@ Everything written before the re-plan now lives in `Archive/`. That includes the
 
 1. **Volume 1.** Chasing the past; the tear.
 2. **Volume 2.** Darcy's rescue; the war comes home; Seralune and Nereth escape. Alaric and Freya become mutual. Both groups head for Kozmagar.
-3. **Volume 3, Kozmagar.** The Time bearer searches for Alaric. Alaric and Freya become something serious. Seralune and Nereth arrive on the same continent; the two threads converge. **Alaric and Seralune meet at the end of Volume 3.**
+3. **Volume 3, Kozmagar.** The Time bearer searches for Alaric. Alaric and Freya become something serious. Seralune and Nereth arrive on the same continent; the two threads converge. **Alaric and Seralune meet at the end of Volume 3.** *In question (10 October): the Volume 1 working design has them first encounter one another briefly at the Volume 1 climax (see Volume 1, "The Volume 1 working design", and Open questions).*
 4. **Volume 4.** Hostility, forced together. Freya's relationship is tested with Seralune present. Freya's choice comes near the end, or early in Volume 5.
 5. **Volume 5.** A mission together; the pressure builds.
 6. **Volume 6.** The slow fall into love.
@@ -162,6 +162,21 @@ The author's direction only. The handoff's recommendations for each point are in
   - Atera regenerates from catastrophic injury and feels all of it.
   - Alaric takes the deaths as proof that people suffer whenever he pursues who he was, which pushes him towards isolating himself.
 - **Seralune's route.** Cyrandor's Order tells her that her mother left something for her, or wanted her to find a path. She goes into Mydea rather than straight to Favale. Her search may lead first to **Inrandeel**, the enormous rainforest where, in her remembered age, independent elves lived in peace outside Natharul's direct rule. She expects to find them and finds the community destroyed or removed. Their fate raises new questions about her mother, Natharul, her brother and the forgotten history involving Alaric, and something there points her on to Favale.
+
+### The Volume 1 working design (10 October)
+
+The author's complete working design for the rest of Volume 1, made in the other workspace, is kept word for word in `Story Bible/Handoffs/Volume 1 Complete Working Design (10 October).md`, with Claude's reply beside it. Its §2 lists what the author settled there, copied below. Everything else in it is a working design: the chapter positions 11–62 are provisional, and its recommendations stay proposals. It supersedes the structural map's person-shaped absence, proof of erasure and voluntary departure from Foramen.
+
+- **Destination:** the Favale disaster and its aftermath stay: Church custody for Seralune and Nereth, and Alaric concealing what he felt and withdrawing.
+- **The first encounter:** Alaric and Seralune first knowingly encounter one another, briefly, at the Volume 1 climax. "Their relationship develops in Volume 2." *This conflicts with the series timeline (they meet at the end of Volume 3), the Volume 2 Picture, Volume 3's climax ("Alaric thinks Seralune is one of the assassins, because she's an elf") and Freya's timing; see Open questions.*
+- **Fort Kelmend:** Silas and Alaric break in and reach Darcy. She refuses to leave because other people would suffer, but gives them a concrete lead. Her rescue stays in Volume 2.
+- **Darcy's lead:** recover a surviving war-machine core from Gerolt's field, then investigate it towards Favale.
+- **Inrandeel:** Natharul destroyed the independent community centuries ago. Some people escaped; nobody remained alive in the settlement. Escapees or descendants can speak about it, and they have no account of the queen being there.
+- **Foramen:** the settlement formally expels Alaric's group after Liluth's attack.
+- **No evidence of erasure in Volume 1:** no identifiable missing person in the records, and no proof that somebody removed Alaric's biography.
+- **The double at Favale:** during the tear it appears intermittently among corners and ruins, leading Alaric to the centre, where Seralune is. It turns his fear towards a claim about his destiny and identity. Its exact words are still to be refined.
+- **Left open on purpose:** what starts the tear (the proposal of deliberate core use isn't approved), and the lead that takes Seralune from Inrandeel to Favale (the proposal of dispersed-community records isn't approved).
+- **Also:** Alaric's ankle improves with rest.
 
 ## Volume 2
 
@@ -1232,6 +1247,11 @@ Not in the central cast yet, and not locked (handoff §7, §14.3).
 
 ### Volume 1 picture
 
+- **The first encounter (10 October).** Is the brief encounter at Favale a first sighting, with their real meeting still at the end of Volume 3? Or do they meet there, with their relationship developing on the page in Volume 2, which would mean redesigning the Volume 2 and Volume 3 Pictures, Volume 3's climax and Freya's timing? *Claude recommends the first sighting.*
+- **What Seralune accepts (10 October).** Canon has her accept "responsibility for who she was"; the working design has her accept the deaths at Favale. *Claude recommends both:* she meets the history that condemns the ancient princess at Favale, before the tear.
+- **Darcy's dependants (10 October).** Gilmot's threat against Kelmend's Faint quarter (Volume 2) is a ready mechanism: escape triggers it, an authorised transfer doesn't, and it's Redd and Freya's home.
+- **Natharul's search for Seralune (10 October).** Does Natharul look for the escaped princess? A search would give her road pressure, Thaer a route to Favale, and Liluth's pursuit a reason to be called off.
+- **When to settle the reserved bridges (10 October).** *Claude recommends* the tear's trigger before position 22 (the core is recovered there), and Seralune's Favale lead before position 26.
 - **Does Seralune believe it was her fault?**
 - **When does the truth come out, and to whom?** Which volume?
 - **Seralune and the question:** does her Volume 1 answer the same question from the other side? She has infinite mana, yet is treated as defective and dangerous.
