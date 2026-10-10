@@ -951,6 +951,12 @@ The plan is built in `Chapter Development/Volume 1/Chapter 04/Chapter 04 - Desig
   - **The author's review of round 3,** accepted: the overheard exchange shows Brand's interest in a dangerous opponent, not that he'd sacrifice Mydea; the guards' account of the field stays their theory; if Alaric leaves before the second twin is sold, the auctioneer's voice behind him is calling that child's price, not the next lot; background activity follows the people present, not a checklist.
   - Claude's notes are round 4 in `Chapter 11 - Design.md`: Alaric's limited task (the labourer who gives Silas's stolen-uniform guard a reason to go down), Empty at the disguise, and the chapter's last step. Proposals 20–22 wait on the author; 23 is carried forward to the fort chapter.
 
+- **Dialogue Round 1, Day 3 (10 October),** from the other workspace, kept word for word in `Chapter Development/Volume 1/Chapter 11/Chapter 11 - Dialogue Round 1 (Day 3).md`: two options for each of eight exchanges (breakfast, Silas and the marriage, the warning, the auction, Brand, Silas on Brand, a first lesson, the evening with Marta). Claude's notes are beside it. Waiting on the author's choices. It incorporates three decisions the author made there:
+  - **Alaric watches for approaching guards and gives Silas a useful warning** while Silas questions a source (a carter, proposed).
+  - **The twins are sold separately, and Alaric leaves during the second sale.** The auctioneer is still calling the second child's price behind him.
+  - **The silent battle has brought Brand to Kelmend, and Brand notices neither man.**
+  - *Claude's notes, to confirm:* Silas never says "Aye" in Chapters 1–10. It belongs to Gerolt and Marta, uncle and niece, and Silas says "Yes". A Day 3 lesson would spend round 4's proposal 22, where the first thing he's taught is to look 『Faint』.
+
 ## Alaric
 
 - About twenty.
