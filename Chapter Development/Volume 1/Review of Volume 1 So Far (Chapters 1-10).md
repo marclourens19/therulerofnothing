@@ -4,6 +4,8 @@
 
 This is one reader's opinion. None of it changes `Decisions.md` until you answer the questions at the end.
 
+**Corrected later the same day.** The other workspace's response showed that this review overstated several points. Chapter 8's two waits are about 680 of its 5,300 words, not most of them, so its mark should be 75. Silas does tell Alaric "A boy like you means nothing to them" (Chapter 3). And Rhose's "Tell him I'm finished for tonight" does put the women's choice on the page. The full list, and my view of each proposed edit, is in `Reply to the Recommended Changes (10 October).md`. Question 6 is answered: Rhose's advances stay.
+
 ## The verdict
 
 Yes, the story is good. The writing is clean, controlled and often moving. At its best, in Chapters 2, 7 and 10, it would hold its own in a published fantasy novel, and its sentences are cleaner than most web fiction manages. Gerolt, Seralune, Nereth and Marta feel like people rather than parts of a plot. And the shape of the two threads is the strongest idea in the book: Natharul hunts Alaric while Natharul's own princess runs from it, and neither knows the other exists.

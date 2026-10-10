@@ -720,6 +720,10 @@ The plan is built in `Chapter Development/Volume 1/Chapter 04/Chapter 04 - Desig
     - **Chosen (2 October):** all of these were applied. The room is version B (she tips his chin up: "I told him I was finished for tonight. I didn't say anything about you."), with "Since you asked nicely." Alaric thanks Rhose twice: in the kitchen and at the candle.
     - **The door (2 October), option 2:** the guards will ask "about Gerolt. And about us." Marta knows Gerolt's sword on sight (new, approved) and asks why the dog is with him and not with Gerolt. "If who finds ye?" / "The elves." At the table: "Ye said ye'd tell me inside. Why've ye got his sword? Where's Gerolt?"
   - **Finished (2 October):** the last checks were three final passes, Claude's review notes 1–8 ("apply 1-8") and five passes before merging. The chapter is 4,132 words and was merged into main. Every step is recorded in `Chapter 09 - Design.md`.
+- **After the volume review (10 October).** Claude's review of Chapters 1–10 and the other workspace's response, `Recommended Changes After the Volume Review (other workspace, 10 October).md`, are in `Chapter Development/Volume 1/`, with Claude's reply.
+  - **Rhose's advances stay as written** (the author, 10 October, as reported in the response): her directness and teasing are part of her personality. The review's suggestion to move the flirting to the rest days is withdrawn.
+  - **The double's line.** The author's Word file of Chapters 1–10 (10 October) has "Alaric. This is who you are." and no "*No. I didn't—*", and the response calls both selected. This replaces "This is who you are, Alaric." and the thought (selected 2 October, above). The manuscript in this repo still has the older text until it's synced.
+  - *Waiting on the author:* syncing the double's line, "At midday." for "That morning.", and "any more" for "anymore".
 
 ## Chapter 10
 
