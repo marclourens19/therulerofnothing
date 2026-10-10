@@ -86,6 +86,8 @@ Nereth was looking at her fingers.
 
 Before she started walking, she rubbed the tips of her fingers together, as though they were still warm.
 
+They walked for a long time.
+
 Mostly to hear something besides the water and their own feet, Seralune said, "What did you think was past the falls? When you were small."
 
 Nereth didn't answer straight away, and Seralune thought she wasn't going to.
@@ -104,11 +106,9 @@ Seralune laughed before she knew it was coming. The sound went off along the wat
 
 Nereth hadn't laughed. But when Seralune glanced at her, the corner of her mouth had moved, and it stayed that way for a few steps.
 
-Seralune's heels had rubbed raw in the borrowed shoes by the time Nereth stopped and lowered the lamp.
+They came to the pillar again a long time later.
 
-There in the silt were their own prints: the soft soles of Seralune's shoes and Nereth's harder ones beside them, going away down the left-hand opening.
-
-Seralune looked up at the pillar.
+Seralune didn't know it at first. She only knew that she was tired and that her heels had rubbed raw in the borrowed shoes, and then Nereth stopped and lowered the lamp, and there in the silt at the foot of the pillar were their own prints: the soft soles of Seralune's shoes and Nereth's harder ones beside them, going away down the left-hand opening.
 
 "Ah," Nereth said.
 
@@ -180,7 +180,7 @@ Nereth stood a moment longer with the lamp held out. Then she went into the left
 
 It didn't sound funny, even in her head.
 
-Seralune watched the lamp shake, and the light shake on the wall with it, so that the stones seemed to shift whenever she looked at them. Last night, with two swords a step away from her, Nereth's hands hadn't shaken at all.
+Seralune watched the lamp shake for a long time, and the light shake on the wall with it, so that the stones seemed to shift whenever she looked at them. Last night, with two swords a step away from her, Nereth's hands hadn't shaken at all.
 
 "Let me carry that for a while."
 
@@ -202,9 +202,7 @@ Seralune let her do it. She had opened her mouth to say *I won't be shouted at*,
 
 *She doesn't know what's happened to Cyrandor, and she hasn't slept, and she's held you up every step since the arch. Let her shout. You'd shout too.*
 
-She didn't offer again, or say anything else, because it seemed safest not to. She walked behind the light and didn't let herself think about the water or the pillar or how far down they might have come.
-
-Nereth stopped ahead of her.
+She didn't offer again, or say anything else, because it seemed safest not to. She walked behind the light and didn't let herself think about the water or the pillar or how far down they might have come, and she had been quiet for a long time when Nereth stopped ahead of her.
 
 "Say it to my face, Your Highness."
 
@@ -368,7 +366,7 @@ There had to be another way out.
 
 She turned and went on down.
 
-There was more light than the lamp's.
+Some time later there was more light than the lamp's.
 
 Nereth had stopped, and was looking down into her own right hand. She had opened the fingers at last, and in her palm there was a flame the size of an egg, steady and yellow, and she was watching it with her head a little on one side and the corner of her mouth turned up, the way it had turned up over the sea.
 

@@ -10,7 +10,7 @@ The story is being re-planned and rewritten from the beginning, one chapter at a
 
 ## Read the novel
 
-**Volume 1:** ten chapters finished, about 45,800 words. Chapter 11 is next.
+**Volume 1:** ten chapters finished, about 45,700 words. Chapter 11 is next.
 
 | Ch | Title | Viewpoint | Words |
 |---:|---|---|---:|
@@ -21,9 +21,9 @@ The story is being re-planned and rewritten from the beginning, one chapter at a
 | 5 | [The Shape of Absence](Manuscript/Volume%201/Chapter%2005%20-%20The%20Shape%20of%20Absence.md) | Seralune | 3,138 |
 | 6 | [The Words of the Dead](Manuscript/Volume%201/Chapter%2006%20-%20The%20Words%20of%20the%20Dead.md) | Alaric | 4,868 |
 | 7 | [The Last Keeper](Manuscript/Volume%201/Chapter%2007%20-%20The%20Last%20Keeper.md) | Seralune | 4,220 |
-| 8 | [The Road Owed to the Dead](Manuscript/Volume%201/Chapter%2008%20-%20The%20Road%20Owed%20to%20the%20Dead.md) | Alaric | 5,312 |
-| 9 | [Refuge](Manuscript/Volume%201/Chapter%2009%20-%20Refuge.md) | Alaric | 4,132 |
-| 10 | [Beneath Natharul](Manuscript/Volume%201/Chapter%2010%20-%20Beneath%20Natharul.md) | Seralune | 8,698 |
+| 8 | [The Road Owed to the Dead](Manuscript/Volume%201/Chapter%2008%20-%20The%20Road%20Owed%20to%20the%20Dead.md) | Alaric | 5,308 |
+| 9 | [Refuge](Manuscript/Volume%201/Chapter%2009%20-%20Refuge.md) | Alaric | 4,130 |
+| 10 | [Beneath Natharul](Manuscript/Volume%201/Chapter%2010%20-%20Beneath%20Natharul.md) | Seralune | 8,650 |
 
 ## How the repository is organised
 

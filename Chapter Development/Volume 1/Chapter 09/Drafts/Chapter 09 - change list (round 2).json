@@ -3,13 +3,14 @@
   "draft": "Chapter 09 - Refuge (Draft 2, after five passes).md",
   "chapter": "../../../../Manuscript/Volume 1/Chapter 09 - Refuge.md",
   "changes_file": "../Chapter 09 - Changes (round 2).md",
-  "intro_md": "2 October 2026. Changes after the five passes, made from `Chapter Development/Volume 1/Chapter 09/Drafts/Chapter 09 - Refuge (Draft 2, after five passes).md`. The author is reading the chapter through with Claude; this round has the name Rhose and the speaker tags. Marta's questions at the door, Alaric's self-blame and the two versions of the room exchange are waiting on the author (`Chapter 09 - Design.md`, round 9).",
+  "intro_md": "2 October 2026. Changes after the five passes, made from `Chapter Development/Volume 1/Chapter 09/Drafts/Chapter 09 - Refuge (Draft 2, after five passes).md`. The author is reading the chapter through with Claude; this round has the name Rhose and the speaker tags. Marta's questions at the door, Alaric's self-blame and the two versions of the room exchange are waiting on the author (`Chapter 09 - Design.md`, round 9). **10 October:** after the volume review, four more (changes 34–37): the midday answer, house style, and the double's line and cut thought from the author's Word file of Chapters 1–10.",
   "sections": {
     "Who's speaking": "Who's speaking (the guards' interview)",
     "The name: Rhose": "The name: Rhose (one change per paragraph)",
     "Round 9": "Round 9: the author's choices (2 October)",
     "Final passes": "Three final passes (2 October)",
-    "Review": "Claude's review notes (2 October)"
+    "Review": "Claude's review notes (2 October)",
+    "Volume review": "After the volume review (10 October)"
   },
   "changes": [
     {
@@ -374,6 +375,49 @@
       "why": "Note 5: Marta had just answered where Silas would sleep (\"pay for a bed somewhere\").",
       "decision": "accepted",
       "decision_note": "The author, 2 October: \"apply 1-8\"."
+    },
+    {
+      "section": "Volume review",
+      "title": "At midday",
+      "kind": "changed",
+      "tags": [],
+      "before": "\"That morning.\"",
+      "after": "\"At midday.\"",
+      "why": "Chapter 1 has the sun directly overhead when Gerolt finds him, and Gerolt says \"You've been senseless since midday.\" Found by the volume review, and proposed the same way by the other workspace's response.",
+      "decision": "accepted",
+      "decision_note": "The author, 10 October: \"1. yes\"."
+    },
+    {
+      "section": "Volume review",
+      "title": "Any more",
+      "kind": "changed",
+      "tags": [],
+      "before": "\"He can't. Not anymore. He—he's dead.\"",
+      "after": "\"He can't. Not any more. He—he's dead.\"",
+      "why": "House style (\"any more\", as in the other chapters).",
+      "decision": "accepted",
+      "decision_note": "The author, 10 October: \"1. yes\"."
+    },
+    {
+      "section": "Volume review",
+      "title": "The double's line",
+      "kind": "changed",
+      "tags": [],
+      "before": "\"This is who you are, Alaric.\"",
+      "after": "\"Alaric. This is who you are.\"",
+      "why": "The author's Word file of Chapters 1–10 (10 October). The other workspace's response calls this line selected; it replaces the version chosen on 2 October.",
+      "decision": "accepted",
+      "decision_note": "The author, 10 October: \"1. yes\"."
+    },
+    {
+      "section": "Volume review",
+      "title": "No denial",
+      "kind": "cut",
+      "tags": [],
+      "before": "*No. I didn't—*",
+      "why": "The author's Word file of Chapters 1–10 (10 October) drops the thought, and the other workspace's response calls its removal selected.",
+      "decision": "accepted",
+      "decision_note": "The author, 10 October: \"1. yes\"."
     }
   ]
 }

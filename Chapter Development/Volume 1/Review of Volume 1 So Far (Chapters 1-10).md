@@ -4,7 +4,7 @@
 
 This is one reader's opinion. None of it changes `Decisions.md` until you answer the questions at the end.
 
-**Corrected later the same day.** The other workspace's response showed that this review overstated several points. Chapter 8's two waits are about 680 of its 5,300 words, not most of them, so its mark should be 75. Silas does tell Alaric "A boy like you means nothing to them" (Chapter 3). And Rhose's "Tell him I'm finished for tonight" does put the women's choice on the page. The full list, and my view of each proposed edit, is in `Reply to the Recommended Changes (10 October).md`. Question 6 is answered: Rhose's advances stay.
+**Corrected later the same day.** The other workspace's response showed that this review overstated several points. Chapter 8's two waits are about 680 of its 5,300 words, not most of them, so its mark should be 75. Silas does tell Alaric "A boy like you means nothing to them" (Chapter 3). And Rhose's "Tell him I'm finished for tonight" does put the women's choice on the page. The full list, and my view of each proposed edit, is in `Reply to the Recommended Changes (10 October).md`. Question 6 is answered (Rhose's advances stay), and question 7 is done: the repo's Chapter 9 now matches your Word file.
 
 ## The verdict
 
@@ -143,7 +143,7 @@ The double will carry a lot of the series. Its first line was the right size for
 
 ### 7. Chapter 10's length and scale
 
-- **Length.** At 8,700 words it's a fifth of the volume, and it mostly earns that: the circling takes about 2,700 words, and its best beats (the sea, the mark, "You stopped breathing") pay for it. What could be tighter is the walking between the beats. That's where "a long time" or "for a while" marks time, nine times in the narration, because the no-counting rule has pushed time into vague phrases. The chapter already has the better way: "The lamp had been half full when she sat down, and it wasn't now." Mark time by what she can see and feel (the oil, the blisters, her thirst), not by "a long time".
+- **Length.** At 8,700 words it's a fifth of the volume, and it mostly earns that: the circling takes about 2,700 words, and its best beats (the sea, the mark, "You stopped breathing") pay for it. What could be tighter is the walking between the beats. That's where "a long time" or "for a while" marks time, ten times in the narration, because the no-counting rule has pushed time into vague phrases. The chapter already has the better way: "The lamp had been half full when she sat down, and it wasn't now." Mark time by what she can see and feel (the oil, the blisters, her thirst), not by "a long time".
 - **Scale.** Nereth can't hold a flame "for hours", yet she opens the side of a mountain. Gerolt's last stand, the biggest Fire the reader had seen before this, burned two riders. Careful readers have enough to guess why (the flowers bend towards Nereth's hand, and Seralune's mana rises every time); others will decide the magic has no rules. You've already noted that later chapters must respect the scale. They also need to show the world noticing, and the bell is a good start.
 
 ## Chapter by chapter
@@ -179,4 +179,4 @@ Recommendations, for your yes or no. Answer by number and I'll put what you deci
 
 - **Chapter 9.** "He only met ye yesterday?" / "That morning." Chapter 1 has Gerolt find him at midday ("The sun stood directly overhead"; "You've been senseless since midday"). "At midday." would fix it.
 - **Chapter 9.** "Not anymore." House style is "any more".
-- **Chapter 10.** The nine "a long time" and "for a while" in the narration (point 7 above).
+- **Chapter 10.** The ten "a long time" and "for a while" in the narration (point 7 above).

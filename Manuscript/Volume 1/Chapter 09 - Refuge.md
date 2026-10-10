@@ -84,7 +84,7 @@ Marta looked at it too, lying across his knees.
 
 "Well, the old fool can come and tell me himself. Where is he?"
 
-"He can't. Not anymore. He—he's dead."
+"He can't. Not any more. He—he's dead."
 
 Marta's face went still. Her lips were parted, but she said nothing.
 
@@ -116,7 +116,7 @@ Marta ran her thumb over the worn grip.
 
 "He only met ye yesterday?"
 
-"That morning."
+"At midday."
 
 She nodded once, still looking down at it. When she tried to speak again, nothing came.
 
@@ -540,11 +540,9 @@ Slowly, his shoulders came round, and his face followed.
 
 Alaric saw his own eyes. His own mouth. The face he had seen in the water before he went to bed.
 
-"This is who you are, Alaric."
+"Alaric. This is who you are."
 
 The voice was his too.
-
-*No. I didn't—*
 
 Rhose's torn throat.
 

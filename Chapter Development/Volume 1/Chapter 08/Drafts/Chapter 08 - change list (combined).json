@@ -3,7 +3,7 @@
   "draft": "Chapter 08 - The Road Owed to the Dead (Draft 3, combined).md",
   "chapter": "../../../../Manuscript/Volume 1/Chapter 08 - The Road Owed to the Dead.md",
   "changes_file": "../Chapter 08 - Changes (combined).md",
-  "intro_md": "1 October 2026. The author's combined version of Chapter 8 (`Chapter Development/Volume 1/Chapter 08/Drafts/Chapter 08 - The Road Owed to the Dead (Draft 3, combined).md`, from their Word file, with straight quotes) is now the chapter. Only the house style is changed here. Claude's notes on it are in `Chapter 08 - Design.md` (\"The combined version\"), waiting on the author. The version after Claude's three passes is saved as Draft 2, and its changes stay in `Chapter 08 - Changes.md`.",
+  "intro_md": "1 October 2026. The author's combined version of Chapter 8 (`Chapter Development/Volume 1/Chapter 08/Drafts/Chapter 08 - The Road Owed to the Dead (Draft 3, combined).md`, from their Word file, with straight quotes) is now the chapter. Only the house style is changed here. Claude's notes on it are in `Chapter 08 - Design.md` (\"The combined version\"), waiting on the author. The version after Claude's three passes is saved as Draft 2, and its changes stay in `Chapter 08 - Changes.md`. **10 October:** after the volume review, one line is cut (change 55). The rest of the chapter stays as written, by the author's choice; the other workspace's two compressions of the waits weren't taken (`Chapter Development/Volume 1/Reply to the Recommended Changes (10 October).md`).",
   "sections": {
     "House style": "House style",
     "Notes": "Claude's notes on the combined version, agreed (1 October)",
@@ -16,7 +16,8 @@
     "Error pass": "Error pass (1 October)",
     "Final pass 1": "Final pass 1 of 3: errors, POV slips and logic.",
     "Final pass 2": "Final pass 2 of 3: vocabulary, rhythm and repeats.",
-    "Marta's voice": "The author's Marta voice (2 October)"
+    "Marta's voice": "The author's Marta voice (2 October)",
+    "Volume review": "After the volume review (10 October)"
   },
   "changes": [
     {
@@ -666,6 +667,17 @@
       "decision": "accepted",
       "decision_note": "The author's Marta voice (2 October): sent as a revised chapter with the Marta handoff.",
       "decision_short": "the author's revision (2 October)."
+    },
+    {
+      "section": "Volume review",
+      "title": "After that, they waited",
+      "kind": "cut",
+      "tags": [],
+      "before": "After that, they waited.",
+      "why": "The one line in the wait by the inn that only tells the reader what the next paragraphs show. The rest of the wait stays: the proposed compression would have turned Alaric's reasoning thought into a bare question and lost \"the loud voice and the tired one\", which Chapter 9 pays off.",
+      "decision": "accepted",
+      "decision_note": "The author, 10 October: \"3. yes\" (Chapter 8 stays as written, apart from this line).",
+      "decision_short": "the author, 10 October (\"3. yes\")."
     }
   ]
 }

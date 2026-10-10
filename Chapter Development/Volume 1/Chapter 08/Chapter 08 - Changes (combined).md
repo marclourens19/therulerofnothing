@@ -1,12 +1,12 @@
 # Chapter 8: Changes (the combined version)
 
-1 October 2026. The author's combined version of Chapter 8 (`Chapter Development/Volume 1/Chapter 08/Drafts/Chapter 08 - The Road Owed to the Dead (Draft 3, combined).md`, from their Word file, with straight quotes) is now the chapter. Only the house style is changed here. Claude's notes on it are in `Chapter 08 - Design.md` ("The combined version"), waiting on the author. The version after Claude's three passes is saved as Draft 2, and its changes stay in `Chapter 08 - Changes.md`.
+1 October 2026. The author's combined version of Chapter 8 (`Chapter Development/Volume 1/Chapter 08/Drafts/Chapter 08 - The Road Owed to the Dead (Draft 3, combined).md`, from their Word file, with straight quotes) is now the chapter. Only the house style is changed here. Claude's notes on it are in `Chapter 08 - Design.md` ("The combined version"), waiting on the author. The version after Claude's three passes is saved as Draft 2, and its changes stay in `Chapter 08 - Changes.md`. **10 October:** after the volume review, one line is cut (change 55). The rest of the chapter stays as written, by the author's choice; the other workspace's two compressions of the waits weren't taken (`Chapter Development/Volume 1/Reply to the Recommended Changes (10 October).md`).
 
 ## At a glance
 
-- **54 changes proposed.** 2 rejected so far, so 52 are in the chapter: 52 rewritten, 0 cut and 0 added.
-- **Length:** 5,340 words before, 5,312 after.
-- **Median paragraph:** 16 words before, 16.5 after. The house target is roughly 14–22.
+- **55 changes proposed.** 2 rejected so far, so 53 are in the chapter: 52 rewritten, 1 cut and 0 added.
+- **Length:** 5,340 words before, 5,308 after.
+- **Median paragraph:** 16 words before, 17 after. The house target is roughly 14–22.
 - **"Nothing":** 1 times before, 1 after.
 
 ## Your call
@@ -71,6 +71,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 52, The inn's board:** the author's request (1 October).
 - **Change 53, Marta to Wena:** the author's revision (2 October).
 - **Change 54, I said out:** the author's revision (2 October).
+- **Change 55, After that, they waited:** the author, 10 October ("3. yes").
 
 ## The changes
 
@@ -110,7 +111,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 3. Faint (2)
 
-*Draft line 423 · proposed, rejected by you: the original stays at revised line 421*
+*Draft line 423 · proposed, rejected by you: the original stays at revised line 419*
 
 **Before (kept)**
 
@@ -232,7 +233,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 10. Tying the bed
 
-*Draft line 437 → revised line 435*
+*Draft line 437 → revised line 433*
 
 **Before**
 
@@ -410,7 +411,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 21. Which woman
 
-*Draft line 421 → revised line 419*
+*Draft line 421 → revised line 417*
 
 **Before**
 
@@ -518,7 +519,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 27. The windows go out
 
-*Draft line 431 → revised line 429*
+*Draft line 431 → revised line 427*
 
 **Before**
 
@@ -584,7 +585,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 31. The scraping again
 
-*Draft line 461 → revised line 459*
+*Draft line 461 → revised line 457*
 
 **Before**
 
@@ -738,7 +739,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 40. Marta doesn't repeat the ban
 
-*Draft line 487 → revised line 485*
+*Draft line 487 → revised line 483*
 
 **Before**
 
@@ -952,7 +953,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 53. Marta to Wena
 
-*Draft line 479 → revised line 477*
+*Draft line 479 → revised line 475*
 
 **Before**
 
@@ -968,7 +969,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 54. I said out
 
-*Draft line 491 → revised line 489*
+*Draft line 491 → revised line 487*
 
 **Before**
 
@@ -981,3 +982,19 @@ Each of these needs a yes or no from you. It adds something about a character or
 **Why.** The author's line.
 
 **Your decision.** The author's Marta voice (2 October): sent as a revised chapter with the Marta handoff.
+
+### After the volume review (10 October)
+
+#### 55. After that, they waited
+
+*Draft line 409 · cut*
+
+**Before**
+
+> After that, they waited.
+
+**After:** cut.
+
+**Why.** The one line in the wait by the inn that only tells the reader what the next paragraphs show. The rest of the wait stays: the proposed compression would have turned Alaric's reasoning thought into a bare question and lost "the loud voice and the tired one", which Chapter 9 pays off.
+
+**Your decision.** The author, 10 October: "3. yes" (Chapter 8 stays as written, apart from this line).

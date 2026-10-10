@@ -15,7 +15,7 @@ I'd take the Chapter 9 fixes and the Chapter 10 trims, with one wording change, 
 3. **"Nobody has told him he's nothing" missed Silas in Chapter 3:** "A boy like you means nothing to them." What hasn't happened is anyone responding to his having no Affinity. That's the gap, and Chapter 11 is where it closes.
 4. **"The women's freedom to choose isn't on the page" was wrong.** Rhose's "Tell him I'm finished for tonight" is on the page.
 5. **Nereth's "I cannot hold one for hours" doesn't contradict the blast.** Keeping a flame going and one great burst are different limits. The real questions are where the power came from and whether its scale keeps mattering.
-6. **"Mark time by what she can see and feel, not by 'a long time'" could be read as replacing all nine.** It shouldn't be. The trims belong on the travel lines. The pauses that carry fear stay: Nereth looking at their hands, and the wait for her breath after the blast.
+6. **"Mark time by what she can see and feel, not by 'a long time'" could be read as replacing all ten.** It shouldn't be. The trims belong on the travel lines. The pauses that carry fear stay: Nereth looking at their hands, and the wait for her breath after the blast.
 7. **"One answer that costs something in every chapter" was too rigid as a rule.** Some chapters need rest or ordinary pleasure. As a question each design asks, it still helps: is this holding back earned, and could this overheard news come some other way?
 
 One point needs no correction. The response warns against making Seralune's compassion look foolish in Chapter 7. My review didn't suggest that; it called turning back for Nereth the clearest choice either lead makes. We agree that her flaw is taking control of other people's choices, not kindness itself: she frees the lizard over Nereth's "Leave it", and she takes the lamp by order.
@@ -89,9 +89,18 @@ The response reports that you've confirmed her advances are intentional, part of
 
 - **13. "There was more light than the lamp's."** Take it.
 
-That leaves five of the nine time phrases in the narration, and they're mostly the ones that carry fear.
+That leaves six of the eleven vague time phrases in the narration (counting "Some time later"), and they're mostly the ones that carry fear. (I first counted nine and five; I'd missed "For a while there was only the water.")
 
 ## Two things outside the chapters
 
 - **Chapter 11's design** is on the branch `claude/youthful-curie-i1c390`, not yet merged into main, with your decisions on Brand, Darcy's transfer and the fort. The response mentions a newer version, in which Chapter 11 opens with Alaric deciding to find someone who understands the field. That version isn't in the repo yet. When it's settled, it belongs on that branch with the rest.
 - **The response's plan for Empty is a good one.** In the practical talk about the fort, people who care about him assume that no Affinity means no use, and the small help he has already given lets the reader doubt them. That hurts more than a stranger's insult would, and it needs no new magic to threaten him.
+
+## Outcome
+
+The author agreed all three recommendations on 10 October ("1. yes 2. yes 3. yes"), and they're applied through the change lists:
+
+- **Chapter 8:** change 55 cuts "After that, they waited." Nothing else changes.
+- **Chapter 9:** changes 34–37 bring in the double's line, cut the thought, and make "At midday." and "any more". The chapter now matches your Word file apart from those two fixes.
+- **Chapter 10:** the five trims, in a new list (`Chapter 10 - Changes (volume review).md`), with "didn't let herself think" kept. The chapter as it stood is saved as Draft 2.
+- **Chapters 1 and 5:** kept as written.

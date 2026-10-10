@@ -235,6 +235,7 @@ The author's direction only. The handoff's recommendations for each point are in
   - Chapter 1 is now 6,208 words. The handoff's working score is 96/100, and it gets no more general beautification passes.
 
 - **The author's revision (1 October),** from their Word file of Chapters 1–7, is now the chapter: eight changes, in `Chapter Development/Volume 1/Chapter 01/Chapter 01 - Changes (author's revision).md`. Gerolt loses two jokes, and now answers "What about someone with none?" with "I don't know what they'd do with you". The boy's outburst becomes "Then why can't I feel it?…", and he tells Gerolt "That person came to stop me, Gerolt." Chapter 1 is now 6,141 words. Then review questions 1–2 (1 October, agreed): the headache line is back in his outburst ("…and a headache that's at least probably my own."), and Gerolt's repeat is cut to "I know what I saw, lad, and I still can't make it fit." Chapter 1 is 6,122 words. The review is in `Chapter Development/Volume 1/Review of the Author's Revision (Chapters 1-7).md`.
+- **Kept as written after the volume review (10 October,** the author: "3. yes"): "the man who had walked through thousands of corpses that morning". The other workspace proposed "that day", but it isn't an error: Gerolt was out on the field from the morning, before he found the boy at midday.
 
 ## Chapter 2
 
@@ -549,6 +550,7 @@ The plan is built in `Chapter Development/Volume 1/Chapter 04/Chapter 04 - Desig
 - *Open:* Nereth's first disobedience ("still undecided", handoff §15.10).
 
 - **The author's revision (1 October)** is now the chapter: four changes, in `Chapter Development/Volume 1/Chapter 05/Chapter 05 - Changes (author's revision).md`. Thaer leaves saying "I need to speak to Leorin" and asks her to eat. She tells him: "Thaer, look at me. Leorin's an old man. You look exactly as you did this morning. What happened while I was in there?" Chapter 5 is 3,138 words.
+- **Kept as written after the volume review (10 October,** the author: "3. yes"): "When you've slept—" / "Don't you dare send me to bed like a child!" The other workspace proposed cutting both lines as a repeated deferral. They stay: the line is the model of Seralune breaking, and it's where she names Thaer's pattern of sending her to rest.
 
 ## Chapter 6
 
@@ -684,6 +686,7 @@ The plan is built in `Chapter Development/Volume 1/Chapter 04/Chapter 04 - Desig
   - **Three final passes (1 October),** at the author's request: two POV fixes (whose hand; who hears the yard), two wording fixes (no "lean-to"; no chain on the inn's board), and nothing needed for consistency and house style. The chapter is 5,268 words.
   - **The author's Marta voice (2 October),** sent as a revised chapter with the Marta handoff: the guards gossip about her beauty ("Prettiest woman in Kelmend") before "She's the farmer's niece"; "Wena? Well now, what're ye doing at me door, girl?"; "Get the fuck out of Kelmend, Silas. Now… I told ye to keep away from me. Don't come knocking here as if we're all right."; and "I said out!". The Word file was made before the three final passes, so those four fixes stay. The chapter is 5,314 words.
   - **The guards' swearing (2 October,** agreed: "1. Agree 2. Keep bastards 3. Agree"): "Place is always packed" and "Just don't make a nuisance of yourself", so the loud guard keeps the f-words and the cautious one stays plainer. "Half the bastards…" stays.
+- **After the volume review (10 October),** the author: "3. yes". Chapter 8 stays as written, apart from one cut line, "After that, they waited." (change 55 in `Chapter Development/Volume 1/Chapter 08/Chapter 08 - Changes (combined).md`). The other workspace's two compressions of the waits weren't taken: they broke the author's rules on short same-shaped sentences and on thoughts that only ask, and lost "the loud voice and the tired one" that Chapter 9 pays off. The chapter is 5,308 words.
 
 ## Chapter 9
 
@@ -723,8 +726,7 @@ The plan is built in `Chapter Development/Volume 1/Chapter 04/Chapter 04 - Desig
 - **After the volume review (10 October).** Claude's review of Chapters 1–10 and the other workspace's response, `Recommended Changes After the Volume Review (other workspace, 10 October).md`, are in `Chapter Development/Volume 1/`, with Claude's reply.
   - **Rhose's advances stay as written** (the author, 10 October, as reported in the response): her directness and teasing are part of her personality. The review's suggestion to move the flirting to the rest days is withdrawn.
   - **The double's line.** The author's Word file of Chapters 1–10 (10 October) has "Alaric. This is who you are." and no "*No. I didn't—*", and the response calls both selected. This replaces "This is who you are, Alaric." and the thought (selected 2 October, above). The manuscript in this repo still has the older text until it's synced.
-  - *Waiting on the author:* syncing the double's line, "At midday." for "That morning.", and "any more" for "anymore".
-
+  - **Applied (10 October,** the author: "1. yes"): the double's line and the cut thought, "At midday." for "That morning.", and "any more" for "anymore". They're changes 34–37 in `Chapter Development/Volume 1/Chapter 09/Chapter 09 - Changes (round 2).md`, and the manuscript now matches the author's Word file apart from the two fixes. The chapter is 4,130 words.
 ## Chapter 10
 
 - **Seralune's chapter** (the author's Chapter 9 working design: the recovery days come "after Seralune's Chapter 10").
@@ -898,6 +900,7 @@ The plan is built in `Chapter Development/Volume 1/Chapter 04/Chapter 04 - Desig
   5. In the fall during the carry, she lets go of the wrists to brace, keeps her injured forearm under Nereth's knee, and shields Nereth's head with her good hand.
   6. At the sea: "She looked round as though she might find her standing there to see it."
   - The chapter is finished at 8,703 words. This branch's records were merged into main afterwards (6 October), keeping main's text.
+- **After the volume review (10 October),** the author: "2. yes". Five trims to how the walk marks time, from the other workspace's response, with Claude's one wording change (Seralune "didn't let herself think", not "trying not to think"). They're in `Chapter Development/Volume 1/Chapter 10/Chapter 10 - Changes (volume review).md`, a new list from the chapter as it stood (saved as Draft 2). The first return to the pillar is also a point-of-view fix: she sees their prints, then looks up at the pillar. Vague time in the narration goes from eleven to six, and the six that stay are mostly the ones that carry fear, such as the silence after she calls to the voice and the wait for Nereth's breath after the blast. The chapter is 8,650 words.
 
 ## Alaric
 

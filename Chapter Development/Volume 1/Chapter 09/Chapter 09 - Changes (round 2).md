@@ -1,11 +1,11 @@
 # Chapter 9: Changes (round 2)
 
-2 October 2026. Changes after the five passes, made from `Chapter Development/Volume 1/Chapter 09/Drafts/Chapter 09 - Refuge (Draft 2, after five passes).md`. The author is reading the chapter through with Claude; this round has the name Rhose and the speaker tags. Marta's questions at the door, Alaric's self-blame and the two versions of the room exchange are waiting on the author (`Chapter 09 - Design.md`, round 9).
+2 October 2026. Changes after the five passes, made from `Chapter Development/Volume 1/Chapter 09/Drafts/Chapter 09 - Refuge (Draft 2, after five passes).md`. The author is reading the chapter through with Claude; this round has the name Rhose and the speaker tags. Marta's questions at the door, Alaric's self-blame and the two versions of the room exchange are waiting on the author (`Chapter 09 - Design.md`, round 9). **10 October:** after the volume review, four more (changes 34–37): the midday answer, house style, and the double's line and cut thought from the author's Word file of Chapters 1–10.
 
 ## At a glance
 
-- **33 changes proposed.** 0 rejected so far, so 33 are in the chapter: 33 rewritten, 0 cut and 0 added.
-- **Length:** 4,018 words before, 4,132 after.
+- **37 changes proposed.** 0 rejected so far, so 37 are in the chapter: 36 rewritten, 1 cut and 0 added.
+- **Length:** 4,018 words before, 4,130 after.
 - **Median paragraph:** 10 words before, 11 after. The house target is roughly 14–22.
 - **"Nothing":** 4 times before, 4 after.
 
@@ -50,6 +50,10 @@ Each of these needs a yes or no from you. It adds something about a character or
 - **Change 31, Silas in the lane:** The author, 2 October: "apply 1-8".
 - **Change 32, The guard's answer:** The author, 2 October: "apply 1-8".
 - **Change 33, More about Silas:** The author, 2 October: "apply 1-8".
+- **Change 34, At midday:** The author, 10 October: "1. yes".
+- **Change 35, Any more:** The author, 10 October: "1. yes".
+- **Change 36, The double's line:** The author, 10 October: "1. yes".
+- **Change 37, No denial:** The author, 10 October: "1. yes".
 
 ## The changes
 
@@ -379,7 +383,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 21. Rhose
 
-*Draft line 541 → revised line 549*
+*Draft line 541 → revised line 547*
 
 **Before**
 
@@ -395,7 +399,7 @@ Each of these needs a yes or no from you. It adds something about a character or
 
 #### 22. Rhose
 
-*Draft line 557 → revised line 565*
+*Draft line 557 → revised line 563*
 
 **Before**
 
@@ -686,3 +690,67 @@ Each of these needs a yes or no from you. It adds something about a character or
 **Why.** Note 5: Marta had just answered where Silas would sleep ("pay for a bed somewhere").
 
 **Your decision.** The author, 2 October: "apply 1-8".
+
+### After the volume review (10 October)
+
+#### 34. At midday
+
+*Draft line 111 → revised line 119*
+
+**Before**
+
+> "That morning."
+
+**After**
+
+> "At midday."
+
+**Why.** Chapter 1 has the sun directly overhead when Gerolt finds him, and Gerolt says "You've been senseless since midday." Found by the volume review, and proposed the same way by the other workspace's response.
+
+**Your decision.** The author, 10 October: "1. yes".
+
+#### 35. Any more
+
+*Draft line 79 → revised line 87*
+
+**Before**
+
+> "He can't. Not anymore. He—he's dead."
+
+**After**
+
+> "He can't. Not any more. He—he's dead."
+
+**Why.** House style ("any more", as in the other chapters).
+
+**Your decision.** The author, 10 October: "1. yes".
+
+#### 36. The double's line
+
+*Draft line 535 → revised line 543*
+
+**Before**
+
+> "This is who you are, Alaric."
+
+**After**
+
+> "Alaric. This is who you are."
+
+**Why.** The author's Word file of Chapters 1–10 (10 October). The other workspace's response calls this line selected; it replaces the version chosen on 2 October.
+
+**Your decision.** The author, 10 October: "1. yes".
+
+#### 37. No denial
+
+*Draft line 539 · cut*
+
+**Before**
+
+> *No. I didn't—*
+
+**After:** cut.
+
+**Why.** The author's Word file of Chapters 1–10 (10 October) drops the thought, and the other workspace's response calls its removal selected.
+
+**Your decision.** The author, 10 October: "1. yes".

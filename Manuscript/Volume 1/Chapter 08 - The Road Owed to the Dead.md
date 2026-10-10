@@ -404,8 +404,6 @@ Silas watched the inn for a moment before answering.
 
 "They could." Silas looked at him. "So she hears about them from you, before those bastards reach her door. Marta won't thank us for keeping her in the dark."
 
-After that, they waited.
-
 The singing stopped. Customers came out in a group, stood on the step saying goodnight and stayed there talking. Alaric listened for the loud voice and the tired one from the yard. He heard boots once and a shout, somewhere out towards the gate, but they didn't come any nearer.
 
 *After the round, they said. How long does a round take? They were complaining about it, so it must be a long one. Unless that was only them complaining.*

@@ -1,0 +1,69 @@
+{
+  "title": "Chapter 10: Changes after the volume review",
+  "draft": "Chapter 10 - Beneath Natharul (Draft 2, before the volume review trims).md",
+  "chapter": "../../../../Manuscript/Volume 1/Chapter 10 - Beneath Natharul.md",
+  "changes_file": "../Chapter 10 - Changes (volume review).md",
+  "intro_md": "10 October 2026. Five trims to how the walk marks time, from the volume review (`Chapter Development/Volume 1/Review of Volume 1 So Far (Chapters 1-10).md`), the other workspace's response to it, and Claude's reply (`Reply to the Recommended Changes (10 October).md`), which kept \"didn't let herself think\" in change 4. The chapter as it stood, after the author's final corrections of 6 October, is saved as Draft 2. The earlier rounds are in `Chapter 10 - Changes (combined with the Five Pass Revision).md` and `Chapter 10 - Final Corrections (6 October).md`.",
+  "glance": [
+    "Vague time in the narration (\"a long time\", \"a long while\", \"for a while\", \"some time later\"): eleven before, six after. The six that stay mostly carry fear: Nereth's shaking fingers on the binding, her look on the steps, her look at their hands, the roots, the silence after Seralune calls to the voice, and the wait for Nereth's breath after the blast."
+  ],
+  "sections": {
+    "Volume review": "After the volume review (10 October)"
+  },
+  "changes": [
+    {
+      "section": "Volume review",
+      "title": "They walked",
+      "kind": "cut",
+      "tags": [],
+      "before": "They walked for a long time.",
+      "why": "A travel line that only says time passed. The talk about the sea carries the time.",
+      "decision": "accepted",
+      "decision_note": "The author, 10 October: \"2. yes\"."
+    },
+    {
+      "section": "Volume review",
+      "title": "The first return",
+      "kind": "changed",
+      "tags": [],
+      "before": "They came to the pillar again a long time later.\n\nSeralune didn't know it at first. She only knew that she was tired and that her heels had rubbed raw in the borrowed shoes, and then Nereth stopped and lowered the lamp, and there in the silt at the foot of the pillar were their own prints: the soft soles of Seralune's shoes and Nereth's harder ones beside them, going away down the left-hand opening.",
+      "after": "Seralune's heels had rubbed raw in the borrowed shoes by the time Nereth stopped and lowered the lamp.\n\nThere in the silt were their own prints: the soft soles of Seralune's shoes and Nereth's harder ones beside them, going away down the left-hand opening.\n\nSeralune looked up at the pillar.",
+      "why": "\"They came to the pillar again a long time later. Seralune didn't know it at first.\" told the reader before she knew. Now she sees their prints, then looks up at the pillar, and her raw heels carry the time. The three returns still build: she knows the pillar after the prints, then before the lamp is lifted, then at the edge of the light.",
+      "decision": "accepted",
+      "decision_note": "The author, 10 October: \"2. yes\"."
+    },
+    {
+      "section": "Volume review",
+      "title": "The shaking lamp",
+      "kind": "changed",
+      "tags": [],
+      "before": "Seralune watched the lamp shake for a long time, and the light shake on the wall with it, so that the stones seemed to shift whenever she looked at them. Last night, with two swords a step away from her, Nereth's hands hadn't shaken at all.",
+      "after": "Seralune watched the lamp shake, and the light shake on the wall with it, so that the stones seemed to shift whenever she looked at them. Last night, with two swords a step away from her, Nereth's hands hadn't shaken at all.",
+      "why": "The comparison with her steady hands before the guards gives the paragraph its meaning; the time adds nothing.",
+      "decision": "accepted",
+      "decision_note": "The author, 10 October: \"2. yes\"."
+    },
+    {
+      "section": "Volume review",
+      "title": "Before \"Say it to my face\"",
+      "kind": "changed",
+      "tags": [],
+      "before": "She didn't offer again, or say anything else, because it seemed safest not to. She walked behind the light and didn't let herself think about the water or the pillar or how far down they might have come, and she had been quiet for a long time when Nereth stopped ahead of her.",
+      "after": "She didn't offer again, or say anything else, because it seemed safest not to. She walked behind the light and didn't let herself think about the water or the pillar or how far down they might have come.\n\nNereth stopped ahead of her.",
+      "why": "Her silence is already on the page (\"She didn't offer again, or say anything else\"), and her own line, \"I haven't opened my mouth since you shouted at me\", proves it, so the time phrase can go. \"Didn't let herself think\" stays: it's Seralune holding herself in, where the response's \"trying not to think\" could be anyone.",
+      "decision": "accepted",
+      "decision_note": "The author, 10 October: \"2. yes\"."
+    },
+    {
+      "section": "Volume review",
+      "title": "More light",
+      "kind": "changed",
+      "tags": [],
+      "before": "Some time later there was more light than the lamp's.",
+      "after": "There was more light than the lamp's.",
+      "why": "The next paragraph shows the flame in Nereth's hand. The scene needs that discovery, not another stretch of time.",
+      "decision": "accepted",
+      "decision_note": "The author, 10 October: \"2. yes\"."
+    }
+  ]
+}
