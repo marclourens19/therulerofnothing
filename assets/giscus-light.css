@@ -1,0 +1,61 @@
+/* The Ruler of Nothing: giscus comments in the site's day colours.
+   giscus loads this file itself; site.js points it here. */
+@import url("https://giscus.app/themes/light.css");
+@import url("https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&family=IM+Fell+English+SC&display=swap");
+
+main {
+  --color-fg-default: #2E2620;
+  --color-fg-muted: #6B5E4E;
+  --color-fg-subtle: #6B5E4E;
+  --color-canvas-default: #FFFFFF;
+  --color-canvas-overlay: #FFFFFF;
+  --color-canvas-inset: #FBF8F4;
+  --color-canvas-subtle: #FBF8F4;
+  --color-border-default: #DED7CB;
+  --color-border-muted: #EEE8DD;
+  --color-neutral-muted: rgb(201 187 160 / 25%);
+  --color-accent-fg: #7A2418;
+  --color-accent-emphasis: #7A2418;
+  --color-accent-muted: rgb(122 36 24 / 35%);
+  --color-accent-subtle: #F5EDE6;
+  --color-btn-text: #1F1914;
+  --color-btn-bg: #FFFFFF;
+  --color-btn-border: #DED7CB;
+  --color-btn-hover-bg: #F5EDE6;
+  --color-btn-hover-border: #C9BBA0;
+  --color-btn-active-bg: #F5EDE6;
+  --color-btn-active-border: #C9BBA0;
+  --color-btn-selected-bg: #F5EDE6;
+  --color-btn-primary-text: #FFFFFF;
+  --color-btn-primary-bg: #1F1914;
+  --color-btn-primary-border: #1F1914;
+  --color-btn-primary-hover-bg: #7A2418;
+  --color-btn-primary-hover-border: #7A2418;
+  --color-btn-primary-selected-bg: #7A2418;
+  --color-btn-primary-disabled-text: rgb(255 255 255 / 85%);
+  --color-btn-primary-disabled-bg: #9A8F84;
+  --color-btn-primary-disabled-border: #9A8F84;
+  --color-segmented-control-bg: #FBF8F4;
+  --color-segmented-control-button-bg: #FFFFFF;
+  --color-segmented-control-button-selected-border: #C9BBA0;
+  --color-scale-gray-1: #FBF8F4;
+  --color-scale-blue-1: #F5EDE6;
+  --color-social-reaction-bg-hover: #FBF8F4;
+  --color-social-reaction-bg-reacted-hover: #F5EDE6;
+  font-family: Cardo, Georgia, serif;
+}
+
+main .markdown,
+main .gsc-comment-box-textarea,
+main .gsc-reply-box button,
+main .gsc-comment-box-tabs,
+main .btn { font-family: Cardo, Georgia, serif; }
+main .markdown { font-size: 16px; line-height: 1.6; }
+main .gsc-comments-count h2,
+main .gsc-left-header,
+main .gsc-reactions-count { font-family: "IM Fell English SC", Georgia, serif; font-weight: 400; }
+
+/* Links and pictures inside comments can't be clicked or seen.
+   The comment filter in .github/moderation deletes them anyway; this covers the minute before it runs. */
+main .markdown a { pointer-events: none; color: inherit; text-decoration: none; }
+main .markdown img { display: none; }
